@@ -1,0 +1,87 @@
+arduino-core-avr
+avarice
+avr-libc
+avrp
+binutils-avr
+bossa
+libnxt
+s51dude
+simulavr
+uisp
+
+btfs (mount bit torrent filesystems)
+
+fuse
+fuse-convmvfs
+fuse-emulator
+fuse-emulator-utils
+fuse-emulator-sdl
+fuse-overlayfs
+fuse-zip
+fuse2fs
+fuse3
+fusefile
+fuseext2
+fuseiso
+fuseiso9660
+
+Bitcoin apt searches:
+base58
+libsec256k{,-2,-dev}
+bruteforce-wallet
+trezor
+sherlock
+python3-{bip32utils,bitcoinlib,btchip,mnemonic,electrum,stdnum}
+
+aldo (morse code training)
+
+abacas (genome alignment error correction)
+atac (genome asm-to-asm)
+acpi-support
+augeas-doc
+augeas-lenses
+
+drm-info
+assetfinder / amazon* / aws* (from apt search aws logs)
+bsdextrautils (4.4BSD-Lite)
+gobjc
+libccrtp{,-doc,-dev,2t64}
+libispcrt1 (Intel Implicit SPMD Program Compiler runtime library - ISP usage)
+python3-{awscrt,loclfile}
+r-cran-psyphy
+abi-tracker
+abicheck
+a2ps (GNU everything to PS converter / printer)
+aapt (android assets)
+arch-test
+awscli
+bowtie,bowtie2,bowtie-examples
+c2x
+biosyntax
+cif-tools
+fpga-icestorm-chipdb
+libcpdb2t64,libcpdb-libs-tools (PDB files ~~~ Common Print Dialog Backends)
+mkbootimg,skales
+bilibop-rules,android-udev-rules
+br2684ctl
+bluez-hcidump
+cddl,python3-pycddl,librust-cddl-dev,libcdd{-tools,-doc},libcdd0t64 [cp. 2t64 suffixes] (convex polytopes library, also CD/disk-logo-art refs - cf. cdd (not cddl apt); biology/chem structs?)
+awardeco 
+biosig-tools
+biosquid
+abpoa
+afio (archive file manip)
+acme
+alsa-ucm-conf,alsa-topology-conf
+
+srecord,libsrecord{-dev,0t64}
+node-esrecurse (ECMA script AST visitor)
+dnsrecon
+forensics-all (Debian Forensics Environment)
+python3-psrecord
+
+atm-tools
+arduino-mighty-1284p
+
+
+

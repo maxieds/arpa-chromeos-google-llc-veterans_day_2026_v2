@@ -1,0 +1,14 @@
+#!/bin/sh
+if base=$(readlink "$0" 2>/dev/null); then
+  case $base in
+  /*) base=$(readlink -f "$0" 2>/dev/null);; # if $0 is abspath symlink, make symlink fully resolved.
+  *)  base=$(dirname "$0")/"${base}";;
+  esac
+else
+  case $0 in
+  /*) base=$0;;
+  *)  base=${PWD:-`pwd`}/$0;;
+  esac
+fi
+basedir=${base%/*}
+LD_ARGV0_REL="../bin/sommelier" exec   "${basedir}/../lib/ld-linux-aarch64.so.1"   --argv0 "$0"      --library-path "${basedir}/../lib"   --inhibit-rpath ''   "${base}.elf"   "$@"

@@ -1,0 +1,272 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+arch-test/stable 0.22-1 all
+  detect architectures supported by your machine/kernel
+
+binutils-hppa-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for hppa-linux-gnu target
+
+binutils-hppa-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for hppa-linux-gnu target (debug symbols)
+
+cpp-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for hppa-linux-gnu
+
+cpp-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for hppa-linux-gnu
+
+cpp-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the hppa architecture
+
+dietlibc-dev/stable 0.34~cvs20160606-18 arm64
+  diet libc - a libc optimized for small size
+
+dietlibc-doc/stable 0.34~cvs20160606-18 all
+  diet libc documentation - a libc optimized for small size
+
+dustmite/stable 0.0.430-2.1+b1 arm64
+  Tool for minimizing D source code
+
+g++-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C++ compiler for hppa-linux-gnu architecture
+
+g++-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C++ compiler for hppa-linux-gnu architecture
+
+g++-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C++ compiler for the hppa architecture
+
+gcc-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the hppa-linux-gnu architecture
+
+gcc-13-hppa-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-plugin-dev-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the hppa-linux-gnu architecture
+
+gcc-14-hppa-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-plugin-dev-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the hppa architecture
+
+gdc-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the hppa-linux-gnu architecture
+
+gdc-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the hppa-linux-gnu architecture
+
+gdc-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the hppa architecture
+
+gfortran-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the hppa-linux-gnu architecture
+
+gfortran-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the hppa-linux-gnu architecture
+
+gfortran-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the hppa architecture
+
+gm2-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the hppa-linux-gnu architecture
+
+gm2-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the hppa-linux-gnu architecture
+
+gm2-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the hppa architecture
+
+gnat-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the hppa-linux-gnu architecture
+
+gnat-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the hppa-linux-gnu architecture
+
+gobjc++-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the hppa-linux-gnu architecture
+
+gobjc++-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the hppa-linux-gnu architecture
+
+gobjc++-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the hppa architecture
+
+gobjc-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the hppa-linux-gnu architecture
+
+gobjc-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the hppa-linux-gnu architecture
+
+gobjc-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the hppa architecture
+
+golang-github-k0swe-wsjtx-go-dev/stable 4.0.1-2 all
+  Golang binding for the WSJT-X amateur radio software's UDP interface (library)
+
+libargparse-dev/stable 3.2-1 arm64
+  parsing command-line arguments in C++
+
+libatomic1-hppa-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libc6-dev-hppa-cross/stable 2.41-11cross1 all
+  GNU C Library: Development Libraries and Header Files (for cross-compiling)
+
+libc6-hppa-cross/stable 2.41-11cross1 all
+  GNU C Library: Shared libraries (for cross-compiling)
+
+libcarrotsearch-hppc-java/stable 0.7.2-2 all
+  High Performance Primitive Collections for Java
+
+libgcc-12-dev-hppa-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-hppa-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-hppa-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-s4-hppa-cross/stable 14.2.0-19cross1 all
+  GCC support library (hppa)
+
+libgfortran-12-dev-hppa-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Fortran applications (development files)
+
+libgfortran-13-dev-hppa-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Fortran applications (development files)
+
+libgfortran-14-dev-hppa-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Fortran applications (development files)
+
+libgfortran5-hppa-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Fortran applications
+
+libgm2-12-dev-hppa-cross/stable 12.4.0-5cross1 all
+  GNU Modula-2 standard library
+
+libgm2-13-dev-hppa-cross/stable 13.3.0-16cross1 all
+  GNU Modula-2 standard library
+
+libgm2-14-dev-hppa-cross/stable 14.2.0-19cross1 all
+  GNU Modula-2 standard library
+
+libgm2-17-hppa-cross/stable 12.4.0-5cross1 all
+  GNU Modula-2 standard library (runtime library)
+
+libgm2-18-hppa-cross/stable 13.3.0-16cross1 all
+  GNU Modula-2 standard library (runtime library)
+
+libgm2-19-hppa-cross/stable 14.2.0-19cross1 all
+  GNU Modula-2 standard library (runtime library)
+
+libgnat-12-hppa-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-hppa-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-hppa-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgomp1-hppa-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgphobos-12-dev-hppa-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-hppa-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-hppa-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos3-hppa-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-hppa-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-hppa-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libhppcrt-java/stable 0.7.5-2 all
+  High Performance Primitive Collections RealTime
+
+libhpptools-dev/stable 1.1.1-5 all
+  various C++ header tools
+
+libmapbox-geometry-dev/stable 2.0.3-1 all
+  Generic C++ interfaces for geometry types, collections, and features
+
+libobjc-12-dev-hppa-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Objective-C applications (development files)
+
+libobjc-13-dev-hppa-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Objective-C applications (development files)
+
+libobjc-14-dev-hppa-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Objective-C applications (development files)
+
+libobjc4-hppa-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Objective-C applications
+
+libstdc++-12-dev-hppa-cross/stable 12.4.0-5cross1 all
+  GNU Standard C++ Library v3 (development files) (hppa)
+
+libstdc++-12-pic-hppa-cross/stable 12.4.0-5cross1 all
+  GNU Standard C++ Library v3 (shared library subset kit) (hppa)
+
+libstdc++-13-dev-hppa-cross/stable 13.3.0-16cross1 all
+  GNU Standard C++ Library v3 (development files) (hppa)
+
+libstdc++-13-pic-hppa-cross/stable 13.3.0-16cross1 all
+  GNU Standard C++ Library v3 (shared library subset kit) (hppa)
+
+libstdc++-14-dev-hppa-cross/stable 14.2.0-19cross1 all
+  GNU Standard C++ Library v3 (development files) (hppa)
+
+libstdc++-14-pic-hppa-cross/stable 14.2.0-19cross1 all
+  GNU Standard C++ Library v3 (shared library subset kit) (hppa)
+
+libstdc++6-hppa-cross/stable 14.2.0-19cross1 all
+  GNU Standard C++ Library v3 (hppa)
+
+libxtensor-blas-dev/stable 0.21.0-1 all
+  an extension to xtensor offering bindings to BLAS and LAPACK
+
+linux-libc-dev-hppa-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+nlohmann-json3-dev/stable 3.11.3-2.1 all
+  JSON for Modern C++
+
+opencl-clhpp-headers/stable 3.0~2024.10.24-2 all
+  C++ headers for OpenCL development
+
+opencl-clhpp-headers-doc/stable 3.0~2024.10.24-2 all
+  documentation for C++ OpenCL headers
+
+phppgadmin/stable 7.14.7+dfsg-1 all
+  web-based administration tool for PostgreSQL
+
+printer-driver-postscript-hp/stable 3.22.10+dfsg0-8.1 arm64
+  HP Printers PostScript Descriptions
+
+qemu-system-misc/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (miscellaneous)
+
+xtensor-blas-doc/stable 0.21.0-1 all
+  documentation for xtensor-blas
+

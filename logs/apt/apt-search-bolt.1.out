@@ -1,0 +1,89 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+apbs/stable 3.4.1-6+b3 arm64
+  Adaptive Poisson Boltzmann Solver
+
+apbs-data/stable 3.4.1-6 all
+  data files for APBS (Adaptive Poisson Boltzmann Solver)
+
+apbs-doc/stable 3.4.1-6 all
+  Adaptive Poisson Boltzmann Solver
+
+bolt/stable 0.9.8-1+b1 arm64
+  system daemon to manage thunderbolt 3 devices
+
+bolt-18/stable 1:18.1.8-18+b1 arm64
+  Post-link optimizer
+
+bolt-19/stable 1:19.1.7-3+b1 arm64
+  Post-link optimizer
+
+bolt-lmm-example/stable 2.4.1+dfsg-2 all
+  Examples for bolt-lmm
+
+bolt-tests/stable 0.9.8-1+b1 arm64
+  system daemon to manage thunderbolt 3 devices - installed tests
+
+golang-github-bmatsuo-lmdb-go-dev/stable 1.8.0+git20170215.a14b5a3-4 all
+  Bindings for the LMDB C library
+
+golang-github-boltdb-bolt-dev/stable 1.3.1-7.1 all
+  low-level key/value database for Go
+
+golang-github-coreos-bbolt-dev/stable 1.3.10-2 all
+  low-level key/value database for Go, especially CoreOS's etcd
+
+golang-github-hashicorp-raft-boltdb-dev/stable 0.0~git20171010.6e5ba93-3 all
+  Raft backend implementation using BoltDB
+
+golang-github-nebulouslabs-bolt-dev/stable 1.0+git20170823.0.a22e934-1.1 all
+  low-level key/value database for Go
+
+golang-github-smallstep-nosql-dev/stable 0.3.8-3 all
+  abstraction layer for data persistency written in golang
+
+libapbs-dev/stable 3.4.1-6+b3 arm64
+  Adaptive Poisson Boltzmann Solver
+
+libapbs3t64/stable 3.4.1-6+b3 arm64
+  Adaptive Poisson Boltzmann Solver
+
+libbolt-18-dev/stable 1:18.1.8-18+b1 arm64
+  Post-link optimizer
+
+libbolt-19-dev/stable 1:19.1.7-3+b1 arm64
+  Post-link optimizer
+
+libfetk-dev/stable 3.4.1-6+b3 arm64
+  FETK libraries for APBS (development headers)
+
+libfetk1.9t64/stable 3.4.1-6+b3 arm64
+  FETK libraries for APBS (shared libraries)
+
+plasma-thunderbolt/stable 6.3.4-1 arm64
+  Plasma addons for managing Thunderbolt devices
+
+python3-apbslib/stable 3.4.1-6+b3 arm64
+  Adaptive Poisson Boltzmann Solver
+
+python3-boltons/stable 25.0.0-1 all
+  set of pure-Python utilities (Python 3)
+
+python3-py-dormakaba-dkey/stable 1.0.5-2 all
+  Library to interact with Dormakaba dKey locks via Bluetooth
+
+ruby-symboltable/stable 1.0.2-2 all
+  symbols-only hash for Ruby
+
+slang-gsl/stable 0.10.0~pre.6-1 arm64
+  GNU Scientific Library binding for S-Lang
+
+thunderbolt-tools/stable 0.9.3-7+b1 arm64
+  Intel Thunderbolt userspace components
+
+xsynth-dssi/stable 0.9.4-4+b2 arm64
+  classic-analog (VCOs-VCF-VCA) style software synthesizer
+

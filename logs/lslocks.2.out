@@ -1,0 +1,14 @@
+COMMAND           PID  TYPE SIZE MODE  M START END PATH
+pipewire          403 FLOCK      WRITE 0     0   0 /run/user/1000/pipewire-0.lock
+pipewire          403 FLOCK      WRITE 0     0   0 /run/user/1000/pipewire-0-manager.lock
+ld-linux-aarch6   475 FLOCK      WRITE 0     0   0 /run/user/1000/DISPLAY-:1-wl.lock
+ld-linux-aarch6   482 FLOCK      WRITE 0     0   0 /run/user/1000/wayland-1.lock
+ld-linux-aarch6   480 FLOCK      WRITE 0     0   0 /run/user/1000/DISPLAY-:0-wl.lock
+ld-linux-aarch6   476 FLOCK      WRITE 0     0   0 /run/user/1000/wayland-0.lock
+COMMAND PID TYPE SIZE MODE M START END PATH
+pipewire 403 FLOCK  WRITE 0 0 0 /run/user/1000/pipewire-0.lock
+pipewire 403 FLOCK  WRITE 0 0 0 /run/user/1000/pipewire-0-manager.lock
+ld-linux-aarch6 475 FLOCK  WRITE 0 0 0 /run/user/1000/DISPLAY-:1-wl.lock
+ld-linux-aarch6 482 FLOCK  WRITE 0 0 0 /run/user/1000/wayland-1.lock
+ld-linux-aarch6 480 FLOCK  WRITE 0 0 0 /run/user/1000/DISPLAY-:0-wl.lock
+ld-linux-aarch6 476 FLOCK  WRITE 0 0 0 /run/user/1000/wayland-0.lock

@@ -1,0 +1,59 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+bmake/stable 20200710-17 arm64
+  NetBSD make
+
+fwanalog/stable 0.6.9-11 all
+  firewall log-file report generator (using analog)
+
+golang-github-tklauser-go-sysconf-dev/stable 0.3.11-1 all
+  sysconf for Go, without using cgo (library)
+
+golang-github-tklauser-numcpus-dev/stable 0.3.0-2 all
+  Go module to get the number of CPUs (library)
+
+gpart/stable 1:0.3-10+b1 arm64
+  Guess PC disk partition table, find lost partitions
+
+gxemul/stable 0.7.0+dfsg-2 arm64
+  machine emulator for multiple architectures
+
+libnbcompat-dev/stable 20240319-1 arm64
+  NetBSD pkgsrc compatibility library
+
+lua-ljsyscall/stable 0.12-1.1 all
+  Unix system calls for LuaJIT
+
+makefs/stable 20190105-3+b1 arm64
+  create a cd9660 or ffs filesystem image from a directory tree
+
+mk-configure/stable 0.37.0-2 all
+  lightweight replacement for GNU autotools
+
+mtree-netbsd/stable 20180822-9 arm64
+  Validates directory tree against specification
+
+multiboot/stable 0.6.96+20101113-3 all
+  The Multiboot specification
+
+pimd/stable 2.3.2-4+b2 arm64
+  multicast routing daemon (PIMv2)
+
+rbootd/stable 3.3 arm64
+  Remote Boot Daemon
+
+testdisk/stable 7.2-0.1 arm64
+  Partition scanner and disk recovery tool, and PhotoRec file recovery tool
+
+tnftp/stable 20230507-2+b2 arm64
+  enhanced ftp client
+
+vacation/stable 3.3.3+b2 arm64
+  email autoresponder
+
+whohas/stable 0.29.1+git20220714.5feb1a4-1 all
+  query multiple distributions' package archives
+

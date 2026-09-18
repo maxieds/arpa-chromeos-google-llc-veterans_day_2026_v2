@@ -1,0 +1,425 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+axe-demultiplexer/stable 0.3.3+dfsg-4+b1 arm64
+  Trie-based DNA sequencing read demultiplexer
+
+biometryd-bin/stable 0.3.1-6 arm64
+  biometryd mediates/multiplexes to biometric devices - daemon/helper binaries
+
+byobu/stable 5.133-1.1 all
+  text window manager, shell multiplexer, integrated DevOps environment
+
+conmux/stable 0.12.0-4 all
+  console multiplexor
+
+cutadapt/stable 4.7-2 all
+  Clean biological sequences from high-throughput sequencing reads
+
+deblur/stable 1.1.1-4 all
+  deconvolution for Illumina amplicon sequencing
+
+dhav2mkv/stable 1.4.1-2+b1 arm64
+  DHAV video to MKV format converter
+
+dvblast/stable 3.4-1+b2 arm64
+  Simple and powerful dvb-streaming application
+
+ea-utils/stable 1.1.2+dfsg-9+b3 arm64
+  command-line tools for processing biological sequencing data
+
+flexbar/stable 1:3.5.0-5+b1 arm64
+  flexible barcode and adapter removal for sequencing platforms
+
+freedv/stable 1.8.11-1+b5 arm64
+  Digital Voice mode for ham radio
+
+g15daemon/stable 1.9.5.3-14.1+b1 arm64
+  LCD multiplexer for Logitech G15 Keyboard
+
+golang-github-bmizerany-pat-dev/stable 0.0~git20170814.6226ea5-1 all
+  Sinatra style pattern muxer for Go's net/http library
+
+golang-github-docker-spdystream-dev/stable 0.5.0-1 all
+  multiplexed stream library using spdy
+
+golang-github-gorilla-mux-dev/stable 1.8.1-1 all
+  powerful URL router and dispatcher for golang
+
+golang-github-hashicorp-yamux-dev/stable 0.1.1-1 all
+  Golang connection multiplexing library
+
+golang-github-inconshreveable-muxado-dev/stable 0.0~git20140312.0.f693c7e-2.1 all
+  Stream multiplexing for Go
+
+golang-github-influxdata-yamux-dev/stable 0.0~git20171107.1f58ded-5 all
+  Golang connection multiplexing library
+
+golang-github-julienschmidt-httprouter-dev/stable 1.3.0-2 all
+  High performance HTTP request router for Go that scales well
+
+golang-github-meowgorithm-babylogger-dev/stable 1.2.0-2 all
+  Go HTTP logger middleware
+
+golang-github-minio-mux-dev/stable 1.9.0-2 all
+  Powerful HTTP router and URL matcher for building Go web servers
+
+golang-github-mitchellh-prefixedio-dev/stable 0.0~git20190213.5733675-2 all
+  library that demultiplexes line-oriented data from an io.Reader
+
+golang-github-soheilhy-cmux-dev/stable 0.1.5-2 all
+  serve different services on the same port
+
+golang-github-xtaci-kcp-dev/stable 5.6.1-2 all
+  Full-Featured Reliable-UDP Library for golang
+
+golang-github-xtaci-smux-dev/stable 1.5.16+ds-1 all
+  Simple Multiplexing for golang
+
+golang-goji-dev/stable 2.0.2-2 all
+  minimalistic and flexible HTTP request multiplexer for Go
+
+gstreamer1.0-pipewire/stable 1.4.2-1 arm64
+  GStreamer 1.0 plugin for the PipeWire multimedia server
+
+hddemux/stable 0.5-1.1+b1 arm64
+  HTTP/1.x and DNS demultiplexer
+
+inputattach/stable 1:1.8.1-2+b2 arm64
+  utility to connect serial-attached peripherals to the input subsystem
+
+ip2host/stable 1.13-2.1 all
+  Resolve IPs to hostnames in web server logs
+
+jugglinglab/stable 0.6.2+ds.1-2.1 all
+  Application for creating and animating juggling patterns
+
+libace-8.0.2/stable 8.0.2+dfsg-2 arm64
+  C++ network programming framework
+
+libavformat-dev/stable 7:7.1.5-0+deb13u1 arm64
+  FFmpeg library with (de)muxers for multimedia containers - development files
+
+libavformat-extra61/stable 7:7.1.5-0+deb13u1 arm64
+  FFmpeg library with additional (de)muxers for multimedia containers
+
+libavformat61/stable 7:7.1.5-0+deb13u1 arm64
+  FFmpeg library with (de)muxers for multimedia containers - runtime files
+
+libbiometry-dev/stable 0.3.1-6 arm64
+  biometryd mediates/multiplexes to biometric devices - development headers
+
+libbiometry1/stable 0.3.1-6 arm64
+  biometryd mediates/multiplexes to biometric devices - runtime library
+
+libcf-ocaml/stable 0.10-8+b2 arm64
+  OCaml library with miscellaneous utility functions
+
+libcf-ocaml-dev/stable 0.10-8+b2 arm64
+  OCaml library with miscellaneous utility functions
+
+libcohttp-lwt-ocaml/stable 5.3.0-1+b23 arm64
+  CoHTTP implementation using the Lwt concurrency library (runtime)
+
+libcohttp-lwt-ocaml-dev/stable 5.3.0-1+b23 arm64
+  CoHTTP implementation using the Lwt concurrency library (dev)
+
+libio-epoll-perl/stable 0.03-3+b5 arm64
+  Perl interface to the Epoll IO Multiplexing subsystem
+
+libio-multiplex-perl/stable 1.16-3 all
+  object-oriented interface to select() for Perl
+
+libio-tee-perl/stable 0.66-2 all
+  module for multiplexing output to multiple output handles
+
+liblibleidenalg-dev/stable 0.11.1-2+b3 arm64
+  implementation of the Leiden algorithm in C++ - headers
+
+liblibleidenalg1/stable 0.11.1-2+b3 arm64
+  implementation of the Leiden algorithm in C++ - library
+
+liblinux-epoll-perl/stable 0.019-1+b2 arm64
+  perl epoll module for O(1) multiplexing
+
+libnet-openssh-perl/stable 0.84-1 all
+  Perl SSH client package implemented on top of OpenSSH
+
+libnet-proxy-perl/stable 0.13-2 all
+  framework for proxying network connections in many ways
+
+libnet-server-perl/stable 2.014-1 all
+  extensible, general perl server engine
+
+libola-dev/stable 0.10.9.nojsmin-7.1 arm64
+  Open Lighting Architecture - development libraries
+
+libola1t64/stable 0.10.9.nojsmin-7.1 arm64
+  Open Lighting Architecture - shared libraries
+
+liboop-dev/stable 1.0.1-4+b1 arm64
+  Event loop management library - development files
+
+liboop-doc/stable 1.0.1-4 all
+  Event loop management library - documentation
+
+liboop4t64/stable 1.0.1-4+b1 arm64
+  Event loop management library
+
+libortp-dev/stable 1:5.3.105-1 arm64
+  Development files for the ortp RTP library
+
+libortp-doc/stable 1:5.3.105-1 all
+  oRTP API documentation
+
+libortp16/stable 1:5.3.105-1 arm64
+  Real-time Transport Protocol (RTP) stack
+
+libosmoisdn0/stable 1.11.0-2 arm64
+  Osmo ISDN utility library
+
+libpipewire-0.3-0t64/stable,now 1.4.2-1 arm64 [installed,automatic]
+  libraries for the PipeWire multimedia server
+
+libpipewire-0.3-common/stable 1.4.2-1 all
+  libraries for the PipeWire multimedia server - common files
+
+libpipewire-0.3-dev/stable 1.4.2-1 arm64
+  libraries for the PipeWire multimedia server - development
+
+libpipewire-0.3-modules/stable,now 1.4.2-1 arm64 [installed,automatic]
+  libraries for the PipeWire multimedia server - modules
+
+libpipewire-0.3-modules-x11/stable 1.4.2-1 arm64
+  libraries for the PipeWire multimedia server - X11 modules
+
+libpipewire-0.3-modules-xrdp/stable 0.2-2+b1 arm64
+  libraries for the PipeWire multimedia server - xrdp modules
+
+librust-isahc-dev/stable 1.7.2+ds-33 all
+  practical HTTP client that is fun to use - Rust source code
+
+librust-linemux-dev/stable 0.3.0-8 all
+  asynchronous, multiplexed file tailing - Rust source code
+
+librust-yamux-dev/stable 0.13.3-4 all
+  multiplexer over reliable, ordered connections - Rust source code
+
+libserf-1-1/stable,now 1.3.10-3+b1 arm64 [installed,automatic]
+  high-performance asynchronous HTTP client library
+
+libserf-dev/stable 1.3.10-3+b1 arm64
+  high-performance asynchronous HTTP client library headers
+
+libspa-0.2-bluetooth/stable 1.4.2-1 arm64
+  libraries for the PipeWire multimedia server - bluetooth plugins
+
+libspa-0.2-dev/stable 1.4.2-1 arm64
+  libraries for the PipeWire multimedia server Simple Plugin API - development
+
+libspa-0.2-jack/stable 1.4.2-1 arm64
+  libraries for the PipeWire multimedia server - JACK client
+
+libspa-0.2-libcamera/stable 1.4.2-1 arm64
+  libraries for the PipeWire multimedia server - libcamera plugin
+
+libspa-0.2-modules/stable,now 1.4.2-1 arm64 [installed,automatic]
+  libraries for the PipeWire multimedia server Simple Plugin API - modules
+
+libtaktuk-1-dev/stable 3.7.7-3.1+b1 arm64
+  C bindings for taktuk (development files)
+
+libtaktuk-perl/stable 3.7.7-3.1 all
+  Perl bindings for taktuk
+
+libtaktuk3t64/stable 3.7.7-3.1+b1 arm64
+  C bindings for taktuk
+
+libusbmuxd-2.0-7/stable 2.1.0-1+b1 arm64
+  Client library to handle usbmux connections with iOS devices (library)
+
+libusbmuxd-dev/stable 2.1.0-1+b1 arm64
+  Client library to handle usbmux connections with iOS devices (devel)
+
+libusbmuxd-tools/stable 2.1.0-1+b1 arm64
+  Client library to handle usbmux connections with iOS devices (tools)
+
+libxml-filter-saxt-perl/stable 0.01-9 all
+  Perl module for replicating events to several event handlers
+
+libzvbi-common/stable,now 0.2.44-1 all [installed,automatic]
+  Vertical Blanking Interval decoder (VBI) - common files
+
+libzvbi-dev/stable 0.2.44-1 arm64
+  Vertical Blanking Interval decoder (VBI) - development files
+
+libzvbi-doc/stable 0.2.44-1 all
+  Vertical Blanking Interval decoder (VBI) - documentation files
+
+libzvbi0t64/stable,now 0.2.44-1 arm64 [installed,automatic]
+  Vertical Blanking Interval decoder (VBI) - runtime files
+
+mpegdemux/stable 0.1.5-2 arm64
+  MPEG1/2 system stream demultiplexer
+
+ncdc/stable 1.23.1-1+b2 arm64
+  file sharing program using Direct Connect protocols
+
+ocl-icd-libopencl1/stable,now 2.3.3-1 arm64 [installed,automatic]
+  Generic OpenCL ICD Loader
+
+odr-dabmux/stable 5.1.0+ds-1 arm64
+  Digital Audio Broadcasting multiplexer compliant to ETSI EN 300 401
+
+oggvideotools/stable 0.9.1-7+b1 arm64
+  toolbox for manipulating and creating Ogg video files
+
+ola/stable 0.10.9.nojsmin-7.1 arm64
+  Open Lighting Architecture
+
+ola-python/stable 0.10.9.nojsmin-7.1 all
+  Open Lighting Architecture - Python Classes
+
+ola-rdm-tests/stable 0.10.9.nojsmin-7.1 all
+  Open Lighting Architecture - RDM Responder Tests
+
+omins/stable 0.2.0-8+b1 arm64
+  collection of LADSPA plugins aimed at modular synthesizers
+
+osmo-bts/stable 1.9.0+dfsg1-2 arm64
+  Base Transceiver Station for GSM
+
+osmo-trx/stable 1.7.1-1 arm64
+  SDR transceiver that implements Layer 1 of a GSM BTS
+
+paleomix/stable 1.3.8-2 arm64
+  pipelines and tools for the processing of ancient and modern HTS data
+
+pipewire/stable,now 1.4.2-1 arm64 [installed]
+  audio and video processing engine multimedia server
+
+pipewire-alsa/stable 1.4.2-1 arm64
+  PipeWire ALSA plugin, for ALSA applications to output via PipeWire
+
+pipewire-audio/stable 1.4.2-1 all
+  recommended set of PipeWire packages for a standard audio desktop use
+
+pipewire-bin/stable,now 1.4.2-1 arm64 [installed,automatic]
+  PipeWire multimedia server - programs
+
+pipewire-doc/stable 1.4.2-1 all
+  libraries for the PipeWire multimedia server - documentation
+
+pipewire-jack/stable 1.4.2-1 arm64
+  PipeWire JACK plugin, for JACK applications to output via PipeWire
+
+pipewire-pulse/stable,now 1.4.2-1 arm64 [installed]
+  PipeWire PulseAudio daemon
+
+pipewire-tests/stable 1.4.2-1 arm64
+  PipeWire multimedia server - tests and examples
+
+pipewire-v4l2/stable 1.4.2-1 arm64
+  PipeWire V4L2 plugin
+
+plymouth/stable 24.004.60-5 arm64
+  boot animation, logger and I/O multiplexer
+
+plymouth-label/stable 24.004.60-5 arm64
+  boot animation, logger and I/O multiplexer - label control
+
+plymouth-theme-hamara/stable 1.0+nmu1 all
+  boot animation, logger and I/O multiplexer - Hamara theme
+
+plymouth-theme-mobian/stable 1.1 all
+  boot animation, logger and I/O multiplexer - Mobian theme
+
+plymouth-theme-phosh/stable 0.42.0-1 all
+  boot animation, logger and I/O multiplexer - Phosh theme
+
+plymouth-themes/stable 24.004.60-5 arm64
+  boot animation, logger and I/O multiplexer - themes
+
+plymouth-x11/stable 24.004.60-5 arm64
+  boot animation, logger and I/O multiplexer - X11 renderer
+
+porechop/stable 0.2.4+dfsg-6+b2 arm64
+  adapter trimmer for Oxford Nanopore reads
+
+python3-cutadapt/stable 4.7-2+b4 arm64
+  Clean biological sequences from high-throughput sequencing reads (Python 3)
+
+python3-leidenalg/stable 0.10.2-3 arm64
+  Python3 implementation of the Leiden algorithm in C++
+
+python3-snitun/stable 0.42.0-1 all
+  End-to-End encryption with SNI proxy on top of a TCP multiplexer
+
+qcat/stable 1.1.0-7 all
+  demultiplexing Oxford Nanopore reads from FASTQ files
+
+qcat-examples/stable 1.1.0-7 all
+  demultiplexing Oxford Nanopore reads from FASTQ files (examples)
+
+qml-module-biometryd/stable 0.3.1-6 arm64
+  biometryd mediates/multiplexes to biometric devices - QML bindings
+
+r-cran-samr/stable 3.0-2+b1 arm64
+  GNU R significance analysis of microarrays
+
+ruby-async-pool/stable 0.3.12-1 all
+  singleplex and multiplex resource pool for implementing robust clients
+
+ruby-http-2/stable 0.11.0-1 all
+  Pure-ruby HTTP 2.0 protocol implementation
+
+screen/stable 4.9.1-3 arm64
+  terminal multiplexer with VT100/ANSI terminal emulation
+
+sd-mux-ctrl/stable 0.0.3-3+b2 arm64
+  Tool for controlling multiple sd-mux devices
+
+sic/stable 1.1-5+b2 arm64
+  simple irc client (sic)
+
+skewer/stable 0.2.2-6+b2 arm64
+  post-processing of high-throughput DNA sequence reads
+
+slt/stable 0.0.git20140301-6+b20 arm64
+  TLS reverse-proxy with SNI multiplexing (TLS virtual hosts)
+
+sslh/stable 2.1.4-1+b1 arm64
+  Applicative protocol multiplexer
+
+startpar/stable 0.66-1 arm64
+  run processes in parallel and multiplex their output
+
+stterm/stable 0.9.2-1 arm64
+  simple terminal emulator for X
+
+systemd-userdbd/stable 257.13-1~deb13u1 arm64
+  dynamic user/group manager
+
+taktuk/stable 3.7.7-3.1 all
+  efficient, large scale, parallel remote execution of commands
+
+tcllib/stable 2.0+dfsg-4 all
+  Standard Tcl Library
+
+tmate/stable 2.4.0-3+b1 arm64
+  terminal multiplexer with instant terminal sharing
+
+tmate-ssh-server/stable 2.3.0-68-gd7334ee4-2+b1 arm64
+  terminal multiplexer with instant terminal sharing -- server
+
+tmux/stable 3.5a-3 arm64
+  terminal multiplexer
+
+usbmuxd/stable 1.1.1-6+deb13u1 arm64
+  USB multiplexor daemon for iPhone and iPod Touch devices
+
+xlax/stable 2.4-2+b4 arm64
+  send keyboard input to multiple X11 windows
+

@@ -1,0 +1,623 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+achilles/stable 2-13 arm64
+  Artificial life and evolution simulator
+
+adr-tools/stable 3.0.0-2 all
+  tools for working with a log of Architecture Decision Records
+
+ax25mail-utils/stable 0.15-1+b2 arm64
+  hamradio packet utilities for fbb
+
+bibcursed/stable 2.0.1-0.2 arm64
+  Interactive program to edit BibTeX bibliographies
+
+biogenesis/stable 0.8-3.2 all
+  artificial life program that simulates evolution of organisms
+
+bleachbit/stable 4.6.2-2 all
+  delete unnecessary files from the system
+
+blends-dev/stable 0.7.10 all
+  Debian Pure Blends common files for developing metapackages
+
+blobwars/stable 2.00-6 arm64
+  platform shooting game
+
+blobwars-data/stable 2.00-6 all
+  platform shooting game (data)
+
+bootcd/stable 6.8.2 all
+  bootcd tools can copy a running or mounted Debian system.
+
+bumblebee/stable 3.2.1-32 arm64
+  NVIDIA Optimus support for Linux
+
+bundler/stable 2.6.7-2 all
+  Manage Ruby application dependencies
+
+calife/stable 1:3.0.1-6+b1 arm64
+  Provides super user privileges to specific users
+
+cl-dynamic-classes/stable 20130128-2.1 all
+  Common Lisp Dynamic Classes
+
+compass-toolkit-plugin/stable 2.10.2-2 all
+  toolkit of awesome Sass stuff
+
+compiz/stable 2:0.8.18-8 all
+  OpenGL window and compositing manager
+
+compiz-core/stable 2:0.8.18-8 arm64
+  OpenGL window and compositing manager
+
+compiz-dev/stable 2:0.8.18-8 arm64
+  OpenGL window and compositing manager - development files
+
+compiz-gnome/stable 2:0.8.18-8 arm64
+  OpenGL window and compositing manager - Gtk window decorator
+
+compiz-mate/stable 2:0.8.18-8 arm64
+  OpenGL window and compositing manager - MATE window decorator
+
+compiz-plugins/stable 2:0.8.18-8 arm64
+  OpenGL window and compositing manager - plugins
+
+containerd/stable 1.7.24~ds1-6+deb13u1 arm64
+  open and reliable container runtime
+
+critterding/stable 1.0-beta12.1+dfsg-1 arm64
+  Evolving Artificial Life
+
+cyborg-agent/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - processor
+
+cyborg-api/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - API server
+
+cyborg-common/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - common files
+
+cyborg-conductor/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - conductor
+
+cyborg-doc/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - Documentation
+
+desktopfolder/stable 1.1.3-4 arm64
+  Organize your desktop with panels, notes and photos
+
+devscripts/stable 2.25.15+deb13u1 all
+  scripts to make the life of a Debian Package maintainer easier
+
+dracut-core/stable 106-6 arm64
+  dracut is an event driven initramfs infrastructure (core tools)
+
+dsda-doom/stable 0.29.0+dfsg-1 arm64
+  Doom source port with a focus on demo recording and speedrunning
+
+fonts-aenigma/stable 0.0.20080511+dfsg-5 all
+  465 free TrueType fonts by Brian Kent
+
+foremancli/stable 1.0-3 all
+  commandline search interface to Foreman
+
+freedroid/stable 1.2.3.apk-1 arm64
+  Clone of Paradroid - a strategic shoot-em up
+
+gkdebconf/stable 2.1.2 arm64
+  Helper to reconfigure packages with Debconf
+
+golang-filippo-edwards25519-dev/stable 1.0.0~rc1+git20210721-0.1 all
+  Low-level, Ed25519 elliptic curve library
+
+golang-github-bmatsuo-lmdb-go-dev/stable 1.8.0+git20170215.a14b5a3-4 all
+  Bindings for the LMDB C library
+
+golang-github-containerd-containerd-dev/stable 1.7.24~ds1-6+deb13u1 all
+  open and reliable container runtime (development files)
+
+golang-github-containerd-nri-dev/stable 0.6.1-2 all
+  Node Resource Interface (library)
+
+golang-github-containerd-stargz-snapshotter-dev/stable 0.14.3-4 all
+  Fast container image distribution plugin with lazy pulling (library)
+
+golang-github-joshuarubin-lifecycle-dev/stable 1.1.4-2 all
+  manage goroutines in golang applications (library)
+
+golang-github-klauspost-cpuid-dev/stable 2.2.10-1 all
+  CPU feature identification for Go
+
+golang-github-lifenjoiner-dhcpdns-dev/stable 0.0.7-1 all
+  dhcpdns is a golang package to get the DHCP DNS. (library)
+
+golang-github-muhlemmer-gu-dev/stable 0.3.1-2 all
+  Generic Utilities for the Go programming language (library)
+
+golang-github-nebulouslabs-fastrand-dev/stable 0.0~git20170512.60b6156-1 all
+  10x faster than crypto/rand
+
+golang-github-netflix-go-expect-dev/stable 0.0~git20220104.73e0943-1 all
+  expect-like golang library to automate terminal/console interactions
+
+golang-github-oklog-run-dev/stable 1.1.0-2 all
+  Universal mechanism to manage goroutine lifecycles
+
+golang-github-oleiade-reflections-dev/stable 0.1.2+git20131121.2.632977f-2 all
+  high level abstractions over Golang reflect library
+
+golang-github-sigstore-rekor-dev/stable 1.3.9-1 all
+  Software Supply Chain Transparency Log (library)
+
+golang-github-smallstep-scep-dev/stable 0.0~git20250318.a25cabb-2 all
+  Simple Certificate Enrollment Protocol (SCEP) Go tools (library)
+
+golang-github-vishvananda-netlink-dev/stable 1.3.0-2 all
+  netlink library for go
+
+golang-gopkg-tomb.v1-dev/stable 0.0~git20141024.0.dd63297-8 all
+  API to track the lifecyle of Golang goroutines, and provide clean termination
+
+golang-gopkg-tomb.v2-dev/stable 0.0~git20161208.d5d1b58-3 all
+  API to track the lifecyle of Golang goroutines, and provide clean termination
+
+golly/stable 3.3-1.1+b5 arm64
+  Game of Life simulator using hashlife algorithm
+
+gosu/stable 1.17-3+b4 arm64
+  Simple Go-based setuid+setgid+setgroups+exec
+
+gradle/stable 4.4.1-22 all
+  Powerful build system for the JVM
+
+gradle-doc/stable 4.4.1-22 all
+  Powerful build system for the JVM - Documentations
+
+hw-probe/stable 1.6.5-1 all
+  Tool to check operability of computer hardware
+
+jed-extra/stable 2.5.7-9 all
+  collection of useful Jed modes and utilities
+
+kapman/stable 4:25.04.0-1 arm64
+  Pac-Man clone
+
+libapache2-mod-encoding/stable 20040616-9 arm64
+  Apache2 module for non-ascii filename interoperability
+
+libapp-fatpacker-perl/stable 0.010008-2 all
+  module to pack dependencies onto script files
+
+libben-ocaml/stable 1.9+b3 arm64
+  OCaml libraries for Debian maintainers (runtime package)
+
+libben-ocaml-dev/stable 1.9+b3 arm64
+  OCaml libraries for Debian maintainers (development package)
+
+libbread-board-perl/stable 0.37-2 all
+  solderless way to wire up your application components
+
+libbuild-helper-maven-plugin-java/stable 3.3.0-1 all
+  Build Helper Maven Plugin
+
+libcommons-discovery-java/stable 0.5-4 all
+  Locates classes that implement a given Java interface
+
+libcopy-rename-maven-plugin-java/stable 2.0.0-2 all
+  m2e compatible maven plugin for renaming/copying
+
+libcritnib-dev/stable 1.1-2+b2 arm64
+  ordered map data structure with lock-free reads
+
+libcritnib1/stable 1.1-2+b2 arm64
+  ordered map data structure with lock-free reads
+
+libdebug0/stable 0.5.3-8+b1 arm64
+  Memory leak detection system and logging library
+
+libdebug0-dev/stable 0.5.3-8+b1 arm64
+  Development files for the debug library
+
+libgradle-core-java/stable 4.4.1-22 all
+  Powerful build system for the JVM - Core libraries
+
+libgradle-plugins-java/stable 4.4.1-22 all
+  Powerful build system for the JVM - All plugins
+
+libjakarta-cdi-api-java/stable 4.0.1-2 all
+  Jakarta Contexts and Dependency Injection API
+
+libjakarta-interceptor-api-java/stable 2.2.0-1 all
+  Jakarta Interceptors API
+
+libjdo-api-java/stable 3.1-3 all
+  Implementation of JSR 243: Java Data Objects 3.1
+
+libjs-angular-schema-form/stable 0.8.13-1.1 all
+  form generator from a JSON schema
+
+libjs-backbone.stickit/stable 0.7.0-2.1 all
+  Backbone data binding plugin that binds Model attributes to View elements
+
+libjs-d3/stable 3.5.17-4 all
+  JavaScript visualization library for HTML and SVG
+
+libjxr-dev/stable 1.2~git20170615.f752187-5.3 arm64
+  JPEG-XR lib - dev files
+
+libjxr-tools/stable 1.2~git20170615.f752187-5.3 arm64
+  JPEG-XR lib - command line apps
+
+libjxr0t64/stable 1.2~git20170615.f752187-5.3 arm64
+  JPEG-XR lib - libraries
+
+liblibrary-callnumber-lc-perl/stable 0.23-3 all
+  utility functions to deal with Library-of-Congress call numbers
+
+libmaeparser1/stable 1.3.1-1+b2 arm64
+  parser for Schrödinger Maestro files
+
+libmaven-source-plugin-java/stable 3.3.1-1 all
+  Maven Source Plugin
+
+libmetacpan-client-perl/stable 2.033000-1 all
+  MetaCPAN API client
+
+libminion-perl/stable 10.31+dfsg-2 all
+  job queue for Mojolicious
+
+libmolequeue-dev/stable 0.9.0-1+b2 arm64
+  Desktop integration of high performance computing resources (development files)
+
+libobject-id-perl/stable 0.1.2-3 all
+  unique identifier for any object
+
+libossp-uuid-dev/stable 1.6.4-1 arm64
+  OSSP uuid ISO-C and C++ - headers and static libraries
+
+libossp-uuid-perl/stable 1.6.4-1 arm64
+  perl OSSP::UUID - OSSP uuid Perl Binding
+
+libossp-uuid16/stable 1.6.4-1 arm64
+  OSSP uuid ISO-C and C++ - shared library
+
+libpf4j-java/stable 3.12.0+dfsg-1 all
+  framework to turn monolithic Java applications into modular ones
+
+libpf4j-update-java/stable 2.3.0+dfsg-5 all
+  update mechanism for Java modular applications
+
+libpicocontainer-java/stable 2.15+repack-3 all
+  Java library implementing the Dependency Injection pattern
+
+libpicocontainer1-java/stable 1.3-4 all
+  Java library implementing the Dependency Injection pattern
+
+libplexus-classworlds-java/stable 2.7.0-1 all
+  Class loading utilities for the Plexus framework
+
+libplexus-classworlds2-java/stable 2.7.0-1 all
+  Class loading utilities for the Plexus framework (transitional package)
+
+libplexus-interactivity-api-java/stable 1.3-1 all
+  interactivity API for the Plexus framework
+
+libplexus-interpolation-java/stable 1.27-1 all
+  Plexus Interpolation API
+
+libplexus-utils2-java/stable 3.4.2-1 all
+  utilities for the Plexus framework
+
+libplexus-utils2-java-doc/stable 3.4.2-1 all
+  utilities for the Plexus framework - documentation
+
+libplexus-velocity-java/stable 1.2-4 all
+  Plexus component interface to velocity
+
+libportlet-api-2.0-spec-java/stable 1.0-3 all
+  Java Portlet Specification V2.0
+
+libproc-simple-perl/stable 1.32-3 all
+  Perl interface to launch and control background processes
+
+libproperties-maven-plugin-java/stable 1.1.0-1 all
+  Maven Plugin to read and write property files from mojo.codehaus.org
+
+libqpx-dev/stable 0.8.1-2.1+b2 arm64
+  CD/DVD quality checker (development files)
+
+libqpx0t64/stable 0.8.1-2.1+b2 arm64
+  CD/DVD quality checker (shared libraries)
+
+librdf-ns-curated-perl/stable 1.006-1 all
+  curated set of RDF prefixes
+
+libre2j-java/stable 1.7+dfsg-1 all
+  RE2/J: linear time regular expression matching in Java
+
+librinci-perl/stable 1.1.104-1 all
+  module that provides a language-neutral metadata for your code
+
+librust-io-lifetimes-dev/stable 2.0.3-1 arm64
+  Low-level I/O ownership and borrowing library - Rust source code
+
+librust-lifeguard-dev/stable 0.6.1-1+b2 arm64
+  Object pool manager in Rust - Rust source code
+
+librust-regalloc2-dev/stable 0.10.2-4 all
+  backtracking register allocator - Rust source code
+
+libtagsoup-java/stable 1.2.1+-2 all
+  SAX-compliant parser for real-life HTML
+
+libtie-simple-perl/stable 1.04-4 all
+  simple way to tie Perl variables
+
+libtrapperkeeper-metrics-clojure/stable 1.5.0-5 all
+  Trapperkeeper Metrics Service
+
+libuuid1/stable,now 2.41-5 arm64 [installed]
+  Universally Unique ID library
+
+libvm-ec2-perl/stable 1.28-5 all
+  module providing controls on Amazon EC2 and Eucalyptus
+
+libxbean-java/stable 4.5-9 all
+  plugin based Java application server
+
+libxbean-reflect-java/stable 4.5-9 all
+  plugin based Java application server (xbean-reflect)
+
+libxml-namespacefactory-perl/stable 1.02-3 all
+  simple factory objects for SAX namespaced names
+
+libxml-writer-simple-perl/stable 0.12-2 all
+  simple API to create XML files
+
+lifelines/stable 3.0.61-5 arm64
+  text-based genealogy software
+
+lifelines-doc/stable 3.0.61-5 all
+  documentation for lifelines, a genealogy software system
+
+lifelines-doc-sv/stable 3.0.61-5 all
+  swedish documentation for lifelines, a genealogy software system
+
+lifelines-reports/stable 3.0.61-5 all
+  reports for lifelines, a genealogy software system
+
+lifeograph/stable 3.0.1-1 arm64
+  Private digital diary
+
+liferea/stable 1.15.8-2+b1 arm64
+  feed/news/podcast client with plugin support
+
+liferea-data/stable 1.15.8-2 all
+  architecture independent data for liferea
+
+lure-of-the-temptress/stable 1.1+ds3-1 all
+  classic 2D point and click fantasy adventure game
+
+mairix/stable 0.24-2+b1 arm64
+  indexes and searches locally-stored email
+
+maven-ant-helper/stable 8.9 all
+  helper scripts for building Maven components with ant
+
+med-cloud/stable 3.9.0 all
+  Debian Med bioinformatics applications usable in cloud computing
+
+memo/stable 1.7.1-5+b1 arm64
+  unix-style note-taking software
+
+molequeue/stable 0.9.0-1+b2 arm64
+  Desktop integration of high performance computing resources
+
+node-react-lifecycles-compat/stable 3.0.4+~cs3.0.1-2 all
+  Backwards compatibility polyfill for React class components
+
+opam/stable 2.3.0-1+deb13u1 arm64
+  package manager for OCaml
+
+opam-doc/stable 2.3.0-1+deb13u1 all
+  package manager for OCaml (documentation)
+
+pacman/stable 10-21 arm64
+  Chase Monsters in a Labyrinth
+
+passage/stable 4+dfsg1-4+b1 arm64
+  game about the passage through life
+
+pd-mrpeach/stable 0.1~svn17672-9 arm64
+  bag of tricks for Pure Data (Pd)
+
+podman/stable 5.4.2+ds1-2+b2 arm64
+  tool to manage containers and pods
+
+podman-docker/stable 5.4.2+ds1-2+b2 arm64
+  tool to manage containers and pods (Docker CLI)
+
+podman-remote/stable 5.4.2+ds1-2+b2 arm64
+  tool to manage containers and pods (remote CLI)
+
+postfix/stable 3.10.11-0+deb13u1 arm64
+  High-performance mail transport agent
+
+pxfw/stable 0.8.1-2.1+b2 arm64
+  Plextor firmware updater
+
+python-astroplan-doc/stable 0.10.1-2 all
+  Observation planning package for astronomers (documentation)
+
+python-pydispatch-doc/stable 2.0.7-1 all
+  documentation for python3-pydispatch
+
+python-pyopencl-doc/stable 2025.1-1 all
+  module to access OpenCL parallel computation API (documentation)
+
+python3-aiosignal/stable 1.3.2-1 all
+  manage callbacks in asyncio projects
+
+python3-asgi-lifespan/stable 2.1.0-3 all
+  Programmatic startup/shutdown of ASGI apps
+
+python3-astroplan/stable 0.10.1-2 all
+  Observation planning package for astronomers (Python 3)
+
+python3-cyborg/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - Python library
+
+python3-cymem/stable 2.0.11-1 arm64
+  cython memory pool for RAII-style memory management
+
+python3-flux-led/stable 1.0.4-2 all
+  Utility to control Zengge-manufactured LED devices
+
+python3-lazy/stable 1.5.1-1.1 all
+  Lazy attributes for Python objects (Python 3)
+
+python3-ldappool/stable 3.0.0-5 all
+  connection pool for python-ldap - Python 3.x
+
+python3-pydispatch/stable 2.0.7-1 all
+  Python 3 signal dispatching mechanism
+
+python3-pykube-ng/stable 22.9.0-2 all
+  client library for Kubernetes
+
+python3-pyopencl/stable 2025.1-1 arm64
+  Python 3 module to access OpenCL parallel computation API
+
+python3-pysmartapp/stable 0.3.5-2 all
+  Library for creating SmartThings SmartApps with asyncio
+
+python3-senlin-dashboard/stable 8.0.0-3 all
+  clustering service for OpenStack clouds - dashboard plugin
+
+python3-ssdpy/stable 0.4.1-2 all
+  Lightweight, compatible SSDP library for Python
+
+python3-tesla-wall-connector/stable 1.0.2-2 all
+  API library for communicating with a Tesla Wall Connector
+
+python3-testresources/stable 2.0.1-5 all
+  PyUnit extension for managing expensive test fixtures - Python 3.x
+
+qpxtool/stable 0.8.1-2.1+b2 arm64
+  CD/DVD quality checker
+
+qstat/stable 2.17-1+b1 arm64
+  Command-line tool for querying quake (and other) servers
+
+quantlib-python/stable 1.38-1 arm64
+  Python3 bindings for the Quantlib Quantitative Finance library
+
+quitcount/stable 3.1.4-4+b2 arm64
+  Small tool which may help yourself quit smoking
+
+r-cran-lifecycle/stable 1.0.4+dfsg-1 all
+  manage the life cycle of your GNU R package functions
+
+r-cran-rotl/stable 3.1.0-1 all
+  GNU R interface to the 'Open Tree of Life' API
+
+rafkill/stable 1.2.2-9 arm64
+  vertical shoot'em-up similar to Raptor: Call of the Shadows
+
+rake-compiler/stable 1.2.5-2 all
+  Rake-based Ruby Extension (C, Java) task generator
+
+regalloc2-tool/stable 0.10.2-4+b1 arm64
+  backtracking register allocator
+
+rekor/stable 1.3.9-1+b5 arm64
+  Software Supply Chain Transparency Log (program)
+
+ruby-bundler/stable 2.6.7-2 all
+  Manage Ruby application dependencies (runtime)
+
+ruby-google-cloud-env/stable 1.6.0-1 all
+  Google Cloud Platform hosting environment information
+
+ruby-indentation/stable 0.1.1-2.1 all
+  Ruby extensions for Array and String classes
+
+ruby-puppet-resource-api/stable 1.9.0-1 all
+  Implementation of the Puppet Resource API specification
+
+ruby-rails-observers/stable 0.1.5-1.1 all
+  toolkit to build Rails observers (part of Rails)
+
+spip/stable 4.4.15+dfsg-0+deb13u1 all
+  website engine for publishing
+
+stargz-snapshotter/stable 0.14.3-4+b6 arm64
+  Fast container image distribution plugin with lazy pulling (program)
+
+task-med-blend/stable 0.10 all
+  Debian Med (life sciences and medicine)
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+tlp/stable 1.8.0-1 all
+  Optimize laptop battery life
+
+trove-taskmanager/stable 1:23.0.0-2 all
+  Database as a Service for OpenStack - taskmanager
+
+tryton-modules-stock-lot-sled/stable 7.0.0-3 all
+  Tryton application platform - stock lot shelf life expiration date
+
+uuid/stable 1.6.4-1 arm64
+  Universally Unique Identifier Command-Line Tool
+
+uuid-runtime/stable 2.41-5 arm64
+  runtime components for the Universally Unique ID library
+
+vim-vimerl/stable 1.4.1+git20120509.89111c7-2.1 all
+  Erlang plugin for Vim
+
+vim-vimerl-syntax/stable 1.4.1+git20120509.89111c7-2.1 all
+  Erlang syntax for Vim
+
+wavbreaker/stable 0.16-3+b4 arm64
+  tool to split wave files into multiple chunks
+
+webext-indie-wiki-buddy-chromium/stable 3.10.1-1 all
+  browser extension that redirects you to independent wikis (Chromium)
+
+webext-indie-wiki-buddy-firefox/stable 3.10.1-1 all
+  browser extension that redirects you to independent wikis (Firefox)
+
+wesnoth-1.18-dm/stable 1:1.18.5-1 all
+  "Delfador's Memoirs" official campaign for Wesnoth (branch 1.18)
+
+wizznic/stable 0.9.9+dfsg-3 arm64
+  implementation of the arcade classic Puzznic
+
+wizznic-data/stable 0.9.9+dfsg-3 all
+  implementation of the arcade classic Puzznic (data)
+
+wmbattery/stable 2.56-1+b2 arm64
+  display laptop battery info, dockable in WindowMaker
+
+woof-doom/stable 15.2.0+dfsg-1 arm64
+  continuation of the Boom/MBF bloodline of Doom source ports
+
+xevil/stable 2.02r2-10.2+b1 arm64
+  A violent side-scrolling game for X
+
+xscreensaver-data-extra/stable 6.09+dfsg1-1 arm64
+  Extra screen saver modules for screensaver frontends
+
+yt-dlp/stable 2025.04.30-1 all
+  downloader of videos from YouTube and other sites
+
+zanshin/stable 24.12.3-1 arm64
+  to-do list manager
+

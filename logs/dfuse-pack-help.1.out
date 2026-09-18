@@ -1,0 +1,25 @@
+Usage: 
+dfuse-pack [-d|--dump] infile.dfu
+dfuse-pack {-b|--build} address:file.bin [-b address:file.bin ...] [{-D|--device}=vendor:device] outfile.dfu
+dfuse-pack {-s|--build-s19} file.s19 [{-D|--device}=vendor:device] outfile.dfu
+dfuse-pack {-i|--build-ihex} file.hex [-i file.hex ...] [{-D|--device}=vendor:device] outfile.dfu
+
+Options:
+  -h, --help            show this help message and exit
+  -b BINFILES, --build=BINFILES
+                        Include a raw binary file, to be loaded at the
+                        specified address. The BINFILES argument is of the
+                        form address:path-to-file. The address can have @X
+                        appended where X is the alternate interface number for
+                        this binary file. Note that the binary files must not
+                        have any DFU suffix!
+  -i HEXFILES, --build-ihex=HEXFILES
+                        build a DFU file from given Intel HEX HEXFILES
+  -s S19FILE, --build-s19=S19FILE
+                        build a DFU file from given S19 S-record S19FILE
+  -D DEVICE, --device=DEVICE
+                        build for DEVICE, defaults to 0x0483:0xdf11
+  -a ALTINTF, --alt-intf=ALTINTF
+                        build for alternate interface number ALTINTF, defaults
+                        to 0
+  -d, --dump            dump contained images to current directory

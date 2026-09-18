@@ -1,0 +1,655 @@
+Sorting...
+Full Text Search...
+7zip/stable 25.01+dfsg-1~deb13u2 arm64
+  7-Zip file archiver with a high compression ratio
+
+android-libziparchive/stable 1:34.0.5-12 arm64
+  Library for ZIP archives
+
+android-libziparchive-dev/stable 1:34.0.5-12 arm64
+  Library for ZIP archives - Development files
+
+any2fasta/stable 0.4.2-2 all
+  convert various sequence formats to FASTA
+
+any2fasta-examples/stable 0.4.2-2 all
+  convert various sequence formats to FASTA (example data)
+
+apsfilter/stable 7.2.6-5 all
+  Magic print filter with automatic file type recognition
+
+ark/stable 4:25.04.3-1 arm64
+  archive utility
+
+avfs/stable 1.2.0-2 arm64
+  virtual filesystem to access archives, disk images, remote locations
+
+backupninja/stable 1.2.2-1 all
+  lightweight, extensible meta-backup system
+
+bitshuffle/stable 0.5.2-1+b3 arm64
+  filter for improving compression of typed binary data
+
+bzip2/stable 1.0.8-6 arm64
+  high-quality block-sorting file compressor - utilities
+
+bzip2-doc/stable 1.0.8-6 all
+  high-quality block-sorting file compressor - documentation
+
+bzip3/stable 1.5.1-1+b1 arm64
+  better, faster and stronger spiritual successor to bzip2 - utilities
+
+cl-chipz/stable 20230418.git6f80368-1 all
+  decompress DEFLATE and BZIP2 data in Common Lisp
+
+clamav/stable 1.4.3+dfsg-1 arm64
+  anti-virus utility for Unix - command-line interface
+
+claws-mail-archiver-plugin/stable 4.3.1-1 arm64
+  Archiver plugin for Claws Mail
+
+clzip/stable 1.15-3 arm64
+  C, lossless data compressor based on the LZMA algorithm
+
+comprez/stable 2.7.3-2 all
+  frontend to many compression programs
+
+dact/stable 0.8.42-6+b1 arm64
+  multi-algorithm compression
+
+diffoscope/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories
+
+diffoscope-minimal/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories (minimal package)
+
+disktype/stable 9-13 arm64
+  detection of content format of a disk or disk image
+
+dmg2img/stable 1.6.7+git20201227.a3e4134-0.1 arm64
+  Tool for converting compressed dmg files to hfsplus images
+
+engrampa/stable 1.26.2-5 arm64
+  archive manager for MATE
+
+fbreader/stable 0.99.4+dfsg-6+b1 arm64
+  e-book reader
+
+file-roller/stable 44.5-1 arm64
+  archive manager for GNOME
+
+forensics-extra/stable 2.58 all
+  Forensics Environment - extra console components (metapackage)
+
+gambas3-gb-compress-bzlib2/stable 3.20.2-1+deb13u1 arm64
+  Gambas bzlib2 component
+
+golang-github-containers-luksy-dev/stable 0.0~git20240812.2e7307c+ds1-1 all
+  offline encryption/decryption using LUKS formats (library)
+
+hdf5-filter-plugin/stable 0.0~git20221111.49e3b65-5 arm64
+  external filters for HDF5: LZ4, BZip2
+
+hdup/stable 2.0.14-6+b2 arm64
+  Filesystem duplicator and backup
+
+kodi-vfs-libarchive/stable 21.0.2+ds-1 arm64
+  Libarchive VFS add-on for Kodi
+
+krusader/stable 2:2.9.0-2 arm64
+  twin-panel (commander-style) file manager
+
+lbzip2/stable 2.5-4 arm64
+  fast, multi-threaded bzip2 utility
+
+libarchive-dev/stable 3.7.4-4+deb13u1 arm64
+  Multi-format archive and compression library (development files)
+
+libarchive13t64/stable,now 3.7.4-4+deb13u1 arm64 [installed,automatic]
+  Multi-format archive and compression library (shared library)
+
+libbz2-1.0/stable,now 1.0.8-6 arm64 [installed]
+  high-quality block-sorting file compressor library - runtime
+
+libbz2-dev/stable 1.0.8-6 arm64
+  high-quality block-sorting file compressor library - development
+
+libbz2-ocaml/stable 0.8.0-2+b3 arm64
+  OCaml bindings for the bzip2 compression library (runtime)
+
+libbz2-ocaml-dev/stable 0.8.0-2+b3 arm64
+  OCaml bindings for the bzip2 compression library
+
+libbzip3-1/stable 1.5.1-1+b1 arm64
+  better, faster and stronger spiritual successor to bzip2 - runtime
+
+libbzip3-dev/stable 1.5.1-1+b1 arm64
+  better, faster and stronger spiritual successor to bzip2 - development
+
+libcatalyst-plugin-compress-perl/stable 0.5-1.1 all
+  Catalyst plugin to compress the response
+
+libcommons-compress-java/stable 1.27.1-2 all
+  Java API for working with compression and archive formats
+
+libcompress-bzip2-perl/stable 2.28-1+b6 arm64
+  Perl interface to Bzip2 compression library
+
+libcompress-raw-bzip2-perl/stable 2.213-2 arm64
+  low-level interface to bzip2 compression library
+
+libghc-bzlib-dev/stable 0.5.2.0-1+b1 arm64
+  Haskell bindings to the bzip2 library
+
+libghc-bzlib-doc/stable 0.5.2.0-1 all
+  Haskell bindings to the bzip2 library; documentation
+
+libghc-bzlib-prof/stable 0.5.2.0-1+b1 arm64
+  Haskell bindings to the bzip2 library; profiling libraries
+
+libio-compress-perl/stable 2.213-1 all
+  bundle of IO::Compress modules
+
+libjbzip2-java/stable 0.9.1-8 all
+  bzip2 compression/decompression library
+
+liblzma-dev/stable 5.8.1-1+deb13u1 arm64
+  XZ-format compression library - development files
+
+liblzma5/stable 5.8.1-1+deb13u1 arm64 [upgradable from: 5.8.1-1]
+  XZ-format compression library
+
+librdata-dev/stable 0~20210223+git-85757dc6-2.1+b2 arm64
+  Read and write R data frames from C (dev files)
+
+librdata0t64/stable 0~20210223+git-85757dc6-2.1+b2 arm64
+  Read and write R data frames from C (runtime files)
+
+librust-bzip2-dev/stable 0.4.4-1+b2 arm64
+  Bindings to libbzip2 (compression & decompression) - Rust source code
+
+librust-bzip2-sys-dev/stable 0.1.11-1+b2 arm64
+  libbzip2 bindings for compression and decompression - Rust source code
+
+librust-libbz2-rs-sys-dev/stable 0.1.3-1+b1 arm64
+  Drop-in compatible rust bzip2 implementation - Rust source code
+
+libzip-dev/stable 1.11.3-2 arm64
+  library for reading, creating, and modifying zip archives (development)
+
+libzip-ocaml/stable 1.13-1+b2 arm64
+  OCaml compression libraries (runtime libraries)
+
+libzip-ocaml-dev/stable 1.13-1+b2 arm64
+  OCaml compression libraries (development files)
+
+libzip4j-java/stable 2.11.5-1 all
+  java library for zip files
+
+libzip5/stable 1.11.3-2 arm64
+  library for reading, creating, and modifying zip archives (runtime)
+
+libzipios++-dev/stable 0.1.7-2 arm64
+  small C++ library for reading zip files (development)
+
+libzipios++-doc/stable 0.1.7-2 all
+  small C++ library for reading zip files (documents)
+
+libzipios++0v5/stable 0.1.7-2 arm64
+  small C++ library for reading zip files (library)
+
+lrzip/stable 0.651-3+b1 arm64
+  compression program with a very high compression ratio
+
+luksy/stable 0.0~git20240812.2e7307c+ds1-1+b7 arm64
+  offline encryption/decryption using LUKS formats (program)
+
+lunzip/stable 1.15-3 arm64
+  data compressor based on the LZMA algorithm (decompressor)
+
+lxqt-archiver/stable 1.1.0-1 arm64
+  Archiv Manager for LXQt
+
+lzd/stable 1.5-3 arm64
+  Educational, lossless data compressor based on the LZMA algorithm
+
+lzip/stable 1.25-3 arm64
+  lossless data compressor based on the LZMA algorithm
+
+lziprecover/stable 1.25-3 arm64
+  lossless data compressor based on the LZMA algorithm (recovery)
+
+makeself/stable 2.5.0-1 all
+  utility to generate self-extractable archives
+
+mariadb-plugin-provider-bzip2/stable 1:11.8.6-0+deb13u1 arm64
+  BZip2 compression support in the server and storage engines
+
+massif-visualizer/stable 25.04.0-2 arm64
+  Tool for visualizing memory usage recorded by Valgrind Massif
+
+minilzip/stable 1.15-3 arm64
+  minified, lossless data compressor based on the LZMA algorithm
+
+node-openpgp-seek-bzip/stable 1.0.5-3 all
+  Pure-JavaScript Node.JS module for random-access decoding bzip2 data
+
+node-unbzip2-stream/stable 1.4.2-5 all
+  streaming unbzip2 implementation in pure javascript for node and browsers
+
+partimage/stable 0.6.9-11+b1 arm64
+  backup partitions into a compressed image file
+
+partimage-doc/stable 20050720-6 all
+  Partition Image User Documentation
+
+patool/stable 4.0.0-1 all
+  command line archive file manager
+
+pbzip2/stable 1.1.13-1+b1 arm64
+  parallel bzip2 implementation
+
+pdlzip/stable 1.14-3 arm64
+  data compressor based on the LZMA algorithm (simple version)
+
+php-bz2/stable 2:8.4+96 all
+  bzip2 module for PHP [default]
+
+php-matomo-component-decompress/stable 3.0.0-1 all
+  library providing decompressing tools
+
+php8.4-bz2/stable 8.4.23-1~deb13u1 arm64
+  bzip2 module for PHP
+
+pike8.0-bzip2/stable 8.0.1956-1 arm64
+  Bzip2 module for Pike
+
+plzip/stable 1.12-3 arm64
+  parallel, lossless data compressor based on the LZMA algorithm
+
+python3-crccheck/stable 1.3.0-1 all
+  implementation of 170+ CRC algorithms for Python 3
+
+python3-libarchive-c/stable 5.1-1 all
+  Python3 interface to libarchive
+
+python3-mrcfile/stable 1.5.4-2 all
+  Python implementation of the MRC2014 file format
+
+python3-nanoget/stable 1.19.3-1 all
+  extract information from Oxford Nanopore sequencing data and alignments
+
+python3-nanoget-examples/stable 1.19.3-1 all
+  example data for python3-nanoget (dealing with Oxford Nanopore data)
+
+python3-web-cache/stable 1.1.0-2 all
+  Simple Python key-value storage backed up by sqlite3 database
+
+python3-xopen/stable 1.7.0-3 all
+  Python3 module to open compressed files transparently
+
+qcomicbook/stable 0.9.1-3+b3 arm64
+  qt viewer for comic book archives (cbr/cbz/cba/cbg/cbb)
+
+ruby-yajl/stable 1.4.3-1+b6 arm64
+  Ruby interface to Yajl, a JSON stream-based parser library
+
+rzip/stable 2.1-5 arm64
+  compression program for large files
+
+seek-bzip/stable 1.0.5-3 all
+  Command line interface for random-access decoding bzip2 data
+
+testdisk/stable 7.2-0.1 arm64
+  Partition scanner and disk recovery tool, and PhotoRec file recovery tool
+
+unar/stable 1.10.8+ds1-9 arm64
+  Unarchiver for a variety of file formats
+
+xarchiver/stable 1:0.5.4.25-2 arm64
+  GTK+ frontend for most used compression formats
+
+xlunzip/stable 0.9-3 arm64
+  data compressor based on the LZMA algorithm (decompressor)
+
+xz-utils/stable 5.8.1-1+deb13u1 arm64 [upgradable from: 5.8.1-1]
+  XZ-format compression utilities
+
+xzdec/stable 5.8.1-1+deb13u1 arm64
+  XZ-format compression utilities - tiny decompressors
+
+zst/stable 0.4-1+b1 arm64
+  CLI tool for zstd (and other) compression
+
+zutils/stable 1.14-5 arm64
+  utilities for dealing with compressed files transparently
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+7zip/stable 25.01+dfsg-1~deb13u2 arm64
+  7-Zip file archiver with a high compression ratio
+
+android-libziparchive/stable 1:34.0.5-12 arm64
+  Library for ZIP archives
+
+android-libziparchive-dev/stable 1:34.0.5-12 arm64
+  Library for ZIP archives - Development files
+
+any2fasta/stable 0.4.2-2 all
+  convert various sequence formats to FASTA
+
+any2fasta-examples/stable 0.4.2-2 all
+  convert various sequence formats to FASTA (example data)
+
+apsfilter/stable 7.2.6-5 all
+  Magic print filter with automatic file type recognition
+
+ark/stable 4:25.04.3-1 arm64
+  archive utility
+
+avfs/stable 1.2.0-2 arm64
+  virtual filesystem to access archives, disk images, remote locations
+
+backupninja/stable 1.2.2-1 all
+  lightweight, extensible meta-backup system
+
+bitshuffle/stable 0.5.2-1+b3 arm64
+  filter for improving compression of typed binary data
+
+bzip2/stable 1.0.8-6 arm64
+  high-quality block-sorting file compressor - utilities
+
+bzip2-doc/stable 1.0.8-6 all
+  high-quality block-sorting file compressor - documentation
+
+bzip3/stable 1.5.1-1+b1 arm64
+  better, faster and stronger spiritual successor to bzip2 - utilities
+
+cl-chipz/stable 20230418.git6f80368-1 all
+  decompress DEFLATE and BZIP2 data in Common Lisp
+
+clamav/stable 1.4.3+dfsg-1 arm64
+  anti-virus utility for Unix - command-line interface
+
+claws-mail-archiver-plugin/stable 4.3.1-1 arm64
+  Archiver plugin for Claws Mail
+
+clzip/stable 1.15-3 arm64
+  C, lossless data compressor based on the LZMA algorithm
+
+comprez/stable 2.7.3-2 all
+  frontend to many compression programs
+
+dact/stable 0.8.42-6+b1 arm64
+  multi-algorithm compression
+
+diffoscope/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories
+
+diffoscope-minimal/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories (minimal package)
+
+disktype/stable 9-13 arm64
+  detection of content format of a disk or disk image
+
+dmg2img/stable 1.6.7+git20201227.a3e4134-0.1 arm64
+  Tool for converting compressed dmg files to hfsplus images
+
+engrampa/stable 1.26.2-5 arm64
+  archive manager for MATE
+
+fbreader/stable 0.99.4+dfsg-6+b1 arm64
+  e-book reader
+
+file-roller/stable 44.5-1 arm64
+  archive manager for GNOME
+
+forensics-extra/stable 2.58 all
+  Forensics Environment - extra console components (metapackage)
+
+gambas3-gb-compress-bzlib2/stable 3.20.2-1+deb13u1 arm64
+  Gambas bzlib2 component
+
+golang-github-containers-luksy-dev/stable 0.0~git20240812.2e7307c+ds1-1 all
+  offline encryption/decryption using LUKS formats (library)
+
+hdf5-filter-plugin/stable 0.0~git20221111.49e3b65-5 arm64
+  external filters for HDF5: LZ4, BZip2
+
+hdup/stable 2.0.14-6+b2 arm64
+  Filesystem duplicator and backup
+
+kodi-vfs-libarchive/stable 21.0.2+ds-1 arm64
+  Libarchive VFS add-on for Kodi
+
+krusader/stable 2:2.9.0-2 arm64
+  twin-panel (commander-style) file manager
+
+lbzip2/stable 2.5-4 arm64
+  fast, multi-threaded bzip2 utility
+
+libarchive-dev/stable 3.7.4-4+deb13u1 arm64
+  Multi-format archive and compression library (development files)
+
+libarchive13t64/stable,now 3.7.4-4+deb13u1 arm64 [installed,automatic]
+  Multi-format archive and compression library (shared library)
+
+libbz2-1.0/stable,now 1.0.8-6 arm64 [installed]
+  high-quality block-sorting file compressor library - runtime
+
+libbz2-dev/stable 1.0.8-6 arm64
+  high-quality block-sorting file compressor library - development
+
+libbz2-ocaml/stable 0.8.0-2+b3 arm64
+  OCaml bindings for the bzip2 compression library (runtime)
+
+libbz2-ocaml-dev/stable 0.8.0-2+b3 arm64
+  OCaml bindings for the bzip2 compression library
+
+libbzip3-1/stable 1.5.1-1+b1 arm64
+  better, faster and stronger spiritual successor to bzip2 - runtime
+
+libbzip3-dev/stable 1.5.1-1+b1 arm64
+  better, faster and stronger spiritual successor to bzip2 - development
+
+libcatalyst-plugin-compress-perl/stable 0.5-1.1 all
+  Catalyst plugin to compress the response
+
+libcommons-compress-java/stable 1.27.1-2 all
+  Java API for working with compression and archive formats
+
+libcompress-bzip2-perl/stable 2.28-1+b6 arm64
+  Perl interface to Bzip2 compression library
+
+libcompress-raw-bzip2-perl/stable 2.213-2 arm64
+  low-level interface to bzip2 compression library
+
+libghc-bzlib-dev/stable 0.5.2.0-1+b1 arm64
+  Haskell bindings to the bzip2 library
+
+libghc-bzlib-doc/stable 0.5.2.0-1 all
+  Haskell bindings to the bzip2 library; documentation
+
+libghc-bzlib-prof/stable 0.5.2.0-1+b1 arm64
+  Haskell bindings to the bzip2 library; profiling libraries
+
+libio-compress-perl/stable 2.213-1 all
+  bundle of IO::Compress modules
+
+libjbzip2-java/stable 0.9.1-8 all
+  bzip2 compression/decompression library
+
+liblzma-dev/stable 5.8.1-1+deb13u1 arm64
+  XZ-format compression library - development files
+
+liblzma5/stable 5.8.1-1+deb13u1 arm64 [upgradable from: 5.8.1-1]
+  XZ-format compression library
+
+librdata-dev/stable 0~20210223+git-85757dc6-2.1+b2 arm64
+  Read and write R data frames from C (dev files)
+
+librdata0t64/stable 0~20210223+git-85757dc6-2.1+b2 arm64
+  Read and write R data frames from C (runtime files)
+
+librust-bzip2-dev/stable 0.4.4-1+b2 arm64
+  Bindings to libbzip2 (compression & decompression) - Rust source code
+
+librust-bzip2-sys-dev/stable 0.1.11-1+b2 arm64
+  libbzip2 bindings for compression and decompression - Rust source code
+
+librust-libbz2-rs-sys-dev/stable 0.1.3-1+b1 arm64
+  Drop-in compatible rust bzip2 implementation - Rust source code
+
+libzip-dev/stable 1.11.3-2 arm64
+  library for reading, creating, and modifying zip archives (development)
+
+libzip-ocaml/stable 1.13-1+b2 arm64
+  OCaml compression libraries (runtime libraries)
+
+libzip-ocaml-dev/stable 1.13-1+b2 arm64
+  OCaml compression libraries (development files)
+
+libzip4j-java/stable 2.11.5-1 all
+  java library for zip files
+
+libzip5/stable 1.11.3-2 arm64
+  library for reading, creating, and modifying zip archives (runtime)
+
+libzipios++-dev/stable 0.1.7-2 arm64
+  small C++ library for reading zip files (development)
+
+libzipios++-doc/stable 0.1.7-2 all
+  small C++ library for reading zip files (documents)
+
+libzipios++0v5/stable 0.1.7-2 arm64
+  small C++ library for reading zip files (library)
+
+lrzip/stable 0.651-3+b1 arm64
+  compression program with a very high compression ratio
+
+luksy/stable 0.0~git20240812.2e7307c+ds1-1+b7 arm64
+  offline encryption/decryption using LUKS formats (program)
+
+lunzip/stable 1.15-3 arm64
+  data compressor based on the LZMA algorithm (decompressor)
+
+lxqt-archiver/stable 1.1.0-1 arm64
+  Archiv Manager for LXQt
+
+lzd/stable 1.5-3 arm64
+  Educational, lossless data compressor based on the LZMA algorithm
+
+lzip/stable 1.25-3 arm64
+  lossless data compressor based on the LZMA algorithm
+
+lziprecover/stable 1.25-3 arm64
+  lossless data compressor based on the LZMA algorithm (recovery)
+
+makeself/stable 2.5.0-1 all
+  utility to generate self-extractable archives
+
+mariadb-plugin-provider-bzip2/stable 1:11.8.6-0+deb13u1 arm64
+  BZip2 compression support in the server and storage engines
+
+massif-visualizer/stable 25.04.0-2 arm64
+  Tool for visualizing memory usage recorded by Valgrind Massif
+
+minilzip/stable 1.15-3 arm64
+  minified, lossless data compressor based on the LZMA algorithm
+
+node-openpgp-seek-bzip/stable 1.0.5-3 all
+  Pure-JavaScript Node.JS module for random-access decoding bzip2 data
+
+node-unbzip2-stream/stable 1.4.2-5 all
+  streaming unbzip2 implementation in pure javascript for node and browsers
+
+partimage/stable 0.6.9-11+b1 arm64
+  backup partitions into a compressed image file
+
+partimage-doc/stable 20050720-6 all
+  Partition Image User Documentation
+
+patool/stable 4.0.0-1 all
+  command line archive file manager
+
+pbzip2/stable 1.1.13-1+b1 arm64
+  parallel bzip2 implementation
+
+pdlzip/stable 1.14-3 arm64
+  data compressor based on the LZMA algorithm (simple version)
+
+php-bz2/stable 2:8.4+96 all
+  bzip2 module for PHP [default]
+
+php-matomo-component-decompress/stable 3.0.0-1 all
+  library providing decompressing tools
+
+php8.4-bz2/stable 8.4.23-1~deb13u1 arm64
+  bzip2 module for PHP
+
+pike8.0-bzip2/stable 8.0.1956-1 arm64
+  Bzip2 module for Pike
+
+plzip/stable 1.12-3 arm64
+  parallel, lossless data compressor based on the LZMA algorithm
+
+python3-crccheck/stable 1.3.0-1 all
+  implementation of 170+ CRC algorithms for Python 3
+
+python3-libarchive-c/stable 5.1-1 all
+  Python3 interface to libarchive
+
+python3-mrcfile/stable 1.5.4-2 all
+  Python implementation of the MRC2014 file format
+
+python3-nanoget/stable 1.19.3-1 all
+  extract information from Oxford Nanopore sequencing data and alignments
+
+python3-nanoget-examples/stable 1.19.3-1 all
+  example data for python3-nanoget (dealing with Oxford Nanopore data)
+
+python3-web-cache/stable 1.1.0-2 all
+  Simple Python key-value storage backed up by sqlite3 database
+
+python3-xopen/stable 1.7.0-3 all
+  Python3 module to open compressed files transparently
+
+qcomicbook/stable 0.9.1-3+b3 arm64
+  qt viewer for comic book archives (cbr/cbz/cba/cbg/cbb)
+
+ruby-yajl/stable 1.4.3-1+b6 arm64
+  Ruby interface to Yajl, a JSON stream-based parser library
+
+rzip/stable 2.1-5 arm64
+  compression program for large files
+
+seek-bzip/stable 1.0.5-3 all
+  Command line interface for random-access decoding bzip2 data
+
+testdisk/stable 7.2-0.1 arm64
+  Partition scanner and disk recovery tool, and PhotoRec file recovery tool
+
+unar/stable 1.10.8+ds1-9 arm64
+  Unarchiver for a variety of file formats
+
+xarchiver/stable 1:0.5.4.25-2 arm64
+  GTK+ frontend for most used compression formats
+
+xlunzip/stable 0.9-3 arm64
+  data compressor based on the LZMA algorithm (decompressor)
+
+xz-utils/stable 5.8.1-1+deb13u1 arm64 [upgradable from: 5.8.1-1]
+  XZ-format compression utilities
+
+xzdec/stable 5.8.1-1+deb13u1 arm64
+  XZ-format compression utilities - tiny decompressors
+
+zst/stable 0.4-1+b1 arm64
+  CLI tool for zstd (and other) compression
+
+zutils/stable 1.14-5 arm64
+  utilities for dealing with compressed files transparently
+

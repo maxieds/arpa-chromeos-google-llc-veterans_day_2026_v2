@@ -1,0 +1,10 @@
+cp: cannot open 'sys/net/ipv4/route/flush' for reading: Permission denied
+cp: error reading 'sys/net/ipv6/conf/eth0/stable_secret': Input/output error
+cp: error reading 'sys/net/ipv6/conf/all/stable_secret': Input/output error
+cp: error reading 'sys/net/ipv6/conf/default/stable_secret': Input/output error
+cp: error reading 'sys/net/ipv6/conf/dummy0/stable_secret': Input/output error
+cp: error reading 'sys/net/ipv6/conf/lo/stable_secret': Input/output error
+cp: cannot open 'sys/net/ipv6/route/flush' for reading: Permission denied
+cp: cannot open 'sys/vm/compact_memory' for reading: Permission denied
+cp: cannot open 'sys/vm/drop_caches' for reading: Permission denied
+cp: error reading 'sysrq-trigger': Input/output error

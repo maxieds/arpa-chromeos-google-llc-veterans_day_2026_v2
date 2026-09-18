@@ -1,0 +1,902 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+batmon.app/stable 0.9-4+b2 arm64
+  Battery monitor for GNUstep
+
+cardpeek/stable 0.8.4-3 arm64
+  Tool to read the contents of ISO7816 smartcards
+
+cardpeek-data/stable 0.8.4-3 all
+  Tool to read the contents of ISO7816 smartcards - data files
+
+diskscan/stable 0.21-1+b1 arm64
+  scan storage media for bad or near failure sectors
+
+fancontrol/stable 1:3.6.2-2 all
+  utility to control the fan speed
+
+freeipa-healthcheck/stable 0.16-2 all
+  Health check tool for FreeIPA
+
+gnumed-client/stable 1.8.21+dfsg-1 all
+  medical practice management - Client
+
+gnumed-common/stable 1.8.21+dfsg-1 all
+  medical practice management - common files
+
+gnumed-doc/stable 1.8.21+dfsg-1 all
+  medical practice management - Documentation
+
+gnumed-server/stable 22.31-1 all
+  medical practice management - server
+
+golang-github-alexliesenfeld-health-dev/stable 0.0~git20220920.973f6339-2 all
+  simple and flexible health check library for Go
+
+golang-github-go-macaron-toolbox-dev/stable 0.0~git20170220.0.6766b8f-7 all
+  health check, pprof, profile and statistic services for Macaron
+
+golang-github-jackc-puddle-dev/stable 1.3.0-1 all
+  Generic resource pool for Go (library)
+
+goss/stable 0.4.9-2+b3 arm64
+  Quick and Easy server testing/validation (program)
+
+gsmartcontrol/stable 2.0.2-1 arm64
+  graphical user interface for smartctl
+
+health-check/stable 0.04.01-1 arm64
+  process monitoring tool
+
+hedgewars/stable 1.0.2-13 arm64
+  Funny turn-based artillery game, featuring fighting hedgehogs!
+
+icingaweb2-module-cube/stable 1.3.3-2 all
+  simple and responsive web interface to show host statistics
+
+imagej/stable 1.54g-1 all
+  Image processing program with a focus on microscopy images
+
+infnoise/stable 0.3.3+dfsg-1+b2 arm64
+  Infinite Noise TRNG driver and tools
+
+ipmiutil/stable 3.2.1-1 arm64
+  IPMI management utilities
+
+libatasmart-bin/stable 0.19-5+b2 arm64
+  ATA S.M.A.R.T. reading and parsing library - utilities
+
+libatasmart-dev/stable 0.19-5+b2 arm64
+  ATA S.M.A.R.T. reading and parsing library - development files
+
+libatasmart4/stable 0.19-5+b2 arm64
+  ATA S.M.A.R.T. reading and parsing library
+
+libchipcard-data/stable 5.1.6-2 all
+  configuration files for libchipcard
+
+libchipcard-dev/stable 5.1.6-2+b1 arm64
+  API for smartcard readers
+
+libchipcard-tools/stable 5.1.6-2+b1 arm64
+  tools for accessing chipcards
+
+libchipcard6t64/stable 5.1.6-2+b1 arm64
+  library for accessing smartcards
+
+libctapimkt1/stable 1.0.5~rc1-9+b3 arm64
+  Read German Krankenversichertenkarte and eGK
+
+libctapimkt1-dev/stable 1.0.5~rc1-9+b3 arm64
+  Read German Krankenversichertenkarte and eGK (development)
+
+libmetrics-clojure/stable 2.9.0-3 all
+  Clojure wrapper for Coda Hale's metrics library
+
+libsensors-config/stable,now 1:3.6.2-2 all [installed,automatic]
+  lm-sensors configuration files
+
+libsensors-dev/stable 1:3.6.2-2 arm64
+  lm-sensors development kit
+
+libsensors5/stable,now 1:3.6.2-2 arm64 [installed,automatic]
+  library to read temperature/voltage/fan sensors
+
+lm-sensors/stable 1:3.6.2-2 arm64
+  utilities to read temperature/voltage/fan sensors
+
+med-epi/stable 3.9.0 all
+  Debian Med epidemiology related packages
+
+med-tools/stable 3.9.0 all
+  Debian Med several tools
+
+monitoring-plugins-check-smart/stable 6.14.2-1 all
+  nagios compatible check S.M.A.R.T. storage plugin
+
+monitoring-plugins-check-smart-attributes/stable 1.6-156-g498eafa-2 all
+  Plugin for Nagios and Icinga for monitoring the health of disks
+
+monitoring-plugins-contrib/stable 48.20250420 arm64
+  Plugins for nagios compatible monitoring systems
+
+moosefs-cli/stable 4.57.5-1 all
+  MooseFS CLI utility
+
+mpt-status/stable 1.2.0-10+b1 arm64
+  get RAID status out of mpt (and other) HW RAID controllers
+
+mtd-utils/stable 1:2.3.0-1 arm64
+  Memory Technology Device Utilities
+
+mysqltuner/stable 2.6.0-1 all
+  high-performance MySQL tuning script
+
+nftlb/stable 1.0.7-1+b3 arm64
+  nftables load balancer
+
+octavia-health-manager/stable 16.0.0-2 all
+  OpenStack Load Balancer Service - Health manager
+
+orthanc-imagej/stable 1.2+dfsg-4 all
+  ImageJ plugin to import images from Orthanc
+
+pyomop/stable 4.3.0-1 all
+  OHSDI OMOP Common Data Model tools
+
+python-pyomop-doc/stable 4.3.0-1 all
+  OHSDI OMOP Common Data Model tools (Documentation)
+
+python3-django-health-check/stable 3.18.3-1 all
+  Checks for various conditions and provides reports
+
+python3-fyta-cli/stable 0.7.2-2 all
+  Library to access the FYTA API
+
+python3-grpc-tools/stable 1.14.1-8+deb13u1 arm64
+  Protobuf code generator for gRPC (Python 3)
+
+python3-hl7/stable 0.4.5-3 all
+  Python3 library for parsing HL7 messages
+
+python3-ipahealthcheck-core/stable 0.16-2 all
+  Health check tool for FreeIPA -- core files
+
+python3-leaone-ble/stable 0.3.0-1 all
+  Bluetooth parser for LeaOne devices
+
+python3-luftdaten/stable 0.7.4-2 all
+  Python API for accessing air quality data from Sensor.Community
+
+python3-py-nightscout/stable 1.3.3-2 all
+  Async interface to access Nightscout CGM data
+
+python3-pyiqvia/stable 2023.12.0-2 all
+  Library for accessing allergy, asthma, and disease data from IQVIA
+
+python3-pyomop/stable 4.3.0-1 all
+  OHSDI OMOP Common Data Model tools (Python3 version)
+
+python3-qnapstats/stable 0.6.0-1 all
+  Python API for accessing QNAP NAS system statistics
+
+python3-senlin-dashboard/stable 8.0.0-3 all
+  clustering service for OpenStack clouds - dashboard plugin
+
+python3-stdnum/stable 1.20-3 all
+  Python module to handle standardized numbers and codes (Python3 version)
+
+python3-stookalert/stable 0.1.4-2 all
+  Python package for querying the RIVM Stookalert API
+
+python3-stookwijzer/stable 1.6.1-1 all
+  Library for querying Stookwijzer and Luchtmeetnet APIs
+
+qrisk2/stable 0.1.20150729-7 arm64
+  cardiovascular disease risk calculator
+
+r-cran-diagnosismed/stable 0.2.3-7 all
+  medical diagnostic test accuracy analysis toolkit
+
+r-cran-epi/stable 2.59-1 arm64
+  GNU R epidemiological analysis
+
+r-cran-epitools/stable 1:0.5-10.1-2 all
+  GNU R Epidemiology Tools for Data and Graphics
+
+r-cran-medadherence/stable 1.03-6+b1 arm64
+  GNU R Medication Adherence: Commonly Used Definitions
+
+r-cran-surveillance/stable 1.24.1-1 arm64
+  GNU R package for the Modeling and Monitoring of Epidemic Phenomena
+
+r-other-chbutils/stable 0.1+git20171026.a226cee-2 arm64
+  GNU R utilities from Harvard School of Public Health Bioinformatics
+
+resource-agents/stable 1:4.16.0-3+deb13u2 arm64
+  Cluster Resource Agents
+
+ruby-github-pages-health-check/stable 1.18.5-1 all
+  check GitHub Pages for common DNS configuration issues
+
+ruby-health-check/stable 3.0.0-1 all
+  Simple health check of Rails app for uptime monitoring
+
+sanoid/stable 2.2.0-2 all
+  Policy-driven ZFS snapshot management and replication tool
+
+smart-notifier/stable 0.28-9 all
+  graphical hard disk health status notifier
+
+snpeff/stable 5.2.f+dfsg-1 all
+  genetic variant annotation and effect prediction toolbox - tool
+
+soapsnp/stable 1.03-5+b1 arm64
+  resequencing utility that can assemble consensus sequence of genomes
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+tryton-client/stable 7.0.24-1 all
+  Tryton application platform - desktop client
+
+tryton-client-doc/stable 7.0.24-1 all
+  Tryton Application Platform (Desktop Client Documentation)
+
+tryton-modules-account/stable 7.0.19-1 all
+  Tryton application platform - account module
+
+tryton-modules-account-asset/stable 7.0.1-3 all
+  Tryton application platform - account asset module
+
+tryton-modules-account-be/stable 7.0.0-3 all
+  Tryton application platform - belgian account module
+
+tryton-modules-account-budget/stable 7.0.1-2 all
+  Tryton application platform - account budget module
+
+tryton-modules-account-cash-rounding/stable 7.0.1-3 all
+  Tryton application platform - account cash rounding module
+
+tryton-modules-account-consolidation/stable 7.0.1-1 all
+  Tryton application platform - doc/index.rst
+
+tryton-modules-account-credit-limit/stable 7.0.2-1 all
+  Tryton application platform - account credit limit module
+
+tryton-modules-account-de-skr03/stable 7.0.0-3 all
+  Tryton application platform - german account module
+
+tryton-modules-account-deposit/stable 7.0.2-1 all
+  Tryton application platform - account deposit module
+
+tryton-modules-account-dunning/stable 7.0.0-3 all
+  Tryton application platform - account dunning module
+
+tryton-modules-account-dunning-email/stable 7.0.0-3 all
+  Tryton application platform - account dunning email module
+
+tryton-modules-account-dunning-fee/stable 7.0.0-3 all
+  Tryton application platform - account dunning fee module
+
+tryton-modules-account-dunning-letter/stable 7.0.1-1 all
+  Tryton application platform - account dunning letter module
+
+tryton-modules-account-es/stable 7.0.3-1 all
+  Tryton application platform - spanish account module
+
+tryton-modules-account-es-sii/stable 7.0.4-1 all
+  Tryton application platform - acounts spanish sii module
+
+tryton-modules-account-eu/stable 7.0.0-3 all
+  Tryton application platform - account europe module
+
+tryton-modules-account-fr/stable 7.0.0-3 all
+  Tryton application platform - french account module
+
+tryton-modules-account-fr-chorus/stable 7.0.0-3 all
+  Tryton application platform - account french chorus module
+
+tryton-modules-account-invoice/stable 7.0.12-1 all
+  Tryton application platform - account invoice module
+
+tryton-modules-account-invoice-correction/stable 7.0.0-3 all
+  Tryton application platform - account invoice correction module
+
+tryton-modules-account-invoice-defer/stable 7.0.1-1 all
+  Tryton application platform - account invoice defer module
+
+tryton-modules-account-invoice-history/stable 7.0.0-3 all
+  Tryton application platform - account invoice history module
+
+tryton-modules-account-invoice-line-standalone/stable 7.0.0-3 all
+  Tryton application platform - account invoice line standalone module
+
+tryton-modules-account-invoice-secondary-unit/stable 7.0.0-3 all
+  Tryton application platform - account invoice secondary unit module
+
+tryton-modules-account-invoice-stock/stable 7.0.2-1 all
+  Tryton application platform - account invoice stock module
+
+tryton-modules-account-invoice-watermark/stable 7.0.0-2 all
+  Tryton application platform - account invoice watermark module
+
+tryton-modules-account-move-line-grouping/stable 7.0.1-1 all
+  Tryton application platform - account move line grouping module
+
+tryton-modules-account-payment/stable 7.0.4-1 all
+  Tryton application platform - account payment module
+
+tryton-modules-account-payment-braintree/stable 7.0.0-3 all
+  Tryton application platform - account payment braintree module
+
+tryton-modules-account-payment-clearing/stable 7.0.5-1 all
+  Tryton application platform - account payment clearing module
+
+tryton-modules-account-payment-sepa/stable 7.0.4+dfsg1-1 all
+  Tryton application platform - account payment sepa module
+
+tryton-modules-account-payment-sepa-cfonb/stable 7.0.0-3 all
+  Tryton application platform - account payment sepa cfonb module
+
+tryton-modules-account-payment-stripe/stable 7.0.4-3 all
+  Tryton application platform - account payment stripe module
+
+tryton-modules-account-product/stable 7.0.1-3 all
+  Tryton application platform - account product module
+
+tryton-modules-account-receivable-rule/stable 7.0.2-1 all
+  Tryton application platform - account receivable rule module
+
+tryton-modules-account-rule/stable 7.0.0-2 all
+  Tryton application platform - account rule module
+
+tryton-modules-account-statement/stable 7.0.4-1 all
+  Tryton application platform - account statement module
+
+tryton-modules-account-statement-aeb43/stable 7.0.2-1 all
+  Tryton application platform - account statement aeb43 module
+
+tryton-modules-account-statement-coda/stable 7.0.0-3 all
+  Tryton application platform - account statement coda module
+
+tryton-modules-account-statement-mt940/stable 7.0.1-3 all
+  Tryton application platform - account statement mt940 module
+
+tryton-modules-account-statement-ofx/stable 7.0.0-3 all
+  Tryton application platform - account statement ofx module
+
+tryton-modules-account-statement-rule/stable 7.0.1-3 all
+  Tryton application platform - account statement rule module
+
+tryton-modules-account-statement-sepa/stable 7.0.0-2 all
+  Tryton application platform - account statement sepa module
+
+tryton-modules-account-stock-anglo-saxon/stable 7.0.1-3 all
+  Tryton application platform - account stock anglo-saxon module
+
+tryton-modules-account-stock-continental/stable 7.0.2-3 all
+  Tryton application platform - account stock continental module
+
+tryton-modules-account-stock-eu/stable 7.0.2-2 all
+  Tryton application platform - account stock eu module
+
+tryton-modules-account-stock-landed-cost/stable 7.0.0-3 all
+  Tryton application platform - account stock landed cost module
+
+tryton-modules-account-stock-landed-cost-weight/stable 7.0.0-3 all
+  Tryton application platform - account stock landed cost weight module
+
+tryton-modules-account-stock-shipment-cost/stable 7.0.1-2 all
+  Tryton application platform - account stock shipment cost module
+
+tryton-modules-account-stock-shipment-cost-weight/stable 7.0.0-2 all
+  Tryton application platform - account stock shipment cost weight module
+
+tryton-modules-account-tax-cash/stable 7.0.2-3 all
+  Tryton application platform - account tax cash module
+
+tryton-modules-account-tax-non-deductible/stable 7.0.0-2 all
+  Tryton application platform - account tax non-deductible module
+
+tryton-modules-account-tax-rule-country/stable 7.0.2-3 all
+  Tryton application platform - account tax rule country
+
+tryton-modules-all/stable 56 all
+  Tryton application platform - Tryton modules metapackage
+
+tryton-modules-analytic-account/stable 7.0.3-1 all
+  Tryton application platform - analytic account module
+
+tryton-modules-analytic-budget/stable 7.0.0-3 all
+  Tryton application platform - analytic budget module
+
+tryton-modules-analytic-invoice/stable 1:7.0.0-3 all
+  Tryton application platform - analytic invoice module
+
+tryton-modules-analytic-purchase/stable 7.0.0-3 all
+  Tryton application platform - analytic purchase module
+
+tryton-modules-analytic-sale/stable 7.0.0-3 all
+  Tryton application platform - analytic sale module
+
+tryton-modules-attendance/stable 7.0.1-3 all
+  Tryton application platform - doc/index.rst
+
+tryton-modules-authentication-saml/stable 7.0.0-2 all
+  Tryton application platform - authentication saml module
+
+tryton-modules-authentication-sms/stable 7.0.0-3 all
+  Tryton application platform - authentication sms module
+
+tryton-modules-bank/stable 7.0.0-3 all
+  Tryton application platform - bank module
+
+tryton-modules-carrier/stable 7.0.1-3 all
+  Tryton application platform - carrier module
+
+tryton-modules-carrier-carriage/stable 7.0.0-2 all
+  Tryton application platform - carrier carriage module
+
+tryton-modules-carrier-percentage/stable 7.0.0-3 all
+  Tryton application platform - carrier percentage module
+
+tryton-modules-carrier-subdivision/stable 7.0.1-3 all
+  Tryton application platform - doc/index.rst
+
+tryton-modules-carrier-weight/stable 7.0.0-3 all
+  Tryton application platform - carrier weight module
+
+tryton-modules-commission/stable 7.0.2-1 all
+  Tryton application platform - commission module
+
+tryton-modules-commission-waiting/stable 7.0.0-3 all
+  Tryton application platform - commission waiting
+
+tryton-modules-company/stable 7.0.2-1 all
+  Tryton application platform - company module
+
+tryton-modules-company-work-time/stable 7.0.0-3 all
+  Tryton application platform - company work time module
+
+tryton-modules-country/stable 7.0.0-4 all
+  Tryton application platform - country module
+
+tryton-modules-currency/stable 7.0.1-3 all
+  Tryton application platform - currency module
+
+tryton-modules-currency-ro/stable 7.0.0-2 all
+  Tryton application platform - currency ro module
+
+tryton-modules-currency-rs/stable 7.0.0-2 all
+  Tryton application platform - currency rs module
+
+tryton-modules-customs/stable 7.0.1-1 all
+  Tryton application platform - customs module
+
+tryton-modules-dashboard/stable 7.0.1-1 all
+  Tryton application platform - dashboard module
+
+tryton-modules-document-incoming/stable 7.0.3-1 all
+  Tryton application platform - document incoming module
+
+tryton-modules-document-incoming-invoice/stable 7.0.0-3 all
+  Tryton application platform - document incoming invoice module
+
+tryton-modules-document-incoming-ocr/stable 7.0.3-2 all
+  Tryton application platform - document incoming ocr module
+
+tryton-modules-document-incoming-ocr-typless/stable 7.0.0-2 all
+  Tryton application platform - document incoming ocr typless module
+
+tryton-modules-edocument-uncefact/stable 7.0.1-3 all
+  Tryton application platform - edocument un/cefact module
+
+tryton-modules-edocument-unece/stable 7.0.0-3 all
+  Tryton application platform - edocument unece module
+
+tryton-modules-google-maps/stable 7.0.0-3 all
+  Tryton application platform - google maps module
+
+tryton-modules-inbound-email/stable 7.0.2-1 all
+  Tryton application platform - inbound email module
+
+tryton-modules-incoterm/stable 7.0.2-1 all
+  Tryton application platform - incoterm module
+
+tryton-modules-ldap-authentication/stable 7.0.0-3 all
+  Tryton application platform - ldap authentication module
+
+tryton-modules-marketing/stable 7.0.0-3 all
+  Tryton application platform - marketing module
+
+tryton-modules-marketing-automation/stable 7.0.1-1 all
+  Tryton application platform - marketing automation module
+
+tryton-modules-marketing-campaign/stable 7.0.1-2 all
+  Tryton application platform - marketing campaign module
+
+tryton-modules-marketing-email/stable 7.0.0-3 all
+  Tryton application platform - marketing email module
+
+tryton-modules-notification-email/stable 7.0.0-3 all
+  Tryton application platform - notification email module
+
+tryton-modules-party/stable 7.0.6-1 all
+  Tryton application platform - party module
+
+tryton-modules-party-avatar/stable 7.0.0-3 all
+  Tryton application platform - party avatar module
+
+tryton-modules-party-relationship/stable 7.0.1-1 all
+  Tryton application platform - party relationship module
+
+tryton-modules-party-siret/stable 7.0.0-3 all
+  Tryton application platform - party siret module
+
+tryton-modules-product/stable 7.0.2-1 all
+  Tryton application platform - product module
+
+tryton-modules-product-attribute/stable 7.0.0-3 all
+  Tryton application platform - product attribute module
+
+tryton-modules-product-classification/stable 7.0.0-3 all
+  Tryton application platform - product classification module
+
+tryton-modules-product-classification-taxonomic/stable 7.0.0-3 all
+  Tryton application platform - product classification taxonomic module
+
+tryton-modules-product-cost-fifo/stable 7.0.1-3 all
+  Tryton application platform - product cost fifo module
+
+tryton-modules-product-cost-history/stable 7.0.1-1 all
+  Tryton application platform - product cost history module
+
+tryton-modules-product-cost-warehouse/stable 7.0.1-1 all
+  Tryton application platform - product cost warehouse module
+
+tryton-modules-product-image/stable 7.0.2-1 all
+  Tryton application platform - product image module
+
+tryton-modules-product-image-attribute/stable 7.0.0-2 all
+  Tryton application platform - product image attribute module
+
+tryton-modules-product-kit/stable 7.0.4-3 all
+  Tryton application platform - product kit module
+
+tryton-modules-product-measurements/stable 7.0.0-3 all
+  Tryton application platform - product measurements
+
+tryton-modules-product-price-list/stable 7.0.0-3 all
+  Tryton application platform - product price list module
+
+tryton-modules-product-price-list-cache/stable 7.0.0-2 all
+  Tryton application platform - product price list cache module
+
+tryton-modules-product-price-list-dates/stable 7.0.0-3 all
+  Tryton application platform - product price list dates module
+
+tryton-modules-product-price-list-parent/stable 7.0.0-3 all
+  Tryton application platform - product price list parent module
+
+tryton-modules-production/stable 7.0.3-3 all
+  Tryton application platform - production module
+
+tryton-modules-production-outsourcing/stable 7.0.1-3 all
+  Tryton application platform - production outsourcing module
+
+tryton-modules-production-routing/stable 7.0.0-3 all
+  Tryton application platform - production routing module
+
+tryton-modules-production-split/stable 7.0.1-3 all
+  Tryton application platform - production split module
+
+tryton-modules-production-work/stable 7.0.0-3 all
+  Tryton application platform - production work module
+
+tryton-modules-production-work-timesheet/stable 7.0.0-3 all
+  Tryton application platform - production work timesheet module
+
+tryton-modules-project/stable 7.0.0-3 all
+  Tryton application platform - project module
+
+tryton-modules-project-invoice/stable 7.0.3-3 all
+  Tryton application platform - project invoice module
+
+tryton-modules-project-plan/stable 7.0.0-3 all
+  Tryton application platform - project plan module
+
+tryton-modules-project-revenue/stable 7.0.2-1 all
+  Tryton application platform - project revenue module
+
+tryton-modules-purchase/stable 7.0.12-1 all
+  Tryton application platform - purchase module
+
+tryton-modules-purchase-amendment/stable 7.0.2-1 all
+  Tryton application platform - purchase amendment module
+
+tryton-modules-purchase-blanket-agreement/stable 7.0.4-1 all
+  Tryton application platform - doc/index.rst
+
+tryton-modules-purchase-history/stable 7.0.0-3 all
+  Tryton application platform - purchase history module
+
+tryton-modules-purchase-invoice-line-standalone/stable 7.0.0-3 all
+  Tryton application platform - purchase invoice line standalone module
+
+tryton-modules-purchase-price-list/stable 7.0.0-3 all
+  Tryton application platform - purchase price list module
+
+tryton-modules-purchase-product-quantity/stable 7.0.0-2 all
+  Tryton application platform - purchase product quantity module
+
+tryton-modules-purchase-request/stable 7.0.1-1 all
+  Tryton application platform - purchase request module
+
+tryton-modules-purchase-request-quotation/stable 7.0.2-3 all
+  Tryton application platform - purchase request for quotation module
+
+tryton-modules-purchase-requisition/stable 7.0.4-1 all
+  Tryton application platform - purchase requisition module
+
+tryton-modules-purchase-secondary-unit/stable 7.0.2-1 all
+  Tryton application platform - purchase secondary unit module
+
+tryton-modules-purchase-shipment-cost/stable 7.0.0-3 all
+  Tryton application platform - purchase shipment cost module
+
+tryton-modules-quality/stable 7.0.1-1 all
+  Tryton application platform - quality module
+
+tryton-modules-sale/stable 7.0.13-1 all
+  Tryton application platform - sale module
+
+tryton-modules-sale-advance-payment/stable 7.0.3-3 all
+  Tryton application platform - sale advance payment module
+
+tryton-modules-sale-amendment/stable 7.0.2-1 all
+  Tryton application platform - sale amendment module
+
+tryton-modules-sale-blanket-agreement/stable 7.0.3-1 all
+  Tryton application platform - doc/index.rst
+
+tryton-modules-sale-complaint/stable 7.0.0-3 all
+  Tryton application platform - sale complaint module
+
+tryton-modules-sale-credit-limit/stable 7.0.2-1 all
+  Tryton application platform - sale credit limit
+
+tryton-modules-sale-discount/stable 7.0.1-3 all
+  Tryton application platform - sale discount module
+
+tryton-modules-sale-extra/stable 7.0.2-3 all
+  Tryton application platform - sale extra
+
+tryton-modules-sale-gift-card/stable 7.0.0-4 all
+  Tryton application platform - sale gift card module
+
+tryton-modules-sale-history/stable 7.0.0-3 all
+  Tryton application platform - sale history module
+
+tryton-modules-sale-invoice-date/stable 7.0.1-2 all
+  Tryton application platform - sale invoice date module
+
+tryton-modules-sale-invoice-grouping/stable 7.0.0-3 all
+  Tryton application platform - sale invoice grouping module
+
+tryton-modules-sale-opportunity/stable 7.0.5-1 all
+  Tryton application platform - sale opportunity module
+
+tryton-modules-sale-payment/stable 7.0.1-3 all
+  Tryton application platform - sale payment module
+
+tryton-modules-sale-point/stable 7.0.2-1 all
+  Tryton application platform - sale point module
+
+tryton-modules-sale-price-list/stable 7.0.0-3 all
+  Tryton application platform - sale price list module
+
+tryton-modules-sale-product-customer/stable 7.0.1-3 all
+  Tryton application platform - sale product customer module
+
+tryton-modules-sale-product-quantity/stable 7.0.0-2 all
+  Tryton application platform - sale product quantity module
+
+tryton-modules-sale-product-recommendation/stable 7.0.1-2 all
+  Tryton application platform - sale product recommendation module
+
+tryton-modules-sale-product-recommendation-association-rule/stable 7.0.0-3 all
+  Tryton application platform - sale product recommendation association rule module
+
+tryton-modules-sale-promotion/stable 7.0.1-3 all
+  Tryton application platform - sale promotion
+
+tryton-modules-sale-promotion-coupon/stable 7.0.1-1 all
+  Tryton application platform - sale promotion coupon module
+
+tryton-modules-sale-promotion-coupon-payment/stable 7.0.0-2 all
+  Tryton application platform - sale promotion coupon payment module
+
+tryton-modules-sale-secondary-unit/stable 7.0.2-1 all
+  Tryton application platform - sale secondary unit module
+
+tryton-modules-sale-shipment-cost/stable 7.0.7-1 all
+  Tryton application platform - sale shipment cost module
+
+tryton-modules-sale-shipment-grouping/stable 7.0.0-3 all
+  Tryton application platform - sale shipment grouping module
+
+tryton-modules-sale-shipment-tolerance/stable 7.0.1-3 all
+  Tryton application platform - sale shipment tolerance module
+
+tryton-modules-sale-stock-quantity/stable 7.0.1-3 all
+  Tryton application platform - sale stock quantity
+
+tryton-modules-sale-subscription/stable 7.0.3-1 all
+  Tryton application platform - sale subscription module
+
+tryton-modules-sale-subscription-asset/stable 7.0.1-1 all
+  Tryton application platform - sale subscription asset module
+
+tryton-modules-sale-supply/stable 7.0.6-3 all
+  Tryton application platform - sale supply module
+
+tryton-modules-sale-supply-drop-shipment/stable 7.0.2-3 all
+  Tryton application platform - sale supply drop shipment model
+
+tryton-modules-sale-supply-production/stable 7.0.0-3 all
+  Tryton application platform - sale supply production module
+
+tryton-modules-stock/stable 7.0.12-1 all
+  Tryton application platform - stock module
+
+tryton-modules-stock-assign-manual/stable 7.0.0-3 all
+  Tryton application platform - stock assign manual module
+
+tryton-modules-stock-consignment/stable 7.0.2-1 all
+  Tryton application platform - stock consignment module
+
+tryton-modules-stock-forecast/stable 7.0.1-1 all
+  Tryton application platform - stock forecast module
+
+tryton-modules-stock-inventory-location/stable 7.0.0-3 all
+  Tryton application platform - stock inventory location module
+
+tryton-modules-stock-location-move/stable 7.0.0-3 all
+  Tryton application platform - stock location move module
+
+tryton-modules-stock-location-sequence/stable 7.0.0-3 all
+  Tryton application platform - stock location sequence module
+
+tryton-modules-stock-lot/stable 7.0.3-3 all
+  Tryton application platform - stock lot module
+
+tryton-modules-stock-lot-sled/stable 7.0.0-3 all
+  Tryton application platform - stock lot shelf life expiration date
+
+tryton-modules-stock-lot-unit/stable 7.0.1-1 all
+  Tryton application platform - stock lot unit module
+
+tryton-modules-stock-package/stable 7.0.1-3 all
+  Tryton application platform - stock package module
+
+tryton-modules-stock-package-shipping/stable 7.0.1-3 all
+  Tryton application platform - stock package shipping module
+
+tryton-modules-stock-package-shipping-dpd/stable 7.0.2-1 all
+  Tryton application platform - stock package shipping dpd module
+
+tryton-modules-stock-package-shipping-mygls/stable 7.0.0-2 all
+  Tryton application platform - stock package shipping mygls module
+
+tryton-modules-stock-package-shipping-sendcloud/stable 7.0.3-2 all
+  Tryton application platform - stock package shipping sendcloud module
+
+tryton-modules-stock-package-shipping-ups/stable 7.0.5-1 all
+  Tryton application platform - stock package shipping ups module
+
+tryton-modules-stock-product-location/stable 7.0.2-3 all
+  Tryton application platform - stock product location module
+
+tryton-modules-stock-quantity-early-planning/stable 7.0.0-3 all
+  Tryton application platform - stock quantity early planning module
+
+tryton-modules-stock-quantity-issue/stable 7.0.0-3 all
+  Tryton application platform - stock quantity issue module
+
+tryton-modules-stock-secondary-unit/stable 7.0.0-3 all
+  Tryton application platform - stock secondary unit module
+
+tryton-modules-stock-shipment-cost/stable 7.0.1-3 all
+  Tryton application platform - stock shipment cost module
+
+tryton-modules-stock-shipment-cost-weight/stable 7.0.0-2 all
+  Tryton application platform - stock shipment cost weight module
+
+tryton-modules-stock-shipment-measurements/stable 7.0.1-3 all
+  Tryton application platform - stock shipment measurements module
+
+tryton-modules-stock-split/stable 7.0.0-3 all
+  Tryton application platform - stock split module
+
+tryton-modules-stock-supply/stable 7.0.4-1 all
+  Tryton application platform - stock supply module
+
+tryton-modules-stock-supply-day/stable 7.0.0-3 all
+  Tryton application platform - stock supply day module
+
+tryton-modules-stock-supply-forecast/stable 7.0.0-3 all
+  Tryton application platform - stock supply forecast module
+
+tryton-modules-stock-supply-production/stable 7.0.1-3 all
+  Tryton application platform - stock supply production module
+
+tryton-modules-timesheet/stable 7.0.1-3 all
+  Tryton application platform - timesheet module
+
+tryton-modules-timesheet-cost/stable 7.0.0-3 all
+  Tryton application platform - timesheet cost module
+
+tryton-modules-user-role/stable 7.0.0-3 all
+  Tryton application platform - user role module
+
+tryton-modules-web-shop/stable 7.0.3-1 all
+  Tryton application platform - web shop module
+
+tryton-modules-web-shop-shopify/stable 7.0.5-1 all
+  Tryton application platform - web shop shopify module
+
+tryton-modules-web-shop-vue-storefront/stable 7.0.0-3 all
+  Tryton application platform - web vue storefront module
+
+tryton-modules-web-shop-vue-storefront-stripe/stable 7.0.0-3 all
+  Tryton application platform - web shop vue storefront stripe module
+
+tryton-modules-web-shortener/stable 7.0.0-3 all
+  Tryton application platform - web shortener module
+
+tryton-modules-web-user/stable 7.0.1-3 all
+  Tryton application platform - web user module
+
+tryton-proteus/stable 7.0.1-3 all
+  Tryton application platform - scripting client
+
+tryton-sao/stable 7.0.28+ds1-1+deb13u2 all
+  Tryton application platform - web client
+
+tryton-server/stable 7.0.30-1+deb13u1 all
+  Tryton application platform - server
+
+tryton-server-all-in-one/stable 7.0.30-1+deb13u1 all
+  Tryton application platform - full installation
+
+tryton-server-doc/stable 7.0.30-1+deb13u1 all
+  Tryton application platform - server documentation
+
+tryton-server-nginx/stable 7.0.30-1+deb13u1 all
+  Tryton application platform - Nginx integration
+
+tryton-server-postgresql/stable 7.0.30-1+deb13u1 all
+  Tryton application platform - PostgreSQL integration
+
+tryton-server-uwsgi/stable 7.0.30-1+deb13u1 all
+  Tryton application platform - uWSGI integration
+
+varnish/stable 7.7.0-3+deb13u1 arm64
+  state of the art, high-performance web accelerator
+
+varnish-redis/stable 21.0-1 arm64
+  access Redis servers from VCL
+
+watchdog/stable 5.16-1.1 arm64
+  system health checker and software/hardware watchdog handler
+
+xsensors/stable 0.80-2 arm64
+  hardware health information viewer
+
+xymon/stable 4.3.30-4 arm64
+  monitoring system for systems, networks and applications
+

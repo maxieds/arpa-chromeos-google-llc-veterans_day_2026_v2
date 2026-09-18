@@ -1,0 +1,365 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+any2fasta/stable 0.4.2-2 all
+  convert various sequence formats to FASTA
+
+any2fasta-examples/stable 0.4.2-2 all
+  convert various sequence formats to FASTA (example data)
+
+ariba/stable 2.14.7+ds-7+b1 arm64
+  Antibiotic Resistance Identification By Assembly
+
+artfastqgenerator/stable 0.0.20150519-5 all
+  outputs artificial FASTQ files derived from a reference genome
+
+artfastqgenerator-doc/stable 0.0.20150519-5 all
+  outputs artificial FASTQ files derived from a reference genome (doc)
+
+artfastqgenerator-examples/stable 0.0.20150519-5 all
+  outputs artificial FASTQ files derived from a reference genome (examples)
+
+assembly-stats/stable 1.0.1+ds-6 arm64
+  get assembly statistics from FASTA and FASTQ files
+
+barrnap/stable 0.9+dfsg-4 all
+  rapid ribosomal RNA prediction
+
+bbmap/stable 39.20+dfsg-2 all
+  BBTools genomic aligner and other tools for short sequences
+
+belvu/stable 4.44.1+dfsg-7.1+b3 arm64
+  multiple sequence alignment viewer and phylogenetic tool
+
+bifrost/stable 1.3.1-1+b1 arm64
+  parallel construction, indexing and querying of de Bruijn graphs
+
+bioawk/stable 1.0-5+b1 arm64
+  extension of awk for biological sequence analysis
+
+biosyntax/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (metapackage)
+
+biosyntax-common/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (common files)
+
+biosyntax-example/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (example)
+
+biosyntax-gedit/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (gedit)
+
+biosyntax-less/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (less)
+
+biosyntax-vim/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (vim)
+
+catfishq/stable 1.4.0+ds-1 all
+  concatenates fastq files
+
+cdbfasta/stable 1.00+git20230710.da8f5ba+dfsg-1+b1 arm64
+  Constant DataBase indexing and retrieval tools for multi-FASTA files
+
+clustalw/stable 2.1+lgpl-7+b2 arm64
+  global multiple nucleotide or peptide sequence alignment
+
+conservation-code/stable 20110309.0-8 all
+  protein sequence conservation scoring tool
+
+dazzdb/stable 1.0+git20250217.a3eefd4-1 arm64
+  manage nucleotide sequencing read data
+
+deblur/stable 1.1.1-4 all
+  deconvolution for Illumina amplicon sequencing
+
+dextractor/stable 1.0-6+b2 arm64
+  (d)extractor and compression command library
+
+dnaclust/stable 3-7+b5 arm64
+  tool for clustering millions of short DNA sequences
+
+exonerate/stable 2.4.0-5+b2 arm64
+  generic tool for pairwise sequence comparison
+
+fasta3/stable 36.3.8i.14-Nov-2020-3 arm64
+  tools for searching collections of biological sequences
+
+fasta3-doc/stable 36.3.8i.14-Nov-2020-3 all
+  user guide for FASTA tools
+
+fastahack/stable 1.0.0+dfsg-11+b2 arm64
+  utility for indexing and sequence extraction from FASTA files
+
+fastani/stable 1.33-3+b1 arm64
+  Fast alignment-free computation of whole-genome Average Nucleotide Identity
+
+fastaq/stable 3.17.0-9 all
+  FASTA and FASTQ file manipulation tools
+
+flexbar/stable 1:3.5.0-5+b1 arm64
+  flexible barcode and adapter removal for sequencing platforms
+
+gffread/stable 0.12.7-8 arm64
+  GFF/GTF format conversions, region filtering, FASTA sequence extraction
+
+golang-github-shenwei356-bio-dev/stable 0.13.3-1 all
+  lightweight and high-performance bioinformatics package in Golang (library)
+
+golang-github-wenerme-astgo-dev/stable 0.0~git20230926.1b5bc38-2 all
+  Libraries to work with Asterisk (library)
+
+grinder/stable 0.5.4-6 all
+  Versatile omics shotgun and amplicon sequencing read simulator
+
+jellyfish/stable 2.3.1-4+b1 arm64
+  count k-mers in DNA sequences
+
+jellyfish-examples/stable 2.3.1-4 all
+  count k-mers in DNA sequences (examples for testing)
+
+jellyfish1/stable 1.1.11-10 arm64
+  count k-mers in DNA sequences
+
+kaptive/stable 2.0.8-1 all
+  obtain information about K and O types for Klebsiella genome assemblies
+
+kaptive-data/stable 2.0.8-1 all
+  reference data for kaptive for Klebsiella genome assemblies
+
+kaptive-example/stable 2.0.8-1 all
+  example data for kaptive for Klebsiella genome assemblies
+
+leaff/stable 0~20150903+r2013-9+b1 arm64
+  biological sequence library utilities and applications
+
+libbifrost-dev/stable 1.3.1-1+b1 arm64
+  static library and header files for libbifrost
+
+libbifrost0/stable 1.3.1-1+b1 arm64
+  library for parallel construction, indexing and querying of de Bruijn graphs
+
+libbioparser-dev/stable 3.1.0-2 all
+  library for parsing several formats in bioinformatics
+
+libfastahack-dev/stable 1.0.0+dfsg-11+b2 arm64
+  library for indexing and sequence extraction from FASTA files (devel)
+
+libfastahack0/stable 1.0.0+dfsg-11+b2 arm64
+  library for indexing and sequence extraction from FASTA files (lib)
+
+libgenome-dev/stable 1.3.11+svn20110227.4616-6+b2 arm64
+  toolkit for developing bioinformatic related software (devel)
+
+libgenome0/stable 1.3.11+svn20110227.4616-6+b2 arm64
+  toolkit for developing bioinformatic related software
+
+libjellyfish-2.0-2/stable 2.3.1-4+b1 arm64
+  count k-mers in DNA sequences (dynamic library of jellyfish)
+
+libjellyfish-2.0-dev/stable 2.3.1-4+b1 arm64
+  count k-mers in DNA sequences (development files of jellyfish)
+
+libjellyfish-perl/stable 2.3.1-4+b1 arm64
+  count k-mers in DNA sequences (Perl bindings of jellyfish)
+
+libpll-dev/stable 0.3.2-5+b1 arm64
+  Phylogenetic Likelihood Library (development)
+
+libpll0/stable 0.3.2-5+b1 arm64
+  Phylogenetic Likelihood Library
+
+librostlab-doc/stable 1.0.20-14 all
+  C++ library for computational biology (documentation)
+
+librostlab3-dev/stable 1.0.20-14 arm64
+  C++ library for computational biology (development)
+
+librostlab3t64/stable 1.0.20-14 arm64
+  C++ library for computational biology
+
+libsnp-sites1/stable 2.5.1-2+b2 arm64
+  Shared libraries of the package snp-sites
+
+libsnp-sites1-dev/stable 2.5.1-2+b2 arm64
+  Static libraries and header files for the package snp-sites
+
+maffilter/stable 1.3.1+dfsg-6+b1 arm64
+  process genome alignment in the Multiple Alignment Format
+
+maffilter-examples/stable 1.3.1+dfsg-6 all
+  process genome alignment in the Multiple Alignment Format (example data)
+
+mapsembler2/stable 2.2.4+dfsg1-4+b1 arm64
+  bioinformatics targeted assembly software
+
+mauve-aligner/stable 2.4.0+4736-6 all
+  multiple genome alignment
+
+ncbi-rrna-data/stable 6.1.20170106+dfsg2-6 all
+  large rRNA BLAST databases distributed with the NCBI toolkit
+
+norsnet/stable 1.0.17-7 all
+  tool to identify unstructured loops in proteins
+
+ntcard/stable 1.2.2+dfsg-9 arm64
+  Streaming algorithm to estimate cardinality in genomics datasets
+
+pbdagcon/stable 0.3+git20180411.c14c422+dfsg-9 arm64
+  sequence consensus using directed acyclic graphs
+
+picard-tools/stable 3.3.0+dfsg-2 all
+  Command line tools to manipulate SAM and BAM files
+
+pilon/stable 1.24-4 all
+  automated genome assembly improvement and variant detection tool
+
+prime-phylo/stable 1.0.11-13+b1 arm64
+  bayesian estimation of gene trees taking the species tree into account
+
+prinseq-lite/stable 0.20.4-6 all
+  PReprocessing and INformation of SEQuence data (lite version)
+
+profbval/stable 1.0.22-8 all
+  predictor of flexible/rigid protein residues from sequence
+
+progressivemauve/stable 1.2.0+4713+dfsg-5+b4 arm64
+  multiple genome alignment algorithms
+
+pullseq/stable 1.0.2-5+b1 arm64
+  Extract sequence from a fasta or fastq
+
+pyfastx/stable 2.2.0-1+b1 arm64
+  fast random access to sequences from FASTA/Q file - command
+
+python-odmantic-doc/stable 1.0.2-4 all
+  Simple and powerful factories for mock data generation (Documentation)
+
+python-pyfaidx-examples/stable 0.8.1.3-2 all
+  example data for efficient random access to fasta subsequences for Python
+
+python3-asgi-csrf/stable 0.11-2 all
+  ASGI middleware for protecting against CSRF attacks
+
+python3-biomaj3/stable 3.1.24-2 all
+  BioMAJ workflow management library
+
+python3-biomaj3-cli/stable 3.1.11-5 all
+  BioMAJ client
+
+python3-biomaj3-core/stable 3.0.28-4 all
+  BioMAJ core library - Python 3.X
+
+python3-biomaj3-daemon/stable 3.0.24-3 all
+  BioMAJ daemon library
+
+python3-biomaj3-download/stable 3.2.12-2 all
+  BioMAJ download management library
+
+python3-biomaj3-process/stable 3.0.19-3 all
+  BioMAJ process management library
+
+python3-biomaj3-user/stable 3.0.12-2 all
+  BioMAJ user management library
+
+python3-databases/stable 0.9.0-1 all
+  async database support for Python's asyncio
+
+python3-dendropy/stable 4.6.1-2 all
+  DendroPy Phylogenetic Computing Library (Python 3)
+
+python3-dna-jellyfish/stable 2.3.1-4+b1 arm64
+  count k-mers in DNA sequences (Python bindings of jellyfish)
+
+python3-dnaio/stable 1.2.3-1+b1 arm64
+  Python 3 library for fast parsing of FASTQ and FASTA files
+
+python3-fastapi/stable 0.115.11-4 all
+  modern, fast, web framework for building APIs, based on type hints
+
+python3-odmantic/stable 1.0.2-4 all
+  Sync and Async ODM (Object Document Mapper) for MongoDB (Python 3)
+
+python3-pyfaidx/stable 0.8.1.3-2 all
+  efficient random access to fasta subsequences for Python 3
+
+python3-pyfastx/stable 2.2.0-1+b1 arm64
+  fast random access to sequences from FASTA/Q file - python3 module
+
+python3-screed/stable 1.1.3-1 all
+  short nucleotide read sequence utils in Python 3
+
+python3-sqlmodel/stable 0.0.24-1 all
+  SQL databases in Python, designed for simplicity, compatibility, and robustness
+
+python3-sqt/stable 0.8.0-9 arm64
+  SeQuencing Tools for biological DNA/RNA high-throughput data
+
+python3-sse-starlette/stable 2.3.4-1 all
+  SSE plugin for Starlette and FastAPI (Python 3)
+
+r-cran-tigger/stable 1.1.0-1 all
+  Infers new Immunoglobulin alleles from Rep-Seq Data
+
+racon/stable 1.5.0-3+b2 arm64
+  consensus module for raw de novo DNA assembly of long uncorrected reads
+
+rampler/stable 2.1.1-1+b1 arm64
+  module for sampling genomic sequences
+
+rdp-readseq/stable 2.0.2-9 all
+  Ribosomal Database Project (RDP) sequence reading and writing
+
+reapr/stable 1.0.18+dfsg-7 arm64
+  universal tool for genome assembly evaluation
+
+rockhopper/stable 2.0.3+dfsg2-5 all
+  system for analyzing bacterial RNA-seq data
+
+seaview/stable 1:5.0.5-3 arm64
+  Multiplatform interface for sequence alignment and phylogeny
+
+segemehl/stable 0.3.4-5+b2 arm64
+  short read mapping with gaps
+
+seqkit/stable 2.9.0+ds-1+b4 arm64
+  cross-platform and ultrafast toolkit for FASTA/Q file manipulation
+
+seqkit-examples/stable 2.9.0+ds-1 all
+  examples for seqkit: toolkit for FASTA/Q file manipulation
+
+seqtk/stable 1.4-2+b1 arm64
+  Fast and lightweight tool for processing sequences in the FASTA or FASTQ format
+
+ska/stable 1.0+dfsg-4 arm64
+  Split Kmer Analysis
+
+snp-sites/stable 2.5.1-2+b2 arm64
+  Binary code for the package snp-sites
+
+ssw-align/stable 1.1-15+b2 arm64
+  Smith-Waterman aligner based on libssw
+
+toppred/stable 1.10-10+b1 arm64
+  transmembrane topology prediction
+
+trf/stable 4.09.1-6+b1 arm64
+  locate and display tandem repeats in DNA sequences
+
+trf-examples/stable 4.09.1-6 all
+  locate and display tandem repeats in DNA sequences (examples)
+
+wise/stable 2.4.1-27 arm64
+  comparison of biopolymers, like DNA and protein sequences
+
+wise-data/stable 2.4.1-27 all
+  data files for the wise package
+
+wise-doc/stable 2.4.1-27 all
+  documentation for the wise package
+
+yanosim/stable 0.1-6 arm64
+  read simulator nanopore DRS datasets
+

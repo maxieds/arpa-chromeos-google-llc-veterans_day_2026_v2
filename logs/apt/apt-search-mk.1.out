@@ -1,0 +1,752 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+9base/stable 1:6-14+b1 arm64
+  Plan 9 userland tools
+
+abootimg/stable 0.6-2 arm64
+  Tool to read/write/update android boot images
+
+apertium-hbs-mkd/stable 0.1.1-1 all
+  Apertium translation data for the Serbo-Croatian-Macedonian pair
+
+apertium-mk-bg/stable 0.2.1-2 all
+  Transitional dummy package for apertium-mkd-bul
+
+apertium-mk-en/stable 0.1.3-2 all
+  Transitional dummy package for apertium-mkd-eng
+
+apertium-mkd-bul/stable 0.2.1-2 all
+  Apertium translation data for the Macedonian-Bulgarian pair
+
+apertium-mkd-eng/stable 0.1.3-2 all
+  Apertium translation data for the Macedonian-English pair
+
+apfsprogs/stable 0.2.0-1 arm64
+  experimental APFS tools for Linux
+
+arduino-mk/stable 1.5.2-2.1 all
+  Program your Arduino from the command line
+
+avarice/stable 2.14+svn427-2 arm64
+  use GDB with Atmel AVR debuggers
+
+avldrums.lv2/stable 0.7.3-1+b1 arm64
+  Drum Sample Player Plugin
+
+avldrums.lv2-soundfont/stable 0.7.3-1 all
+  Drum Sample Player Plugin - Soundfonts
+
+bamkit/stable 0.0.1+git20170413.ccd079d-3 all
+  tools for common BAM file manipulations
+
+bettercap/stable 2.33.0-1+b9 arm64
+  Complete, modular, portable and easily extensible MITM framework
+
+bmake/stable 20200710-17 arm64
+  NetBSD make
+
+btrfs-progs/stable,now 6.14-1 arm64 [installed]
+  Checksumming Copy on Write Filesystem utilities
+
+cegui-mk2-0.8.7/stable 0.8.7+git20220615-6+b2 arm64
+  Crazy Eddie's GUI (executables)
+
+changeme/stable 1.2.3-7 all
+  Default credential scanner
+
+chirp/stable 1:20250502-1 all
+  Configuration tool for amateur radios
+
+cl-launch/stable 4.1.4-1.1 all
+  uniform frontend to running Common Lisp code from the shell
+
+cl-quicklisp/stable 20150128-2 all
+  library manager for Common Lisp
+
+cl-trivial-macroexpand-all/stable 0~git20171020.933270a-2 all
+  macroexpand-all function which calls implementation-specific equivalent
+
+claws-mail-themes/stable 20221017+dfsg.1-1 all
+  Pixmap icon themes for the Claws Mail mailer
+
+console-cyrillic/stable 0.9-18 all
+  Cyrillic fonts and keyboard layouts for Linux console
+
+coreutils/stable,now 9.7-3 arm64 [installed]
+  GNU core utilities
+
+cowpatty/stable 4.8-3+b3 arm64
+  Brute-force WPA dictionary attack
+
+cppcheck/stable 2.17.1-2 arm64
+  tool for static C/C++ code analysis (CLI)
+
+cppcheck-gui/stable 2.17.1-2 arm64
+  tool for static C/C++ code analysis (GUI)
+
+devscripts/stable 2.25.15+deb13u1 all
+  scripts to make the life of a Debian Package maintainer easier
+
+dh-ada-library/stable 9.9 all
+  tools for packaging software written in the Ada programming language
+
+dhav2mkv/stable 1.4.1-2+b1 arm64
+  DHAV video to MKV format converter
+
+dict-freedict-mkd-bul/stable 2022.04.21-1 all
+  Macedonian-Bulgarian dictionary for the dict server/client
+
+dmktools/stable 20.0+dfsg-1.2 arm64
+  tools for manipulating floppy disk images in the dmk format
+
+dosfstools/stable 4.2-1.2 arm64
+  utilities for making and checking MS-DOS FAT filesystems
+
+drumgizmo/stable 0.9.20-3+b2 arm64
+  Audio sampler plugin and stand-alone app that simulates a real drum kit
+
+drumkv1/stable 1.3.1-2 arm64
+  old-school drum-kit sampler - standalone
+
+drumkv1-common/stable 1.3.1-2 all
+  old-school drum-kit sampler - common files
+
+drumkv1-lv2/stable 1.3.1-2 arm64
+  old-school drum-kit sampler - lv2-plugin
+
+e2tools/stable 0.1.2-1 arm64
+  utilities for manipulating files in an ext2/ext3 filesystem
+
+eot-utils/stable 1.1-2 arm64
+  Tools to convert from OTF or TTF to EOT font format
+
+exfatprogs/stable 1.2.9-1+deb13u1 arm64
+  exFAT file system utilities
+
+firefox-esr-l10n-mk/stable 140.12.0esr-1~deb13u1 all
+  Macedonian language package for Firefox ESR
+
+fonts-femkeklaver/stable 1.0-4 all
+  simple handwriting font
+
+fonts-myanmar/stable 0.0-1 all
+  Myanmar font Collection
+
+genisoimage/stable 9:1.1.11-4 arm64
+  Creates ISO-9660 CD-ROM filesystem images
+
+genromfs/stable 0.5.2-4 arm64
+  This is the mkfs equivalent for romfs filesystem
+
+gmpc-plugins/stable 11.8.16-8 arm64
+  Plugins for the GNOME Music Player Client
+
+goattracker/stable 2.77+ds-1 arm64
+  C64 music editor
+
+golang-android-soong-dev/stable 0.0~git20201014.17e97d9-4 all
+  Soong build system (library)
+
+golang-github-adamkorcz-go-fuzz-headers-1-dev/stable 0.0~git20230919.8b5d3ce-2 all
+  helper functions for Go fuzzing (library)
+
+golang-github-bep-mclib-dev/stable 1.20400.20402-2 all
+  simple Go library to make it possible to run mkcert's main method
+
+golang-github-dgryski-go-minhash-dev/stable 0.0~git20190315.ad340ca-2 all
+  BottomK minwise hashing for streaming set similarity
+
+golang-github-foxboron-go-tpm-keyfiles-dev/stable 0.0~git20241207.04534a2-1 all
+  Go TPM 2.0 TSS keyfile library (library)
+
+golang-github-komkom-toml-dev/stable 0.0~git20211215.3c8ee9d-2 all
+  instream TOML to JSON encoder
+
+golang-github-mikesmitty-edkey-dev/stable 0.0~git20170222.3356ea4-2 all
+  generates ED25519 private keys in the OpenSSH private key format (Go library)
+
+golang-github-mkrautz-goar-dev/stable 0.0~git20150919.282caa8-1.1 all
+  library for reading and writing ar archives in Go
+
+golang-github-smallstep-truststore-dev/stable 0.12.1-2 all
+  Go library for local installation of development certificates
+
+golang-mvdan-sh-dev/stable 3.8.0-1 all
+  shell parser, formatter, and interpreter (library)
+
+grub-common/stable 2.12-9+deb13u2 arm64
+  GRand Unified Bootloader (common files)
+
+gwenhywfar-tools/stable 5.12.0-1 arm64
+  helper applications for Gwenhywfar library
+
+hcxkeys/stable 6.2.1-2+b2 arm64
+  Tools to generate plainmasterkeys (rainbowtables)
+
+html-xml-utils/stable 7.7-1.1+b2 arm64
+  HTML and XML manipulation utilities
+
+hydrogen/stable 1.2.2+dfsg-2 arm64
+  advanced drum machine/step sequencer
+
+hydrogen-drumkits/stable 2017.09.19~dfsg-2 all
+  drumkits for Hydrogen
+
+hydrogen-drumkits-effects/stable 2017.09.19~dfsg-2 all
+  effect drumkits for Hydrogen
+
+initramfs-tools-bin/stable 0.148.4 arm64
+  generic modular initramfs generator (binary tools)
+
+initramfs-tools-core/stable 0.148.4 all
+  generic modular initramfs generator (core tools)
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+javahelper/stable 0.80 all
+  Helper scripts for packaging Java programs
+
+jfsutils/stable 1.1.15-6+b1 arm64
+  utilities for managing the JFS filesystem
+
+jigit/stable 1.22-4+b2 arm64
+  tools for working with jigdo files
+
+latex-make/stable 2.4.3-1 all
+  easy compiling of complex (and simple) LaTeX documents
+
+latex-mk/stable 2.1-6 all
+  tool for managing LaTeX projects
+
+latexmk/stable 1:4.86~ds-1 all
+  Perl script for running LaTeX the correct number of times
+
+ldraw-mklist/stable 2502+dfsg-2 arm64
+  LDraw mklist program
+
+libanyevent-termkey-perl/stable 0.02-4 all
+  module for terminal key input using libtermkey with AnyEvent
+
+libavc1394-dev/stable 0.5.4-5+b2 arm64
+  control IEEE 1394 audio/video devices (development files)
+
+libavc1394-tools/stable 0.5.4-5+b2 arm64
+  control IEEE 1394 audio/video devices (utilities)
+
+libcegui-mk2-0.8.7t64/stable 0.8.7+git20220615-6+b2 arm64
+  Crazy Eddie's GUI (libraries)
+
+libcegui-mk2-data/stable 0.8.7+git20220615-6 all
+  Crazy Eddie's GUI (data)
+
+libcegui-mk2-dev/stable 0.8.7+git20220615-6+b2 arm64
+  Crazy Eddie's GUI (development files)
+
+libcegui-mk2-doc/stable 0.8.7+git20220615-6 all
+  Crazy Eddie's GUI (documentation)
+
+libclass-accessor-chained-perl/stable 0.01.1~debian-5 all
+  Perl module providing chained accessors
+
+libclass-accessor-perl/stable 0.51-2 all
+  Perl module that automatically generates accessors
+
+libclass-data-accessor-perl/stable 0.04004-4 all
+  Inheritable, overridable class and instance data accessor creation
+
+libclass-data-inheritable-perl/stable,now 0.10-1 all [installed,automatic]
+  Perl module to create accessors to class data
+
+libctapimkt1/stable 1.0.5~rc1-9+b3 arm64
+  Read German Krankenversichertenkarte and eGK
+
+libctapimkt1-dev/stable 1.0.5~rc1-9+b3 arm64
+  Read German Krankenversichertenkarte and eGK (development)
+
+libdjconsole-data/stable 0.1.3-3.2 all
+  Hercules DJ Console access library - data files
+
+libdjconsole-dev/stable 0.1.3-3.2+b1 arm64
+  Hercules DJ Console access library - development headers
+
+libdjconsole0/stable 0.1.3-3.2+b1 arm64
+  Hercules DJ Console access library
+
+libemail-mime-kit-perl/stable 3.000008-1 all
+  module to build complete email messages from templates
+
+libext2fs2t64/stable,now 1.47.2-3+b11 arm64 [installed,automatic]
+  ext2/ext3/ext4 file system libraries
+
+libfile-path-tiny-perl/stable 1.0-1 all
+  recursive version of mkdir() and rmdir()
+
+libfileutils-ocaml-dev/stable 0.6.6-1+b2 arm64
+  File manipulation for OCaml
+
+libgio-2.0-dev-bin/stable 2.84.4-3~deb13u3 arm64
+  Development utilities for GLib, GObject and GIO libraries
+
+libideep-dev/stable 0.0~git20250115.9873ffc-2 all
+  Intel's mkldnn/dnnl wrapper for pytorch
+
+libisofs-doc/stable 1.5.6.pl01-1.1 all
+  background documentation for libisofs library
+
+libmediainfo-dev/stable 25.04+dfsg-1 arm64
+  library reading metadata from media files -- headers
+
+libmediainfo-doc/stable 25.04+dfsg-1 all
+  library for reading metadata from media files -- documentation
+
+libmediainfo0v5/stable 25.04+dfsg-1 arm64
+  library for reading metadata from media files -- shared library
+
+libmeta-builder-perl/stable 0.004-2 all
+  tool for creating Meta objects to track custom metrics
+
+libmkcal-qt5-0/stable 0.7.27+dfsg-1 arm64
+  SQlite storage backend for KCalendarCore
+
+libmkcal-qt5-dev/stable 0.7.27+dfsg-1 arm64
+  SQlite storage backend for KCalendarCore development files
+
+libmkdoc-xml-perl/stable 0.75-6 all
+  MKDoc XML Toolkit
+
+libmonitoring-livestatus-perl/stable 0.86-1 all
+  Perl API for check_mk livestatus to access runtime
+
+libneon27t64/stable 0.34.2-1 arm64
+  HTTP and WebDAV client library
+
+libneon27t64-gnutls/stable 0.34.2-1 arm64
+  HTTP and WebDAV client library (GnuTLS enabled)
+
+libogmrip-dev/stable 1.0.1-5 arm64
+  Application for ripping and encoding DVD - development files
+
+libogmrip1/stable 1.0.1-5 arm64
+  Application for ripping and encoding DVD - libraries files
+
+libpam-mklocaluser/stable 0.20 all
+  Configure PAM to create a local user if it does not exist already
+
+libpotemkin-clojure/stable 0.4.5-4 all
+  collection of facades and workarounds for Clojure
+
+libreoffice-l10n-mk/stable 4:25.2.3-2+deb13u6 all
+  office productivity suite -- Macedonian language package
+
+librust-symphonia-format-mkv-dev/stable 0.5.2-1+b3 arm64
+  Pure Rust MKV/WebM demuxer (a part of project Symphonia) - Rust source code
+
+librust-tz-rs-dev/stable 0.6.14-1+b1 arm64
+  Pure Rust reimplementation of libc functions localtime, gmtime and mktime - Rust source code
+
+libsmacker-dev/stable 1.2.0-1+b2 arm64
+  C library for decoding .smk video files - development files
+
+libsmacker1/stable 1.2.0-1+b2 arm64
+  C library for decoding .smk video files
+
+libstring-mkpasswd-perl/stable 0.05-3 all
+  Perl module implementing a random password generator
+
+libterm-termkey-perl/stable 0.19-1 arm64
+  perl wrapper around libtermkey
+
+libtermkey-dev/stable 0.22-2+b1 arm64
+  library for processing keyboard input (development files)
+
+libtermkey1/stable 0.22-2+b1 arm64
+  library for processing keyboard input
+
+libtickit-perl/stable 0.73-1+b3 arm64
+  Terminal Interface Construction KIT
+
+libunix-mknod-perl/stable 0.05-1+b4 arm64
+  Perl extension for mknod, major, minor, and makedev
+
+lighttpd-mod-webdav/stable 1.4.79-2 arm64
+  WebDAV module for lighttpd
+
+litmus/stable 0.13-5+b2 arm64
+  WebDAV server test suite
+
+lomiri-indicator-datetime/stable 25.4.0-2 arm64
+  Lomiri Indicator providing clock and calendar
+
+maildir-utils/stable 1.12.9-1 arm64
+  Set of utilities to deal with Maildirs (upstream name mu)
+
+manpages-mk/stable 4.27.0-1 all
+  Macedonian man pages
+
+mblaze/stable 1.1-1+b2 arm64
+  UNIX utilities to deal with Maildir
+
+mediainfo/stable 25.04-1 arm64
+  command-line utility for reading information from audio/video files
+
+mediainfo-gui/stable 25.04-1 arm64
+  graphical utility for reading information from audio/video files
+
+micropython-mpremote/stable 1.24.1-1 all
+  Tool for interacting remotely with MicroPython on a microcontroller
+
+mk-configure/stable 0.37.0-2 all
+  lightweight replacement for GNU autotools
+
+mkalias/stable 1.0.10-4 all
+  Bash alias management to facilitate alias creation
+
+mkbootimg/stable 1:34.0.5-12 all
+  Creates Android boot images
+
+mkcal-bin/stable 0.7.27+dfsg-1 arm64
+  SQlite storage backend for KCalendarCore tools
+
+mkcert/stable 1.4.4-1+b18 arm64
+  Simple zero-config tool to make locally trusted certificates
+
+mkchromecast/stable 0.3.9~git20200902+db2964a-2.1 all
+  Cast your Linux audio or video to your Google Cast devices
+
+mkchromecast-alsa/stable 0.3.9~git20200902+db2964a-2.1 all
+  ALSA dependencies to cast with mkchromecast
+
+mkchromecast-gstreamer/stable 0.3.9~git20200902+db2964a-2.1 all
+  GStreamer dependencies to cast with mkchromecast
+
+mkchromecast-pulseaudio/stable 0.3.9~git20200902+db2964a-2.1 all
+  Pulseaudio dependencies to cast with mkchromecast
+
+mkcue/stable 1-8 arm64
+  Generates a CUE sheet from a CD
+
+mkdepend/stable 0.0~svn45-3 all
+  generate Makefile dependency lists from source files
+
+mkdocs/stable 1.6.1+dfsg1-2 all
+  Static site generator geared towards building project documentation
+
+mkdocs-autorefs/stable 1.4.2-1 all
+  Plugin for MkDocs to automatically link across pages
+
+mkdocs-bootstrap/stable 1.1+dfsg-0.1 all
+  bootstrap themes for MkDocs
+
+mkdocs-click/stable 0.9.0-1 all
+  MkDocs extension to generate documentation for Click command line applications
+
+mkdocs-doc/stable 1.6.1+dfsg1-2 all
+  Static site generator (documentation)
+
+mkdocs-gen-files/stable 0.5.0-2 all
+  MkDocs plugin for dynamically generated pages
+
+mkdocs-get-deps/stable 0.2.0-2 all
+  MkDocs extension that infers required PyPI packages (Python3)
+
+mkdocs-literate-nav/stable 0.6.2-1 all
+  MkDocs extension to specify the navigation in Markdown (Python3)
+
+mkdocs-literate-nav-doc/stable 0.6.2-1 all
+  MkDocs extension to specify the navigation in Markdown (Documentation)
+
+mkdocs-macros-plugin/stable 1.3.7+dfsg-1 all
+  Plugin for MkDocs to provide macros and variables
+
+mkdocs-material/stable 9.6.4-1 all
+  Material Design theme for MkDocs
+
+mkdocs-material-extensions/stable 1.3.1-1 all
+  Markdown extension resources for MkDocs for Material
+
+mkdocs-nature/stable 0.6+dfsg-1 all
+  Nature theme for MkDocs
+
+mkdocs-redirects/stable 1.2.2-1 all
+  Plugin for mkdocs to create page redirects
+
+mkdocs-section-index/stable 0.3.10-1 all
+  Plugin for MkDocs to allow clickable sections that lead to an index page
+
+mkdocstrings/stable 0.29.1-1 all
+  Automatic Python documentation from sources for MkDocs
+
+mkdocstrings-python-handlers/stable 1.16.10-1 all
+  Python handler for mkdocstrings
+
+mkdocstrings-python-legacy/stable 0.2.7-1 all
+  Legacy Python handler for mkdocstrings
+
+mkgmap/stable 0.0.0+svn4923-2 all
+  Generate Garmin maps from OpenStreetMap data
+
+mkgmap-splitter/stable 0.0.0+svn654-2 all
+  Tile splitter for mkgmap
+
+mkgmapgui/stable 1.1.ds-13 all
+  Graphical User Interface for mkgmap
+
+mklibs/stable 0.1.45 all
+  Shared library reduction script
+
+mklibs-copy/stable 0.1.45+b1 arm64
+  Shared library reduction script
+
+mkosi/stable 25.3-7 all
+  build Bespoke OS Images
+
+mksh/stable 59c-41+b2 arm64
+  MirBSD Korn Shell
+
+mktorrent/stable 1.1-3+b2 arm64
+  simple command line utility to create BitTorrent metainfo files
+
+mkvtoolnix/stable 92.0-1 arm64
+  Set of command-line tools to work with Matroska files
+
+mkvtoolnix-gui/stable 92.0-1 arm64
+  Set of tools to work with Matroska files - GUI frontend
+
+mtd-utils/stable 1:2.3.0-1 arm64
+  Memory Technology Device Utilities
+
+nagstamon/stable 3.16.2+ds1-3 all
+  Nagios status monitor which takes place in systray or on desktop
+
+nilfs-tools/stable 2.2.11-2 arm64
+  Continuous Snapshotting Log-structured Filesystem
+
+nitrokey-authenticator/stable 1.2.4-2+b3 arm64
+  TOTP authenticator app that's using Nitrokey Pro2 and/or LibremKey
+
+node-fs-extra/stable 10.1.0+~9.0.13-1 all
+  fs-extra contains methods not included in the Node.js fs module
+
+node-make-dir/stable 3.1.0-3 all
+  Make a directory and its parents if needed - Think mkdir -p
+
+node-mkdirp/stable 2.1.6+~cs5.2.1-2 all
+  Recursively create directories - Node.js module
+
+node-proper-lockfile/stable 4.1.2-4 all
+  Inter-process and inter-machine lockfile utility
+
+nwchem/stable 7.2.3-10 all
+  High-performance computational chemistry software (default MPI)
+
+nwchem-mpich/stable 7.2.3-10 arm64
+  High-performance computational chemistry software (MPICH build)
+
+nwchem-openmpi/stable 7.2.3-10 arm64
+  High-performance computational chemistry software (OpenMPI build)
+
+ocfs2-tools/stable 1.8.8-3 arm64
+  tools for managing OCFS2 cluster filesystems
+
+octave-dev/stable 9.4.0-1 arm64
+  development files for the GNU Octave language
+
+oddjob-mkhomedir/stable 0.34.7-2.1+b1 arm64
+  Oddjob helper which creates and populates home directories
+
+ogmrip/stable 1.0.1-5 arm64
+  Application for ripping and encoding DVD
+
+ogmrip-doc/stable 1.0.1-5 all
+  Application for ripping and encoding DVD - Documentation files
+
+ogmrip-plugins/stable 1.0.1-5 arm64
+  Application for ripping and encoding DVD - plugins
+
+pacpl/stable 6.1.3-1 all
+  multi-purpose audio converter/ripper/tagger script
+
+pd-jmmmp/stable 0.61-2 all
+  collection of Pd GUI objects for musical performance
+
+pd-moonlib/stable 0.7-3+b2 arm64
+  library of Pd objects related to GUI control
+
+pkg-kde-tools/stable 0.18.12 all
+  various packaging tools and scripts for KDE Applications
+
+python-aioftp-doc/stable 0.24.1-2 all
+  FTP client and server for asyncio (common documentation)
+
+python3-aioftp/stable 0.24.1-2 all
+  FTP client and server for asyncio (Python 3)
+
+python3-discogs-client/stable 2.7.1-2 all
+  Python module to access the Discogs API
+
+python3-filetype/stable 1.2.0-1 all
+  Infer file type and MIME type of any file/buffer
+
+python3-griffe-typingdoc/stable 0.2.8-2 all
+  Griffe extension for PEP 727 - Documentation Metadata in Typing
+
+python3-libcegui-mk2-0.8.7/stable 0.8.7+git20220615-6+b2 arm64
+  Crazy Eddie's GUI (Python 3 Bindings)
+
+python3-lockfile/stable 1:0.12.2-4 all
+  file locking library for Python — Python 3 library
+
+python3-mediainfodll/stable 25.04+dfsg-1 all
+  library for reading metadata from media files -- shared library
+
+python3-mkautodoc/stable 0.2.0-1 all
+  AutoDoc for MarkDown
+
+python3-mkdocs-test/stable 0.5.3-5 all
+  Testing framework for MkDocs projects (Python 3)
+
+python3-pytkdocs/stable 0.16.5-1 all
+  Load Python objects documentation
+
+python3-stdnum/stable 1.20-3 all
+  Python module to handle standardized numbers and codes (Python3 version)
+
+python3-volatile/stable 2.1.0-4 all
+  small extension for the Python tempfile module
+
+qmk/stable 1.1.6-1 all
+  program to help users work with QMK Firmware
+
+qtorganizer5-mkcal/stable 0.1.0~git20250424.45906b1-2 arm64
+  QtOrganizer engine for mkCal calendar
+
+r-cran-rhpcblasctl/stable 0.23-42-1+b1 arm64
+  control the number of threads on 'BLAS' in GNU R
+
+ros-mk/stable 1.15.8-7 all
+  Robot OS make file helpers
+
+ruby-cat/stable 0.2.1-1.1 all
+  Create Ruby objects in a sandbox
+
+ruby-dev/stable 1:3.3+b1 arm64
+  Header files for compiling extension modules for Ruby (default version)
+
+ruby-romkan/stable 0.4.0-2.1 all
+  Romaji <-> Kana conversion library for Ruby
+
+ruby3.3-dev/stable 3.3.8-2 arm64
+  Header files for compiling extension modules for the Ruby 3.3
+
+shfmt/stable 3.8.0-1+b8 arm64
+  format shell programs
+
+shtool/stable 2.0.8-10 all
+  portable shell tool from the GNU project
+
+simka/stable 1.5.3-8+b3 arm64
+  comparative metagenomics method dedicated to NGS datasets
+
+simkamin/stable 1.5.3-8 all
+  approximate comparative metagenomics method dedicated to NGS datasets
+
+skales/stable 0.20170929-4 all
+  Boot image creation tools for qualcomm boards
+
+slang-gsl/stable 0.10.0~pre.6-1 arm64
+  GNU Scientific Library binding for S-Lang
+
+snap-templates/stable 1.0.0.2-5+b1 arm64
+  scaffolding CLI for the Snap Framework
+
+soong/stable 0.0~git20201014.17e97d9-4+b13 arm64
+  Soong build system (command-line tools)
+
+tanidvr/stable 1.4.1-2+b1 arm64
+  tool for DVRs and IP cameras based on DVR-IP protocol used by Dahua
+
+tcllib/stable 2.0+dfsg-4 all
+  Standard Tcl Library
+
+tclsoldout/stable 0.1.1-4 arm64
+  Tcl wrapper for libsoldout, a markdown parser library
+
+tesseract-ocr-mkd/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Macedonian
+
+texlive-extra-utils/stable 2024.20250309-2 all
+  TeX Live: TeX auxiliary programs
+
+texlive-lang-german/stable 2024.20250309-1 all
+  TeX Live: German
+
+texlive-lang-greek/stable 2024.20250309-1 all
+  TeX Live: Greek
+
+texlive-lang-japanese/stable 2024.20250309-1 all
+  TeX Live: Japanese
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+texlive-pictures/stable 2024.20250309-1 all
+  TeX Live: Graphics, pictures, diagrams
+
+texlive-plain-generic/stable 2024.20250309-2 all
+  TeX Live: Plain (La)TeX packages
+
+tiny-initramfs-core/stable 0.1-6.1 arm64
+  Minimalistic initramfs implementation (core tools)
+
+tran/stable 5-3 all
+  transcribe between character scripts (alphabets)
+
+truststore/stable 0.12.1-2+b1 arm64
+  Go application for local installation of development certificates
+
+u-boot-tools/stable 2025.01-3 arm64
+  companion tools for Das U-Boot bootloader
+
+ubuntu-dev-tools/stable 0.206 all
+  useful tools for Ubuntu developers
+
+udftools/stable 2.3-2+b1 arm64
+  tools for UDF filesystems and DVD/CD-R(W) drives
+
+udisks2/stable 2.10.1-12.1+deb13u1 arm64
+  D-Bus service to access and manipulate storage devices
+
+unyaffs/stable 0.9.7-1+b1 arm64
+  Extracts files from a YAFFS2 filesystem image
+
+vokoscreen-ng/stable 4.4.0-1 arm64
+  easy to use screencast creator
+
+whois/stable 5.6.3 arm64
+  intelligent WHOIS client
+
+xfonts-jmk/stable 3.0-23 all
+  Jim Knoble's character-cell fonts for X
+
+xfonts-traditional/stable 1.8.2 all
+  Traditional fixed-width fonts for X
+
+xfonts-utils/stable,now 1:7.7+7 arm64 [installed,automatic]
+  X Window System font utility programs
+
+xfsprogs/stable 6.13.0-2+b1 arm64
+  Utilities for managing the XFS filesystem
+
+xorriso/stable 1.5.6-1.2+b1 arm64
+  command line ISO-9660 and Rock Ridge manipulation tool
+
+zmk/stable 0.5.1-2 all
+  collection of reusable Makefiles
+
+zmk-doc/stable 0.5.1-2 all
+  collection of reusable Makefiles (manual pages)
+

@@ -1,0 +1,1081 @@
+Usage: passwd [options] [password]
+
+General options:
+ -help               Display this summary
+
+Input options:
+ -in infile          Read passwords from file
+ -noverify           Never verify when reading password from terminal
+ -stdin              Read passwords from stdin
+
+Output options:
+ -quiet              No warnings
+ -table              Format output as table
+ -reverse            Switch table columns
+
+Cryptographic options:
+ -salt val           Use provided salt
+ -6                  SHA512-based password algorithm
+ -5                  SHA256-based password algorithm
+ -apr1               MD5-based password algorithm, Apache variant
+ -1                  MD5-based password algorithm
+ -aixmd5             AIX MD5-based password algorithm
+
+Random state options:
+ -rand val           Load the given file(s) into the random number generator
+ -writerand outfile  Write random data to the specified file
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -provparam val      Set a provider key-value parameter
+ -propquery val      Property query used when fetching algorithms
+
+Parameters:
+ password            Password text to digest (optional)
+Usage: passwd [options] [password]
+
+General options:
+ -help               Display this summary
+
+Input options:
+ -in infile          Read passwords from file
+ -noverify           Never verify when reading password from terminal
+ -stdin              Read passwords from stdin
+
+Output options:
+ -quiet              No warnings
+ -table              Format output as table
+ -reverse            Switch table columns
+
+Cryptographic options:
+ -salt val           Use provided salt
+ -6                  SHA512-based password algorithm
+ -5                  SHA256-based password algorithm
+ -apr1               MD5-based password algorithm, Apache variant
+ -1                  MD5-based password algorithm
+ -aixmd5             AIX MD5-based password algorithm
+
+Random state options:
+ -rand val           Load the given file(s) into the random number generator
+ -writerand outfile  Write random data to the specified file
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -provparam val      Set a provider key-value parameter
+ -propquery val      Property query used when fetching algorithms
+
+Parameters:
+ password            Password text to digest (optional)
+Usage: cmp [options]
+Valid options are:
+ -help                  Display this summary
+ -config val            Configuration file to use. "" = none. Default from env variable OPENSSL_CONF
+ -section val           Section(s) in config file to get options from. "" = 'default'. Default 'cmp'
+ -verbosity nonneg      Log level; 3=ERR, 4=WARN, 6=INFO, 7=DEBUG, 8=TRACE. Default 6 = INFO
+
+Generic message options:
+ -cmd val               CMP request to send: ir/cr/kur/p10cr/rr/genm
+ -infotype val          InfoType name for requesting specific info in genm, with specific support
+                        for 'caCerts' and 'rootCaCert'
+ -profile val           Certificate profile name to place in generalInfo field of request PKIHeader
+ -geninfo val           Comma-separated list of OID and value to place in generalInfo PKIHeader
+                        of form <OID>:int:<n> or <OID>:str:<s>, e.g. '1.2.3.4:int:56789, id-kp:str:name'
+ -template val          File to save certTemplate received in genp of type certReqTemplate
+ -keyspec val           Optional file to save Key specification received in genp of type certReqTemplate
+
+Certificate enrollment options:
+ -newkey val            Private or public key for the requested cert. Default: CSR key or client key
+ -newkeypass val        New private key pass phrase source
+ -centralkeygen         Request central (server-side) key generation. Default is local generation
+ -newkeyout val         File to save centrally generated key, in PEM format
+ -subject val           Distinguished Name (DN) of subject to use in the requested cert template
+                        For kur, default is subject of -csr arg or reference cert (see -oldcert)
+                        this default is used for ir and cr only if no Subject Alt Names are set
+ -days nonneg           Requested validity time of the new certificate in number of days
+ -reqexts val           Name of config file section defining certificate request extensions.
+                        Augments or replaces any extensions contained CSR given with -csr
+ -sans val              Subject Alt Names (IPADDR/DNS/URI) to add as (critical) cert req extension
+ -san_nodefault         Do not take default SANs from reference certificate (see -oldcert)
+ -policies val          Name of config file section defining policies certificate request extension
+ -policy_oids val       Policy OID(s) to add as policies certificate request extension
+ -policy_oids_critical  Flag the policy OID(s) given with -policy_oids as critical
+ -popo int              Proof-of-Possession (POPO) method to use for ir/cr/kur where
+                        -1 = NONE, 0 = RAVERIFIED, 1 = SIGNATURE (default), 2 = KEYENC
+ -csr val               PKCS#10 CSR file in PEM or DER format to convert or to use in p10cr
+ -out_trusted val       Certificates to trust when verifying newly enrolled certificates
+ -implicit_confirm      Request implicit confirmation of newly enrolled certificates
+ -disable_confirm       Do not confirm newly enrolled certificate w/o requesting implicit
+                        confirmation. WARNING: This leads to behavior violating RFC 9810
+ -certout val           File to save newly enrolled certificate
+ -chainout val          File to save the chain of newly enrolled certificate
+
+Certificate enrollment and revocation options:
+ -oldcert val           Certificate to be updated (defaulting to -cert) or to be revoked in rr;
+                        also used as reference (defaulting to -cert) for subject DN and SANs.
+                        Issuer is used as recipient unless -recipient, -srvcert, or -issuer given
+ -issuer val            DN of the issuer to place in the certificate template of ir/cr/kur/rr;
+                        also used as recipient if neither -recipient nor -srvcert are given
+ -serial val            Serial number of certificate to be revoked in revocation request (rr)
+ -revreason int         Reason code to include in revocation request (rr); possible values:
+                        0..6, 8..10 (see RFC5280, 5.3.1) or -1. Default -1 = none included
+
+Message transfer options:
+ -server val            [http[s]://]address[:port][/path] of CMP server. Default port 80 or 443.
+                        address may be a DNS name or an IP address; path can be overridden by -path
+ -proxy val             [http[s]://]address[:port][/path] of HTTP(S) proxy to use; path is ignored
+ -no_proxy val          List of addresses of servers not to use HTTP(S) proxy for
+                        Default from environment variable 'no_proxy', else 'NO_PROXY', else none
+ -recipient val         DN of CA. Default: subject of -srvcert, -issuer, issuer of -oldcert or -cert
+ -path val              HTTP path (aka CMP alias) at the CMP server. Default from -server, else "/"
+ -keep_alive nonneg     Persistent HTTP connections. 0: no, 1 (the default): request, 2: require
+ -msg_timeout nonneg    Number of seconds allowed per CMP message round trip, or 0 for infinite
+ -total_timeout nonneg  Overall time an enrollment incl. polling may take. Default 0 = infinite
+
+Server authentication options:
+ -trusted val           Certificates to use as trust anchors when verifying signed CMP responses
+                        unless -srvcert is given
+ -untrusted val         Intermediate CA certs for chain construction for CMP/TLS/enrolled certs
+ -srvcert val           Server cert to pin and trust directly when verifying signed CMP responses
+ -expect_sender val     DN of expected sender of responses. Defaults to subject of -srvcert, if any
+ -ignore_keyusage       Ignore CMP signer cert key usage, else 'digitalSignature' must be allowed
+ -unprotected_errors    Accept missing or invalid protection of regular error messages and negative
+                        certificate responses (ip/cp/kup), revocation responses (rp), and PKIConf
+                        WARNING: This setting leads to behavior allowing violation of RFC 9810
+ -no_cache_extracerts   Do not keep certificates received in the extraCerts CMP message field
+ -srvcertout val        File to save the server cert used and validated for CMP response protection
+ -extracertsout val     File to save extra certificates received in the extraCerts field
+ -cacertsout val        File to save CA certs received in caPubs field or genp with id-it-caCerts
+ -oldwithold val        Root CA certificate to request update for in genm of type rootCaCert
+ -newwithnew val        File to save NewWithNew cert received in genp of type rootCaKeyUpdate
+ -newwithold val        File to save NewWithOld cert received in genp of type rootCaKeyUpdate
+ -oldwithnew val        File to save OldWithNew cert received in genp of type rootCaKeyUpdate
+ -crlcert val           certificate to request a CRL for in genm of type crlStatusList
+ -oldcrl val            CRL to request update for in genm of type crlStatusList
+ -crlout val            File to save new CRL received in genp of type 'crls'
+
+Client authentication options:
+ -ref val               Reference value to use as senderKID in case no -cert is given
+ -secret val            Prefer PBM (over signatures) for protecting msgs with given password source
+ -cert val              Client's CMP signer certificate; its public key must match the -key argument
+                        This also used as default reference for subject DN and SANs.
+                        Any further certs included are appended to the untrusted certs
+ -own_trusted val       Optional certs to verify chain building for own CMP signer cert
+ -key val               CMP signer private key, not used when -secret given
+ -keypass val           Client private key (and cert and old cert) pass phrase source
+ -digest val            Digest to use in message protection and POPO signatures. Default "sha256"
+ -mac val               MAC algorithm to use in PBM-based message protection. Default "hmac-sha1"
+ -extracerts val        Certificates to append in extraCerts field of outgoing messages.
+                        This can be used as the default CMP signer cert chain to include
+ -unprotected_requests  Send request messages without CMP-level protection
+
+Credentials format options:
+ -certform val          Format (PEM or DER) to use when saving a certificate to a file. Default PEM
+ -crlform val           Format (PEM or DER) to use when saving a CRL to a file. Default DER
+ -keyform val           Format of the key input (ENGINE, other values ignored)
+ -otherpass val         Pass phrase source potentially needed for loading certificates of others
+ -engine val            Use crypto engine with given identifier, possibly a hardware device.
+                        Engines may also be defined in OpenSSL config file engine section.
+
+Provider options:
+ -provider-path val     Provider load path (must be before 'provider' argument if required)
+ -provider val          Provider to load (can be specified multiple times)
+ -provparam val         Set a provider key-value parameter
+ -propquery val         Property query used when fetching algorithms
+
+Random state options:
+ -rand val              Load the given file(s) into the random number generator
+ -writerand outfile     Write random data to the specified file
+
+TLS connection options:
+ -tls_used              Enable using TLS (also when other TLS options are not set)
+ -tls_cert val          Client's TLS certificate. May include chain to be provided to TLS server
+ -tls_key val           Private key for the client's TLS certificate
+ -tls_keypass val       Pass phrase source for the client's private TLS key (and TLS cert)
+ -tls_extra val         Extra certificates to provide to TLS server during TLS handshake
+ -tls_trusted val       Trusted certificates to use for verifying the TLS server certificate;
+                        this implies hostname validation
+ -tls_host val          Address to be checked (rather than -server) during TLS hostname validation
+
+Client-side debugging options:
+ -batch                 Do not interactively prompt for input when a password is required etc.
+ -repeat +int           Invoke the transaction the given positive number of times. Default 1
+ -reqin val             Take sequence of CMP requests to send to server from file(s)
+ -reqin_new_tid         Use fresh transactionID for CMP requests read from -reqin
+ -reqout val            Save sequence of CMP requests created by the client to file(s)
+ -reqout_only val       Save first CMP request created by the client to file and exit
+ -rspin val             Process sequence of CMP responses provided in file(s), skipping server
+ -rspout val            Save sequence of actually used CMP responses to file(s)
+ -use_mock_srv          Use internal mock server at API level, bypassing socket-based HTTP
+
+Mock server options:
+ -port val              Act as HTTP-based mock server listening on given port
+ -max_msgs nonneg       max number of messages handled by HTTP mock server. Default: 0 = unlimited
+ -srv_ref val           Reference value to use as senderKID of server in case no -srv_cert is given
+ -srv_secret val        Password source for server authentication with a pre-shared key (secret)
+ -srv_cert val          Certificate of the server
+ -srv_key val           Private key used by the server for signing messages
+ -srv_keypass val       Server private key (and cert) pass phrase source
+ -srv_trusted val       Trusted certificates for client authentication
+ -srv_untrusted val     Intermediate certs that may be useful for verifying CMP protection
+ -ref_cert val          Certificate to be expected for rr and any oldCertID in kur messages
+ -rsp_cert val          Certificate to be returned as mock enrollment result
+ -rsp_key val           Private key for the certificate to be returned as mock enrollment result
+                        Key to be returned for central key pair generation
+ -rsp_keypass val       Response private key (and cert) pass phrase source
+ -rsp_crl val           CRL to be returned in genp of type crls
+ -rsp_extracerts val    Extra certificates to be included in mock certification responses
+ -rsp_capubs val        CA certificates to be included in mock ip response
+ -rsp_newwithnew val    New root CA certificate to include in genp of type rootCaKeyUpdate
+ -rsp_newwithold val    NewWithOld transition cert to include in genp of type rootCaKeyUpdate
+ -rsp_oldwithnew val    OldWithNew transition cert to include in genp of type rootCaKeyUpdate
+ -poll_count nonneg     Number of times the client must poll before receiving a certificate
+ -check_after nonneg    The check_after value (time to wait) to include in poll response
+ -grant_implicitconf    Grant implicit confirmation of newly enrolled certificate
+ -pkistatus nonneg      PKIStatus to be included in server response. Possible values: 0..6
+ -failure nonneg        A single failure info bit number to include in server response, 0..26
+ -failurebits nonneg    Number representing failure bits to include in server response, 0..2^27 - 1
+ -statusstring val      Status string to be included in server response
+ -send_error            Force server to reply with error message
+ -send_unprotected      Send response messages without CMP-level protection
+ -send_unprot_err       In case of negative responses, server shall send unprotected error messages,
+                        certificate responses (ip/cp/kup), and revocation responses (rp).
+                        WARNING: This setting leads to behavior violating RFC 9810
+ -accept_unprotected    Accept missing or invalid protection of requests
+ -accept_unprot_err     Accept unprotected error messages from client
+ -accept_raverified     Accept RAVERIFIED as proof-of-possession (POPO)
+
+Validation options:
+ -policy val            adds policy to the acceptable policy set
+ -purpose val           certificate chain purpose
+ -verify_name val       verification policy name
+ -verify_depth int      chain depth limit
+ -auth_level int        chain authentication security level
+ -attime intmax         verification epoch time
+ -verify_hostname val   expected peer hostname
+ -verify_email val      expected peer email
+ -verify_ip val         expected peer IP address
+ -ignore_critical       permit unhandled critical extensions
+ -issuer_checks         (deprecated)
+ -crl_check             check leaf certificate revocation
+ -crl_check_all         check full chain revocation
+ -policy_check          perform rfc5280 policy checks
+ -explicit_policy       set policy variable require-explicit-policy
+ -inhibit_any           set policy variable inhibit-any-policy
+ -inhibit_map           set policy variable inhibit-policy-mapping
+ -x509_strict           disable certificate compatibility work-arounds
+ -extended_crl          enable extended CRL features
+ -use_deltas            use delta CRLs
+ -policy_print          print policy processing diagnostics
+ -check_ss_sig          check root CA self-signatures
+ -trusted_first         search trust store first (default)
+ -suiteB_128_only       Suite B 128-bit-only mode
+ -suiteB_128            Suite B 128-bit mode allowing 192-bit algorithms
+ -suiteB_192            Suite B 192-bit-only mode
+ -partial_chain         accept chains anchored by intermediate trust-store CAs
+ -no_alt_chains         (deprecated)
+ -no_check_time         ignore certificate validity time
+ -allow_proxy_certs     allow the use of proxy certificates
+cmp_main:../apps/cmp.c:3695:CMP info: using section(s) 'cmp' of OpenSSL configuration file '/usr/lib/ssl/openssl.cnf'
+cmp_main:../apps/cmp.c:3703:CMP info: no [cmp] section found in config file '/usr/lib/ssl/openssl.cnf'; will thus use just [default] and unnamed section if present
+The command rsautl was deprecated in version 3.0. Use 'pkeyutl' instead.
+Usage: rsautl [options]
+
+General options:
+ -help                    Display this summary
+ -sign                    Sign with private key
+ -verify                  Verify with public key
+ -encrypt                 Encrypt with public key
+ -decrypt                 Decrypt with private key
+ -engine val              Use engine, possibly a hardware device
+
+Input options:
+ -in infile               Input file
+ -inkey val               Input key, by default an RSA private key
+ -keyform PEM|DER|ENGINE  Private key format (ENGINE, other values ignored)
+ -pubin                   Input key is an RSA public pkey
+ -certin                  Input is a cert carrying an RSA public key
+ -rev                     Reverse the order of the input buffer
+ -passin val              Input file pass phrase source
+
+Output options:
+ -out outfile             Output file
+ -raw                     Use no padding
+ -pkcs                    Use PKCS#1 v1.5 padding (default)
+ -x931                    Use ANSI X9.31 padding
+ -oaep                    Use PKCS#1 OAEP
+ -asn1parse               Run output through asn1parse; useful with -verify
+ -hexdump                 Hex dump output
+
+Random state options:
+ -rand val                Load the given file(s) into the random number generator
+ -writerand outfile       Write random data to the specified file
+
+Provider options:
+ -provider-path val       Provider load path (must be before 'provider' argument if required)
+ -provider val            Provider to load (can be specified multiple times)
+ -provparam val           Set a provider key-value parameter
+ -propquery val           Property query used when fetching algorithms
+Usage: verify [options] [cert...]
+
+General options:
+ -help                 Display this summary
+ -engine val           Use engine, possibly a hardware device
+ -verbose              Print extra information about the operations being performed.
+ -nameopt val          Certificate subject/issuer name printing options
+
+Certificate chain options:
+ -trusted infile       A file of trusted certificates
+ -CAfile infile        A file of trusted certificates
+ -CApath dir           A directory of files with trusted certificates
+ -CAstore uri          URI to a store of trusted certificates
+ -no-CAfile            Do not load the default trusted certificates file
+ -no-CApath            Do not load trusted certificates from the default directory
+ -no-CAstore           Do not load trusted certificates from the default certificates store
+ -untrusted infile     A file of untrusted certificates
+ -CRLfile infile       File containing one or more CRL's (in PEM format) to load
+ -crl_download         Try downloading CRL information for certificates via their CDP entries
+ -show_chain           Display information about the certificate chain
+
+Validation options:
+ -policy val           adds policy to the acceptable policy set
+ -purpose val          certificate chain purpose
+ -verify_name val      verification policy name
+ -verify_depth int     chain depth limit
+ -auth_level int       chain authentication security level
+ -attime intmax        verification epoch time
+ -verify_hostname val  expected peer hostname
+ -verify_email val     expected peer email
+ -verify_ip val        expected peer IP address
+ -ignore_critical      permit unhandled critical extensions
+ -issuer_checks        (deprecated)
+ -crl_check            check leaf certificate revocation
+ -crl_check_all        check full chain revocation
+ -policy_check         perform rfc5280 policy checks
+ -explicit_policy      set policy variable require-explicit-policy
+ -inhibit_any          set policy variable inhibit-any-policy
+ -inhibit_map          set policy variable inhibit-policy-mapping
+ -x509_strict          disable certificate compatibility work-arounds
+ -extended_crl         enable extended CRL features
+ -use_deltas           use delta CRLs
+ -policy_print         print policy processing diagnostics
+ -check_ss_sig         check root CA self-signatures
+ -trusted_first        search trust store first (default)
+ -suiteB_128_only      Suite B 128-bit-only mode
+ -suiteB_128           Suite B 128-bit mode allowing 192-bit algorithms
+ -suiteB_192           Suite B 192-bit-only mode
+ -partial_chain        accept chains anchored by intermediate trust-store CAs
+ -no_alt_chains        (deprecated)
+ -no_check_time        ignore certificate validity time
+ -allow_proxy_certs    allow the use of proxy certificates
+ -vfyopt val           Verification parameter in n:v form
+
+Provider options:
+ -provider-path val    Provider load path (must be before 'provider' argument if required)
+ -provider val         Provider to load (can be specified multiple times)
+ -provparam val        Set a provider key-value parameter
+ -propquery val        Property query used when fetching algorithms
+
+Parameters:
+ cert                  Certificate(s) to verify (optional; stdin used otherwise)
+
+Recognized certificate chain purposes:
+  sslclient        SSL client
+  sslserver        SSL server
+  nssslserver      Netscape SSL server
+  smimesign        S/MIME signing
+  smimeencrypt     S/MIME encryption
+  crlsign          CRL signing
+  any              Any Purpose
+  ocsphelper       OCSP helper
+  timestampsign    Time Stamp signing
+  codesign         Code signing
+Recognized certificate policy names:
+  code_sign
+  default
+  pkcs7
+  smime_sign
+  ssl_client
+  ssl_server
+Invalid command 'ans1parse'; type "help" for a list.
+Usage: cms [options] [cert...]
+ -help                      Display this summary
+
+General options:
+ -in infile                 Input file
+ -out outfile               Output file
+ -config infile             Load a configuration file (this may load modules)
+
+Operation options:
+ -encrypt                   Encrypt message
+ -decrypt                   Decrypt encrypted message
+ -sign                      Sign message
+ -verify                    Verify signed message
+ -resign                    Resign a signed message
+ -sign_receipt              Generate a signed receipt for a message
+ -verify_receipt infile     Verify receipts; exit if receipt signatures do not verify
+ -digest val                Sign a pre-computed digest in hex notation
+ -digest_create             Create a CMS "DigestedData" object
+ -digest_verify             Verify a CMS "DigestedData" object and output it
+ -compress                  Create a CMS "CompressedData" object
+ -uncompress                Uncompress a CMS "CompressedData" object
+ -EncryptedData_encrypt     Create CMS "EncryptedData" object using symmetric key
+ -EncryptedData_decrypt     Decrypt CMS "EncryptedData" object using symmetric key
+ -data_create               Create a CMS "Data" object
+ -data_out                  Copy CMS "Data" object to output
+ -cmsout                    Output CMS structure
+
+File format options:
+ -inform parm               Input format SMIME (default), PEM or DER
+ -outform parm              Output format SMIME (default), PEM or DER
+ -rctform PEM|DER           Receipt file format
+ -stream                    Enable CMS streaming
+ -indef                     Same as -stream
+ -noindef                   Disable CMS streaming
+ -binary                    Treat input as binary: do not translate to canonical form
+ -crlfeol                   Use CRLF as EOL termination instead of LF only
+ -asciicrlf                 Perform CRLF canonicalisation when signing
+
+Keys and passwords options:
+ -pwri_password val         Specific password for recipient
+ -secretkey val             Use specified hex-encoded key to decrypt/encrypt recipients or content
+ -secretkeyid val           Identity of the -secretkey for CMS "KEKRecipientInfo" object
+ -inkey val                 Input private key (if not signer or recipient)
+ -passin val                Input file pass phrase source
+ -keyopt val                Set public key parameters as n:v pairs
+ -keyform format            Input private key format (ENGINE, other values ignored)
+ -engine val                Use engine e, possibly a hardware device
+
+Provider options:
+ -provider-path val         Provider load path (must be before 'provider' argument if required)
+ -provider val              Provider to load (can be specified multiple times)
+ -provparam val             Set a provider key-value parameter
+ -propquery val             Property query used when fetching algorithms
+
+Random state options:
+ -rand val                  Load the given file(s) into the random number generator
+ -writerand outfile         Write random data to the specified file
+
+Encryption and decryption options:
+ -originator val            Originator certificate file
+ -recip infile              Recipient cert file
+ -cert... parm              Recipient certs (optional; used only when encrypting)
+ -*                         The encryption algorithm to use (any supported cipher)
+ -wrap val                  Key wrap algorithm to use when encrypting with key agreement
+ -aes128-wrap               Use AES128 to wrap key
+ -aes192-wrap               Use AES192 to wrap key
+ -aes256-wrap               Use AES256 to wrap key
+ -des3-wrap                 Use 3DES-EDE to wrap key
+ -debug_decrypt             Disable MMA protection, return error if no recipient found (see doc)
+
+Signing options:
+ -md val                    Digest algorithm to use
+ -signer val                Signer certificate input file
+ -certfile infile           Extra signer and intermediate CA certificates to include when signing
+                            or to use as preferred signer certs and for chain building when verifying
+ -cades                     Include signingCertificate attribute (CAdES-BES)
+ -nodetach                  Use opaque signing
+ -nocerts                   Don't include signer's certificate when signing
+ -noattr                    Don't include any signed attributes
+ -nosmimecap                Omit the SMIMECapabilities attribute
+ -no_signing_time           Omit the signing time attribute
+ -receipt_request_all       When signing, create a receipt request for all recipients
+ -receipt_request_first     When signing, create a receipt request for first recipient
+ -receipt_request_from val  Create signed receipt request with specified email address
+ -receipt_request_to val    Create signed receipt targeted to specified address
+
+Verification options:
+ -signer val                Signer certificate(s) output file
+ -content infile            Supply or override content for detached signature
+ -no_content_verify         Do not verify signed content signatures
+ -no_attr_verify            Do not verify signed attribute signatures
+ -nosigs                    Don't verify message signature
+ -noverify                  Don't verify signers certificate
+ -nointern                  Don't search certificates in message for signer
+ -cades                     Check signingCertificate (CAdES-BES)
+ -verify_retcode            Exit non-zero on verification failure
+ -CAfile infile             Trusted certificates file
+ -CApath dir                Trusted certificates directory
+ -CAstore uri               Trusted certificates store URI
+ -no-CAfile                 Do not load the default certificates file
+ -no-CApath                 Do not load certificates from the default certificates directory
+ -no-CAstore                Do not load certificates from the default certificates store
+
+Output options:
+ -keyid                     Use subject key identifier
+ -econtent_type val         OID for external content
+ -text                      Include or delete text MIME headers
+ -certsout outfile          Certificate output file
+ -to val                    To address
+ -from val                  From address
+ -subject val               Subject
+
+Printing options:
+ -noout                     For the -cmsout operation do not output the parsed CMS structure
+ -print                     For the -cmsout operation print out all fields of the CMS structure
+ -nameopt val               For the -print option specifies various strings printing options
+ -receipt_request_print     Print CMS Receipt Request
+
+Validation options:
+ -policy val                adds policy to the acceptable policy set
+ -purpose val               certificate chain purpose
+ -verify_name val           verification policy name
+ -verify_depth int          chain depth limit
+ -auth_level int            chain authentication security level
+ -attime intmax             verification epoch time
+ -verify_hostname val       expected peer hostname
+ -verify_email val          expected peer email
+ -verify_ip val             expected peer IP address
+ -ignore_critical           permit unhandled critical extensions
+ -issuer_checks             (deprecated)
+ -crl_check                 check leaf certificate revocation
+ -crl_check_all             check full chain revocation
+ -policy_check              perform rfc5280 policy checks
+ -explicit_policy           set policy variable require-explicit-policy
+ -inhibit_any               set policy variable inhibit-any-policy
+ -inhibit_map               set policy variable inhibit-policy-mapping
+ -x509_strict               disable certificate compatibility work-arounds
+ -extended_crl              enable extended CRL features
+ -use_deltas                use delta CRLs
+ -policy_print              print policy processing diagnostics
+ -check_ss_sig              check root CA self-signatures
+ -trusted_first             search trust store first (default)
+ -suiteB_128_only           Suite B 128-bit-only mode
+ -suiteB_128                Suite B 128-bit mode allowing 192-bit algorithms
+ -suiteB_192                Suite B 192-bit-only mode
+ -partial_chain             accept chains anchored by intermediate trust-store CAs
+ -no_alt_chains             (deprecated)
+ -no_check_time             ignore certificate validity time
+ -allow_proxy_certs         allow the use of proxy certificates
+Usage: dhparam [options] [numbits]
+
+General options:
+ -help               Display this summary
+ -check              Check the DH parameters
+ -dsaparam           Read or generate DSA parameters, convert to DH
+ -engine val         Use engine e, possibly a hardware device
+
+Input options:
+ -in infile          Input file
+ -inform PEM|DER     Input format, DER or PEM
+
+Output options:
+ -out outfile        Output file
+ -outform PEM|DER    Output format, DER or PEM
+ -text               Print a text form of the DH parameters
+ -noout              Don't output any DH parameters
+ -2                  Generate parameters using 2 as the generator value
+ -3                  Generate parameters using 3 as the generator value
+ -5                  Generate parameters using 5 as the generator value
+ -verbose            Verbose output
+ -quiet              Terse output
+
+Random state options:
+ -rand val           Load the given file(s) into the random number generator
+ -writerand outfile  Write random data to the specified file
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -provparam val      Set a provider key-value parameter
+ -propquery val      Property query used when fetching algorithms
+
+Parameters:
+ numbits             Number of bits if generating parameters (optional)
+Usage: ecparam [options]
+
+General options:
+ -help               Display this summary
+ -list_curves        Prints a list of all curve 'short names'
+ -engine val         Use engine, possibly a hardware device
+ -genkey             Generate ec key
+ -in infile          Input file  - default stdin
+ -inform PEM|DER     Input format - default PEM (DER or PEM)
+ -out outfile        Output file - default stdout
+ -outform PEM|DER    Output format - default PEM
+
+Output options:
+ -text               Print the ec parameters in text form
+ -noout              Do not print the ec parameter
+ -param_enc val      Specifies the way the ec parameters are encoded
+
+Parameter options:
+ -check              Validate the ec parameters
+ -check_named        Check that named EC curve parameters have not been modified
+ -no_seed            If 'explicit' parameters are chosen do not use the seed
+ -name val           Use the ec parameters with specified 'short name'
+ -conv_form val      Specifies the point conversion form 
+
+Random state options:
+ -rand val           Load the given file(s) into the random number generator
+ -writerand outfile  Write random data to the specified file
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -provparam val      Set a provider key-value parameter
+ -propquery val      Property query used when fetching algorithms
+Usage: fipsinstall [options]
+
+General options:
+ -help                         Display this summary
+ -pedantic                     Set options for strict FIPS compliance
+ -verify                       Verify a config file instead of generating one
+ -module infile                File name of the provider module
+ -provider_name val            FIPS provider name
+ -section_name val             FIPS Provider config section name (optional)
+ -no_conditional_errors        Disable the ability of the fips module to enter an error state if any conditional self tests fail
+ -no_security_checks           Disable the run-time FIPS security checks in the module
+ -self_test_onload             Forces self tests to always run on module load
+ -self_test_oninstall          Forces self tests to run once on module installation
+ -ems_check                    Enable the run-time FIPS check for EMS during TLS1_PRF
+ -no_short_mac                 Disallow short MAC output
+ -no_drbg_truncated_digests    Disallow truncated digests with Hash and HMAC DRBGs
+ -signature_digest_check       Enable checking for approved digests for signatures
+ -hmac_key_check               Enable key check for HMAC
+ -kmac_key_check               Enable key check for KMAC
+ -hkdf_digest_check            Enable digest check for HKDF
+ -tls13_kdf_digest_check       Enable digest check for TLS13-KDF
+ -tls1_prf_digest_check        Enable digest check for TLS1-PRF
+ -sshkdf_digest_check          Enable digest check for SSHKDF
+ -sskdf_digest_check           Enable digest check for SSKDF
+ -x963kdf_digest_check         Enable digest check for X963KDF
+ -dsa_sign_disabled            Disallow DSA signing
+ -tdes_encrypt_disabled        Disallow Triple-DES encryption
+ -rsa_pkcs15_padding_disabled  Disallow PKCS#1 version 1.5 padding for RSA encryption
+ -rsa_pss_saltlen_check        Enable salt length check for RSA-PSS signature operations
+ -rsa_sign_x931_disabled       Disallow X931 Padding for RSA signing
+ -hkdf_key_check               Enable key check for HKDF
+ -kbkdf_key_check              Enable key check for KBKDF
+ -tls13_kdf_key_check          Enable key check for TLS13-KDF
+ -tls1_prf_key_check           Enable key check for TLS1-PRF
+ -sshkdf_key_check             Enable key check for SSHKDF
+ -sskdf_key_check              Enable key check for SSKDF
+ -x963kdf_key_check            Enable key check for X963KDF
+ -x942kdf_key_check            Enable key check for X942KDF
+ -no_pbkdf2_lower_bound_check  Disable lower bound check for PBKDF2
+ -ecdh_cofactor_check          Enable Cofactor check for ECDH
+
+Input options:
+ -in infile                    Input config file, used when verifying
+
+Output options:
+ -out outfile                  Output config file, used when generating
+ -mac_name val                 MAC name
+ -macopt val                   MAC algorithm parameters in n:v form.
+                               See 'PARAMETER NAMES' in the EVP_MAC_ docs
+ -noout                        Disable logging of self test events
+ -corrupt_desc val             Corrupt a self test by description
+ -corrupt_type val             Corrupt a self test by type
+ -config infile                The parent config to verify
+ -quiet                        No messages, just exit status
+Usage: rehash [options] [directory...]
+
+General options:
+ -help               Display this summary
+ -h                  Display this summary
+ -compat             Create both new- and old-style hash links
+ -old                Use old-style hash to generate links
+ -n                  Do not remove existing links
+
+Output options:
+ -v                  Verbose output
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -provparam val      Set a provider key-value parameter
+ -propquery val      Property query used when fetching algorithms
+
+Parameters:
+ directory           One or more directories to process (optional)
+Usage: skeyutl [options]
+
+General options:
+ -help               Display this summary
+ -skeyopt val        Key options as opt:value for opaque keys handling
+ -skeymgmt val       Symmetric key management name for opaque keys handling
+ -genkey             Generate an opaque symmetric key
+ -cipher val         The cipher to generate key for
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -provparam val      Set a provider key-value parameter
+ -propquery val      Property query used when fetching algorithms
+Usage: srp [options] [user...]
+
+General options:
+ -help               Display this summary
+ -verbose            Talk a lot while doing things
+ -config infile      A config file
+ -name val           The particular srp definition to use
+ -engine val         Use engine, possibly a hardware device
+
+Action options:
+ -add                Add a user and SRP verifier
+ -modify             Modify the SRP verifier of an existing user
+ -delete             Delete user from verifier file
+ -list               List users
+
+Configuration options:
+ -srpvfile infile    The srp verifier file name
+ -gn val             Set g and N values to be used for new verifier
+ -userinfo val       Additional info to be set for user
+ -passin val         Input file pass phrase source
+ -passout val        Output file pass phrase source
+
+Random state options:
+ -rand val           Load the given file(s) into the random number generator
+ -writerand outfile  Write random data to the specified file
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -provparam val      Set a provider key-value parameter
+ -propquery val      Property query used when fetching algorithms
+
+Parameters:
+ user                Username(s) to process (optional)
+Usage: info [options]
+
+General options:
+ -help            Display this summary
+
+Output options:
+ -configdir       Default configuration file directory
+ -enginesdir      Default engine module directory
+ -modulesdir      Default module directory (other than engine modules)
+ -dsoext          Configured extension for modules
+ -dirnamesep      Directory-filename separator
+ -listsep         List separator character
+ -seeds           Seed sources
+ -cpusettings     CPU settings info
+ -windowscontext  Windows install context
+Usage: nseq [options]
+
+General options:
+ -help               Display this summary
+
+Input options:
+ -in infile          Input file
+
+Output options:
+ -toseq              Output NS Sequence file
+ -out outfile        Output file
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -provparam val      Set a provider key-value parameter
+ -propquery val      Property query used when fetching algorithms
+Usage: smime [options] [cert...]
+
+General options:
+ -help                 Display this summary
+ -in infile            Input file
+ -inform parm          Input format SMIME (default), PEM or DER
+ -out outfile          Output file
+ -outform parm         Output format SMIME (default), PEM or DER
+ -inkey val            Input private key (if not signer or recipient)
+ -keyform format       Input private key format (ENGINE, other values ignored)
+ -engine val           Use engine, possibly a hardware device
+ -stream               Enable CMS streaming
+ -indef                Same as -stream
+ -noindef              Disable CMS streaming
+ -config infile        Load a configuration file (this may load modules)
+
+Action options:
+ -encrypt              Encrypt message
+ -decrypt              Decrypt encrypted message
+ -sign                 Sign message
+ -resign               Resign a signed message
+ -verify               Verify signed message
+ -pk7out               Output PKCS#7 structure
+
+Signing/Encryption options:
+ -passin val           Input file pass phrase source
+ -md val               Digest algorithm to use when signing or resigning
+ -*                    Any supported cipher
+ -nointern             Don't search certificates in message for signer
+ -nodetach             Use opaque signing
+ -noattr               Don't include any signed attributes
+ -binary               Don't translate message to text
+ -signer val           Signer certificate file
+ -content infile       Supply or override content for detached signature
+ -nocerts              Don't include signers certificate when signing
+
+Verification/Decryption options:
+ -nosigs               Don't verify message signature
+ -noverify             Don't verify signers certificate
+ -certfile infile      Extra signer and intermediate CA certificates to include when signing
+                       or to use as preferred signer certs and for chain building when verifying
+ -recip infile         Recipient certificate file for decryption
+
+Email options:
+ -to val               To address
+ -from val             From address
+ -subject val          Subject
+ -text                 Include or delete text MIME headers
+ -nosmimecap           Omit the SMIMECapabilities attribute
+
+Certificate chain options:
+ -CApath dir           Trusted certificates directory
+ -CAfile infile        Trusted certificates file
+ -CAstore uri          Trusted certificates store URI
+ -no-CAfile            Do not load the default certificates file
+ -no-CApath            Do not load certificates from the default certificates directory
+ -no-CAstore           Do not load certificates from the default certificates store
+ -nochain              set PKCS7_NOCHAIN so certificates contained in the message are not used as untrusted CAs
+ -crlfeol              Use CRLF as EOL termination instead of LF only
+
+Random state options:
+ -rand val             Load the given file(s) into the random number generator
+ -writerand outfile    Write random data to the specified file
+
+Validation options:
+ -policy val           adds policy to the acceptable policy set
+ -purpose val          certificate chain purpose
+ -verify_name val      verification policy name
+ -verify_depth int     chain depth limit
+ -auth_level int       chain authentication security level
+ -attime intmax        verification epoch time
+ -verify_hostname val  expected peer hostname
+ -verify_email val     expected peer email
+ -verify_ip val        expected peer IP address
+ -ignore_critical      permit unhandled critical extensions
+ -issuer_checks        (deprecated)
+ -crl_check            check leaf certificate revocation
+ -crl_check_all        check full chain revocation
+ -policy_check         perform rfc5280 policy checks
+ -explicit_policy      set policy variable require-explicit-policy
+ -inhibit_any          set policy variable inhibit-any-policy
+ -inhibit_map          set policy variable inhibit-policy-mapping
+ -x509_strict          disable certificate compatibility work-arounds
+ -extended_crl         enable extended CRL features
+ -use_deltas           use delta CRLs
+ -policy_print         print policy processing diagnostics
+ -check_ss_sig         check root CA self-signatures
+ -trusted_first        search trust store first (default)
+ -suiteB_128_only      Suite B 128-bit-only mode
+ -suiteB_128           Suite B 128-bit mode allowing 192-bit algorithms
+ -suiteB_192           Suite B 192-bit-only mode
+ -partial_chain        accept chains anchored by intermediate trust-store CAs
+ -no_alt_chains        (deprecated)
+ -no_check_time        ignore certificate validity time
+ -allow_proxy_certs    allow the use of proxy certificates
+
+Provider options:
+ -provider-path val    Provider load path (must be before 'provider' argument if required)
+ -provider val         Provider to load (can be specified multiple times)
+ -provparam val        Set a provider key-value parameter
+ -propquery val        Property query used when fetching algorithms
+
+Parameters:
+ cert                  Recipient certs, used when encrypting
+Usage: x509 [options]
+
+General options:
+ -help                      Display this summary
+ -in infile                 Certificate input, or CSR input file with -req (default stdin)
+ -passin val                Private key and cert file pass-phrase source
+ -new                       Generate a certificate from scratch
+ -x509toreq                 Output a certification request (rather than a certificate)
+ -req                       Input is a CSR file (rather than a certificate)
+ -copy_extensions val       copy extensions when converting from CSR to x509 or vice versa
+ -inform format             CSR input format to use (PEM or DER; by default try PEM first)
+ -vfyopt val                CSR verification parameter in n:v form
+ -key val                   Key for signing, and to include unless using -force_pubkey
+ -signkey val               Same as -key
+ -keyform PEM|DER|ENGINE    Key input format (ENGINE, other values ignored)
+ -out outfile               Output file - default stdout
+ -outform format            Output format (DER or PEM) - default PEM
+ -nocert                    No cert output (except for requested printing)
+ -noout                     No output (except for requested printing)
+
+Certificate printing options:
+ -text                      Print the certificate in text form
+ -dateopt val               Datetime format used for printing. (rfc_822/iso_8601). Default is rfc_822.
+ -certopt val               Various certificate text printing options
+ -fingerprint               Print the certificate fingerprint
+ -alias                     Print certificate alias
+ -serial                    Print serial number value
+ -startdate                 Print the notBefore field
+ -enddate                   Print the notAfter field
+ -dates                     Print both notBefore and notAfter fields
+ -subject                   Print subject DN
+ -issuer                    Print issuer DN
+ -nameopt val               Certificate subject/issuer name printing options
+ -email                     Print email address(es)
+ -hash                      Synonym for -subject_hash (for backward compat)
+ -subject_hash              Print subject hash value
+ -subject_hash_old          Print old-style (MD5) subject hash value
+ -issuer_hash               Print issuer hash value
+ -issuer_hash_old           Print old-style (MD5) issuer hash value
+ -ext val                   Restrict which X.509 extensions to print and/or copy
+ -ocspid                    Print OCSP hash values for the subject name and public key
+ -ocsp_uri                  Print OCSP Responder URL(s)
+ -purpose                   Print out certificate purposes
+ -pubkey                    Print the public key in PEM format
+ -modulus                   Print the RSA key modulus
+
+Certificate checking options:
+ -checkend intmax           Check whether cert expires in the next arg seconds
+                            Exit 1 (failure) if so, 0 if not
+ -checkhost val             Check certificate matches host
+ -checkemail val            Check certificate matches email
+ -checkip val               Check certificate matches ipaddr
+
+Certificate output options:
+ -set_serial val            Serial number to use, overrides -CAserial
+ -next_serial               Increment current certificate serial number
+ -not_before val            [CC]YYMMDDHHMMSSZ value for notBefore certificate field
+ -not_after val             [CC]YYMMDDHHMMSSZ value for notAfter certificate field, overrides -days
+ -days int                  Number of days until newly generated certificate expires - default 30
+ -preserve_dates            Preserve existing validity dates
+ -set_issuer val            Set or override certificate issuer
+ -set_subject val           Set or override certificate subject (and issuer)
+ -subj val                  Alias for -set_subject
+ -force_pubkey infile       Key to be placed in new certificate or certificate request
+ -clrext                    Do not take over any extensions from the source certificate or request
+ -extfile infile            Config file with X509V3 extensions to add
+ -extensions val            Section of extfile to use - default: unnamed section
+ -sigopt val                Signature parameter, in n:v form
+ -badsig                    Corrupt last byte of certificate signature (for test)
+ -*                         Any supported digest, used for signing and printing
+
+Micro-CA options:
+ -CA infile                 Use the given CA certificate, conflicts with -key
+ -CAform PEM|DER            CA cert format (PEM/DER/P12); has no effect
+ -CAkey val                 The corresponding CA key; default is -CA arg
+ -CAkeyform PEM|DER|ENGINE  CA key format (ENGINE, other values ignored)
+ -CAserial val              File that keeps track of CA-generated serial number
+ -CAcreateserial            Create CA serial number file if it does not exist
+
+Certificate trust output options:
+ -trustout                  Mark certificate PEM output as trusted
+ -setalias val              Set certificate alias (nickname)
+ -clrtrust                  Clear all trusted purposes
+ -addtrust val              Trust certificate for a given purpose
+ -clrreject                 Clears all the prohibited or rejected uses of the certificate
+ -addreject val             Reject certificate for a given purpose
+
+Random state options:
+ -rand val                  Load the given file(s) into the random number generator
+ -writerand outfile         Write random data to the specified file
+ -engine val                Use engine, possibly a hardware device
+
+Provider options:
+ -provider-path val         Provider load path (must be before 'provider' argument if required)
+ -provider val              Provider to load (can be specified multiple times)
+ -provparam val             Set a provider key-value parameter
+ -propquery val             Property query used when fetching algorithms
+Usage: ec [options]
+
+General options:
+ -help               Display this summary
+ -engine val         Use engine, possibly a hardware device
+
+Input options:
+ -in val             Input file
+ -inform format      Input format (DER/PEM/P12/ENGINE)
+ -pubin              Expect a public key in input file
+ -passin val         Input file pass phrase source
+ -check              check key consistency
+ -*                  Any supported cipher
+ -param_enc val      Specifies the way the ec parameters are encoded
+ -conv_form val      Specifies the point conversion form 
+
+Output options:
+ -out outfile        Output file
+ -outform PEM|DER    Output format - DER or PEM
+ -noout              Don't print key out
+ -text               Print the key
+ -param_out          Print the elliptic curve parameters
+ -pubout             Output public key, not private
+ -no_public          exclude public key from private key
+ -passout val        Output file pass phrase source
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -provparam val      Set a provider key-value parameter
+ -propquery val      Property query used when fetching algorithms
+Usage: errstr [options] errnum...
+
+General options:
+ -help     Display this summary
+
+Parameters:
+ errnum    Error number(s) to decode
+Usage: list [options]
+
+General options:
+ -help                      Display this summary
+
+Output options:
+ -1                         List in one column
+ -verbose                   Verbose listing
+ -select val                Select a single algorithm
+ -commands                  List of standard commands
+ -standard-commands         List of standard commands
+ -all-algorithms            List of all algorithms
+ -digest-commands           List of message digest commands (deprecated)
+ -digest-algorithms         List of message digest algorithms
+ -kdf-algorithms            List of key derivation and pseudo random function algorithms
+ -random-instances          List the primary, public and private random number generator details
+ -random-generators         List of random number generators
+ -mac-algorithms            List of message authentication code algorithms
+ -cipher-commands           List of cipher commands (deprecated)
+ -cipher-algorithms         List of symmetric cipher algorithms
+ -encoders                  List of encoding methods
+ -decoders                  List of decoding methods
+ -key-managers              List of key managers
+ -skey-managers             List of symmetric key managers
+ -key-exchange-algorithms   List of key exchange algorithms
+ -kem-algorithms            List of key encapsulation mechanism algorithms
+ -signature-algorithms      List of signature algorithms
+ -tls-signature-algorithms  List of TLS signature algorithms
+ -asymcipher-algorithms     List of asymmetric cipher algorithms
+ -public-key-algorithms     List of public key algorithms
+ -public-key-methods        List of public key methods
+ -store-loaders             List of store loaders
+ -tls-groups                List implemented TLS key exchange 'groups'
+ -all-tls-groups            List implemented TLS key exchange 'groups' and all aliases
+ -tls1_2                    When listing 'groups', list those compatible with TLS1.2
+ -tls1_3                    When listing 'groups', list those compatible with TLS1.3
+ -providers                 List of provider information
+ -engines                   List of loaded engines
+ -disabled                  List of disabled features
+ -options val               List options for specified command
+ -objects                   List built in objects (OID<->name mappings)
+
+Provider options:
+ -provider-path val         Provider load path (must be before 'provider' argument if required)
+ -provider val              Provider to load (can be specified multiple times)
+ -provparam val             Set a provider key-value parameter
+ -propquery val             Property query used when fetching algorithms
+Usage: rand [options] num[K|M|G|T]
+
+General options:
+ -help               Display this summary
+ -engine val         Use engine, possibly a hardware device
+
+Output options:
+ -out outfile        Output file
+ -base64             Base64 encode output
+ -hex                Hex encode output
+
+Random state options:
+ -rand val           Load the given file(s) into the random number generator
+ -writerand outfile  Write random data to the specified file
+
+Provider options:
+ -provider-path val  Provider load path (must be before 'provider' argument if required)
+ -provider val       Provider to load (can be specified multiple times)
+ -provparam val      Set a provider key-value parameter
+ -propquery val      Property query used when fetching algorithms
+
+Parameters:
+ num                 Number of bytes to generate

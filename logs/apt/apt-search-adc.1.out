@@ -1,0 +1,545 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+adcli/stable 0.9.2-1+b2 arm64
+  Tool for performing actions on an Active Directory domain
+
+ahcpd/stable 0.53-3+b1 arm64
+  Ad-Hoc Configuration Protocol
+
+airspy/stable 1.0.10-3+b3 arm64
+  Tiny and efficient software defined radio receiver - utilities
+
+anacrolix-dms/stable 1.5.0-2+b16 arm64
+  Go UPnP DLNA Digital Media Server with basic video transcoding
+
+autoradio/stable 3.6.4-1 all
+  radio automation software
+
+bcrelay/stable 1.5.0-1+b3 arm64
+  Broadcast relay daemon
+
+btrfsd/stable 0.2.2-1+b1 arm64
+  Tiny Btrfs maintenance daemon
+
+butt/stable 1.45.0-1 arm64
+  multi OS streaming audio tool easy to use
+
+codegroup/stable 20080907+ds1-1 arm64
+  convert any file into five-letter code groups
+
+conman/stable 0.3.1-1+b1 arm64
+  serial console management program
+
+cups-browsed/stable 1.28.17-6+deb13u1 arm64
+  OpenPrinting CUPS Filters - cups-browsed
+
+dbus/stable,now 1.16.2-2 arm64 [installed,automatic]
+  simple interprocess messaging system (system message bus)
+
+dhcp-helper/stable 1.2-3.3 arm64
+  A DHCP relay agent
+
+dolphin/stable 4:25.04.3-1+deb13u1 arm64
+  file manager
+
+dsmidiwifi/stable 2+b3 arm64
+  DSMI over WLAN server
+
+dtv-scan-tables/stable 0+git20190925.6d01903-0.1 all
+  Digital Video Broadcasting (DVB) initial scan files
+
+dvb-apps/stable 1.1.1+rev1500-2 arm64
+  Digital Video Broadcasting (DVB) applications
+
+dvbstream/stable 0.6+cvs20090621-4+b2 arm64
+  Broadcast a DVB Transport stream over a LAN
+
+ebumeter/stable 0.5.1-1+b2 arm64
+  loudness measurement according to EBU-R128
+
+ebumeter-doc/stable 0.5.1-1 all
+  loudness measurement EBU-R128 - documentation
+
+electrum/stable 4.5.8+ds-6 all
+  Easy to use Bitcoin client
+
+ethereal-chess/stable 12.00+ds1-1+b1 arm64
+  UCI-compliant chess engine
+
+freeradius-utils/stable 3.2.7+dfsg-1+deb13u2 arm64
+  FreeRADIUS client utilities
+
+genwqe-tools/stable 4.0.20-2 arm64
+  utilities for accelerated libz implementation
+
+gmerlin/stable 2.0.0~svn6298~dfsg0-5 arm64
+  multiformat media player
+
+gmerlin-data/stable 2.0.0~svn6298~dfsg0-5 all
+  multiformat media player - data files
+
+gmerlin-encoders-extra/stable 2.0.0~svn6278-6+b1 arm64
+  MJPEG encoders for Gmerlin
+
+gmerlin-encoders-ffmpeg/stable 2.0.0~svn6278-6+b1 arm64
+  ffmpeg encoders for Gmerlin
+
+gmerlin-encoders-good/stable 2.0.0~svn6278-6+b1 arm64
+  patent-free encoders for Gmerlin
+
+gmerlin-plugins-base/stable 2.0.0~svn6298~dfsg0-5 arm64
+  gmerlin plugins from the "base" set
+
+golang-github-anacrolix-dms-dev/stable 1.5.0-2 all
+  Go source for UPnP DLNA Digital Media Server
+
+golang-github-andreykaipov-goobs-dev/stable 0.8.0-1 all
+  control OBS Studio via WebSockets (Go library)
+
+golang-github-google-goterm-dev/stable 0.0~git20200907.555d40f-3 all
+  Go Terminal library with PTY support and colors
+
+golang-github-hashicorp-go-checkpoint-dev/stable 0.5.0-3 all
+  Go Checkpoint Client
+
+golang-github-minio-dsync-dev/stable 0.0~git20170209.0.b9f7da7-3 all
+  Distributed sync package for Go
+
+golang-github-weaveworks-mesh-dev/stable 0.1+git20180323.0c91e69-1 all
+  go library to build distributed systems
+
+golang-github-xtaci-kcp-dev/stable 5.6.1-2 all
+  Full-Featured Reliable-UDP Library for golang
+
+gr-hpsdr/stable 3.0-2+b19 arm64
+  gnuradio interface module for OpenHPSDR protocol 1
+
+gr-rds/stable 3.10-1+b19 arm64
+  GNU Radio FM RDS/TMC Transceiver
+
+gvpe/stable 3.1-2+b3 arm64
+  creates a virtual ethernet between multiple endpoints
+
+ibverbs-providers/stable 56.1-1 arm64
+  User space provider drivers for libibverbs
+
+iio-sensor-proxy/stable 3.7-3 arm64
+  IIO sensors to D-Bus proxy
+
+ipcalc/stable 0.51-1 all
+  parameter calculator for IPv4 addresses
+
+ipqalc/stable 1.5.3+git20200816.523b207-3+b3 arm64
+  graphical utility for IPv4 subnet calculation
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+kanif/stable 1.2.2-4 all
+  cluster management and administration swiss army knife
+
+kmplayer/stable 1:0.12.0b+de96d9e-1+b2 arm64
+  media player for KDE
+
+kodi-pvr-nextpvr/stable 21.3.2+ds-1 arm64
+  NextPVR PVR addon for Kodi
+
+kodi-pvr-njoy/stable 21.0.2+ds-1 arm64
+  NJOY PVR Addon for Kodi
+
+kwrited/stable 4:6.3.4-1 arm64
+  Read and write console output to X
+
+libairspy-dev/stable 1.0.10-3+b3 arm64
+  Tiny and efficient software defined radio receiver - development
+
+libairspy0/stable 1.0.10-3+b3 arm64
+  Tiny and efficient software defined radio receiver - library
+
+libapp-termcast-perl/stable 0.13-4 all
+  termcasting module and client
+
+libaribb24-0t64/stable 1.0.3-2.1+b2 arm64
+  library for ARIB STD-B24 decoding (runtime files)
+
+libaribb24-dev/stable 1.0.3-2.1+b2 arm64
+  library for ARIB STD-B24 decoding (development files)
+
+libbcm2835-dev/stable 1.75+ds-1 arm64
+  access to GPIO and other IO functions on the Broadcom BCM 2835 chip
+
+libclass-autoloadcan-perl/stable 0.03-4 all
+  module managing conflict between AUTOLOAD, can and inheritance
+
+libcry-ocaml-dev/stable 1.0.3-3+b3 arm64
+  MP3/Ogg Vorbis broadcast OCaml module
+
+libdbus-1-3/stable,now 1.16.2-2 arm64 [installed,automatic]
+  simple interprocess messaging system (library)
+
+libdca-dev/stable 0.0.7-2+b2 arm64
+  decoding library for DTS Coherent Acoustics streams (development)
+
+libdca-utils/stable 0.0.7-2+b2 arm64
+  decoding library for DTS Coherent Acoustics streams (utilities)
+
+libdca0/stable 0.0.7-2+b2 arm64
+  decoding library for DTS Coherent Acoustics streams
+
+libebur128-1/stable,now 1.2.6-1+b2 arm64 [installed,automatic]
+  implementation of the EBU R128 loudness standard
+
+libebur128-dev/stable 1.2.6-1+b2 arm64
+  implementation of the EBU R128 loudness standard (development files)
+
+libfreesrp-dev/stable 0.3.0-5+b2 arm64
+  Software defined radio support for FreeSRP hardware (development files)
+
+libfreesrp0/stable 0.3.0-5+b2 arm64
+  Software defined radio support for FreeSRP hardware (library)
+
+libghc-broadcast-chan-dev/stable 0.2.1.2-3+b1 arm64
+  closable, fair, leak-avoidant, single-wakeup channel
+
+libghc-broadcast-chan-doc/stable 0.2.1.2-3 all
+  closable, fair, leak-avoidant, single-wakeup channel; documentation
+
+libghc-broadcast-chan-prof/stable 0.2.1.2-3+b1 arm64
+  closable, fair, leak-avoidant, single-wakeup channel; profiling libraries
+
+libghc-concurrent-extra-dev/stable 0.7.0.12-4+b1 arm64
+  Extra concurrency primitives
+
+libghc-concurrent-extra-doc/stable 0.7.0.12-4 all
+  Extra concurrency primitives; documentation
+
+libghc-concurrent-extra-prof/stable 0.7.0.12-4+b1 arm64
+  Extra concurrency primitives; profiling libraries
+
+libghc-monad-control-dev/stable 1.0.3.1-3+b1 arm64
+  Monad transformers to lift control operations
+
+libghc-monad-control-doc/stable 1.0.3.1-3 all
+  Monad transformers to lift control operations; documentation
+
+libghc-monad-control-prof/stable 1.0.3.1-3+b1 arm64
+  Monad transformers to lift control operations; profiling libraries
+
+libghc-rio-orphans-dev/stable 0.1.2.0-3+b1 arm64
+  Orphan instances for the RIO type in the rio package
+
+libghc-rio-orphans-doc/stable 0.1.2.0-3 all
+  Orphan instances for the RIO type in the rio package; documentation
+
+libghc-rio-orphans-prof/stable 0.1.2.0-3+b1 arm64
+  Orphan instances for the RIO type in the rio package; profiling libraries
+
+libgloo-dev/stable 0.0~git20231202.5354032-3+b2 arm64
+  Collective communications library (development files)
+
+libgloo0/stable 0.0~git20231202.5354032-3+b2 arm64
+  Collective communications library (shared object)
+
+libgmerlin-common/stable 2.0.0~svn6298~dfsg0-5 arm64
+  core library for gmerlin - common runtime files
+
+libgmerlin-dev/stable 2.0.0~svn6298~dfsg0-5 arm64
+  core library for gmerlin - development files
+
+libgmerlin2t64/stable 2.0.0~svn6298~dfsg0-5 arm64
+  core library for gmerlin - runtime files
+
+libgnuradio-dtv3.10.12/stable 3.10.12.0-1 arm64
+  gnuradio digital TV signal processing blocks
+
+libgnuradio-rds1/stable 3.10-1+b19 arm64
+  GNU Radio FM RDS/TMC Transceiver (library)
+
+libio-interface-perl/stable 1.09-2+b5 arm64
+  socket methods to get/set interface characteristics
+
+libjs-cssrelpreload/stable 3.1.0+dfsg+~cs3.1.3-1 all
+  JavaScript to load CSS asynchronously
+
+liblog4j2-java/stable 2.19.0-2 all
+  Apache Log4j - Logging Framework for Java
+
+libmlt++-dev/stable 7.30.0-1+b2 arm64
+  MLT multimedia framework C++ wrapper (development)
+
+libmlt++7/stable 7.30.0-1+b2 arm64
+  MLT multimedia framework C++ wrapper (runtime)
+
+libmlt-data/stable 7.30.0-1 all
+  multimedia framework (data)
+
+libmlt-dev/stable 7.30.0-1+b2 arm64
+  multimedia framework (development)
+
+libmlt7/stable 7.30.0-1+b2 arm64
+  multimedia framework (runtime)
+
+libnetwork-ipv4addr-perl/stable 0.10.ds-4 all
+  Perl extension for manipulating IPv4 addresses
+
+libnss-winbind/stable 2:4.22.10+dfsg-0+deb13u1 arm64
+  Samba nameservice integration plugins
+
+libobus-ocaml-dev/stable 1.2.5-1+b9 arm64
+  pure OCaml implementation of D-Bus (development files)
+
+libosmo-sabp-dev/stable 1.7.0+dfsg1-2 arm64
+  Osmocom code for the Iuh interface (SABP), development
+
+libosmo-sabp1t64/stable 1.7.0+dfsg1-2 arm64
+  Osmocom code for the Iuh interface (SABP), library
+
+libradcli-dev/stable 1.2.11-1+b3 arm64
+  Enhanced RADIUS client library development files
+
+libradcli4/stable 1.2.11-1+b3 arm64
+  Enhanced RADIUS client library
+
+librccl-dev/stable 5.4.3-3+b1 arm64
+  ROCm Communication Collectives Library - headers
+
+librccl-doc/stable 5.4.3-3 all
+  ROCm Communication Collectives Library - documentation
+
+librccl1/stable 5.4.3-3+b1 arm64
+  ROCm Communication Collectives Library - library
+
+librccl1-tests/stable 5.4.3-3+b1 arm64
+  ROCm Communication Collectives Library - tests
+
+librtsp-server-perl/stable 0.06-4 all
+  Lightweight RTSP/RTP streaming media server (library)
+
+librust-async-broadcast-dev/stable 0.7.1-1 arm64
+  Async broadcast channels - Rust source code
+
+librust-encoding-index-tradchinese-dev/stable 1.20141219.5-1+b1 arm64
+  Index tables for traditional Chinese character encodings - Rust source code
+
+libshout-dev/stable 2.4.6-1+b3 arm64
+  MP3/Ogg Vorbis broadcast streaming library (development)
+
+libshout-idjc-dev/stable 2.4.6-r1-1+b1 arm64
+  broadcast streaming library with IDJC extensions (development)
+
+libshout-idjc3/stable 2.4.6-r1-1+b1 arm64
+  broadcast streaming library with IDJC extensions
+
+libshout-tools/stable 2.4.6-1+b3 arm64
+  MP3/Ogg Vorbis broadcast streaming library - commandline tools
+
+libshout3/stable,now 2.4.6-1+b3 arm64 [installed,automatic]
+  MP3/Ogg Vorbis broadcast streaming library
+
+libshout3-dev/stable 2.4.6-1+b3 arm64
+  MP3/Ogg Vorbis broadcast streaming library (transitional package)
+
+libterm-filter-perl/stable 0.03-3 all
+  Perl module to run an interactive terminal session, filtering input and output
+
+libtree-simple-visitorfactory-perl/stable 0.16-3 all
+  collection of dispensing visitor objects for Tree::Simple
+
+libukui-touchpadclient-dev/stable 1.0.1-2+b4 arm64
+  touchpad settings interfaces
+
+libukui-touchpadclient0/stable 1.0.1-2+b4 arm64
+  touchpad settings module
+
+libveyon-core/stable 4.9.5+repack1-2 arm64
+  Computer Monitoring and Classroom Management Software - libraries
+
+libwiretap-dev/stable 4.4.16-0+deb13u1 arm64
+  network packet capture library -- development files
+
+libwiretap15/stable 4.4.16-0+deb13u1 arm64
+  network packet capture library -- shared library
+
+libxtensor-blas-dev/stable 0.21.0-1 all
+  an extension to xtensor offering bindings to BLAS and LAPACK
+
+libxtensor-dev/stable 0.25.0-2 all
+  multi-dimensional arrays with broadcasting and lazy computing
+
+libzadc-dev/stable 4.0.20-2 arm64
+  accelerated libz implementation (development headers)
+
+libzadc4/stable 4.0.20-2 arm64
+  accelerated libz implementation (Accelerated Data Compression/ADC)
+
+microhope/stable 5.3.3+repack-2 all
+  hardware & software framework to learn microcontrollers
+
+multimedia-broadcasting/stable 0.12 all
+  Packages for broadcasting media publicly or in the home
+
+obs-cli/stable 0.4.0-1+b17 arm64
+  command-line remote control for OBS Studio
+
+odr-dabmod/stable 3.0.0+ds-1 arm64
+  DAB modulator compliant to ETSI EN 300 401
+
+odr-dabmux/stable 5.1.0+ds-1 arm64
+  Digital Audio Broadcasting multiplexer compliant to ETSI EN 300 401
+
+php-illuminate-broadcasting/stable 10.48.29+dfsg-1 all
+  Illuminate Broadcasting library component for PHP
+
+php-laravel-framework/stable 10.48.29+dfsg-1 all
+  web application framework for PHP
+
+prosody-modules/stable 0.0~hg20250402.f315edc39f3d+dfsg-2 all
+  Selection of community modules for Prosody
+
+python-blinker-doc/stable 1.9.0-1 all
+  Fast, simple object-to-object and broadcast signaling (Documentation)
+
+python-django-sitetree-doc/stable 1.18.0+dfsg-3 all
+  site tree, menu and breadcrumbs navigation for Django (Documentation)
+
+python-mpi4py-doc/stable 4.0.3-4 all
+  bindings of the MPI standard -- documentation
+
+python-numpy-doc/stable 1:2.2.4+ds-1 all
+  Python library for numerical computations (Documentation)
+
+python3-blinker/stable 1.9.0-1 all
+  Fast, simple object-to-object and broadcast signaling (Python3)
+
+python3-bluetooth-data-tools/stable 1.28.2-1 arm64
+  Python tools for converting bluetooth data and packets
+
+python3-bthome-ble/stable 3.13.1-1 all
+  BLE parser for sensors supporting BTHome format
+
+python3-crccheck/stable 1.3.0-1 all
+  implementation of 170+ CRC algorithms for Python 3
+
+python3-django-sitetree/stable 1.18.0+dfsg-3 all
+  site tree, menu and breadcrumbs navigation for Django (Python3 version)
+
+python3-freenub/stable 0.1.0-2 all
+  Open-source fork of PubNub with an MIT license for real-time messaging
+
+python3-icmplib/stable 2.1.1-3 all
+  forge ICMP packets and make your own ping and traceroute
+
+python3-mlt/stable 7.30.0-1+b2 arm64
+  multimedia framework (Python bindings)
+
+python3-mpi4py/stable 4.0.3-4 arm64
+  bindings of the Message Passing Interface (MPI) standard
+
+python3-numpy/stable 1:2.2.4+ds-1 arm64
+  Python library for numerical computations (Python 3)
+
+python3-numpy-dev/stable 1:2.2.4+ds-1 arm64
+  Python library for numerical computations (Python 3 headers)
+
+python3-socketio/stable 5.12.1-1 all
+  python3 implementation of the Socket.IO realtime client and server
+
+python3-zaqar/stable 20.0.0-2 all
+  OpenStack Queueing as a Service - Python libraries
+
+python3-zaqar-ui/stable 18.0.0-1 all
+  OpenStack Queueing as a Service - Dashboard plugin
+
+python3-zaqarclient/stable 3.0.0-3 all
+  OpenStack Zaqar Queueing API, client and library - Python 3.x
+
+resource-agents/stable 1:4.16.0-3+deb13u2 arm64
+  Cluster Resource Agents
+
+rtl-433/stable 25.02-1+deb13u1 arm64
+  Decode 433.9 Mhz data
+
+rtsp-server-perl/stable 0.06-4 all
+  Lightweight RTSP/RTP streaming media server (service)
+
+rwho/stable 0.17-16 arm64
+  Clients to query the rwho server
+
+rwhod/stable 0.17-16 arm64
+  System status server
+
+sayonara/stable 1.11.0-beta1-1 arm64
+  fast and powerful audio player and library manager
+
+shoutidjc/stable 2.4.6-r1-1+b1 arm64
+  broadcast streaming library with IDJC extensions (source client)
+
+sinfo/stable 0.0.48-2.1+b4 arm64
+  tool for monitoring computer clusters using broadcasts
+
+sipcalc/stable 1.1.6-3+b1 arm64
+  Advanced console-based ip subnet calculator
+
+subnetcalc/stable 2.6.2-1 arm64
+  IPv4/IPv6 Subnet Calculator
+
+svxreflector/stable 24.02-5 arm64
+  Conference server for SvxLink amateur radio servers
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+tk2/stable 1.1-10.1 all
+  Tk GUI for the ICOM IC-R2 receiver
+
+trimmomatic/stable 0.39+dfsg-2 all
+  flexible read trimming tool for Illumina NGS data
+
+uhub/stable 0.4.1-3.3 arm64
+  High performance Advanced Direct Connect p2p hub
+
+veyon-configurator/stable 4.9.5+repack1-2 arm64
+  Computer Monitoring and Classroom Management Software - configurator
+
+veyon-master/stable 4.9.5+repack1-2 arm64
+  Computer Monitoring and Classroom Management Software - master
+
+veyon-plugins/stable 4.9.5+repack1-2 arm64
+  Computer Monitoring and Classroom Management Software - plugins
+
+veyon-service/stable 4.9.5+repack1-2 arm64
+  Computer Monitoring and Classroom Management Software - client service
+
+vlc/stable 3.0.23-0+deb13u1 arm64
+  multimedia player and streamer
+
+wadc/stable 3.1-1 all
+  programming environment for creating Doom maps
+
+xtensor-blas-doc/stable 0.21.0-1 all
+  documentation for xtensor-blas
+
+xtensor-dev/stable 0.25.0-2 all
+  multi-dimensional arrays with broadcasting (transition package)
+
+xtensor-doc/stable 0.25.0-2 all
+  documentation for xtensor
+
+xwrited/stable 3-2+b2 arm64
+  display write and wall messages as desktop notifications
+
+yt-dlp/stable 2025.04.30-1 all
+  downloader of videos from YouTube and other sites
+
+zaqar-common/stable 20.0.0-2 all
+  OpenStack Queueing as a Service - common files
+
+zaqar-server/stable 20.0.0-2 all
+  OpenStack Queueing as a Service - API server
+
+zvbi/stable 0.2.44-1 arm64
+  Vertical Blanking Interval (VBI) utilities
+

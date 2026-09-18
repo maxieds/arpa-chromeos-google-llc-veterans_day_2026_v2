@@ -1,0 +1,27 @@
+  UID USER             CONTEXT PWD-EMPTY PWD-LOCK PWD-DENY NOLOGIN HUSHED PWD-METHOD PWD-WARN PWD-MIN PWD-MAX PWD-CHANGE PWD-EXPIR
+    0 root                                                       0                                                       
+    1 daemon                                                     1      0                                                
+    2 bin                                                        1      0                                                
+    3 sys                                                        1      0                                                
+    4 sync                                                       0      0                                                
+    5 games                                                      1      0                                                
+    6 man                                                        1      0                                                
+    7 lp                                                         1      0                                                
+    8 mail                                                       1      0                                                
+    9 news                                                       1      0                                                
+   10 uucp                                                       1      0                                                
+   13 proxy                                                      1      0                                                
+   33 www-data                                                   1      0                                                
+   34 backup                                                     1      0                                                
+   38 list                                                       1      0                                                
+   39 irc                                                        1      0                                                
+   42 _apt                                                       1      0                                                
+  100 dhcpcd                                                     0      0                                                
+  101 tss                                                        0      0                                                
+  989 polkitd                                                    1      0                                                
+  990 sshd                                                       1      0                                                
+  991 messagebus                                                 1      0                                                
+  992 systemd-timesync                                           1      0                                                
+  998 systemd-network                                            1      0                                                
+ 1000 god                                                        0      0                                                
+65534 nobody                                                     1      0                                                

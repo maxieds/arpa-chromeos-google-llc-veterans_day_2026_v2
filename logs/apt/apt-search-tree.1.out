@@ -1,0 +1,4484 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+389-ds-base/stable 3.1.2+dfsg1-1+deb13u1 arm64
+  389 Directory Server suite - server
+
+ack/stable 3.8.1-1 all
+  grep-like program specifically for large source trees
+
+acpica-tools/stable 20250404-1 arm64
+  ACPICA tools for the development and debug of ACPI tables
+
+adql-java/stable 2.0~beta+ds-4 all
+  Parse, manipulate and translate ADQL queries with Java
+
+altree/stable 1.3.2-2+b4 arm64
+  program to perform phylogeny-based association and localization analysis
+
+altree-examples/stable 1.3.2-2 all
+  example files for ALTree
+
+animals/stable 201207131226-2.3 arm64
+  Traditional AI animal guessing engine using a binary tree DB
+
+antlr3-gunit-maven-plugin/stable 3.5.3-2 all
+  Maven plugin for gUnit, a unit test framework for ANTLR grammars
+
+antlr4/stable 4.9.2-3 all
+  ANTLR Parser Generator
+
+antlr4-doc/stable 4.9.2-3 all
+  ANTLR Parser Generator (documentation)
+
+antlr4-maven-plugin/stable 4.9.2-3 all
+  Maven plugin for ANTLR 4
+
+apel/stable 10.8+0.20220720-1 all
+  portable library for emacsen
+
+appmenu-registrar/stable 25.04-1 arm64
+  Appmenu DBusMenu registrar
+
+appstream-compose/stable 1.0.5-1 arm64
+  Compose metadata catalogs from directory trees
+
+augeas-doc/stable 1.14.1-1.1~deb13u1 all
+  Augeas lenses documentation
+
+augeas-lenses/stable 1.14.1-1.1~deb13u1 all
+  Set of lenses needed by libaugeas0 to parse config files
+
+augeas-tools/stable 1.14.1-1.1~deb13u1 arm64
+  Augeas command line tools
+
+ayatana-indicator-application/stable 22.2.0-2+b1 arm64
+  Ayatana Applications Indicator (SNI provider)
+
+backupchecker/stable 1.9-2 all
+  fully automated backup checker
+
+bagel/stable 1.2.2-8 arm64
+  Computational Chemistry Package
+
+bali-phy/stable 4.0-1 arm64
+  Bayesian Inference of Alignment and Phylogeny
+
+bandit/stable 1.7.10-2 all
+  Security oriented static analyzer for Python code - Metapackage
+
+baobab/stable 48.0-2+b1 arm64
+  GNOME disk usage analyzer
+
+bcache-tools/stable 1.0.8-5+b1 arm64
+  bcache userspace tools
+
+beast-mcmc/stable 1.10.4+dfsg-7 all
+  Bayesian MCMC phylogenetic inference
+
+beast-mcmc-examples/stable 1.10.4+dfsg-7 all
+  Bayesian MCMC phylogenetic inference - example data
+
+beast2-mcmc/stable 2.7.6+dfsg-1 all
+  Bayesian MCMC phylogenetic inference
+
+beast2-mcmc-examples/stable 2.7.6+dfsg-1 all
+  Bayesian MCMC phylogenetic inference - example data
+
+belvu/stable 4.44.1+dfsg-7.1+b3 arm64
+  multiple sequence alignment viewer and phylogenetic tool
+
+bilibop-common/stable 0.6.5 all
+  shell functions for bilibop scripts
+
+bind9-dnsutils/stable 1:9.20.23-1~deb13u1 arm64
+  Clients provided with BIND 9
+
+bio-rainbow/stable 2.0.4+dfsg-2+b2 arm64
+  clustering and assembling short reads for bioinformatics
+
+blt/stable 2.5.3+dfsg-8 arm64
+  graphics extension library for Tcl/Tk - run-time
+
+blt-demo/stable 2.5.3+dfsg-8 all
+  graphics extension library for Tcl/Tk - demos and examples
+
+blt-dev/stable 2.5.3+dfsg-8 arm64
+  graphics extension library for Tcl/Tk - development files
+
+boolstuff/stable 0.1.16-2.1 arm64
+  programs for operating on boolean expression binary trees
+
+boolstuff-dev/stable 0.1.16-2.1 arm64
+  library for operating on boolean expression binary trees - devel
+
+bppphyview/stable 0.6.1-5+b1 arm64
+  Bio++ Phylogenetic Viewer
+
+bppsuite/stable 2.4.1-7+b1 arm64
+  Bio++ program suite
+
+brebis/stable 0.10-4 all
+  fully automated backup checker
+
+broot/stable 1.46.3-2 arm64
+  tree view, file manager, configurable launcher
+
+bspwm/stable 0.9.10-3 arm64
+  Binary space partitioning window manager
+
+btop/stable 1.3.2-0.1 arm64
+  Modern and colorful command line resource monitor that shows usage and stats
+
+budgie-wallstreet/stable 1.9.0-1 arm64
+  Change wallpaper from a folder on a schedule
+
+buildbot/stable 4.2.1-1 all
+  System to automate the compile/test cycle (server)
+
+buildbot-doc/stable 4.2.1-1 all
+  System to automate the compile/test cycle (documentation)
+
+buildbot-worker/stable 4.2.1-1 all
+  System to automate the compile/test cycle (worker agent)
+
+bwidget/stable 1.10.1-3 all
+  Extension widgets for Tcl/Tk
+
+cargo-auditable/stable 0.6.6-1+b1 arm64
+  Make production Rust binaries auditable
+
+cargo-debstatus/stable 0.6.3-2+b1 arm64
+  print dependency tree of a Rust project using Cargo
+
+castxml/stable 0.6.11-1 arm64
+  C-family abstract syntax tree XML output tool
+
+casync/stable 2+20201210-2+b3 arm64
+  content addressable data synchronizer
+
+cbonsai/stable 1.3.1-1+b1 arm64
+  terminal-based bonsai tree generator
+
+cflow/stable 1:1.7-5+b1 arm64
+  control flow analyzer for C source files
+
+cflow-doc/stable 1:1.7-5 all
+  control flow analyzer for C source files (documentation)
+
+cflow-l10n/stable 1:1.7-5 all
+  control flow analyzer for C source files (localization files)
+
+cgit/stable 1.2.3+git20240802.70.09d24d7+git2.46.0-1 arm64
+  hyperfast web frontend for git repositories written in C
+
+check-dfsg-status/stable 1.34 all
+  check DFSG compliance of installed packages
+
+check-pgactivity/stable 2.7-1 all
+  PostgreSQL plugin for Nagios
+
+cherrytree/stable 1.2.0+dfsg-1 arm64
+  hierarchical note taking application
+
+chiark-scripts/stable 8.0.1 all
+  chiark system administration scripts
+
+chiark-utils-bin/stable 8.0.1 arm64
+  chiark system administration utilities
+
+chromimpute/stable 1.0.3+dfsg-5 all
+  Large-scale systematic epigenome imputation
+
+chrootuid/stable 1.3-6.2 arm64
+  Run commands in restricted environments
+
+cl-agnostic-lizard/stable 0~git20201010.1.fe3a737-2 all
+  best-effort portable code walker for Common Lisp
+
+cl-containers/stable 20170403-1.1 all
+  Common Lisp containers data structures
+
+cl-lparallel/stable 20160825-1.1 all
+  parallel programming in Common Lisp
+
+cl-tf/stable 1.13.2-11 all
+  Robot OS tf transform library -- LISP interface
+
+cl-tf2-msgs/stable 0.7.7-3 all
+  Robot OS tf2 transform library messages - LISP
+
+cl-tf2-srvs/stable 0.7.7-3 all
+  Robot OS tf2 transform library services - LISP
+
+clearcut/stable 1.0.9+git20211013.b799afe-1+b1 arm64
+  extremely efficient phylogenetic tree reconstruction
+
+clfswm/stable 20111015.git51b0a02-3 all
+  A(nother) Common Lisp FullScreen Window Manager
+
+cloudcompare/stable 2.13.2+git20240821+ds-1 arm64
+  3D point cloud and mesh processing software
+
+convmv/stable 2.06+repack-1 all
+  filename encoding conversion tool
+
+cowdancer/stable 0.90+b1 arm64
+  Copy-on-write directory tree utility
+
+cp2k/stable 2025.1-1.1 arm64
+  Ab Initio Molecular Dynamics
+
+cricket/stable 1.0.5-23 arm64
+  Program for collection and display of time-series data
+
+cvs-fast-export/stable 1.59-1+b2 arm64
+  Export an RCS or CVS history as a fast-import stream
+
+cvsgraph/stable 1.7.0-6+b1 arm64
+  Create a tree of revisions/branches from a CVS/RCS file
+
+cvsweb/stable 3:3.0.6-9 all
+  CGI interface to your CVS repository
+
+cyme/stable 2.2.0+dfsg-2 arm64
+  CLI tool for listing system USB buses and devices
+
+dar/stable 2.7.17-1+b16 arm64
+  Disk ARchive: Backup directory tree and files
+
+dar-docs/stable 2.7.17-1 all
+  Disk ARchive: Backup directory tree and files
+
+dar-static/stable 2.7.17-1+b16 arm64
+  Disk ARchive: Backup directory tree and files
+
+darts/stable 0.32-20+b1 arm64
+  C++ Template Library for implementation of Double-Array
+
+db5.3-util/stable 5.3.28+dfsg2-9 arm64
+  Berkeley v5.3 Database Utilities
+
+ddir/stable 2025.0129-3 all
+  display hierarchical directory tree
+
+debmake/stable 4.5.1-2 all
+  helper script to make the Debian source package
+
+debtree/stable 1.1.2 all
+  package dependency graphs on steroids
+
+decopy/stable 0.2.4.9-0.1 all
+  Automatic debian/copyright Generator
+
+device-tree-compiler/stable 1.7.2-2+b1 arm64
+  Device Tree Compiler for Flat Device Trees
+
+devscripts/stable 2.25.15+deb13u1 all
+  scripts to make the life of a Debian Package maintainer easier
+
+dh-linktree/stable 0.9 all
+  Create symlink trees within a Debian package
+
+dh-octave-autopkgtest/stable 1.8.0 all
+  script for the automatic testing of Octave add-on packages
+
+diffoscope/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories
+
+diffoscope-minimal/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories (minimal package)
+
+diploma/stable 1.2.16 all
+  Write scientific papers with Debian
+
+dirdiff/stable 2.1-9+b2 arm64
+  Display and merge changes between two directory trees
+
+dmtracedump/stable 1:14.0.0+r15-4+b1 arm64
+  Generates graphical call-stack diagrams from Android trace logs
+
+dns-browse/stable 1.9-8.3 all
+  Front-ends to DNS search
+
+doodle/stable 0.7.3-1+b1 arm64
+  Desktop Search Engine (client)
+
+dopewars/stable 1.6.2-1+b2 arm64
+  drug-dealing game set in streets of New York City
+
+dopewars-data/stable 1.6.2-1 all
+  drug-dealing game set in streets of New York City - data files
+
+dt-utils/stable 2021.03.0+ds-3+b1 arm64
+  Device tree and barebox related tools
+
+du-dust/stable 1.2.0-2 arm64
+  du + rust = dust. Like du but more intuitive.
+
+dump/stable 0.4b49-2 arm64
+  backup and restore for ext2/3/4 filesystems
+
+dustmite/stable 0.0.430-2.1+b1 arm64
+  Tool for minimizing D source code
+
+easytag/stable 2.4.3-9+b1 arm64
+  GTK+ editor for audio file tags
+
+ecj/stable 3.35.0+eclipse4.29-2 all
+  Eclipse Compiler for Java (command line tool)
+
+ed2k-hash/stable 0.4.0+ds-6 arm64
+  tool for generating ed2k-links
+
+elki/stable 0.7.1-10.1 all
+  Data mining algorithm development framework
+
+elki-dev/stable 0.7.1-10.1 all
+  Data mining algorithm development framework - development files
+
+elpa-avy/stable 0.5.0-4 all
+  jump to things in Emacs tree-style
+
+elpa-dap-mode/stable 0.8-2 all
+  DAP UI controls implemented using treemacs
+
+elpa-imenu-list/stable 0.9-2 all
+  show the current Emacs buffer's imenu entries in a separate window
+
+elpa-ivy-avy/stable 0.15.1-3 all
+  enhance Ivy's selection's with Avy's "balanced decision tree"
+
+elpa-load-relative/stable 1.3.2-2 all
+  relative file load (within a multi-file Emacs package)
+
+elpa-lsp-treemacs/stable 0.5-1 all
+  treemacs integration for Emacs LSP
+
+elpa-neotree/stable 0.5.2-5 all
+  directory tree sidebar for Emacs that is like NERDTree for Vim
+
+elpa-org/stable 9.7.29+dfsg-1 all
+  Keep notes, maintain ToDo lists, and do project planning in emacs
+
+elpa-org-tree-slide/stable 2.8.16+git20201215.d6e8e91-3 all
+  presentation tool for org-mode
+
+elpa-pcre2el/stable 1.12-2 all
+  Emacs mode to convert between PCRE, Emacs and rx regexp syntax
+
+elpa-treemacs/stable 3.2-1 all
+  tree layout file explorer for Emacs
+
+elpa-treemacs-evil/stable 3.2-1 all
+  tree layout file explorer for Emacs - evil support
+
+elpa-treemacs-magit/stable 3.2-1 all
+  tree layout file explorer for Emacs - magit support
+
+elpa-treemacs-projectile/stable 3.2-1 all
+  tree layout file explorer for Emacs - projectile support
+
+elpa-treepy/stable 0.1.2-3 all
+  Generic tree traversal tools
+
+elpa-undo-tree/stable 0.8.1-3 all
+  Emacs minor mode for handling undo history as tree
+
+elpa-ztree/stable 1.0.6-2 all
+  text mode directory tree
+
+emboss-lib/stable 6.6.0+dfsg-15+b1 arm64
+  EMBOSS Libraries
+
+enblend/stable 4.2-10+b2 arm64
+  image blending tool
+
+ergo/stable 3.8.2-1.1 arm64
+  Quantum chemistry program for large-scale calculations
+
+ergo-data/stable 3.8.2-1.1 all
+  Quantum chemistry program for large-scale calculations - data package
+
+erlang-asciideck/stable 0.0+git20170714.48cbfe8b-4+b1 arm64
+  Erlang library for asciidoc
+
+erlang-p1-mqtree/stable 1.0.17-2 arm64
+  index tree for MQTT topic filters
+
+erlang-syntax-tools/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP modules for handling abstract Erlang syntax trees
+
+examl/stable 3.0.22-6+b3 arm64
+  Exascale Maximum Likelihood (ExaML) code for phylogenetic inference
+
+exiflooter/stable 1.0.0+git20231228.22e4700-2+b6 arm64
+  finds geolocation on all image urls and directories
+
+ext4magic/stable 0.3.2-15 arm64
+  recover deleted files from ext3 or ext4 partitions
+
+extrace/stable 0.7-2+b1 arm64
+  trace exec() calls system-wide
+
+extract/stable 1:1.13-8+b1 arm64
+  displays meta-data from files of arbitrary type
+
+extremetuxracer/stable 0.8.4-1 arm64
+  3D racing game featuring Tux, the Linux penguin
+
+extremetuxracer-data/stable 0.8.4-1 all
+  data files for the game Extreme Tux Racer
+
+ezurio-qcacld-2.0-dkms/stable 0.0~git20240408.aa96a9f+dfsg-5 all
+  DKMS source for the Qualcomm QCA9377 SDIO driver
+
+fastdnaml/stable 1.2.2-18 arm64
+  Tool for construction of phylogenetic trees of DNA sequences
+
+fastml/stable 3.11-4+b1 arm64
+  maximum likelihood ancestral amino-acid sequence reconstruction
+
+fasttree/stable 2.1.11-2+b1 arm64
+  phylogenetic trees from alignments of nucleotide or protein sequences
+
+figtree/stable 1.4.4-6 all
+  graphical phylogenetic tree viewer
+
+findimagedupes/stable 2.20.1-3+b3 arm64
+  Finds visually similar or duplicate images
+
+fiona/stable 1.10.1-2+b3 arm64
+  Command line tool for reading/writing vector geospatial data
+
+fl-cow/stable 0.6-10 arm64
+  copy-on-write utility
+
+fonts-motoya-l-cedar/stable 1.01-7 all
+  Japanese Truetype font, Motoya L Cedar
+
+fop/stable 1:2.10+dfsg-2 all
+  XML formatter driven by XSL Formatting Objects (XSL-FO.) - app
+
+fop-doc/stable 1:2.10+dfsg-2 all
+  XML formatter driven by XSL Formatting Objects (doc) - doc
+
+fpart/stable 1.7.0-1 arm64
+  sort file trees and pack them into bags
+
+freefem++/stable 4.15+dfsg-1 arm64
+  Provides the binaries of the FreeFem++ FE suite
+
+freefem++-doc/stable 4.15+dfsg-1 all
+  Provides the documentation of the FreeFem++ FE suite
+
+fsverity/stable 1.6-1.2 arm64
+  Userspace utilities for fs-verity
+
+fsvs/stable 1.2.12-1+b2 arm64
+  Full system versioning with metadata support
+
+ftnchek/stable 3.3.1-7 arm64
+  Semantic checker for Fortran 77 programs
+
+ftpgrab/stable 0.1.5-7+b2 arm64
+  file mirroring utility
+
+fuse-convmvfs/stable 0.2.6-2.1+b1 arm64
+  mirrors a whole filesystem tree from one charset to another
+
+gambas3-gb-map/stable 3.20.2-1+deb13u1 all
+  Gambas online map viewer
+
+gammaray-plugin-quickinspector/stable 3.1.0+ds-3 arm64
+  GammaRay plugin for inspecting QtQuick2 applications
+
+garli/stable 2.1-9 arm64
+  phylogenetic analysis of molecular sequence data using maximum-likelihood
+
+garli-examples/stable 2.1-9 all
+  phylogenetic analysis of molecular sequence data (examples)
+
+garli-mpi/stable 2.1-9 arm64
+  phylogenetic analysis of molecular sequence data using maximum-likelihood (MPI)
+
+gdal-bin/stable 3.10.3+dfsg-1 arm64
+  Geospatial Data Abstraction Library - Utility programs
+
+gdal-data/stable 3.10.3+dfsg-1 all
+  Geospatial Data Abstraction Library - Data files
+
+gdal-plugins/stable 3.10.3+dfsg-1 arm64
+  Geospatial Data Abstraction Library - Plugins
+
+gdmap/stable 1.3.1-1 arm64
+  Tool to visualize diskspace
+
+geany-plugin-projectorganizer/stable 2.0-6+b1 arm64
+  projectorganizer plugin for Geany
+
+geany-plugin-treebrowser/stable 2.0-6+b1 arm64
+  tree browser plugin for Geany
+
+geneagrapher/stable 2.0.0-1 all
+  Create tree from Mathematics Genealogy Project (executable)
+
+generate-ninja/stable 0.0~git20250430.487f835-1 arm64
+  meta-build system for ninja
+
+genimage/stable 18-1.1 arm64
+  Image Creation Tool
+
+genisoimage/stable 9:1.1.11-4 arm64
+  Creates ISO-9660 CD-ROM filesystem images
+
+gigtools/stable 4.4.1-1+b1 arm64
+  command line tools for Gigasampler and DLS Level 1/2 files
+
+gir1.2-ags-7.0/stable 7.7.5-1 arm64
+  Advanced Gtk+ Sequencer core library -- gir bindings
+
+gir1.2-agsaudio-7.0/stable 7.7.5-1 arm64
+  Advanced Gtk+ Sequencer audio processing engine library -- gir bindings
+
+gir1.2-champlain-0.12/stable 0.12.21-2 arm64
+  C library providing ClutterActor to display maps (GObject introspection)
+
+gir1.2-endless-0/stable 0~git20230107+ds-6 arm64
+  GObject introspection data for the Endless SDK
+
+gir1.2-gtkchamplain-0.12/stable 0.12.21-2 arm64
+  Gtk+ widget to display maps (GObject introspection)
+
+gir1.2-osmgpsmap-1.0/stable 1.2.0-4 arm64
+  GTK+ library to embed OpenStreetMap maps - Python bindings
+
+gir1.2-ostree-1.0/stable 2025.2-1 arm64
+  content-addressed filesystem for operating system binaries (introspection)
+
+gir1.2-shumate-1.0/stable 1.4.0-1 arm64
+  GTK4 widgets for embedded maps - gir bindings
+
+girepository-tools/stable 2.84.4-3~deb13u3 arm64
+  Tools for working with GObject-Introspection repositories
+
+gis-osm/stable 0.0.22 all
+  OpenStreetMap related programs
+
+gis-web/stable 0.0.22 all
+  Present geographic information via web map server
+
+git/stable,now 1:2.47.3-0+deb13u1 arm64 [installed,automatic]
+  fast, scalable, distributed revision control system
+
+git-autofixup/stable 0.004007-1 all
+  Automatically fixup commits with related changes
+
+git-evtag/stable 2022.1-2+b2 arm64
+  extended verification for git tags
+
+git-evtag-tests/stable 2022.1-2 all
+  extended verification for git tags - as-installed tests
+
+git-restore-mtime/stable 2022.12-1 all
+  set timestamps to the date of a file's last commit
+
+git-sizer/stable 1.5.0-3+b12 arm64
+  compute various size metrics for a Git repository
+
+git-subrepo/stable 0.4.9-2 arm64
+  Alternative to git-submodule(1) and git-subtree(1)
+
+gitg/stable 44-2 arm64
+  git repository viewer
+
+gitk/stable,now 1:2.47.3-0+deb13u1 all [installed,automatic]
+  fast, scalable, distributed revision control system (revision tree visualizer)
+
+gitpkg/stable 0.31+nmu1 all
+  tools for maintaining Debian packages with git
+
+gltfpack/stable 0.22+dfsg-1 arm64
+  glTF mesh file optimizer
+
+glymur-bin/stable 0.14.1-1 all
+  Python tools for accessing JPEG2000 filesi -- scripts
+
+gmerlin/stable 2.0.0~svn6298~dfsg0-5 arm64
+  multiformat media player
+
+gmerlin-data/stable 2.0.0~svn6298~dfsg0-5 all
+  multiformat media player - data files
+
+gmerlin-encoders-extra/stable 2.0.0~svn6278-6+b1 arm64
+  MJPEG encoders for Gmerlin
+
+gmerlin-encoders-ffmpeg/stable 2.0.0~svn6278-6+b1 arm64
+  ffmpeg encoders for Gmerlin
+
+gmerlin-encoders-good/stable 2.0.0~svn6278-6+b1 arm64
+  patent-free encoders for Gmerlin
+
+gmerlin-plugins-base/stable 2.0.0~svn6298~dfsg0-5 arm64
+  gmerlin plugins from the "base" set
+
+gnome-common/stable 3.18.0-6 all
+  common scripts and macros to develop with GNOME
+
+gnuaisgui/stable 0.3.3-9.1+deb13u1 arm64
+  OpenStreetMap GUI for gnuais
+
+gnuit/stable 4.9.5-5+b1 arm64
+  GNU Interactive Tools, a file browser/viewer and process viewer/killer
+
+go-internal/stable 1.12.0-3 arm64
+  Selected Go-internal packages factored out from the standard library (binaries)
+
+goda/stable 0.5.7-1 arm64
+  Go Dependency Analysis toolkit
+
+golang-github-a8m-tree-dev/stable 0.0~git20240104.2c8764a-1 all
+  implementation of the tree command
+
+golang-github-altree-bigfloat-dev/stable 0.0~git20220102.38c8b72-2 all
+  Additional operations for the standard library big.Float type (library)
+
+golang-github-andybalholm-cascadia-dev/stable 1.3.3-1 all
+  CSS selector library in Go
+
+golang-github-armon-go-radix-dev/stable 1.0.0+git20221118.54df44f-1 all
+  Golang implementation of Radix trees
+
+golang-github-badgerodon-collections-dev/stable 0.0~git20130729.604e922-4 all
+  Collection of Golang types
+
+golang-github-bboreham-go-loser-dev/stable 0.0~git20230920.fcc2c21-2 all
+  Loser Tree data structure, for fast k-way merge (library)
+
+golang-github-beevik-etree-dev/stable 1.5.1-1 all
+  parse and generate XML easily in go
+
+golang-github-bep-gowebp-dev/stable 0.3.0+dfsg-1 all
+  C bindings and an API for encoding WebP images (Go library)
+
+golang-github-biogo-store-dev/stable 0.0~git20200525.8c94ae1-2 all
+  bíogo data store repository (library)
+
+golang-github-bmatsuo-lmdb-go-dev/stable 1.8.0+git20170215.a14b5a3-4 all
+  Bindings for the LMDB C library
+
+golang-github-bradenaw-juniper-dev/stable 0.15.3-1 all
+  extension to the Go standard library (library)
+
+golang-github-coreos-vcontext-dev/stable 0.0~git20210903.c22998b-2 all
+  Library for validating json and yaml configs in Go (library)
+
+golang-github-ctdk-go-trie-dev/stable 0.0~git20161027.0.6443fbc-1.1 all
+  Trie implementation based on a minimal automaton for Go
+
+golang-github-cznic-b-dev/stable 0.0~git20151027.0.01b13d7-2 all
+  B+tree implementation
+
+golang-github-darkhz-tview-dev/stable 0.0~git20240308.6078a88-1 all
+  Rich interactive widgets for terminal-based UIs in Go
+
+golang-github-dataence-porter2-dev/stable 0.0~git20150829.56e4718-5 all
+  native Go high-performance Porter2 stemmer for English
+
+golang-github-disiqueira-gotree-dev/stable 3.0.2-2 all
+  Tree printer module written in GoLang (library)
+
+golang-github-emirpasic-gods-dev/stable 1.12.0-2 all
+  Implementation of various data structures and algorithms in Go
+
+golang-github-fortytw2-leaktest-dev/stable 1.3.0-1.1 all
+  Goroutine Leak Detector
+
+golang-github-gatherstars-com-jwz-dev/stable 1.4.0-1 all
+  Go implementation of the JWZ email threading algorithm (library)
+
+golang-github-gcla-gowid-dev/stable 1.4.0-1 all
+  Compositional widgets for terminal user interfaces, inspired by urwid
+
+golang-github-go-jose-go-jose-dev/stable 4.0.5-1 all
+  Implementation of JOSE standards (JWE, JWS, JWT) in Go (library)
+
+golang-github-go-jose-go-jose.v3-dev/stable 3.0.3-6 all
+  Implementation of JOSE standards (JWE, JWS, JWT) in Go (library)
+
+golang-github-go-kit-kit-dev/stable 0.13.0-7 all
+  Programming toolkit for microservices
+
+golang-github-go-macaroon-bakery-macaroonpb-dev/stable 1.0.0-2 all
+  Protobuf encoding used by macaroon-bakery (library)
+
+golang-github-google-btree-dev/stable 1.0.1-1 all
+  BTree implementation for Go
+
+golang-github-google-trillian-dev/stable 1.6.1-1 all
+  transparent scalable and cryptographically verifiable data store (library)
+
+golang-github-hashicorp-go-immutable-radix-dev/stable 1.3.1-3 all
+  immutable radix tree implementation in Golang
+
+golang-github-hashicorp-go-memdb-dev/stable 1.2.1-1 all
+  in-memory database built on immutable radix trees
+
+golang-github-iafan-cwalk-dev/stable 0.0~git20191125.dd7f505-3 all
+  Concurrent filepath.Walk replacement
+
+golang-github-julienschmidt-httprouter-dev/stable 1.3.0-2 all
+  High performance HTTP request router for Go that scales well
+
+golang-github-k-sone-critbitgo-dev/stable 1.4.0-3 all
+  crit-bit for golang and its applications (sorted map, IP routing table)
+
+golang-github-k0swe-wsjtx-go-dev/stable 4.0.1-2 all
+  Golang binding for the WSJT-X amateur radio software's UDP interface (library)
+
+golang-github-karrick-godirwalk-dev/stable 1.15.3-3 all
+  Fast directory traversal for Golang (library)
+
+golang-github-kentik-patricia-dev/stable 1.2.1-1 all
+  Garbage collector-sensitive patricia tree (library)
+
+golang-github-mitchellh-reflectwalk-dev/stable 1.0.1-1 all
+  library for "walking" complex structures, similar to walking a filesystem
+
+golang-github-monochromegane-go-gitignore-dev/stable 0.0~git20200626.205db1a-2 all
+  Fast gitignore matching for Go (library)
+
+golang-github-mostynb-go-grpc-compression-dev/stable 1.2.3-2 all
+  Go gRPC encoding wrappers for missing compressors (library)
+
+golang-github-nebulouslabs-merkletree-dev/stable 0.0~git20170901.0.8482d02-1.1 all
+  Go package for working with Merkle trees
+
+golang-github-ostreedev-ostree-go-dev/stable 0.0+git20210805.719684c64e4f-2 all
+  Golang bindings for httt://github.com/ostreedev/ostree
+
+golang-github-ozeidan-fuzzy-patricia-dev/stable 3.0.0-4 all
+  Generic patricia trie implemented in Go
+
+golang-github-pelletier-go-toml/stable 1.9.5-1+b11 arm64
+  Go library for the TOML format — command-line programs
+
+golang-github-pelletier-go-toml-dev/stable 1.9.5-1 all
+  Go library for the TOML format
+
+golang-github-petar-gollrb-dev/stable 0.0~git20130427.0.53be0d3+dfsg-7 all
+  LLRB implementation of balanced binary search trees for Go
+
+golang-github-pterm-pterm-dev/stable 0.12.79-2 all
+  modern Go module to easily beautify console output (library)
+
+golang-github-rivo-tview-dev/stable 0.0~git20230530.8bd761d-1 all
+  Rich interactive widgets for terminal-based UIs in Go
+
+golang-github-rjeczalik-notify-dev/stable 0.9.3-3 all
+  file system event notification library on steroids
+
+golang-github-robfig-pathtree-dev/stable 0.0~git20140121-4 all
+  Go library for fast lookups using trees
+
+golang-github-rogpeppe-go-internal-dev/stable 1.12.0-3 all
+  Selected Go-internal packages factored out from the standard library
+
+golang-github-ryszard-goskiplist-dev/stable 0.0~git20150312.2dfbae5-3 all
+  A skip list implementation in Go
+
+golang-github-seancfoley-bintree-dev/stable 1.2.1-2 all
+  Binary trees and tries
+
+golang-github-sigstore-sigstore-go-dev/stable 0.7.1-2 all
+  Sigstore signing and verification (Go library)
+
+golang-github-sjoerdsimons-ostree-go-dev/stable 0.0~git20201014.8fae757-2 all
+  Golang bindings for OSTree
+
+golang-github-smartystreets-assertions-dev/stable 1.10.1+ds-2 all
+  fluent assertion-style functions
+
+golang-github-smartystreets-go-aws-auth-dev/stable 1.0.0-1 all
+  Go library to signs requests to Amazon Web Services
+
+golang-github-smartystreets-goconvey-dev/stable 1.6.4+dfsg-1 all
+  Go testing in browser - sources
+
+golang-github-smartystreets-gunit-dev/stable 1.2.0+git20180314.6f0d627-2.1 all
+  xUnit-style test fixture adapter for go test
+
+golang-github-smira-commander-dev/stable 0.0~git20140515.f408b00-1.1 all
+  library to provide command-line commands and sub-commands
+
+golang-github-steveyen-gtreap-dev/stable 0.0~git20150807.0.0abe01e-7 all
+  gtreap is an immutable treap implementation in the Go Language
+
+golang-github-suapapa-go-eddystone-dev/stable 1.3.1-1 all
+  golang library for supporting Eddystone
+
+golang-github-t3rm1n4l-go-mega-dev/stable 0.0~git20230228.a01a2cd-2 all
+  Client library in go for mega.co.nz storage service (library)
+
+golang-github-tchap-go-patricia-dev/stable 2.3.2-1 all
+  generic patricia trie (also called radix tree)
+
+golang-github-thejerf-suture-dev/stable 4.0.1-1 all
+  supervisor trees for Go
+
+golang-github-tideland-golib-dev/stable 4.24.2-2 all
+  collection of misc Go packages
+
+golang-github-tidwall-btree-dev/stable 0.3.0-2 all
+  B-Tree implementation for Go
+
+golang-github-tidwall-rtree-dev/stable 0.0~git20180113.6cd4270-3 all
+  RTree implementation for Go
+
+golang-github-transparency-dev-merkle-dev/stable 0.0.2-2 all
+  create and manipulate Merkle trees in Go (library)
+
+golang-github-vbatts-go-mtree-dev/stable 0.4.4-2 all
+  file systems verification library, in likeness of mtree(8)
+
+golang-github-vividcortex-gohistogram-dev/stable 1.0.0-2 all
+  Streaming approximate histograms in Go (library)
+
+golang-github-wk8-go-ordered-map-dev/stable 2.1.8-2 all
+  Optimal implementation of ordered maps for Golang (Go library)
+
+golang-github-xlab-treeprint-dev/stable 1.2.0-2 all
+  simple ASCII tree composing tool
+
+golang-github-yourbasic-graph-dev/stable 1.0.5-3 all
+  graph algorithms and data structures
+
+golang-google-cloud-compute-metadata-dev/stable 0.56.0-6 all
+  Google Cloud Platform APIs (only cloud/compute/metadata)
+
+golang-google-cloud-dev/stable 0.56.0-6 all
+  Google Cloud Platform APIs
+
+golang-gopkg-lxc-go-lxc.v2-dev/stable 0.0+git20240606.27b3d11-1 all
+  Go bindings for liblxc
+
+golang-k8s-sigs-json-dev/stable 0.0~git20241014.cfa47c3-1 all
+  Golang JSON decoder library for kubernetes sig-api-machinery
+
+got/stable 0.111-1 arm64
+  game of trees version control system
+
+gotd/stable 0.111-1 arm64
+  game of trees repository server
+
+gource/stable 0.54-1+b3 arm64
+  graphical source control visualisation
+
+gpsbabel/stable 1.10.0+ds-1 arm64
+  GPS file conversion plus transfer to/from GPS units
+
+gpsbabel-doc/stable 1.10.0+ds-1 all
+  GPS file conversion plus transfer to/from GPS units - documentation
+
+gpsbabel-gui/stable 1.10.0+ds-1 arm64
+  GPS file conversion plus transfer to/from GPS units - GUI
+
+gpsprune/stable 25.2-1 all
+  visualize, edit, convert and prune GPS data
+
+gpxviewer/stable 1.2.0-2 all
+  views GPS traces collected in the GPX format
+
+gr-satellites/stable 5.5.0-2+b13 arm64
+  Collection of satellite telemetry signal decoders
+
+graphlan/stable 1.1.3-6 all
+  circular representations of taxonomic and phylogenetic trees
+
+hachoir/stable 3.1.0+dfsg-5 all
+  Python framework to parse and edit binary files
+
+haci/stable 0.98c-2.2 all
+  web based IP(v6) address and network administration tool
+
+harvest-tools/stable 1.3-8+b6 arm64
+  archiving and postprocessing for reference-compressed genomic multi-alignments
+
+hnb/stable 1.9.18+ds1-3+b2 arm64
+  hierarchical notebook
+
+hsqldb-utils/stable 2.7.4-1 all
+  Java SQL database engine (utilities)
+
+hx/stable 25.01.1-4 arm64
+  modal CLI text editor Helix
+
+hy/stable 1.0.0-1 all
+  Lisp (s-expression) based frontend to Python (cmdline)
+
+hy-doc/stable 1.0.0-1 all
+  Lisp (s-expression) based frontend to Python (documentation)
+
+icingaweb2-module-businessprocess/stable 2.5.1-2 all
+  simple and responsive web interface for Icinga - businessprocess module
+
+icingaweb2-module-map/stable 2.0.0-2 all
+  Displays host objects as markers on openstreetmap
+
+idba/stable 1.1.3-8+b1 arm64
+  iterative De Bruijn Graph short read assemblers
+
+idba-extra/stable 1.1.3-8+b1 arm64
+  iterative De Bruijn Graph short read assemblers (extra tools)
+
+ii/stable 2.0-1+b1 arm64
+  minimalist FIFO and filesystem-based IRC client
+
+iitii/stable 0.0+git20191030.85209e0-3 arm64
+  Implicit Interval Tree with Interpolation Index
+
+imageindex/stable 1.1-7 all
+  generate static HTML galleries from images
+
+imediff/stable 3.4.0-1 all
+  interactive full screen 2/3-way merge tool
+
+incus-extra/stable 6.0.4-2+deb13u8 arm64
+  Powerful system container and virtual machine manager - extra tools
+
+indigo-utils/stable 1.2.3-3.1+b1 arm64
+  Organic Chemistry Toolkit Utilities
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+javacc/stable 7.0.13-1 all
+  Parser generator for use with Java
+
+javacc-doc/stable 7.0.13-1 all
+  Documentation for the JavaCC Parser Generator
+
+javacc4/stable 4.0-3 all
+  Parser generator for use with Java
+
+javacc4-doc/stable 4.0-3 all
+  Documentation for the JavaCC Parser Generator
+
+javacc5/stable 5.0-11 all
+  Parser generator for use with Java
+
+javacc5-doc/stable 5.0-11 all
+  Documentation for the JavaCC Parser Generator
+
+jaxb/stable 2.3.0.1-11 all
+  JAXB Reference Implementation (Command Line Tools)
+
+jest/stable 29.6.2~ds1+~cs73.45.28-5 all
+  Delightful JavaScript Testing
+
+jmapviewer/stable 2.24+dfsg-1 all
+  Java OpenStreetMap Tile Viewer
+
+jose-util/stable 4.0.5-1+b3 arm64
+  Implementation of JOSE standards (JWE, JWS, JWT) in Go (program)
+
+josm/stable 0.0.svn19369+dfsg-2 all
+  Editor for OpenStreetMap
+
+josm-l10n/stable 0.0.svn19369+dfsg-2 all
+  Editor for OpenStreetMap - translation files
+
+jtb/stable 1.4.12-3 all
+  syntax tree builder and visitors generator for JavaCC
+
+jxplorer/stable 3.3.2+dfsg-7 all
+  Java LDAP Browser
+
+k4dirstat/stable 3.4.3-1+b2 arm64
+  graphical disk usage display with cleanup facilities
+
+kbackup/stable 25.04.0-1 arm64
+  Easy to use backup program
+
+kbuild/stable 1:0.1.9998svn3614+dfsg-2 arm64
+  framework for writing simple makefiles for complex tasks
+
+kcachegrind/stable 4:25.04.0-1 arm64
+  visualisation tool for the Valgrind profiler
+
+kcachegrind-converters/stable 4:25.04.0-1 all
+  format converters for KCachegrind profiler visualisation tool
+
+keditbookmarks/stable 25.04.0-1 arm64
+  bookmarks editor utility for KDE
+
+keymapper/stable 0.6.4 all
+  Keyboard map decision tree builder and interpreter
+
+knews/stable 1.0b.1-39 arm64
+  Graphical threaded news reader
+
+knot-dnsutils/stable 3.4.6-2 arm64
+  Clients provided with Knot DNS (kdig, knsupdate, kxdpgun)
+
+kodi-addons-dev-common/stable 2:21.2+dfsg-4 all
+  Open Source Home Theatre (architecture-independent addon development package)
+
+kodi-vfs-libarchive/stable 21.0.2+ds-1 arm64
+  Libarchive VFS add-on for Kodi
+
+kongress/stable 25.04.0-1 arm64
+  companion application for conferences made by KDE
+
+konq-plugins/stable 4:25.04.0-1 arm64
+  plugins for Konqueror, the KDE file/web/document browser
+
+kosmindoormap-demo/stable 25.04.3-1 arm64
+  OSM multi-floor indoor map demo application
+
+kosmindoormap-dev/stable 25.04.3-1 arm64
+  OSM multi-floor indoor map renderer (development files)
+
+kyotocabinet-doc/stable 1.2.80-2 all
+  Straightforward implementation of DBM - docs
+
+kyotocabinet-utils/stable 1.2.80-2+b1 arm64
+  Straightforward implementation of DBM - utilities
+
+lagan/stable 2.0-10+b2 arm64
+  highly parametrizable pairwise global genome sequence aligner
+
+ldap2zone/stable 0.2-12+b3 arm64
+  Extract DNS zones from LDAP trees
+
+libags-audio-dev/stable 7.7.5-1 arm64
+  Advanced Gtk+ Sequencer audio processing engine (Development files)
+
+libags-audio-doc/stable 7.7.5-1 all
+  Advanced Gtk+ Sequencer audio processing engine (API documentation)
+
+libags-audio7t64/stable 7.7.5-1 arm64
+  Advanced Gtk+ Sequencer audio processing library
+
+libags-dev/stable 7.7.5-1 arm64
+  Advanced Gtk+ Sequencer core library (Development files)
+
+libags-doc/stable 7.7.5-1 all
+  Advanced Gtk+ Sequencer core library (API documentation)
+
+libags7t64/stable 7.7.5-1 arm64
+  Advanced Gtk+ Sequencer core library
+
+libai-decisiontree-perl/stable 0.11-2+b4 arm64
+  module to create decision trees from training data
+
+libalgorithm-dependency-perl/stable 1.110-1.3 all
+  Base class for implementing various dependency trees in Perl
+
+libalgorithm-naivebayes-perl/stable 0.04-2 all
+  module to make bayesian prediction of categories
+
+libantlr3-gunit-java/stable 3.5.3-2 all
+  Unit Test framework for ANTLR grammars
+
+libantlr4-runtime-dev/stable 4.9+dfsg-3+b3 arm64
+  ANTLR Parser Generator - C++ runtime support (development files)
+
+libantlr4-runtime-java/stable 4.9.2-3 all
+  Runtime library for ANTLR 4
+
+libantlr4-runtime4.9/stable 4.9+dfsg-3+b3 arm64
+  ANTLR Parser Generator - C++ runtime support (shared library)
+
+libapache-directory-jdbm-java/stable 2.0.0~M2-3 all
+  ApacheDS JDBM Implementation
+
+libapache2-mod-mime-xattr/stable 0.4-9 arm64
+  Apache2 module to get MIME info from filesystem extended attributes
+
+libapache2-mod-tile/stable 0.8.0-1 arm64
+  Apache module to deliver tiles created by renderd
+
+libarchive-dev/stable 3.7.4-4+deb13u1 arm64
+  Multi-format archive and compression library (development files)
+
+libarchive13t64/stable,now 3.7.4-4+deb13u1 arm64 [installed,automatic]
+  Multi-format archive and compression library (shared library)
+
+libaugeas-dev/stable 1.14.1-1.1~deb13u1 arm64
+  Development files for writing applications based on libaugeas0
+
+libaugeas0/stable 1.14.1-1.1~deb13u1 arm64
+  Augeas configuration editing library and API
+
+libavl-dev/stable 0.3.5-4.1+b2 arm64
+  AVL tree manipulation library - development
+
+libavl1t64/stable 0.3.5-4.1+b2 arm64
+  AVL tree manipulation library - runtime
+
+libaxiom-java/stable 1.2.8-3 all
+  Apache AXIOM - StAX-based XML Infoset compliant object model
+
+libb-debug-perl/stable 1.26-3 all
+  module to print debug info about perl ops
+
+libb-hooks-op-check-perl/stable,now 0.22-3+b2 arm64 [installed,automatic]
+  Perl wrapper for OP check callbacks
+
+libb-utils-perl/stable 0.27-3+b3 arm64
+  Perl module assisting with op tree manipulation
+
+libbase-ocaml/stable 0.17.1-1+b2 arm64
+  Jane Street's alternative standard library (runtime)
+
+libbase-ocaml-dev/stable 0.17.1-1+b2 arm64
+  Jane Street's alternative standard library (development)
+
+libberkeleydb-perl/stable 0.66-1 arm64
+  use Berkeley DB databases from Perl
+
+libboolstuff-0.1-0/stable 0.1.16-2.1 arm64
+  library for operating on boolean expression binary trees
+
+libbtparse-dev/stable 0.91-1 arm64
+  C library to parse BibTeX files - development files
+
+libbtparse2/stable 0.91-1 arm64
+  C library to parse BibTeX files
+
+libcds-dev/stable 2.3.3-5 arm64
+  Concurrent Data Structures (CDS) library - development
+
+libcds2.3.3t64/stable 2.3.3-5 arm64
+  Concurrent Data Structures (CDS) library
+
+libcf-ocaml/stable 0.10-8+b2 arm64
+  OCaml library with miscellaneous utility functions
+
+libcf-ocaml-dev/stable 0.10-8+b2 arm64
+  OCaml library with miscellaneous utility functions
+
+libcgi-test-perl/stable 1.111-2 all
+  CGI regression test framework
+
+libchamplain-0.12-0/stable 0.12.21-2 arm64
+  C library providing ClutterActor to display maps
+
+libchamplain-0.12-dev/stable 0.12.21-2 arm64
+  C library providing ClutterActor to display maps (development files)
+
+libchamplain-doc/stable 0.12.21-2 all
+  C library providing ClutterActor to display maps (documentation)
+
+libchamplain-gtk-0.12-0/stable 0.12.21-2 arm64
+  Gtk+ widget to display maps
+
+libchamplain-gtk-0.12-dev/stable 0.12.21-2 arm64
+  Gtk+ widget to display maps (development files)
+
+libchemicaltagger-java/stable 1.6.2-4 all
+  tool for semantic text-mining in chemistry
+
+libclang-cpp17-dev/stable 1:17.0.6-22+b2 arm64
+  C++ interface to the Clang library
+
+libclang-cpp17t64/stable 1:17.0.6-22+b2 arm64
+  C++ interface to the Clang library
+
+libclang-cpp18/stable 1:18.1.8-18+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp18-dev/stable 1:18.1.8-18+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp19/stable 1:19.1.7-3+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp19-dev/stable 1:19.1.7-3+b1 arm64
+  C++ interface to the Clang library
+
+libclang1/stable 1:19.0-63 arm64
+  C, C++ and Objective-C compiler (LLVM based)
+
+libclang1-17t64/stable 1:17.0.6-22+b2 arm64
+  C interface to the Clang library
+
+libclang1-18/stable 1:18.1.8-18+b1 arm64
+  C interface to the Clang library
+
+libclang1-19/stable 1:19.1.7-3+b1 arm64
+  C interface to the Clang library
+
+libclass-autoloadcan-perl/stable 0.03-4 all
+  module managing conflict between AUTOLOAD, can and inheritance
+
+libclass-isa-perl/stable 0.36-7 all
+  report the search path for a class's ISA tree
+
+libclaw-dev/stable 1.7.4-3 arm64
+  Claw is a generalist C++ library (development files)
+
+libcleri-dev/stable 1.0.2-1+b1 arm64
+  language parser library - development files
+
+libcleri1/stable 1.0.2-1+b1 arm64
+  language parser library
+
+libcneartree-dev/stable 5.1.1+dfsg1-2.1+b1 arm64
+  Library and headers for solving the Nearest Neighbor Problem
+
+libcneartree7t64/stable 5.1.1+dfsg1-2.1+b1 arm64
+  Library for solving the Nearest Neighbor Problem
+
+libcommonmark-perl/stable 0.310100-1+b1 arm64
+  interface to the CommonMark C library
+
+libconfig-merge-perl/stable 1.04-3 all
+  umbrella interface to configuration modules
+
+libconfig-model-backend-augeas-perl/stable 0.126-1 all
+  config-model reader and writer powered by Augeas
+
+libcpp-hocon-dev/stable 0.3.0-1.1+b2 arm64
+  C++ port of the TypesafeConfig library -- development files
+
+libcpp-hocon0.3.0t64/stable 0.3.0-1.1+b2 arm64
+  C++ port of the TypesafeConfig library -- shared libraries
+
+libcql-parser-perl/stable 1.13-2 all
+  Common Query Language parser
+
+libcritnib-dev/stable 1.1-2+b2 arm64
+  ordered map data structure with lock-free reads
+
+libcritnib1/stable 1.1-2+b2 arm64
+  ordered map data structure with lock-free reads
+
+libcss-parser-pp0v5/stable 0.87-4+b2 arm64
+  simple CSS1 parser library for C++
+
+libcss-parser0/stable 0.87-4+b2 arm64
+  simple CSS1 parser library for C
+
+libcss-perl/stable 1.09-2 all
+  object oriented access to Cascading Style Sheets (CSS)
+
+libcssparser-java/stable 0.9.29-1 all
+  Java CSS2 Parser
+
+libdata-stag-perl/stable 0.14-3 all
+  module to manipulate Structured Tags datastructures
+
+libdata-structure-util-perl/stable 0.16-2+b4 arm64
+  module to change nature of data within a data structure
+
+libdata-treedumper-oo-perl/stable 0.10-1 all
+  Object-oriented interface to Data::TreeDumper
+
+libdata-treedumper-perl/stable 0.41-1 all
+  module for dumping data structures in various formats
+
+libdata-treedumper-renderer-dhtml-perl/stable 0.09-3 all
+  simple Perl DHTML renderer for Data::TreeDumper
+
+libdatrie-dev/stable 0.2.13-3+b1 arm64
+  Development files for double-array trie library
+
+libdatrie-doc/stable 0.2.13-3 all
+  Documentation files for double-array trie library
+
+libdatrie1-bin/stable 0.2.13-3+b1 arm64
+  Programs for double-array trie library
+
+libdb1-compat/stable 2.1.3-25+b1 arm64
+  Berkeley database routines [glibc 2.0/2.1 compatibility]
+
+libdbix-class-tree-nestedset-perl/stable 0.10-1.1 all
+  module to manage trees of data using the nested set model
+
+libdbix-class-tree-perl/stable 0.03003-2 all
+  module to manipulate and anaylze tree structured data
+
+libdbix-dbstag-perl/stable 0.12-4 all
+  module providing relational database to hierarchical mapping
+
+libdcontainers-dev/stable 0.9.0-2 arm64
+  Containers backed by Phobos' experimental allocators
+
+libdevel-callsite-perl/stable 1.0.1-2+b4 arm64
+  Perl module to get caller return OP address and Perl interpreter context
+
+libdevel-ptkdb-perl/stable 1.1091-3.1 all
+  Perl debugger using a Tk GUI
+
+libdirectory-scratch-structured-perl/stable 0.04-3 all
+  module to create temporary files and directories from a structured description
+
+libdist-zilla-role-bootstrap-perl/stable 1.001004-2 all
+  Shared logic for Dist::Zilla-related bootstrap things
+
+libdocopt-dev/stable 0.6.3-5 arm64
+  development files for docopt.cpp
+
+libdocopt0/stable 0.6.3-5 arm64
+  C++11 port of docopt
+
+libdoodle-dev/stable 0.7.3-1+b1 arm64
+  Desktop Search Engine (development)
+
+libdoodle1/stable 0.7.3-1+b1 arm64
+  Desktop Search Engine (library)
+
+libdt-utils-dev/stable 2021.03.0+ds-3+b1 arm64
+  Device tree related library (development files)
+
+libdt-utils5t64/stable 2021.03.0+ds-3+b1 arm64
+  Device tree related library
+
+libdune-typetree-dev/stable 2.10.0-1 arm64
+  toolbox for solving PDEs -- typed tree template library (development files)
+
+libdune-typetree-doc/stable 2.10.0-1 all
+  toolbox for solving PDEs -- typed tree template library (documentation)
+
+libeasy-format-ocaml/stable 1.3.4-3+b4 arm64
+  easy(ier) pretty printing for OCaml - plugins
+
+libeasy-format-ocaml-dev/stable 1.3.4-3+b4 arm64
+  easy(ier) pretty printing for OCaml - development files
+
+libeclipse-jdt-annotation-java/stable 2.2.700+eclipse4.29-2 all
+  Eclipse JDT Annotations for Enhanced Null Analysis
+
+libeclipse-jdt-apt-core-java/stable 3.8.100+eclipse4.29-2 all
+  Eclipse Java Annotation Processing Core
+
+libeclipse-jdt-apt-pluggable-core-java/stable 1.4.100+eclipse4.29-2 all
+  Eclipse Java Compiler Apt IDE
+
+libeclipse-jdt-astview-java/stable 1.6.0+eclipse4.29-1 all
+  Eclipse AST View Plug-in
+
+libeclipse-jdt-core-compiler-batch-java/stable 3.35.0+eclipse4.29-2 all
+  Eclipse Java Compiler Batch
+
+libeclipse-jdt-core-java/stable 3.35.0+eclipse4.29-2 all
+  Eclipse Java Development Tools Core
+
+libeclipse-jdt-core-manipulation-java/stable 1.19.100+eclipse4.29-1 all
+  Eclipse Java Code Manipulation Functionality
+
+libeclipse-jdt-junit-core-java/stable 3.12.100+eclipse4.29-1 all
+  Eclipse Java Development Tools JUnit core support
+
+libeclipse-jdt-junit-runtime-java/stable 3.7.200+eclipse4.29-1 all
+  Eclipse Java Development Tools JUnit Runtime Support
+
+libeclipse-jdt-junit4-runtime-java/stable 1.3.0+eclipse4.29-1 all
+  Eclipse Java Development Tools JUnit4 Runtime Support
+
+libeclipse-jdt-ui-java/stable 3.30.0+eclipse4.29-1 all
+  Eclipse Java Development Tools UI
+
+libeclipse-ltk-core-refactoring-java/stable 3.14.100+eclipse4.29-1 all
+  Eclipse Refactoring Core
+
+libeclipse-ltk-ui-refactoring-java/stable 3.13.100+eclipse4.29-1 all
+  Eclipse Refactoring UI
+
+libendless-0-0t64/stable 0~git20230107+ds-6 arm64
+  Endless SDK runtime libraries
+
+libendless-0-common/stable 0~git20230107+ds-6 all
+  common files for the Endless SDK runtime libraries
+
+libendless-bin/stable 0~git20230107+ds-6 arm64
+  development tools for the Endless SDK
+
+libendless-dev/stable 0~git20230107+ds-6 arm64
+  development files for the Endless SDK
+
+libendless-doc/stable 0~git20230107+ds-6 all
+  documentation files for the Endless SDK
+
+libextractor-plugin-archive/stable 1:1.13-8+b1 arm64
+  extracts meta-data from files of arbitrary type (archive plugin)
+
+libextractor-plugins-all/stable 1:1.13-8 all
+  extracts meta-data from files of arbitrary type (plugins)
+
+libextractor3/stable 1:1.13-8+b1 arm64
+  extracts meta-data from files of arbitrary type (library)
+
+libfast-zip-visit-clojure/stable 1.0.2-3 all
+  Clojure zipper-based visitor library (fast-zip version)
+
+libfastinfoset-java/stable 1.2.12-4 all
+  Java library implementing the Fast Infoset standard
+
+libfdt-dev/stable 1.7.2-2+b1 arm64
+  Flat Device Trees manipulation library - development files
+
+libfdt1/stable 1.7.2-2+b1 arm64
+  Flat Device Trees manipulation library
+
+libfile-checktree-perl/stable 4.42-4 all
+  module for running many filetest checks on a tree
+
+libfile-treecreate-perl/stable 0.0.1-3 all
+  Perl module to recursively create and populate a directory tree
+
+libfile-wildcard-perl/stable 0.11-4 all
+  Enhanced glob processing
+
+libfop-java/stable 1:2.10+dfsg-2 all
+  XML formatter driven by XSL Formatting Objects (XSL-FO.) - libs
+
+libforest-perl/stable 0.10-2 all
+  collection of N-ary tree related modules
+
+libfreefem++/stable 4.15+dfsg-1 arm64
+  Provides the shared libraries of the FreeFem++ FE suite
+
+libfreefem++-dev/stable 4.15+dfsg-1 arm64
+  Provides the development files of the FreeFem++ FE suite
+
+libfsverity-dev/stable 1.6-1.2 arm64
+  Development files for fs-verity
+
+libfsverity0/stable 1.6-1.2 arm64
+  Shared library for fs-verity
+
+libgdal-dev/stable 3.10.3+dfsg-1 arm64
+  Geospatial Data Abstraction Library - Development files
+
+libgdal36/stable 3.10.3+dfsg-1 arm64
+  Geospatial Data Abstraction Library
+
+libgedcom-perl/stable 1.22-2 all
+  interface to genealogy GEDCOM files
+
+libgee-0.8-2/stable 0.20.8-1 arm64
+  GObject based collection and utility library
+
+libgee-0.8-dev/stable 0.20.8-1 arm64
+  GObject based collection and utility library (development files)
+
+libgenome-perl/stable 0.06-7 all
+  pipelines, tools, and data management for genomics
+
+libgeo-coder-osm-perl/stable 0.03-4 all
+  Geocode addresses with the OpenStreetMap Nominatim API
+
+libgeo-osm-tiles-perl/stable 0.04-7 all
+  module for calculating tile numbers for OpenStreetMap
+
+libghc-chimera-dev/stable 0.3.4.0-1+b1 arm64
+  lazy infinite compact streams with cache-friendly O(1) indexing
+
+libghc-chimera-doc/stable 0.3.4.0-1 all
+  lazy infinite compact streams with cache-friendly O(1) indexing; documentation
+
+libghc-chimera-prof/stable 0.3.4.0-1+b1 arm64
+  lazy infinite compact streams with cache-friendly O(1) indexing; profiling libraries
+
+libghc-data-default-instances-containers-dev/stable 0.0.1-14+b1 arm64
+  default instances for types in containers
+
+libghc-data-default-instances-containers-doc/stable 0.0.1-14 all
+  default instances for types in containers; documentation
+
+libghc-data-default-instances-containers-prof/stable 0.0.1-14+b1 arm64
+  default instances for types in containers; profiling libraries
+
+libghc-directory-tree-dev/stable 0.12.1-9 arm64
+  simple directory-like tree datatype, with IO functions
+
+libghc-directory-tree-doc/stable 0.12.1-9 all
+  simple directory-like tree datatype, with IO functions; documentation
+
+libghc-directory-tree-prof/stable 0.12.1-9 arm64
+  simple directory-like tree datatype, with IO functions; profiling libraries
+
+libghc-dual-tree-dev/stable 0.2.3.1-3+b1 arm64
+  Rose trees with cached and accumulating monoidal annotations
+
+libghc-dual-tree-doc/stable 0.2.3.1-3 all
+  Rose trees with cached and accumulating monoidal annotations; documentation
+
+libghc-dual-tree-prof/stable 0.2.3.1-3+b1 arm64
+  Rose trees with cached and accumulating monoidal annotations; profiling libraries
+
+libghc-fingertree-dev/stable 0.1.5.0-3+b1 arm64
+  Generic finger-tree data structure implementation in Haskell
+
+libghc-fingertree-doc/stable 0.1.5.0-3 all
+  Generic finger-tree data structure implementation in Haskell; documentation
+
+libghc-fingertree-prof/stable 0.1.5.0-3+b1 arm64
+  Generic finger-tree data structure implementation in Haskell; profiling libraries
+
+libghc-free-dev/stable 5.2-1+b1 arm64
+  Monads for free
+
+libghc-free-doc/stable 5.2-1 all
+  Monads for free; documentation
+
+libghc-free-prof/stable 5.2-1+b1 arm64
+  Monads for free; profiling libraries
+
+libghc-genvalidity-containers-dev/stable 1.0.0.2-1 arm64
+  GenValidity support for containers
+
+libghc-genvalidity-containers-doc/stable 1.0.0.2-1 all
+  GenValidity support for containers; documentation
+
+libghc-genvalidity-containers-prof/stable 1.0.0.2-1 arm64
+  GenValidity support for containers; profiling libraries
+
+libghc-ghc-lib-parser-ex-dev/stable 9.6.0.2-1+b1 arm64
+  algorithms on GHC parse trees
+
+libghc-ghc-lib-parser-ex-doc/stable 9.6.0.2-1 all
+  algorithms on GHC parse trees; documentation
+
+libghc-ghc-lib-parser-ex-prof/stable 9.6.0.2-1+b1 arm64
+  algorithms on GHC parse trees; profiling libraries
+
+libghc-iproute-dev/stable 1.7.14-1+b1 arm64
+  Haskell IP routing table
+
+libghc-iproute-doc/stable 1.7.14-1 all
+  Haskell IP routing table; documentation
+
+libghc-iproute-prof/stable 1.7.14-1+b1 arm64
+  Haskell IP routing table; profiling libraries
+
+libghc-jira-wiki-markup-dev/stable 1.5.1-2+b1 arm64
+  Handle Jira wiki markup
+
+libghc-jira-wiki-markup-doc/stable 1.5.1-2 all
+  Handle Jira wiki markup; documentation
+
+libghc-jira-wiki-markup-prof/stable 1.5.1-2+b1 arm64
+  Handle Jira wiki markup; profiling libraries
+
+libghc-language-glsl-dev/stable 0.3.0-4+b1 arm64
+  GLSL abstract syntax tree, parser, and pretty-printer
+
+libghc-language-glsl-doc/stable 0.3.0-4 all
+  GLSL abstract syntax tree, parser, and pretty-printer; documentation
+
+libghc-language-glsl-prof/stable 0.3.0-4+b1 arm64
+  GLSL abstract syntax tree, parser, and pretty-printer; profiling libraries
+
+libghc-language-javascript-dev/stable 0.7.1.0-4+b1 arm64
+  JavaScript parser
+
+libghc-language-javascript-doc/stable 0.7.1.0-4 all
+  JavaScript parser; documentation
+
+libghc-language-javascript-prof/stable 0.7.1.0-4+b1 arm64
+  JavaScript parser; profiling libraries
+
+libghc-mono-traversable-instances-dev/stable 0.1.1.0-4+b1 arm64
+  extra typeclass instances for mono-traversable
+
+libghc-mono-traversable-instances-doc/stable 0.1.1.0-4 all
+  extra typeclass instances for mono-traversable; documentation
+
+libghc-mono-traversable-instances-prof/stable 0.1.1.0-4+b1 arm64
+  extra typeclass instances for mono-traversable; profiling libraries
+
+libghc-ofx-dev/stable 0.4.4.0-4+b1 arm64
+  parser for Open Financial Exchange (OFX) financial data
+
+libghc-ofx-doc/stable 0.4.4.0-4 all
+  parser for Open Financial Exchange (OFX) financial data; documentation
+
+libghc-ofx-prof/stable 0.4.4.0-4+b1 arm64
+  parser for Open Financial Exchange (OFX) financial data; profiling libraries
+
+libghc-psqueue-dev/stable 1.2.0-2+b1 arm64
+  Priority Search Queue
+
+libghc-psqueue-doc/stable 1.2.0-2 all
+  Priority Search Queue; documentation
+
+libghc-psqueue-prof/stable 1.2.0-2+b1 arm64
+  Priority Search Queue; profiling libraries
+
+libghc-psqueues-dev/stable 0.2.8.0-1+b1 arm64
+  Pure priority search queues
+
+libghc-psqueues-doc/stable 0.2.8.0-1 all
+  Pure priority search queues; documentation
+
+libghc-psqueues-prof/stable 0.2.8.0-1+b1 arm64
+  Pure priority search queues; profiling libraries
+
+libghc-src-exts-util-dev/stable 0.2.5-5+b1 arm64
+  helper functions for working with haskell-src-exts trees
+
+libghc-src-exts-util-doc/stable 0.2.5-5 all
+  helper functions for working with haskell-src-exts trees; documentation
+
+libghc-src-exts-util-prof/stable 0.2.5-5+b1 arm64
+  helper functions for working with haskell-src-exts trees; profiling libraries
+
+libghc-tasty-rerun-dev/stable 1.1.19-2+b1 arm64
+  Haskell testing framework, rerun support
+
+libghc-tasty-rerun-doc/stable 1.1.19-2 all
+  Haskell testing framework, rereun support; documentation
+
+libghc-tasty-rerun-prof/stable 1.1.19-2+b1 arm64
+  Haskell testing framework, rerun support; profiling libraries
+
+libghc-th-desugar-dev/stable 1.15-1+b1 arm64
+  functions to desugar Template Haskell
+
+libghc-th-desugar-doc/stable 1.15-1 all
+  functions to desugar Template Haskell; documentation
+
+libghc-th-desugar-prof/stable 1.15-1+b1 arm64
+  functions to desugar Template Haskell; profiling libraries
+
+libghc-validity-containers-dev/stable 0.5.0.5-1 arm64
+  Validity instances for containers
+
+libghc-validity-containers-doc/stable 0.5.0.5-1 all
+  Validity instances for containers; documentation
+
+libghc-validity-containers-prof/stable 0.5.0.5-1 arm64
+  Validity instances for containers; profiling libraries
+
+libghc-xml-conduit-writer-dev/stable 0.1.1.5-1 arm64
+  warm and fuzzy creation of XML documents
+
+libghc-xml-conduit-writer-doc/stable 0.1.1.5-1 all
+  warm and fuzzy creation of XML documents; documentation
+
+libghc-xml-conduit-writer-prof/stable 0.1.1.5-1 arm64
+  warm and fuzzy creation of XML documents; profiling libraries
+
+libghc-xml-types-dev/stable 0.3.8-4 arm64
+  basic types for representing XML
+
+libghc-xml-types-doc/stable 0.3.8-4 all
+  basic types for representing XML; documentation
+
+libghc-xml-types-prof/stable 0.3.8-4 arm64
+  basic types for representing XML; profiling libraries
+
+libgio-2.0-dev/stable 2.84.4-3~deb13u3 arm64
+  Development files for the GLib, GObject and GIO libraries
+
+libgio-2.0-dev-bin/stable 2.84.4-3~deb13u3 arm64
+  Development utilities for GLib, GObject and GIO libraries
+
+libgirepository-2.0-0/stable 2.84.4-3~deb13u3 arm64
+  GLib runtime library for handling GObject introspection data
+
+libgirepository-2.0-dev/stable 2.84.4-3~deb13u3 arm64
+  Development files for the GObject introspection library
+
+libgit-repository-perl/stable 1.325-3 all
+  Perl interface to Git repositories
+
+libglib2.0-0t64/stable,now 2.84.4-3~deb13u3 arm64 [installed,automatic]
+  GLib library of C routines
+
+libglib2.0-bin/stable,now 2.84.4-3~deb13u3 arm64 [installed,automatic]
+  Programs for the GLib library
+
+libglib2.0-data/stable,now 2.84.4-3~deb13u3 all [installed,automatic]
+  Common files for GLib library
+
+libglib2.0-dev/stable 2.84.4-3~deb13u3 arm64
+  Development metapackage for the GLib family of libraries
+
+libglib2.0-dev-bin/stable 2.84.4-3~deb13u3 arm64
+  Development utilities for the GLib library
+
+libglib2.0-doc/stable 2.84.4-3~deb13u3 all
+  Documentation files for the GLib library
+
+libglib2.0-tests/stable 2.84.4-3~deb13u3 arm64
+  GLib library of C routines - installed tests
+
+libglibd-2.0-0/stable 2.4.3-3 arm64
+  GLib library of C routines - D bindings
+
+libglibd-2.0-dev/stable 2.4.3-3 arm64
+  GLib library of C routines - development files for D
+
+libgmerlin-common/stable 2.0.0~svn6298~dfsg0-5 arm64
+  core library for gmerlin - common runtime files
+
+libgmerlin-dev/stable 2.0.0~svn6298~dfsg0-5 arm64
+  core library for gmerlin - development files
+
+libgmerlin2t64/stable 2.0.0~svn6298~dfsg0-5 arm64
+  core library for gmerlin - runtime files
+
+libgnatcoll-db-bin/stable 25.0.0-2+b1 arm64
+  Ada library accessing SQL databases (tools)
+
+libgnatcoll-xref-dev/stable 25.0.0-2+b1 arm64
+  Ada library for manipulation of Ada cross references
+
+libgnatcoll-xref21/stable 25.0.0-2+b1 arm64
+  Ada library for manipulation of Ada cross references (runtime)
+
+libgnuradio-satellites5.5.0/stable 5.5.0-2+b13 arm64
+  library of satellite telemetry signal decoders
+
+libgraph-easy-perl/stable 0.76-3 all
+  Perl module to convert or render graphs (as ASCII, HTML, SVG or via Graphviz)
+
+libgtk3-simplelist-perl/stable 0.21-1 all
+  Perl simple interface to GTK+ 3's complex MVC list widget
+
+libhighwayhash-dev/stable 0~git20200803.9490b14-4.1+b1 arm64
+  Fast strong hash functions: SipHash/HighwayHash (development)
+
+libhighwayhash0t64/stable 0~git20200803.9490b14-4.1+b1 arm64
+  Fast strong hash functions: SipHash/HighwayHash (library)
+
+libhsqldb-java/stable 2.7.4-1 all
+  Java SQL database engine
+
+libhsqldb-java-doc/stable 2.7.4-1 all
+  documentation for HSQLDB
+
+libhsqldb1.8.0-java/stable 1.8.0.10+dfsg-12.1+deb13u1 all
+  Java SQL database engine
+
+libhtml-element-extended-perl/stable 1.18-2 all
+  extended HTML::Element classes
+
+libhtml-element-library-perl/stable 5.220000-2 all
+  Perl module providing HTML::Element convenience methods
+
+libhtml-format-perl/stable,now 2.16-2 all [installed,automatic]
+  module for transforming HTML into various formats
+
+libhtml-html5-sanity-perl/stable 0.105-5 all
+  make HTML5 DOM trees less insane
+
+libhtml-html5-writer-perl/stable 0.201-4 all
+  output a DOM as HTML5
+
+libhtml-popuptreeselect-perl/stable 1.6-7.3 all
+  Perl module for HTML popup tree widget
+
+libhtml-prettyprinter-perl/stable 0.03-5 all
+  module that generates nice HTML files from HTML syntax trees
+
+libhtml-query-perl/stable 0.09-2 all
+  HTML::Tree add-on to allow jQuery-like queries on HTML::Element trees
+
+libhtml-scrubber-perl/stable 0.19-2 all
+  Perl extension for scrubbing/sanitizing html
+
+libhtml-simpleparse-perl/stable 0.12-5 all
+  bare-bones HTML parser
+
+libhtml-tableextract-perl/stable 2.15-2 all
+  module for extracting the content contained in HTML tables
+
+libhtml-tagtree-perl/stable 1.03-4 all
+  module that generates HTML via a tree of tag objects
+
+libhtml-tree-perl/stable,now 5.07-3 all [installed,automatic]
+  Perl module to represent and create HTML syntax trees
+
+libhtml-treebuilder-libxml-perl/stable 0.28-1 all
+  HTML::TreeBuilder and XPath compatible interface with libxml
+
+libhtml-treebuilder-xpath-perl/stable 0.14-1.1 all
+  Perl module to add XPath support to HTML::TreeBuilder
+
+libhtmlcxx-dev/stable 0.87-4+b2 arm64
+  simple HTML/CSS1 parser library for C++ (development)
+
+libhtmlcxx3v5/stable 0.87-4+b2 arm64
+  simple HTML parser library for C++
+
+libhtrace-core-java/stable 4.2+dfsg-1 all
+  Tracing framework for distributed systems written in Java
+
+libhx32t64/stable 4.26-1 arm64
+  C library providing queue, tree, I/O and utility functions
+
+libidl-2-0/stable 0.8.14-5 arm64
+  library for parsing CORBA IDL files
+
+libidl-dev/stable 0.8.14-5 arm64
+  development files for programs that use libIDL
+
+libiitii-dev/stable 0.0+git20191030.85209e0-3 all
+  Implicit Interval Tree with Interpolation Index (devel)
+
+libindigo-dev/stable 1.2.3-3.1+b1 arm64
+  Organic Chemistry Toolkit (development files)
+
+libindigo-java/stable 1.2.3-3.1 all
+  Organic Chemistry Toolkit (Java package)
+
+libindigo0d/stable 1.2.3-3.1+b1 arm64
+  Organic Chemistry Toolkit
+
+libinstaparse-clojure/stable 1.4.7-2 all
+  simple way to build parsers in Clojure
+
+libint-dev/stable 1.2.1-6+b1 arm64
+  Evaluate the integrals in modern atomic and molecular theory (devel)
+
+libint1/stable 1.2.1-6+b1 arm64
+  Evaluate the integrals in modern atomic and molecular theory
+
+libint2-2t64/stable 2.7.2-1.1+b1 arm64
+  Computation Chemistry Integral Evaluation Library
+
+libint2-dev/stable 2.7.2-1.1+b1 arm64
+  Computation Chemistry Integral Evaluation Library (development files)
+
+libisofs-doc/stable 1.5.6.pl01-1.1 all
+  background documentation for libisofs library
+
+libite-dev/stable 2.6.1-1 arm64
+  static library, header files, and docs for libite
+
+libite5t64/stable 2.6.1-1 arm64
+  That missing frog DNA you've been looking for
+
+libjackson-json-java/stable 1.9.13-2 all
+  streaming fast powerful standard conformant json processor in java
+
+libjackson-json-java-doc/stable 1.9.13-2 all
+  standard conformant json processor in java - API documentation
+
+libjackson2-annotations-java/stable 2.14.0-1 all
+  fast and powerful JSON library for Java -- annotations
+
+libjackson2-annotations-java-doc/stable 2.14.0-1 all
+  Documentation for Jackson-annotations
+
+libjackson2-core-java/stable 2.14.1-2~deb13u1 all
+  fast and powerful JSON library for Java -- core library
+
+libjackson2-databind-java/stable 2.14.0+ds-1+deb13u1 all
+  fast and powerful JSON library for Java -- data binding
+
+libjackson2-dataformat-cbor/stable 2.7.8-5.1 all
+  Jackson data format module for RfC7049 Concise Binary Object Representation
+
+libjackson2-dataformat-smile/stable 2.7.8-5+deb13u1 all
+  fast and powerful JSON library for Java -- Smile dataformat
+
+libjackson2-dataformat-yaml/stable 2.8.11-4 all
+  fast and powerful JSON library for Java -- YAML dataformat
+
+libjackson2-datatype-joda-java/stable 2.12.1-2 all
+  fast and powerful JSON library for Java -- Joda datatypes
+
+libjane-street-headers-ocaml/stable 0.17.0-1+b2 arm64
+  common header files for Jane Street packages (runtime files)
+
+libjane-street-headers-ocaml-dev/stable 0.17.0-1+b2 arm64
+  common header files for Jane Street projects (dev files)
+
+libjavacc-maven-plugin-java/stable 2.6-6 all
+  maven plugin which uses JavaCC to process JavaCC grammar files
+
+libjavaparser-java/stable 3.26.1-1 all
+  Java library for parsing Java 7
+
+libjaxb-java/stable 2.3.0.1-11 all
+  JAXB Reference Implementation
+
+libjebl2-java/stable 0.1+git20230701.b3c0f25-1 all
+  Java Evolutionary Biology Library
+
+libjebl2-java-doc/stable 0.1+git20230701.b3c0f25-1 all
+  Java Evolutionary Biology Library (documentation)
+
+libjide-oss-java/stable 3.7.6+dfsg-2 all
+  extensible Swing component library for Java
+
+libjloda-java/stable 2.1+ds-3 all
+  Java library of data structures and algorithms for bioinformatics
+
+libjoint-state-listener1d/stable 1.15.2-5+b5 arm64
+  Robot OS robot_state_publisher listener library
+
+libjs-functional-red-black-tree/stable 1.0.1+20181105-7 all
+  fully persistent balanced binary search tree - browser library
+
+libjs-jquery-jstree/stable 3.3.17+dfsg1-1 all
+  jquery plugin providing interactive trees
+
+libjs-jquery-treetable/stable 12-4 all
+  jQuery treeTable Plugin
+
+libjs-jquery-ui-theme-south-street/stable 1.12.1+dfsg-1.1 all
+  South Street theme for jQuery UI
+
+libjs-uglify/stable 2.8.29-8+deb13u1 all
+  UglifyJS in library form
+
+libjs-uglify-js/stable 3.17.4-2 all
+  JavaScript parser, mangler/compressor and beautifier - browser library
+
+libjs-zeparser/stable 0.0.7+dfsg-6 all
+  Javascript library for parsing Javascript code
+
+libjsoup-java/stable 1.15.3-1 all
+  Java HTML parser that makes sense of real-world HTML soup
+
+libjsoup-java-doc/stable 1.15.3-1 all
+  Documentation for jsoup HTML Parser
+
+libjst-config-ocaml/stable 0.17.0-1+b1 arm64
+  compile-time configuration for Jane Street packages (runtime files)
+
+libjst-config-ocaml-dev/stable 0.17.0-1+b1 arm64
+  compile-time configuration for Jane Street packages (dev files)
+
+libjudy-dev/stable 1.0.5-5.1+b1 arm64
+  C library for creating and accessing dynamic arrays (dev package)
+
+libjudydebian1/stable 1.0.5-5.1+b1 arm64
+  C library for creating and accessing dynamic arrays
+
+libjxp-java/stable 1.6.1-7 all
+  Java template engine/script processor
+
+libkaz-dev/stable 1.21-2+b3 arm64
+  Kazlib's reusable data structure development tools
+
+libkaz1/stable 1.21-2+b3 arm64
+  Kazlib's reusable data structure modules
+
+libkdl-parser-dev/stable 1.14.2-3+b3 arm64
+  Development files for ROS kdl_parser library
+
+libkdl-parser1d/stable 1.14.2-3+b3 arm64
+  ROS kdl_parser library
+
+libkdtree++-dev/stable 0.7.3-1 all
+  C++ template container implementation of kd-tree sorting
+
+libkopeninghours-dev/stable 25.04.2-1 arm64
+  OSM opening hours expressions library (development files)
+
+libkopeninghours1/stable 25.04.2-1 arm64
+  OSM opening hours expressions library
+
+libkosmindoormap1/stable 25.04.3-1 arm64
+  OSM multi-floor indoor map renderer
+
+libkosmindoorrouting1/stable 25.04.3-1 arm64
+  OSM multi-floor indoor map navigation
+
+libkpim6mimetreeparser6/stable 4:24.12.3-4 arm64
+  KDE PIM Mime Tree parser library
+
+libkpim6mimetreeparsercore6/stable 24.12.3-1 arm64
+  core library for a MIME tree parser
+
+libkpim6mimetreeparserwidgets6/stable 24.12.3-1 arm64
+  widgets library for a MIME tree parser
+
+libkxml2-java/stable 2.3.0+ds1-3 all
+  small XML parser, designed for small environments
+
+libkxml2-java-doc/stable 2.3.0+ds1-3 all
+  small XML parser, designed for small environments - docs
+
+libkyotocabinet-dev/stable 1.2.80-2+b1 arm64
+  Straightforward implementation of DBM - development headers
+
+libkyotocabinet16v5/stable 1.2.80-2+b1 arm64
+  Straightforward implementation of DBM - shared library
+
+liblaf-widget-java/stable 7.3+dfsg3-6 all
+  Java widget toolbox for other look-and-feel libraries
+
+liblaf-widget-java-doc/stable 7.3+dfsg3-6 all
+  Java widget toolbox for look-and-feel libraries - documentation
+
+liblatex-tom-perl/stable 1.06-1 all
+  module for parsing, analyzing and manipulating LaTeX documents
+
+libldaptive-java/stable 2.1.2-1 all
+  simple, extensible Java API for interacting with LDAP servers
+
+liblmdb-file-perl/stable 0.13-3 arm64
+  tie to LMDB
+
+liblombok-ast-java/stable 0.2+ds-7 all
+  Robust parser + AST for the Java language
+
+liblouisutdml-bin/stable 2.12.0-7 arm64
+  Braille UTDML translation utilities
+
+liblouisutdml-data/stable 2.12.0-7 all
+  Braille UTDML translation library - data
+
+liblouisutdml-dev/stable 2.12.0-7 arm64
+  Braille UTDML translation library - static libs and headers
+
+liblouisutdml-java/stable 2.12.0-7 all
+  Braille UTDML translation library - java bindings
+
+liblouisutdml-java-doc/stable 2.12.0-7 all
+  Braille UTDML translation library - java bindings documentation
+
+liblouisutdml9t64/stable 2.12.0-7 arm64
+  Braille UTDML translation library - shared libs
+
+libmakefile-dom-perl/stable 0.008-3 all
+  Perl DOM implementation for Makefiles
+
+libmapsforge-java/stable 0.20.0-1 all
+  vector map library and writer
+
+libmapsforge-java-doc/stable 0.20.0-1 all
+  vector map library and writer (documentation)
+
+libmarkup-lwt-ocaml/stable 1.0.3-1+b4 arm64
+  adapter between Markup.ml and Lwt (runtime)
+
+libmarkup-lwt-ocaml-dev/stable 1.0.3-1+b4 arm64
+  adapter between Markup.ml and Lwt (dev files)
+
+libmarkup-ocaml/stable 1.0.3-1+b4 arm64
+  error-recovering functional HTML5 and XML parsers and writers (runtime)
+
+libmarkup-ocaml-dev/stable 1.0.3-1+b4 arm64
+  error-recovering functional HTML5 and XML parsers and writers (dev files)
+
+libmath-calculus-differentiate-perl/stable 0.3-4 all
+  Algebraic Differentiation Engine
+
+libmath-calculus-expression-perl/stable 0.2.2.ds-4 all
+  Algebraic Calculus Tools Expression Class
+
+libmath-planepath-perl/stable 129-1 all
+  Perl module to calculate mathematical paths through a 2-D plane
+
+libmath-vector-real-kdtree-perl/stable 0.15-2 all
+  kd-Tree implementation for Perl on top of Math::Vector::Real
+
+libmatheval-dev/stable 1.1.11+dfsg-5+b2 arm64
+  GNU library for evaluating symbolic mathematical expressions (development)
+
+libmatheval1/stable 1.1.11+dfsg-5+b2 arm64
+  GNU library for evaluating symbolic mathematical expressions (runtime)
+
+libmaven-dependency-tree-java/stable 3.3.0-1 all
+  Maven Dependency Tree
+
+libmavibot-java/stable 1.0.0~M8-1 all
+  Apache Mavibot - MVCC BTree Java Implementation
+
+libmaxmind-db-writer-perl/stable 0.300004-1+b3 arm64
+  module to create MaxMind DB database files
+
+libmedia-scan-perl/stable 0~20220401.git.34fc2d-7 arm64
+  module for reading metadata from multi-media files
+
+libmediascan-dev/stable 0~20220401.git.34fc2d-7 arm64
+  libmediascan development files
+
+libmediascan0t64/stable 0~20220401.git.34fc2d-7 arm64
+  library for reading metadata from multi-media files
+
+libmfsio-dev/stable 4.57.5-1 arm64
+  MooseFS IO library - development files
+
+libmfsio1t64/stable 4.57.5-1 arm64
+  MooseFS IO library
+
+libmimetreeparser-data/stable 24.12.3-1 all
+  MIME tree parser - data files
+
+libmimetreeparser-dev/stable 24.12.3-1 arm64
+  MIME tree parser - development files
+
+libmmmulti-dev/stable 0.1-3 all
+  header only library for mmmulti
+
+libmodule-depends-perl/stable 0.16-5 all
+  Perl module to identify the dependencies of a distribution
+
+libmoox-cmd-perl/stable 0.017-2 all
+  easy Moo style way to make command organized CLI apps
+
+libmorbig-ocaml-dev/stable 0.11.0-3+b9 arm64
+  OCaml libraries of the morbig shell parser (development files)
+
+libmorsmall-ocaml-dev/stable 0.3.0-8+b10 arm64
+  OCaml libraries for abstract syntax of shell scripts
+
+libmsoffice-word-html-writer-perl/stable 1.10-1 all
+  module for writing MsWord documents in HTML format
+
+libmxml-dev/stable 3.3.1-1+deb13u1 arm64
+  small XML parsing library (development)
+
+libmxml1/stable 3.3.1-1+deb13u1 arm64
+  small XML parsing library (runtime)
+
+libnacore5/stable 0.5.1-4 arm64
+  NASPRO core library
+
+libnanoflann-dev/stable 1.7.1+ds-1 all
+  C++11 header-only library for Nearest Neighbor Search with KD-Trees
+
+libnbcompat-dev/stable 20240319-1 arm64
+  NetBSD pkgsrc compatibility library
+
+libneon27t64/stable 0.34.2-1 arm64
+  HTTP and WebDAV client library
+
+libneon27t64-gnutls/stable 0.34.2-1 arm64
+  HTTP and WebDAV client library (GnuTLS enabled)
+
+libnet-iptrie-perl/stable 0.7-4 all
+  Perl module for building IPv4 and IPv6 address space hierarchies
+
+libnet-patricia-perl/stable 1.23-1 arm64
+  Perl module for fast IP address lookups
+
+libnucleotidelikelihoodcore0/stable 1.10.4+dfsg-7 arm64
+  implementation of LikelihoodCore for nucleotides used by beast-mcmc
+
+libnxt/stable 0.5.2-1 arm64
+  utility library for talking to the LEGO Mindstorms NXT brick
+
+liboctomap-dev/stable 1.9.7+dfsg-4 arm64
+  Octomap library development files
+
+liboctomap1.9t64/stable 1.9.7+dfsg-4 arm64
+  3D occupancy grid mapping approach library for mapping
+
+liboctovis-dev/stable 1.9.7+dfsg-4 arm64
+  Visualization library for OctoMap development files
+
+liboctovis1.9t64/stable 1.9.7+dfsg-4 arm64
+  Visualization library for OctoMap
+
+libofapi-dev/stable 0git20070620-9+b2 arm64
+  OpenFirmware device-tree parsing library - development files
+
+libofapi-example/stable 0git20070620-9 all
+  OpenFirmware device-tree parsing library - example files
+
+libofapi0/stable 0git20070620-9+b2 arm64
+  OpenFirmware device-tree parsing library - runtime
+
+libosmgpsmap-1.0-1/stable 1.2.0-4 arm64
+  GTK+ library to embed OpenStreetMap maps
+
+libosmgpsmap-1.0-dev/stable 1.2.0-4 arm64
+  GTK+ library to embed OpenStreetMap maps - development files
+
+libosmpbf-dev/stable 1.5.1-1+b1 arm64
+  C headers for OpenStreetMap PBF file format
+
+libosmpbf-java/stable 1.5.1-1 all
+  Java access library for OpenStreetMap PBF file format
+
+libosmpbf1/stable 1.5.1-1+b1 arm64
+  OpenStreetMap PBF file format library
+
+libostree-1-1/stable 2025.2-1 arm64
+  content-addressed filesystem for operating system binaries (library)
+
+libostree-dev/stable 2025.2-1 arm64
+  Development files for the libostree library
+
+libostree-doc/stable 2025.2-1 all
+  Development documentation for the libostree library
+
+libp4est-2.3/stable 2.3.6-2+b1 arm64
+  Algorithms for Parallel Adaptive Mesh Refinement - shared library
+
+libp4est-dev/stable 2.3.6-2+b1 arm64
+  Algorithms for Parallel Adaptive Mesh Refinement - development files
+
+libp4est-sc-2.3/stable 2.3.6-2+b1 arm64
+  Algorithms for Parallel Adaptive Mesh Refinement - support library
+
+libpandoc-elements-perl/stable 0.38-7 all
+  create and process Pandoc documents
+
+libpar-perl/stable 1.020-1 all
+  Perl redistributable module packaging framework
+
+libparallel-hashmap-dev/stable 1.4.1+ds-2 all
+  header-only hash map implementation
+
+libparse-win32registry-perl/stable 1.1-2 all
+  Perl module for parsing Windows registry files
+
+libparsexp-ocaml/stable 0.17.0-1+b2 arm64
+  S-expression parsing library (runtime)
+
+libparsexp-ocaml-dev/stable 0.17.0-1+b2 arm64
+  S-expression parsing library (development)
+
+libparsington-java/stable 3.1.0-1 all
+  mathematical expression parser for Java
+
+libparsington-java-doc/stable 3.1.0-1 all
+  documentation for parsington
+
+libparsley-clojure/stable 0.9.3-2 all
+  DSL for creating total and truly incremental parsers in Clojure
+
+libpath-finddev-perl/stable 0.5.3-2 all
+  Perl module to find a development source tree somewhere in an upper hierarchy
+
+libpath-isdev-perl/stable 1.001003-3 all
+  Perl module to determine if a given Path resembles a development source tree
+
+libpcl-kdtree1.15/stable 1.15.0+dfsg-2 arm64
+  Point Cloud Library - kdtree library
+
+libpcl-octree1.15/stable 1.15.0+dfsg-2 arm64
+  Point Cloud Library - octree library
+
+libpg-query-dev/stable 17-6.1.0-1 arm64
+  C library for accessing the PostgreSQL parser outside of the server environment
+
+libpg-query1706.0/stable 17-6.1.0-1 arm64
+  C library for accessing the PostgreSQL parser outside of the server environment
+
+libpll-dev/stable 0.3.2-5+b1 arm64
+  Phylogenetic Likelihood Library (development)
+
+libpll0/stable 0.3.2-5+b1 arm64
+  Phylogenetic Likelihood Library
+
+libpod-abstract-perl/stable 0.20-3 all
+  abstract document tree for Perl POD documents
+
+libpod-elemental-perl/stable 0.103006-1 all
+  module for manipulating POD elements
+
+libpod-pom-perl/stable 2.01-4 all
+  module providing a Pod Object Model
+
+libpod-tree-perl/stable 1.31-2 all
+  module for creating a static syntax tree for a POD
+
+libppix-regexp-perl/stable 0.088-1 all
+  module to parse regular expressions
+
+libppr-perl/stable 0.001010-2 all
+  Pattern-based Perl Recognizer
+
+libppx-base-ocaml/stable 0.17.0-1+b8 arm64
+  base set of ppx rewriters (runtime files)
+
+libppx-base-ocaml-dev/stable 0.17.0-1+b8 arm64
+  base set of ppx rewriters (dev files)
+
+libppx-bin-prot-ocaml/stable 0.17.0-1+b7 arm64
+  generation of bin_prot readers and writers from types (runtime)
+
+libppx-bin-prot-ocaml-dev/stable 0.17.0-1+b7 arm64
+  generation of bin_prot readers and writers from types (development)
+
+libppx-derivers-ocaml-dev/stable 1.2.1-4+b4 arm64
+  interoperability of ppx-deriving and ppx-type-conv
+
+libppx-js-style-ocaml/stable 0.17.0-2+b4 arm64
+  code style checker for Jane Street packages (runtime)
+
+libppx-js-style-ocaml-dev/stable 0.17.0-2+b4 arm64
+  code style checker for Jane Street packages (dev files)
+
+libppx-string-ocaml/stable 0.17.0-1+b7 arm64
+  string interpolation (runtime)
+
+libppx-string-ocaml-dev/stable 0.17.0-1+b7 arm64
+  string interpolation (development)
+
+libppx-yojson-conv-lib-ocaml/stable 0.17.0-2+b2 arm64
+  runtime lib for ppx_yojson_conv (runtime)
+
+libppx-yojson-conv-lib-ocaml-dev/stable 0.17.0-2+b2 arm64
+  runtime lib for ppx_yojson_conv (dev files)
+
+libppx-yojson-conv-ocaml/stable 0.17.0-3+b2 arm64
+  [@@deriving] plugin to generate Yojson conversion functions (runtime)
+
+libppx-yojson-conv-ocaml-dev/stable 0.17.0-3+b2 arm64
+  [@@deriving] plugin to generate Yojson conversion functions (dev files)
+
+libppxlib-jane-ocaml/stable 0.17.2-1+b2 arm64
+  utilities to work on AST of the Jane Street OCaml compiler (runtime)
+
+libppxlib-jane-ocaml-dev/stable 0.17.2-1+b2 arm64
+  utilities to work on AST of the Jane Street OCaml compiler (development)
+
+libptmap-ocaml/stable 2.0.5-5+b1 arm64
+  Maps over integers implemented as Patricia trees (Runtime library)
+
+libptmap-ocaml-dev/stable 2.0.5-5+b1 arm64
+  Maps over integers implemented as Patricia trees (Development package)
+
+libpugixml-dev/stable 1.14-2 arm64
+  Light-weight C++ XML processing library (development)
+
+libpugixml1v5/stable 1.14-2 arm64
+  Light-weight C++ XML processing library
+
+libqdbm-java/stable 1.8.78-13+b3 arm64
+  QDBM Database Libraries for Java
+
+libqdbm-perl/stable 1.8.78-13+b3 arm64
+  QDBM Database Libraries for Perl
+
+libqdbm14t64/stable 1.8.78-13+b3 arm64
+  QDBM Database Libraries without GDBM wrapper[runtime]
+
+libqt5location5-plugins/stable 5.15.15+dfsg-3+b1 arm64
+  Qt Location module - geolocation plugins
+
+libquicktree-dev/stable 2.5-6+b1 arm64
+  Neighbor-Joining algorithm for phylogenies (development)
+
+librdp-taxonomy-tree-java/stable 1.2.0-6 all
+  taxonomy tree library from Ribosomal Database Project (RDP)
+
+libreadosm-dev/stable 1:1.1.0a+dfsg-3 arm64
+  simple library to parse OpenStreetMap files - headers
+
+libreadosm-doc/stable 1:1.1.0a+dfsg-3 all
+  simple library to parse OpenStreetMap files - documentation
+
+libreadosm1/stable 1:1.1.0a+dfsg-3 arm64
+  simple library to parse OpenStreetMap files
+
+librobot-state-publisher-dev/stable 1.15.2-5+b5 arm64
+  development files for Robot OS robot_state_publisher library
+
+librobot-state-publisher-solver1d/stable 1.15.2-5+b5 arm64
+  Robot OS robot_state_publisher solver library
+
+librospack-dev/stable 2.6.2-10+b2 arm64
+  Robot OS package information library header files
+
+librospack0d/stable 2.6.2-10+b2 arm64
+  Robot OS package information library
+
+libroutino-dev/stable 3.4.3-1 arm64
+  Routino library development headers
+
+libroutino-slim0/stable 3.4.3-1 arm64
+  Routino slim routing library
+
+libroutino0/stable 3.4.3-1 arm64
+  Routino routing library
+
+librte-rib25/stable 24.11.4-0+deb13u1 arm64
+  Data Plane Development Kit (librib runtime library)
+
+librust-auditable-extract-dev/stable 0.3.5-1 arm64
+  Extract the dependency trees embedded in binaries by `cargo auditable` - Rust source code
+
+librust-auditable-info-dev/stable 0.9.0-1 arm64
+  High-level crate to extract the dependency trees embedded in binaries by `cargo auditable` - Rust source code
+
+librust-bet-dev/stable 1.0.4-1 arm64
+  Helps parsing and evaluating binary expression trees - Rust source code
+
+librust-bk-tree-dev/stable 0.5.0-1 arm64
+  Rust BK-tree implementation - Rust source code
+
+librust-btree-range-map-dev/stable 0.7.2-1+b1 arm64
+  B-tree range map implementation - Rust source code
+
+librust-btree-slab-dev/stable 0.6.1-2 arm64
+  Memory compact Slab-based B-tree implementation - Rust source code
+
+librust-dbus-tree-dev/stable 0.9.2-1+b2 arm64
+  Framework for writing D-Bus method handlers (legacy) - Rust source code
+
+librust-device-tree-dev/stable 1.1.0-1+b2 arm64
+  Reads and parses Linux device tree images - Rust source code
+
+librust-document-tree-dev/stable 0.4.1-1 arm64
+  ReStructuredText’s DocumentTree representation - Rust source code
+
+librust-ego-tree-dev/stable 0.6.2-1+b2 arm64
+  Vec-backed ID-tree - Rust source code
+
+librust-git-testament-derive-dev/stable 0.2.1-1 arm64
+  Record git working tree status when compiling your crate - inner procedural macro - Rust source code
+
+librust-git-testament-dev/stable 0.2.6-1 arm64
+  Record git working tree status when compiling your crate - Rust source code
+
+librust-gix-archive-dev/stable 0.18.0-2 arm64
+  Archive generation from of a worktree stream - Rust source code
+
+librust-gix-worktree-dev/stable 0.38.0-1 arm64
+  The gitoxide project for shared worktree related types and utilities - Rust source code
+
+librust-gix-worktree-state-dev/stable 0.16.0-1 arm64
+  The gitoxide project implementing setting the worktree to a particular state - Rust source code
+
+librust-gix-worktree-stream-dev/stable 0.18.0-1 arm64
+  Generate a byte-stream from a git-tree - Rust source code
+
+librust-intervaltree-dev/stable 0.2.7-1+b2 arm64
+  Simple and generic implementation of an immutable interval tree - Rust source code
+
+librust-lddtree-dev/stable 0.3.7-1 arm64
+  Read the ELF dependency tree - Rust source code
+
+librust-libcst-dev/stable 0.1.0-1+b3 arm64
+  Python parser and Concrete Syntax Tree library - Rust source code
+
+librust-maplit-dev/stable 1.0.2-1+b2 arm64
+  Literal macros for HashMap, HashSet, BTreeMap, BTreeSet - Rust source code
+
+librust-predicates-tree-dev/stable 1.0.7-1+b2 arm64
+  Render boolean-valued predicate functions results as a tree - Rust source code
+
+librust-prefixtree-dev/stable 0.1.3-1+b1 arm64
+  Hash-table-based prefix tree library - Rust source code
+
+librust-prettyplease-dev/stable 0.2.6-1+b3 arm64
+  Minimal `syn` syntax tree pretty-printer - Rust source code
+
+librust-rctree-dev/stable 0.3.3-1+b2 arm64
+  'DOM-like' tree implemented using reference counting - Rust source code
+
+librust-rowan-dev/stable 0.16.0-1 arm64
+  Generic lossless syntax trees - Rust source code
+
+librust-roxmltree-dev/stable 0.20.0-1 arm64
+  Represent an XML as a read-only tree - Rust source code
+
+librust-rust-unixfs-dev/stable 0.4.0-1+b3 arm64
+  UnixFs tree support - Rust source code
+
+librust-serde-value-dev/stable 0.7.0-2 arm64
+  Serialization value trees - Rust source code
+
+librust-streebog-dev/stable 0.10.2-1+b3 arm64
+  Streebog (GOST R 34.11-2012) hash function - Rust source code
+
+librust-temptree-dev/stable 0.2.0-1+b2 arm64
+  Temporary trees of files - Rust source code
+
+librust-termtree-dev/stable 0.4.1-1+b2 arm64
+  Visualize tree-like data on the command-line - Rust source code
+
+librust-text-trees-dev/stable 0.1.2-4 arm64
+  simple textual output for tree-like structures - Rust source code
+
+librust-tracing-tree-dev/stable 0.4.0-1+b1 arm64
+  Tracing Layer which prints a tree of spans and events - Rust source code
+
+librust-tree-magic-db-dev/stable 3.0.0-1+b2 arm64
+  Packages the FreeDesktop.org shared MIME database for optional use with tree_magic_mini - Rust source code
+
+librust-tree-magic-mini-dev/stable 3.1.6-1 arm64
+  Determines the MIME type of a file by traversing a filetype tree - Rust source code
+
+librust-tree-sitter-c-dev/stable 0.21.3-4 arm64
+  C grammar for the tree-sitter parser - Rust source code
+
+librust-tree-sitter-cli-dev/stable 0.22.6-6+b1 arm64
+  command-line for Tree-sitter parsers - Rust source code
+
+librust-tree-sitter-config-dev/stable 0.22.6-6+b1 arm64
+  user configuration of tree-sitter's CLI programs - Rust source code
+
+librust-tree-sitter-dev/stable 0.22.6-6+b1 arm64
+  bindings to the tree-sitter parsing library - Rust source code
+
+librust-tree-sitter-highlight-dev/stable 0.22.6-6+b1 arm64
+  perform syntax highlighting with tree-sitter - Rust source code
+
+librust-tree-sitter-loader-dev/stable 0.22.6-6+b1 arm64
+  locates, builds, and loads tree-sitter grammars - Rust source code
+
+librust-tree-sitter-lua-dev/stable 0.1.0-3 arm64
+  Lua grammar for the tree-sitter parser - Rust source code
+
+librust-tree-sitter-md-dev/stable 0.2.3-3 arm64
+  Markdown grammar for the tree-sitter parser - Rust source code
+
+librust-tree-sitter-query-dev/stable 0.4.0-3 arm64
+  query grammar for the tree-sitter parser - Rust source code
+
+librust-tree-sitter-sdml-dev/stable 0.4.5-1 all
+  sdml grammar for the tree-sitter parser - Rust source code
+
+librust-tree-sitter-tags-dev/stable 0.22.6-6+b1 arm64
+  library for extracting tag information - Rust source code
+
+librust-tree-sitter-vim-dev/stable 0.4.0-3 arm64
+  Vimscript grammar for the tree-sitter parser - Rust source code
+
+librust-tree-sitter-vimdoc-dev/stable 3.0.0-3 arm64
+  Vimdoc grammar for the tree-sitter parser - Rust source code
+
+librust-treediff-dev/stable 5.0.0-2 arm64
+  Find the difference between arbitrary data structures - Rust source code
+
+librust-treeline-dev/stable 0.1.0-1+b2 arm64
+  Visualizing tree structured data - Rust source code
+
+librust-ungrammar-dev/stable 1.16.1-1+b3 arm64
+  DSL for describing concrete syntax trees - Rust source code
+
+librust-vcpkg-dev/stable 0.2.8-1+b2 arm64
+  Find native dependencies in a vcpkg tree at build time - Rust source code
+
+librust-xmltree+indexmap-dev/stable 0.10.3-3 arm64
+  Parse an XML file into a simple tree-like structure - feature "indexmap" and 1 more
+
+librust-xmltree-dev/stable 0.10.3-3 arm64
+  Parse an XML file into a simple tree-like structure - Rust source code
+
+libsdsl-dev/stable 2.1.1+dfsg-5 arm64
+  succinct data structure library - development files
+
+libsdsl3/stable 2.1.1+dfsg-5 arm64
+  succinct data structure library
+
+libset-intervaltree-perl/stable 0.12-2+b4 arm64
+  Perform range-based lookups on sets of ranges
+
+libsexplib0-ocaml/stable 0.17.0-1+b2 arm64
+  S-expression library (runtime)
+
+libsexplib0-ocaml-dev/stable 0.17.0-1+b2 arm64
+  S-expression library (development)
+
+libshimdandy-java/stable 1.2.1-1.1 all
+  Shim wrapping multiple Clojure runtimes into the same JVM
+
+libshumate-1.0-1/stable 1.4.0-1 arm64
+  GTK4 widgets for embedded maps
+
+libshumate-common/stable 1.4.0-1 all
+  GTK4 widgets for embedded maps - common files
+
+libshumate-dev/stable 1.4.0-1 arm64
+  GTK4 widgets for embedded maps -- development files
+
+libshumate-doc/stable 1.4.0-1 all
+  GTK4 widgets for embedded maps - documentation
+
+libsnmp-info-perl/stable 3.972002-1 all
+  Object Oriented Perl5 Interface to Network devices and MIBs through SNMP
+
+libspatialindex-c8/stable 2.1.0-1 arm64
+  General framework for developing spatial indices - C library
+
+libspatialindex-dev/stable 2.1.0-1 arm64
+  General framework for developing spatial indices - development files
+
+libspatialindex8/stable 2.1.0-1 arm64
+  General framework for developing spatial indices
+
+libstopt-dev/stable 5.12+dfsg-3+b1 arm64
+  library for stochastic optimization problems (development package)
+
+libstopt5t64/stable 5.12+dfsg-3+b1 arm64
+  library for stochastic optimization problems (shared library)
+
+libsvg-graph-perl/stable 0.02-4 all
+  module to visualize data in SVG format
+
+libsvn-dump-perl/stable 0.08-2 all
+  module for parsing Subversion dumps
+
+libsweble-wikitext-java/stable 3.1.9-2 all
+  parser for MediaWiki's wikitext
+
+libswingx-java/stable 1:1.6.2-5 all
+  extensions to the Swing GUI toolkit
+
+libsyntax-keyword-try-perl/stable 0.30-1+b1 arm64
+  try/catch/finally syntax for perl
+
+libsysfs-dev/stable 2.1.1-7 arm64
+  interface library to sysfs - development files
+
+libsysfs2/stable 2.1.1-7 arm64
+  interface library to sysfs - shared library
+
+libtemplate-perl/stable 2.27-1+b8 arm64
+  "Template Toolkit" template processing system in Perl
+
+libterraces-dev/stable 0.0+git20200413.8af2e4c+dfsg-3+b1 arm64
+  enumerate terraces in phylogenetic tree space (development lib)
+
+libterraces0/stable 0.0+git20200413.8af2e4c+dfsg-3+b1 arm64
+  enumerate terraces in phylogenetic tree space (shared lib)
+
+libtest-classapi-perl/stable 1.07-2 all
+  Perl extension for basic first-pass API testing for class trees
+
+libtest-object-perl/stable 0.08-3 all
+  module for thoroughly testing objects via registered handlers
+
+libtf-dev/stable 1.13.2-11 arm64
+  Robot OS tf transform library  - development files
+
+libtf1d/stable 1.13.2-11 arm64
+  Robot OS tf transform library to keep track of multiple coordinate frames
+
+libtf2-2d/stable 0.7.7-3+b2 arm64
+  Robot OS tf2 transform library
+
+libtf2-bullet-dev/stable 0.7.7-3+b2 arm64
+  Robot OS tf2 transform library for Bullet - dev files
+
+libtf2-dev/stable 0.7.7-3+b2 arm64
+  Robot OS tf2 transform library - development files
+
+libtf2-eigen-dev/stable 0.7.7-3+b2 arm64
+  Robot OS tf2 transform library for Eigen - dev files
+
+libtf2-geometry-msgs-dev/stable 0.7.7-3+b2 arm64
+  Robot OS geometry messages for tf2 transform library - dev files
+
+libtf2-kdl-dev/stable 0.7.7-3+b2 arm64
+  Robot OS tf2 transform library using Orocos-KDL - dev files
+
+libtf2-msgs-dev/stable 0.7.7-3+b2 arm64
+  Robot OS messages for tf2 transform library - dev files
+
+libtf2-ros-dev/stable 0.7.7-3+b2 arm64
+  Robot OS binding for tf2 transform library - dev files
+
+libtf2-ros1d/stable 0.7.7-3+b2 arm64
+  Robot OS binding for tf2 transform library
+
+libtf2-sensor-msgs-dev/stable 0.7.7-3+b2 arm64
+  Small lib for ROS to transform sensor_msgs with tf2 - dev files
+
+libtickit-console-perl/stable 0.12-1 all
+  module to build full-screen console-style applications
+
+libtickit-perl/stable 0.73-1+b3 arm64
+  Terminal Interface Construction KIT
+
+libtickit-widget-tabbed-perl/stable 0.028-1 all
+  basic tabbed window support for Tickit
+
+libtickit-widgets-perl/stable 0.42-1 all
+  collection of Tickit::Widget implementations
+
+libtokyocabinet-dev/stable 1.4.48-15.1+b1 arm64
+  Tokyo Cabinet Database Libraries [development]
+
+libtokyocabinet-perl/stable 1.34-4+b4 arm64
+  Perl Binding of Tokyo Cabinet
+
+libtokyocabinet9t64/stable 1.4.48-15.1+b1 arm64
+  Tokyo Cabinet Database Libraries [runtime]
+
+libtoml-parser-perl/stable 0.91-3 all
+  simple toml parser
+
+libtools-gitlibs-clojure/stable 2.4.181-1 all
+  API for retrieving, caching, and programmatically accessing git libraries
+
+libtree/stable 3.1.1-3+b1 arm64
+  ldd as a tree
+
+libtree-dagnode-perl/stable 1.35-1 all
+  Perl (super)class for representing nodes in a tree
+
+libtree-multinode-perl/stable 1.0.14-0.2 all
+  multi node tree object
+
+libtree-r-perl/stable 0.072-3 all
+  Perl extension for the R-tree data structure and algorithms
+
+libtree-rb-perl/stable 0.500006-3 all
+  Perl implementation of the Red/Black tree
+
+libtree-redblack-perl/stable 0.5-4 all
+  Perl implementation of Red/Black tree, a balanced tree
+
+libtree-simple-perl/stable 1.34-2 all
+  implementation of a simple tree object
+
+libtree-simple-visitorfactory-perl/stable 0.16-3 all
+  collection of dispensing visitor objects for Tree::Simple
+
+libtree-sitter-dev/stable 0.22.6-6+b1 arm64
+  incremental parsing system for programming tools (development files)
+
+libtree-sitter0.22/stable 0.22.6-6+b1 arm64
+  incremental parsing system for programming tools
+
+libtree-xpathengine-perl/stable 0.05-3 all
+  re-usable XPath engine
+
+libtreelayout-java/stable 1.0.3-2 all
+  Efficient and customizable TreeLayout Algorithm in Java
+
+libtrie-ocaml/stable 1.0.0-4+b4 arm64
+  strict impure trie tree in OCaml (runtime)
+
+libtrie-ocaml-dev/stable 1.0.0-4+b4 arm64
+  strict impure trie tree in OCaml (dev)
+
+libtyxml-ocaml/stable 4.6.0-1+b6 arm64
+  typed XML in OCaml (plugins)
+
+libtyxml-ocaml-dev/stable 4.6.0-1+b6 arm64
+  typed XML in OCaml (development files)
+
+libtyxml-ocaml-doc/stable 4.6.0-1 all
+  typed XML in OCaml (documentation)
+
+libui-gxmlcpp-dev/stable 1.4.6-2+b1 arm64
+  High-level C++ wrapper library for libxml2/libxslt (development)
+
+libui-gxmlcpp5t64/stable 1.4.6-2+b1 arm64
+  High-level C++ wrapper library for libxml2/libxslt (run time)
+
+libweb-query-perl/stable 1.01-1 all
+  perl web scraping library like jQuery
+
+libwerken.xpath-java/stable 0.9.4-16 all
+  JDOM XPath Engine
+
+libwiredtiger-java/stable 3.2.1-1 all
+  Java language support for WiredTiger
+
+libwww-mechanize-treebuilder-perl/stable 1.20000-2 all
+  Perl module integrating WWW::Mechanize and HTML::TreeBuilder
+
+libwx-perl-datawalker-perl/stable 0.02-3 all
+  Perl data structure browser
+
+libx11-windowhierarchy-perl/stable 0.004-3 all
+  Perl module for retrieving the current X11 window hierarchy
+
+libx12-parser-perl/stable 0.80-5 all
+  Perl module for parsing X12 Transaction files
+
+libxgboost-dev/stable 3.0.0-1 arm64
+  Scalable and Flexible Gradient Boosting (Development)
+
+libxgboost-predictor-java/stable 0.3.1+dfsg-2 all
+  Java implementation of XGBoost predictor for online prediction tasks
+
+libxgboost0/stable 3.0.0-1 arm64
+  Scalable and Flexible Gradient Boosting (Shared lib)
+
+libxml-bare-perl/stable 0.53-4+b1 arm64
+  Perl module to parse XML into a Perl hash
+
+libxml-compacttree-perl/stable 0.03-2 all
+  fast parser of XML document into nested arrays
+
+libxml-compile-perl/stable 1.64-1 all
+  Perl module to translate between XML and Perl based on XML schemas
+
+libxml-descent-perl/stable 1.04-7 all
+  Perl module for recursive descent XML parsing
+
+libxml-grove-perl/stable 0.46alpha-14 all
+  Perl module for accessing parsed *ML instances
+
+libxml-handler-trees-perl/stable 0.02-9 all
+  Perl module for building tree structures using PerlSAX handlers
+
+libxml-libxml-iterator-perl/stable 1.06-1 all
+  Iterator for XML parse-trees generated by XML::LibXML
+
+libxml-mini-perl/stable 1.38-5 all
+  Perl implementation of the MiniXML XML generator and parser
+
+libxml-parser-easytree-perl/stable 0.01-2 all
+  easier tree style for XML::Parser
+
+libxml-parser-lite-tree-perl/stable 0.14-3 all
+  lightweight XML tree builder
+
+libxml-simpleobject-enhanced-perl/stable 0.53-4 all
+  Perl module which enhances libxml-simpleobject-perl
+
+libxml-simpleobject-libxml-perl/stable 0.53-4 all
+  Simple oo representation of an XML::LibXML DOM object
+
+libxml-simpleobject-perl/stable 0.53-4 all
+  Objectoriented Perl interface to a parsed XML::Parser tree
+
+libxml-smart-perl/stable 1.78-4 all
+  Perl module for access to parsed XML trees
+
+libxml-treebuilder-perl/stable 5.4-3 all
+  XML parser providing XML::Elements DOM similar to HTML::Element
+
+libxml-treepp-perl/stable 0.43-3 all
+  Pure Perl module for parsing/writing XML files
+
+libxml-treepuller-perl/stable 0.1.2-2 all
+  pull interface to work with XML document fragments
+
+libxml-twig-perl/stable,now 1:3.52-3 all [installed,automatic]
+  Perl module for processing huge XML documents in tree mode
+
+libxml-xpathengine-perl/stable,now 0.14-2 all [installed,automatic]
+  re-usable XPath engine for DOM-like trees
+
+libxml-xql-perl/stable 0.68-9 all
+  Perl module for querying XML tree structures with XQL
+
+libxom-java/stable 1.3.9-1 all
+  New XML object model for Java
+
+libxom-java-doc/stable 1.3.9-1 all
+  Documentation for the libxom-java package
+
+libxpp3-java/stable 1.1.4c-4 all
+  XML pull parser library for java
+
+libxqdbm3t64/stable 1.8.78-13+b3 arm64
+  QDBM Database Libraries for C++ [runtime]
+
+libxstream-java/stable 1.4.21-1 all
+  Java library to serialize objects to XML and back again
+
+libxtc-rats-java/stable 1.15.0-2 all
+  parser generator written in Java
+
+libxxsds-dynamic-dev/stable 1.0~alpha.1+git20210426.548c6f7-2 all
+  succinct and compressed fully-dynamic data structures library
+
+libzeep-dev/stable 5.1.8-1+b2 arm64
+  Development files for libzeep
+
+libzeep-doc/stable 5.1.8-1 all
+  Documentation for libzeep
+
+libzeep5.1/stable 5.1.8-1+b2 arm64
+  Library file for libzeep
+
+libzix-0-0/stable,now 0.6.2-1 arm64 [installed,automatic]
+  library of portability wrappers and data structures (shared library)
+
+libzix-dev/stable 0.6.2-1 arm64
+  library of portability wrappers and data structures (development files)
+
+linux-headers-6.12.86+deb13-arm64/stable 6.12.86-1 arm64
+  Header files for Linux 6.12.86+deb13-arm64
+
+linux-headers-6.12.86+deb13-arm64-16k/stable 6.12.86-1 arm64
+  Header files for Linux 6.12.86+deb13-arm64-16k
+
+linux-headers-6.12.86+deb13-cloud-arm64/stable 6.12.86-1 arm64
+  Header files for Linux 6.12.86+deb13-cloud-arm64
+
+linux-headers-6.12.86+deb13-common/stable 6.12.86-1 all
+  Common header files for Linux 6.12.86+deb13
+
+linux-headers-6.12.86+deb13-common-rt/stable 6.12.86-1 all
+  Common header files for Linux 6.12.86+deb13-rt
+
+linux-headers-6.12.86+deb13-rt-arm64/stable 6.12.86-1 arm64
+  Header files for Linux 6.12.86+deb13-rt-arm64
+
+linux-headers-6.12.94+deb13-arm64/stable 6.12.94-1 arm64
+  Header files for Linux 6.12.94+deb13-arm64
+
+linux-headers-6.12.94+deb13-arm64-16k/stable 6.12.94-1 arm64
+  Header files for Linux 6.12.94+deb13-arm64-16k
+
+linux-headers-6.12.94+deb13-cloud-arm64/stable 6.12.94-1 arm64
+  Header files for Linux 6.12.94+deb13-cloud-arm64
+
+linux-headers-6.12.94+deb13-common/stable 6.12.94-1 all
+  Common header files for Linux 6.12.94+deb13
+
+linux-headers-6.12.94+deb13-common-rt/stable 6.12.94-1 all
+  Common header files for Linux 6.12.94+deb13-rt
+
+linux-headers-6.12.94+deb13-rt-arm64/stable 6.12.94-1 arm64
+  Header files for Linux 6.12.94+deb13-rt-arm64
+
+litetlog/stable 0.4.3-3+b3 arm64
+  transparency logging tools for Sigsum and Omniwitness (programs)
+
+locate/stable 4.10.0-3 arm64
+  maintain and query an index of a directory tree
+
+lsd/stable 1.1.5-5+b1 arm64
+  ls command with a lot of pretty colors and some other stuff
+
+lsyncd/stable 2.2.3-1+b1 arm64
+  daemon to synchronize local directories using rsync
+
+lua-augeas/stable 0.1.1-4 arm64
+  Lua binding to the Augeas C API
+
+lua-binaryheap/stable 0.4-2 all
+  Binary heap implementation in Lua
+
+lxd-migrate/stable 5.0.2+git20231211.1364ae4-9+deb13u7 arm64
+  LXD physical to instance migration tool
+
+mafft/stable 7.505-1+b1 arm64
+  Multiple alignment program for amino acid or nucleotide sequences
+
+mailscripts/stable 30-2 all
+  collection of scripts for manipulating e-mail on Debian
+
+makefs/stable 20190105-3+b1 arm64
+  create a cd9660 or ffs filesystem image from a directory tree
+
+makepatch/stable 2.03-4 all
+  generate/apply patch files with more functionality than plain diff
+
+maptool/stable 0.5.6+dfsg.1-4 arm64
+  Converts OpenStreetMap maps to Navit
+
+mariadb-plugin-oqgraph/stable 1:11.8.6-0+deb13u1 arm64
+  OQGraph storage engine for MariaDB server
+
+mate-common/stable 1.26.0-1 all
+  common scripts and macros to develop with MATE
+
+megatools/stable 1.11.5-1 arm64
+  Command-line client for the Mega cloud storage service
+
+mercurial/stable 7.0.1-2 arm64
+  easy-to-use, scalable distributed version control system
+
+merkaartor/stable 0.20.0+ds-1+b1 arm64
+  map editor for OpenStreetMap.org
+
+messagelib-dev/stable 4:24.12.3-4 arm64
+  KDE PIM messaging library - development files
+
+metastore/stable 1.1.2-6 arm64
+  Store and restore metadata from a filesystem
+
+mhz/stable 0.0~git20240131.d84a678-1+b1 arm64
+  CPU frequency measurement utility
+
+minetest-mod-ltool/stable 1.6.1-2 all
+  Minetest mod providing utils for L-system trees.
+
+minetest-mod-maidroid/stable 0.1.0-2 all
+  Minetest mod - Maidroid for maid robots
+
+mkgmap/stable 0.0.0+svn4923-2 all
+  Generate Garmin maps from OpenStreetMap data
+
+mkgmap-splitter/stable 0.0.0+svn654-2 all
+  Tile splitter for mkgmap
+
+mkgmapgui/stable 1.1.ds-13 all
+  Graphical User Interface for mkgmap
+
+mona/stable 1.4-18-1+b2 arm64
+  theorem prover based on automata
+
+moosefs-cgi/stable 4.57.5-1 all
+  MooseFS - CGI monitor
+
+moosefs-cgiserv/stable 4.57.5-1 all
+  simple CGI-capable HTTP server to run MooseFS CGI monitor
+
+moosefs-chunkserver/stable 4.57.5-1 arm64
+  MooseFS - data server
+
+moosefs-cli/stable 4.57.5-1 all
+  MooseFS CLI utility
+
+moosefs-client/stable 4.57.5-1 arm64
+  MooseFS - client tools and mount utility
+
+moosefs-common/stable 4.57.5-1 all
+  MooseFS - common files
+
+moosefs-master/stable 4.57.5-1 arm64
+  MooseFS - master server
+
+moosefs-metalogger/stable 4.57.5-1 arm64
+  MooseFS - metalogger server
+
+moosefs-netdump/stable 4.57.5-1 arm64
+  MooseFS network packet dump utility
+
+morbig/stable 0.11.0-3+b9 arm64
+  Parser for POSIX shell scripts
+
+mothur/stable 1.48.1-1+b1 arm64
+  sequence analysis suite for research on microbiota
+
+mptp/stable 0.2.5-1 arm64
+  single-locus species delimitation
+
+mrbayes/stable 3.2.7a-7+b2 arm64
+  Bayesian Inference of Phylogeny
+
+mrbayes-doc/stable 3.2.7a-7 all
+  Bayesian Inference of Phylogeny - manual
+
+mrbayes-mpi/stable 3.2.7a-7+b2 arm64
+  Bayesian Inference of Phylogeny - mpi version
+
+mstflint/stable 4.31.0+1-4 arm64
+  Mellanox firmware burning application and diagnostics tools
+
+mtree-netbsd/stable 20180822-9 arm64
+  Validates directory tree against specification
+
+muscle/stable 1:5.1.0-1+b1 arm64
+  Multiple alignment program of protein sequences
+
+mussort/stable 0.4-4 all
+  simple tool that sorts a music collection
+
+ncdt/stable 2.1-7+b1 arm64
+  Display directory tree
+
+neovim-gruvbox/stable 2.0.0-2 all
+  Gruvbox Colorscheme for neovim
+
+netconsole/stable 0.3.1-3 all
+  Dynamically configure Linux netconsole
+
+njplot/stable 2.4-9+b2 arm64
+  phylogenetic tree drawing program
+
+node-acorn/stable 8.8.1+ds+~cs25.17.7-2 all
+  ECMAScript parser for Node.js
+
+node-archy/stable 1.0.0-6 all
+  Pretty-print nested hierarchies module for Node.js
+
+node-ast-types/stable 0.16.1-3 all
+  Esprima-compatible implementation of the Mozilla JS Parser API
+
+node-cosmiconfig/stable 7.1.0+ds1-1 all
+  Find and load configuration from different locations
+
+node-css/stable 3.0.0+repack-2 all
+  JavaScript CSS parser and stringifier - Node.js module
+
+node-css-tree/stable 2.3.1-1 all
+  toolset to work with CSS
+
+node-d3-quadtree/stable 1.0.7+~1.0.9-1 all
+  Two-dimensional recursive spatial subdivision
+
+node-debbundle-insert-module-globals/stable 7.2.1+ds+~cs4.3.4-6 all
+  browserify transform for inserting global list of modules
+
+node-deep-for-each/stable 3.0.0-5 all
+  Recursively iterates collection values (arrays and objects)
+
+node-detective/stable 5.2.1+~5.1.2-1 all
+  find all require() calls by walking the AST
+
+node-domhandler/stable 5.0.3-4 all
+  htmlparser2 handler that turns pages into a dom
+
+node-domino/stable 2.1.6~ds-5 all
+  server-side DOM implementation based on Mozilla's dom.js
+
+node-eslint-visitor-keys/stable 3.3.0+~1.0.0-1 all
+  Constants and utilities about visitor keys to traverse AST
+
+node-esquery/stable 1.4.2~ds-1 all
+  query library for ECMAScript AST using CSS-like queries
+
+node-estree-walker/stable 2.0.2-5 all
+  traverse an ESTree-compliant AST in Node.js
+
+node-esutils/stable 2.0.3+~2.0.0-1 all
+  utility box for ECMAScript language tools
+
+node-falafel/stable 2.2.5-1 all
+  transform javascript AST on a recursive walk
+
+node-findit2/stable 2.2.3-8 all
+  walk a directory tree recursively with events
+
+node-functional-red-black-tree/stable 1.0.1+20181105-7 all
+  fully persistent balanced binary search tree - Node.js library
+
+node-map2tree/stable 3.0.0~3.13.1~git20230831-2 all
+  Node.js pure function to convert a map into a tree structure
+
+node-mdn-data/stable 2.17.0-1 all
+  Open Web data by the Mozilla Developer Network
+
+node-parse5-htmlparser2-tree-adapter/stable 7.1.2+dfsg-3 all
+  node-htmlparser2 tree adapter
+
+node-postcss-value-parser/stable 4.2.0-1 all
+  Transforms css values and at-rule params into the tree
+
+node-react-json-tree/stable 0.18.0~3.13.1~git20230831-2 all
+  React.js JSON viewer component
+
+node-react-test-renderer/stable 18.1.0~18.2.0+dfsg+~cs88.72.123-1 all
+  Experimental React renderer to be used to render React components to pure JavaScript objects
+
+node-recast/stable 0.23.4-2 all
+  Pretty printer and syntax tree transformer for JavaScript
+
+node-regexp-match-indices/stable 1.0.2~git20190823-2 all
+  Node.js polyfill/shim for the RegExp Match Indices proposal
+
+node-regjsgen/stable 0.7.1+ds-1 all
+  Regular expression from abstract syntax trees in Node.js
+
+node-snapdragon-node/stable 3.0.0-5 all
+  Snapdragon utility to create a new AST node in some node
+
+node-static-eval/stable 2.1.0-3 all
+  evaluate statically-analyzable javascript expressions
+
+node-theming/stable 3.3.0+~cs1.2.8-3 all
+  CSSinJS theming solution for ReactJS
+
+node-to-regex/stable 3.0.2+~cs6.3.28-1 all
+  regex generator from string or array of strings
+
+node-typanion/stable 3.14.0+dfsg-1 all
+  Static and runtime type assertion library with no dependencies
+
+node-uglify/stable 2.8.29-8+deb13u1 all
+  JavaScript parser, mangler/compressor and beautifier toolkit
+
+node-uglify-js/stable 3.17.4-2 all
+  JavaScript parser, mangler/compressor and beautifier - Nodejs library
+
+node-zeparser/stable 0.0.7+dfsg-6 all
+  Javascript code parser module for Node.js
+
+nwchem/stable 7.2.3-10 all
+  High-performance computational chemistry software (default MPI)
+
+nwchem-mpich/stable 7.2.3-10 arm64
+  High-performance computational chemistry software (MPICH build)
+
+nwchem-openmpi/stable 7.2.3-10 arm64
+  High-performance computational chemistry software (OpenMPI build)
+
+nyacc/stable 1.09.5-1 arm64
+  Not Yet Another Compiler Compiler
+
+obs-scene-tree-view/stable 0.1.7-1+b2 arm64
+  plugin for OBS Studio that adds a scene tree folder dock
+
+octomap-tools/stable 1.9.7+dfsg-4 arm64
+  Tools for 3D occupancy grid mapping
+
+openjade/stable 1.4devel1-23.3 arm64
+  Implementation of the DSSSL language
+
+openmcdf/stable 1.5.4-3.1 all
+  Structured Storage Explorer
+
+openmolcas/stable 25.02-2 arm64
+  Quantum chemistry software package
+
+openstreetmap-carto/stable 5.9.0-2 all
+  Setup for standard OpenStreetMap Mapnik stylesheet
+
+openstreetmap-carto-common/stable 5.9.0-2 all
+  standard OpenStreetMap Mapnik stylesheet
+
+osm2pgrouting/stable 2.3.8-3 arm64
+  Tool to import OpenStreetMap data into a pgRouting database
+
+osm2pgsql/stable 2.1.1+ds-1 arm64
+  OpenStreetMap data to PostgreSQL converter
+
+osmcoastline/stable 2.4.1-1 arm64
+  Extract coastline data from OpenStreetMap planet file
+
+osmctools/stable 0.9-5 arm64
+  Some tools to manipulate OpenStreetMap files
+
+osmium-tool/stable 1.18.0-1 arm64
+  Command line tool for working with OpenStreetMap data
+
+osmocom-dahdi-dkms/stable 0.0~git20241003.b2ea348-4 all
+  Kernel module package maintained by DKMS
+
+osmosis/stable 0.49.2-2 all
+  Command line OpenStreetMap data processor
+
+osmpbf-bin/stable 1.5.1-1+b1 arm64
+  OpenStreetMap PBF file format library - tools
+
+ostree/stable 2025.2-1 arm64
+  content-addressed filesystem for operating system binaries
+
+ostree-boot/stable 2025.2-1 arm64
+  libostree boot loader and initramfs integration
+
+ostree-push/stable 1.2.0-1 all
+  push commits from local OSTree repo to a remote
+
+ostree-tests/stable 2025.2-1 arm64
+  content-addressed filesystem for operating system binaries - tests
+
+paml/stable 4.9j+dfsg-6 arm64
+  Phylogenetic Analysis by Maximum Likelihood (PAML)
+
+paml-doc/stable 4.9j+dfsg-6 all
+  Documentation for PAML
+
+parsinsert/stable 1.04-15 arm64
+  Parsimonious Insertion of unclassified sequences into phylogenetic trees
+
+parsinsert-testdata/stable 1.04-15 all
+  Test data for parsinsert
+
+pass-extension-tomb/stable 1.3-4 all
+  lightweight directory-based password manager (tomb extension)
+
+pax-utils/stable 1.3.8-1 arm64
+  Security-focused ELF files checking tool
+
+pcb-rnd/stable 3.1.6-1 arm64
+  Standard installation of pcb-rnd
+
+pccts/stable 1.33MR33-6.5 arm64
+  Purdue Compiler Construction Tool Set (PCCTS)
+
+phast/stable 1.7+dfsg-2 arm64
+  phylogenetic analysis with space/time models
+
+phototonic/stable 2.1-4+b1 arm64
+  image viewer and organizer
+
+php-ast/stable 1.1.2-3 all
+  AST extension for PHP 7
+
+php-ast-all-dev/stable 1.1.2-3 all
+  AST extension for PHP 7
+
+php-parser/stable 5.4.0-3 all
+  convert PHP code into abstract syntax tree
+
+php8.4-ast/stable 1.1.2-3 arm64
+  AST extension for PHP 7
+
+phpldapadmin/stable 1.2.6.7-4 all
+  web based interface for administering LDAP servers
+
+phybin/stable 0.3-6 arm64
+  binning/clustering newick trees by topology
+
+phylip/stable 1:3.697+dfsg-4+b1 arm64
+  package of programs for inferring phylogenies
+
+phylip-doc/stable 1:3.697+dfsg-4 all
+  package of programs for inferring phylogenies (documentation)
+
+phyml/stable 3:3.3.20220408-4+b1 arm64
+  Phylogenetic estimation using Maximum Likelihood
+
+phyutility/stable 2.7.3+dfsg-4 arm64
+  simple analyses or modifications on both phylogenetic trees and data matrices
+
+phyx/stable 1.3.2+ds-1 arm64
+  UNIX-style phylogenetic analyses on trees and sequences
+
+pipexec/stable 2.6.2-1 arm64
+  create a directed graph of processes and pipes
+
+piuparts/stable 1.6.0 all
+  .deb package installation, upgrading, and removal testing tool
+
+pkg-r-autopkgtest/stable 20241218 all
+  Script for the automatic testing of R packages
+
+pmccabe/stable 2.8-3+b1 arm64
+  McCabe-style function complexity and line counting for C and C++
+
+populations/stable 1.2.33+svn0120106+dfsg-7+b1 arm64
+  population genetic software
+
+postgresql-17-debversion/stable 1.2.0-2 arm64
+  Debian version number type for PostgreSQL
+
+postgresql-17-rational/stable 0.0.2-7 arm64
+  Precise fractional arithmetic for PostgreSQL
+
+postgresql-server-dev-17/stable 17.10-0+deb13u1 arm64
+  development files for PostgreSQL 17 server-side programming
+
+powerline-go/stable 1.25-2+b2 arm64
+  Powerline style prompt for your shell: Bash, ZSH and Fish
+
+prime-phylo/stable 1.0.11-13+b1 arm64
+  bayesian estimation of gene trees taking the species tree into account
+
+proalign/stable 0.603-6 arm64
+  Probabilistic multiple alignment program
+
+procs/stable 0.14.10-2 arm64
+  modern replacement for ps
+
+psmisc/stable 23.7-2 arm64
+  utilities that use the proc file system
+
+pugixml-doc/stable 1.14-2 all
+  Light-weight C++ XML processing library (documentation)
+
+puppet-module-camptocamp-augeas/stable 1.9.0-2 all
+  Puppet module for Augeas
+
+pyprof2calltree/stable 1.4.5-1 all
+  visualise Python cProfile data with this kcachegrind converter
+
+python-bs4-doc/stable 4.13.4-2 all
+  error-tolerant HTML parser for Python - documentation
+
+python-bsddb3-doc/stable 6.2.9-4 all
+  Documentation for the python Berkeley DB interface module
+
+python-btrees-doc/stable 6.1-2 all
+  scalable persistent object containers for Python - documentation
+
+python-cssselect2-doc/stable 0.7.0-3 all
+  implementation of CSS3 Selectors (Documentation)
+
+python-django-mptt-doc/stable 0.13.2-2 all
+  Modified Preorder Tree Traversal Django application (documentation)
+
+python-django-sitetree-doc/stable 1.18.0+dfsg-3 all
+  site tree, menu and breadcrumbs navigation for Django (Documentation)
+
+python-django-tree-queries-doc/stable 0.19-1 all
+  Adjacency-list trees for Django (Documentation)
+
+python-django-treebeard-doc/stable 4.7.1-1 all
+  Efficient implementations of tree data structures for Django (documentation)
+
+python-dm-tree-doc/stable 0.1.9-1 all
+  library for working with nested data structures (Documentation)
+
+python-git-doc/stable 3.1.44-1 all
+  Python library to interact with Git repositories - docs
+
+python-h5py-doc/stable 3.13.0-1 all
+  documentation for h5py
+
+python-objgraph-doc/stable 3.6.2-1 all
+  Module for exploring Python object reference graphs (Documentation)
+
+python-osmnx-doc/stable 2.0.2+ds-1 all
+  tool to study street networks from OpenStreetMap -- doc
+
+python-osprofiler-doc/stable 4.2.0-6 all
+  OpenStack Profiler Library - doc
+
+python-pglast-doc/stable 7.7-1 all
+  PostgreSQL Languages AST and statements prettifier (common documentation)
+
+python-pook-doc/stable 2.1.3-2 all
+  HTTP traffic mocking and testing made easy (common documentation)
+
+python-pygtrie-doc/stable 2.2-3 all
+  Python library implementing a trie data structure (common documentation)
+
+python-releases-doc/stable 2.1.1-2 all
+  Sphinx extension for changelog manipulation documentation
+
+python-sphinx-external-toc-doc/stable 1.0.1-1 all
+  Sphinx extension that allows the site-map to be defined (doc)
+
+python-tktreectrl-doc/stable 2.0.2-5 all
+  documentation and examples for Python TkTreeCtrl
+
+python-trie-doc/stable 0.4.0+ds-1 all
+  Pure Python implementation of the trie data structure (doc)
+
+python-typer-doc/stable 0.15.2-1 all
+  Python library for building CLI applications (common documentation)
+
+python3-anytree/stable 2.12.1-3.1 all
+  Powerful and Lightweight Python Tree Data Structure with various plugins
+
+python3-asciitree/stable 0.3.3-4 all
+  Draw tree structures using (ASCII or Unicode) characters
+
+python3-astor/stable 0.8.1-4 all
+  Python 3 AST manipulator
+
+python3-astroid/stable 3.3.8-2 all
+  rebuild a new abstract syntax tree from Python's AST (Python3)
+
+python3-asttokens/stable 3.0.0-1 all
+  annotate Python asbtract syntax trees with code references (Python 3)
+
+python3-bandit/stable 1.7.10-2 all
+  Security oriented static analyzer for Python code - Python 3.x
+
+python3-baron/stable 0.10.1-1 all
+  Full Syntax Tree for python for refactoring code
+
+python3-beniget/stable 0.4.1-3 all
+  collection of compile-time Python AST analyzers
+
+python3-braintree/stable 4.31.0-1 all
+  Braintree Python library
+
+python3-bs4/stable 4.13.4-2 all
+  error-tolerant HTML parser for Python 3
+
+python3-bsddb3/stable 6.2.9-4+b1 arm64
+  Python interface for Berkeley DB (Python 3.x)
+
+python3-btrees/stable 6.1-2+b1 arm64
+  scalable persistent object containers for Python 3
+
+python3-codegen/stable 1.0-5 all
+  extension to ast that allows AST -> Python code generation
+
+python3-colcon-recursive-crawl/stable 0.2.3-1 all
+  collective construction meta build tool - recursive crawl extension
+
+python3-confection/stable 0.1.5-1 all
+  sweetest config system for Python3
+
+python3-cpuinfo/stable 9.0.0+git20221119-3 all
+  Python module for getting CPU info (Python 3)
+
+python3-cssselect2/stable 0.7.0-3 all
+  implementation of CSS3 Selectors (Python3 version)
+
+python3-dendropy/stable 4.6.1-2 all
+  DendroPy Phylogenetic Computing Library (Python 3)
+
+python3-dialog/stable 3.5.3-1 all
+  Python module for making simple terminal-based user interfaces
+
+python3-django-mptt/stable 0.13.2-2 all
+  Modified Preorder Tree Traversal Django application
+
+python3-django-rules/stable 3.5.0-1 all
+  object-level permissions for Django (Python3 version)
+
+python3-django-sitetree/stable 1.18.0+dfsg-3 all
+  site tree, menu and breadcrumbs navigation for Django (Python3 version)
+
+python3-django-tree-queries/stable 0.19-1 all
+  Adjacency-list trees for Django (Python3 version)
+
+python3-django-treebeard/stable 4.7.1-1 all
+  Efficient implementations of tree data structures for Django (Python3 version)
+
+python3-dm-tree/stable 0.1.9-1+b1 arm64
+  library for working with nested data structures (Python3 version)
+
+python3-dtfabric/stable 20240211-1 all
+  Tooling for data type and structure management - Python 3.x
+
+python3-easyprocess/stable 1.1-2 all
+  easy to use python subprocess interface - Python 3.X
+
+python3-editobj3/stable 0.2+ds1-2 all
+  automatic dialog box generator for Python objects (Python 3)
+
+python3-elementpath/stable 4.8.0-1 all
+  XPath selectors for XML data structures in Python
+
+python3-ete3/stable 3.1.3+dfsg-3 all
+  Python Environment for (phylogenetic) Tree Exploration - Python 3.X
+
+python3-evalidate/stable 2.0.5-1 all
+  Validation and secure evaluation of untrusted Python expressions
+
+python3-executing/stable 2.2.0-0.1 all
+  Inspect Python AST node being executed
+
+python3-fiona/stable 1.10.1-2+b3 arm64
+  Python 3 API for reading/writing vector geospatial data
+
+python3-fissix/stable 24.4.24-2 all
+  backport of lib2to3 that supports the latest Python3 grammars
+
+python3-fscacher/stable 0.4.3-0.3 all
+  caching results of operations on heavy file trees
+
+python3-gast/stable 0.6.0-1 all
+  compatibility layer for the AST of various Python versions (Python3 version)
+
+python3-gdal/stable 3.10.3+dfsg-1 arm64
+  Python 3 bindings to the Geospatial Data Abstraction Library
+
+python3-geneagrapher/stable 2.0.0-1 all
+  Create tree from Mathematics Genealogy Project (module)
+
+python3-geneagrapher-core/stable 0.1.3-1 all
+  request and build graphs of records from the Math Genealogy Project
+
+python3-gflanguages/stable 0.7.2-3 all
+  API for evaluating language support in the Google Fonts collection
+
+python3-git/stable 3.1.44-1 all
+  Python library to interact with Git repositories
+
+python3-glymur/stable 0.14.1-1 all
+  Python tools for accessing JPEG2000 files
+
+python3-h5py/stable 3.13.0-1 all
+  general-purpose Python interface to hdf5
+
+python3-h5py-mpi/stable 3.13.0-1+b1 arm64
+  general-purpose Python interface to hdf5 (Python 3 MPI)
+
+python3-h5py-serial/stable 3.13.0-1+b1 arm64
+  general-purpose Python interface to hdf5 (Python 3 serial)
+
+python3-html5-parser/stable 0.4.12+ds-3 arm64
+  fast, standards compliant, C based, HTML 5 parser for Python
+
+python3-hy/stable 1.0.0-1 all
+  Lisp (s-expression) based frontend to Python 3
+
+python3-indigo/stable 1.2.3-3.1 all
+  Organic Chemistry Toolkit (Python module)
+
+python3-intervaltree/stable 3.0.2-1.1 all
+  mutable, self-balancing interval tree (Python 3)
+
+python3-intervaltree-bio/stable 1.0.1-4 all
+  Interval tree convenience classes for genomic data -- Python 3 library
+
+python3-iow/stable 1.0.7-1+b3 arm64
+  balanced parentheses tree structure
+
+python3-isosurfaces/stable 0.1.2-1 all
+  Compute isolines/isosurfaces of scalar fields
+
+python3-jsonpath-ng/stable 1.7.0-1 all
+  Robust and extended implementation of JSONPath for Python
+
+python3-kdtree/stable 0.7.3-1+b1 arm64
+  container for kd-tree sorting for Python 3
+
+python3-kopeninghours/stable 25.04.2-1 arm64
+  OSM opening hours expressions library - Python binding
+
+python3-kyotocabinet/stable 1.23-5+b2 arm64
+  Straightforward implementation of DBM - Python 3 bindings
+
+python3-libcst/stable 1.4.0-1.2 arm64
+  Concrete Syntax Tree (CST) parser and serializer library for Python
+
+python3-libfdt/stable 1.7.2-2+b1 arm64
+  Flat Device Trees manipulation library - Python bindings
+
+python3-liblarch/stable 3.2.0-4 all
+  easily handle data structures
+
+python3-logging-tree/stable 1.9-1.2 all
+  introspect and display the logging tree in Python3
+
+python3-logilab-common/stable 2.1.0-1 all
+  useful miscellaneous modules used by Logilab projects (Python3)
+
+python3-lxml/stable 5.4.0-1 arm64
+  pythonic binding for the libxml2 and libxslt libraries
+
+python3-mistletoe/stable 1.4.0-1 all
+  fast, extensible Markdown parser in pure Python
+
+python3-morph/stable 0.1.3-5 all
+  collection of routines to help identify and morph objects - Python 3.x
+
+python3-ncls/stable 0.0.63-hotfix+ds-1+b8 arm64
+  datastructure for interval overlap queries
+
+python3-objgraph/stable 3.6.2-1 all
+  Module for exploring Python object reference graphs
+
+python3-osmapi/stable 4.3.0+ds-1 all
+  Python 3 interface to OpenStreetMap API
+
+python3-osmnx/stable 2.0.2+ds-1 all
+  tool to study street networks from OpenStreetMap -- Python3
+
+python3-osprofiler/stable 4.2.0-6 all
+  OpenStack Profiler Library - Python 3.x
+
+python3-overpass/stable 0.7-4 all
+  wrapper for the OpenStreetMap Overpass API (Python 3)
+
+python3-overpy/stable 0.7-1 all
+  wrapper to access the OpenStreetMap Overpass API (Python 3)
+
+python3-pangolearn/stable 2022-07-09+dfsg-2 all
+  store of the trained model for pangolin to access
+
+python3-parso/stable 0.8.4-1 all
+  Python parser that supports error recovery - Python 3.X
+
+python3-patch-ng/stable 1.17.4-3 all
+  Patch NG (New Generation)
+
+python3-pglast/stable 7.7-1 arm64
+  PostgreSQL Languages AST and statements prettifier (Python 3)
+
+python3-pipdeptree/stable 2.2.0-3 arm64
+  display dependency tree of the installed Python 3 packages
+
+python3-pook/stable 2.1.3-2 all
+  HTTP traffic mocking and testing made easy (Python 3)
+
+python3-priority/stable 2.0.0-1 all
+  pure-Python implementation of the HTTP/2 priority tree (Python 3)
+
+python3-pyasn/stable 1.6.2-1 arm64
+  very fast IP address to Autonomous System Number lookups
+
+python3-pygtrie/stable 2.2-3 all
+  Python library implementing a trie data structure (Python 3)
+
+python3-pykdtree/stable 1.4.1+ds-1+b1 arm64
+  Fast kd-tree implementation with OpenMP-enabled queries (Python 3 version)
+
+python3-pymbolic/stable 2022.2-2+b1 arm64
+  Expression tree and symbolic manipulation library
+
+python3-pyroute2/stable 0.7.7-4 all
+  Python3 Netlink library - full package
+
+python3-radix/stable 0.10.0-5+b2 arm64
+  radix tree implementation for storage of IPv4 and IPv6 networks (Python 3)
+
+python3-reclass/stable 1.7.1-1 all
+  hierarchical inventory backend for configuration management systems (Python 3)
+
+python3-releases/stable 2.1.1-2 all
+  Sphinx extension for changelog manipulation (Python 3)
+
+python3-rosdistro/stable 1.0.1-2 all
+  Tool to work with rosdistro files (for Robot OS, Python 3)
+
+python3-rtree/stable 1.4.0-1 all
+  R-Tree spatial index for Python GIS - Python 3 module
+
+python3-scantree/stable 0.0.4-1 all
+  Flexible recursive directory iterator: scandir meets glob("**", recursive=True)
+
+python3-seedir/stable 0.5.0+dfsg-1 all
+  Package for creating, editing, and reading folder tree diagrams
+
+python3-serpent/stable 1.41-2 all
+  simple serialization library based on ast.literal_eval(), Python3 modules
+
+python3-slimit/stable 0.8.1-8 all
+  JavaScript minifier/parser in Python
+
+python3-snmp-passpersist/stable 2.1.0-2 all
+  SNMP passpersist backend for Net-SNMP
+
+python3-sphinx-external-toc/stable 1.0.1-1 all
+  Sphinx extension that allows the site-map to be defined
+
+python3-sphinx-remove-toctrees/stable 1.0.0-1 all
+  Reduce sphinx documentation build times
+
+python3-subnettree/stable 0.36-1+b7 arm64
+  Python 3 Module for CIDR Lookups
+
+python3-sushy-oem-idrac/stable 5.0.0-2 all
+  Dell EMC iDRAC OEM extension package for the sushy library
+
+python3-tf/stable 1.13.2-11 arm64
+  Robot OS tf transform library - Python 3
+
+python3-tf2/stable 0.7.7-3+b2 arm64
+  Robot OS tf2 transform library - Python 3
+
+python3-tf2-geometry-msgs/stable 0.7.7-3 all
+  Robot OS tf2 transform library for Bullet - Python 3
+
+python3-tf2-kdl/stable 0.7.7-3 all
+  Robot OS tf2 transform library using Orocos-KDL - Python 3
+
+python3-tf2-msgs/stable 0.7.7-3 all
+  Robot OS messages for tf2 transform library - Python 3
+
+python3-tf2-ros/stable 0.7.7-3 all
+  Robot OS binding for tf2 transform library - Python 3
+
+python3-tf2-sensor-msgs/stable 0.7.7-3 all
+  Robot OS sensor messages for tf2 transform library - Python 3
+
+python3-tktreectrl/stable 2.0.2-5 all
+  Tkinter-based wrapper for Tk TreeCtrl for Python 3
+
+python3-tree-sitter-sdml/stable 0.4.5-1 arm64
+  sdml grammar for the tree-sitter parser - Python bindings
+
+python3-treelib/stable 1.7.1-2 all
+  Python implementation of tree structure
+
+python3-treetime/stable 0.11.4-1 all
+  inference of time stamped phylogenies and ancestral reconstruction (Python 3)
+
+python3-trie/stable 0.4.0+ds-1 all
+  Pure Python implementation of the trie data structure (Python 3)
+
+python3-twentemilieu/stable 2.2.1-1 all
+  Asynchronous client for Twente Milieu waste collection API
+
+python3-typer/stable 0.15.2-1 all
+  Python library for building CLI applications (Python 3)
+
+python3-urwidtrees/stable 1.0.3.dev0-3 all
+  Urwid Tree Container API
+
+python3-vcstools/stable 0.1.42-9 all
+  VCS/SCM Python source control library for svn, git, hg, and bzr (Python 3)
+
+python3-wither/stable 1.1-3 all
+  XML/HTML Generation DSL (Python 3)
+
+python3-xarray-safe-rcm/stable 2024.11.0-1 all
+  Xarray reader for radarsat constellation mission (RCM) SAFE files
+
+python3-xarray-safe-s1/stable 2025.03.24-1 all
+  Xarray Sentinel1 Python SAFE files reader
+
+python3-xdoctest/stable 1.2.0-1 all
+  Rewrite of Python's builtin doctest module with AST instead of REGEX
+
+python3-xgboost/stable 3.0.0-1 arm64
+  Scalable and Flexible Gradient Boosting (Python3)
+
+python3-xstatic-angular-ui-router/stable 0.3.1.2-5 all
+  Angular UI router XStatic support
+
+python3-yamale/stable 6.0.0.1-1 all
+  schema and validator for YAML
+
+python3-zope.testrunner/stable 7.2-1 all
+  Flexible test runner with layer support for Python 3
+
+qasconfig/stable 1.4.0-1+b3 arm64
+  ALSA configuration browser
+
+qashctl/stable 1.4.0-1+b3 arm64
+  mixer for ALSA's High level Control Interface
+
+qasmixer/stable 1.4.0-1+b3 arm64
+  ALSA mixer for the desktop
+
+qastools-common/stable 1.4.0-1 all
+  QasTools common files
+
+qdbm-util/stable 1.8.78-13+b3 arm64
+  QDBM Database Utilities
+
+qdirstat/stable 1.9-1+b2 arm64
+  Qt-based directory statistics
+
+qgit/stable 2.10-2+b2 arm64
+  Qt application for viewing GIT trees
+
+qmk/stable 1.1.6-1 all
+  program to help users work with QMK Firmware
+
+qml-module-org-kde-kirigami-addons-components/stable 0.11.0-6+b1 arm64
+  components module for QML on Qt5
+
+qml-module-org-kde-kirigami-addons-delegates/stable 0.11.0-6+b1 arm64
+  delegates module for QML on Qt5
+
+qml-module-org-kde-kirigami-addons-formcard/stable 0.11.0-6+b1 arm64
+  formcard module for QML on Qt5
+
+qml-module-org-kde-kirigami-addons-settings/stable 0.11.0-6+b1 arm64
+  settings module for QML on Qt5
+
+qml-module-org-kde-kirigami-addons-treeview/stable 0.11.0-6+b1 arm64
+  treeview module for QML on Qt5
+
+qml6-module-org-kde-kirigamiaddons-components/stable 1.7.0-1 arm64
+  components module for QML
+
+qml6-module-org-kde-kirigamiaddons-delegates/stable 1.7.0-1 arm64
+  delegates module for QML
+
+qml6-module-org-kde-kirigamiaddons-formcard/stable 1.7.0-1 arm64
+  formcard module for QML
+
+qml6-module-org-kde-kirigamiaddons-settings/stable 1.7.0-1 arm64
+  settings module for QML
+
+qml6-module-org-kde-kirigamiaddons-treeview/stable 1.7.0-1 arm64
+  treeview module for QML
+
+qml6-module-org-kde-kopeninghours/stable 25.04.2-1 arm64
+  OSM opening hours expressions - QML module
+
+qml6-module-org-kde-kosmindoormap/stable 25.04.3-1 arm64
+  OSM multi-floor indoor map renderer QML module
+
+qml6-module-org-kde-kosmindoorrouting/stable 25.04.3-1 arm64
+  OSM multi-floor indoor map navigation QML module
+
+qml6-module-org-kde-mimetreeparser/stable 24.12.3-1 arm64
+  QML module for a MIME tree parser
+
+qml6-module-org-kde-osm-editorcontroller/stable 25.04.3-1 arm64
+  OSM indoor editor QML module
+
+qml6-module-qtquick-timeline-blendtrees/stable 6.8.2-2 arm64
+  Qt 6 Quick Timeline BlendTrees QML module
+
+quicktree/stable 2.5-6+b1 arm64
+  Neighbor-Joining algorithm for phylogenies
+
+r-bioc-biocneighbors/stable 2.0.1+ds-2 arm64
+  Nearest Neighbor Detection for Bioconductor Packages
+
+r-bioc-ctc/stable 1.80.0-2 all
+  Cluster and Tree Conversion
+
+r-cran-alakazam/stable 1.3.0-1+b1 arm64
+  Immunoglobulin Clonal Lineage and Diversity Analysis
+
+r-cran-ape/stable 5.8-1-1 arm64
+  GNU R package for Analyses of Phylogenetics and Evolution
+
+r-cran-cli/stable 3.6.4-1 arm64
+  GNU R helpers for developing command line interfaces
+
+r-cran-commonmark/stable 1.9.5-1 arm64
+  high performance CommonMark and Github markdown rendering in R
+
+r-cran-d3network/stable 0.5.2.1-4 all
+  GNU R tools for creating D3 JavaScript network, tree, dendrogram etc.
+
+r-cran-dbscan/stable 1.2.2+ds-2 arm64
+  Density Based Clustering of Applications with Noise (DBSCAN)
+
+r-cran-ddrtree/stable 0.1.5-2+b1 arm64
+  GNU R learning principal graphs with DDRTree
+
+r-cran-dendsort/stable 0.3.4+dfsg-2 all
+  GNU R Modular Leaf Ordering Methods for Dendrogram Nodes
+
+r-cran-distory/stable 1.4.5-1 arm64
+  GNU R distance between phylogenetic histories
+
+r-cran-dynamictreecut/stable 1.63-1-3 all
+  Methods for Detection of Clusters in Hierarchical Clustering
+
+r-cran-fnn/stable 1.1.4.1-1 arm64
+  GNU R fast nearest neighbor search algorithms and applications
+
+r-cran-ggdendro/stable 0.2.0+dfsg-1 all
+  GNU R create dendrograms and tree diagrams using 'ggplot2'
+
+r-cran-ggthemes/stable 5.1.0-1 all
+  extra themes, scales and geoms for r-cran-ggplot2
+
+r-cran-knn.covertree/stable 1.0-2+b1 arm64
+  GNU R accurate kNN implementation with multiple distance measures
+
+r-cran-lobstr/stable 1.1.2-1+b1 arm64
+  visualize R data structures with trees
+
+r-cran-maptree/stable 1.4-8-1 all
+  GNU R mapping, pruning, and graphing tree models
+
+r-cran-munsell/stable 0.5.1-1 all
+  Utilities for using Munsell colors
+
+r-cran-party/stable 1.3-18-1 arm64
+  GNU R laboratory for recursive partytioning
+
+r-cran-partykit/stable 1.2-23-1 arm64
+  GNU R toolkit for recursive partytioning
+
+r-cran-phangorn/stable 2.12.1+dfsg-1 arm64
+  GNU R package for phylogenetic analysis
+
+r-cran-phylobase/stable 0.8.12-1+b1 arm64
+  GNU R base package for phylogenetic structures and comparative data
+
+r-cran-phytools/stable 2.4-4-1 all
+  GNU R phylogenetic tools for comparative biology
+
+r-cran-psychotools/stable 0.7-4-1 arm64
+  GNU R psychometric modeling infrastructure
+
+r-cran-psychotree/stable 0.16-1-1 all
+  GNU R recursive partitioning based on psychometric models
+
+r-cran-randomforest/stable 4.7-1.2-1 arm64
+  GNU R package implementing the random forest classificator
+
+r-cran-ranger/stable 0.17.0-1 arm64
+  Fast Implementation of Random Forests
+
+r-cran-rann/stable 2.6.2-1 arm64
+  Fast Nearest Neighbour Search Using L2 Metric
+
+r-cran-rncl/stable 0.8.7-1+b1 arm64
+  GNU R interface to the Nexus Class Library
+
+r-cran-rotl/stable 3.1.0-1 all
+  GNU R interface to the 'Open Tree of Life' API
+
+r-cran-rpart/stable 4.1.24-1 arm64
+  GNU R package for recursive partitioning and regression trees
+
+r-cran-spdep/stable 1.3-5+dfsg-1+b1 arm64
+  GNU R spatial dependence: weighting schemes, statistics and models
+
+r-cran-tgp/stable 2.4-23-1 arm64
+  GNU R Bayesian treed Gaussian process models
+
+r-cran-tokenizers/stable 0.3.0-1+b1 arm64
+  GNU R fast, consistent tokenization of natural language text
+
+r-cran-treespace/stable 1.1.4.3+dfsg-1+b1 arm64
+  Statistical Exploration of Landscapes of Phylogenetic Trees
+
+r-cran-triebeard/stable 0.4.1-1+b1 arm64
+  GNU R radix trees in Rcpp
+
+r-cran-waveslim/stable 1.8.5-1 arm64
+  GNU R wavelet routines for 1-, 2- and 3-D signal processing
+
+r-cran-wikipedir/stable 1.7.1-1 all
+  GNU R MediaWiki API Wrapper
+
+r-cran-xml/stable 3.99-0.18-1 arm64
+  GNU R package for XML parsing and generation
+
+r-cran-xmlparsedata/stable 1.0.5-2 all
+  Parse Data of R Code as an XML Tree
+
+r-recommended/stable 4.5.0-3 all
+  GNU R collection of recommended packages [metapackage]
+
+raku-file-find/stable 0.2.0-3 arm64
+  Get a lazy list of a directory tree
+
+rate4site/stable 3.0.0-8+b1 arm64
+  detector of conserved amino-acid sites
+
+raxml/stable 8.2.13+dfsg-2+b1 arm64
+  Randomized Axelerated Maximum Likelihood of phylogenetic trees
+
+read-edid/stable 3.0.2-1.1+b1 arm64
+  hardware information-gathering tool for VESA PnP monitors
+
+reclass/stable 1.7.1-1 all
+  hierarchical inventory backend for configuration management systems
+
+recoll/stable 1.43.0-1 all
+  Personal full text search package
+
+reposurgeon/stable 4.38-2+b5 arm64
+  Tool for editing version-control repository history
+
+revelation/stable 0.5.5-1 arm64
+  GNOME3 Password manager
+
+roguenarok/stable 1.0.1-3+b1 arm64
+  versatile and scalable algorithm for rogue taxon identification
+
+ros-robot-state-publisher/stable 1.15.2-5+b5 arm64
+  Robot OS robot_state_publisher
+
+ros-tf2-msgs/stable 0.7.7-3 all
+  Robot OS messages for tf2 transform library - definitions
+
+rosbuild/stable 1.15.8-7 all
+  scripts for managing the Robot OS build system
+
+rospack-tools/stable 2.6.2-10+b2 arm64
+  command-line tool for retrieving information about Robot OS packages
+
+routino/stable 3.4.3-1 arm64
+  Set of tools to find a path between two points
+
+routino-common/stable 3.4.3-1 all
+  Routino data
+
+routino-www/stable 3.4.3-1 all
+  Web frontend for routino
+
+rsbackup/stable 10.0-3 arm64
+  rsync-based backup utility
+
+rsbackup-graph/stable 10.0-3 arm64
+  Graphics for rsync-based backup utility
+
+ruby-acts-as-tree/stable 2.9.1-2 all
+  simple tree behaviour to active_record models
+
+ruby-ast/stable 2.4.3-1 all
+  Ruby library for working with abstract syntax trees
+
+ruby-augeas/stable 1:0.5.0+gem-3 arm64
+  Augeas bindings for the Ruby language
+
+ruby-avl-tree/stable 1.2.1-2 all
+  AVL and red-black trees in Ruby
+
+ruby-celluloid-supervision/stable 0.20.5-1.1 all
+  Supervision support for Celluloid
+
+ruby-dbus/stable 0.16.0-1 all
+  Ruby module for interaction with D-Bus
+
+ruby-geocoder/stable 1.5.1-3 all
+  Complete Ruby geocoding solution
+
+ruby-htree/stable 0.8+dfsg-6 all
+  HTML/XML tree library for Ruby
+
+ruby-jsonpath/stable 1.1.5-2 all
+  Ruby implementation of JsonPath
+
+ruby-kyotocabinet/stable 1.34-2+b4 arm64
+  Straightforward implementation of DBM - Ruby bindings
+
+ruby-net-scp/stable 4.1.0-1 all
+  pure ruby implementation of the SCP protocol
+
+ruby-pdf-core/stable 0.9.0-1 all
+  Ruby library to render PDF documents
+
+ruby-qdbm/stable 1.8.78-13+b3 arm64
+  QDBM Database Libraries for Ruby
+
+ruby-raabro/stable 1.4.0-1 all
+  very dumb PEG parser library
+
+ruby-rails-dom-testing/stable 2.2.0-1 all
+  SOM and Selector assertions for Rails applications
+
+ruby-rbtree/stable 0.4.6-1+b4 arm64
+  sorted associative collection for Ruby
+
+ruby-regexp-parser/stable 2.6.1-1 all
+  Scanner, lexer, parser for ruby's regular expressions
+
+ruby-rpatricia/stable 1.0.1-2+b6 arm64
+  efficient IPv4/IPv6 prefix storage and lookup for Ruby
+
+ruby-ruby-parser/stable 3.20.0-2 all
+  Ruby parser written in pure Ruby
+
+ruby-ruby2ruby/stable 2.5.0-1 all
+  Generate pure ruby code easily from ParseTree's Sexps
+
+ruby-sexp-processor/stable 4.17.0-2 all
+  brings all the generic sexp processing tools to ruby
+
+ruby-tdiff/stable 0.3.3-1.1 all
+  Calculates the differences between two tree-like structures
+
+ruby-tokyocabinet/stable 1.31-7+b2 arm64
+  Ruby Binding of Tokyo Cabinet Database
+
+ruby-treetop/stable 1.6.12-1 all
+  Ruby-based text parsing and interpretation DSL
+
+runit-run/stable 2.2.0-3 all
+  service supervision (systemd and sysv integration)
+
+s3ql/stable 5.2.3+dfsg-2 arm64
+  Full-featured file system for online data storage
+
+s3ql-dbg/stable 5.2.3+dfsg-2 arm64
+  Full-featured file system for online data storage (debugging symbols)
+
+sablecc/stable 3.7-2 all
+  Object-oriented fully featured parser generator
+
+sayonara/stable 1.11.0-beta1-1 arm64
+  fast and powerful audio player and library manager
+
+sch-rnd/stable 1.0.8-3 arm64
+  Standard installation of sch-rnd
+
+scram/stable 0.16.2-3+b3 arm64
+  Probabilistic Risk Analysis Tool
+
+scrounge-ntfs/stable 0.9-11+b1 arm64
+  Data recovery program for NTFS filesystems
+
+seaview/stable 1:5.0.5-3 arm64
+  Multiplatform interface for sequence alignment and phylogeny
+
+sen/stable 0.8.0-1 all
+  Terminal user interface for docker engine
+
+seqan-apps/stable 2.4.0+dfsg-16+b2 arm64
+  C++ library for the analysis of biological sequences
+
+shelldap/stable 1.5.2-1 all
+  shell-like interface for browsing LDAP servers and editing their content
+
+shtool/stable 2.0.8-10 all
+  portable shell tool from the GNU project
+
+signify-openbsd/stable 32-1.1+b1 arm64
+  Lightweight cryptographic signing and verifying tool
+
+sigstore-go/stable 0.7.1-2+b4 arm64
+  Sigstore signing and verification (program)
+
+slapi-nis/stable 0.60.0-1.1+b1 arm64
+  NIS Server and Schema Compatibility plugins for 389 Directory Server
+
+slimit/stable 0.8.1-8 all
+  JavaScript minifier/parser in Python
+
+snippy/stable 4.6.0+dfsg-5 all
+  rapid haploid variant calling and core genome alignment
+
+snippy-examples/stable 4.6.0+dfsg-5 all
+  rapid haploid variant calling and core genome alignment (examples)
+
+sourmash/stable 4.8.14-3+b1 arm64
+  tools for comparing DNA sequences with MinHash sketches
+
+speech-tools/stable 1:2.5.0-13+b4 arm64
+  Edinburgh Speech Tools - user binaries
+
+split-select/stable 1:14~beta1-3 arm64
+  APK split and selection tool
+
+ssake/stable 4.0.1-2 all
+  genomics application for assembling millions of very short DNA sequences
+
+starlink-connect-java/stable 0.1+2024.08.01-1 all
+  Abstract classes for persistent connections to remote services
+
+starlink-connect-java-doc/stable 0.1+2024.08.01-1 all
+  Abstract classes for persistent connections (javadoc)
+
+starlink-datanode-java/stable 1.0+2024.07.24-1 all
+  Classes for hierarchical browsing of data structures
+
+starlink-datanode-java-doc/stable 1.0+2024.07.24-1 all
+  Classes for hierarchical browsing of data structures (documentation)
+
+storebackup/stable 3.2.1-2 all
+  fancy compressing managing checksumming deduplicating hard-linking cp -ua
+
+sumtrees/stable 4.6.1-2 all
+  Phylogenetic Tree Summarization and Annotation
+
+supertuxkart/stable 1.4+dfsg-5+b1 arm64
+  3D arcade racer with a variety of characters, tracks, and modes to play
+
+supertuxkart-data/stable 1.4+dfsg-5 all
+  3D arcade racer with a variety of characters, tracks, and modes to play (data)
+
+surfraw-extra/stable 2.3.0-2 all
+  extra surfraw search tools with heavy dependencies
+
+svn-buildpackage/stable 0.8.10 all
+  helper programs to maintain Debian packages with Subversion
+
+svn-load/stable 1.6-1.1 all
+  Enhanced import facility for Subversion
+
+sysfsutils/stable 2.1.1-7 arm64
+  sysfs query tool and boot-time setup
+
+sysprof/stable 48.0-2 arm64
+  system-wide Linux profiler
+
+tayga/stable 0.9.2-10+deb13u1 arm64
+  userspace stateless NAT64
+
+tcllib/stable 2.0+dfsg-4 all
+  Standard Tcl Library
+
+tcm/stable 2.20+TSQD-8 arm64
+  Toolkit for Conceptual Modeling (TCM)
+
+tcm-doc/stable 2.20+TSQD-8 all
+  Documentation for Toolkit for Conceptual Modeling (TCM)
+
+terraphast/stable 0.0+git20200413.8af2e4c+dfsg-3+b1 arm64
+  enumerate terraces in phylogenetic tree space
+
+texlive-extra-utils/stable 2024.20250309-2 all
+  TeX Live: TeX auxiliary programs
+
+texlive-fonts-extra-links/stable 2024.20250309-2 all
+  TeX Live: Setup of fonts for TeX Live and search via kpathsea
+
+texlive-humanities/stable 2024.20250309-2 all
+  TeX Live: Humanities packages
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+texlive-luatex/stable 2024.20250309-1 all
+  TeX Live: LuaTeX packages
+
+texlive-metapost/stable 2024.20250309-1 all
+  TeX Live: MetaPost and Metafont packages
+
+texlive-pictures/stable 2024.20250309-1 all
+  TeX Live: Graphics, pictures, diagrams
+
+texlive-plain-generic/stable 2024.20250309-2 all
+  TeX Live: Plain (La)TeX packages
+
+texlive-pstricks/stable 2024.20250309-2 all
+  TeX Live: PSTricks
+
+texlive-science/stable 2024.20250309-2 all
+  TeX Live: Mathematics, natural sciences, computer science packages
+
+tf2-tools/stable 0.7.7-3+b2 arm64
+  Robot OS tool for tf2 transform library second generation
+
+theme-d-translator/stable 6.1.0-1 arm64
+  Programming language extending Scheme with static typing
+
+ticgit/stable 1.0.2.17-2.1 all
+  ticketing system built on Git
+
+tig/stable 2.5.8-1+b2 arm64
+  ncurses-based text-mode interface for Git
+
+tilemaker/stable 3.0.0-1+b1 arm64
+  Generates vector tiles from OpenStreetMap data
+
+timbl/stable 6.10-3 arm64
+  Tilburg Memory Based Learner
+
+tippecanoe/stable 2.53.0-1+b1 arm64
+  build vector tilesets from large collections of GeoJSON features
+
+tk8.6-blt2.5/stable 2.5.3+dfsg-8 arm64
+  graphics extension library for Tcl/Tk - library
+
+tkcvs/stable 8.2.3-6 all
+  Graphical front-end to CVS and Subversion
+
+tklib/stable 0.9-1 all
+  standard Tk Library
+
+tkmib/stable 5.9.4+dfsg-2+deb13u1 all
+  SNMP (Simple Network Management Protocol) MIB browser
+
+tktreectrl/stable 2.4.1-2 arm64
+  Flexible listbox widget for Tcl/Tk
+
+tokyocabinet-bin/stable 1.4.48-15.1+b1 arm64
+  Tokyo Cabinet Database Utilities
+
+tokyocabinet-doc/stable 1.4.48-15.1 all
+  Tokyo Cabinet Database Documentation
+
+tre-command/stable 0.4.0-7+b1 arm64
+  Tree command, improved
+
+tree/stable 2.2.1-1 arm64
+  displays an indented directory tree, in color
+
+tree-ppuzzle/stable 5.3~rc16+dfsg-12+b1 arm64
+  Parallelized reconstruction of phylogenetic trees by maximum likelihood
+
+tree-puzzle/stable 5.3~rc16+dfsg-12+b1 arm64
+  Reconstruction of phylogenetic trees by maximum likelihood
+
+tree-puzzle-doc/stable 5.3~rc16+dfsg-12 all
+  Reconstruction of phylogenetic trees by maximum likelihood (doc)
+
+tree-sitter-c-src/stable 0.21.3-4 all
+  C parser for Tree-sitter (source files)
+
+tree-sitter-cli/stable 0.22.6-6+b1 arm64
+  command-line for Tree-sitter parsers
+
+tree-sitter-lua-src/stable 0.1.0-3 all
+  Lua parser for Tree-sitter (source files)
+
+tree-sitter-markdown-inline-src/stable 0.2.3-3 all
+  inline markdown parser for Tree-sitter (source files)
+
+tree-sitter-markdown-src/stable 0.2.3-3 all
+  markdown parser for Tree-sitter (source files)
+
+tree-sitter-query-src/stable 0.4.0-3 all
+  Tree-sitter queries parser for Tree-sitter (source files)
+
+tree-sitter-vim-src/stable 0.4.0-3 all
+  Vimscript parser for Tree-sitter (source files)
+
+tree-sitter-vimdoc-src/stable 3.0.0-3 all
+  Vim help file parser for Tree-sitter (source files)
+
+treeland-protocols/stable 0.4.5-2 all
+  Wayland protocol extensions for treeland
+
+treeline/stable 3.1.5-1.1 all
+  versatile tree-like structured custom data manager
+
+treesheets/stable 1:1.0.2-1.1+b4 arm64
+  Data organizer that covers spreadsheets, mind mappers, and small databases
+
+treetop/stable 1.6.12-1 all
+  Ruby-based text parsing and interpretation (command-line utility)
+
+treeview/stable 1.2.0+dfsg-2 all
+  Java re-implementation of Michael Eisen's TreeView
+
+treeviewx/stable 0.5.1+git20100823.7e4d0e9-4+b5 arm64
+  Displays and prints phylogenetic trees
+
+tryton-modules-account-payment-braintree/stable 7.0.0-3 all
+  Tryton application platform - account payment braintree module
+
+tryton-modules-marketing-automation/stable 7.0.1-1 all
+  Tryton application platform - marketing automation module
+
+tryton-modules-product-classification-taxonomic/stable 7.0.0-3 all
+  Tryton application platform - product classification taxonomic module
+
+tthsum/stable 1.3.2-1+b3 arm64
+  generates or checks TTH message digests
+
+typer/stable 0.15.2-1 all
+  CLI to run Python scripts and create CLI applications
+
+u-boot-efi-dtb/stable 3 all
+  copy DTBs to the EFI System Partition from the linux-image-* packages
+
+u-boot-menu/stable 4.2.4 all
+  u-boot menu update
+
+uglifyjs/stable 3.17.4-2 all
+  JavaScript parser, mangler/compressor and beautifier - CLI tool
+
+usbview/stable 3.1-2 arm64
+  USB device viewer
+
+uuagc/stable 0.9.56-1 arm64
+  compiler for the Utrecht University Attribute Grammar system
+
+vcsh/stable 2.0.10-0.2 all
+  Version Control System for $HOME - multiple Git repositories in $HOME
+
+vde2/stable 2.3.2+r586-11 arm64
+  Virtual Distributed Ethernet
+
+veryfasttree/stable 4.0.4+dfsg-2 arm64
+  Speeding up the estimation of phylogenetic trees from sequences
+
+vfu/stable 5.09-3 all
+  Versatile text-based file-manager (common files)
+
+vfu-ncurses/stable 5.09-3 arm64
+  Versatile text-based file-manager (ncurses)
+
+vfu-yascreen/stable 5.09-3 arm64
+  Versatile text-based file-manager (yascreen)
+
+viking/stable 1.10-4+b1 arm64
+  GPS data editor, analyzer and viewer
+
+vim-doc/stable 2:9.1.1230-2 all
+  Vi IMproved - HTML documentation
+
+vivid/stable 0.9.0-3+b2 arm64
+  LS_COLORS manager with multiple themes
+
+wallstreet/stable 1.21-1.1 all
+  fill your console with Wall Street-like news and stats
+
+warzone2100/stable 4.5.5deb-1 arm64
+  3D real time strategy game
+
+weka/stable 3.6.14-4 all
+  Machine learning algorithms for data mining tasks
+
+weka-doc/stable 3.6.14-4 all
+  documentation for the Weka machine learning suite
+
+whichman/stable 2.4-10+b2 arm64
+  Fault tolerant search utilities: whichman, ftff, ftwhich
+
+x265/stable 4.1-2 arm64
+  H.265/HEVC video stream encoder
+
+xapian-omega/stable 1.4.29-1 arm64
+  CGI search interface and indexers using Xapian
+
+xchm/stable 2:1.37-1 arm64
+  Compiled HTML Help (CHM) file viewer for X
+
+xdoctest/stable 1.2.0-1 all
+  Rewrite of Python's builtin doctest module with AST instead of REGEX
+
+xdu/stable 3.0-20+b1 arm64
+  display the output of "du" in an X window
+
+xfce4-taskmanager/stable 1.5.8-1 arm64
+  process manager for the Xfce4 Desktop Environment
+
+xfe/stable 2.0.1-2 arm64
+  lightweight file manager for X11
+
+xfsdump/stable 3.2.0-2 arm64
+  Administrative utilities for the XFS filesystem
+
+xfslibs-dev/stable 6.13.0-2+b1 arm64
+  XFS filesystem-specific static libraries and headers
+
+xfsprogs/stable 6.13.0-2+b1 arm64
+  Utilities for managing the XFS filesystem
+
+xmlbeans/stable 4.0.0-2 all
+  Java library for accessing XML by binding it to Java types - tools
+
+xmlstarlet/stable 1.6.1-4+b1 arm64
+  command line XML toolkit
+
+xutils-dev/stable 1:7.7+7 arm64
+  X Window System utility programs for development
+
+yt-dlp/stable 2025.04.30-1 all
+  downloader of videos from YouTube and other sites
+
+ytree/stable 1.99pl1-2.2+b2 arm64
+  File manager for terminals
+

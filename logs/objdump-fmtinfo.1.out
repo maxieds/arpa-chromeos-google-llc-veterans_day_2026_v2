@@ -1,0 +1,83 @@
+BFD header file version (GNU Binutils for Debian) 2.44
+elf64-littleaarch64
+ (header little endian, data little endian)
+  aarch64
+elf64-bigaarch64
+ (header big endian, data big endian)
+  aarch64
+elf32-littleaarch64
+ (header little endian, data little endian)
+  aarch64
+elf32-bigaarch64
+ (header big endian, data big endian)
+  aarch64
+elf32-littlearm
+ (header little endian, data little endian)
+  arm
+elf32-bigarm
+ (header big endian, data big endian)
+  arm
+pei-aarch64-little
+ (header little endian, data little endian)
+  aarch64
+pe-aarch64-little
+ (header little endian, data little endian)
+  aarch64
+elf64-little
+ (header little endian, data little endian)
+  arm
+  aarch64
+elf64-big
+ (header big endian, data big endian)
+  arm
+  aarch64
+elf32-little
+ (header little endian, data little endian)
+  arm
+  aarch64
+elf32-big
+ (header big endian, data big endian)
+  arm
+  aarch64
+srec
+ (header endianness unknown, data endianness unknown)
+  arm
+  aarch64
+symbolsrec
+ (header endianness unknown, data endianness unknown)
+  arm
+  aarch64
+verilog
+ (header endianness unknown, data endianness unknown)
+  arm
+  aarch64
+tekhex
+ (header endianness unknown, data endianness unknown)
+  arm
+  aarch64
+binary
+ (header endianness unknown, data endianness unknown)
+  arm
+  aarch64
+ihex
+ (header endianness unknown, data endianness unknown)
+  arm
+  aarch64
+plugin
+ (header little endian, data little endian)
+
+         elf64-littleaarch64 elf64-bigaarch64 elf32-littleaarch64 
+     arm ------------------- ---------------- -------------------
+ aarch64 elf64-littleaarch64 elf64-bigaarch64 elf32-littleaarch64
+
+         elf32-bigaarch64 elf32-littlearm elf32-bigarm pei-aarch64-little 
+     arm ---------------- elf32-littlearm elf32-bigarm ------------------
+ aarch64 elf32-bigaarch64 --------------- ------------ pei-aarch64-little
+
+         pe-aarch64-little elf64-little elf64-big elf32-little elf32-big srec 
+     arm ----------------- elf64-little elf64-big elf32-little elf32-big srec
+ aarch64 pe-aarch64-little elf64-little elf64-big elf32-little elf32-big srec
+
+         symbolsrec verilog tekhex binary ihex plugin 
+     arm symbolsrec verilog tekhex binary ihex ------
+ aarch64 symbolsrec verilog tekhex binary ihex ------

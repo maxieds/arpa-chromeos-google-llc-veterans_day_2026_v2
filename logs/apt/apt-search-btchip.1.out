@@ -1,0 +1,65 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+base58/stable 1.0.3-2 all
+  Command line encoder and decoder for Base58 format
+
+bruteforce-wallet/stable 1.5.4-1+b1 arm64
+  try to find the password of an encrypted wallet file
+
+electrum/stable 4.5.8+ds-6 all
+  Easy to use Bitcoin client
+
+golang-github-btcsuite-btcd-btcec-dev/stable 0.0~git20161101.0.g8343278-1.1 all
+  Go library for Elliptic curve cryptography
+
+golang-go.gearno-encoding-base58-dev/stable 0.1.0-2 all
+  base58 golang library
+
+libencode-base58-perl/stable 0.01-2 all
+  module to shorten numbers using a base58 conversion
+
+libsecp256k1-2/stable 0.5.0-2+b1 arm64
+  library for EC operations on curve secp256k1
+
+libsecp256k1-dev/stable 0.5.0-2+b1 arm64
+  library for EC operations on curve secp256k1 - development headers
+
+litecoin-qt/stable 0.21.4-1 arm64
+  peer-to-peer network based digital currency - Qt GUI
+
+litecoind/stable 0.21.4-1 arm64
+  peer-to-peer network based digital currency - daemon
+
+python3-base58/stable 1.0.3-2 all
+  Python library with Base58 encode and decode functions
+
+python3-bip32utils/stable 0.0~git20170118.dd9c541-2 all
+  Python implementation of Bitcoin hierarchical deterministic wallet
+
+python3-bitcoinlib/stable 0.12.2-1 all
+  Python module with an easy interface to the Bitcoin protocol
+
+python3-btchip/stable 0.1.32-4 all
+  Python library to communicate with BTChip dongle (Python 3)
+
+python3-electrum/stable 4.5.8+ds-6 all
+  Easy to use Bitcoin client - Python module
+
+python3-mnemonic/stable 0.21-2 all
+  Implementation of Bitcoin BIP-0039 (Python 3)
+
+python3-stdnum/stable 1.20-3 all
+  Python module to handle standardized numbers and codes (Python3 version)
+
+python3-trezor/stable 0.13.10-2 all
+  library for communicating with TREZOR Bitcoin HW wallet (Python 3)
+
+sherlock/stable 0.15.0-1 all
+  Find usernames across social networks
+
+trezor/stable 0.13.10-2 all
+  utilities for communicating with TREZOR Bitcoin HW wallet
+

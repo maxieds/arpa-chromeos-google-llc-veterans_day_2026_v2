@@ -1,0 +1,173 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+convlit/stable 1.8-7 arm64
+  convert Microsoft Reader .LIT files to HTML
+
+drm-info/stable 2.6.0-2+b1 arm64
+  Small utility to dump info about DRM devices
+
+edid-decode/stable 0.1~git20220315.cb74358c2896-1.1+b1 arm64
+  decode the binary EDID information from monitors
+
+fbreader/stable 0.99.4+dfsg-6+b1 arm64
+  e-book reader
+
+glmark2-drm/stable 2023.01+dfsg-2 arm64
+  OpenGL 2.0 benchmark suite
+
+glmark2-es2-drm/stable 2023.01+dfsg-2 arm64
+  OpenGL 2.0 benchmark suite
+
+gridengine-client/stable 8.1.9+dfsg-13.1 arm64
+  Utilities for Grid Engine queue management
+
+gridengine-common/stable 8.1.9+dfsg-13.1 all
+  Distributed resource management - common files
+
+gridengine-dev/stable 8.1.9+dfsg-13.1 all
+  Distributed resource management - development files
+
+gridengine-drmaa-dev/stable 8.1.9+dfsg-13.1 arm64
+  Distributed resource management Application API library - development files
+
+gridengine-drmaa1.0/stable 8.1.9+dfsg-13.1 arm64
+  Distributed resource management Application API library
+
+gridengine-exec/stable 8.1.9+dfsg-13.1 arm64
+  Distributed resource management - Execution Server
+
+gridengine-master/stable 8.1.9+dfsg-13.1 arm64
+  Distributed resource management - Master Server
+
+gridengine-qmon/stable 8.1.9+dfsg-13.1 arm64
+  Graphical utilities for Grid Engine queue management
+
+hdrmerge/stable 0.5+git20200117-4.1 arm64
+  HDR exposure merging
+
+hugin-tools/stable 2024.0.1+dfsg-1+b1 arm64
+  panorama photo stitcher - commandline tools
+
+kmscube/stable 0.0.0~git20210103-1+b3 arm64
+  Example KMS/GBM/EGL application
+
+kodi-inputstream-adaptive/stable 21.5.9+ds-1 arm64
+  Adaptive inputstream addon for Kodi
+
+kodi-inputstream-ffmpegdirect/stable 21.3.7+ds-2 arm64
+  FFmpegDirect inputstream addon for Kodi
+
+libdmrconf-dev/stable 0.12.1-1 arm64
+  Header files for libdmrconf
+
+libdrm-amdgpu1/stable,now 2.4.124-2 arm64 [installed,automatic]
+  Userspace interface to amdgpu-specific kernel DRM services -- runtime
+
+libdrm-common/stable,now 2.4.124-2 all [installed,automatic]
+  Userspace interface to kernel DRM services -- common files
+
+libdrm-dev/stable 2.4.124-2 arm64
+  Userspace interface to kernel DRM services -- development files
+
+libdrm-etnaviv1/stable 2.4.124-2 arm64
+  Userspace interface to etnaviv-specific kernel DRM services -- runtime
+
+libdrm-freedreno1/stable 2.4.124-2 arm64
+  Userspace interface to msm/kgsl kernel DRM services -- runtime
+
+libdrm-intel1/stable 2.4.124-2 arm64
+  Userspace interface to intel-specific kernel DRM services -- runtime
+
+libdrm-nouveau2/stable 2.4.124-2 arm64
+  Userspace interface to nouveau-specific kernel DRM services -- runtime
+
+libdrm-radeon1/stable 2.4.124-2 arm64
+  Userspace interface to radeon-specific kernel DRM services -- runtime
+
+libdrm-tegra0/stable 2.4.124-2 arm64
+  Userspace interface to tegra-specific kernel DRM services -- runtime
+
+libdrm-tests/stable 2.4.124-2 arm64
+  Testing tools from the libdrm project
+
+libdrm2/stable,now 2.4.124-2 arm64 [installed,automatic]
+  Userspace interface to kernel DRM services -- runtime
+
+libdrmaa1.0-java/stable 8.1.9+dfsg-13.1 all
+  Distributed resource management Application API library - Java bindings
+
+libdrmaa1.0-java-doc/stable 8.1.9+dfsg-13.1 all
+  Distributed resource management Application API library - Java bindings docs
+
+libdrmaa1.0-ruby/stable 8.1.9+dfsg-13.1 all
+  Distributed resource management Application API library - Ruby bindings
+
+libebook-tools-perl/stable 0.5.4-2 all
+  E-Book manipulation tool and Perl libraries
+
+libecore-drm2-1/stable 1.28.1-1 arm64
+  Ecore functions for DRM
+
+libelput1/stable 1.28.1-1 arm64
+  EFL abstraction for libinput
+
+libevas1-engines-drm/stable 1.28.1-1 arm64
+  Evas module providing the DRM engine
+
+libfaad2/stable 2.11.2-1 arm64
+  freeware Advanced Audio Decoder - runtime files
+
+libgbm-dev/stable 25.0.7-2+deb13u1 arm64
+  generic buffer management API -- development files
+
+libgbm1/stable,now 25.0.7-2+deb13u1 arm64 [installed,automatic]
+  generic buffer management API -- runtime
+
+libmobi-tools/stable 0.12+dfsg-1 arm64
+  Tools for handling Mobipocket/Kindle ebook format documents
+
+librust-drm-dev/stable 0.14.1-1 arm64
+  Safe, low-level bindings to the Direct Rendering Manager API - Rust source code
+
+librust-drm-ffi-dev/stable 0.9.0-1 arm64
+  Safe, low-level bindings to the Direct Rendering Manager API - Rust source code
+
+librust-drm-fourcc-dev/stable 2.2.0-3 arm64
+  Provides an enum with every valid Direct Rendering Manager (DRM) format fourcc - Rust source code
+
+librust-drm-sys-dev/stable 0.8.0-1 arm64
+  Bindings to the Direct Rendering Manager API - Rust source code
+
+libsrm-dev/stable 0.8.0~2-1 arm64
+  Simple Rendering Manager (development files)
+
+libsrm-examples/stable 0.8.0~2-1 arm64
+  Simple Rendering Manager (examples)
+
+libsrm0/stable 0.8.0~2-1 arm64
+  Simple Rendering Manager (shared library)
+
+libva-drm2/stable,now 2.22.0-3 arm64 [installed,automatic]
+  Video Acceleration (VA) API for Linux -- DRM runtime
+
+mesa-drm-shim/stable 25.0.7-2+deb13u1 arm64
+  DRM shim libraries
+
+python3-drms/stable 0.9.0-1 all
+  Access HMI, AIA and MDI data with Python
+
+python3-m3u8/stable 6.0.0-2 all
+  Python m3u8 parser - Python 3.x
+
+r-cran-rcmdrmisc/stable 2.9-1-1 all
+  GNU R package for miscellaneous Rcmdr utilities
+
+smifb2-dkms/stable 2.4.1-1 all
+  SiliconMotion SM750/SM768 Graphics PCI-E DRM Driver
+
+texlive-fonts-extra/stable 2024.20250309-2 all
+  TeX Live: Additional fonts
+

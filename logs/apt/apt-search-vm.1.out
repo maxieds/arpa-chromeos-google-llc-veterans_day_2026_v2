@@ -1,0 +1,2384 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+7zip/stable 25.01+dfsg-1~deb13u2 arm64
+  7-Zip file archiver with a high compression ratio
+
+activemq/stable 5.17.6+dfsg-2 all
+  Java message broker - server
+
+amazon-ec2-utils/stable 2.1.0-1.1 all
+  Utilities to manage Amazon EC2 instance storage
+
+aqemu/stable 0.9.2-5 arm64
+  Qt5 front-end for QEMU and KVM
+
+autofdo/stable 0.19-3+b2 arm64
+  AutoFDO Profile Toolchain
+
+azure-vm-utils/stable 0.6.0-2 arm64
+  Core utilities and configuration for Linux VMs on Azure
+
+bbdb3/stable 3.2.2d-3 all
+  Reboot of the BBDB Insidious Big Brother Database for Emacs
+
+beneath-a-steel-sky/stable 0.0372-9 all
+  classic 2D point and click science fiction adventure game
+
+bilibop-common/stable 0.6.5 all
+  shell functions for bilibop scripts
+
+bilibop-lockfs/stable 0.6.5 all
+  lock filesystems and write changes into RAM
+
+bootcd/stable 6.8.2 all
+  bootcd tools can copy a running or mounted Debian system.
+
+bpftrace/stable 0.23.2-1 arm64
+  high-level tracing language for Linux eBPF
+
+cargo-binutils/stable 0.3.6-2+b1 arm64
+  Proxy for LLVM tools like llvm-nm, llvm-objdump and llvm-size
+
+ceilometer-instance-poller/stable 1.0.0-2 all
+  OpenStack ceilometer instance poller
+
+ceph-volume/stable 18.2.7+ds-1+deb13u1 all
+  tool to facilidate OSD deployment
+
+cinder-api/stable 2:26.0.0-2 all
+  OpenStack block storage system - API server
+
+cinder-backup/stable 2:26.0.0-2 all
+  OpenStack block storage system - Backup server
+
+cinder-common/stable 2:26.0.0-2 all
+  OpenStack block storage system - common files
+
+cinder-doc/stable 2:26.0.0-2 all
+  OpenStack block storage system - doc
+
+cinder-scheduler/stable 2:26.0.0-2 all
+  OpenStack block storage system - Scheduler server
+
+cinder-volume/stable 2:26.0.0-2 all
+  OpenStack block storage system - Volume server
+
+clang/stable 1:19.0-63 arm64
+  C, C++ and Objective-C compiler (LLVM based), clang binary
+
+clang-17/stable 1:17.0.6-22+b2 arm64
+  C, C++ and Objective-C compiler
+
+clang-17-doc/stable 1:17.0.6-22 all
+  C, C++ and Objective-C compiler - Documentation
+
+clang-17-examples/stable 1:17.0.6-22 all
+  Clang examples
+
+clang-18/stable 1:18.1.8-18+b1 arm64
+  C, C++ and Objective-C compiler
+
+clang-18-doc/stable 1:18.1.8-18 all
+  C, C++ and Objective-C compiler - Documentation
+
+clang-18-examples/stable 1:18.1.8-18 all
+  Clang examples
+
+clang-19/stable 1:19.1.7-3+b1 arm64
+  C, C++ and Objective-C compiler
+
+clang-19-doc/stable 1:19.1.7-3 all
+  C, C++ and Objective-C compiler - Documentation
+
+clang-19-examples/stable 1:19.1.7-3 all
+  Clang examples
+
+clang-tools/stable 1:19.0-63 arm64
+  clang-based tools
+
+clang-tools-17/stable 1:17.0.6-22+b2 arm64
+  clang-based tools for C/C++ developments
+
+clang-tools-18/stable 1:18.1.8-18+b1 arm64
+  clang-based tools for C/C++ developments
+
+clang-tools-19/stable 1:19.1.7-3+b1 arm64
+  clang-based tools for C/C++ developments
+
+clisp-module-libsvm/stable 1:2.49.20241228.gitc3ec11b-2 arm64
+  GNU CLISP module that adds an interface to LIBSVM
+
+clojure/stable 1.12.0-1 all
+  Lisp dialect for the JVM
+
+cloudsql-proxy/stable 1.33.14-1+b11 arm64
+  connect securely to a 2nd generation Cloud SQL DB
+
+cockpit-storaged/stable 337-1+deb13u1 all
+  Cockpit user interface for storage
+
+collectd-core/stable 5.12.0-26 arm64
+  statistics collection and monitoring daemon (core system)
+
+condor-vm-gahp/stable 23.9.6+dfsg-2.1+b9 arm64
+  distributed workload management system - single node configuration
+
+convmv/stable 2.06+repack-1 all
+  filename encoding conversion tool
+
+cpu-checker/stable 0.7-1.4 arm64
+  tools to help evaluate certain CPU (or BIOS) features
+
+cros-vmstat-metrics/stable 0.2 all
+  Chromium OS VMStat Metrics Reporting Daemon
+
+cyborg-agent/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - processor
+
+cyborg-api/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - API server
+
+cyborg-common/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - common files
+
+cyborg-conductor/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - conductor
+
+cyborg-doc/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - Documentation
+
+davmail/stable 6.3.0.3627-1 all
+  POP/IMAP/SMTP/CalDav/LDAP to Microsoft Exchange gateway - GUI
+
+davmail-server/stable 6.3.0.3627-1 all
+  POP/IMAP/SMTP/CalDav/LDAP to Microsoft Exchange gateway - headless
+
+debian-handbook/stable 11.20220922 all
+  reference book for Debian users and system administrators
+
+debvm/stable 0.4.5+deb13u1 all
+  create and run virtual machines for various Debian releases and architectures
+
+devscripts/stable 2.25.15+deb13u1 all
+  scripts to make the life of a Debian Package maintainer easier
+
+diffoscope/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories
+
+diffoscope-minimal/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories (minimal package)
+
+disktype/stable 9-13 arm64
+  detection of content format of a disk or disk image
+
+disulfinder/stable 1.2.11-12+b1 arm64
+  cysteines disulfide bonding state and connectivity predictor
+
+dmeventd/stable 2:1.02.205-2 arm64
+  Linux Kernel Device Mapper event daemon
+
+dmsetup/stable 2:1.02.205-2 arm64
+  Linux Kernel Device Mapper userspace library
+
+dotdrop/stable 1.15.0-1 all
+  save your dotfiles once deploy them everywhere
+
+dracut-core/stable 106-6 arm64
+  dracut is an event driven initramfs infrastructure (core tools)
+
+drascula/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- English version
+
+drascula-french/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- French version
+
+drascula-german/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- German version
+
+drascula-italian/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- Italian version
+
+drascula-music/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- music files
+
+drascula-spanish/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- Spanish version
+
+elixir/stable 1.18.3.dfsg-1 arm64
+  functional meta-programming aware language
+
+elpa-ps-ccrypt/stable 1.11-5 all
+  Emacs addon for working with files encrypted with ccrypt
+
+emscripten/stable 3.1.69+dfsg-3 all
+  LLVM-to-JavaScript Compiler
+
+emscripten-doc/stable 3.1.69+dfsg-3 all
+  LLVM-to-JavaScript Compiler (documentation)
+
+enjarify/stable 1:1.0.3-5 all
+  translate Dalvik bytecode to equivalent Java bytecode
+
+entropybroker/stable 2.9-9+b1 arm64
+  infrastructure for distributing random numbers (entropy data)
+
+erlang-luerl/stable 1:1.2.3-1+b1 arm64
+  implementation of Lua in Erlang
+
+fai-setup-storage/stable 6.4.3 all
+  automatically prepare storage devices
+
+fatresize/stable 1.1.0-3 arm64
+  FAT16/FAT32 filesystem resizer
+
+fcml/stable 1.3.0-1.1+b1 arm64
+  single-line assembler and disassembler
+
+fence-agents-ovm/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Oracle VM agent
+
+fence-agents-rhevm/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - RHEV-M REST API agent
+
+fence-agents-vmware/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - VMware agent
+
+fence-agents-vmware-rest/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - VMware REST API agent
+
+fence-agents-vmware-soap/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - VMware SOAP API agent
+
+fence-agents-vmware-vcloud/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - VMware vCloud Director API agent
+
+fence-agents-zvm/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - IBM z/VM agent
+
+filecheck/stable 0.0.24+dfsg-2 all
+  Attempt to reimplement LLVM's FileCheck using Python
+
+flight-of-the-amazon-queen/stable 1.0.0-11 all
+  classic 2D point and click fantasy adventure game
+
+flvmeta/stable 1.2.2-1 arm64
+  Metadata injector for FLV video files
+
+frr/stable 10.3-3+deb13u1 arm64
+  FRRouting Internet routing protocol suite
+
+fssync/stable 1.7-1 all
+  File system synchronization tool (1-way, over SSH)
+
+fuse-convmvfs/stable 0.2.6-2.1+b1 arm64
+  mirrors a whole filesystem tree from one charset to another
+
+fuse-emulator-gtk/stable 1.6.0+dfsg1-2+b2 arm64
+  The Free Unix Spectrum Emulator (GTK version)
+
+fuse-emulator-sdl/stable 1.6.0+dfsg1-2+b2 arm64
+  The Free Unix Spectrum Emulator (SDL version)
+
+fusioninventory-agent/stable 1:2.6-4 all
+  hardware and software inventory tool (client)
+
+ganeti/stable 3.1.0~rc2-3 all
+  cluster virtualization manager
+
+ganeti-3.1/stable 3.1.0~rc2-3 all
+  cluster virtualization manager - Python components
+
+ganeti-doc/stable 3.1.0~rc2-3 all
+  cluster virtualization manager - documentation
+
+ganeti-haskell-3.1/stable 3.1.0~rc2-3 arm64
+  cluster virtualization manager - Haskell components
+
+ganeti-htools/stable 3.1.0~rc2-3 all
+  cluster virtualization manager - tools (stand-alone)
+
+ganeti-htools-3.1/stable 3.1.0~rc2-3 arm64
+  cluster virtualization manager - tools for Ganeti 3.1
+
+ganeti-os-noop/stable 0.2-5 all
+  Dummy no-op OS provider for Ganeti
+
+ganeti-testsuite/stable 3.1.0~rc2-3 all
+  cluster virtualization manager - test suite
+
+gargoyle-free/stable 2023.1+dfsg-4+b3 arm64
+  graphical player for Interactive Fiction games
+
+ghdl/stable 5.0.1+dfsg-1+b1 arm64
+  VHDL compiler/simulator
+
+ghdl-llvm/stable 5.0.1+dfsg-1+b1 arm64
+  VHDL compiler/simulator (LLVM backend)
+
+gir1.2-govirt-1.0/stable 0.3.9-6 arm64
+  GObject introspection data for libgovirt
+
+glulxe/stable 0.6.1-1 arm64
+  Interpreter for glulx interactive fiction
+
+golang-github-denisbrodbeck-machineid-dev/stable 1.0.1-2 all
+  Get the unique machine id of any host (Go library)
+
+golang-github-foxboron-go-uefi-dev/stable 0.0~git20250207.69fb7db-2 all
+  Linux UEFI library written in pure Go (library)
+
+golang-github-gomarkdown-markdown-dev/stable 0.0~git20231115.a660076-1 all
+  Markdown parser and HTML renderer for Go
+
+golang-github-hmrc-vmware-govcd-dev/stable 0.0.2+git20190404.eea2584-3 all
+  vCloud Air API bindings for Golang
+
+golang-github-kata-containers-govmm-dev/stable 0.0~git20211108.e438cc5-1 all
+  Provide Go APIs for creating and managing virtual machines
+
+golang-github-mdlayher-vsock-dev/stable 1.2.1-2 all
+  Vsock provides access to Linux VM sockets (AF_VSOCK)
+
+golang-github-minio-crc64nvme-dev/stable 1.0.1-2 all
+  CRC64 checksums using carryless-multiplication accelerated with SIMD (library)
+
+golang-github-quobyte-api-dev/stable 0.0~git20160913.0.bf713b5-1.1 all
+  Quobyte API client for Go
+
+golang-github-vmihailenco-msgpack.v5-dev/stable 5.4.1-1 all
+  MessagePack (msgpack.org) encoding for Golang (library)
+
+golang-github-vmihailenco-tagparser-dev/stable 0.1.1-4 all
+  Golang tag parser
+
+golang-github-vmihailenco-tagparser.v2-dev/stable 2.0.0-2 all
+  Opinionated Golang tag parser (library)
+
+golang-github-vmware-govmomi-dev/stable 0.24.2-4 all
+  Go library for the VMware vSphere API
+
+golang-github-vmware-photon-controller-go-sdk-dev/stable 0.0~PROMOTED-339-1.1 all
+  VMware Photon Controller API library
+
+golang-github-vmware-vmw-ovflib-dev/stable 0.0~git20200204.53a0e9f-2 all
+  parse Open Virtualization Format (OVF) environment in Go (library)
+
+golang-github-xanzy-go-cloudstack-dev/stable 2.9.0-1 all
+  Golang API client to interact with Apache CloudStack
+
+golang-github-yuin-gopher-lua-dev/stable 0.0~git20170915.0.eb1c729-5 all
+  virtual machine and compiler for Lua in Go
+
+golang-gopkg-vmihailenco-msgpack.v2-dev/stable 4.3.1-2 all
+  Msgpack encoding for Golang
+
+gpart/stable 1:0.3-10+b1 arm64
+  Guess PC disk partition table, find lost partitions
+
+gradle/stable 4.4.1-22 all
+  Powerful build system for the JVM
+
+gradle-doc/stable 4.4.1-22 all
+  Powerful build system for the JVM - Documentations
+
+groovy/stable 2.4.21-10 all
+  Agile dynamic language for the Java Virtual Machine
+
+groovy-doc/stable 2.4.21-10 all
+  Agile dynamic language for the Java Virtual Machine (documentation)
+
+gxemul/stable 0.7.0+dfsg-2 arm64
+  machine emulator for multiple architectures
+
+herisvm/stable 0.9.0-2 all
+  machine learning tools for classification algorithms
+
+hydra/stable 9.5-3 arm64
+  very fast network logon cracker
+
+ibverbs-providers/stable 56.1-1 arm64
+  User space provider drivers for libibverbs
+
+ifstat/stable 1.1.1-2+b2 arm64
+  InterFace STATistics Monitoring
+
+ikvswitch/stable 1.0.4+deb13u1 all
+  virtual switch infrastructure designed for complex network deployment testing
+
+ima-evm-utils/stable 1.5-2 arm64
+  Linux IMA Extended Verification Module signing tools
+
+imvirt/stable 0.9.6-13 all
+  detects several virtualizations
+
+imvirt-helper/stable 0.9.6-13 arm64
+  helper programs to detect several virtualizations
+
+incus/stable 6.0.4-2+deb13u8 arm64
+  Powerful system container and virtual machine manager - daemon
+
+interception-tools/stable 0.6.8-3+b5 arm64
+  minimal composable infrastructure on top of libudev and libevdev
+
+iotop/stable 0.6-42-ga14256a-0.3+b1 arm64
+  simple top-like I/O monitor
+
+iotop-c/stable 1.30-1 arm64
+  simple top-like I/O monitor (implemented in C)
+
+ironic-neutron-agent/stable 6.5.0-2 all
+  OpenStack virtual network service - Ironic agent
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+jam/stable 2.6.1-2.1 arm64
+  Software-build tool, replacement for make
+
+jarwrapper/stable 0.80 all
+  Run executable Java .jar files
+
+jattach/stable 2.2-1+b1 arm64
+  JVM Dynamic Attach utility all in one jmap jstack jcmd jinfo
+
+javahelper/stable 0.80 all
+  Helper scripts for packaging Java programs
+
+jruby/stable 9.4.8.0+ds-3 all
+  100% pure-Java implementation of Ruby
+
+jsxgraph/stable 1.10.1+dfsg1-1 all
+  Interactive Geometry with JavaScript
+
+junit5/stable 5.10.3-1 all
+  JUnit regression test framework for Java
+
+kafkacat/stable 1.7.1-3 all
+  producer and consumer for Apache Kafka (transitional package)
+
+kcat/stable 1.7.1-3+b1 arm64
+  producer and consumer for Apache Kafka
+
+kdump-tools/stable 1:1.10.7 arm64
+  scripts and tools for automating kdump (Linux crash dumps)
+
+kotlin/stable 1.3.31+ds1-3 all
+  cross-platform, general-purpose programming language
+
+ksmtuned/stable 4.20150326+nmu1+b1 arm64
+  enables and tunes Kernel Samepage Merging
+
+last-align/stable 1609-1+b1 arm64
+  genome-scale comparison of biological sequences
+
+ldc/stable 1:1.40.0-5 arm64
+  LLVM D Compiler
+
+lfortran/stable 0.45.0-1+b3 arm64
+  Modern interactive LLVM-based Fortran compiler
+
+libactivemq-java/stable 5.17.6+dfsg-2 all
+  Java message broker core libraries
+
+libalgorithm-naivebayes-perl/stable 0.04-2 all
+  module to make bayesian prediction of categories
+
+libalgorithm-svm-perl/stable 0.13-4+b3 arm64
+  bindings for the libsvm Support Vector Machine library
+
+libamd-comgr-dev/stable 6.0+git20231212.4510c28+dfsg-3+b2 arm64
+  ROCm code object manager - development package
+
+libamd-comgr2/stable 6.0+git20231212.4510c28+dfsg-3+b2 arm64
+  ROCm code object manager
+
+libauthen-dechpwd-perl/stable 2.007-1~2+b4 arm64
+  Perl module for DEC VMS password hashing
+
+libaws-signature4-perl/stable 1.02-3 all
+  module to create a version4 signature for Amazon Web Services
+
+libbcel-java/stable 6.10.0-1 all
+  Analyze, create, and manipulate (binary) Java class files
+
+libbeckon-clojure/stable 0.1.1-2 all
+  handle POSIX signals in Clojure
+
+libblockdev-dev/stable 3.3.0-2.1 arm64
+  Library for manipulating block devices - development
+
+libblockdev-lvm-dbus-dev/stable 3.3.0-2.1 arm64
+  LVM DBus plugin for libblockdev - development
+
+libblockdev-lvm-dbus3/stable 3.3.0-2.1 arm64
+  LVM DBus plugin for libblockdev
+
+libblockdev-lvm-dev/stable 3.3.0-2.1 arm64
+  LVM plugin for libblockdev - development
+
+libblockdev-lvm3/stable 3.3.0-2.1 arm64
+  LVM plugin for libblockdev
+
+libblockdev-nvme-dev/stable 3.3.0-2.1 arm64
+  NVMe plugin for libblockdev - development
+
+libblockdev-nvme3/stable 3.3.0-2.1 arm64
+  NVMe plugin for libblockdev
+
+libblockdev-plugins-all/stable 3.3.0-2.1 arm64
+  All plugins for libblockdev
+
+libblockdev3/stable 3.3.0-2.1 arm64
+  Library for manipulating block devices
+
+libbyteman-java/stable 4.0.20-1 all
+  Java agent-based bytecode injection tool
+
+libc++-17-dev/stable 1:17.0.6-22+b2 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-17-dev-wasm32/stable 1:17.0.6-22 all
+  LLVM C++ Standard library (WASI)
+
+libc++-18-dev/stable 1:18.1.8-18+b1 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-18-dev-wasm32/stable 1:18.1.8-18 all
+  LLVM C++ Standard library (WASI)
+
+libc++-19-dev/stable 1:19.1.7-3+b1 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-19-dev-wasm32/stable 1:19.1.7-3 all
+  LLVM C++ Standard library (WASI)
+
+libc++-dev/stable 1:19.0-63 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-dev-wasm32/stable 1:19.0-63 arm64
+  LLVM C++ Standard library (WASI)
+
+libc++1/stable 1:19.0-63 arm64
+  LLVM C++ Standard library
+
+libc++1-17t64/stable 1:17.0.6-22+b2 arm64
+  LLVM C++ Standard library
+
+libc++1-18/stable 1:18.1.8-18+b1 arm64
+  LLVM C++ Standard library
+
+libc++1-19/stable 1:19.1.7-3+b1 arm64
+  LLVM C++ Standard library
+
+libc++abi-17-dev/stable 1:17.0.6-22+b2 arm64
+  LLVM low level support for a standard C++ library (development files)
+
+libc++abi-17-dev-wasm32/stable 1:17.0.6-22 all
+  LLVM low level support for a standard C++ library (WASI)
+
+libc++abi-18-dev/stable 1:18.1.8-18+b1 arm64
+  LLVM low level support for a standard C++ library (development files)
+
+libc++abi-18-dev-wasm32/stable 1:18.1.8-18 all
+  LLVM low level support for a standard C++ library (WASI)
+
+libc++abi-19-dev/stable 1:19.1.7-3+b1 arm64
+  LLVM low level support for a standard C++ library (development files)
+
+libc++abi-19-dev-wasm32/stable 1:19.1.7-3 all
+  LLVM low level support for a standard C++ library (WASI)
+
+libc++abi-dev/stable 1:19.0-63 arm64
+  LLVM low level support for a standard C++ library (development files)
+
+libc++abi1/stable 1:19.0-63 arm64
+  LLVM low level support for a standard C++ library
+
+libc++abi1-17t64/stable 1:17.0.6-22+b2 arm64
+  LLVM low level support for a standard C++ library
+
+libc++abi1-18/stable 1:18.1.8-18+b1 arm64
+  LLVM low level support for a standard C++ library
+
+libc++abi1-19/stable 1:19.1.7-3+b1 arm64
+  LLVM low level support for a standard C++ library
+
+libcapstone5/stable 5.0.7-1~deb13u1 arm64
+  lightweight multi-architecture disassembly framework - library
+
+libcarrotsearch-hppc-java/stable 0.7.2-2 all
+  High Performance Primitive Collections for Java
+
+libcarrotsearch-randomizedtesting-java/stable 2.7.9-1 all
+  Randomized testing infrastructure for JUnit, Ant and Maven
+
+libcava-java/stable 0.6.0-2 all
+  Libraries and tools for blockchain and decentralized software
+
+libclang-17-dev/stable 1:17.0.6-22+b2 arm64
+  Clang library - Development package
+
+libclang-18-dev/stable 1:18.1.8-18+b1 arm64
+  Clang library - Development package
+
+libclang-19-dev/stable 1:19.1.7-3+b1 arm64
+  Clang library - Development package
+
+libclang-common-17-dev/stable 1:17.0.6-22+b2 arm64
+  Clang library - Common development package
+
+libclang-common-18-dev/stable 1:18.1.8-18+b1 arm64
+  Clang library - Common development package
+
+libclang-common-19-dev/stable 1:19.1.7-3+b1 arm64
+  Clang library - Common development package
+
+libclang-cpp-dev/stable 1:19.0-63 arm64
+  C++ interface to the clang library
+
+libclang-cpp17-dev/stable 1:17.0.6-22+b2 arm64
+  C++ interface to the Clang library
+
+libclang-cpp17t64/stable 1:17.0.6-22+b2 arm64
+  C++ interface to the Clang library
+
+libclang-cpp18/stable 1:18.1.8-18+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp18-dev/stable 1:18.1.8-18+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp19/stable 1:19.1.7-3+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp19-dev/stable 1:19.1.7-3+b1 arm64
+  C++ interface to the Clang library
+
+libclang-dev/stable 1:19.0-63 arm64
+  clang library - Development package
+
+libclang-perl/stable 0.09-6+b7 arm64
+  Perl bindings to the Clang compiler's indexing interface
+
+libclang1/stable 1:19.0-63 arm64
+  C, C++ and Objective-C compiler (LLVM based)
+
+libclang1-17t64/stable 1:17.0.6-22+b2 arm64
+  C interface to the Clang library
+
+libclang1-18/stable 1:18.1.8-18+b1 arm64
+  C interface to the Clang library
+
+libclang1-19/stable 1:19.1.7-3+b1 arm64
+  C interface to the Clang library
+
+libclojure-java/stable 1.12.0-1 all
+  Lisp dialect for the JVM (library)
+
+libcode-tidyall-plugin-clangformat-perl/stable 0.0.2-2 all
+  module to run clang-format using Code::TidyAll
+
+libcommons-discovery-java/stable 0.5-4 all
+  Locates classes that implement a given Java interface
+
+libcommons-exec-java/stable 1.3-3 all
+  Java library to reliably execute external processes from within the JVM
+
+libcommons-rdf-java/stable 0.5.0-2 all
+  type-safe, non-general API that covers RDF 1.1
+
+libcompile-command-annotations-java/stable 1.2.3-1 all
+  annotation based configuration file generator for the Hotspot JVM JIT compiler
+
+libcreal-ocaml-dev/stable 0.7-8+b2 arm64
+  O'Caml library that implements exact real arithmetic
+
+libcrypto++-dev/stable 8.9.0-2 arm64
+  General purpose cryptographic library - C++ development
+
+libcrypto++-doc/stable 8.9.0-2 all
+  General purpose cryptographic library - documentation
+
+libcrypto++-utils/stable 8.9.0-2 arm64
+  General purpose cryptographic library - utilities and data files
+
+libdevmapper-dev/stable 2:1.02.205-2 arm64
+  Linux Kernel Device Mapper header files
+
+libdevmapper-event1.02.1/stable 2:1.02.205-2 arm64
+  Linux Kernel Device Mapper event support library
+
+libdevmapper1.02.1/stable 2:1.02.205-2 arm64
+  Linux Kernel Device Mapper userspace library
+
+libdropwizard-metrics-java/stable 3.2.6-1 all
+  capture JVM- and application-level metrics for Java applications
+
+libdvdnav-dev/stable 6.1.1-3+b1 arm64
+  DVD navigation library (development)
+
+libdvdnav-doc/stable 6.1.1-3 all
+  DVD navigation library (documentation)
+
+libdvdnav4/stable 6.1.1-3+b1 arm64
+  DVD navigation library
+
+libdynalang-java/stable 0.4-5 all
+  JVM Dynamic Languages Metaobject Protocol
+
+libeclipse-jdt-debug-java/stable 3.21.100+eclipse4.29-1 all
+  Eclipse JDI Debug Model
+
+libeclipse-jdt-debug-ui-java/stable 3.13.100+eclipse4.29-1 all
+  Eclipse JDI Debug UI
+
+libeclipse-jdt-launching-java/stable 3.20.100+eclipse4.29-1 all
+  Eclipse Java Development Tools Launching Support
+
+libexec-maven-plugin-java/stable 3.1.0-2 all
+  Exec Maven Plugin
+
+libfcml-dev/stable 1.3.0-1.1+b1 arm64
+  machine code manipulation library - development files
+
+libfcml-doc/stable 1.3.0-1.1 all
+  machine code manipulation library - documentation
+
+libfcml0t64/stable 1.3.0-1.1+b1 arm64
+  machine code manipulation library
+
+libfile-wildcard-perl/stable 0.11-4 all
+  Enhanced glob processing
+
+libfuzzer-17-dev/stable 1:17.0.6-22+b2 arm64
+  Library for coverage-guided fuzz testing
+
+libfuzzer-18-dev/stable 1:18.1.8-18+b1 arm64
+  Library for coverage-guided fuzz testing
+
+libfuzzer-19-dev/stable 1:19.1.7-3+b1 arm64
+  Library for coverage-guided fuzz testing
+
+libgovirt-common/stable 0.3.9-6 all
+  GObject-based library to access oVirt REST API (common files)
+
+libgovirt-dev/stable 0.3.9-6 arm64
+  GObject-based library to access oVirt REST API (dev files)
+
+libgovirt2/stable 0.3.9-6 arm64
+  GObject-based library to access oVirt REST API
+
+libgradle-core-java/stable 4.4.1-22 all
+  Powerful build system for the JVM - Core libraries
+
+libgradle-plugins-java/stable 4.4.1-22 all
+  Powerful build system for the JVM - All plugins
+
+libgrengine-java/stable 3.1.0+dfsg-1 all
+  engine for running and embedding Groovy in a Java virtual machine
+
+libguestfs0t64/stable 1:1.54.1-2+deb13u1 arm64
+  guest disk image management system - shared library
+
+libheadius-options-java/stable 1.7-1 all
+  Java library for JVM property-driven configuration
+
+libheadius-options-java-doc/stable 1.7-1 all
+  Documentation for headius-options
+
+libhtml-widgets-navmenu-perl/stable 1.1000-1 all
+  module for generating HTML navigation menus
+
+libimaevm-dev/stable 1.5-2 arm64
+  Linux IMA Extended Verification Module signing tools - development files
+
+libimaevm4/stable 1.5-2 arm64
+  Linux IMA Extended Verification Module signing tools - library
+
+libimvirt-perl/stable 0.9.6-13 all
+  Perl module for detecting several virtualizations
+
+libisfreetype-java/stable 5.3.20100629-4 all
+  Java wrapper for FreeType font handling library
+
+libjackson2-annotations-java/stable 2.14.0-1 all
+  fast and powerful JSON library for Java -- annotations
+
+libjackson2-annotations-java-doc/stable 2.14.0-1 all
+  Documentation for Jackson-annotations
+
+libjackson2-core-java/stable 2.14.1-2~deb13u1 all
+  fast and powerful JSON library for Java -- core library
+
+libjackson2-databind-java/stable 2.14.0+ds-1+deb13u1 all
+  fast and powerful JSON library for Java -- data binding
+
+libjackson2-dataformat-cbor/stable 2.7.8-5.1 all
+  Jackson data format module for RfC7049 Concise Binary Object Representation
+
+libjackson2-dataformat-smile/stable 2.7.8-5+deb13u1 all
+  fast and powerful JSON library for Java -- Smile dataformat
+
+libjackson2-dataformat-yaml/stable 2.8.11-4 all
+  fast and powerful JSON library for Java -- YAML dataformat
+
+libjackson2-datatype-joda-java/stable 2.12.1-2 all
+  fast and powerful JSON library for Java -- Joda datatypes
+
+libjamm-java/stable 0.4.0-2 all
+  Java Agent for Memory Measurements
+
+libjamm-java-doc/stable 0.4.0-2 all
+  Documentation for Java Agent for Memory Measurements
+
+libjava-allocation-instrumenter-java/stable 3.1.0-3 all
+  JVM agent tracking memory allocations
+
+libjavassist-java/stable 1:3.27.0-1 all
+  library for editing bytecodes in Java
+
+libjavassist-java-doc/stable 1:3.27.0-1 all
+  library for editing bytecodes in Java -- documentation
+
+libjctools-java/stable 4.0.5+dfsg-1 all
+  Java Concurrency Tools for the JVM
+
+libjitescript-java/stable 0.4.3-1 all
+  Java API for generating JVM bytecode
+
+libjlapack-java/stable 0.8~dfsg-6 all
+  LAPACK numerical subroutines translated from their Fortran 77 source
+
+libjmagick7-jni/stable 6.7.8-5 arm64
+  Java interface to ImageMagick (native library)
+
+libjs-raphael/stable 2.3.0-4 all
+  JavaScript library to work with vector graphics
+
+libjs-spin.js/stable 1.2.8+dfsg2-1.1 all
+  animated CSS3 loading spinner
+
+libknopflerfish-osgi-framework-java/stable 6.1.1-4 all
+  Java framework implementing the OSGi R6 version
+
+libkotlinx-coroutines-java/stable 1.0.1-2 all
+  Library support for Kotlin coroutines
+
+liblfortran-dev/stable 0.45.0-1+b3 arm64
+  flang library - Development package.
+
+liblfortran-runtime0/stable 0.45.0-1+b3 arm64
+  Runtime libraries for the lfortran compiler
+
+liblinear-dev/stable 2.3.0+dfsg-5+b2 arm64
+  Development libraries and header files for LIBLINEAR
+
+liblinear-tools/stable 2.3.0+dfsg-5+b2 arm64
+  Standalone applications for LIBLINEAR
+
+liblinear4/stable 2.3.0+dfsg-5+b2 arm64
+  Library for Large Linear Classification
+
+liblinux-lvm-perl/stable 0.17-4 all
+  Perl module to access LVM status information
+
+liblld-17/stable 1:17.0.6-22+b2 arm64
+  LLVM-based linker, library
+
+liblld-17-dev/stable 1:17.0.6-22+b2 arm64
+  LLVM-based linker, header files
+
+liblld-18/stable 1:18.1.8-18+b1 arm64
+  LLVM-based linker, library
+
+liblld-18-dev/stable 1:18.1.8-18+b1 arm64
+  LLVM-based linker, header files
+
+liblld-19/stable 1:19.1.7-3+b1 arm64
+  LLVM-based linker, library
+
+liblld-19-dev/stable 1:19.1.7-3+b1 arm64
+  LLVM-based linker, header files
+
+liblld-dev/stable 1:19.0-63 arm64
+  LLVM-based linker, library
+
+liblldb-17-dev/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger, header files
+
+liblldb-17t64/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger, library
+
+liblldb-18/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger, library
+
+liblldb-18-dev/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger, header files
+
+liblldb-19/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger, library
+
+liblldb-19-dev/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger, header files
+
+liblldb-dev/stable 1:19.0-63 arm64
+  Next generation, high-performance debugger, header files
+
+libllvm-17-ocaml-dev/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies, OCaml bindings
+
+libllvm-18-ocaml-dev/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies, OCaml bindings
+
+libllvm-19-ocaml-dev/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies, OCaml bindings
+
+libllvm-ocaml-dev/stable 1:19.0-63 arm64
+  Modular compiler and toolchain technologies, bindings for OCaml
+
+libllvm17t64/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies, runtime library
+
+libllvm18/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies, runtime library
+
+libllvm19/stable,now 1:19.1.7-3+b1 arm64 [installed,automatic]
+  Modular compiler and toolchain technologies, runtime library
+
+libllvmlibc-18-dev/stable 1:18.1.8-18+b1 arm64
+  LLVM C Library - dev package
+
+libllvmlibc-19-dev/stable 1:19.1.7-3+b1 arm64
+  LLVM C Library - dev package
+
+libllvmspirvlib-17-dev/stable 17.0.11-1 arm64
+  bi-directional translator for LLVM/SPIRV -- development files
+
+libllvmspirvlib-18-dev/stable 18.1.11-1 arm64
+  bi-directional translator for LLVM/SPIRV -- development files
+
+libllvmspirvlib-19-dev/stable 19.1.6-1 arm64
+  bi-directional translator for LLVM/SPIRV -- development files
+
+libllvmspirvlib17/stable 17.0.11-1 arm64
+  bi-directional translator for LLVM/SPIRV -- shared library
+
+libllvmspirvlib18.1/stable 18.1.11-1 arm64
+  bi-directional translator for LLVM/SPIRV -- shared library
+
+libllvmspirvlib19.1/stable 19.1.6-1 arm64
+  bi-directional translator for LLVM/SPIRV -- shared library
+
+liblombok-patcher-java/stable 0.50-1 all
+  live-rewrite classes as a JVM runs
+
+libluajit-5.1-2/stable 2.1.0+openresty20250117-2 arm64
+  OpenResty-maintained branch of LuaJIT (shared objects)
+
+liblvm2-dev/stable 2.03.31-2 arm64
+  LVM2 libraries - development files
+
+liblvm2cmd2.03/stable 2.03.31-2 arm64
+  LVM2 command library
+
+libmaven-exec-plugin-java/stable 3.1.0-2 all
+  Exec Maven Plugin (transitional package)
+
+libmetrics-clojure/stable 2.9.0-3 all
+  Clojure wrapper for Coda Hale's metrics library
+
+libmina2-java/stable 2.2.1-4 all
+  Java network application framework
+
+libmultiverse-core-java/stable 0.7.0-6 all
+  Java library implementing Software Transactional Memory (STM)
+
+libnetx-java/stable 0.5-4 all
+  An open-source JNLP client
+
+libnvme-dev/stable 1.13-2 arm64
+  NVMe management library (development)
+
+libnvme1t64/stable 1.13-2 arm64
+  NVMe management library (library)
+
+libocas-dev/stable 0.97+dfsg-8+b2 arm64
+  Development libraries and header files for LIBOCAS
+
+libocas-tools/stable 0.97+dfsg-8+b2 arm64
+  Standalone applications implementing the OCAS solver
+
+libocas0/stable 0.97+dfsg-8+b2 arm64
+  OCAS solver for training linear SVM classifiers
+
+libomp-17-dev/stable 1:17.0.6-22+b2 arm64
+  LLVM OpenMP runtime - dev package
+
+libomp-17-doc/stable 1:17.0.6-22 all
+  LLVM OpenMP runtime - Documentation
+
+libomp-18-dev/stable 1:18.1.8-18+b1 arm64
+  LLVM OpenMP runtime - dev package
+
+libomp-18-doc/stable 1:18.1.8-18 all
+  LLVM OpenMP runtime - Documentation
+
+libomp-19-dev/stable 1:19.1.7-3+b1 arm64
+  LLVM OpenMP runtime - dev package
+
+libomp-19-doc/stable 1:19.1.7-3 all
+  LLVM OpenMP runtime - Documentation
+
+libomp-dev/stable 1:19.0-63 arm64
+  LLVM OpenMP runtime - dev package
+
+libomp5/stable 1:19.0-63 arm64
+  LLVM OpenMP runtime
+
+libomp5-17t64/stable 1:17.0.6-22+b2 arm64
+  LLVM OpenMP runtime
+
+libomp5-18/stable 1:18.1.8-18+b1 arm64
+  LLVM OpenMP runtime
+
+libomp5-19/stable 1:19.1.7-3+b1 arm64
+  LLVM OpenMP runtime
+
+libonemind-commons-invoke-java/stable 1.1.0+cvs20090227-6 all
+  Java invocation framework library
+
+libopenhft-chronicle-core-java/stable 2.17.5-v1.1.8-3 all
+  OpenHFT core library
+
+libopenslide-dev/stable 3.4.1+dfsg-7+deb13u1 arm64
+  Development files for the OpenSlide library
+
+libopenslide0/stable 3.4.1+dfsg-7+deb13u1 arm64
+  library for reading whole slide image files
+
+libopentest4j-java/stable 1.2.0-4 all
+  Open Test Alliance API
+
+libpath-class-perl/stable 0.37-4 all
+  module for cross-platform path specification manipulation
+
+libperfmark-java/stable 0.21.0+ds-3 all
+  High Performance Tracing Library for Java
+
+libphobos2-ldc-shared-dev/stable 1:1.40.0-5 arm64
+  LLVM D Compiler - Standard and runtime libraries, imports
+
+libphobos2-ldc-shared110/stable 1:1.40.0-5 arm64
+  LLVM D Compiler - Standard and runtime libraries
+
+libplume-util-java/stable 1.1.0+ds-1 all
+  Plume-lib utility libraries for Java
+
+libpolyglot-maven-java/stable 0.8~tobrien+git20120905-10 all
+  modules to enable Maven usage in others JVM languages
+
+libpolyglot-maven-java-doc/stable 0.8~tobrien+git20120905-10 all
+  modules to enable Maven usage in others JVM languages - docs
+
+libpsych-java/stable 5.0.2-3 all
+  ruby-psych Java extension
+
+libpuppetlabs-i18n-clojure/stable 0.9.2-2 all
+  Clojure i18n library
+
+libpython3-all-dbg/stable 3.13.5-1 arm64
+  package depending on all supported Python 3 debugging packages
+
+libpython3-all-dev/stable 3.13.5-1 arm64
+  package depending on all supported Python 3 development packages
+
+libraynes-fs-clojure/stable 1.5.2-1 all
+  filesystem utility library for Clojure
+
+libreactive-streams-java/stable 1.0.3-1 all
+  Standard for asynchronous stream processing with non-blocking backpressure
+
+librte-bus-vmbus25/stable 24.11.4-0+deb13u1 arm64
+  Data Plane Development Kit (librte-bus-vmbus runtime library)
+
+librte-net-vmxnet3-25/stable 24.11.4-0+deb13u1 arm64
+  Data Plane Development Kit (librte-net-vmxnet3 runtime library)
+
+librte-power-kvm-vm25/stable 24.11.4-0+deb13u1 arm64
+  Data Plane Development Kit (librte-power-kvm-vm runtime library)
+
+librust-cargo-binutils-dev/stable 0.3.6-2+b1 arm64
+  Proxy for LLVM tools like llvm-nm, llvm-objdump and llvm-size - Rust source code
+
+librust-kvm-bindings-dev/stable 0.10.0-2 arm64
+  Rust FFI bindings to KVM generated using bindgen - Rust source code
+
+librust-kvm-ioctls-dev/stable 0.19.1-1 arm64
+  Safe wrappers over KVM ioctls - Rust source code
+
+librust-llvm-bitcode-dev/stable 0.1.2-1+b2 arm64
+  LLVM Bitcode parser in Rust - Rust source code
+
+librust-nvml-wrapper-dev/stable 0.10.0-1 arm64
+  Safe and ergonomic Rust wrapper for the NVIDIA Management Library - Rust source code
+
+librust-nvml-wrapper-sys-dev/stable 0.8.0-1 arm64
+  Generated bindings to the NVIDIA Management Library - Rust source code
+
+librust-pest-vm-dev/stable 2.7.14-1+b2 arm64
+  Pest grammar virtual machine - Rust source code
+
+librust-vm-memory-dev/stable 0.16.1-4 arm64
+  Safe abstractions for accessing the VM physical memory - Rust source code
+
+librust-vm-superio-dev/stable 0.7.0-2+b2 arm64
+  Emulation for legacy devices - Rust source code
+
+librust-vmm-sys-util-dev/stable 0.12.1-2 arm64
+  System utility set - Rust source code
+
+librust-wrapcenum-derive-dev/stable 0.4.0-3+b2 arm64
+  Derive macro for nvml-wrapper, not for general use - Rust source code
+
+librx-java/stable 3.1.5-1 all
+  Reactive Extensions for the JVM
+
+libsanlock-client1/stable 3.9.5-1 arm64
+  Shared storage lock manager (client library)
+
+libsanlock-dev/stable 3.9.5-1 arm64
+  Shared storage lock manager (development files)
+
+libsanlock1/stable 3.9.5-1 arm64
+  Shared storage lock manager (shared library)
+
+libsejda-eventstudio-java/stable 3.0.4-1 all
+  pure Java event bus implementation
+
+libserp-java/stable 1.15.1-2 all
+  Java Virtual Machine bytecode manipulation framework
+
+libserp-java-doc/stable 1.15.1-2 all
+  Documentation for libserp-java
+
+libservice-wrapper-doc/stable 3.5.51-2 all
+  Jar daemon wrapper (javadoc files)
+
+libservice-wrapper-java/stable 3.5.51-2 all
+  Jar daemon wrapper java libraries
+
+libservice-wrapper-jni/stable 3.5.51-2 arm64
+  Jar daemon wrapper JNI libraries
+
+libshimdandy-java/stable 1.2.1-1.1 all
+  Shim wrapping multiple Clojure runtimes into the same JVM
+
+libsmali-java/stable 2.5.2.git2771eae-4 all
+  assembler/disassembler for Android's dex format
+
+libsocket-msghdr-perl/stable 0.05-2+b4 arm64
+  sendmsg, recvmsg and ancillary data operations
+
+libssl-utils-clojure/stable 3.5.3-2 all
+  library for SSL certificate management on the JVM
+
+libstarpu-openmp-llvm-1.4-1t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libsvm-dev/stable 3.24+ds-6.1 arm64
+  LIBSVM header files
+
+libsvm-java/stable 3.24+ds-6.1 all
+  Java API to support vector machine library (libsvm.jar)
+
+libsvm-tools/stable 3.24+ds-6.1 arm64
+  LIBSVM binary tools
+
+libsvm3/stable 3.24+ds-6.1 arm64
+  library implementing support vector machines
+
+libsvm3-java/stable 3.24+ds-6.1 all
+  Java API to support vector machine library (libsvm3.jar)
+
+libsvmloc-dev/stable 1.0+dfsg-7 arm64
+  PSORTb adapted library for svm machine-learning library (dev)
+
+libsvmloc0/stable 1.0+dfsg-7 arm64
+  PSORTb adapted library for svm machine-learning library
+
+libsystem-info-perl/stable 0.066-1 all
+  package to obtain basic system information
+
+libtakari-polyglot-groovy-java/stable 0.4.11-3 all
+  modules to enable Maven usage in others JVM languages - groovy extension
+
+libtakari-polyglot-maven-java/stable 0.4.11-3 all
+  modules to enable Maven usage in others JVM languages - common extension
+
+libtakari-polyglot-maven-plugin-java/stable 0.4.11-3 all
+  modules to enable Maven usage in others JVM languages - maven plugin
+
+libtakari-polyglot-ruby-java/stable 0.4.11-3 all
+  modules to enable Maven usage in others JVM languages - ruby extension
+
+libtemplate-plugin-digest-md5-perl/stable 0.05-2 all
+  interface to the MD5 Algorithm for the Template Toolkit
+
+libtools-analyzer-jvm-clojure/stable 1.2.3-1 all
+  analyzer for Clojure code providing additional jvm-specific passes
+
+libtools-deps-clojure/stable 0.21.1460-5 all
+  API for transitive dependency graph expansion, classpath creation
+
+libtypesafe-config-java/stable 1.3.1-2.1 all
+  configuration library for JVM languages
+
+libtypesafe-config-java-doc/stable 1.3.1-2.1 all
+  configuration library for JVM languages - documentation
+
+libvavr0-java/stable 0.10.3-2 all
+  object-functional language extension for Java
+
+libvdeplug-vlan/stable 0.1.0-2+b2 arm64
+  libvdeplug nested plugin: VLAN
+
+libvirglrenderer-dev/stable 1.1.0-2 arm64
+  virtual GPU for KVM virtualization - headers
+
+libvirglrenderer1/stable 1.1.0-2 arm64
+  virtual GPU for KVM virtualization
+
+libvirt-daemon-driver-storage-logical/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - Logical Volume Manager (LVM) storage driver
+
+libvirt-dbus/stable 1.4.1-4 arm64
+  libvirt D-Bus API bindings
+
+libvirt-ocaml/stable 0.6.1.5-2+b4 arm64
+  OCaml bindings for libvirt (runtime)
+
+libvirt-ocaml-dev/stable 0.6.1.5-2+b4 arm64
+  OCaml bindings for libvirt (development files)
+
+libvisualvm-jni/stable 2.1.10-1 arm64
+  All-in-One Java Troubleshooting Tool (JNI libraries)
+
+libvm-ec2-perl/stable 1.28-5 all
+  module providing controls on Amazon EC2 and Eucalyptus
+
+libvm-ec2-security-credentialcache-perl/stable 0.25-1 all
+  EC2 credential cache respecting expiration time for IAM roles
+
+libvmatch-dev/stable 2.3.1+dfsg-9+b2 arm64
+  development headers and static library for Vmatch
+
+libvmdk-dev/stable 20240510-1+b1 arm64
+  VMWare Virtual Disk format access library -- development files
+
+libvmdk-utils/stable 20240510-1+b1 arm64
+  VMWare Virtual Disk format access library -- Utilities
+
+libvmdk1/stable 20240510-1+b1 arm64
+  VMWare Virtual Disk format access library
+
+libvmime-dev/stable 0.9.2-9 arm64
+  C++ mail library (development files)
+
+libvmime1-doc/stable 0.9.2-9 all
+  C++ mail library (API documentation)
+
+libvmime1t64/stable 0.9.2-9 arm64
+  C++ mail library (runtime library)
+
+libvmmlib-dev/stable 1.0-2.3 all
+  templatized C++ vector and matrix math library
+
+libvslvm-dev/stable 20240504-1+b1 arm64
+  Linux LVM volume system format access library -- development files
+
+libvslvm-utils/stable 20240504-1+b1 arm64
+  Linux LVM volume system format access library -- Utilities
+
+libvslvm1t64/stable 20240504-1+b1 arm64
+  Linux LVM volume system format access library
+
+libwebjars-locator-core-java/stable 0.30-1.1 all
+  WebJars Locator Core
+
+libwebjars-locator-java/stable 0.32-1.1 all
+  WebJars Locator
+
+libwiretap-dev/stable 4.4.16-0+deb13u1 arm64
+  network packet capture library -- development files
+
+libwiretap15/stable 4.4.16-0+deb13u1 arm64
+  network packet capture library -- shared library
+
+libxcb-xvmc0/stable 1.17.0-2+b1 arm64
+  X C Binding, xvmc extension
+
+libxcb-xvmc0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, xvmc extension, development files
+
+libxineliboutput-sxfe/stable 2.3.0-2 arm64
+  Local X-Server frontend for the xineliboutput plugin
+
+libxvmc-dev/stable 2:1.0.12-2+b3 arm64
+  X11 Video extension library (development headers)
+
+libxvmc1/stable 2:1.0.12-2+b3 arm64
+  X11 Video extension library
+
+libxxf86vm-dev/stable 1:1.1.4-1+b4 arm64
+  X11 XFree86 video mode extension library (development headers)
+
+libxxf86vm1/stable,now 1:1.1.4-1+b4 arm64 [installed,automatic]
+  X11 XFree86 video mode extension library
+
+libxxf86vm1-dbg/stable 1:1.1.4-1+b4 arm64
+  X11 XFree86 video mode extension library (debug package)
+
+libzinnia-dev/stable 0.06-8+b2 arm64
+  development files for the zinnia library
+
+libzinnia-doc/stable 0.06-8 all
+  documentation files for the zinnia library
+
+libzinnia0/stable 0.06-8+b2 arm64
+  online handwriting recognition system with machine learning
+
+libzstd-jni-java/stable 1.5.2-5+ds-7 all
+  JNI bindings for Zstd (Java files)
+
+libzstd-jni1/stable 1.5.2-5+ds-7 arm64
+  JNI bindings for Zstd (Architecture-specific files)
+
+linux-bpf-dev/stable 6.12.94-1 arm64
+  Headers for BPF development
+
+lld/stable 1:19.0-63 arm64
+  LLVM-based linker
+
+lld-17/stable 1:17.0.6-22+b2 arm64
+  LLVM-based linker
+
+lld-18/stable 1:18.1.8-18+b1 arm64
+  LLVM-based linker
+
+lld-19/stable 1:19.1.7-3+b1 arm64
+  LLVM-based linker
+
+lldb/stable 1:19.0-63 arm64
+  Next generation, high-performance debugger
+
+lldb-17/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger
+
+lldb-18/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger
+
+lldb-19/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger
+
+llvm/stable 1:19.0-63 arm64
+  Modular compiler and toolchain technologies
+
+llvm-17/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies
+
+llvm-17-dev/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies, libraries and headers
+
+llvm-17-doc/stable 1:17.0.6-22 all
+  Modular compiler and toolchain technologies, documentation
+
+llvm-17-examples/stable 1:17.0.6-22 all
+  Modular compiler and toolchain technologies, examples
+
+llvm-17-linker-tools/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies - Plugins
+
+llvm-17-runtime/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies, IR interpreter
+
+llvm-17-tools/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies, tools
+
+llvm-18/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies
+
+llvm-18-dev/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies, libraries and headers
+
+llvm-18-doc/stable 1:18.1.8-18 all
+  Modular compiler and toolchain technologies, documentation
+
+llvm-18-examples/stable 1:18.1.8-18 all
+  Modular compiler and toolchain technologies, examples
+
+llvm-18-linker-tools/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies - Plugins
+
+llvm-18-runtime/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies, IR interpreter
+
+llvm-18-tools/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies, tools
+
+llvm-19/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies
+
+llvm-19-dev/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies, libraries and headers
+
+llvm-19-doc/stable 1:19.1.7-3 all
+  Modular compiler and toolchain technologies, documentation
+
+llvm-19-examples/stable 1:19.1.7-3 all
+  Modular compiler and toolchain technologies, examples
+
+llvm-19-linker-tools/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies - Plugins
+
+llvm-19-runtime/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies, IR interpreter
+
+llvm-19-tools/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies, tools
+
+llvm-dev/stable 1:19.0-63 arm64
+  Modular compiler and toolchain technologies, libraries and headers
+
+llvm-runtime/stable 1:19.0-63 arm64
+  Modular compiler and toolchain technologies, bytecode interpreter
+
+llvm-spirv-17/stable 17.0.11-1 arm64
+  bi-directional translator for LLVM/SPIRV
+
+llvm-spirv-18/stable 18.1.11-1 arm64
+  bi-directional translator for LLVM/SPIRV
+
+llvm-spirv-19/stable 19.1.6-1 arm64
+  bi-directional translator for LLVM/SPIRV
+
+llvmlite-doc/stable 0.44.0-1 all
+  LLVM Python binding for writing JIT compilers (docs)
+
+ltsp/stable 23.02-3 all
+  Linux Terminal Server Project
+
+lua-resty-lrucache/stable 0.15-2 all
+  Simple LRU cache for the ngx_lua module
+
+luajit/stable 2.1.0+openresty20250117-2 arm64
+  OpenResty-maintained branch of LuaJIT (interpreter)
+
+lure-of-the-temptress/stable 1.1+ds3-1 all
+  classic 2D point and click fantasy adventure game
+
+lvm2/stable 2.03.31-2 arm64
+  Linux Logical Volume Manager
+
+lvm2-dbusd/stable 2.03.31-2 all
+  LVM2 D-Bus daemon
+
+lvm2-lockd/stable 2.03.31-2 arm64
+  LVM locking daemon
+
+machineid/stable 1.0.1-2+b4 arm64
+  Get the unique machine id of any host (program)
+
+makedumpfile/stable 1:1.7.6-1+b1 arm64
+  VMcore extraction tool
+
+masakari-api/stable 19.0.0-3 all
+  OpenStack Virtual Machine High Availability (VMHA) - API Server
+
+masakari-common/stable 19.0.0-3 all
+  OpenStack Virtual Machine High Availability (VMHA) - common files
+
+masakari-doc/stable 19.0.0-3 all
+  OpenStack Virtual Machine High Availability (VMHA) - doc
+
+masakari-engine/stable 19.0.0-3 all
+  OpenStack Virtual Machine High Availability (VMHA) - API Server
+
+masakari-host-monitor/stable 19.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - host monitor
+
+masakari-instance-monitor/stable 19.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - instance monitor
+
+masakari-introspective-instance-monitor/stable 19.0.0-1 all
+  OpenStack VirtualMachine High Availability (VMHA) - introspective host monitor
+
+masakari-monitors-common/stable 19.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - monitors common files
+
+masakari-monitors-doc/stable 19.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - doc
+
+masakari-process-monitor/stable 19.0.0-1 all
+  OpenStack VM High Availability (VMHA) - process monitor
+
+mdk/stable 1.3.0+dfsg-4 arm64
+  MIX Development Kit
+
+memdump/stable 1.01-9+b1 arm64
+  utility to dump memory contents to standard output
+
+meshlab/stable 2022.02+dfsg1-1 arm64
+  System for processing and editing triangular meshes
+
+midicsv/stable 1.1+dfsg.1-1+b3 arm64
+  translate MIDI file to CSV
+
+minetest-mod-advmarkers-csm/stable 0.0~git20220709.a6f6170-2 all
+  Minetest mod - marker/waypoint CSM for Minetest
+
+mkvtoolnix/stable 92.0-1 arm64
+  Set of command-line tools to work with Matroska files
+
+mkvtoolnix-gui/stable 92.0-1 arm64
+  Set of tools to work with Matroska files - GUI frontend
+
+moarvm/stable 2024.09+dfsg-5 arm64
+  virtual machine for Rakudo Perl 6 and NQP
+
+moarvm-dev/stable 2024.09+dfsg-5 arm64
+  development files for moarvm
+
+mold/stable 2.37.1+dfsg-1 arm64
+  Drop-in linker
+
+mom/stable 0.6.4-0.1 all
+  Dynamically manage system resources on virtualization hosts
+
+nailgun/stable 0.9.3-3 arm64
+  client, protocol, and server for running Java programs from CLI
+
+netscript-2.4/stable 5.5.5+nmu3 all
+  Linux 2.4/2.6/3.x router/firewall/VM host network config system.
+
+networking-bagpipe-bgp-agent/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-based VPN - agent
+
+networking-bagpipe-doc/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-based VPN - doc
+
+networking-bgpvpn-doc/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-MPLS VPN Extension - doc
+
+neutron-api/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - API service
+
+neutron-bgp-dragent/stable 2:26.0.0-3 all
+  OpenStack Neutron Dynamic Routing - Agent
+
+neutron-common/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - common files
+
+neutron-dhcp-agent/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - DHCP agent
+
+neutron-doc/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - doc
+
+neutron-dynamic-routing-common/stable 2:26.0.0-3 all
+  OpenStack Neutron Dynamic Routing - common files
+
+neutron-l2gateway-agent/stable 1:21.0.0-1 all
+  OpenStack virtual network service - L2 gateway agent
+
+neutron-l3-agent/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - l3 agent
+
+neutron-linuxbridge-agent/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - Linux bridge agent
+
+neutron-macvtap-agent/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - MacVTap Agent
+
+neutron-metadata-agent/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - metadata agent
+
+neutron-metering-agent/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - metering agent
+
+neutron-openvswitch-agent/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - Open vSwitch agent
+
+neutron-ovn-agent/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - OVN agent
+
+neutron-ovn-maintenance-worker/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - OVN maintenance worker
+
+neutron-ovn-metadata-agent/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - OVN Metadata Agent
+
+neutron-periodic-workers/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - periodic tasks
+
+neutron-plugin-nec-agent/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - NEC agent
+
+neutron-rpc-server/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - RPC service
+
+neutron-server/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - metapackage for the server
+
+neutron-services-server/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - services server
+
+neutron-sriov-agent/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - SR-IOV agent
+
+neutron-taas-openvswitch-agent/stable 15.0.0-1 all
+  OpenStack virtual network service - Tap-as-a-Service agent
+
+neutron-vpnaas-common/stable 2:26.0.0-1 all
+  OpenStack virtual network service - VPNaaS common files
+
+neutron-vpnaas-vyatta-agent/stable 2:26.0.0-1 all
+  OpenStack virtual network service - VPNaaS Vyatta Agent
+
+nftables/stable,now 1.1.3-1 arm64 [installed]
+  Program to control packet filtering rules by Netfilter project
+
+node-immutable/stable 4.3.4-1 all
+  Immutable Data Collections
+
+node-knockout/stable 3.5.1+ds-1 all
+  JavaScript MVVM framework
+
+node-vm-browserify/stable 1.1.2+ds-4 all
+  vm module for the browser
+
+node-zrender/stable 5.4.1+dfsg-2 all
+  zrender is a 2D drawing engine that provides
+
+nova-api/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute API frontend
+
+nova-common/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - common files
+
+nova-compute/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node
+
+nova-compute-ironic/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (Ironic)
+
+nova-compute-kvm/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (KVM)
+
+nova-compute-lxc/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (LXC)
+
+nova-compute-qemu/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (QEmu)
+
+nova-conductor/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - conductor service
+
+nova-consoleproxy/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - NoVNC proxy
+
+nova-doc/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - documentation
+
+nova-scheduler/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - virtual machine scheduler
+
+nqp/stable 2024.09+dfsg-5 arm64
+  Not Quite Perl compiler
+
+nqp-data/stable 2024.09+dfsg-5 all
+  Data files for NQP compiler
+
+numba-doc/stable 0.61.2+dfsg-1+deb13u1 all
+  native machine code compiler for Python (docs)
+
+nvme-cli/stable 2.13-2 arm64
+  NVMe management tool
+
+nvme-stas/stable 2.4.1-2 all
+  NVMe Storage Appliance Services (STAS)
+
+octave-parallel/stable 4.0.2-1+b2 arm64
+  parallel execution of Octave in clusters of computers
+
+open-vm-tools/stable 2:12.5.0-2+deb13u1 arm64
+  Open VMware Tools for virtual machines hosted on VMware (CLI)
+
+open-vm-tools-containerinfo/stable 2:12.5.0-2+deb13u1 arm64
+  Open VMware Tools for VMs hosted on VMware (Service Discovery Plugin)
+
+open-vm-tools-desktop/stable 2:12.5.0-2+deb13u1 arm64
+  Open VMware Tools for virtual machines hosted on VMware (GUI)
+
+open-vm-tools-dev/stable 2:12.5.0-2+deb13u1 arm64
+  Open VMware Tools for virtual machines hosted on VMware (development)
+
+open-vm-tools-sdmp/stable 2:12.5.0-2+deb13u1 arm64
+  Open VMware Tools for VMs hosted on VMware (Service Discovery Plugin)
+
+openexr/stable 3.1.13-2 arm64
+  command-line tools for the OpenEXR image format
+
+openjdk-21-jre-zero/stable 21.0.11+10-1~deb13u2 arm64
+  Alternative JVM for OpenJDK, using Zero
+
+openjdk-25-jre-zero/stable 25.0.3+9-2~deb13u1 arm64
+  Alternative JVM for OpenJDK, using Zero
+
+openqa/stable 4.6.1732034221.ae34b08ff-2 all
+  automatic Operating System testing framework (webUI & scheduler)
+
+openqa-client/stable 4.6.1732034221.ae34b08ff-2 all
+  automatic Operating System testing framework (utilities)
+
+openqa-common/stable 4.6.1732034221.ae34b08ff-2 all
+  automatic Operating System testing framework (common files)
+
+openqa-doc/stable 4.6.1732034221.ae34b08ff-2 all
+  automatic Operating System testing framework - documentation
+
+openqa-worker/stable 4.6.1732034221.ae34b08ff-2 all
+  automatic Operating System testing framework (worker)
+
+openseachest/stable 24.08.1-1 arm64
+  utilities for operations on SATA/SAS/NVMe/USB storage devices
+
+openslide-tools/stable 3.4.1+dfsg-7+deb13u1 arm64
+  Manipulation and conversion tools for OpenSlide
+
+openstack-cluster-installer-openstack-ci/stable 43.0.10 all
+  automatic PXE and puppet-master installer for OpenStack - PoC
+
+openstack-cluster-installer-poc/stable 43.0.10 all
+  automatic PXE and puppet-master installer for OpenStack - PoC
+
+openstack-cluster-installer-utils/stable 43.0.10 all
+  automatic PXE and puppet-master installer for OpenStack - utils
+
+openstack-compute-node/stable 0.39 all
+  Metapackage to install an Openstack compute node
+
+openstack-tempest-ci-live-booter/stable 0.39 all
+  configures a server to boot a custom live image to test OpenStack
+
+openvswitch-common/stable 3.5.0-1+b1 arm64
+  Open vSwitch common components
+
+openvswitch-doc/stable 3.5.0-1 all
+  Open vSwitch documentation
+
+openvswitch-ipsec/stable 3.5.0-1+b1 arm64
+  Open vSwitch IPsec tunneling support
+
+openvswitch-pki/stable 3.5.0-1 all
+  Open vSwitch public key infrastructure dependency package
+
+openvswitch-source/stable 3.5.0-1 all
+  Open vSwitch source code
+
+openvswitch-switch/stable 3.5.0-1+b1 arm64
+  Open vSwitch switch implementations
+
+openvswitch-switch-dpdk/stable 3.5.0-1+b1 arm64
+  DPDK enabled Open vSwitch switch implementation
+
+openvswitch-test/stable 3.5.0-1 all
+  Open vSwitch test package
+
+openvswitch-vtep/stable 3.5.0-1+b1 arm64
+  Open vSwitch VTEP utilities
+
+ovmf/stable 2025.02-8+deb13u1 all
+  UEFI firmware for 64-bit x86 virtual machines
+
+ovmf-ia32/stable 2025.02-8+deb13u1 all
+  UEFI firmware for 32-bit x86 virtual machines
+
+ovn-bgp-agent/stable 4.0.0-1 all
+  OpenStack virtual network service - OVN BGP agent
+
+pacpl/stable 6.1.3-1 all
+  multi-purpose audio converter/ripper/tagger script
+
+pagein/stable 0.01.11-1 arm64
+  tool to force swapped out pages to be resident in memory
+
+parted/stable 3.6-5 arm64
+  disk partition manipulator
+
+patator/stable 1.0-4 all
+  Multi-purpose brute-forcer
+
+pgstat/stable 1.4.0-1 arm64
+  Collects PostgreSQL statistics the same way as a vmstat tool
+
+phpunit-environment/stable 7.2.0-4 all
+  functionality to handle HHVM/PHP environments - PHPUnit component
+
+ply/stable 2.4.0-1 arm64
+  Light-weight dynamic tracer for Linux
+
+powerline-go/stable 1.25-2+b2 arm64
+  Powerline style prompt for your shell: Bash, ZSH and Fish
+
+powerstat/stable 0.04.05-1 arm64
+  laptop power measuring tool
+
+procps/stable,now 2:4.0.4-9 arm64 [installed]
+  /proc file system utilities
+
+python-cyborgclient-doc/stable 2.5.0-2 all
+  Python client for cyborg API - doc
+
+python-neutron-lib-doc/stable 3.18.2-3 all
+  Neutron shared routines and utilities - doc
+
+python-novaclient-doc/stable 2:18.9.0-2 all
+  client library for OpenStack Compute API - doc
+
+python-openslide-examples/stable 1.4.1-1 all
+  Python examples for python-openslide and python3-openslide
+
+python-oslo.vmware-doc/stable 4.6.0-3 all
+  VMware library for OpenStack projects - doc
+
+python-whoosh-doc/stable 2.7.4+git6-g9134ad92-10 all
+  full-text indexing, search, and spell checking library (doc)
+
+python3-all/stable 3.13.5-1 arm64
+  package depending on all supported Python 3 runtime versions
+
+python3-all-dbg/stable 3.13.5-1 arm64
+  package depending on all supported Python 3 debugging packages
+
+python3-all-dev/stable 3.13.5-1 arm64
+  package depending on all supported Python 3 development packages
+
+python3-all-venv/stable 3.13.5-1 arm64
+  package depending on all supported Python 3 venv modules
+
+python3-anthemav/stable 1.4.2-2 all
+  API for controlling Anthem Receivers
+
+python3-bincopy/stable 20.1.0+dfsg1-1 all
+  Mangling of binary file formats (Python 3 module)
+
+python3-cinder/stable 2:26.0.0-2 all
+  OpenStack block storage system - Python libraries
+
+python3-cinderclient/stable 1:9.7.0-2 all
+  Python bindings to the OpenStack Volume API - Python 3.x
+
+python3-clang/stable 1:19.0-63 arm64
+  Clang Python Bindings
+
+python3-clang-17/stable 1:17.0.6-22+b2 arm64
+  Clang Python Bindings
+
+python3-clang-18/stable 1:18.1.8-18+b1 arm64
+  Clang Python Bindings
+
+python3-clang-19/stable 1:19.1.7-3+b1 arm64
+  Clang Python Bindings
+
+python3-cyborg/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - Python library
+
+python3-cyborgclient/stable 2.5.0-2 all
+  Python client for cyborg API - Python 3.x
+
+python3-filecheck/stable 0.0.24+dfsg-2 all
+  Attempt to reimplement LLVM's FileCheck using Python
+
+python3-fritzconnection/stable 1.14.0-3 all
+  Communicate with the AVM FRITZ!Box router using TR-064 and HTTP protocols
+
+python3-ganeti-rapi/stable 3.1.0~rc2-3 all
+  cluster virtualization manager - RAPI client library (Python 3)
+
+python3-goodwe/stable 0.4.8-2 all
+  Library to connect to GoodWe inverters over a local network
+
+python3-ironic-neutron-agent/stable 6.5.0-2 all
+  OpenStack virtual network service - Ironic agent Python 3.x library
+
+python3-liblinear/stable 2.3.0+dfsg-5 all
+  Python 3 bindings for LIBLINEAR
+
+python3-libnvme/stable 1.13-2 arm64
+  NVMe management library (Python)
+
+python3-libsvm/stable 3.24+ds-6.1 all
+  Python interface for support vector machine library
+
+python3-libvirt/stable 11.3.0-1 arm64
+  libvirt Python 3 bindings
+
+python3-libvmdk/stable 20240510-1+b1 arm64
+  VMWare Virtual Disk format access library -- Python 3 bindings
+
+python3-libvslvm/stable 20240504-1+b1 arm64
+  Linux LVM volume system format access library -- Python 3 bindings
+
+python3-lldb/stable 1:19.0-63 arm64
+  Next generation, high-performance debugger, python lib
+
+python3-lldb-17/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger, python3 lib
+
+python3-lldb-18/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger, python3 lib
+
+python3-lldb-19/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger, python3 lib
+
+python3-llvmlite/stable 0.44.0-1 arm64
+  LLVM Python 3 binding for writing JIT compilers
+
+python3-masakari/stable 19.0.0-3 all
+  OpenStack Virtual Machine High Availability (VMHA) - Python files
+
+python3-masakari-dashboard/stable 12.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - dashboard plugin
+
+python3-masakari-monitors/stable 19.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - Python files
+
+python3-masakariclient/stable 8.6.0-2 all
+  OpenStack Virtual Machine High Availability (VMHA) client
+
+python3-meshzoo/stable 0.9.4-1 all
+  simple geometric meshes (Python 3)
+
+python3-motionmount/stable 2.3.1-1 all
+  Control Vogel's MotionMount TVM7675 Pro over Ethernet
+
+python3-mutf8/stable 1.0.6-2+b2 arm64
+  encoders and decoders for the MUTF-8 character encoding
+
+python3-networking-bagpipe/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-based VPN - Python 3.x
+
+python3-networking-bgpvpn/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-MPLS VPN Extension - Python 3.x
+
+python3-networking-generic-switch/stable 7.5.0-2 all
+  OpenStack virtual network service - networking-generic-switch
+
+python3-networking-l2gw/stable 1:21.0.0-1 all
+  OpenStack virtual network service - L2 gateway extension
+
+python3-networking-sfc/stable 20.0.0-1 all
+  OpenStack virtual network service - SFC extension
+
+python3-neutron/stable 2:26.0.3-0+deb13u2 all
+  OpenStack virtual network service - Python library
+
+python3-neutron-dynamic-routing/stable 2:26.0.0-3 all
+  OpenStack Neutron Dynamic Routing - Python library
+
+python3-neutron-lib/stable 3.18.2-3 all
+  Neutron shared routines and utilities - Python 3.x
+
+python3-neutron-taas/stable 15.0.0-1 all
+  OpenStack virtual network service - Tap-as-a-Service extension
+
+python3-neutron-vpnaas/stable 2:26.0.0-1 all
+  OpenStack virtual network service - Python library
+
+python3-neutron-vpnaas-dashboard/stable 12.0.0-1 all
+  OpenStack VPN as a Service - dashboard plugin
+
+python3-neutronclient/stable 1:11.4.0-2 all
+  client API library for Neutron - Python 3.x
+
+python3-nova/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - libraries
+
+python3-novaclient/stable 2:18.9.0-2 all
+  client library for OpenStack Compute API - 3.x
+
+python3-numba/stable 0.61.2+dfsg-1+deb13u1 arm64
+  native machine code compiler for Python 3
+
+python3-nvme/stable 1.13-2 all
+  NVMe management library (transitional package)
+
+python3-openslide/stable 1.4.1-1 arm64
+  Python 3 wrapper for reading whole slide image files
+
+python3-openvswitch/stable 3.5.0-1+b1 arm64
+  Python 3 bindings for Open vSwitch
+
+python3-oslo.vmware/stable 4.6.0-3 all
+  VMware library for OpenStack projects - Python 3.x
+
+python3-ovn-bgp-agent/stable 4.0.0-1 all
+  OpenStack virtual network service - OVN BGP agent library
+
+python3-pattern/stable 2.6+git20180818-4.1 all
+  web mining module for Python 3
+
+python3-pyavm/stable 0.9.6-2 all
+  Python3 module to handle Astronomy Visualization Metadata Standard
+
+python3-pyfritzhome/stable 0.6.17-1 all
+  Python library for managing AVM Fritz!Box Smart Home devices
+
+python3-pyjks/stable 20.0.0-5 all
+  Java KeyStore parser including private/secret key decryption
+
+python3-pyvmomi/stable 8.0.3.0.1-1 all
+  VMware vSphere Python SDK - Python 3.x
+
+python3-sanlock/stable 3.9.5-1 arm64
+  Python3 bindings to shared storage lock manager
+
+python3-sklearn/stable 1.4.2+dfsg-8 all
+  Python modules for machine learning and data mining - Python 3
+
+python3-sklearn-lib/stable 1.4.2+dfsg-8 arm64
+  low-level implementations and bindings for scikit-learn - Python 3
+
+python3-stdnum/stable 1.20-3 all
+  Python module to handle standardized numbers and codes (Python3 version)
+
+python3-stookalert/stable 0.1.4-2 all
+  Python package for querying the RIVM Stookalert API
+
+python3-vagrant/stable 1.1.0-2 all
+  Python 3 bindings for interacting with Vagrant virtual machines
+
+python3-virt-firmware/stable 24.11-2 all
+  Tools for manipulating edk2 (ovmf/qemu-efi) firmware images
+
+python3-vmdkstream/stable 0.2-9 all
+  Python 3 module for converting raw disk images to VMDK files
+
+python3-whoosh/stable 2.7.4+git6-g9134ad92-10 all
+  pure-Python full-text indexing, search, and spell checking library (Python 3)
+
+qemu-system-x86/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (x86)
+
+qemu-web-desktop/stable 25.04.05+ds1-1 arm64
+  Remote desktop service with virtual machines in a browser (DARTS).
+
+quickemu/stable 4.9.7-4 arm64
+  quickly create and run optimised virtual machines
+
+r-cran-dosnow/stable 1.0.20-1 all
+  GNU R parallel excution backend for %dopar% using snow
+
+r-cran-rjava/stable 1.0-11-2 arm64
+  GNU R low-level interface to Java
+
+r-cran-survminer/stable 0.5.0+dfsg-2 all
+  Drawing Survival Curves using 'ggplot2'
+
+r-cran-survmisc/stable 0.5.6-1 all
+  GNU R miscellaneous functions for survival data
+
+r-cran-svmisc/stable 1.4.3-1 all
+  SciViews - Miscellaneous Functions
+
+rakudo/stable 2024.09-4 arm64
+  Raku implementation on top of MoarVM
+
+randmac/stable 0.2-1+b1 arm64
+  generate random MAC addresses
+
+rapiddisk/stable 9.2.0-1 arm64
+  Linux RAM Drive and Caching kernel modules
+
+rapiddisk-dkms/stable 9.2.0-1 all
+  Linux RAM Drive and Caching kernel modules (DKMS)
+
+resource-agents/stable 1:4.16.0-3+deb13u2 arm64
+  Cluster Resource Agents
+
+rlvm/stable 0.14-5.2+b2 arm64
+  RealLive virtual machine clone
+
+rocm-qemu-support/stable 0.8.2 all
+  Utilities for working with ROCm inside QEMU VMs
+
+rtags/stable 2.38-12+b2 arm64
+  C/C++ client/server indexer with integration for Emacs
+
+ruby-debug-inspector/stable 1.1.0+gh-2+b2 arm64
+  Ruby wrapper for the MRI 2.0 debug_inspector API
+
+ruby-libvirt/stable 0.8.4-1+b2 arm64
+  Ruby bindings for libvirt
+
+ruby-nio4r/stable 2.7.3-1+b2 arm64
+  Ruby library providing a selector API for monitoring IO objects
+
+ruby-rbvmomi/stable 1.8.2-2 all
+  Ruby interface to the VMware vSphere API
+
+ruby-sigdump/stable 0.2.4-6 all
+  SIGQUIT of Java VM for Ruby
+
+ruby-spring-watcher-listen/stable 2.0.1-1.1 all
+  Makes spring watch files using the listen library
+
+ruby-strptime/stable 0.2.5-1+b9 arm64
+  fast strptime/strftime engine
+
+ruby-vmstat/stable 2.3.1-1+b5 arm64
+  library to gather system information
+
+rust-llvm/stable 1.85.0+dfsg3-1 arm64
+  Rust LLVM integration
+
+sanlk-reset/stable 3.9.5-1 arm64
+  Host reset daemon and client using sanlock
+
+sanlock/stable 3.9.5-1 arm64
+  Shared storage lock manager
+
+schroot/stable 1.6.13-7 arm64
+  Execute commands in a chroot environment
+
+scummvm/stable 2.9.0+dfsg-1+b1 arm64
+  engine for several graphical adventure games
+
+scummvm-data/stable 2.9.0+dfsg-1 all
+  engine for several graphical adventure games (data files)
+
+scummvm-tools/stable 2.9.0-1+b1 arm64
+  collection of tools for ScummVM
+
+sendmail/stable 8.18.1-6 all
+  powerful, efficient, and scalable Mail Transport Agent (metapackage)
+
+sendmail-bin/stable 8.18.1-6+b1 arm64
+  powerful, efficient, and scalable Mail Transport Agent
+
+service-wrapper/stable 3.5.51-2 arm64
+  Jar daemon wrapper
+
+sfftobmp/stable 3.1.3-10 arm64
+  SFF (Structured Fax File) Converter
+
+sipvicious/stable 0.3.3-2 all
+  tools to audit SIP based VoIP systems
+
+sisc/stable 1.16.6-1.3 all
+  A Java integrated, fully R5RS compliant Scheme system
+
+snapper/stable 0.10.6-1.2 arm64
+  Linux filesystem snapshot management tool
+
+snapper-gui/stable 0git.960a94834f-6.1 all
+  graphical user interface for snapper
+
+spice-client-glib-usb-acl-helper/stable 0.42-3 arm64
+  Helper tool to validate usb ACLs
+
+systemd-container/stable 257.13-1~deb13u1 arm64
+  systemd container/nspawn tools
+
+tcl-tclex/stable 1.2a1-20+b1 arm64
+  Lexical analyzer generator for Tcl
+
+tcpdump/stable 4.99.5-2 arm64
+  command-line network traffic analyzer
+
+tcpstat/stable 1.5-8.2 arm64
+  network interface statistics reporting tool
+
+tegaki-zinnia-japanese/stable 0.3-3 all
+  Japanese handwriting model for Zinnia
+
+tegaki-zinnia-simplified-chinese/stable 0.3-3 all
+  Simplified Chinese handwriting model for Zinnia
+
+testdisk/stable 7.2-0.1 arm64
+  Partition scanner and disk recovery tool, and PhotoRec file recovery tool
+
+texlive-bibtex-extra/stable 2024.20250309-2 all
+  TeX Live: BibTeX additional styles
+
+texlive-fonts-extra/stable 2024.20250309-2 all
+  TeX Live: Additional fonts
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+texlive-publishers/stable 2024.20250309-2 all
+  TeX Live: Publisher styles, theses, etc.
+
+texlive-science/stable 2024.20250309-2 all
+  TeX Live: Mathematics, natural sciences, computer science packages
+
+tklib/stable 0.9-1 all
+  standard Tk Library
+
+u-boot-qemu/stable 2025.01-3 all
+  A boot loader for qemu
+
+ubuntu-dev-tools/stable 0.206 all
+  useful tools for Ubuntu developers
+
+udevil/stable 0.4.4-4 arm64
+  Alternative storage media interface
+
+udisks2-lvm2/stable 2.10.1-12.1+deb13u1 arm64
+  LVM2 support for udisks2
+
+ustreamer/stable 5.4-1+b2 arm64
+  Lightweight and fast MJPG-HTTP streamer
+
+uwsgi-plugin-java/stable 2.0.28+8+0.0.5 arm64
+  Java plugin for uWSGI
+
+vagrant/stable 2.3.7+git20230731.5fc64cde+dfsg-3+b1 arm64
+  Tool for building and distributing virtualized development environments
+
+vagrant-cachier/stable 1.2.1+git20221205.7e885eb-1 all
+  share a common package cache among similar VM instances
+
+vagrant-mutate/stable 1.2.0-4.1 all
+  convert vagrant boxes to work with different providers
+
+vagrant-sshfs/stable 1.3.7-1 all
+  vagrant plugin that adds synced folder support with sshfs
+
+varnish-modules/stable 0.25.0-2 arm64
+  Varnish module collection
+
+varnish-re2/stable 2.0.0-7 arm64
+  RE2 regular expressions for Varnish
+
+varnish-redis/stable 21.0-1 arm64
+  access Redis servers from VCL
+
+varnish-selector/stable 2.6.0-5.1 arm64
+  match strings with backends, regexen and other strings
+
+varnish-vmod-digest/stable 6.4+20230816-3 arm64
+  Varnish digest module
+
+vbackup/stable 1.0.1-1.1 all
+  modular backup utility
+
+vdr-plugin-fritzbox/stable 1.5.4-3 arm64
+  VDR plugin to access certain functions of an AVM Fritz!Box
+
+victoria-metrics/stable 1.112.0+ds1-2 arm64
+  fast, cost-effective and scalable time series database
+
+vim-syntastic/stable 3.10.0-3 all
+  Syntax checking hacks for vim
+
+virgl-server/stable 1.1.0-2 arm64
+  virtual GPU for KVM virtualization - vtest server used
+
+virt-manager/stable 1:5.0.0-5+deb13u1 all
+  desktop application for managing virtual machines
+
+virt-p2v/stable 1.42.4-1 arm64
+  physical-to-virtual machine converter
+
+virt-top/stable 1.1.1-1 arm64
+  show stats of virtualized domains
+
+virt-v2v/stable 2.6.0-1 arm64
+  virtual-to-virtual machine converter
+
+virt-what/stable 1.27-1 arm64
+  detect if we are running in a virtual machine
+
+virtiofsd/stable 1.13.2-1+deb13u1 arm64
+  Virtio-fs vhost-user device daemon
+
+virtnbdbackup/stable 2.28-1 arm64
+  Backup utility for libvirt
+
+visualvm/stable 2.1.10-1 all
+  All-in-One Java Troubleshooting Tool
+
+vm/stable 8.2.0b-11.1 all
+  mail user agent for Emacs
+
+vmatch/stable 2.3.1+dfsg-9+b2 arm64
+  large scale sequence analysis software
+
+vmdb2/stable 0.40-2 all
+  creator of disk images with Debian installed
+
+vmfs-tools/stable 0.2.5-1.1+b1 arm64
+  Tools to access VMFS filesystems
+
+vmfs6-tools/stable 0.2.1-1+b3 arm64
+  Tools to access VMFS6 filesystems
+
+vmg/stable 3.7.1-8+b1 arm64
+  Virtual Magnifying Glass
+
+vmm/stable 0.7.0-0.3 all
+  manage mail domains/accounts/aliases for Dovecot and Postfix
+
+vmm-doc/stable 0.7.0-0.3 all
+  Documentation for the Virtual Mail Manager
+
+vmpk/stable 0.9.1-1 arm64
+  Virtual MIDI Piano Keyboard
+
+vmtouch/stable 1.3.1-3 arm64
+  Portable file system cache diagnostics and control
+
+vvmd/stable 1.1-1 arm64
+  Visual Voicemail Daemon
+
+vvmplayer/stable 2.6-1+b1 arm64
+  Visual Voicemail Player
+
+waagent/stable 2.12.0.2-3 all
+  Virtual machine interaction with the Microsoft Azure cloud service
+
+x2x/stable 1.30-12 arm64
+  Link two X displays together, simulating a multiheaded display
+
+xen-utils-4.20/stable 4.20.2+37-g61ff35323e-0+deb13u1 arm64
+  Xen administrative tools
+
+xen-utils-4.20-dbg/stable 4.20.2+37-g61ff35323e-0+deb13u1 arm64
+  debug symbols for xen-utils-4.20
+
+xineliboutput-sxfe/stable 2.3.0-2 arm64
+  Remote X-Server frontend for vdr-plugin-xineliboutput
+
+xmount/stable 1.2.0+ds-1+b1 arm64
+  tool for crossmounting between disk image formats
+
+xserver-xorg-video-qxl/stable 0.1.6-1.1 arm64
+  X.Org X server -- QXL display driver
+
+xva-img/stable 1.5-1+b2 arm64
+  Citrix XenServer .xva disk extraction tool
+
+yorick-optimpack/stable 1.3.2+dfsg+1.4.0-2 arm64
+  optimization of large scale problems for the Yorick language
+
+yt-dlp/stable 2025.04.30-1 all
+  downloader of videos from YouTube and other sites
+
+zinnia-utils/stable 0.06-8+b2 arm64
+  utils for the zinnia library
+

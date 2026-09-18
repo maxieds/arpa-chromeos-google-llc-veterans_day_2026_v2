@@ -1,0 +1,329 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+apt-utils/stable,now 3.0.3 arm64 [installed]
+  package management related utility programs
+
+baresip/stable 1.1.0-3 all
+  portable and modular SIP user-agent - metapackage
+
+baresip-core/stable 1.1.0-3 arm64
+  portable and modular SIP user-agent - core parts
+
+baresip-ffmpeg/stable 1.1.0-3 arm64
+  portable and modular SIP user-agent - FFmpeg codecs and formats
+
+baresip-gstreamer/stable 1.1.0-3 arm64
+  portable and modular SIP user-agent - GStreamer pipelines
+
+baresip-gtk/stable 1.1.0-3 arm64
+  portable and modular SIP user-agent - GTK+ front-end
+
+baresip-x11/stable 1.1.0-3 arm64
+  portable and modular SIP user-agent - X11 features
+
+bsdiff/stable 4.3-23+b1 arm64
+  generate/apply a patch between two binary files
+
+createrepo-c/stable 1.2.0-2+b1 arm64
+  tool to create RPM repository metadata (C implementation)
+
+cyclonedds-dev/stable 0.10.5-1+b2 arm64
+  Eclipse Cyclone DDS library - development headers
+
+cyclonedds-doc/stable 0.10.5-1 all
+  Eclipse Cyclone DDS library - API documentation
+
+cyclonedds-tools/stable 0.10.5-1+b2 arm64
+  Eclipse Cyclone DDS tools
+
+dvblast/stable 3.4-1+b2 arm64
+  Simple and powerful dvb-streaming application
+
+dvbstream/stable 0.6+cvs20090621-4+b2 arm64
+  Broadcast a DVB Transport stream over a LAN
+
+erofs-utils/stable 1.8.6-1 arm64
+  Utilities for EROFS File System
+
+erofsfuse/stable 1.8.6-1 arm64
+  FUSE Mount Utility for EROFS File System
+
+glowing-bear/stable 0.9.0+ds-6 all
+  Web frontend for the WeeChat IRC client
+
+golang-github-pion-interceptor-dev/stable 0.1.12-1 all
+  Pluggable RTP/RTCP processors for building real time communication
+
+golang-github-pion-rtcp-dev/stable 1.2.10-1 all
+  Go implementation of RTCP (library)
+
+golang-github-pion-rtp-dev/stable 1.7.13-1 all
+  Go implementation of RTP (library)
+
+golang-github-pion-srtp.v2-dev/stable 2.0.12-1 all
+  Go implementation of SRTP (library)
+
+gstreamer1.0-plugins-rtp/stable 1.18.1.2 all
+  transitional dummy package
+
+k2pdfopt/stable 2.55+ds-3.1+b1 arm64
+  PDF Reflow tool
+
+kdeconnect/stable 25.04.2-1+deb13u1 arm64
+  connect smartphones to your desktop devices
+
+kdeconnect-libs/stable 25.04.2-1+deb13u1 arm64
+  KDE Connect internal libs
+
+libbzrtp-dev/stable 5.3.105-1 arm64
+  Development files for the Bzrtp key exchange library
+
+libbzrtp1/stable 5.3.105-1 arm64
+  Library for the ZRTP key exchange protocol
+
+libccrtp-dev/stable 2.0.9-4.1+b1 arm64
+  Common C++ class framework for RTP packets - development files
+
+libccrtp-doc/stable 2.0.9-4.1 all
+  Documentation files for  GNU ccRTPp library
+
+libccrtp2t64/stable 2.0.9-4.1+b1 arm64
+  Common C++ class framework for RTP packets
+
+libcreaterepo-c-dev/stable 1.2.0-2+b1 arm64
+  library for creating RPM repository metadata (development)
+
+libcreaterepo-c1/stable 1.2.0-2+b1 arm64
+  library for creating RPM repository metadata
+
+libcycloneddsidl0t64/stable 0.10.5-1+b2 arm64
+  Eclipse Cyclone DDS IDL library
+
+libddsc0t64/stable 0.10.5-1+b2 arm64
+  Eclipse Cyclone DDS library
+
+libdist-zilla-plugin-test-reportprereqs-perl/stable 0.029-1 all
+  module to report on prerequisite versions during automated testing
+
+libfastdds-dev/stable 3.1.2+ds-1+b1 arm64
+  C++ library for the Real Time Publish Subscribe Protocol - development headers
+
+libfastdds-doc/stable 3.1.2+ds-1 all
+  C++ library for the Real Time Publish Subscribe Protocol - documentation
+
+libfastdds3.1/stable 3.1.2+ds-1+b1 arm64
+  C++ library for the Real Time Publish Subscribe Protocol
+
+libfastrtps-dev/stable 3.1.2+ds-1 all
+  C++ library for the Real Time Publish Subscribe Protocol - transitional dummy package
+
+libhttp-multipartparser-perl/stable 0.02-3 all
+  HTTP multipart MIME parser
+
+libjs-jquery-mobile/stable 1.4.5+dfsg-2 all
+  Touch-Optimized Web Framework for Smartphones & Tablets
+
+libnet-luminis-build-plugin-java/stable 0.2.0-8 all
+  Wrapper around Bnd to allow easy bundle creation from ant builds.
+
+libnet-sip-perl/stable 0.838-1 all
+  framework for SIP modules
+
+libobs-dev/stable 30.2.3+dfsg-3 arm64
+  recorder and streamer for live video content (development files)
+
+libobs0t64/stable 30.2.3+dfsg-3 arm64
+  recorder and streamer for live video content (shared library)
+
+libortp-dev/stable 1:5.3.105-1 arm64
+  Development files for the ortp RTP library
+
+libortp-doc/stable 1:5.3.105-1 all
+  oRTP API documentation
+
+libortp16/stable 1:5.3.105-1 arm64
+  Real-time Transport Protocol (RTP) stack
+
+libre-dev/stable 2.0.1-3 arm64
+  generic library for real-time communications (development files)
+
+libre1/stable 2.0.1-3 arm64
+  generic library for real-time communications with async IO support
+
+librtpi-dev/stable 1.0.0-3+b1 arm64
+  realtime capable pthread locking primitives (dev)
+
+librtpi1/stable 1.0.0-3+b1 arm64
+  realtime capable pthread locking primitives (lib)
+
+librtsp-server-perl/stable 0.06-4 all
+  Lightweight RTSP/RTP streaming media server (library)
+
+librust-portpicker-dev/stable 0.1.1-1+b2 arm64
+  Pick a free unused port - Rust source code
+
+libsrtp2-1/stable 2.7.0-3 arm64
+  Secure RTP (SRTP) and UST Reference Implementations - shared library
+
+libsrtp2-dev/stable 2.7.0-3 arm64
+  Secure RTP (SRTP) and UST Reference Implementations - development files
+
+libsrtp2-docs/stable 2.7.0-3 all
+  Secure RTP (SRTP) and UST Reference Implementations - documentation
+
+libtclcl1/stable 1.20-13 arm64
+  shared library of TclCL
+
+libtclcl1-dev/stable 1.20-13 arm64
+  development files of TclCL
+
+minidlna/stable 1.3.3+dfsg-1.1+b1 arm64
+  lightweight DLNA/UPnP-AV server targeted at embedded systems
+
+mokomaze/stable 0.7.1-1+b4 arm64
+  Ball in labyrinth game for the OpenMoko FreeRunner
+
+mrtparse/stable 1.6-3 all
+  read and analyze the MRT format data (utilities)
+
+multicat/stable 2.3-1+b1 arm64
+  Set of tools for multicast and transport stream manipulation
+
+nodm/stable 0.13-6.2 arm64
+  automatic display manager
+
+obs-plugins/stable 30.2.3+dfsg-3 arm64
+  recorder and streamer for live video content (plugins)
+
+obs-studio/stable 30.2.3+dfsg-3 arm64
+  recorder and streamer for live video content
+
+opencpn/stable 1:5.10.2+dfsg-1 arm64
+  Open Source Chartplotter and Marine GPS Navigation Software
+
+opencpn-data/stable 1:5.10.2+dfsg-1 all
+  Open Source Chartplotter and Marine GPS Navigation Software (data)
+
+osmo-bts/stable 1.9.0+dfsg1-2 arm64
+  Base Transceiver Station for GSM
+
+osmo-mgw/stable 1.14.0+dfsg1-2 arm64
+  Osmocom's Media Gateway for 2G and 3G circuit-switched mobile networks
+
+packeth/stable 3.0-1 arm64
+  Ethernet packet generator
+
+phosh-tour/stable 0.46.0-1 arm64
+  Short introduction to phosh on smartphones
+
+poc-streamer/stable 0.4.2-7+b1 arm64
+  MP3/Ogg multicast/HTTP streamer and MP3 cutting tool
+
+pulseaudio/stable 17.0+dfsg1-2+b1 arm64
+  PulseAudio sound server
+
+python-django-polymorphic-doc/stable 4.0.0-1 all
+  Seamless Polymorphic Inheritance for Django Models (Documentation)
+
+python-pylibsrtp-doc/stable 0.12.0-1 all
+  Python wrapper around libsrtp (documentation)
+
+python3-aiortsp/stable 1.4.0-1 all
+  Asyncio-based RTSP library
+
+python3-assertpy/stable 1.1-1.1 all
+  Simple assertion library for unit testing with a fluent API
+
+python3-createrepo-c/stable 1.2.0-2+b1 arm64
+  library for creating RPM repository metadata (Python bindings)
+
+python3-dartpy/stable 6.13.2+ds-3+b1 arm64
+  Kinematics Dynamics and Optimization Library - DART Python bindings
+
+python3-django-polymorphic/stable 4.0.0-1 all
+  Seamless Polymorphic Inheritance for Django Models (Python3 version)
+
+python3-mrtparse/stable 1.6-3 all
+  read and analyze the MRT format data (Python 3.x module)
+
+python3-multipart/stable 1.2.1-2+deb13u1 all
+  Python multipart/form-data parser
+
+python3-pbcommand/stable 2.1.1+git20231020.28d1635-1 all
+  common command-line interface for Pacific Biosciences analysis modules
+
+python3-portpicker/stable 1.6.0-2 all
+  Python 3 module to find unused network ports to bind to
+
+python3-pylibsrtp/stable 0.12.0-1 arm64
+  Python wrapper around libsrtp
+
+python3-pypartpicker/stable 1.9.5-1 all
+  Fetch product and part list information from PCPartPicker
+
+python3-stdnum/stable 1.20-3 all
+  Python module to handle standardized numbers and codes (Python3 version)
+
+qml6-module-org-kde-kdeconnect/stable 25.04.2-1+deb13u1 arm64
+  QML module wrapping KDE Connect functionality
+
+rtpengine/stable 12.5.1.31-1 all
+  NGCP RTP/media proxy - metapackage
+
+rtpengine-daemon/stable 12.5.1.31-1 arm64
+  proxy for RTP and media streams used in NGCP, userspace part
+
+rtpengine-kernel-dkms/stable 12.5.1.31-1 all
+  IPtables kernel module for the NGCP media proxy - DKMS
+
+rtpengine-perftest/stable 12.5.1.31-1 arm64
+  helper tool to test rtpengine transcoding performance
+
+rtpengine-perftest-data/stable 12.5.1.31-1 all
+  helper tool to test rtpengine transcoding performance - data files
+
+rtpengine-recording-daemon/stable 12.5.1.31-1 arm64
+  recording daemon for RTP and media streams
+
+rtpengine-utils/stable 12.5.1.31-1 all
+  scripts and Perl modules for NGCP rtpengine
+
+rtsp-server-perl/stable 0.06-4 all
+  Lightweight RTSP/RTP streaming media server (service)
+
+sip-tester/stable 1:3.7.3-2 arm64
+  Performance testing tool for the SIP protocol
+
+startpar/stable 0.66-1 arm64
+  run processes in parallel and multiplex their output
+
+tclcl/stable 1.20-13 arm64
+  tcl2c++ and otcldoc program from tclcl
+
+topp/stable 2.6.0+cleaned1-4+b5 arm64
+  set of programs implementing The OpenMS Proteomic Pipeline
+
+tsdecrypt/stable 10.0-4+b1 arm64
+  decrypt MPEG transport stream
+
+uanytun/stable 0.3.7-2+b1 arm64
+  tiny implementation of the secure anycast tunneling protocol
+
+ubuntu-dev-tools/stable 0.206 all
+  useful tools for Ubuntu developers
+
+virtuoso-vsp-startpage/stable 7.2.12+dfsg-2 all
+  high-performance database - web interface files
+
+webext-indie-wiki-buddy-chromium/stable 3.10.1-1 all
+  browser extension that redirects you to independent wikis (Chromium)
+
+webext-indie-wiki-buddy-firefox/stable 3.10.1-1 all
+  browser extension that redirects you to independent wikis (Firefox)
+
+yt-dlp/stable 2025.04.30-1 all
+  downloader of videos from YouTube and other sites
+

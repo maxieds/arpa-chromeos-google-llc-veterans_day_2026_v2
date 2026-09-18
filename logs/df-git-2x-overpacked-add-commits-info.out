@@ -1,0 +1,28 @@
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/vdb         13G   13G  1.1M 100% /
+devtmpfs        1.4G  4.0K  1.4G   1% /dev
+tmpfs           1.4G     0  1.4G   0% /dev/shm
+tmpfs           554M  384K  553M   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.4G     0  1.4G   0% /tmp
+/dev/vda         71M   70M     0 100% /opt/google/cros-containers
+tmpfs           277M   24K  277M   1% /run/user/1000
+fonts           3.0G  2.7G  287M  91% /mnt/chromeos/fonts
+9p              1.9G  1.4M  1.9G   1% /mnt/shared
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@hvc0.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/vdb         13G   11G  1.5G  89% /
+devtmpfs        1.4G  4.0K  1.4G   1% /dev
+tmpfs           1.4G     0  1.4G   0% /dev/shm
+tmpfs           554M  384K  553M   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.4G     0  1.4G   0% /tmp
+/dev/vda         71M   70M     0 100% /opt/google/cros-containers
+tmpfs           277M   24K  277M   1% /run/user/1000
+fonts           3.0G  2.7G  287M  91% /mnt/chromeos/fonts
+9p              1.9G  1.4M  1.9G   1% /mnt/shared
+tmpfs           1.0M     0  1.0M   0% /run/credentials/serial-getty@hvc0.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service

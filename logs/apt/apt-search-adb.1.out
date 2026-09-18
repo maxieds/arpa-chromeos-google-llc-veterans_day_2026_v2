@@ -1,0 +1,632 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+adb/stable 1:34.0.5-12 arm64
+  Android Debug Bridge
+
+adbd/stable 34.0.5-12 arm64
+  Android Debug Bridge daemon
+
+android-udev-rules/stable 0~20250314+ds-5 all
+  udev rules for Android tools
+
+apophenia-bin/stable 1.0+ds-10 arm64
+  Apophenia Statistical C Library -- binary package
+
+apophenia-doc/stable 1.0+ds-10 all
+  Apophenia Statistical C Library -- reference manual
+
+bgpq3/stable 0.1.36.1-1+b1 arm64
+  automatic BGP filter generator using RADB data
+
+chiark-rwbuffer/stable 8.0.1 arm64
+  readbuffer/writebuffer: prevents tape drive seesawing, etc.
+
+dbconfig-common/stable 2.0.25 all
+  framework that helps packages to manage databases
+
+dbconfig-mysql/stable 2.0.25 all
+  dbconfig-common MySQL/MariaDB support
+
+default-libmysqlclient-dev/stable 1.1.1 arm64
+  MySQL database development files (metapackage)
+
+dnsdist/stable 1.9.15-0+deb13u1 arm64
+  DNS loadbalancer
+
+e2fsprogs/stable,now 1.47.2-3+b11 arm64 [installed]
+  ext2/ext3/ext4 file system utilities
+
+ebook-speaker/stable 6.2.0-6+b2 arm64
+  eBook reader that reads aloud in a synthetic voice
+
+emscripten/stable 3.1.69+dfsg-3 all
+  LLVM-to-JavaScript Compiler
+
+falkon/stable 25.04.1-1 arm64
+  lightweight web browser based on Qt WebEngine
+
+fastboot/stable 1:34.0.5-12 arm64
+  Android fastboot tool
+
+fdroidcl/stable 0.7.0-1+b11 arm64
+  F-Droid desktop client
+
+folialint/stable 2.21.1-1+b1 arm64
+  Implementation of the FoLiA document format (C++ headers)
+
+frog/stable 0.34-1+b1 arm64
+  tagger and parser for natural languages (runtime)
+
+frogdata/stable 0.22-2 all
+  Data files for Frog
+
+gir1.2-mbim-1.0/stable 1.32.0-1 arm64
+  GObject introspection data for libmbim-glib
+
+gir1.2-modemmanager-1.0/stable 1.24.0-1+deb13u1 arm64
+  GObject introspection data for modemmanager
+
+gir1.2-nm-1.0/stable 1.52.1-1 arm64
+  GObject introspection data for the libnm library
+
+goiardi/stable 0.11.10-2+b11 arm64
+  Chef server written in Go
+
+goiardi-doc/stable 0.11.10-2 all
+  Documentation for Goiardi
+
+golang-ariga-atlas-dev/stable 0.7.2-2 all
+  manage your database schemas with Atlas (library)
+
+golang-github-ctdk-goiardi-dev/stable 0.11.10-2 all
+  Golang library to interact with a chef server
+
+golang-github-mvdan-fdroidcl-dev/stable 0.7.0-1 all
+  fdroidcl develpoment files
+
+golang-github-scylladb-termtables-dev/stable 0.0~git20191203.c4c0b6d-3 all
+  Fast and simple ASCII table generation.
+
+golang-github-smallstep-nosql-dev/stable 0.3.8-3 all
+  abstraction layer for data persistency written in golang
+
+golang-gopkg-testfixtures.v2-dev/stable 2.2.0-2 all
+  Rails-like test fixtures for Go
+
+hapolicy/stable 1.35-10 all
+  Balancing and fallback postfix policy delegation service
+
+hibiscus/stable 2.10.24+dfsg-1 all
+  Java online banking client using the HBCI standard
+
+hibiscus-doc/stable 2.10.24+dfsg-1 all
+  Java online banking client using the HBCI standard - documentation package
+
+icingadb/stable 1.3.0-1+b2 arm64
+  database connector for Icinga 2
+
+icingadb-web/stable 1.1.3-1 all
+  Icinga DB Web for Icinga Web 2
+
+konqueror/stable 4:25.04.0-1 arm64
+  advanced file manager, web browser and document viewer
+
+libandroid-ddms-java/stable 2.2.2-6 all
+  Communicate with devices through adb - Core library
+
+libapophenia2-dev/stable 1.0+ds-10 arm64
+  Apophenia Statistical C Library -- development package
+
+libapophenia2t64/stable 1.0+ds-10 arm64
+  Apophenia Statistical C Library -- library package
+
+libaprutil1-dbd-mysql/stable 1.6.3-3+b1 arm64
+  Apache Portable Runtime Utility Library - MySQL Driver
+
+libdbd-mariadb-perl/stable 1.22-1+b4 arm64
+  Perl5 database interface to the MariaDB/MySQL databases
+
+libdbd-mysql-perl/stable 4.053-1 arm64
+  Perl5 database interface to the MariaDB/MySQL database
+
+libdbix-admin-createtable-perl/stable 2.11-2 all
+  DBI extension for manipulating tables
+
+libfile-readbackwards-perl/stable 1.06-2 all
+  Perl module for reading a file backwards by lines
+
+libfolia-dev/stable 2.21.1-1+b1 arm64
+  Implementation of the FoLiA document format (C++ headers)
+
+libfolia22/stable 2.21.1-1+b1 arm64
+  Implementation of the FoLiA document format
+
+libfrog-dev/stable 0.34-1+b1 arm64
+  tagger and parser for natural languages (headers)
+
+libfrog3/stable 0.34-1+b1 arm64
+  tagger and parser for Dutch language (library)
+
+libghc-lifted-async-dev/stable 0.10.2.6-1 arm64
+  operations from async lifted to MonadBase
+
+libghc-lifted-async-doc/stable 0.10.2.6-1 all
+  operations from async lifted to MonadBase; documentation
+
+libghc-lifted-async-prof/stable 0.10.2.6-1 arm64
+  operations from async lifted to MonadBase; profiling libraries
+
+libghc-lifted-base-dev/stable 0.2.3.12-6+b1 arm64
+  Lifted IO operations from the base library
+
+libghc-lifted-base-doc/stable 0.2.3.12-6 all
+  Lifted IO operations from the base library; documentation
+
+libghc-lifted-base-prof/stable 0.2.3.12-6+b1 arm64
+  Lifted IO operations from the base library; profiling libraries
+
+libghc-rio-orphans-dev/stable 0.1.2.0-3+b1 arm64
+  Orphan instances for the RIO type in the rio package
+
+libghc-rio-orphans-doc/stable 0.1.2.0-3 all
+  Orphan instances for the RIO type in the rio package; documentation
+
+libghc-rio-orphans-prof/stable 0.1.2.0-3+b1 arm64
+  Orphan instances for the RIO type in the rio package; profiling libraries
+
+libhoel-dev/stable 1.4.29-1.1+b2 arm64
+  database abstraction library written in C - development
+
+libhoel1.4t64/stable 1.4.29-1.1+b2 arm64
+  database abstraction library written in C
+
+libio-all-perl/stable 0.87-2 all
+  Perl module for unified IO operations
+
+libmariadb-dev/stable 1:11.8.6-0+deb13u1 arm64
+  MariaDB database development files
+
+libmariadb-dev-compat/stable 1:11.8.6-0+deb13u1 arm64
+  MariaDB Connector/C, compatibility symlinks
+
+libmariadb-java/stable 2.7.6-1 all
+  Java database driver for MariaDB and MySQL
+
+libmariadb3/stable 1:11.8.6-0+deb13u1 arm64
+  MariaDB database client library
+
+libmariadbd-dev/stable 1:11.8.6-0+deb13u1 arm64
+  MariaDB embedded database, development files
+
+libmariadbd19t64/stable 1:11.8.6-0+deb13u1 arm64
+  MariaDB embedded database, shared library
+
+libmbim-glib-dev/stable 1.32.0-1 arm64
+  Header files for adding MBIM support to applications that use glib
+
+libmbim-glib-doc/stable 1.32.0-1 all
+  API documentation for the MBIM protocol library
+
+libmbim-glib4/stable 1.32.0-1 arm64
+  Support library to use the MBIM protocol
+
+libmbim-proxy/stable 1.32.0-1 arm64
+  Proxy to communicate with MBIM ports
+
+libmbim-utils/stable 1.32.0-1 arm64
+  Utilities to use the MBIM protocol from the command line
+
+libmbt-dev/stable 3.11-2 arm64
+  memory-based tagger-generator and tagger - development
+
+libmbt2/stable 3.11-2 arm64
+  memory-based tagger-generator and tagger - runtime
+
+libmbtserver-dev/stable 0.17-2 arm64
+  Server extensions for Timbl - development
+
+libmbtserver2/stable 0.17-2 arm64
+  Server extensions for Timbl - runtime
+
+libmeep-dev/stable 1.29.0-2 arm64
+  development library for using meep
+
+libmeep-mpi-default-dev/stable 1.29.0-2 arm64
+  development library for using parallel version of meep
+
+libmeep-mpi-default33/stable 1.29.0-2 arm64
+  library for using parallel version of meep
+
+libmeep33/stable 1.29.0-2 arm64
+  library for using meep
+
+libmm-glib-dev/stable 1.24.0-1+deb13u1 arm64
+  D-Bus service for managing modems - library development files
+
+libmm-glib-doc/stable 1.24.0-1+deb13u1 all
+  D-Bus service for managing modems - library documentation
+
+libmm-glib0/stable 1.24.0-1+deb13u1 arm64
+  D-Bus service for managing modems - shared libraries
+
+libnginx-mod-stream/stable 1.26.3-3+deb13u7 arm64
+  Stream module for Nginx
+
+libnm-dev/stable 1.52.1-1 arm64
+  GObject-based client library for NetworkManager (development files)
+
+libnm0/stable 1.52.1-1 arm64
+  GObject-based client library for NetworkManager
+
+libnss-mysql/stable 1.6.1-2 arm64
+  NSS module for using MySQL/MariaDB as a naming service
+
+libreoffice-base-drivers/stable 4:25.2.3-2+deb13u6 arm64
+  Database connectivity drivers for LibreOffice
+
+libreoffice-sdbc-mysql/stable 4:25.2.3-2+deb13u6 arm64
+  MariaDB/MySQL SDBC driver for LibreOffice
+
+librepfunc1/stable 1.10.0-1+b1 arm64
+  set of C++ classes and utilities for building multimedia tools
+
+librestfuldb-perl/stable 0.16.0+dfsg-1.1 all
+  Web frontend for relational databases - Perl modules
+
+librust-adblock-dev/stable 0.8.12-4 arm64
+  native Rust module for Adblock Plus syntax - Rust source code
+
+librust-forensic-adb-dev/stable 0.8.0-1 arm64
+  Client library for the Android Debug Bridge (adb) - Rust source code
+
+librust-spytrap-adb-dev/stable 0.3.5-1 arm64
+  Test a phone for stalkerware using adb and usb debugging - Rust source code
+
+libtango-dev/stable 10.0.2+dfsg1-2+deb13u1 arm64
+  TANGO distributed control system - development library
+
+libtango-doc/stable 10.0.2+dfsg1-2+deb13u1 all
+  TANGO distributed control system - documentation
+
+libtango10/stable 10.0.2+dfsg1-2+deb13u1 arm64
+  TANGO distributed control system - shared library
+
+libtimbl-dev/stable 6.10-3 arm64
+  Tilburg Memory Based Learner - development
+
+libtimbl7/stable 6.10-3 arm64
+  Tilburg Memory Based Learner - runtime
+
+libucto-dev/stable 0.35-2+b1 arm64
+  Unicode Tokenizer - development
+
+libucto6/stable 0.35-2+b1 arm64
+  Unicode Tokenizer - runtime
+
+lua-dbi-common/stable 0.7.4-1 all
+  DBI library for the Lua language, common files
+
+lua-dbi-mysql/stable 0.7.4-1 arm64
+  DBI library for the Lua language, MySQL backend
+
+lua-dbi-postgresql/stable 0.7.4-1 arm64
+  DBI library for the Lua language, PostgreSQL backend
+
+lua-dbi-sqlite3/stable 0.7.4-1 arm64
+  DBI library for the Lua language, sqlite3 backend
+
+madbomber/stable 0.2.5-10 arm64
+  Kaboom! clone
+
+madbomber-data/stable 0.2.5-10 all
+  Datafiles for madbomber
+
+mariadb-backup/stable 1:11.8.6-0+deb13u1 arm64
+  Backup tool for MariaDB server
+
+mariadb-client/stable 1:11.8.6-0+deb13u1 arm64
+  MariaDB database client binaries
+
+mariadb-client-compat/stable 1:11.8.6-0+deb13u1 all
+  MySQL compatibility links to mariadb-client binaries/scripts
+
+mariadb-client-core/stable 1:11.8.6-0+deb13u1 arm64
+  MariaDB database core client binaries
+
+mariadb-common/stable 1:11.8.6-0+deb13u1 all
+  MariaDB database common config files (/etc/mysql/mariadb.conf.d/)
+
+mariadb-plugin-connect/stable 1:11.8.6-0+deb13u1 arm64
+  Connect storage engine for MariaDB server
+
+mariadb-plugin-connect-jdbc/stable 1:11.8.6-0+deb13u1 all
+  Connect storage engine JDBC interface for MariaDB server
+
+mariadb-plugin-cracklib-password-check/stable 1:11.8.6-0+deb13u1 arm64
+  CrackLib Password Validation Plugin for MariaDB server
+
+mariadb-plugin-gssapi-client/stable 1:11.8.6-0+deb13u1 arm64
+  GSSAPI authentication plugin for MariaDB client
+
+mariadb-plugin-gssapi-server/stable 1:11.8.6-0+deb13u1 arm64
+  GSSAPI authentication plugin for MariaDB server
+
+mariadb-plugin-hashicorp-key-management/stable 1:11.8.6-0+deb13u1 arm64
+  Hashicorp Key Management plugin for MariaDB
+
+mariadb-plugin-mroonga/stable 1:11.8.6-0+deb13u1 arm64
+  Mroonga storage engine for MariaDB server
+
+mariadb-plugin-oqgraph/stable 1:11.8.6-0+deb13u1 arm64
+  OQGraph storage engine for MariaDB server
+
+mariadb-plugin-provider-bzip2/stable 1:11.8.6-0+deb13u1 arm64
+  BZip2 compression support in the server and storage engines
+
+mariadb-plugin-provider-lz4/stable 1:11.8.6-0+deb13u1 arm64
+  LZ4 compression support in the server and storage engines
+
+mariadb-plugin-provider-lzma/stable 1:11.8.6-0+deb13u1 arm64
+  LZMA compression support in the server and storage engines
+
+mariadb-plugin-provider-lzo/stable 1:11.8.6-0+deb13u1 arm64
+  LZO compression support in the server and storage engines
+
+mariadb-plugin-provider-snappy/stable 1:11.8.6-0+deb13u1 arm64
+  Snappy compression support in the server and storage engines
+
+mariadb-plugin-rocksdb/stable 1:11.8.6-0+deb13u1 arm64
+  RocksDB storage engine for MariaDB server
+
+mariadb-plugin-s3/stable 1:11.8.6-0+deb13u1 arm64
+  Amazon S3 archival storage engine for MariaDB
+
+mariadb-plugin-spider/stable 1:11.8.6-0+deb13u1 arm64
+  Spider storage engine for MariaDB server
+
+mariadb-server/stable 1:11.8.6-0+deb13u1 arm64
+  MariaDB database server binaries
+
+mariadb-server-10.5/stable 1:11.8.6-0+deb13u1 arm64
+  MariaDB database server binaries (transitional dummy package)
+
+mariadb-server-compat/stable 1:11.8.6-0+deb13u1 all
+  MySQL compatibility links to mariadb-server binaries/scripts
+
+mariadb-server-core/stable 1:11.8.6-0+deb13u1 arm64
+  MariaDB database core server files
+
+mariadb-test/stable 1:11.8.6-0+deb13u1 arm64
+  MariaDB database regression test suite
+
+mariadb-test-data/stable 1:11.8.6-0+deb13u1 all
+  MariaDB database regression test suite - data files
+
+mbt/stable 3.11-2 arm64
+  memory-based tagger-generator and tagger
+
+mbtserver/stable 0.17-2 arm64
+  Server extensions for the MBT tagger
+
+meep/stable 1.29.0-2 arm64
+  software package for FDTD simulation
+
+meep-mpi-default/stable 1.29.0-2 arm64
+  software package for FDTD simulation, parallel version
+
+mobile-broadband-provider-info/stable 20250613-2 all
+  database of mobile broadband service providers
+
+modemmanager/stable 1.24.0-1+deb13u1 arm64
+  D-Bus service for managing modems
+
+modemmanager-dev/stable 1.24.0-1+deb13u1 arm64
+  D-Bus service for managing modems - development files
+
+modemmanager-doc/stable 1.24.0-1+deb13u1 all
+  D-Bus service for managing modems - documentation files
+
+mtd-utils/stable 1:2.3.0-1 arm64
+  Memory Technology Device Utilities
+
+muchsync/stable 7-1+b2 arm64
+  synchronize maildirs and notmuch databases
+
+mycli/stable 1.31.2-1 all
+  CLI for MySQL/MariaDB with auto-completion and syntax highlighting
+
+network-manager/stable 1.52.1-1 arm64
+  network management framework (daemon and userspace tools)
+
+network-manager-applet/stable 1.36.0-3 arm64
+  network management framework (notification area applet)
+
+network-manager-gnome/stable 1.36.0-3 arm64
+  transitional package for network-manager-applet and nm-connection-editor
+
+network-manager-iodine/stable 1.2.0-3.3+b2 arm64
+  network management framework (iodine plugin core)
+
+network-manager-iodine-gnome/stable 1.2.0-3.3+b2 arm64
+  network management framework (iodine plugin GNOME GUI)
+
+network-manager-l2tp/stable 1.20.20-2 arm64
+  network management framework (L2TP plugin core)
+
+network-manager-l2tp-gnome/stable 1.20.20-2 arm64
+  network management framework (L2TP plugin GNOME GUI)
+
+network-manager-openconnect/stable 1.2.10-3+b2 arm64
+  network management framework (OpenConnect plugin core)
+
+network-manager-openconnect-gnome/stable 1.2.10-3+b2 arm64
+  network management framework (OpenConnect plugin GNOME GUI)
+
+network-manager-openvpn/stable 1.12.3-1~deb13u1 arm64
+  network management framework (OpenVPN plugin core)
+
+network-manager-openvpn-gnome/stable 1.12.3-1~deb13u1 arm64
+  network management framework (OpenVPN plugin GNOME GUI)
+
+network-manager-pptp/stable 1.2.12-4+b2 arm64
+  network management framework (PPTP plugin core)
+
+network-manager-pptp-gnome/stable 1.2.12-4+b2 arm64
+  network management framework (PPTP plugin GNOME GUI)
+
+network-manager-ssh/stable 1.2.11-1.1+b2 arm64
+  network management framework (SSH plugin core)
+
+network-manager-ssh-gnome/stable 1.2.11-1.1+b2 arm64
+  network management framework (SSH plugin GNOME GUI)
+
+network-manager-sstp/stable 1.3.2-1+b6 arm64
+  network management framework (SSTP plugin core)
+
+network-manager-sstp-gnome/stable 1.3.2-1+b6 arm64
+  network management framework (SSTP plugin GNOME GUI)
+
+network-manager-vpnc/stable 1.4.0-2 arm64
+  network management framework (VPNC plugin core)
+
+network-manager-vpnc-gnome/stable 1.4.0-2 arm64
+  network management framework (VPNC plugin GNOME GUI)
+
+nm-connection-editor/stable 1.36.0-3 arm64
+  network management framework (connection configuration editor)
+
+odbc-mariadb/stable 3.1.15-5 arm64
+  ODBC driver for MariaDB
+
+omnidb-common/stable 3.0.3b+ds-6 all
+  Web tool for database management (shared files)
+
+omnidb-server/stable 3.0.3b+ds-6 all
+  Web tool for database management
+
+opensmtpd-table-mysql/stable 1.2.1-1 arm64
+  lookup OpenSMTPD users in MySQL or MariaDB tables
+
+openstack-cloud-services/stable 0.39 all
+  Metapackage to install all Openstack service dependencies
+
+orthanc-mysql/stable 5.0+dfsg-1+b9 arm64
+  Plugins to use MySQL or MariaDB as a database back-end to Orthanc
+
+pd-jmmmp/stable 0.61-2 all
+  collection of Pd GUI objects for musical performance
+
+php-mariadb-mysql-kbs/stable 1.3.0-2 all
+  Knowledge base about MariaDB and MySQL server variables
+
+phpab/stable 1.29.3-2 all
+  lightweight PHP namespace aware autoload generator
+
+phpmyadmin/stable 4:5.2.2-really+dfsg-1+deb13u1 all
+  MySQL web administration tool
+
+pidcat/stable 2.1.0-6 all
+  Colored adb logcat that shows entries for specific apps
+
+ppp/stable 2.5.2-1+1 arm64
+  Point-to-Point Protocol (PPP) - daemon
+
+python-django-tree-queries-doc/stable 0.19-1 all
+  Adjacency-list trees for Django (Documentation)
+
+python3-androidtvremote2/stable 0.1.1-2 all
+  interacting with Android TV using the Android TV Remote protocol v2
+
+python3-asyncmy/stable 0.2.10-1+b1 arm64
+  Fast asyncio MySQL/MariaDB driver (Python 3)
+
+python3-django-tree-queries/stable 0.19-1 all
+  Adjacency-list trees for Django (Python3 version)
+
+python3-endesive/stable 2.18.0+dfsg-1 all
+  library for digital signing and verification of signatures in docs
+
+python3-libcloud/stable 3.8.0+repack-4 all
+  unified Python interface into the cloud (Python3 version)
+
+python3-mariadb-connector/stable 1.1.12-1 arm64
+  Enables Python programs to access MariaDB and MySQL database
+
+python3-meep/stable 1.29.0-2 arm64
+  software package for FDTD simulation with Python
+
+python3-meep-mpi-default/stable 1.29.0-2 arm64
+  software package for FDTD simulation with Python
+
+python3-ppadb/stable 0.3.0-4 all
+  pure Python implementation of the adb client
+
+python3-py-dormakaba-dkey/stable 1.0.5-2 all
+  Library to interact with Dormakaba dKey locks via Bluetooth
+
+r-cran-readbrukerflexdata/stable 1.9.3-1 all
+  GNU R package to read Bruker Daltonics *flex format files
+
+r-cran-rmariadb/stable 1.3.3+ds-1 arm64
+  Database Interface and 'MariaDB' Driver
+
+resource-agents/stable 1:4.16.0-3+deb13u2 arm64
+  Cluster Resource Agents
+
+restfuldb/stable 0.16.0+dfsg-1.1 all
+  Web frontend for relational databases
+
+rfkill/stable 2.41-5 arm64
+  tool for enabling and disabling wireless devices
+
+rttool/stable 1.0.3.0-7 all
+  RT table formatter
+
+ruby-rt/stable 1.0.3.0-7 all
+  RTTool library for Ruby
+
+sequeler/stable 0.8.2-1+b3 arm64
+  SQL client built in Vala and Gtk
+
+sludge-engine/stable 2.2.2-5+b4 arm64
+  Runtime engine for playing SLUDGE adventure games
+
+snake4/stable 1.0.14-1.3 arm64
+  Snake game
+
+speedtest-cli/stable 2.1.3-3 all
+  Command line interface for testing internet bandwidth using speedtest.net
+
+spytrap-adb/stable 0.3.5-1 arm64
+  Test a phone for stalkerware using adb and usb debugging
+
+tango-db/stable 10.0.2+dfsg1-2+deb13u1 arm64
+  TANGO distributed control system - database server
+
+texlive-bibtex-extra/stable 2024.20250309-2 all
+  TeX Live: BibTeX additional styles
+
+texlive-publishers/stable 2024.20250309-2 all
+  TeX Live: Publisher styles, theses, etc.
+
+timbl/stable 6.10-3 arm64
+  Tilburg Memory Based Learner
+
+ublock-origin-doc/stable 1.67.0+dfsg-1~deb13u1 all
+  lightweight and efficient ads, malware, trackers blocker (docs)
+
+ucto/stable 0.35-2+b1 arm64
+  Unicode Tokenizer
+
+uctodata/stable 0.11-2 all
+  Data files for Ucto
+
+webext-ublock-origin-chromium/stable 1.67.0+dfsg-1~deb13u1 all
+  lightweight and efficient ads, malware, trackers blocker (Chromium)
+
+webext-ublock-origin-firefox/stable 1.67.0+dfsg-1~deb13u1 all
+  lightweight and efficient ads, malware, trackers blocker (Firefox)
+

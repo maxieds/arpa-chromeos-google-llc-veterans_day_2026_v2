@@ -1,0 +1,416 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+amazon-ec2-net-utils/stable 2.4.1-2 all
+  utilities for managing network interfaces in Amazon EC2
+
+amazon-ec2-utils/stable 2.1.0-1.1 all
+  Utilities to manage Amazon EC2 instance storage
+
+amazon-ecr-credential-helper/stable 0.7.1-2.1+b6 arm64
+  Amazon ECR Credential Helper for Docker
+
+apprise/stable 1.9.3-1 all
+  Push Notifications that work with just about every platform
+
+apt-transport-s3/stable 2.2.1-1 all
+  APT transport for privately held AWS S3 repositories
+
+awscli/stable 2.23.6-1 all
+  Unified command line interface to Amazon Web Services
+
+cedar-backup3/stable 3.9.2-1 all
+  local and remote backups to CD/DVD media or Amazon S3 storage
+
+cedar-backup3-doc/stable 3.9.2-1 all
+  local and remote backups to CD/DVD media or Amazon S3 storage (documentation)
+
+cl-zs3/stable 1.3.1-1.1 all
+  Amazon S3 and CloudFront from Common Lisp
+
+cloud-enum/stable 0.7-3 all
+  Multi-cloud open source intelligence tool
+
+davix/stable 0.8.10-1 arm64
+  Toolkit for http based file management
+
+davix-dev/stable 0.8.10-1 arm64
+  Development files for davix
+
+davix-doc/stable 0.8.10-1 all
+  Documentation for davix
+
+davix-tests/stable 0.8.10-1 arm64
+  Test suite for davix
+
+distribution-gpg-keys/stable 1.119+ds-1~deb13u1 all
+  Archive keyrings for RPM-based Linux distributions
+
+dtv-scan-tables/stable 0+git20190925.6d01903-0.1 all
+  Digital Video Broadcasting (DVB) initial scan files
+
+fence-agents-aws/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - AWS agent
+
+flight-of-the-amazon-queen/stable 1.0.0-11 all
+  classic 2D point and click fantasy adventure game
+
+gamazons/stable 0.83-12+b1 arm64
+  Amazons boardgame for GNOME
+
+git-annex-remote-rclone/stable 0.8-1 all
+  rclone-based git annex special remote
+
+glyrc/stable 1.0.10-2.1 arm64
+  command-line interface to libglyr
+
+gobuster/stable 3.6.0-1+b10 arm64
+  Directory/file & DNS busting tool written in Go
+
+golang-github-armon-go-proxyproto-dev/stable 0.1.0-1 all
+  Golang package to handle HAProxy Proxy Protocol
+
+golang-github-aws-aws-sdk-go-dev/stable 1.49.0-2 all
+  AWS SDK for the Go programming language
+
+golang-github-awslabs-amazon-ecr-credential-helper-dev/stable 0.7.1-2.1 all
+  Amazon ECR Credential Helper for Docker (library)
+
+golang-github-minio-minio-go-dev/stable 6.0.53-1 all
+  Go library for Amazon S3 compatible cloud storage
+
+golang-github-minio-minio-go-v7-dev/stable 7.0.89-1 all
+  Go library for Amazon S3 compatible cloud storage
+
+golang-github-ncw-go-acd-dev/stable 0.0~git20171120.887eb06-2 all
+  Go library for accessing Amazon Cloud Drive
+
+golang-github-prometheus-common-dev/stable 0.62.0-3 all
+  common libraries for Prometheus components
+
+golang-github-prometheus-sigv4-dev/stable 0.1.2-2 all
+  Go http.RoundTripper for signing requests using AWS SigV4 (library)
+
+golang-github-smartystreets-go-aws-auth-dev/stable 1.0.0-1 all
+  Go library to signs requests to Amazon Web Services
+
+golang-github-smira-go-aws-auth-dev/stable 0.0~git20160320.0070896-1.1 all
+  signs requests to Amazon Web Services
+
+golang-github-tink-crypto-tink-go-awskms-dev/stable 2.1.0-2 all
+  Extension to Tink Go that provides AWS KMS integration (library)
+
+golang-github-xanzy-go-cloudstack-dev/stable 2.9.0-1 all
+  Golang API client to interact with Apache CloudStack
+
+httpie-aws-authv4/stable 0.3.0-2 all
+  AWS Signature v4 Signing Process authentication plugin for HTTPie
+
+ibverbs-providers/stable 56.1-1 arm64
+  User space provider drivers for libibverbs
+
+jets3t/stable 0.8.1+dfsg-5 all
+  graphical and command-line tools for Amazon S3 and CloudFront
+
+kid3/stable 3.9.6-3 arm64
+  KDE audio tag editor
+
+kid3-cli/stable 3.9.6-3 arm64
+  Command line audio tag editor
+
+kid3-core/stable 3.9.6-3 arm64
+  Audio tag editor core libraries and data
+
+kid3-qt/stable 3.9.6-3 arm64
+  Audio tag editor
+
+lgogdownloader/stable 3.17-1 arm64
+  downloader for GOG.com files
+
+libamazon-s3-perl/stable 0.65-1 all
+  portable client interface to Amazon Simple Storage System (S3)
+
+libamazon-sqs-simple-perl/stable 2.07-1.1 all
+  Perl module for accessing the Amazon Simple Queue
+
+libaws-signature4-perl/stable 1.02-3 all
+  module to create a version4 signature for Amazon Web Services
+
+libdavix0t64/stable 0.8.10-1 arm64
+  Runtime library for davix
+
+libghc-aws-dev/stable 0.24.1-2+b1 arm64
+  Amazon Web Services for Haskell
+
+libghc-aws-doc/stable 0.24.1-2 all
+  Amazon Web Services for Haskell; documentation
+
+libghc-aws-prof/stable 0.24.1-2+b1 arm64
+  Amazon Web Services for Haskell; profiling libraries
+
+libghc-mime-mail-ses-dev/stable 0.4.3-3+b1 arm64
+  send mime-mail messages via Amazon SES
+
+libghc-mime-mail-ses-doc/stable 0.4.3-3 all
+  send mime-mail messages via Amazon SES; documentation
+
+libghc-mime-mail-ses-prof/stable 0.4.3-3+b1 arm64
+  send mime-mail messages via Amazon SES; profiling libraries
+
+libglyr-dev/stable 1.0.10-2.1 arm64
+  search engine for music-related metadata - development files
+
+libglyr-doc/stable 1.0.10-2.1 all
+  search engine for music-related metadata - documentation
+
+libglyr1/stable 1.0.10-2.1 arm64
+  search engine for music-related metadata
+
+libjets3t-java/stable 0.8.1+dfsg-5 all
+  Java interface to Amazon S3 and CloudFront services
+
+libnet-amazon-ec2-perl/stable 0.36-2 all
+  Perl interface to the Amazon Elastic Compute Cloud (EC2)
+
+libnet-amazon-s3-perl/stable 0.991-1 all
+  Amazon S3 Perl API - Simple Storage Service
+
+libnet-amazon-s3-tools-perl/stable 0.08-3 all
+  Command line tools for Amazon AWS S3
+
+libnet-amazon-signature-v4-perl/stable 0.21-2 all
+  module for the Amazon Web Services signature version 4
+
+librgw-dev/stable 18.2.7+ds-1+deb13u1 arm64
+  RADOS client library (development files)
+
+librgw2/stable 18.2.7+ds-1+deb13u1 arm64
+  RADOS Gateway client library
+
+librgw2-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for librbd1
+
+libs3-2/stable 2.0-5 arm64
+  C Library and Tools for Amazon S3 Access
+
+libs3-dev/stable 2.0-5 arm64
+  C Development Library for Amazon S3 Access
+
+libvm-ec2-perl/stable 1.28-5 all
+  module providing controls on Amazon EC2 and Eucalyptus
+
+mariadb-plugin-s3/stable 1:11.8.6-0+deb13u1 arm64
+  Amazon S3 archival storage engine for MariaDB
+
+minio-client/stable 0.0~20250403-3+b3 arm64
+  Simple, fast tool to manage MinIO clusters
+
+node-aws4/stable 1.11.0-2 all
+  Signs and prepares requests using AWS Signature Version 4
+
+node-nock/stable 13.5.4-2 all
+  Nock is an HTTP mocking and expectations library for Node.js
+
+nova-api/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute API frontend
+
+nova-common/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - common files
+
+nova-compute/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node
+
+nova-compute-ironic/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (Ironic)
+
+nova-compute-kvm/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (KVM)
+
+nova-compute-lxc/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (LXC)
+
+nova-compute-qemu/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (QEmu)
+
+nova-conductor/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - conductor service
+
+nova-consoleproxy/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - NoVNC proxy
+
+nova-doc/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - documentation
+
+nova-scheduler/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - virtual machine scheduler
+
+php-symfony-amazon-mailer/stable 6.4.41+dfsg-0+deb13u1 all
+  Symfony Amazon Mailer Bridge
+
+php-symfony-amazon-sns-notifier/stable 6.4.41+dfsg-0+deb13u1 all
+  Symfony Amazon SNS Notifier Bridge
+
+php-symfony-amazon-sqs-messenger/stable 6.4.41+dfsg-0+deb13u1 all
+  Symfony Amazon SQS extension Messenger Bridge
+
+puddletag/stable 2.4.0-1 all
+  simple, powerful audio tag editor
+
+python-django-allauth-doc/stable 65.0.2-1 all
+  Django app for local and social authentication (Documentation)
+
+python-novaclient-doc/stable 2:18.9.0-2 all
+  client library for OpenStack Compute API - doc
+
+python-vcr-doc/stable 7.0.0-2 all
+  record and replay HTML interactions (Documentation)
+
+python3-aws-requests-auth/stable 0.4.3-5 all
+  AWS Signature Version 4 Signing Process (Python 3)
+
+python3-awsauth/stable 0.1.5-3 all
+  AWS authentication for Amazon S3 for the python3-requests module
+
+python3-awscrt/stable 0.24.0+dfsg-1 arm64
+  Python 3 bindings for the AWS Common Runtime
+
+python3-borgstore/stable 0.3.0-2 all
+  Simple key/value store implementation in Python
+
+python3-boto3/stable 1.37.9-1 all
+  Python interface to Amazon's Web Services - Python 3.x
+
+python3-botocore/stable 1.37.9+repack-1 all
+  Low-level, data-driven core of boto 3 (Python 3)
+
+python3-django-allauth/stable 65.0.2-1 all
+  Django app for local and social authentication (Python 3 version)
+
+python3-django-anymail/stable 13.0-1 all
+  Django email backend for multiple ESPs (Python 3)
+
+python3-django-dbbackup/stable 4.2.1-1 all
+  Backup and restore commands for Django
+
+python3-hass-nabucasa/stable 0.103.0-1 all
+  Home Assistant cloud integration for secure access to cloud services
+
+python3-libcloud/stable 3.8.0+repack-4 all
+  unified Python interface into the cloud (Python3 version)
+
+python3-nova/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - libraries
+
+python3-novaclient/stable 2:18.9.0-2 all
+  client library for OpenStack Compute API - 3.x
+
+python3-s3transfer/stable 0.11.4-1 all
+  Amazon S3 Transfer Manager for Python3
+
+python3-vcr/stable 7.0.0-2 all
+  record and replay HTML interactions
+
+python3-whitenoise/stable 6.8.2-1 all
+  static file serving for WSGI applications (Python 3)
+
+python3-zaqar/stable 20.0.0-2 all
+  OpenStack Queueing as a Service - Python libraries
+
+python3-zaqar-ui/stable 18.0.0-1 all
+  OpenStack Queueing as a Service - Dashboard plugin
+
+python3-zaqarclient/stable 3.0.0-3 all
+  OpenStack Zaqar Queueing API, client and library - Python 3.x
+
+radosgw/stable 18.2.7+ds-1+deb13u1 arm64
+  REST gateway for RADOS distributed object store
+
+radosgw-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for radosgw
+
+rclone/stable 1.60.1+dfsg-4 arm64
+  rsync for commercial cloud storage
+
+resource-agents/stable 1:4.16.0-3+deb13u2 arm64
+  Cluster Resource Agents
+
+ruby-activestorage/stable 2:7.2.2.2+dfsg-2~deb13u1 all
+  local and cloud file storage framework (part of Rails)
+
+ruby-amazon-ec2/stable 0.9.17-5 all
+  Ruby library for accessing Amazon EC2
+
+ruby-aws/stable 2.10.2-5 all
+  AWS Ruby Library for interfacing with Amazon Web Services
+
+ruby-aws-eventstream/stable 1.3.0-1 all
+  AWS Event Stream Library
+
+ruby-aws-sdk/stable 1.67.0-3 all
+  Amazon Web Services SDK for Ruby
+
+ruby-aws-sdk-s3/stable 1.170.1-1 all
+  AWS SDK for Ruby - Amazon S3
+
+ruby-aws-sigv4/stable 1.10.1-1 all
+  AWS Signature Version 4 library
+
+ruby-fog-aws/stable 3.18.0-2 all
+  module for the 'fog' gem to support Amazon Web Services
+
+s3backer/stable 1.5.4-2+b3 arm64
+  Amazon AWS S3-backed virtual hard disk device
+
+s3cmd/stable 2.4.0-3 all
+  command-line Amazon S3 client
+
+s3fs/stable 1.95-1 arm64
+  FUSE-based file system backed by Amazon S3
+
+s3ql/stable 5.2.3+dfsg-2 arm64
+  Full-featured file system for online data storage
+
+s3ql-dbg/stable 5.2.3+dfsg-2 arm64
+  Full-featured file system for online data storage (debugging symbols)
+
+s4cmd/stable 2.1.0+ds-3 all
+  Super Amazon S3 command line tool
+
+sacad/stable 2.8.0-2 all
+  Search and download music album covers
+
+scummvm/stable 2.9.0+dfsg-1+b1 arm64
+  engine for several graphical adventure games
+
+scummvm-data/stable 2.9.0+dfsg-1 all
+  engine for several graphical adventure games (data files)
+
+ssg-applications/stable 0.1.76-1 all
+  SCAP Guides and benchmarks targeting userspace applications
+
+ssg-nondebian/stable 0.1.76-1 all
+  SCAP Guides and benchmarks targeting other GNU/Linux OS
+
+tcllib/stable 2.0+dfsg-4 all
+  Standard Tcl Library
+
+tellico/stable 4.1.1-1 arm64
+  Collection manager for books, videos, music, etc
+
+tellico-data/stable 4.1.1-1 all
+  Collection manager for books, videos, music, etc [data]
+
+tellico-doc/stable 4.1.1-1 all
+  Collection manager for books, videos, music, etc [doc]
+
+yt-dlp/stable 2025.04.30-1 all
+  downloader of videos from YouTube and other sites
+
+zaqar-common/stable 20.0.0-2 all
+  OpenStack Queueing as a Service - common files
+
+zaqar-server/stable 20.0.0-2 all
+  OpenStack Queueing as a Service - API server
+

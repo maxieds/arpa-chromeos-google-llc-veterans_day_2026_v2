@@ -1,0 +1,491 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+acorn-fdisk/stable 3.0.6-13+b1 arm64
+  partition editor for Acorn/RISC OS machines
+
+arch-test/stable 0.22-1 all
+  detect architectures supported by your machine/kernel
+
+avra/stable 1.4.2+dfsg-1+b2 arm64
+  assembler for Atmel AVR microcontrollers
+
+avrp/stable 1.0beta3-8 arm64
+  Programmer for Atmel AVR microcontrollers
+
+binutils-or1k-elf/stable 2.44-3+1.0.13+b1 arm64
+  GNU binary utilities for the Open RISC 1000 processors
+
+binutils-riscv64-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for riscv64-linux-gnu target
+
+binutils-riscv64-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for riscv64-linux-gnu target (debug symbols)
+
+binutils-riscv64-unknown-elf/stable 2.44-3+7+b1 arm64
+  GNU assembler, linker and binary utilities for Risc-V processors
+
+brandy/stable 1.23.5-1 arm64
+  BBC BASIC VI interpreter
+
+cpp-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C preprocessor
+
+cpp-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for riscv64-linux-gnu
+
+cpp-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for riscv64-linux-gnu
+
+cpp-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the riscv64 architecture
+
+crossbuild-essential-riscv64/stable 12.12 all
+  Informational list of cross-build-essential packages
+
+debian-installer-13-netboot-riscv64/stable 20250803+deb13u6 all
+  Debian-installer network boot images for riscv64
+
+dietlibc-dev/stable 0.34~cvs20160606-18 arm64
+  diet libc - a libc optimized for small size
+
+dietlibc-doc/stable 0.34~cvs20160606-18 all
+  diet libc documentation - a libc optimized for small size
+
+efi-shell-riscv64/stable 2025.02-8+deb13u1 all
+  UEFI Shell for 64-bit RISC-V architecture
+
+fangfrisch/stable 1.9.0-3+deb13u1 all
+  Update and verify unofficial Clam Anti-Virus signatures
+
+fortunes-it/stable 2.16-2 all
+  Data files containing Italian fortune cookies
+
+g++-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C++ compiler (cross compiler for riscv64 architecture)
+
+g++-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C++ compiler for riscv64-linux-gnu architecture
+
+g++-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C++ compiler for riscv64-linux-gnu architecture
+
+g++-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C++ compiler for the riscv64 architecture
+
+gcc-12-plugin-dev-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C compiler (cross compiler for riscv64 architecture)
+
+gcc-12-riscv64-linux-gnu-base/stable 12.4.0-5cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-plugin-dev-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the riscv64-linux-gnu architecture
+
+gcc-13-riscv64-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-plugin-dev-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the riscv64-linux-gnu architecture
+
+gcc-14-riscv64-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-or1k-elf/stable 14.2.0-19+1.0.10+b1 arm64
+  GNU C compiler for the Open RISC 1000 processors
+
+gcc-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the riscv64 architecture
+
+gcc-riscv64-unknown-elf/stable 14.2.0+19 arm64
+  GCC cross compiler for Risc-V processors
+
+gccgo-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Go compiler
+
+gccgo-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the riscv64-linux-gnu architecture
+
+gccgo-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the riscv64-linux-gnu architecture
+
+gccgo-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the riscv64 architecture
+
+gdc-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2) (cross compiler for riscv64 architecture)
+
+gdc-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the riscv64-linux-gnu architecture
+
+gdc-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the riscv64-linux-gnu architecture
+
+gdc-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the riscv64 architecture
+
+gfortran-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler
+
+gfortran-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the riscv64-linux-gnu architecture
+
+gfortran-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the riscv64-linux-gnu architecture
+
+gfortran-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the riscv64 architecture
+
+gm2-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Modula-2 compiler (cross compiler for riscv64 architecture)
+
+gm2-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the riscv64-linux-gnu architecture
+
+gm2-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the riscv64-linux-gnu architecture
+
+gm2-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the riscv64 architecture
+
+gnat-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Ada compiler
+
+gnat-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the riscv64-linux-gnu architecture
+
+gnat-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the riscv64-linux-gnu architecture
+
+gobjc++-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the riscv64-linux-gnu architecture
+
+gobjc++-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the riscv64-linux-gnu architecture
+
+gobjc++-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the riscv64 architecture
+
+gobjc-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler
+
+gobjc-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the riscv64-linux-gnu architecture
+
+gobjc-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the riscv64-linux-gnu architecture
+
+gobjc-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the riscv64 architecture
+
+installation-guide-riscv64/stable 20250803+deb13u1 all
+  Debian installation guide for RISC-V
+
+libasan8-riscv64-cross/stable 14.2.0-19cross1 all
+  AddressSanitizer -- a fast memory error detector
+
+libatomic1-riscv64-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libc6-dev-riscv64-cross/stable 2.41-11cross1 all
+  GNU C Library: Development Libraries and Header Files (for cross-compiling)
+
+libc6-riscv64-cross/stable 2.41-11cross1 all
+  GNU C Library: Shared libraries (for cross-compiling)
+
+libcapstone5/stable 5.0.7-1~deb13u1 arm64
+  lightweight multi-architecture disassembly framework - library
+
+libeclipse-urischeme-java/stable 1.3.100+eclipse4.29-1 all
+  Eclipse URI Scheme Handling
+
+libgcc-12-dev-riscv64-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-riscv64-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-riscv64-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-s1-riscv64-cross/stable 14.2.0-19cross1 all
+  GCC support library (riscv64)
+
+libgfortran-12-dev-riscv64-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Fortran applications (development files)
+
+libgfortran-13-dev-riscv64-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Fortran applications (development files)
+
+libgfortran-14-dev-riscv64-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Fortran applications (development files)
+
+libgfortran5-riscv64-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Fortran applications
+
+libgm2-12-dev-riscv64-cross/stable 12.4.0-5cross1 all
+  GNU Modula-2 standard library
+
+libgm2-13-dev-riscv64-cross/stable 13.3.0-16cross1 all
+  GNU Modula-2 standard library
+
+libgm2-14-dev-riscv64-cross/stable 14.2.0-19cross1 all
+  GNU Modula-2 standard library
+
+libgm2-17-riscv64-cross/stable 12.4.0-5cross1 all
+  GNU Modula-2 standard library (runtime library)
+
+libgm2-18-riscv64-cross/stable 13.3.0-16cross1 all
+  GNU Modula-2 standard library (runtime library)
+
+libgm2-19-riscv64-cross/stable 14.2.0-19cross1 all
+  GNU Modula-2 standard library (runtime library)
+
+libgnat-12-riscv64-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-riscv64-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-riscv64-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgo-12-dev-riscv64-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Go applications (development files)
+
+libgo-13-dev-riscv64-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Go applications (development files)
+
+libgo-14-dev-riscv64-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Go applications (development files)
+
+libgo21-riscv64-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Go applications
+
+libgo22-riscv64-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Go applications
+
+libgo23-riscv64-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Go applications
+
+libgomp1-riscv64-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgphobos-12-dev-riscv64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-riscv64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-riscv64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos3-riscv64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-riscv64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-riscv64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libhalide19-0/stable 19.0.0-6 arm64
+  fast, portable computation on images and tensors
+
+libitm1-riscv64-cross/stable 14.2.0-19cross1 all
+  GNU Transactional Memory Library
+
+liblsan0-riscv64-cross/stable 14.2.0-19cross1 all
+  LeakSanitizer -- a memory leak detector (runtime)
+
+libobjc-12-dev-riscv64-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Objective-C applications (development files)
+
+libobjc-13-dev-riscv64-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Objective-C applications (development files)
+
+libobjc-14-dev-riscv64-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Objective-C applications (development files)
+
+libobjc4-riscv64-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Objective-C applications
+
+libopenblas-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, meta)
+
+libopenblas-openmp-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, openmp)
+
+libopenblas-pthread-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, pthread)
+
+libopenblas-serial-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, serial)
+
+libopenblas0/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (meta)
+
+libopenblas0-openmp/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, openmp)
+
+libopenblas0-pthread/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, pthread)
+
+libopenblas0-serial/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, serial)
+
+libopenblas64-0/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, meta)
+
+libopenblas64-0-openmp/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, openmp)
+
+libopenblas64-0-pthread/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, pthread)
+
+libopenblas64-0-serial/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, serial)
+
+libopenblas64-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, meta)
+
+libopenblas64-openmp-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, openmp)
+
+libopenblas64-pthread-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, pthread)
+
+libopenblas64-serial-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, serial)
+
+libstatistics-test-sequence-perl/stable 0.01-3 all
+  Perl module that tests correlation of random numbers
+
+libstdc++-12-dev-riscv64-cross/stable 12.4.0-5cross1 all
+  GNU Standard C++ Library v3 (development files) (riscv64)
+
+libstdc++-12-pic-riscv64-cross/stable 12.4.0-5cross1 all
+  GNU Standard C++ Library v3 (shared library subset kit) (riscv64)
+
+libstdc++-13-dev-riscv64-cross/stable 13.3.0-16cross1 all
+  GNU Standard C++ Library v3 (development files) (riscv64)
+
+libstdc++-13-pic-riscv64-cross/stable 13.3.0-16cross1 all
+  GNU Standard C++ Library v3 (shared library subset kit) (riscv64)
+
+libstdc++-14-dev-riscv64-cross/stable 14.2.0-19cross1 all
+  GNU Standard C++ Library v3 (development files) (riscv64)
+
+libstdc++-14-pic-riscv64-cross/stable 14.2.0-19cross1 all
+  GNU Standard C++ Library v3 (shared library subset kit) (riscv64)
+
+libstdc++-riscv64-unknown-elf-dev/stable 14.2.0+7 all
+  GNU Standard C++ Library v3 for Risc-V processors (headers)
+
+libstdc++-riscv64-unknown-elf-picolibc/stable 14.2.0+7 all
+  GNU Standard C++ Library v3 for Risc-V (picolibc)
+
+libstdc++6-riscv64-cross/stable 14.2.0-19cross1 all
+  GNU Standard C++ Library v3 (riscv64)
+
+libsystem-info-perl/stable 0.066-1 all
+  package to obtain basic system information
+
+libtsan2-riscv64-cross/stable 14.2.0-19cross1 all
+  ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
+
+libubsan1-riscv64-cross/stable 14.2.0-19cross1 all
+  UBSan -- undefined behaviour sanitizer (runtime)
+
+linux-libc-dev-riscv64-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+openocd/stable 0.12.0-3+b2 arm64
+  Open on-chip JTAG/SWD debug solution for embedded target devices
+
+opensbi/stable 1.6-1 all
+  RISC-V Open Source Supervisor Binary Interface
+
+picolibc-riscv64-unknown-elf/stable 1.8.10-2 all
+  Smaller embedded C library for RISC-V development
+
+pmw/stable 1:5.22-1+b1 arm64
+  Philip's Music Writer
+
+python3-pyrisco/stable 0.7.0~rc0-1 all
+  Library for communicating with Risco alarm systems
+
+qemu-block-extra/stable 1:10.0.11+ds-0+deb13u1 arm64
+  extra block backend modules for qemu-system and qemu-utils
+
+qemu-efi-riscv64/stable 2025.02-8+deb13u1 all
+  UEFI firmware for RISCV64 virtual machines
+
+qemu-guest-agent/stable 1:10.0.11+ds-0+deb13u1 arm64
+  Guest-side qemu-system agent
+
+qemu-system/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries
+
+qemu-system-common/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (common files)
+
+qemu-system-misc/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (miscellaneous)
+
+qemu-system-riscv/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (riscv)
+
+qemu-user/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU user mode emulation (static binaries)
+
+qemu-user-binfmt/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU user mode binfmt registration for qemu-user
+
+qemu-utils/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU utilities
+
+qtrvsim/stable 0.9.8-1 arm64
+  RISC-V CPU simulator for education
+
+rbootd/stable 3.3 arm64
+  Remote Boot Daemon
+
+riscemu/stable 2.2.7-1 all
+  RISC-V emulator in Python
+
+riscemu-doc/stable 2.2.7-1 all
+  RISC-V emulator in Python
+
+simrisc/stable 16.02.00-1 arm64
+  simulation model for breast/lung cancer risk
+
+spim/stable 8.0+dfsg-7+b1 arm64
+  MIPS R2000/R3000 emulator
+
+texlive-bibtex-extra/stable 2024.20250309-2 all
+  TeX Live: BibTeX additional styles
+
+tillitis-tkey-libs/stable 0.1.2-2 all
+  Tillitis TKey device application helper library
+
+u-boot-qemu/stable 2025.01-3 all
+  A boot loader for qemu
+
+yt-dlp/stable 2025.04.30-1 all
+  downloader of videos from YouTube and other sites
+

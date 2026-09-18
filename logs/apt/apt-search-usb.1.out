@@ -1,0 +1,1424 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+0xffff/stable 0.9-1+b2 arm64
+  Open Free Fiasco Firmware Flasher
+
+air-quality-sensor/stable 0.1.5-1+b2 arm64
+  user space driver for AppliedSensor's Indoor Air Monitor
+
+airspy/stable 1.0.10-3+b3 arm64
+  Tiny and efficient software defined radio receiver - utilities
+
+airspyhf/stable 1.6.8-4+b2 arm64
+  HF+VHF software defined radio receiver - user runtime
+
+android-file-transfer/stable 4.3-1+b2 arm64
+  reliable MTP client with minimalistic UI
+
+antpm/stable 1.24-1 arm64
+  ANT+ information retrieval client for Garmin GPS products
+
+apcupsd/stable 3.14.14-5 arm64
+  APC UPS Power Management (daemon)
+
+apcupsd-cgi/stable 3.14.14-5 arm64
+  APC UPS Power Management (web interface)
+
+apcupsd-doc/stable 3.14.14-5 all
+  APC UPS Power Management (documentation/examples)
+
+arduino-core-avr/stable 1.8.7+dfsg-1~deb13u1 all
+  Arduino Core for AVR microcontroller
+
+baycomusb/stable 0.10-15+b2 arm64
+  Drivers for the HB9JNX packet radio usb modem
+
+bilibop/stable 0.6.5 all
+  run Debian GNU/Linux from external media - metapackage
+
+bilibop-common/stable 0.6.5 all
+  shell functions for bilibop scripts
+
+bilibop-lockfs/stable 0.6.5 all
+  lock filesystems and write changes into RAM
+
+bilibop-rules/stable 0.6.5 all
+  device management rules for OS running from external media
+
+bilibop-udev/stable 0.6.5 all
+  minimal udev rule for Debian GNU/Linux running from external media
+
+biometric-auth/stable 0.9.72-1 arm64
+  Biometric Authentication Service
+
+bladerf/stable 0.2024.05-1 arm64
+  Nuand bladeRF software-defined radio device (tools)
+
+bmusb-v4l2proxy/stable 0.7.8-2 arm64
+  userspace driver for Blackmagic USB3 video capture cards -- V4L2 proxy
+
+bootterm/stable 0.5-1+b1 arm64
+  simple terminal to ease connections with SBCs
+
+br2684ctl/stable 1:2.5.1-7 arm64
+  Utility for configuring RFC 2684 ATM/Ethernet bridging
+
+brother-ql/stable 0.9.4-2 all
+  Utility to interface with Brother QL label printers
+
+budgie-dropby-applet/stable 1.9.0-1 all
+  Applet to popup when a USB device is connected
+
+cantata/stable 2.5.0.ds1-4 arm64
+  Qt client for the music player daemon (MPD)
+
+cec-utils/stable 7.0.0-1+b1 arm64
+  USB CEC Adaptor communication Library (utility programs)
+
+chaosread/stable 1.1-2+b1 arm64
+  Directly read ChaosKey noise source
+
+ciborium/stable 1.0.2-2 arm64
+  Lomiri external storage devices manager
+
+clementine/stable 1.4.1+git27-g658f34ec4+dfsg-3 arm64
+  modern music player and library organizer
+
+cleware-traffic-light/stable 1.0.8~git20240522.f5e418d-2 all
+  CLI tool to control the cleware USB traffic light
+
+connman/stable 1.44-3 arm64
+  Intel Connection Manager daemon
+
+connman-dev/stable 1.44-3 arm64
+  Development files for connman
+
+connman-vpn/stable 1.44-3 arm64
+  Intel Connection Manager daemon - VPN daemon
+
+console-setup/stable 1.242~deb13u1 all
+  console font and keymap setup program
+
+cryptmount/stable 6.3.0-1 arm64
+  Management of encrypted file systems
+
+cups-backend-bjnp/stable 2.0.3-5+b1 arm64
+  printer backend for Canon BJNP protocol
+
+cups-x2go/stable 3.0.1.4-2 all
+  Virtual X2Go printer for CUPS
+
+cutesdr/stable 1.20-4+b2 arm64
+  simple demodulation and spectrum display program
+
+cycfx2prog/stable 0.47-1.3 arm64
+  Cypress EZ-USB FX2 (LP) programmer
+
+cyme/stable 2.2.0+dfsg-2 arm64
+  CLI tool for listing system USB buses and devices
+
+ddcui/stable 0.6.0-1 arm64
+  GUI for ddcutil
+
+ddcutil/stable 2.2.0-2 arm64
+  Control monitor settings - Standalone command line application
+
+debootstick/stable 2.8 all
+  Turn a chroot environment into a bootable image
+
+deepin-boot-maker/stable 5.10.0+dfsg2-2 arm64
+  Simple tool for user to create a boot usb stick quickly and easily
+
+dfu-programmer/stable,now 0.6.1-1+b3 arm64 [installed]
+  device firmware update (DFU) based USB programmer for Atmel chips
+
+dfu-util/stable,now 0.11-3 arm64 [installed]
+  Device firmware update (DFU) USB programmer
+
+discover-data/stable 2.2013.01.13+nmu1 all
+  Data lists for Discover hardware detection system
+
+dislocker/stable 0.7.3+git20240607-3+b1 arm64
+  read/write encrypted BitLocker volumes
+
+distrobox/stable 1.8.1.2-1 all
+  Another tool for containerized command line environments on Linux
+
+dmidecode/stable,now 3.6-2 arm64 [installed]
+  SMBIOS/DMI table decoder
+
+dmrconfig/stable 1.1+git20230126.03bb768-1+b2 arm64
+  Configuration utility for DMR radios
+
+dolphin/stable 4:25.04.3-1+deb13u1 arm64
+  file manager
+
+dolphin-data/stable 4:25.04.3-1+deb13u1 all
+  file manager - data
+
+dolphin-doc/stable 4:25.04.3-1+deb13u1 all
+  file manager - documentation
+
+dphys-swapfile/stable 20100506-7.2 all
+  Autogenerate and use a swap file
+
+dvb-apps/stable 1.1.1+rev1500-2 arm64
+  Digital Video Broadcasting (DVB) applications
+
+dvgrab/stable 3.5+git20250306.8e1f93d-1 arm64
+  grab digital video data via IEEE1394 and USB links
+
+evdi-dkms/stable 1.14.8+dfsg-1 all
+  Extensible Virtual Display Interface driver kernel module
+
+fai-server/stable 6.4.3 all
+  Fully Automatic Installation server package
+
+fdutils/stable 5.6-4+b2 arm64
+  Linux floppy utilities
+
+filespooler/stable 1.2.3-1+b8 arm64
+  Sequential, distributed, POSIX-style job queue processing
+
+firmware-ath9k-htc/stable 1.4.0-110-ge888634+dfsg1-0.1 all
+  firmware for AR7010 and AR9271 USB wireless adapters
+
+firmware-carl9170/stable 1.9.9-450-gad1c721+dfsg-0.1 all
+  firmware for AR9170 USB wireless adapters
+
+flashrom/stable 1.4.0-3 arm64
+  Identify, read, write, erase, and verify BIOS/ROM/flash chips
+
+forensics-all/stable 3.61 all
+  Debian Forensics Environment - essential components (metapackage)
+
+freedom-maker/stable 0.34 all
+  FreedomBox image builder
+
+ftdi-eeprom/stable 1.5-10 arm64
+  Tool for reading/erasing/flashing FTDI USB chip EEPROMs
+
+fuse-posixovl/stable 1.3-1.1 arm64
+  FUSE file system that provides POSIX functionality
+
+fxload/stable 0.0.20081013-3 arm64
+  Firmware download to EZ-USB devices
+
+gir1.2-fprint-2.0/stable 1:1.94.9-1 arm64
+  async fingerprint library of fprint project, gir bindings
+
+gir1.2-gusb-1.0/stable 0.4.9-1+b1 arm64
+  GObject introspection data for libgusb
+
+gir1.2-modemmanager-1.0/stable 1.24.0-1+deb13u1 arm64
+  GObject introspection data for modemmanager
+
+gir1.2-udisks-2.0/stable 2.10.1-12.1+deb13u1 arm64
+  GObject based library to access udisks2 - introspection data
+
+gnome-multi-writer/stable 3.32.1-4+b1 arm64
+  Write an ISO file to multiple USB devices at once
+
+golang-github-audriusbutkevicius-go-nat-pmp-dev/stable 0.0~git20160522.452c976-3 all
+  Go language client for the NAT-PMP internet
+
+golang-github-audriusbutkevicius-pfilter-dev/stable 0.0.5-1 all
+  filtering packets into multiple virtual connections
+
+golang-github-audriusbutkevicius-recli-dev/stable 0.0.6-2 all
+  Reflection based CLI generator for Golang (library)
+
+golang-github-bettercap-nrf24-dev/stable 0.0~git20190219.aa37e6d-2 all
+  allows interaction with nRF24LU1+ based USB dongles (library)
+
+golang-github-google-gousb-dev/stable 1.1.3-1 all
+  provides low-level interface for accessing USB devices (library)
+
+golang-github-hanwen-usb-dev/stable 0.0~git20141217.69aee45-3 all
+  CGO bindings for libusb
+
+golang-github-tillitis-tkey-ssh-agent-dev/stable 1.0.0+ds-4 all
+  SSH Agent for Tillitis TKey (Go development library)
+
+gphoto2/stable 2.5.28-3 arm64
+  digital camera command-line client
+
+gphotofs/stable 0.5-6+b3 arm64
+  filesystem to mount digital cameras
+
+gr-funcube/stable 3.10.0~rc3-4+b9 arm64
+  Funcube Dongle controller for GNU Radio
+
+gr-limesdr/stable 3.0.1.10.69-3+b15 arm64
+  LimeSDR blocks for GnuRadio
+
+grml-rescueboot/stable 0.6.6 all
+  boot Grml from GRUB
+
+grml2usb/stable 0.20.6 all
+  install Grml system / ISO to USB device
+
+hackrf/stable 2024.02.1-3 arm64
+  Software defined radio peripheral - utilities
+
+hackrf-doc/stable 2024.02.1-3 all
+  Software defined radio peripheral - documentation
+
+hd-idle/stable 1.21+ds-1+b8 arm64
+  Spin down idle [USB] hard disks
+
+hdparm/stable 9.65+ds-1.1+b1 arm64
+  tune hard disk parameters for high performance
+
+heimdall-flash/stable 2.1.0-1 arm64
+  tool for flashing firmware on Samsung Galaxy S devices
+
+heimdall-flash-frontend/stable 2.1.0-1 arm64
+  tool for flashing firmware on Samsung Galaxy S devices - Qt GUI
+
+hplip/stable 3.22.10+dfsg0-8.1 arm64
+  HP Linux Printing and Imaging System (HPLIP)
+
+hsmwiz/stable 0.0.2-2 all
+  Easy handling of NitroKey HSM USB Smard Card
+
+hwdata/stable 0.394-1 all
+  hardware identification / configuration data
+
+hwinfo/stable 21.82-1.1+b2 arm64
+  Hardware identification system
+
+i3/stable 4.24-1 arm64
+  metapackage (i3 window manager, screen locker, menu, statusbar)
+
+ifuse/stable 1.1.4-2+b1 arm64
+  FUSE module for iPhone and iPod Touch devices
+
+imx-usb-loader/stable 0~git20200517.30b43d69-2+b1 arm64
+  imx_loader - i.MX/Vybrid recovery utility
+
+inputlirc/stable 34-1+b1 arm64
+  Zeroconf LIRC daemon using input event devices
+
+ipheth-utils/stable 1.0-5.2+b1 arm64
+  USB tethering driver support utilities for the iPhone
+
+ipp-usb/stable 0.9.23-2+b7 arm64
+  Daemon for IPP over USB printer support
+
+irecovery/stable 1.2.1-1 arm64
+  Command line utility to communication with iOS recovery systems
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+isoimagewriter/stable 25.04.0+dfsg-1 arm64
+  write hybrid iso files to usb
+
+jigdo-file/stable 0.8.2-1+b2 arm64
+  Download Debian CD/DVD/USB images from any Debian mirror
+
+jmtpfs/stable 0.5-4+b2 arm64
+  FUSE based filesystem for accessing MTP devices
+
+knowthelist/stable 2.3.1-1.2 arm64
+  awesome party music player
+
+konq-plugins/stable 4:25.04.0-1 arm64
+  plugins for Konqueror, the KDE file/web/document browser
+
+kup-backup/stable 0.10.0-1+b1 arm64
+  backup tool for KDE's Plasma desktop
+
+kuttypy-gui/stable 2.3-2 all
+  Graphic user interface to interact with KuttyPy
+
+lcdproc/stable 0.5.9-7+b3 arm64
+  LCD display driver daemon and clients
+
+lcdproc-extra-drivers/stable 0.5.9-7+b3 arm64
+  extra drivers for the LCD display driver daemon
+
+libacsccid1/stable 1.1.12-1 arm64
+  PC/SC driver for ACS USB CCID smart card readers
+
+libairspy-dev/stable 1.0.10-3+b3 arm64
+  Tiny and efficient software defined radio receiver - development
+
+libairspy0/stable 1.0.10-3+b3 arm64
+  Tiny and efficient software defined radio receiver - library
+
+libairspyhf-dev/stable 1.6.8-4+b2 arm64
+  HF+VHF software defined radio receiver - development
+
+libairspyhf1/stable 1.6.8-4+b2 arm64
+  HF+VHF software defined radio receiver - library
+
+libam7xxx-dev/stable 0.1.7-5 arm64
+  library for accessing am7xxx devices - development files
+
+libam7xxx0.1/stable 0.1.7-5 arm64
+  library for accessing am7xxx based devices
+
+libam7xxx0.1-bin/stable 0.1.7-5 arm64
+  library for accessing am7xxx devices - utilities
+
+libam7xxx0.1-doc/stable 0.1.7-5 all
+  library for accessing am7xxx devices - documentation
+
+libaravis-0.8-0/stable 0.8.34-1 arm64
+  glib/gobject based library for video acquisition using GenICam cameras
+
+libasedrive-usb/stable 3.7-12 arm64
+  PC/SC driver for the Athena ASEDrive IIIe USB smart card reader
+
+libbladerf-dev/stable 0.2024.05-1 arm64
+  Nuand bladeRF software-defined radio device (header files)
+
+libbladerf-doc/stable 0.2024.05-1 all
+  Nuand bladeRF software-defined radio device (API documentation)
+
+libbladerf2/stable 0.2024.05-1 arm64
+  Nuand bladeRF software-defined radio device
+
+libbmusb-dev/stable 0.7.8-2 arm64
+  userspace driver for Blackmagic USB3 video capture cards
+
+libbmusb6/stable 0.7.8-2 arm64
+  userspace driver for Blackmagic USB3 video capture cards
+
+libccid/stable 1.6.2-1 arm64
+  PC/SC driver for USB CCID smart card readers
+
+libcec-dev/stable 7.0.0-1+b1 arm64
+  USB CEC Adaptor communication Library (development files)
+
+libcec7/stable 7.0.0-1+b1 arm64
+  USB CEC Adaptor communication Library (shared library)
+
+libcrypt-u2f-server-perl/stable 0.47-1+b1 arm64
+  Perl module to register and authenticate U2F compatible devices
+
+libddcutil-dev/stable 2.2.0-2 arm64
+  Control monitor settings - development files
+
+libddcutil5/stable 2.2.0-2 arm64
+  Control monitor settings - shared library
+
+libdevice-usb-pcsensor-hidtemper-perl/stable 2:0.04-3 arm64
+  Perl module to interface to the HidTEMPer thermometers
+
+libdevice-usb-perl/stable 0.38-3+b3 arm64
+  Perl module to access USB devices using libusb
+
+libdiscover-dev/stable 2.1.2-10.1+b1 arm64
+  hardware identification library development files
+
+libdiscover2/stable 2.1.2-10.1+b1 arm64
+  hardware identification library
+
+libdislocker0-dev/stable 0.7.3+git20240607-3+b1 arm64
+  read/write encrypted BitLocker volumes (development files)
+
+libdislocker0.7t64/stable 0.7.3+git20240607-3+b1 arm64
+  read/write encrypted BitLocker volumes (shared library)
+
+libdjconsole-data/stable 0.1.3-3.2 all
+  Hercules DJ Console access library - data files
+
+libdjconsole-dev/stable 0.1.3-3.2+b1 arm64
+  Hercules DJ Console access library - development headers
+
+libdjconsole0/stable 0.1.3-3.2+b1 arm64
+  Hercules DJ Console access library
+
+libevdi-dev/stable 1.14.8+dfsg-1 all
+  EVDI driver client library dev package
+
+libevdi1/stable 1.14.8+dfsg-1 arm64
+  Extensible Virtual Display Interface driver client library
+
+libfido2-1/stable,now 1.15.0-1+b1 arm64 [installed,automatic]
+  library for generating and verifying FIDO 2.0 objects
+
+libfido2-dev/stable 1.15.0-1+b1 arm64
+  library for generating and verifying FIDO 2.0 objects -- headers
+
+libfido2-doc/stable 1.15.0-1 all
+  library for generating and verifying FIDO 2.0 objects -- documentation
+
+libfprint-2-2/stable 1:1.94.9-1 arm64
+  async fingerprint library of fprint project, shared libraries
+
+libfprint-2-dev/stable 1:1.94.9-1 arm64
+  async fingerprint library of fprint project, development headers
+
+libfprint-2-doc/stable 1:1.94.9-1 all
+  async fingerprint library of fprint project, API documentation
+
+libfprint-2-tests/stable 1:1.94.9-1 arm64
+  Tests for async fingerprint library of fprint project
+
+libfreesrp-dev/stable 0.3.0-5+b2 arm64
+  Software defined radio support for FreeSRP hardware (development files)
+
+libfreesrp0/stable 0.3.0-5+b2 arm64
+  Software defined radio support for FreeSRP hardware (library)
+
+libftdi1/stable,now 0.20-4+b2 arm64 [installed,automatic]
+  Library to control and program the FTDI USB controller
+
+libftdi1-2/stable 1.5-10 arm64
+  C Library to control and program the FTDI USB controllers
+
+libftdi1-dev/stable 1.5-10 arm64
+  Development files for libftdi1
+
+libftdi1-doc/stable 1.5-10 all
+  Documentation for libftdi1
+
+libftdipp1-3/stable 1.5-10 arm64
+  C++ Library to control and program the FTDI USB controllers
+
+libftdipp1-dev/stable 1.5-10 arm64
+  Development files for libftdipp1
+
+libgempc430/stable 1.0.8-9+b1 arm64
+  PC/SC driver for the GemPC 430, 432, 435 smart card readers
+
+libgfshare-bin/stable 2.0.0-7 arm64
+  utilities for multi-way secret-sharing
+
+libgfshare2/stable 2.0.0-7 arm64
+  library for multi-way secret-sharing
+
+libgnuradio-funcube3.10.0/stable 3.10.0~rc3-4+b9 arm64
+  Funcube Dongle controller for GNU Radio (runtime)
+
+libgnuradio-limesdr3.0.2/stable 3.0.1.10.69-3+b15 arm64
+  LimeSDR blocks for GnuRadio (runtime library)
+
+libgphoto2-6t64/stable 2.5.31-4 arm64
+  gphoto2 digital camera library
+
+libgphoto2-dev/stable 2.5.31-4 arm64
+  gphoto2 digital camera library (development files)
+
+libgphoto2-dev-doc/stable 2.5.31-4 all
+  gphoto2 digital camera library (development documentation)
+
+libgphoto2-l10n/stable 2.5.31-4 all
+  gphoto2 digital camera library - localized messages
+
+libgphoto2-port12t64/stable 2.5.31-4 arm64
+  gphoto2 digital camera port library
+
+libgusb-dev/stable 0.4.9-1+b1 arm64
+  GLib wrapper around libusb1 - development files
+
+libgusb-doc/stable 0.4.9-1 all
+  GLib wrapper around libusb1 - documentation
+
+libgusb2/stable 0.4.9-1+b1 arm64
+  GLib wrapper around libusb1
+
+libhackrf-dev/stable 2024.02.1-3 arm64
+  Software defined radio peripheral - development
+
+libhackrf0/stable 2024.02.1-3 arm64
+  Software defined radio peripheral - runtime library
+
+libhd-dev/stable 21.82-1.1+b2 arm64
+  Hardware identification system library and headers
+
+libhd-doc/stable 21.82-1.1 all
+  Hardware identification system library documentation
+
+libhd21t64/stable 21.82-1.1+b2 arm64
+  Hardware identification system library
+
+libhidapi-dev/stable 0.14.0-1+b2 arm64
+  Multi-Platform library for communication with HID devices (development files)
+
+libhidapi-hidraw0/stable 0.14.0-1+b2 arm64
+  Multi-Platform library for communication with HID devices (hidraw backend)
+
+libhidapi-libusb0/stable,now 0.14.0-1+b2 arm64 [installed,automatic]
+  Multi-Platform library for communication with HID devices (libusb backend)
+
+libhpmud-dev/stable 3.22.10+dfsg0-8.1 arm64
+  HP Multi-Point Transport Driver (hpmud) development libraries
+
+libhpmud0/stable 3.22.10+dfsg0-8.1 arm64
+  HP Multi-Point Transport Driver (hpmud) run-time libraries
+
+libifd-cyberjack6/stable 3.99.5final.sp17-0.1 arm64
+  REINER SCT cyberJack USB chipcard reader user space driver
+
+libimobiledevice-1.0-6/stable 1.3.0+git20250228-2 arm64
+  Library for communicating with iPhone and other Apple devices
+
+libimobiledevice-dev/stable 1.3.0+git20250228-2 arm64
+  Development files for libimobiledevice
+
+libimobiledevice-doc/stable 1.3.0+git20250228-2 all
+  Library for communicating with iPhone and other Apple devices (documentation)
+
+libimobiledevice-utils/stable 1.3.0+git20250228-2 arm64
+  Utitilies for communicating with iPhone and other Apple devices
+
+libinklevel-dev/stable 0.9.7-1 arm64
+  development files for libinklevel5
+
+libinklevel5/stable 0.9.7-1 arm64
+  library for checking the ink level of your local printer
+
+libirecovery-1.0-5/stable 1.2.1-1 arm64
+  Library allowing communication with iBoot/iBSS of iOS devices via USB
+
+libirecovery-1.0-dev/stable 1.2.1-1 arm64
+  Development files for libirecovery
+
+libirecovery-common/stable 1.2.1-1 all
+  Common files for libirecovery
+
+libjaylink-dev/stable 0.4.0-1 arm64
+  library for interacting with J-Link programmers (development files)
+
+libjaylink0/stable 0.4.0-1 arm64
+  library for interacting with J-Link programmers
+
+libkarma-dev/stable 0.1.2-11 arm64
+  Rio Karma access library [development files]
+
+libkarma0/stable 0.1.2-11 arm64
+  Rio Karma access library [runtime files]
+
+libmirisdr-dev/stable 2.0.0-4+b2 arm64
+  Software defined radio support for Mirics hardware (development files)
+
+libmirisdr4/stable 2.0.0-4+b2 arm64
+  Software defined radio support for Mirics hardware (library)
+
+libmm-glib-dev/stable 1.24.0-1+deb13u1 arm64
+  D-Bus service for managing modems - library development files
+
+libmm-glib-doc/stable 1.24.0-1+deb13u1 all
+  D-Bus service for managing modems - library documentation
+
+libmm-glib0/stable 1.24.0-1+deb13u1 arm64
+  D-Bus service for managing modems - shared libraries
+
+libmtp-common/stable 1.1.22-1 all
+  Media Transfer Protocol (MTP) common files
+
+libmtp-dev/stable 1.1.22-1 arm64
+  Media Transfer Protocol (MTP) development files
+
+libmtp-doc/stable 1.1.22-1 all
+  Media Transfer Protocol (MTP) library documentation
+
+libmtp-runtime/stable 1.1.22-1 arm64
+  Media Transfer Protocol (MTP) runtime tools
+
+libmtp9t64/stable 1.1.22-1 arm64
+  Media Transfer Protocol (MTP) library
+
+libnxt/stable 0.5.2-1 arm64
+  utility library for talking to the LEGO Mindstorms NXT brick
+
+libobexftp-perl/stable 0.24-10+b3 arm64
+  perl binding to the object exchange file transfer library
+
+libobexftp0-dev/stable 0.24-10+b3 arm64
+  object exchange file transfer library - development files
+
+libobexftp0t64/stable 0.24-10+b3 arm64
+  object exchange file transfer library
+
+libosmo-fl2k-dev/stable 0.1.1-2+b2 arm64
+  use a VGA USB adapter as DAC and SDR transmitter - development
+
+libosmo-fl2k0/stable 0.1.1-2+b2 arm64
+  use a VGA USB adapter as DAC and SDR transmitter - library
+
+libosmosdr-dev/stable 0.1.8.effcaa7-10+b1 arm64
+  Software defined radio support for OsmoSDR hardware (development files)
+
+libosmosdr0/stable 0.1.8.effcaa7-10+b1 arm64
+  Software defined radio support for OsmoSDR hardware (library)
+
+libow-3.2-4t64/stable 3.2p4+dfsg1-6 arm64
+  1-Wire File System full library
+
+libow-dev/stable 3.2p4+dfsg1-6 arm64
+  1-Wire File System (development files)
+
+libow-perl/stable 3.2p4+dfsg1-6 arm64
+  Dallas 1-wire support: Perl5 bindings
+
+libow-php/stable 3.2p4+dfsg1-6 arm64
+  Dallas 1-wire support: PHP bindings
+
+libow-tcl/stable 3.2p4+dfsg1-6 arm64
+  Dallas 1-wire support: Tcl bindings
+
+libowcapi-3.2-4t64/stable 3.2p4+dfsg1-6 arm64
+  1-Wire File System C library
+
+libownet-3.2-4t64/stable 3.2p4+dfsg1-6 arm64
+  owserver protocol library
+
+libownet-dev/stable 3.2p4+dfsg1-6 arm64
+  owserver protocol library (development files)
+
+libownet-perl/stable 3.2p4+dfsg1-6 all
+  Perl module for accessing 1-wire networks
+
+libownet-php/stable 3.2p4+dfsg1-6 all
+  Dallas 1-wire support: PHP OWNet library
+
+libpktriggercord0/stable 0.85.1+20221221181244-2+b2 arm64
+  library for Pentax cameras in MSC mode
+
+librtlsdr-dev/stable 2.0.2-2+b1 arm64
+  Software defined radio receiver for Realtek RTL2832U (development)
+
+librtlsdr0/stable 2.0.2-2+b1 arm64
+  Software defined radio receiver for Realtek RTL2832U (library)
+
+librust-libusb1-sys-dev/stable 0.7.0-1 arm64
+  FFI bindings for libusb - Rust source code
+
+librust-nusb-dev/stable 0.1.13-1 arm64
+  Cross-platform low-level access to USB devices in pure Rust - Rust source code
+
+librust-rockusb-dev/stable 0.2.0-2+b2 arm64
+  Rockchip usb protocol host implementation - Rust source code
+
+librust-rusb-dev/stable 0.9.4-1 arm64
+  Accessing USB devices - Rust source code
+
+librust-spytrap-adb-dev/stable 0.3.5-1 arm64
+  Test a phone for stalkerware using adb and usb debugging - Rust source code
+
+librust-usb-disk-probe-dev/stable 0.2.0-1+b2 arm64
+  Provides a stream type which can be used to probe for USB storage devices in the system - Rust source code
+
+librust-usb-ids-dev/stable 1.2025.1-1 arm64
+  Rust wrappers for the USB ID Repository - Rust source code
+
+libtypec-dev/stable 0.6.0-4 arm64
+  generic USB-C port management library (development files)
+
+libtypec-utils/stable 0.6.0-4 arm64
+  generic USB-C port management library (tools)
+
+libtypec0/stable 0.6.0-4 arm64
+  generic USB-C port management library
+
+libudev0/stable 200-1+b2 arm64
+  compatibility wrapper for libudev version 0
+
+libudisks2-0/stable 2.10.1-12.1+deb13u1 arm64
+  GObject based library to access udisks2
+
+libudisks2-dev/stable 2.10.1-12.1+deb13u1 arm64
+  GObject based library to access udisks2 - development files
+
+libumockdev-dev/stable 0.19.1-3 arm64
+  development files and documentation for libumockdev
+
+libumockdev0/stable 0.19.1-3 arm64
+  hardware mocking testbed for bug reports and regression tests
+
+libusb-0.1-4/stable,now 2:0.1.12-35+b1 arm64 [installed,automatic]
+  userspace USB programming library
+
+libusb-1.0-0/stable,now 2:1.0.28-1 arm64 [installed,automatic]
+  userspace USB programming library
+
+libusb-1.0-0-dev/stable 2:1.0.28-1 arm64
+  userspace USB programming library development files
+
+libusb-1.0-doc/stable 2:1.0.28-1 all
+  documentation for userspace USB programming
+
+libusb-dev/stable 2:0.1.12-35+b1 arm64
+  userspace USB programming library development files
+
+libusb-java/stable 0.8+ztex20090101-10 all
+  Java wrapper for libusb
+
+libusb-java-doc/stable 0.8+ztex20090101-10 all
+  Java wrapper for libusb (documentation)
+
+libusb-java-lib/stable 0.8+ztex20090101-10 arm64
+  Java wrapper for libusb (native library)
+
+libusb-libusb-perl/stable 0.09-3+b1 arm64
+  Perl interface to the libusb-1.0 API
+
+libusb-ocaml/stable 1.3.1-6+b9 arm64
+  OCaml bindings to libusb-1.0 (runtime)
+
+libusb-ocaml-dev/stable 1.3.1-6+b9 arm64
+  OCaml bindings to libusb-1.0
+
+libusb3380-0t64/stable 0.0.1+git20190125.c83d1e9-2.1+b1 arm64
+  USB3380 abstraction layer for libusb
+
+libusb3380-dev/stable 0.0.1+git20190125.c83d1e9-2.1+b1 arm64
+  USB3380 abstraction layer for libusb: development
+
+libusbauth-configparser-dev/stable 1.0.5-2+b2 arm64
+  Development package of library for USB Firewall including flex/bison parser
+
+libusbauth-configparser1/stable 1.0.5-2+b2 arm64
+  Library for USB Firewall including flex/bison parser
+
+libusbguard-dev/stable 1.1.3+ds-3 arm64
+  USB device authorization policy framework - development files
+
+libusbguard1/stable 1.1.3+ds-3 arm64
+  USB device authorization policy framework - shared library
+
+libusbgx-dev/stable 0.3.0-1.1+b1 arm64
+  Development files for libusbgx
+
+libusbgx-doc/stable 0.3.0-1.1 all
+  Documentation files for libusbgx
+
+libusbgx3/stable 0.3.0-1.1+b1 arm64
+  C library encapsulating the kernel USB gadget-configfs
+
+libusbmuxd-2.0-7/stable 2.1.0-1+b1 arm64
+  Client library to handle usbmux connections with iOS devices (library)
+
+libusbmuxd-dev/stable 2.1.0-1+b1 arm64
+  Client library to handle usbmux connections with iOS devices (devel)
+
+libusbmuxd-tools/stable 2.1.0-1+b1 arm64
+  Client library to handle usbmux connections with iOS devices (tools)
+
+libusbredirhost-dev/stable 0.15.0-1 arm64
+  implementing the usb-host (*) side of a usbredir connection (development)
+
+libusbredirhost1t64/stable 0.15.0-1 arm64
+  Implementing the usb-host (*) side of a usbredir connection (runtime)
+
+libusbredirparser-dev/stable 0.15.0-1 arm64
+  Parser for the usbredir protocol (development)
+
+libusbredirparser1t64/stable 0.15.0-1 arm64
+  Parser for the usbredir protocol (runtime)
+
+libuvc-dev/stable 0.0.7-3 arm64
+  cross-platform library for USB video devices - development files
+
+libuvc-doc/stable 0.0.7-3 all
+  cross-platform library for USB video devices - documentation
+
+libuvc0/stable 0.0.7-3 arm64
+  cross-platform library for USB video devices
+
+libvisa-dev/stable 0.0.20130812-6+b1 arm64
+  Virtual Instrument Software Architecture (development files)
+
+libvisa0/stable 0.0.20130812-6+b1 arm64
+  Virtual Instrument Software Architecture (runtime files)
+
+libx2go-config-perl/stable 4.1.0.6-1.1 all
+  Perl X2Go::Config package
+
+libx2go-log-perl/stable 4.1.0.6-1.1 all
+  Perl X2Go::Log package
+
+libx2go-server-db-perl/stable 4.1.0.6-1.1+b2 arm64
+  Perl X2Go::Server:DB package
+
+libx2go-server-perl/stable 4.1.0.6-1.1 all
+  Perl X2Go::Server package
+
+libx2go-utils-perl/stable 4.1.0.6-1.1 all
+  Perl X2Go::Utils package
+
+libykclient-dev/stable 2.15-5 arm64
+  Yubikey client library development files
+
+libykclient3/stable 2.15-5 arm64
+  Yubikey client library runtime
+
+libykhsmauth-dev/stable 2.6.0-5 arm64
+  YubiKey HSM authentication library (development files)
+
+libykhsmauth2/stable 2.6.0-5 arm64
+  YubiKey HSM authentication library
+
+libykpers-1-1/stable 1.20.0-5 arm64
+  Library for personalization of YubiKey OTP tokens
+
+libykpers-1-dev/stable 1.20.0-5 arm64
+  Development files for the YubiKey OTP personalization library
+
+libyubihsm-dev/stable 2.6.0-5 arm64
+  YubiHSM 2 communication library (development files)
+
+libyubihsm-http2/stable 2.6.0-5 arm64
+  YubiHSM 2 communication library (HTTP access)
+
+libyubihsm-usb2/stable 2.6.0-5 arm64
+  YubiHSM 2 communication library (direct USB access)
+
+libyubihsm2/stable 2.6.0-5 arm64
+  YubiHSM 2 communication library
+
+libyubikey-dev/stable 1.13-6+b1 arm64
+  Yubikey OTP library development files
+
+libyubikey-udev/stable 1.20.0-5 all
+  udev rules for unprivileged access to YubiKeys
+
+libyubikey0/stable 1.13-6+b1 arm64
+  Yubikey OTP handling library runtime
+
+limesuite-udev/stable 23.11.0+dfsg-3 all
+  Lime Suite - USB rules for udev
+
+live-clone/stable 3.7-1 all
+  GUI to clone and manage Live-Build USB sticks
+
+lm4flash/stable 3:0.1.3-1+b1 arm64
+  Command-line firmware flashing tool to communicate with the Stellaris Launchpad
+
+lmicdiusb/stable 3:0.1.3-1+b1 arm64
+  Remote GDB socket over USB for Stellaris Launchpad ICDI
+
+lprint/stable 1.3.1-1+b1 arm64
+  Label Printer
+
+makebootfat/stable 1.4-9 arm64
+  Utility to create a bootable FAT filesystem
+
+media-player-info/stable 26-1 all
+  Media player identification files
+
+mesaflash/stable 3.4.9+git20250302-1 arm64
+  Mesa Electronics utility tool
+
+microhope/stable 5.3.3+repack-2 all
+  hardware & software framework to learn microcontrollers
+
+mintstick/stable 1.6.3-1 all
+  USB stick formatter and ISO image writer
+
+miri-sdr/stable 2.0.0-4+b2 arm64
+  Software defined radio support for Mirics hardware (tools)
+
+modem-cmd/stable 1.0.2-4 all
+  send arbitrary AT commands to your modem
+
+modemmanager/stable 1.24.0-1+deb13u1 arm64
+  D-Bus service for managing modems
+
+modemmanager-dev/stable 1.24.0-1+deb13u1 arm64
+  D-Bus service for managing modems - development files
+
+modemmanager-doc/stable 1.24.0-1+deb13u1 all
+  D-Bus service for managing modems - documentation files
+
+mtp-tools/stable 1.1.22-1 arm64
+  Media Transfer Protocol (MTP) library tools
+
+nageru/stable 2.3.0-2 arm64
+  modern free software video mixer
+
+nagstamon/stable 3.16.2+ds1-3 all
+  Nagios status monitor which takes place in systray or on desktop
+
+neovim-lualine/stable 0.0.6+git20250412-1 all
+  fast and light statusbar for neovim
+
+nitrokey-app/stable 1.4.2-1.1 arm64
+  Application to manage the Nitrokey
+
+nitrokey-authenticator/stable 1.2.4-2+b3 arm64
+  TOTP authenticator app that's using Nitrokey Pro2 and/or LibremKey
+
+nncp/stable 8.11.0-4+deb13u1 arm64
+  Secure store-and-forward files, mail, and commands
+
+node-busboy/stable 1.6.0+~cs2.6.4-1 all
+  Node.js module for parsing incoming HTML form data
+
+nqc/stable 3.1.r6-13 arm64
+  Not Quite C compiler for LEGO Mindstorms RCX
+
+nut-server/stable 2.8.1-5 arm64
+  network UPS tools - core system
+
+obexftp/stable 0.24-10+b3 arm64
+  file transfer utility for devices that use the OBEX protocol
+
+octave-instrument-control/stable 0.9.5-1 arm64
+  instrument control for Octave
+
+openseachest/stable 24.08.1-1 arm64
+  utilities for operations on SATA/SAS/NVMe/USB storage devices
+
+osmo-fl2k/stable 0.1.1-2+b2 arm64
+  use a VGA USB adapter as DAC and SDR transmitter
+
+osmo-sdr/stable 0.1.8.effcaa7-10+b1 arm64
+  Software defined radio support for OsmoSDR hardware (tools)
+
+osmocom-dahdi-linux/stable 0.0~git20241003.b2ea348-4 all
+  DAHDI Linux contains a minimal set of helper tools
+
+osmocom-dahdi-linux-dev/stable 0.0~git20241003.b2ea348-4 all
+  DAHDI Linux development files
+
+ow-shell/stable 3.2p4+dfsg1-6 arm64
+  shell utilities to talk to an 1-Wire owserver
+
+ow-tools/stable 3.2p4+dfsg1-6 all
+  tools to monitor or inspect a ow-server link
+
+owfs/stable 3.2p4+dfsg1-6 all
+  Dallas 1-wire support
+
+owfs-common/stable 3.2p4+dfsg1-6 all
+  common files used by any of the OWFS programs
+
+owfs-doc/stable 3.2p4+dfsg1-6 all
+  Dallas 1-wire support: Documentation for owfs
+
+owfs-fuse/stable 3.2p4+dfsg1-6 arm64
+  1-Wire filesystem
+
+owftpd/stable 3.2p4+dfsg1-6 arm64
+  FTP daemon providing access to 1-Wire networks
+
+owhttpd/stable 3.2p4+dfsg1-6 arm64
+  HTTP daemon providing access to 1-Wire networks
+
+owserver/stable 3.2p4+dfsg1-6 arm64
+  Backend server for 1-Wire control
+
+pampi/stable 1.3+dfsg1-2 all
+  Presentations with Markdown, Pandoc, Impress.
+
+pd-comport/stable 1.3-1 arm64
+  Pd object for reading and writing to serial ports
+
+pd-hid/stable 0.7-7+b1 arm64
+  Pd object for getting data from USB HID devices
+
+pico-sdk-source/stable 2.1.1-1 all
+  headers and libraries to write programs for RP2040-based devices
+
+pinentry-x2go/stable 0.7.5.10-1+b3 arm64
+  OpenPGP (smart)card authentication dialog window for X2Go Client
+
+ponyprog/stable 3.1.4+ds-1 arm64
+  Serial device programmer
+
+power-profiles-daemon/stable 0.30-1.1 arm64
+  Makes power profiles handling available over D-Bus.
+
+powersupply-gtk/stable 0.9.0-2 all
+  Graphical power status tool for Linux mobile devices
+
+printer-driver-hpcups/stable 3.22.10+dfsg0-8.1 arm64
+  HP Linux Printing and Imaging - CUPS Raster driver (hpcups)
+
+printer-driver-hpijs/stable 3.22.10+dfsg0-8.1 arm64
+  HP Linux Printing and Imaging - printer driver (hpijs)
+
+pyhoca-cli/stable 0.6.1.3-1 all
+  Command line X2Go client written in Python
+
+python-x2go-doc/stable 0.6.1.4-1 all
+  Python module providing X2Go client API (documentation)
+
+python3-alarmdecoder/stable 1.13.11-2 all
+  interface for the AlarmDecoder (AD2) family of alarm devices
+
+python3-bladerf/stable 0.2024.05-1 arm64
+  Nuand bladeRF software-defined radio device (Python)
+
+python3-btchip/stable 0.1.32-4 all
+  Python library to communicate with BTChip dongle (Python 3)
+
+python3-cleware-traffic-light/stable 1.0.8~git20240522.f5e418d-2 all
+  Cleware USB traffic light Python module
+
+python3-crccheck/stable 1.3.0-1 all
+  implementation of 170+ CRC algorithms for Python 3
+
+python3-enocean/stable 0.60.1-2 all
+  Library for interacting with EnOcean wireless modules
+
+python3-fido2/stable 1.2.0-2 all
+  Python library for implementing FIDO 2.0
+
+python3-ftdi1/stable 1.5-10 arm64
+  Python module to control and program the FTDI USB controllers
+
+python3-hid/stable 0.14.0.post4-1 arm64
+  cython3 interface to hidapi
+
+python3-imobiledevice/stable 1.3.0+git20250228-2 arm64
+  Python 3 bindings for communicating with iPhone and other Apple device
+
+python3-miio/stable 0.5.12-3 all
+  Python module for interfacing with Xiaomi appliances
+
+python3-nxt/stable 3.5.1-1 all
+  Python driver/interface/wrapper for the LEGO Mindstorms NXT robot
+
+python3-pycdlib/stable 1.12.0+ds1-7 all
+  Pure python ISO manipulation library
+
+python3-pyegps/stable 0.2.5-2 all
+  Library for controlling Energenie Power Strips
+
+python3-pyu2f/stable 0.1.5-4 all
+  pure Python 3 U2F host library
+
+python3-pyvisa-py/stable 0.7.2-1 all
+  Backend that implements a large part of the VISA in pure Python 3
+
+python3-pyvisa-sim/stable 0.6.0-3 all
+  Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
+
+python3-pywws/stable 24.8.0-2 all
+  software for wireless weather stations
+
+python3-synologydsm-api/stable 2.7.1-1 all
+  Asynchronous Python API for Synology DSM
+
+python3-temperusb/stable 1.6.1-2 all
+  Readings from USB-connected TEMPer devices
+
+python3-ultraheat-api/stable 0.5.7-2 all
+  Reading usage data from the Landys & Gyr Ultraheat heat meter unit
+
+python3-usb/stable 1.2.1-2 all
+  USB interface for Python (Python3)
+
+python3-usb-devices/stable 0.4.5-2 all
+  Tools for mapping, describing, and resetting USB devices
+
+python3-usb1/stable 3.3.1+ds-4 all
+  Python wrapper for libusb1 (Python 3)
+
+python3-usbmonitor/stable 1.23-2 all
+  Library to simplify USB device monitoring
+
+python3-usbrelay/stable 1.0-2.2+b3 arm64
+  Python bindings for USB HID relay driver
+
+python3-x2go/stable 0.6.1.4-1 all
+  Python module providing X2Go client API (Python 3)
+
+python3-yubihsm/stable 3.1.1-1 all
+  Python interface to the YubiHSM 2
+
+python3-zigpy-zigate/stable 0.13.2-3 all
+  Zigbee communication library for ZiGate-based devices
+
+qthid-fcd-controller/stable 4.1-6+b3 arm64
+  Funcube Dongle controller
+
+quickemu/stable 4.9.7-4 arm64
+  quickly create and run optimised virtual machines
+
+quisk/stable 4.2.32-2+b1 arm64
+  Software Defined Radio (SDR)
+
+raritan-json-rpc-doc/stable 4.3.0+ds-1 all
+  Documentation for Raritan Xerus™ JSON-RPC SDK
+
+rkdeveloptool/stable 1.32+pine64git20240226.17823e9-1+b1 arm64
+  tools for working with Rockchip processors
+
+rockusb/stable 0.2.0-2+b2 arm64
+  Rockchip USB utility
+
+rtl-sdr/stable 2.0.2-2+b1 arm64
+  Software defined radio receiver for Realtek RTL2832U (tools)
+
+ruby-nfc/stable 3.1.2-3+b1 arm64
+  ruby wrapper for the libnfc
+
+ruby-obexftp/stable 0.24-10+b3 arm64
+  ruby binding to the object exchange file transfer library
+
+s51dude/stable 0.3.1-1.1+b3 arm64
+  In-System Programmer for 8051 MCUs using usbtiny
+
+scolasync/stable 5.6-1 all
+  graphic tool to copy data to or from a set of USB storage media
+
+sd-mux-ctrl/stable 0.0.3-3+b2 arm64
+  Tool for controlling multiple sd-mux devices
+
+sispmctl/stable 4.12-1+b1 arm64
+  Control Gembird SIS-PM programmable power outlet strips
+
+soapysdr-module-rtlsdr/stable 0.3.3-1+b4 arm64
+  RTL-SDR device support for SoapySDR (default version)
+
+soapysdr0.8-module-rtlsdr/stable 0.3.3-1+b4 arm64
+  RTL-SDR device support for SoapySDR
+
+sonata/stable 1.7.1-2 all
+  GTK+ client for the Music Player Daemon (MPD)
+
+soundcraft-utils/stable 0.4.0-4 all
+  Linux Utilities for Soundcraft Mixers
+
+spectools/stable 201601r1-6 arm64
+  Utilities for using the Wi-Spy USB spectrum analyzer hardware
+
+spice-client-glib-usb-acl-helper/stable 0.42-3 arm64
+  Helper tool to validate usb ACLs
+
+spytrap-adb/stable 0.3.5-1 arm64
+  Test a phone for stalkerware using adb and usb debugging
+
+squeezelite/stable 2.0.0-1517+git20241227.262994a-1+b1 arm64
+  lightweight headless Squeezebox emulator - ALSA version
+
+squeezelite-pa/stable 2.0.0-1517+git20241227.262994a-1+b1 arm64
+  lightweight headless Squeezebox emulator - PortAudio version
+
+squeezelite-pulseaudio/stable 2.0.0-1517+git20241227.262994a-1+b1 arm64
+  lightweight headless Squeezebox emulator - PulseAudio version
+
+strawberry/stable 1.2.10-2 arm64
+  audio player and music collection organizer
+
+sunxi-tools/stable 1.4.2+git20240825.4390ca-1 arm64
+  tools for working with Allwinner (sunxi) ARM processors
+
+t2n/stable 0.7-2+b1 arm64
+  Simple command-line tool for LEGO Mindstorms NXT
+
+teensy-loader-cli/stable 2.2-1.1+b1 arm64
+  load and run programs onto your Teensy micro controller
+
+tillitis-tkey-udev/stable 1.0.0+ds-4 all
+  Tillitis TKey udev rule
+
+tinyusb-source/stable 0.18.0+dfsg-1 all
+  USB stack for embedded systems
+
+tio/stable 3.9-1 arm64
+  simple TTY terminal I/O application
+
+tkey-ssh-agent/stable 1.0.0+ds-4+b2 arm64
+  SSH Agent for Tillitis TKey (application)
+
+tomb/stable 2.11+dfsg-2 arm64
+  crypto undertaker
+
+u3-tool/stable 0.3-4+b2 arm64
+  tool for controlling the special features of a U3 USB flash disk
+
+udisks2/stable 2.10.1-12.1+deb13u1 arm64
+  D-Bus service to access and manipulate storage devices
+
+udisks2-btrfs/stable 2.10.1-12.1+deb13u1 arm64
+  BTRFS support for udisks2
+
+udisks2-doc/stable 2.10.1-12.1+deb13u1 all
+  udisks2 documentation
+
+udisks2-lvm2/stable 2.10.1-12.1+deb13u1 arm64
+  LVM2 support for udisks2
+
+ufiformat/stable 0.9.9-1.2+b1 arm64
+  disk formatter for USB floppy drives
+
+uhubctl/stable 2.6.0-1 arm64
+  USB hub per-port power control
+
+ukopp/stable 4.9-3+b2 arm64
+  Full and incremental backup to disk or disk-like device
+
+umockdev/stable 0.19.1-3 arm64
+  record/mock hardware devices for bug reports and regression tests
+
+ums2net/stable 0.1.3-3+b2 arm64
+  USB Mass Storage to Network Proxy
+
+umtp-responder/stable 1.3.10-1+b3 arm64
+  Lightweight USB Media Transfer Protocol (MTP) responder daemon
+
+usb-modeswitch/stable 2.6.1-4+b2 arm64
+  mode switching tool for controlling "flip flop" USB devices
+
+usb-modeswitch-data/stable 20191128-7 all
+  mode switching data for usb-modeswitch
+
+usb.ids/stable 2025.07.26-1 all
+  USB ID Repository
+
+usbauth/stable 1.0.5-1.1+b1 arm64
+  USB firewall against BadUSB attacks
+
+usbauth-notifier/stable 1.0.4-2.1+b2 arm64
+  Notifier for USB Firewall to use with desktop environments
+
+usbguard/stable 1.1.3+ds-3 arm64
+  USB device authorization policy framework
+
+usbguard-notifier/stable 0.1.0-3+b2 arm64
+  user-friendly notifications for usbguard
+
+usbip/stable 2.0+6.12.94-1 arm64
+  USB device sharing system over IP network
+
+usbmuxd/stable 1.1.1-6+deb13u1 arm64
+  USB multiplexor daemon for iPhone and iPod Touch devices
+
+usbredirect/stable 0.15.0-1 arm64
+  Simple USB host TCP client
+
+usbrelay/stable 1.0-2.2+b3 arm64
+  USB HID relay driver
+
+usbrelayd/stable 1.0-2.2 all
+  MQTT client for USB HID relay driver
+
+usbrip/stable 2.2.2+git20221003.5093c84-3 all
+  USB device artifacts tracker
+
+usbsdmux/stable 24.11.1-1 all
+  control software for USB-SD-Mux devices
+
+usbtop/stable 1.0+dfsg-1+b2 arm64
+  utility to show bandwidth on USB buses and devices
+
+usbutils/stable,now 1:018-2 arm64 [installed]
+  Linux USB utilities
+
+usbutils-py/stable 1:018-2 all
+  Linux USB utilities - lsusb.py command
+
+usbview/stable 3.1-2 arm64
+  USB device viewer
+
+uvccapture/stable 0.5-5+b1 arm64
+  USB UVC Video Class snapshot software
+
+vboot-utils/stable 0~R106-15054.B+dfsg-0.1 arm64
+  Chrome OS verified u-boot utilities
+
+vish/stable 0.0.20130812-1+b1 arm64
+  Commandline interface for Virtual Instrument Software Architecture
+
+x2goclient/stable 4.1.2.3-4 arm64
+  X2Go Client application (Qt5)
+
+x2godesktopsharing/stable 3.2.0.0-2+b3 arm64
+  Share X11 desktops with other users via X2Go
+
+x2gokdriveclient/stable 0.0.0.1-2 arm64
+  KDrive graphical client backend for X2Go Client
+
+x2goserver/stable 4.1.0.6-1.1+b2 arm64
+  X2Go Server
+
+x2goserver-common/stable 4.1.0.6-1.1 all
+  X2Go Server (common files)
+
+x2goserver-desktopsharing/stable 4.1.0.6-1.1 all
+  Share X11 desktops with other users via X2Go
+
+x2goserver-extensions/stable 4.1.0.6-1.1 all
+  X2Go Server (extension support)
+
+x2goserver-fmbindings/stable 4.1.0.6-1.1 all
+  X2Go Server (file manager bindings)
+
+x2goserver-printing/stable 4.1.0.6-1.1 all
+  X2Go Server (printing support)
+
+x2goserver-xsession/stable 4.1.0.6-1.1 all
+  X2Go Server (Xsession runner)
+
+x2gothinclient-cdmanager/stable 1.5.0.1-10.2 arm64
+  clientside daemon enabling automatic CD-Rom mounting
+
+x2gothinclient-chroot/stable 1.5.0.1-10.2 all
+  Install X2Go Thin Client chroot (metapackage)
+
+x2gothinclient-common/stable 1.5.0.1-10.2 all
+  X2Go thin client environment (common files)
+
+x2gothinclient-displaymanager/stable 1.5.0.1-10.2 all
+  login daemon starting x2goclient in displaymanager mode
+
+x2gothinclient-management/stable 1.5.0.1-10.2 all
+  Management tools for X2Go Thin Client chroot server
+
+x2gothinclient-minidesktop/stable 1.5.0.1-10.2 all
+  Minimal desktop for X2Go Thin Client chroot (based on MATE)
+
+x2gothinclient-smartcardrules/stable 1.5.0.1-10.2 all
+  UDEV rules for smartcard readers
+
+x2gothinclient-usbmount/stable 1.5.0.1-10.2 all
+  clientside usb mass-storage device mounting
+
+xboxdrv/stable 0.8.8-4+b1 arm64
+  Xbox360 gamepad driver for the userspace
+
+xorriso/stable 1.5.6-1.2+b1 arm64
+  command line ISO-9660 and Rock Ridge manipulation tool
+
+xserver-x2gokdrive/stable 0.0.0.3-2 arm64
+  KDrive graphical server backend for X2Go Server
+
+xserver-xorg-input-aiptek/stable 1:1.4.1-5 arm64
+  X.Org X server -- Aiptek input driver
+
+xserver-xorg-video-sisusb/stable 1:0.9.7-3+b2 arm64
+  X.Org X server -- SiS USB display driver
+
+ykush-control/stable 1.3.0+ds-1+b1 arm64
+  control application for Yepkit YKUSH Switchable USB Hub board
+
+yubihsm-auth/stable 2.6.0-5 arm64
+  store YubiHSM 2 authentication keys on a YubiKey
+
+yubihsm-connector/stable 3.0.5-2 arm64
+  USB to HTTP bridge for the YubiHSM 2
+
+yubihsm-pkcs11/stable 2.6.0-5 arm64
+  PKCS#11 module for communication with the YubiHSM 2
+
+yubihsm-shell/stable 2.6.0-5 arm64
+  command-line and interactive tool for the YubiHSM 2
+
+yubihsm-wrap/stable 2.6.0-5 arm64
+  produce offline wrapped objects for the YubiHSM 2
+
+yubikey-manager-qt/stable 1.2.5-2 arm64
+  Graphical application for configuring a YubiKey
+
+yubikey-personalization/stable 1.20.0-5 arm64
+  Personalization tool for Yubikey OTP tokens
+
+yubiserver/stable 0.6-3.2+b2 arm64
+  Yubikey OTP and HOTP/OATH Validation Server
+
+ztex-bmp/stable 20120314-2+b1 arm64
+  universal macro processor
+

@@ -1,0 +1,19 @@
+aconnect: invalid option -- 'h'
+aconnect - ALSA sequencer connection manager
+Copyright (C) 1999-2000 Takashi Iwai
+Usage:
+ * Connection/disconnection between two ports
+   aconnect [-options] sender receiver
+     sender, receiver = client:port pair
+     -d,--disconnect     disconnect
+     -e,--exclusive      exclusive connection
+     -r,--real #         convert real-time-stamp on queue
+     -t,--tick #         convert tick-time-stamp on queue
+ * List connected ports (no subscription action)
+   aconnect -i|-o [-options]
+     -i,--input          list input (readable) ports
+     -o,--output         list output (writable) ports
+     -a,--all            show inactive ports, too
+     -l,--list           list current connections of each port
+ * Remove all exported connections
+     -x, --removeall

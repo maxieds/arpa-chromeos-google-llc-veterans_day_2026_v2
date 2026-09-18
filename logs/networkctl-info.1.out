@@ -1,0 +1,6 @@
+IDX LINK   TYPE     OPERATIONAL SETUP
+  1 lo     loopback -           unmanaged
+  2 dummy0 ether    -           unmanaged
+  3 eth0   ether    -           unmanaged
+
+3 links listed.

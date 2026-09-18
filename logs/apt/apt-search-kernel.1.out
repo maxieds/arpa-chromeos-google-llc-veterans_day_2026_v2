@@ -1,0 +1,3494 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+0xffff/stable 0.9-1+b2 arm64
+  Open Free Fiasco Firmware Flasher
+
+abi-dumper/stable 1.4-1 all
+  tool to dump ABI of an ELF object containing DWARF debug info
+
+abootimg/stable 0.6-2 arm64
+  Tool to read/write/update android boot images
+
+acpi-call-dkms/stable 1.2.2-2.1 all
+  Kernel module that enables you to call ACPI methods
+
+acpica-tools/stable 20250404-1 arm64
+  ACPICA tools for the development and debug of ACPI tables
+
+adjtimex/stable 1.29-12 arm64
+  kernel time variables configuration utility
+
+aespipe/stable 2.4h-1 arm64
+  AES-encryption tool with loop-AES support
+
+alsa-scarlett-gui/stable 0.5.1-1 arm64
+  Gtk4 GUI for the Focusrite Scarlett/Clarett ALSA controls
+
+android-file-transfer/stable 4.3-1+b2 arm64
+  reliable MTP client with minimalistic UI
+
+apfs-dkms/stable 0.3.13-1 all
+  APFS module for Linux, with experimental write support
+
+apparmor/stable 4.1.0-1 arm64
+  user-space parser utility for AppArmor
+
+aprsdigi/stable 3.11.0-1+b1 arm64
+  digipeater for APRS
+
+aprx/stable 2.9.1-3 arm64
+  APRS Digipeater and iGate
+
+arch-test/stable 0.22-1 all
+  detect architectures supported by your machine/kernel
+
+arpon/stable 3.0-ng+dfsg1-5+b2 arm64
+  Versatile ARP defense daemon
+
+arptables/stable 0.0.5-5 arm64
+  ARP table administration
+
+auditd/stable 1:4.0.2-2+b2 arm64
+  User space tools for security auditing
+
+autodep8/stable 0.29 all
+  DEP-8 test control file generator
+
+autodir/stable 0.99.9-18 arm64
+  Automatically creates home and group directories for LDAP/NIS/SQL/local accounts
+
+autofs/stable 5.1.9-1.2+b1 arm64
+  kernel-based automounter for Linux
+
+autofs-hesiod/stable 5.1.9-1.2+b1 arm64
+  Hesiod map support for autofs
+
+autofs-ldap/stable 5.1.9-1.2+b1 arm64
+  LDAP map support for autofs
+
+avfs/stable 1.2.0-2 arm64
+  virtual filesystem to access archives, disk images, remote locations
+
+b4/stable 0.14.2-2 all
+  helper utility to work with patches made available via a public-inbox archive
+
+battery-stats/stable 0.5.6-2.1 arm64
+  collects statistics about charge of laptop batteries
+
+bbswitch-dkms/stable 0.8-17 arm64
+  Interface for toggling the power on NVIDIA Optimus video cards (dkms)
+
+bbswitch-source/stable 0.8-17 arm64
+  Interface for toggling the power on NVIDIA Optimus video cards
+
+bcache-tools/stable 1.0.8-5+b1 arm64
+  bcache userspace tools
+
+binfmt-support/stable 2.2.2-7+b1 arm64
+  Support for extra binary formats
+
+binwalk/stable 2.4.3+dfsg1-2 all
+  tool library for analyzing binary blobs and executable code
+
+bitwise/stable 0.50-1+b2 arm64
+  Interactive bitwise operation in ncurses
+
+blight/stable 0.7.1-2+b3 arm64
+  Hassle-free CLI backlight utility/library for Linux
+
+blktrace/stable 1.3.0-0.2 arm64
+  utilities for block layer IO tracing
+
+bpfcc-introspection/stable 0.31.0+ds-7 arm64
+  tool to help introspect BPF programs
+
+bpfcc-lua/stable 0.31.0+ds-7 arm64
+  Standalone tool to run BCC tracers written in Lua
+
+bpfcc-tools/stable 0.31.0+ds-7 all
+  tools for BPF Compiler Collection (BCC)
+
+bpftrace/stable 0.23.2-1 arm64
+  high-level tracing language for Linux eBPF
+
+bplay/stable 0.991-11 arm64
+  Buffered audio file player/recorder
+
+br2684ctl/stable 1:2.5.1-7 arm64
+  Utility for configuring RFC 2684 ATM/Ethernet bridging
+
+bristol/stable 0.60.11-5+b1 arm64
+  vintage synthesizer emulator
+
+bristol-data/stable 0.60.11-5 all
+  vintage synthesizer emulator (data files)
+
+brotli-rs/stable 6.0.0-1+b6 arm64
+  Compressor and decompressor for brotli written in rust
+
+btscanner/stable 2.1-9+b1 arm64
+  ncurses-based scanner for Bluetooth devices
+
+bubblewrap/stable,now 0.11.0-2+deb13u1 arm64 [installed,automatic]
+  utility for unprivileged chroot and namespace manipulation
+
+busybox-syslogd/stable 1:1.37.0-6 all
+  Provides syslogd and klogd using busybox
+
+bypass4netns/stable 0.4.1-1.1+b7 arm64
+  Accelerates slirp4netns using SECCOMP_IOCTL_NOTIF_ADDFD (program)
+
+cachefilesd/stable 0.10.10-0.4+b1 arm64
+  support fscache on already mounted filesystem
+
+calceph/stable 4.0.4-2 arm64
+  Planetary ephemeris data access tools
+
+can-utils/stable 2023.03-1+b2 arm64
+  SocketCAN userspace utilities and tools
+
+cdemu-daemon/stable 3.2.7-2 arm64
+  Main CDEmu daemon
+
+cgpt/stable 0~R106-15054.B+dfsg-0.1 arm64
+  GPT manipulation tool with support for Chromium OS extensions
+
+chaosread/stable 1.1-2+b1 arm64
+  Directly read ChaosKey noise source
+
+charon-cmd/stable 6.0.1-6+deb13u6 arm64
+  standalone IPsec client
+
+charon-systemd/stable 6.0.1-6+deb13u6 arm64
+  strongSwan IPsec client, systemd support
+
+checkpolicy/stable 3.8.1-1 arm64
+  SELinux policy compiler
+
+chezscheme-dev/stable 10.0.0+dfsg-5 arm64
+  Reliable, high performance Scheme compiler (C development files)
+
+coinst/stable 1.9.3-6+b4 arm64
+  computes the co-installability kernel of a deb or RPM repository
+
+conntrack/stable 1:1.4.8-2+b1 arm64
+  Program to modify the conntrack tables
+
+corekeeper/stable 1.7 arm64
+  enable core files and report crashes to the sysadmin
+
+cpu-checker/stable 0.7-1.4 arm64
+  tools to help evaluate certain CPU (or BIOS) features
+
+cpuinfo/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (binary utilities)
+
+cpuset/stable 1.6.2-2 all
+  Allows manipluation of cpusets and provides higher level fun
+
+crash/stable 8.0.6-1 arm64
+  kernel debugging utility, allowing gdb like syntax
+
+crashme/stable 2.8.5-2 arm64
+  tool to test kernel stability
+
+cryptsetup/stable 2:2.7.5-2 arm64
+  disk encryption support - startup scripts
+
+cryptsetup-bin/stable 2:2.7.5-2 arm64
+  disk encryption support - command line tools
+
+cryptsetup-initramfs/stable 2:2.7.5-2 all
+  disk encryption support - initramfs integration
+
+cryptsetup-ssh/stable 2:2.7.5-2 arm64
+  disk encryption support - experimental SSH token handler
+
+cryptsetup-suspend/stable 2:2.7.5-2 arm64
+  disk encryption support - suspend mode integration
+
+dahdi/stable 1:3.1.0-2.1 arm64
+  utilities for using the DAHDI kernel modules
+
+dahdi-dkms/stable 1:3.1.0+git20230717~dfsg-10.1 all
+  DAHDI telephony interface (dkms kernel driver)
+
+dahdi-linux/stable 1:3.1.0+git20230717~dfsg-10.1 all
+  DAHDI telephony interface - Linux userspace parts
+
+dahdi-source/stable 1:3.1.0+git20230717~dfsg-10.1 all
+  DAHDI telephony interface - source code for kernel driver
+
+damo/stable 2.8.3-1 all
+  Data Access Monitoring Operator
+
+das-watchdog/stable 0.9.0-5+b2 arm64
+  solves system lock-ups by making all processes non-realtime
+
+daxctl/stable 81-1 arm64
+  Utility for managing the device DAX subsystem
+
+dbus-broker/stable 37-2 arm64
+  Linux D-Bus Message Broker
+
+ddcci-dkms/stable 0.4.5-1 all
+  DDC/CI driver
+
+debian-handbook/stable 11.20220922 all
+  reference book for Debian users and system administrators
+
+debian-kernel-handbook/stable 1.0.21 all
+  reference to Debian Linux kernel packages and development
+
+debianutils/stable,now 5.23.2 arm64 [installed]
+  Miscellaneous utilities specific to Debian
+
+debootstick/stable 2.8 all
+  Turn a chroot environment into a bootable image
+
+depthcharge-tools/stable 0.6.2-2 all
+  Tools for ChromeOS firmware/bootloader integration
+
+device-tree-compiler/stable 1.7.2-2+b1 arm64
+  Device Tree Compiler for Flat Device Trees
+
+dh-dkms/stable 3.2.2-1~deb13u1 all
+  debhelper addon for the Dynamic Kernel Module System (DKMS)
+
+dhcp-helper/stable 1.2-3.3 arm64
+  A DHCP relay agent
+
+diffoscope/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories
+
+diffoscope-minimal/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories (minimal package)
+
+digimend-dkms/stable 13-4 arm64
+  Collection of graphics tablet drivers by DIGImend project
+
+disktype/stable 9-13 arm64
+  detection of content format of a disk or disk image
+
+dkms/stable 3.2.2-1~deb13u1 all
+  Dynamic Kernel Module System (DKMS)
+
+dkms-noautoinstall-test-dkms/stable 3.2.2-1~deb13u1 all
+  trivial dkms noautoinstall test kernel module
+
+dkms-replace-test-dkms/stable 3.2.2-1~deb13u1 all
+  trivial dkms replace test kernel module
+
+dkms-test-dkms/stable 3.2.2-1~deb13u1 all
+  trivial dkms test kernel module
+
+dlm-controld/stable 4.3.0-3 arm64
+  Distributed Lock Manager control daemon
+
+dm-writeboost-dkms/stable 2.2.18-0.1 all
+  log-structured caching for Linux
+
+dmeventd/stable 2:1.02.205-2 arm64
+  Linux Kernel Device Mapper event daemon
+
+dmsetup/stable 2:1.02.205-2 arm64
+  Linux Kernel Device Mapper userspace library
+
+dns323-firmware-tools/stable 0.7.3-1.2 all
+  build and manipulate firmware images for a range of NAS devices
+
+docker-doc/stable 26.1.5+dfsg1-9 all
+  Linux container runtime -- documentation
+
+docker.io/stable 26.1.5+dfsg1-9+b13 arm64
+  Linux container runtime
+
+dpdk-kmods-dkms/stable 0~20230205+git-2 arm64
+  Data Plane Development Kit (dkms)
+
+dracut/stable 106-6 all
+  Initramfs generator using udev
+
+drbd-utils/stable 9.22.0-1.1 arm64
+  RAID 1 over TCP/IP for Linux (user utilities)
+
+driverctl/stable 0.115-2 all
+  Device driver control utility for Linux
+
+dropwatch/stable 1.5.4-4 arm64
+  tool for detecting and diagnosing dropped network packets
+
+ebtables/stable 2.0.11-6+b2 arm64
+  Ethernet bridge frame table administration
+
+ecryptfs-utils/stable 111-8 arm64
+  ecryptfs cryptographic filesystem (utilities)
+
+edac-utils/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+edid-decode/stable 0.1~git20220315.cb74358c2896-1.1+b1 arm64
+  decode the binary EDID information from monitors
+
+efibootmgr/stable 18-2+b1 arm64
+  Interact with the EFI Boot Manager
+
+ekeyd/stable 1.1.5-8 arm64
+  Simtec Electronics UDEKEY01 Entropy Key Daemon
+
+ekeyd-egd-linux/stable 1.1.5-8 arm64
+  Transfers entropy from an EGD to the Linux kernel pool
+
+emacspeak-ss/stable 1.12.1-9+b1 arm64
+  Emacspeak speech servers for several synthesizers
+
+embree-tools/stable 4.3.3+dfsg-1 arm64
+  High Performance Ray Tracing Kernels - tools
+
+encfs/stable 1.9.5-3 arm64
+  encrypted virtual filesystem
+
+entr/stable 5.7-1 arm64
+  Run arbitrary commands when files change
+
+eql/stable 1.2.ds1-5+b1 arm64
+  load balancing tool for serial network connections
+
+erlang-base/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP virtual machine and base applications
+
+esekeyd/stable 1.2.7-4+b1 arm64
+  multimedia keyboard daemon for Linux
+
+espeakup/stable 1:0.90-17 arm64
+  Connector between speakup kernel modules and espeak
+
+ethstats/stable 1.2.1-6 all
+  script that quickly measures network device throughput
+
+evdi-dkms/stable 1.14.8+dfsg-1 all
+  Extensible Virtual Display Interface driver kernel module
+
+evemu-tools/stable 2.7.0-4+b1 arm64
+  Linux Input Event Device Emulation Library - test tools
+
+eventstat/stable 0.06.00-1+b1 arm64
+  kernel event states monitoring tool
+
+evtest/stable 1:1.35-1+b1 arm64
+  utility to monitor Linux input device events
+
+fake-hwclock/stable 0.14 all
+  Save/restore system clock on machines without working RTC hardware
+
+falcosecurity-scap-dkms/stable 0.20.0-3 all
+  Kernel driver for Falco and Sysdig
+
+fbterm/stable 1.7-5+b1 arm64
+  fast framebuffer based terminal emulator for Linux
+
+fence-agents-kdump/stable 4.16.0-3 arm64
+  Fence Agents for Red Hat Cluster - kdump agent
+
+fenrir/stable 2025.0.2.26-1 all
+  Userland console (TTY) screen reader written in python
+
+ferm/stable 2.5.1-4 all
+  maintain and setup complicated firewall rules
+
+finit-plugins/stable 4.12-1 arm64
+  Fast init for Linux systems - plugins
+
+firejail/stable 0.9.74-1 arm64
+  sandbox to restrict the application environment
+
+firejail-profiles/stable 0.9.74-1 all
+  profiles for the firejail application sandbox
+
+firetools/stable 0.9.72-1+b2 arm64
+  Qt frontend for the Firejail application sandbox
+
+firmware-linux-free/stable 20241210-2 all
+  Binary firmware for various drivers in the Linux kernel
+
+fl-cow/stable 0.6-10 arm64
+  copy-on-write utility
+
+flash-kernel/stable 3.109 arm64
+  utility to make certain embedded devices bootable
+
+fling/stable 1.1-3+b1 arm64
+  Transfer data from stdin over network to destination quickly
+
+flowgrind/stable 0.8.2-2+b4 arm64
+  Distributed network performance measurement tool
+
+fonts-gr-framework/stable 0.73.14+dfsg-1 all
+  Bundled Font of Graphical Kernel System (GKS) and OpenGL
+
+fonts-tlwg-norasi/stable 1:0.7.3-1 all
+  Thai Norasi font (dependency package)
+
+fonts-tlwg-norasi-otf/stable 1:0.7.3-1 all
+  Thai Norasi OpenType font
+
+fonts-tlwg-norasi-ttf/stable 1:0.7.3-1 all
+  Thai Norasi TrueType font
+
+freebsd-manpages/stable 12.2-2 all
+  Manual pages for a GNU/kFreeBSD system
+
+fscrypt/stable 0.3.5-1+b5 arm64
+  Tool for managing Linux filesystem encryption
+
+fsverity/stable 1.6-1.2 arm64
+  Userspace utilities for fs-verity
+
+fswatch/stable 1.14.0+repack-13.1+b2 arm64
+  file change monitor based on inotify
+
+ftpgrab/stable 0.1.5-7+b2 arm64
+  file mirroring utility
+
+fuse3/stable,now 3.17.2-3 arm64 [installed,automatic]
+  Filesystem in Userspace (3.x version)
+
+fwsnort/stable 1.6.8-2 all
+  Snort-to-iptables rule translator
+
+fxt-tools/stable 0.3.15-1 arm64
+  Multithreaded tracing library
+
+g15daemon/stable 1.9.5.3-14.1+b1 arm64
+  LCD multiplexer for Logitech G15 Keyboard
+
+gem-plugin-v4l2/stable 1:0.94-8+b5 arm64
+  Graphics Environment for Multimedia - V4L2 output support
+
+gfs2-utils/stable 3.6.1-1 arm64
+  Global File System 2 - filesystem tools
+
+git/stable,now 1:2.47.3-0+deb13u1 arm64 [installed,automatic]
+  fast, scalable, distributed revision control system
+
+git-all/stable,now 1:2.47.3-0+deb13u1 all [installed]
+  fast, scalable, distributed revision control system (all subpackages)
+
+git-cvs/stable,now 1:2.47.3-0+deb13u1 all [installed,automatic]
+  fast, scalable, distributed revision control system (cvs interoperability)
+
+git-doc/stable,now 1:2.47.3-0+deb13u1 all [installed,automatic]
+  fast, scalable, distributed revision control system (documentation)
+
+git-email/stable,now 1:2.47.3-0+deb13u1 all [installed,automatic]
+  fast, scalable, distributed revision control system (email add-on)
+
+git-gui/stable,now 1:2.47.3-0+deb13u1 all [installed,automatic]
+  fast, scalable, distributed revision control system (GUI)
+
+git-man/stable,now 1:2.47.3-0+deb13u1 all [installed,automatic]
+  fast, scalable, distributed revision control system (manual pages)
+
+git-mediawiki/stable,now 1:2.47.3-0+deb13u1 all [installed,automatic]
+  fast, scalable, distributed revision control system (MediaWiki remote helper)
+
+git-svn/stable,now 1:2.47.3-0+deb13u1 all [installed,automatic]
+  fast, scalable, distributed revision control system (svn interoperability)
+
+gitk/stable,now 1:2.47.3-0+deb13u1 all [installed,automatic]
+  fast, scalable, distributed revision control system (revision tree visualizer)
+
+gitweb/stable,now 1:2.47.3-0+deb13u1 all [installed,automatic]
+  fast, scalable, distributed revision control system (web interface)
+
+gkrellm-thinkbat/stable 0.2.3-1 arm64
+  ThinkPad laptops battery status indicator for GKrellM
+
+global/stable 6.6.13-1 arm64
+  Source code search and browse tools
+
+glusterfs-cli/stable 11.1-6 arm64
+  clustered file-system (cli package)
+
+glusterfs-client/stable 11.1-6 arm64
+  clustered file-system (client package)
+
+glusterfs-common/stable 11.1-6 arm64
+  GlusterFS common libraries and translator modules
+
+glusterfs-server/stable 11.1-6 arm64
+  clustered file-system (server package)
+
+gnumach-dev/stable 2:1.8+git20250702-1 arm64
+  GNU version of the Mach microkernel
+
+go-l2tp/stable 0.1.8-1+b10 arm64
+  L2TP and PPPoE tools built using the go-l2tp package
+
+golang-bazil-fuse-dev/stable 0.0~git20160811.0.371fbbd-4 all
+  FUSE library for Go
+
+golang-github-awnumar-memguard-dev/stable 0.22.5-2 all
+  secure enclave for storage of sensitive information (library)
+
+golang-github-chifflier-nfqueue-go-dev/stable 0.0~git20170228.61ca646-2 all
+  Go bindings for NFQueue
+
+golang-github-cloudflare-cbpfc-dev/stable 0.0~git20231012.992ed75-2 all
+  cBPF to C or eBPF compiler (library)
+
+golang-github-containerd-nydus-snapshotter-dev/stable 0.13.4-2.1 all
+  A containerd snapshotter with data deduplication and lazy loading (library)
+
+golang-github-euank-go-kmsg-parser-dev/stable 2.0.1-2 all
+  simpler parser for the /dev/kmsg format (library)
+
+golang-github-evilsocket-ftrace-dev/stable 1.2.0-2.1 all
+  trace Linux syscalls using the FTRACE kernel framework
+
+golang-github-florianl-go-nfqueue-dev/stable 2.0.0-2 all
+  C-binding free API for Golang to interact with the Netfilter queue subsystem
+
+golang-github-hanwen-go-fuse-dev/stable 2.4.2-3 all
+  Native Go bindings for the FUSE kernel module
+
+golang-github-hodgesds-perf-utils-dev/stable 0.5.1-2 all
+  Perf Utilities for Go (library)
+
+golang-github-jsimonetti-rtnetlink-dev/stable 2.0.2-1 all
+  low-level access to the Linux rtnetlink API (library)
+
+golang-github-mdlayher-ethtool-dev/stable 0.2.0-2 all
+  Go library to control the Linux ethtool generic netlink interface
+
+golang-github-pbnjay-memory-dev/stable 0.0~git20210728.7b4eea6-2 all
+  Provides go function to report total system memory
+
+golang-github-prometheus-procfs-dev/stable 0.15.1-1 all
+  Golang library to retrieve metrics from the proc pseudo-filesystem
+
+golang-github-rootless-containers-bypass4netns-dev/stable 0.4.1-1.1 all
+  Accelerates slirp4netns using SECCOMP_IOCTL_NOTIF_ADDFD (library)
+
+golang-github-satta-ifplugo-dev/stable 0.0~git20200508.ca679be-6 all
+  network link status notification for Go
+
+golang-github-seccomp-containers-golang-dev/stable 0.6.0-3 all
+  libseccomp mappings in Golang
+
+golang-github-seccomp-libseccomp-golang-dev/stable 0.10.0-4 all
+  golang bindings for libseccomp
+
+golang-github-tklauser-numcpus-dev/stable 0.3.0-2 all
+  Go module to get the number of CPUs (library)
+
+golang-github-vishvananda-netlink-dev/stable 1.3.0-2 all
+  netlink library for go
+
+golang-github-x86kernel-htmlcolor-dev/stable 0.0~git20190529.c589f58-3 all
+  HTML syntax highlighter for Go
+
+golang-golang.zx2c4-wireguard-dev/stable 0.0.20231211-1 all
+  Userspace implementation of WireGuard in Go (library)
+
+golang-gvisor-gvisor-dev/stable 0.0~20240729.0-4 all
+  Application Kernel for Containers (library)
+
+golang-kernel-pub-linux-libs-security-libcap-dev/stable 1:2.75-10+deb13u1 all
+  POSIX 1003.1e capabilities (Go library)
+
+golang-pault-go-macchanger-dev/stable 0.0~git20170902.0.0252df5-1.1 all
+  library to change MAC addresses on Linux systems
+
+gost-crypto-dkms/stable 0.3.5-1.1 all
+  Linux kernel modules implementing GOST cryptography
+
+gpgv-static/stable 2.4.7-21+deb13u1+b4 arm64
+  minimal signature verification tool (static build)
+
+gphotofs/stable 0.5-6+b3 arm64
+  filesystem to mount digital cameras
+
+gr-framework/stable 0.73.14+dfsg-1 arm64
+  Universal framework of Graphical Kernel System (GKS) and OpenGL (metapackage)
+
+gr-framework-bin/stable 0.73.14+dfsg-1 arm64
+  Binary of Graphical Kernel System (GKS) and OpenGL
+
+gr-framework-doc/stable 0.73.14+dfsg-1 all
+  Documentation of Graphical Kernel System (GKS) and OpenGL
+
+gr-framework-plugin-agg/stable 0.73.14+dfsg-1 arm64
+  Graphical Kernel System (GKS) and OpenGL plugin for AGG
+
+gr-framework-plugin-base/stable 0.73.14+dfsg-1 arm64
+  Basic plugins for Graphical Kernel System (GKS) and OpenGL
+
+gr-framework-plugin-cairo/stable 0.73.14+dfsg-1 arm64
+  Graphical Kernel System (GKS) and OpenGL plugin for Cairo
+
+gr-framework-plugin-full/stable 0.73.14+dfsg-1 arm64
+  All plugins for Graphical Kernel System (GKS) and OpenGL (metapackage)
+
+gr-framework-plugin-gl/stable 0.73.14+dfsg-1 arm64
+  Graphical Kernel System (GKS) and OpenGL plugin for WGL/CGL/GLX
+
+gr-framework-plugin-gs/stable 0.73.14+dfsg-1 arm64
+  Graphical Kernel System (GKS) and OpenGL plugin for Ghostscript
+
+gr-framework-plugin-qt5/stable 0.73.14+dfsg-1 arm64
+  Graphical Kernel System (GKS) and OpenGL plugin for Qt5
+
+gr-framework-plugin-qt6/stable 0.73.14+dfsg-1 arm64
+  Graphical Kernel System (GKS) and OpenGL plugin for Qt6
+
+gr-framework-plugin-video/stable 0.73.14+dfsg-1 arm64
+  Graphical Kernel System (GKS) and OpenGL plugin for Video
+
+gr-framework-plugin-x11/stable 0.73.14+dfsg-1 arm64
+  Graphical Kernel System (GKS) and OpenGL plugin for GKS 5 (X11)
+
+gr-framework-plugin-zmq/stable 0.73.14+dfsg-1 arm64
+  Graphical Kernel System (GKS) and OpenGL plugin for ZeroMQ
+
+grail-tools/stable 3.1.1-4+b2 arm64
+  Gesture Recognition And Instantiation Library - test tools
+
+grub-customizer/stable 5.2.5-1+b1 arm64
+  GUI to configure GRUB2 and BURG
+
+gssproxy/stable 0.9.2-3+b1 arm64
+  Privilege separation daemon for GSSAPI
+
+hardening-runtime/stable 2 all
+  Runtime hardening configuration files
+
+hdparm/stable 9.65+ds-1.1+b1 arm64
+  tune hard disk parameters for high performance
+
+hercules/stable 3.13-8+b1 arm64
+  System/370, ESA/390 and z/Architecture Emulator
+
+hipcc/stable 5.7.1-6+deb13u1 arm64
+  C++ Runtime API and Kernel Language for AMD and NVIDIA GPUs
+
+hobbit-plugins/stable 20230301 all
+  plugins for the Xymon network monitor
+
+hostapd/stable 2:2.10-24 arm64
+  access point and authentication server for Wi-Fi and Ethernet
+
+hunt/stable 1.5-10 arm64
+  advanced packet sniffer and connection intrusion
+
+hwloc/stable 2.12.0-4 arm64
+  Hierarchical view of the machine - utilities
+
+hwloc-nox/stable 2.12.0-4 arm64
+  Hierarchical view of the machine - non-X version of utilities
+
+hyfetch/stable 1.99.0-1.1 all
+  Command-line Tool that Presents System Info
+
+ibverbs-providers/stable 56.1-1 arm64
+  User space provider drivers for libibverbs
+
+ibverbs-utils/stable 56.1-1 arm64
+  Examples for the libibverbs library
+
+idlestat/stable 0.8-8+b1 arm64
+  measure CPU time in idle and operating states
+
+ifenslave/stable 2.14 all
+  configure network interfaces for parallel routing (bonding)
+
+ifstat/stable 1.1.1-2+b2 arm64
+  InterFace STATistics Monitoring
+
+ima-evm-utils/stable 1.5-2 arm64
+  Linux IMA Extended Verification Module signing tools
+
+incron/stable 0.5.12-4+b2 arm64
+  cron-like daemon which handles filesystem events
+
+initramfs-tools/stable 0.148.4 all
+  generic modular initramfs generator (automation)
+
+initramfs-tools-core/stable 0.148.4 all
+  generic modular initramfs generator (core tools)
+
+inotify-hookable/stable 0.09-2 all
+  blocking command-line interface to inotify
+
+inotify-tools/stable 4.23.9.0-2+b1 arm64
+  command-line programs providing a simple interface to inotify
+
+input-utils/stable 1.3-2 arm64
+  utilities for the input layer of the Linux kernel
+
+inputlirc/stable 34-1+b1 arm64
+  Zeroconf LIRC daemon using input event devices
+
+insilicoseq/stable 2.0.1-1 all
+  sequencing simulator producing realistic Illumina reads
+
+interception-caps2esc/stable 0.3.2-1+b2 arm64
+  interception plugin for dual function Esc/Ctrl key at CapsLock
+
+interception-tools/stable 0.6.8-3+b5 arm64
+  minimal composable infrastructure on top of libudev and libevdev
+
+iotop/stable 0.6-42-ga14256a-0.3+b1 arm64
+  simple top-like I/O monitor
+
+iotop-c/stable 1.30-1 arm64
+  simple top-like I/O monitor (implemented in C)
+
+ipip/stable 1.1.13 arm64
+  IP over IP Encapsulation Daemon
+
+ipmitool/stable 1.8.19-9 arm64
+  utility for IPMI control with kernel driver or LAN interface (daemon)
+
+iproute2/stable,now 6.15.0-1 arm64 [installed,automatic]
+  networking and traffic control tools
+
+ipset/stable 7.22-1+b1 arm64
+  administration tool for kernel IP sets
+
+iptables-netflow-dkms/stable 2.6-7.1 arm64
+  iptables target which generates netflows
+
+iptstate/stable 2.2.7-1 arm64
+  top-like interface to your netfilter connection-tracking table
+
+ipv6pref/stable 1.0.3-1+b2 arm64
+  utility to set IPv6 address preferences
+
+irqtop/stable 2.6-7.1 all
+  Observe IRQ and SoftIRQ in a top-like fashion
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+isatapd/stable 0.9.7-5+b3 arm64
+  creates and maintains an ISATAP client tunnel (RFC 5214)
+
+iscsiuio/stable 2.1.11-1+deb13u2 arm64
+  iSCSI offloading daemon for QLogic devices
+
+istgt/stable 0.4~20111008-4+b3 arm64
+  iSCSI userspace target daemon for Unix-like operating systems
+
+iw/stable 6.9-1+b1 arm64
+  tool for configuring Linux wireless devices
+
+iwatch/stable 0.2.2-11 all
+  realtime filesystem monitoring program using inotify
+
+iwd/stable 3.8-2 arm64
+  wireless daemon for Linux
+
+joe-jupp/stable 3.1.41-1 all
+  reimplement the joe Debian package using jupp
+
+jool-dkms/stable 4.1.13-1.1 all
+  kernel-based SIIT and NAT64 (IP/ICMP translation)
+
+jool-tools/stable 4.1.13-1.1 arm64
+  userspace utilities for the Jool kernel modules
+
+jupp/stable 3.1.41-1+b1 arm64
+  user friendly full screen text editor
+
+jupyter/stable 5.7.2-5 all
+  Interactive computing environment (metapackage)
+
+jupyter-client/stable 8.6.3-2 all
+  Jupyter protocol client APIs (tools)
+
+jupyter-console/stable 6.6.3-2 all
+  Jupyter terminal client (script)
+
+kacpimon/stable 1:2.0.34-1+b2 arm64
+  Kernel ACPI Event Monitor
+
+kafs-client/stable 0.5-5 arm64
+  basic tools for kAFS and mounter for the AFS dynamic root
+
+kamailio-berkeley-bin/stable 6.0.1-1+deb13u1 arm64
+  Berkeley database module for Kamailio - helper program
+
+kcapi-tools/stable 1.4.0-1+b2 arm64
+  Command-line tools for Linux Kernel Crypto API
+
+kde-config-screenlocker/stable 6.3.5-1 arm64
+  KCM Module for kscreenlocker
+
+kernel-wedge/stable 2.106 all
+  udeb package builder for Debian-Installer
+
+kernelshark/stable 2.9.3+really2.4.0-1 arm64
+  Utilities for graphically analyzing function tracing in the kernel
+
+kerneltop/stable 0.91-2+b3 arm64
+  shows Linux kernel function usage in a style like top
+
+kexec-tools/stable 1:2.0.29-2+b1 arm64
+  tools to support fast kexec reboots
+
+keyutils/stable 1.6.3-6 arm64
+  Linux Key Management Utilities
+
+kmod/stable,now 34.2-2 arm64 [installed]
+  tools for managing Linux kernel modules
+
+kmon/stable 1.6.5-1+b5 arm64
+  Interactive kernel monitor that combines dmesg and kmod
+
+kmscube/stable 0.0.0~git20210103-1+b3 arm64
+  Example KMS/GBM/EGL application
+
+kscreenlocker-dev/stable 6.3.5-1 arm64
+  Development files for kscreenlocker
+
+ksmbd-tools/stable 3.5.3-1 arm64
+  cifsd kernel server userspace utilities
+
+ksmtuned/stable 4.20150326+nmu1+b1 arm64
+  enables and tunes Kernel Samepage Merging
+
+ksystemlog/stable 4:25.04.0-1 arm64
+  system log viewer
+
+kthresher/stable 1.4.1-3 all
+  Purge Unused Kernels
+
+ktls-utils/stable 1.0.0-1 arm64
+  TLS handshake support for NFS and other in-kernel TLS users
+
+kup-client/stable 0.3.6-4 all
+  kernel.org upload tool
+
+kup-server/stable 0.3.6-4 all
+  kernel.org upload server
+
+kworkflow/stable 20191112-1.2 arm64
+  Inglorious kernel developer workflow scripts
+
+langford-dkms/stable 0.0.20130228-7 all
+  Kernel drivers for the Per Vices Noctar IQ demodulator board
+
+laptop-mode-tools/stable 1.74-1.4 all
+  Tools for Power Savings based on battery/AC status
+
+lcd4linux/stable 0.11.0~svn1203-3+b4 arm64
+  Grabs information and displays it on an external lcd
+
+lcdproc/stable 0.5.9-7+b3 arm64
+  LCD display driver daemon and clients
+
+lcdproc-extra-drivers/stable 0.5.9-7+b3 arm64
+  extra drivers for the LCD display driver daemon
+
+leds-alix-dkms/stable 0.0.1-5 all
+  Source for the LEDs driver of PCEngines ALIX 2/3 boards (dkms)
+
+leds-alix-source/stable 0.0.1-5 all
+  Source for the LEDs driver of PCEngines ALIX 2/3 boards
+
+libaio-dev/stable 0.3.113-8+b1 arm64
+  Linux kernel AIO access library - development files
+
+libaio1t64/stable 0.3.113-8+b1 arm64
+  Linux kernel AIO access library - shared library
+
+libamdhip64-5/stable 5.7.1-6+deb13u1 arm64
+  Heterogeneous Interface for Portability - AMD GPUs implementation
+
+libamdhip64-dev/stable 5.7.1-6+deb13u1 arm64
+  Header files for the AMD implementation of HIP
+
+libamdhip64-doc/stable 5.7.1-6+deb13u1 all
+  HIP Runtime Documentation
+
+libavc1394-dev/stable 0.5.4-5+b2 arm64
+  control IEEE 1394 audio/video devices (development files)
+
+libavc1394-tools/stable 0.5.4-5+b2 arm64
+  control IEEE 1394 audio/video devices (utilities)
+
+libbitmask-dev/stable 2.0-5+b2 arm64
+  header files and docs for libbitmask
+
+libbitmask1/stable 2.0-5+b2 arm64
+  supports multi-word bitmask operations
+
+libblis-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,32bit,meta)
+
+libblis-openmp-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,32bit,openmp)
+
+libblis-pthread-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,32bit,pthread)
+
+libblis-serial-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,32bit,serial)
+
+libblis4/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (32bit,meta)
+
+libblis4-openmp/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (32bit,openmp)
+
+libblis4-pthread/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (32bit,pthread)
+
+libblis4-serial/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (32bit,serial)
+
+libblis64-4/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (64bit,meta)
+
+libblis64-4-openmp/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (64bit,openmp)
+
+libblis64-4-pthread/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (64bit,pthread)
+
+libblis64-4-serial/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (64bit,serial)
+
+libblis64-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,64bit,meta)
+
+libblis64-openmp-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,64bit,openmp)
+
+libblis64-pthread-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,64bit,pthread)
+
+libblis64-serial-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,64bit,serial)
+
+libboost-coroutine-dev/stable 1.83.0.2+b2 arm64
+  provides a sort of cooperative multitasking on a single thread (default version)
+
+libboost-coroutine1.83-dev/stable 1.83.0-4.2 arm64
+  provides a sort of cooperative multitasking on a single thread
+
+libboost-coroutine1.83.0/stable 1.83.0-4.2 arm64
+  provides a sort of cooperative multitasking on a single thread
+
+libboost-coroutine1.88-dev/stable 1.88.0-1 arm64
+  provides a sort of cooperative multitasking on a single thread
+
+libboost-coroutine1.88.0/stable 1.88.0-1 arm64
+  provides a sort of cooperative multitasking on a single thread
+
+libbpf-tools/stable 0.31.0+ds-7 arm64
+  tools for BPF Compiler Collection based on libbpf (BTF and CO-RE)
+
+libbpfcc/stable 0.31.0+ds-7 arm64
+  shared library for BPF Compiler Collection (BCC)
+
+libbpfcc-dev/stable 0.31.0+ds-7 arm64
+  shared library for BPF Compiler Collection (BCC)
+
+libbsd-arc4random-perl/stable 1.50-8+b4 arm64
+  CPAN's BSD::arc4random -- Perl bindings for arc4random
+
+libcalceph2/stable 4.0.4-2 arm64
+  Shared library for planetary ephemeris data access
+
+libcap-dev/stable 1:2.75-10+deb13u1+b1 arm64
+  POSIX 1003.1e capabilities (development)
+
+libcap-ng-dev/stable 0.8.5-4+b1 arm64
+  Development and header files for libcap-ng
+
+libcap-ng-utils/stable 0.8.5-4+b1 arm64
+  Utilities for analysing and setting file capabilities
+
+libcap-ng0/stable,now 0.8.5-4+b1 arm64 [installed]
+  alternate POSIX capabilities library
+
+libcap2/stable,now 1:2.75-10+deb13u1+b1 arm64 [installed]
+  POSIX 1003.1e capabilities (library)
+
+libcap2-bin/stable,now 1:2.75-10+deb13u1+b1 arm64 [installed,automatic]
+  POSIX 1003.1e capabilities (utilities)
+
+libcapstone5/stable 5.0.7-1~deb13u1 arm64
+  lightweight multi-architecture disassembly framework - library
+
+libcharon-extauth-plugins/stable 6.0.1-6+deb13u6 arm64
+  strongSwan charon library (extended authentication plugins)
+
+libcharon-extra-plugins/stable 6.0.1-6+deb13u6 arm64
+  strongSwan charon library (extra plugins)
+
+libckteec0t64/stable 4.5.0-1 arm64
+  normal world user space client APIs for OP-TEE
+
+libcln-dev/stable 1.3.7-1+b1 arm64
+  Development library for Class Library for Numbers (c++)
+
+libcln6/stable 1.3.7-1+b1 arm64
+  Class Library for Numbers (C++)
+
+libcohttp-lwt-ocaml/stable 5.3.0-1+b23 arm64
+  CoHTTP implementation using the Lwt concurrency library (runtime)
+
+libcohttp-lwt-ocaml-dev/stable 5.3.0-1+b23 arm64
+  CoHTTP implementation using the Lwt concurrency library (dev)
+
+libcomedi0t64/stable 0.11.0+5-1.3+b1 arm64
+  Library for Comedi
+
+libconfig-gitlike-perl/stable 1.18-2 all
+  Perl module for Git-compatible config file parsing
+
+libcpuinfo-dev/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (header file)
+
+libcpuinfo0/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (shared object)
+
+libcryptsetup-dev/stable 2:2.7.5-2 arm64
+  disk encryption support - development files
+
+libcryptsetup12/stable 2:2.7.5-2 arm64
+  disk encryption support - shared library
+
+libctapimkt1/stable 1.0.5~rc1-9+b3 arm64
+  Read German Krankenversichertenkarte and eGK
+
+libctapimkt1-dev/stable 1.0.5~rc1-9+b3 arm64
+  Read German Krankenversichertenkarte and eGK (development)
+
+libcub-dev/stable 2.3.2-2 all
+  reusable software components for the CUDA programming model
+
+libcxl-dev/stable 81-1 arm64
+  Development files for libcxl
+
+libdaxctl-dev/stable 81-1 arm64
+  Development files for libdaxctl
+
+libdaxctl1/stable 81-1 arm64
+  Utility library for managing the device DAX subsystem
+
+libdevmapper-dev/stable 2:1.02.205-2 arm64
+  Linux Kernel Device Mapper header files
+
+libdevmapper-event1.02.1/stable 2:1.02.205-2 arm64
+  Linux Kernel Device Mapper event support library
+
+libdevmapper1.02.1/stable 2:1.02.205-2 arm64
+  Linux Kernel Device Mapper userspace library
+
+libdlm-dev/stable 4.3.0-3 arm64
+  Distributed Lock Manager library development
+
+libdlm3/stable 4.3.0-3 arm64
+  Distributed Lock Manager library
+
+libdlmcontrol-dev/stable 4.3.0-3 arm64
+  Distributed Lock Manager control library development
+
+libdlmcontrol3/stable 4.3.0-3 arm64
+  Distributed Lock Manager control library
+
+libdrm-amdgpu1/stable,now 2.4.124-2 arm64 [installed,automatic]
+  Userspace interface to amdgpu-specific kernel DRM services -- runtime
+
+libdrm-common/stable,now 2.4.124-2 all [installed,automatic]
+  Userspace interface to kernel DRM services -- common files
+
+libdrm-dev/stable 2.4.124-2 arm64
+  Userspace interface to kernel DRM services -- development files
+
+libdrm-etnaviv1/stable 2.4.124-2 arm64
+  Userspace interface to etnaviv-specific kernel DRM services -- runtime
+
+libdrm-freedreno1/stable 2.4.124-2 arm64
+  Userspace interface to msm/kgsl kernel DRM services -- runtime
+
+libdrm-intel1/stable 2.4.124-2 arm64
+  Userspace interface to intel-specific kernel DRM services -- runtime
+
+libdrm-nouveau2/stable 2.4.124-2 arm64
+  Userspace interface to nouveau-specific kernel DRM services -- runtime
+
+libdrm-radeon1/stable 2.4.124-2 arm64
+  Userspace interface to radeon-specific kernel DRM services -- runtime
+
+libdrm-tegra0/stable 2.4.124-2 arm64
+  Userspace interface to tegra-specific kernel DRM services -- runtime
+
+libdrm-tests/stable 2.4.124-2 arm64
+  Testing tools from the libdrm project
+
+libdrm2/stable,now 2.4.124-2 arm64 [installed,automatic]
+  Userspace interface to kernel DRM services -- runtime
+
+libdumbnet-dev/stable 1.18.0-2 arm64
+  dumb, portable networking library -- development files
+
+libdumbnet1/stable 1.18.0-2 arm64
+  dumb, portable networking library -- shared library
+
+libedac-dev/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+libedac1/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+libedac1-dbg/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+libembree-dev/stable 4.3.3+dfsg-1 arm64
+  High Performance Ray Tracing Kernels - development
+
+libembree-doc/stable 4.3.3+dfsg-1 all
+  High Performance Ray Tracing Kernels - documentation
+
+libembree4-4/stable 4.3.3+dfsg-1 arm64
+  High Performance Ray Tracing Kernels - runtime
+
+libevdi-dev/stable 1.14.8+dfsg-1 all
+  EVDI driver client library dev package
+
+libevdi1/stable 1.14.8+dfsg-1 arm64
+  Extensible Virtual Display Interface driver client library
+
+libevemu-dev/stable 2.7.0-4+b1 arm64
+  Linux Input Event Device Emulation Library - development files
+
+libevemu3t64/stable 2.7.0-4+b1 arm64
+  Linux Input Event Device Emulation Library
+
+libfalcosecurity0-dev/stable 0.20.0-3 arm64
+  Core libraries for Falco and Sysdig
+
+libfalcosecurity0t64/stable 0.20.0-3 arm64
+  Core libraries for Falco and Sysdig
+
+libfcgi-procmanager-perl/stable 0.28-3 all
+  Perl module to help manage FastCGI applications
+
+libfetk-dev/stable 3.4.1-6+b3 arm64
+  FETK libraries for APBS (development headers)
+
+libfetk1.9t64/stable 3.4.1-6+b3 arm64
+  FETK libraries for APBS (shared libraries)
+
+libfsverity-dev/stable 1.6-1.2 arm64
+  Development files for fs-verity
+
+libfsverity0/stable 1.6-1.2 arm64
+  Shared library for fs-verity
+
+libfuse-dev/stable 2.9.9-9 arm64
+  Filesystem in Userspace (development)
+
+libfuse-perl/stable 0.16.1+20180422git6becd92d7fce3fc411d7c-6+b5 arm64
+  Perl bindings for FUSE (Filesystems in USErland
+
+libfuse2t64/stable 2.9.9-9 arm64
+  Filesystem in Userspace (library)
+
+libfuse3-4/stable,now 3.17.2-3 arm64 [installed,automatic]
+  Filesystem in Userspace (library) (3.x version)
+
+libfuse3-dev/stable 3.17.2-3 arm64
+  Filesystem in Userspace (development) (3.x version)
+
+libfxt-dev/stable 0.3.15-1 arm64
+  Multithreaded tracing library
+
+libfxt2t64/stable 0.3.15-1 arm64
+  Multithreaded tracing library
+
+libgfapi0/stable 11.1-6 arm64
+  GlusterFS gfapi shared library
+
+libgfchangelog0/stable 11.1-6 arm64
+  GlusterFS gfchangelog shared library
+
+libgfrpc0/stable 11.1-6 arm64
+  GlusterFS libgfrpc shared library
+
+libgfxdr0/stable 11.1-6 arm64
+  GlusterFS libgfxdr shared library
+
+libghc-hinotify-dev/stable 0.4.1-3+b1 arm64
+  Haskell inotify library
+
+libghc-hinotify-doc/stable 0.4.1-3 all
+  Haskell inotify library; documentation
+
+libghc-hinotify-prof/stable 0.4.1-3+b1 arm64
+  Haskell inotify library; profiling libraries
+
+libghc-statistics-dev/stable 0.16.2.1-2+b2 arm64
+  A library of statistical types, data, and functions
+
+libghc-statistics-doc/stable 0.16.2.1-2 all
+  A library of statistical types, data, and functions; documentation
+
+libghc-statistics-prof/stable 0.16.2.1-2+b2 arm64
+  A library of statistical types, data, and functions; profiling libraries
+
+libghc-zeromq4-haskell-dev/stable 0.8.0-4 arm64
+  bindings to ZeroMQ 4.x
+
+libghc-zeromq4-haskell-doc/stable 0.8.0-4 all
+  bindings to ZeroMQ 4.x; documentation
+
+libghc-zeromq4-haskell-prof/stable 0.8.0-4 arm64
+  bindings to ZeroMQ 4.x; profiling libraries
+
+libgkl-java/stable 0.8.11+dfsg-2 all
+  Java library to manipulate SAM and BAM files
+
+libglusterfs-dev/stable 11.1-6 arm64
+  Development files for GlusterFS libraries
+
+libglusterfs0/stable 11.1-6 arm64
+  GlusterFS shared library
+
+libgnuradio-iio3.10.12/stable 3.10.12.0-1 arm64
+  IIO blocks for GnuRadio
+
+libgr-framework-dev/stable 0.73.14+dfsg-1 arm64
+  Development files of Graphical Kernel System (GKS) and OpenGL
+
+libgr-framework0/stable 0.73.14+dfsg-1 arm64
+  Library of Graphical Kernel System (GKS) and OpenGL
+
+libgrail-dev/stable 3.1.1-4+b2 arm64
+  Gesture Recognition And Instantiation Library - dev files
+
+libgrail6/stable 3.1.1-4+b2 arm64
+  Gesture Recognition And Instantiation Library
+
+libguestfs0t64/stable 1:1.54.1-2+deb13u1 arm64
+  guest disk image management system - shared library
+
+libhiprtc-builtins5/stable 5.7.1-6+deb13u1 arm64
+  HIP Run Time Compilation libraries
+
+libhogweed6t64/stable,now 3.10.1-1 arm64 [installed]
+  low level cryptographic library (public-key cryptos)
+
+libhsa-runtime-dev/stable 6.1.2-3 arm64
+  HSA Runtime API and runtime for ROCm - development files
+
+libhsa-runtime64-1/stable 6.1.2-3 arm64
+  HSA Runtime API and runtime for ROCm
+
+libhwloc-common/stable 2.12.0-4 all
+  Hierarchical view of the machine - common files
+
+libhwloc-dev/stable 2.12.0-4 arm64
+  Hierarchical view of the machine - static libs and headers
+
+libhwloc-doc/stable 2.12.0-4 all
+  Hierarchical view of the machine - documentation
+
+libhwloc-plugins/stable 2.12.0-4 arm64
+  Hierarchical view of the machine - plugins
+
+libhwloc15/stable 2.12.0-4 arm64
+  Hierarchical view of the machine - shared libs
+
+libi2c-dev/stable 4.4-2 arm64
+  userspace I2C programming library development files
+
+libi2c0/stable 4.4-2 arm64
+  userspace I2C programming library
+
+libibumad-dev/stable 56.1-1 arm64
+  Development files for libibumad
+
+libibumad3/stable 56.1-1 arm64
+  InfiniBand Userspace Management Datagram (uMAD) library
+
+libibverbs-dev/stable 56.1-1 arm64
+  Development files for the libibverbs library
+
+libibverbs1/stable 56.1-1 arm64
+  Library for direct userspace use of RDMA (InfiniBand/iWARP)
+
+libiec61883-0/stable,now 1.2.0-7 arm64 [installed,automatic]
+  partial implementation of IEC 61883 (shared lib)
+
+libiec61883-dev/stable 1.2.0-7 arm64
+  partial implementation of IEC 61883 (devel)
+
+libieee1284-3-dev/stable 0.2.11-14.1+b1 arm64
+  cross-platform library for parallel port access [development files]
+
+libieee1284-3t64/stable 0.2.11-14.1+b1 arm64
+  cross-platform library for parallel port access
+
+libiio-dev/stable 0.26-2 arm64
+  libiio development files
+
+libiio-utils/stable 0.26-2 arm64
+  Miscellaneous libiio utilities
+
+libiio0/stable 0.26-2 arm64
+  Library for interfacing with IIO devices
+
+libiio0-doc/stable 0.26-2 all
+  libiio documentation
+
+libimaevm-dev/stable 1.5-2 arm64
+  Linux IMA Extended Verification Module signing tools - development files
+
+libimaevm4/stable 1.5-2 arm64
+  Linux IMA Extended Verification Module signing tools - library
+
+libinotify-ocaml/stable 2.6-1+b7 arm64
+  OCaml bindings for the inotify API
+
+libinotify-ocaml-dev/stable 2.6-1+b7 arm64
+  OCaml bindings for the inotify API
+
+libinotifytools0/stable 4.23.9.0-2+b1 arm64
+  utility wrapper around inotify
+
+libinotifytools0-dev/stable 4.23.9.0-2+b1 arm64
+  Development library and header files for libinotifytools0
+
+libio-termios-perl/stable 0.10-1 all
+  module to supply termios methods to IO::Handle objects
+
+libip4tc2/stable 1.8.11-2 arm64
+  netfilter libip4tc library
+
+libip6tc2/stable 1.8.11-2 arm64
+  netfilter libip6tc library
+
+libipset-dev/stable 7.22-1+b1 arm64
+  development files for IP sets
+
+libipset13t64/stable 7.22-1+b1 arm64
+  library for IP sets
+
+libitpp-dev/stable 4.3.1-10+b3 arm64
+  C++ library of signal processing and communication routines: Headers
+
+libitpp-doc/stable 4.3.1-10 all
+  C++ library of signal processing and communication routines: Documentation
+
+libitpp8v5/stable 4.3.1-10+b3 arm64
+  C++ library of signal processing and communication routines
+
+libitpp8v5-dbg/stable 4.3.1-10+b3 arm64
+  C++ library of signal processing and communication routines: Debug symbols
+
+libjama-dev/stable 1.2.5-1 all
+  C++ Linear Algebra Package
+
+libkafs-client-dev/stable 0.5-5 arm64
+  Development files for kAFS tool shared library
+
+libkafs-client0/stable 0.5-5 arm64
+  kAFS tool shared library
+
+libkcapi-dev/stable 1.4.0-1+b2 arm64
+  Development files for Linux Kernel Crypto API
+
+libkcapi-doc/stable 1.4.0-1 all
+  Documentation for Linux Kernel Crypto API
+
+libkcapi1/stable 1.4.0-1+b2 arm64
+  Linux Kernel Crypto API User Space Interface Library
+
+libkdumpfile-dev/stable 0.5.4-3+b1 arm64
+  libkdumpfile development libraries and header files
+
+libkdumpfile-doc/stable 0.5.4-3 all
+  Kernel coredump file access (documentation)
+
+libkdumpfile10/stable 0.5.4-3+b1 arm64
+  Kernel coredump file access
+
+libkeyutils-dev/stable 1.6.3-6 arm64
+  Linux Key Management Utilities (development)
+
+libkeyutils1/stable,now 1.6.3-6 arm64 [installed,automatic]
+  Linux Key Management Utilities (library)
+
+libkleidiai-dev/stable 1.8.0+ds-1 arm64
+  Optimized micro-kernel library for AI workloads for Arm CPUs (development files)
+
+libklibc-dev/stable 2.0.14-1 arm64
+  kernel headers used during the build of klibc
+
+libkmod2/stable,now 34.2-2 arm64 [installed,automatic]
+  libkmod shared library
+
+libkscreenlocker6/stable 6.3.5-1 arm64
+  Secure lock screen architecture
+
+libldl3/stable 1:7.10.1+dfsg-1 arm64
+  simple LDL' factorization library for sparse matrices
+
+liblinux-inotify2-perl/stable 1:2.3-2+b4 arm64
+  scalable directory and file change notification
+
+liblinux-io-prio-perl/stable 0.03-5 all
+  interface to Linux ioprio_set(2) and ioprio_get(2)
+
+liblinux-kernelsort-perl/stable 0.01-4 all
+  Perl module for sorting Linux Kernel version strings
+
+liblttng-ust-agent-java/stable 2.13.9-1 all
+  LTTng 2.0 Userspace Tracer (Java agent library)
+
+liblttng-ust-agent-java-jni/stable 2.13.9-1 arm64
+  LTTng 2.0 Userspace Tracer (Java agent JNI interface)
+
+liblttng-ust-common1t64/stable 2.13.9-1 arm64
+  LTTng 2.0 Userspace Tracer (common library)
+
+liblttng-ust-ctl5t64/stable 2.13.9-1 arm64
+  LTTng 2.0 Userspace Tracer (trace control library)
+
+liblttng-ust-dev/stable 2.13.9-1 arm64
+  LTTng 2.0 Userspace Tracer (development files)
+
+liblttng-ust-java/stable 2.13.9-1 all
+  LTTng 2.0 Userspace Tracer (Java support library)
+
+liblttng-ust-java-jni/stable 2.13.9-1 arm64
+  LTTng 2.0 Userspace Tracer (JNI interface)
+
+liblttng-ust-python-agent1t64/stable 2.13.9-1 arm64
+  LTTng 2.0 Userspace Tracer (Python agent native library)
+
+liblttng-ust1t64/stable 2.13.9-1 arm64
+  LTTng 2.0 Userspace Tracer (tracing libraries)
+
+liblxc-common/stable 1:6.0.4-4+deb13u3+b1 arm64
+  Linux Containers userspace tools (library)
+
+liblxc1t64/stable 1:6.0.4-4+deb13u3+b1 arm64
+  Linux Containers userspace tools (library)
+
+libmmmulti-dev/stable 0.1-3 all
+  header only library for mmmulti
+
+libmptcpd3/stable 0.13-2 arm64
+  Multipath TCP Daemon Library
+
+libmptcpd3-dev/stable 0.13-2 arm64
+  Multipath TCP Daemon Library - Development files
+
+libmptcpd3-doc/stable 0.13-2 all
+  Multipath TCP Daemon Library - documentation
+
+libmptcpwrap0/stable 0.13-2 arm64
+  Multipath TCP Converter Library
+
+libmtdev-dev/stable 1.1.7-1 arm64
+  Multitouch Protocol Translation Library - dev files
+
+libmtdev1t64/stable,now 1.1.7-1 arm64 [installed,automatic]
+  Multitouch Protocol Translation Library - shared library
+
+libndctl-dev/stable 81-1 arm64
+  Development files for libndctl
+
+libndctl6/stable 81-1 arm64
+  Utility library for managing the libnvdimm subsystem
+
+libnet-libdnet-perl/stable 0.990-1 arm64
+  interface to libdumbnet's low-level network functions
+
+libnet-libdnet6-perl/stable 0.28-2 all
+  module to add IPv6 support to Net::Libdnet
+
+libnet-patricia-perl/stable 1.23-1 arm64
+  Perl module for fast IP address lookups
+
+libnetfilter-conntrack-dev/stable 1.1.0-1 arm64
+  Development files for libnetfilter-conntrack3
+
+libnetfilter-conntrack-doc/stable 1.1.0-1 all
+  Documentation files for libnetfilter-conntrack3
+
+libnetfilter-conntrack3/stable 1.1.0-1 arm64
+  Netfilter netlink-conntrack library
+
+libnetfilter-cthelper-dev/stable 1.0.1-4+b2 arm64
+  Development files for libnetfilter-cthelper0
+
+libnetfilter-cthelper-doc/stable 1.0.1-4 all
+  Documentation files for libnetfilter-cthelper0
+
+libnetfilter-cthelper0/stable 1.0.1-4+b2 arm64
+  userspace-helper for netfilter library
+
+libnetfilter-log-dev/stable 1.0.2-4+b1 arm64
+  Development files for libnetfilter-log1
+
+libnetfilter-log-doc/stable 1.0.2-4 all
+  Documentation files for libnetfilter-log1
+
+libnetfilter-log1/stable 1.0.2-4+b1 arm64
+  Netfilter netlink-log library
+
+libnetfilter-queue-dev/stable 1.0.5-4+b1 arm64
+  Development files for libnetfilter-queue1
+
+libnetfilter-queue-doc/stable 1.0.5-4 all
+  Documentation files for libnetfilter-queue1
+
+libnetfilter-queue1/stable 1.0.5-4+b1 arm64
+  Netfilter netlink-queue library
+
+libnettle8t64/stable,now 3.10.1-1 arm64 [installed]
+  low level cryptographic library (symmetric and one-way cryptos)
+
+libnfft3-dev/stable 3.5.3-5 arm64
+  development files for the NFFT library
+
+libnfft3-doc/stable 3.5.3-5 all
+  documentation for the NFFT library
+
+libnfft3-double4/stable 3.5.3-5 arm64
+  library for computing non-uniform Fourier transforms (double precision)
+
+libnfft3-julia/stable 3.5.3-5 arm64
+  library for computing non-uniform Fourier transforms (julia interface)
+
+libnfft3-long4/stable 3.5.3-5 arm64
+  library for computing non-uniform Fourier transforms (long-double precision)
+
+libnfft3-single4/stable 3.5.3-5 arm64
+  library for computing non-uniform Fourier transforms (single precision)
+
+libnfnetlink-dev/stable 1.0.2-3 arm64
+  Development files for libnfnetlink0
+
+libnfnetlink0/stable 1.0.2-3 arm64
+  Netfilter netlink library
+
+libnftables-dev/stable 1.1.3-1 arm64
+  Development files for libnftables
+
+libnftables1/stable,now 1.1.3-1 arm64 [installed,automatic]
+  Netfilter nftables high level userspace API library
+
+libnglib-6.2t64/stable 6.2.2501+dfsg1-12 arm64
+  Automatic 3d tetrahedral mesh generator shared library
+
+libnglib-dev/stable 6.2.2501+dfsg1-12 arm64
+  Automatic 3d tetrahedral mesh generator development files
+
+libnozzle-dev/stable 1.31-1 arm64
+  userland wrapper around kernel tap devices (developer files)
+
+libnozzle1t64/stable 1.31-1 arm64
+  userland wrapper around kernel tap devices
+
+libocaml-intrinsics-kernel-ocaml/stable 0.17.1-1+b2 arm64
+  library of intrinsics for OCaml (runtime)
+
+libocaml-intrinsics-kernel-ocaml-dev/stable 0.17.1-1+b2 arm64
+  library of intrinsics for OCaml (dev)
+
+libocct-foundation-7.8/stable 7.8.1+dfsg1-3 arm64
+  OCCT module underlying all other OCCT classes
+
+libonemind-commons-invoke-java/stable 1.1.0+cvs20090227-6 all
+  Java invocation framework library
+
+libopenblas-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, meta)
+
+libopenblas-openmp-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, openmp)
+
+libopenblas-pthread-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, pthread)
+
+libopenblas-serial-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, serial)
+
+libopenblas0/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (meta)
+
+libopenblas0-openmp/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, openmp)
+
+libopenblas0-pthread/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, pthread)
+
+libopenblas0-serial/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, serial)
+
+libopenblas64-0/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, meta)
+
+libopenblas64-0-openmp/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, openmp)
+
+libopenblas64-0-pthread/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, pthread)
+
+libopenblas64-0-serial/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, serial)
+
+libopenblas64-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, meta)
+
+libopenblas64-openmp-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, openmp)
+
+libopenblas64-pthread-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, pthread)
+
+libopenblas64-serial-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, serial)
+
+libopencl-clang-17-dev/stable 17.0.1-1 arm64
+  thin wrapper for clang -- development files
+
+libopencl-clang-18-dev/stable 18.1.1-1 arm64
+  thin wrapper for clang -- development files
+
+libopencl-clang-19-dev/stable 19.1.0-2 arm64
+  thin wrapper for clang -- development files
+
+libopencl-clang17t64/stable 17.0.1-1 arm64
+  thin wrapper for clang
+
+libopencl-clang18.1/stable 18.1.1-1 arm64
+  thin wrapper for clang
+
+libopencl-clang19.1/stable 19.1.0-2 arm64
+  thin wrapper for clang
+
+libopeniscsiusr/stable 2.1.11-1+deb13u2 arm64
+  iSCSI userspace library
+
+libopeniscsiusr-dev/stable 2.1.11-1+deb13u2 all
+  iSCSI userspace library headers
+
+libpam-afs-session/stable 2.6-5+b1 arm64
+  PAM module to set up a PAG and obtain AFS tokens
+
+libpam-cap/stable 1:2.75-10+deb13u1+b1 arm64
+  POSIX 1003.1e capabilities (PAM module)
+
+libpapi7.1t64/stable 7.1.0-5+b1 arm64
+  PAPI runtime (shared libraries)
+
+libpcp-pmda-perl/stable 6.3.8-1 arm64
+  Performance Co-Pilot Domain Agent Perl module
+
+libpcp-pmda3/stable 6.3.8-1 arm64
+  Performance Co-Pilot Domain Agent library
+
+libpcp-pmda3-dev/stable 6.3.8-1 arm64
+  Performance Co-Pilot Domain Agent library and headers
+
+libpfm4/stable 4.13.0+git99-gc5587f9-1 arm64
+  Library to program the performance monitoring events
+
+libpfm4-dev/stable 4.13.0+git99-gc5587f9-1 arm64
+  Development files for the libpfm4 library
+
+libpigpiod-if-dev/stable 1.78-1.1+b1 arm64
+  Development headers for client libraries for Raspberry Pi GPIO control
+
+libpigpiod-if1t64/stable 1.78-1.1+b1 arm64
+  Client library for Raspberry Pi GPIO control (deprecated)
+
+libpigpiod-if2-1t64/stable 1.78-1.1+b1 arm64
+  Client library for Raspberry Pi GPIO control
+
+libpocl2t64/stable 6.0-6 arm64
+  Portable Computing Language library
+
+libpowercap0/stable 0.6.0-1+b2 arm64
+  Shared library for accessing the powercap Linux kernel feature
+
+libraw1394-11/stable,now 2.1.2-2+b2 arm64 [installed,automatic]
+  library for direct access to IEEE 1394 bus (aka FireWire)
+
+libraw1394-dev/stable 2.1.2-2+b2 arm64
+  library for direct access to IEEE 1394 bus - development files
+
+libraw1394-doc/stable 2.1.2-2 all
+  Reference manual and documentation about libraw1394
+
+libraw1394-tools/stable 2.1.2-2+b2 arm64
+  library for direct access to IEEE 1394 bus (aka FireWire)
+
+librem-ec-acpi-dkms/stable 0.9.2-3 all
+  dkms driver sources for EC ACPI in Purism Librem devices
+
+librocblas-dev/stable 5.5.1+dfsg-7 arm64
+  ROCm library for basic linear algebra - headers
+
+librocblas-doc/stable 5.5.1+dfsg-7 all
+  ROCm library for basic linear algebra - documentation
+
+librocblas0/stable 5.5.1+dfsg-7 arm64
+  ROCm library for basic linear algebra - library
+
+librocblas0-bench/stable 5.5.1+dfsg-7 arm64
+  ROCm library for basic linear algebra - benchmarks
+
+librocblas0-tests/stable 5.5.1+dfsg-7 arm64
+  ROCm library for basic linear algebra - tests
+
+librocblas0-tests-data/stable 5.5.1+dfsg-7 all
+  ROCm library for basic linear algebra - test data
+
+libroctx-dev/stable 5.7.1-1 arm64
+  ROCm library for profiler annotations - headers
+
+libroctx64-4/stable 5.7.1-1 arm64
+  ROCm library for profiler annotations - library
+
+librust-brotli-decompressor-dev/stable 4.0.1-1 arm64
+  Brotli decompressor library avoiding the rust stdlib - Rust source code
+
+librust-brotli-dev/stable 6.0.0-1+b6 arm64
+  Compressor and decompressor for brotli written in rust - Rust source code
+
+librust-cntr-fuse-abi-dev/stable 0.4.1-1+b2 arm64
+  ABI types for communicating with the FUSE kernel interface - Rust source code
+
+librust-cntr-fuse-sys-dev/stable 0.4.1-1+b2 arm64
+  FFI bindings to the FUSE kernel interface and libfuse - Rust source code
+
+librust-fuchsia-zircon-dev/stable 0.3.3-2+b2 arm64
+  Rust bindings for the Zircon kernel - Rust source code
+
+librust-fuchsia-zircon-sys-dev/stable 0.3.3-2+b2 arm64
+  Low-level Rust bindings for the Zircon kernel - Rust source code
+
+librust-libbpf-sys-dev/stable 1.5.0-2 arm64
+  Rust bindings to libbpf from the Linux kernel - Rust source code
+
+librust-matrixmultiply-dev/stable 0.3.9-1 arm64
+  General matrix multiplication for f32 and f64 matrices - Rust source code
+
+librust-mptcp-pm-dev/stable 0.1.3-2+b1 arm64
+  Linux kernel MPTCP path manager netlink Library - Rust source code
+
+librust-timerfd-dev/stable 1.5.0-1+b1 arm64
+  Rust interface to the Linux kernel's timerfd API - Rust source code
+
+librust-uname-dev/stable 0.1.1-1+b2 arm64
+  Name and information about current kernel - Rust source code
+
+libsctp-dev/stable 1.0.21+dfsg-1 arm64
+  user-space access to Linux kernel SCTP - development files
+
+libsctp1/stable 1.0.21+dfsg-1 arm64
+  user-space access to Linux kernel SCTP - shared library
+
+libseccomp-dev/stable 2.6.0-2 arm64
+  high level interface to Linux seccomp filter (development files)
+
+libseccomp2/stable,now 2.6.0-2 arm64 [installed]
+  high level interface to Linux seccomp filter
+
+libselinux1/stable,now 3.8.1-1 arm64 [installed]
+  SELinux runtime shared libraries
+
+libselinux1-dev/stable 3.8.1-1 arm64
+  SELinux development headers
+
+libsemanage-common/stable,now 3.8.1-1 all [installed,automatic]
+  Common files for SELinux policy management libraries
+
+libsemanage-dev/stable 3.8.1-1 arm64
+  Header files and libraries for SELinux policy manipulation
+
+libsemanage2/stable,now 3.8.1-1 arm64 [installed,automatic]
+  SELinux policy management library
+
+libsensors-config/stable,now 1:3.6.2-2 all [installed,automatic]
+  lm-sensors configuration files
+
+libsensors-dev/stable 1:3.6.2-2 arm64
+  lm-sensors development kit
+
+libsensors5/stable,now 1:3.6.2-2 arm64 [installed,automatic]
+  library to read temperature/voltage/fan sensors
+
+libsepol2/stable,now 3.8.1-1 arm64 [installed,automatic]
+  SELinux library for manipulating binary security policies
+
+libseteec0t64/stable 4.5.0-1 arm64
+  normal world user space client APIs for OP-TEE
+
+libslvs1-dev/stable 3.1+ds1-3.1+b2 arm64
+  SolveSpace geometric kernel (development files)
+
+libslvs1t64/stable 3.1+ds1-3.1+b2 arm64
+  SolveSpace geometric kernel
+
+libsocl-1.4-1t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libsquashfuse-dev/stable 0.5.2-0.2+b2 arm64
+  Development files for libsquashfuse
+
+libsquashfuse0/stable 0.5.2-0.2+b2 arm64
+  FUSE filesystem to mount squashfs archives library
+
+libsrtp2-1/stable 2.7.0-3 arm64
+  Secure RTP (SRTP) and UST Reference Implementations - shared library
+
+libsrtp2-dev/stable 2.7.0-3 arm64
+  Secure RTP (SRTP) and UST Reference Implementations - development files
+
+libsrtp2-docs/stable 2.7.0-3 all
+  Secure RTP (SRTP) and UST Reference Implementations - documentation
+
+libstarpu-1.4-6/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libstarpu-dev/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines - dev
+
+libstarpu-openmp-llvm-1.4-1t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libstarpufft-1.4-1t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libstarpumpi-1.4-3t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libstarpurm-1.4-1t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libstopt-dev/stable 5.12+dfsg-3+b1 arm64
+  library for stochastic optimization problems (development package)
+
+libstopt5t64/stable 5.12+dfsg-3+b1 arm64
+  library for stochastic optimization problems (shared library)
+
+libstrongswan/stable 6.0.1-6+deb13u6 arm64
+  strongSwan utility and crypto library
+
+libstrongswan-extra-plugins/stable 6.0.1-6+deb13u6 arm64
+  strongSwan utility and crypto library (extra plugins)
+
+libstrongswan-standard-plugins/stable 6.0.1-6+deb13u6 arm64
+  strongSwan utility and crypto library (standard plugins)
+
+libsysfs-dev/stable 2.1.1-7 arm64
+  interface library to sysfs - development files
+
+libsysfs2/stable 2.1.1-7 arm64
+  interface library to sysfs - shared library
+
+libsysprof-6-6/stable 48.0-2 arm64
+  library for system-wide Linux profiler
+
+libsysprof-6-dev/stable 48.0-2 arm64
+  development files for system-wide Linux profiler
+
+libsysprof-6-modules/stable 48.0-2 arm64
+  LD_PRELOAD modules for system-wide Linux profiler
+
+libsysprof-capture-4-dev/stable 48.0-2 arm64
+  capture library for system-wide Linux profiler
+
+libtcmu2/stable 1.5.4-9+b1 arm64
+  Library that handles the userspace side of the LIO TCM-User backstore
+
+libteam-dev/stable 1.31-1+b2 arm64
+  library for controlling team network device -- dev files
+
+libteam-utils/stable 1.31-1+b2 arm64
+  library for controlling team network device -- userspace utilities
+
+libteam5/stable 1.31-1+b2 arm64
+  library for communication with Netlink kernel module
+
+libteamdctl0/stable 1.31-1+b2 arm64
+  library for communication with `teamd` process
+
+libteeacl0.1.0t64/stable 4.5.0-1 arm64
+  normal world user space client APIs for OP-TEE
+
+libteec2/stable 4.5.0-1 arm64
+  normal world user space client APIs for OP-TEE
+
+libtexttools-dev/stable 2.1.0-30 arm64
+  Ada library for writing console applications: development
+
+libtexttools-doc/stable 2.1.0-30 all
+  Ada library for writing console applications: documentation
+
+libtexttools12/stable 2.1.0-30 arm64
+  Ada library for writing console applications: shared library
+
+libtnt-dev/stable 1.2.6-1.1 all
+  interface for scientific computing in C++
+
+libtraceevent-dev/stable 1:1.8.4-2 arm64
+  Linux kernel trace event library (development files)
+
+libtraceevent-doc/stable 1:1.8.4-2 all
+  Linux kernel trace event library (documentation)
+
+libtraceevent1/stable 1:1.8.4-2 arm64
+  Linux kernel trace event library (shared library)
+
+libtraceevent1-plugin/stable 1:1.8.4-2 arm64
+  Linux kernel trace event library (plugins)
+
+libtracefs-dev/stable 1.8.1-1 arm64
+  API to access the kernel tracefs directory (development files)
+
+libtracefs-doc/stable 1.8.1-1 all
+  API to access the kernel tracefs directory (documentation)
+
+libtracefs1/stable 1.8.1-1 arm64
+  API to access the kernel tracefs directory (shared library)
+
+libtrilinos-belos-13.2/stable 13.2.0-6+b4 arm64
+  iterative linear solvers - runtime files
+
+libtrilinos-belos-dev/stable 13.2.0-6+b4 arm64
+  iterative linear solvers - development files
+
+libtrilinos-kokkos-kernels-13.2/stable 13.2.0-6+b4 arm64
+  Kokkos local computational kernels - runtime files
+
+libtrilinos-kokkos-kernels-dev/stable 13.2.0-6+b4 arm64
+  Kokkos local computational kernels - development files
+
+libtrilinos-phalanx-13.2/stable 13.2.0-6+b4 arm64
+  local field evaluation kernel - runtime files
+
+libtrilinos-phalanx-dev/stable 13.2.0-6+b4 arm64
+  local field evaluation kernel - development files
+
+libtrilinos-pike-13.2/stable 13.2.0-6+b4 arm64
+  physics integration kernels - runtime files
+
+libtrilinos-pike-dev/stable 13.2.0-6+b4 arm64
+  physics integration kernels - development files
+
+libufo-data/stable 0.17.0.22.gc831aec-1 all
+  Library for high-performance, GPU-based computing - data
+
+libuio-dev/stable 0.3.0-1+b2 arm64
+  Userspace IO helper library development files
+
+libuio2/stable 0.3.0-1+b2 arm64
+  Userspace IO helper library
+
+liburing-dev/stable 2.9-1 arm64
+  Linux kernel io_uring access library - development files
+
+liburing2/stable 2.9-1 arm64
+  Linux kernel io_uring access library - shared library
+
+libusb-0.1-4/stable,now 2:0.1.12-35+b1 arm64 [installed,automatic]
+  userspace USB programming library
+
+libusb-1.0-0/stable,now 2:1.0.28-1 arm64 [installed,automatic]
+  userspace USB programming library
+
+libusb-1.0-0-dev/stable 2:1.0.28-1 arm64
+  userspace USB programming library development files
+
+libusb-1.0-doc/stable 2:1.0.28-1 all
+  documentation for userspace USB programming
+
+libusb-dev/stable 2:0.1.12-35+b1 arm64
+  userspace USB programming library development files
+
+libusbauth-configparser-dev/stable 1.0.5-2+b2 arm64
+  Development package of library for USB Firewall including flex/bison parser
+
+libusbauth-configparser1/stable 1.0.5-2+b2 arm64
+  Library for USB Firewall including flex/bison parser
+
+libusbgx-dev/stable 0.3.0-1.1+b1 arm64
+  Development files for libusbgx
+
+libusbgx-doc/stable 0.3.0-1.1 all
+  Documentation files for libusbgx
+
+libusbgx3/stable 0.3.0-1.1+b1 arm64
+  C library encapsulating the kernel USB gadget-configfs
+
+libvkfft-dev/stable 1.3.4+ds2-1 all
+  Vulkan/CUDA/HIP/OpenCL Fast Fourier Transform library
+
+libvolk-bin/stable 3.2.0-2 arm64
+  vector optimized runtime tools
+
+libvolk-dev/stable 3.2.0-2 arm64
+  vector optimized function headers
+
+libvolk-doc/stable 3.2.0-2 all
+  vector optimized library documentation
+
+libvolk3.2/stable 3.2.0-2 arm64
+  vector optimized functions
+
+libvpoll-dev/stable 0.1.1-1+b1 arm64
+  generate synthetic events for poll/select/ppoll/pselect/epoll (devel)
+
+libvpoll0/stable 0.1.1-1+b1 arm64
+  generate synthetic events for poll/select/ppoll/pselect/epoll (library)
+
+libvterm-bin/stable 0.3.3-3+b1 arm64
+  abstract terminal library (utility programs)
+
+libvterm-dev/stable 0.3.3-3+b1 arm64
+  abstract terminal library (development files)
+
+libvterm0/stable 0.3.3-3+b1 arm64
+  abstract terminal library
+
+libwayland-bin/stable 1.23.1-3 arm64
+  wayland compositor infrastructure - binary utilities
+
+libwayland-client++1/stable 1.0.0-6+b2 arm64
+  wayland compositor infrastructure - client library C++ bindings
+
+libwayland-client-extra++1/stable 1.0.0-6+b2 arm64
+  wayland compositor infrastructure - client library extra C++ bindings
+
+libwayland-client0/stable,now 1.23.1-3 arm64 [installed,automatic]
+  wayland compositor infrastructure - client library
+
+libwayland-cursor++1/stable 1.0.0-6+b2 arm64
+  wayland compositor infrastructure - cursor library C++ bindings
+
+libwayland-cursor0/stable,now 1.23.1-3 arm64 [installed,automatic]
+  wayland compositor infrastructure - cursor library
+
+libwayland-dev/stable 1.23.1-3 arm64
+  wayland compositor infrastructure - development files
+
+libwayland-doc/stable 1.23.1-3 all
+  wayland compositor infrastructure - documentation files
+
+libwayland-egl++1/stable 1.0.0-6+b2 arm64
+  wayland compositor infrastructure - EGL library C++ bindings
+
+libwayland-egl-backend-dev/stable 1.23.1-3 arm64
+  wayland compositor infrastructure - EGL backend development files
+
+libwayland-egl1/stable,now 1.23.1-3 arm64 [installed,automatic]
+  wayland compositor infrastructure - EGL library
+
+libwayland-server++1/stable 1.0.0-6+b2 arm64
+  wayland compositor infrastructure - EGL library C++ bindings
+
+libwayland-server0/stable,now 1.23.1-3 arm64 [installed,automatic]
+  wayland compositor infrastructure - server library
+
+libx52pro-dev/stable 0.2.0-2 arm64
+  MFD and LED library for Saitek X52pro joysticks - dev files
+
+libx52pro0/stable 0.2.0-2 arm64
+  MFD and LED library for Saitek x52pro joysticks
+
+libxdp-dev/stable 1.5.4-1 arm64
+  library and utilities for use with XDP - development files
+
+libxdp1/stable 1.5.4-1 arm64
+  library and utilities for use with XDP - shared library
+
+libxeus-zmq6/stable 3.1.0-0.3 arm64
+  ZeroMQ middleware for xeus (library)
+
+libxeus11/stable 5.1.1-0.1 arm64
+  C++ Implementation of the Jupyter Kernel protocol (library)
+
+libxgks-dev/stable 2.6.1+dfsg.2-17 arm64
+  X11 Graphical Kernel Subsystem, development files
+
+libxgks2-data/stable 2.6.1+dfsg.2-17 all
+  Font files for the X11 Graphical Kernel Subsystem
+
+libxgks2t64/stable 2.6.1+dfsg.2-17 arm64
+  X11 Graphical Kernel Subsystem, library.
+
+libxrt-dev/stable 202210.2.13.466+dfsg-8.2 arm64
+  Xilinx Runtime (XRT) - development files
+
+libxrt-utils/stable 202210.2.13.466+dfsg-8.2 arm64
+  Xilinx Runtime (XRT) - runtime -- utilities
+
+libxrt1/stable 202210.2.13.466+dfsg-8.2 arm64
+  Xilinx Runtime (XRT) - runtime libraries
+
+libxtables12/stable,now 1.8.11-2 arm64 [installed,automatic]
+  netfilter xtables library
+
+libzbd-dev/stable 2.0.4-1.1+b3 arm64
+  Library to manipulate zoned block devices (development files)
+
+libzbd2t64/stable 2.0.4-1.1+b3 arm64
+  Library to manipulate zoned block devices (shared library)
+
+libzmq3-dev/stable 4.3.5-1+b3 arm64
+  lightweight messaging kernel (development files)
+
+libzmq5/stable 4.3.5-1+b3 arm64
+  lightweight messaging kernel (shared library)
+
+lime-forensics-dkms/stable 1.9.1-8 all
+  kernel module to memory dump (DKMS)
+
+linux-bpf-dev/stable 6.12.94-1 arm64
+  Headers for BPF development
+
+linux-config-6.12/stable 6.12.94-1 arm64
+  Debian kernel configurations for Linux 6.12
+
+linux-doc/stable 6.12.94-1 all
+  Linux kernel specific documentation (meta-package)
+
+linux-doc-6.12/stable 6.12.94-1 all
+  Linux kernel specific documentation for version 6.12
+
+linux-headers-6.12.86+deb13-arm64/stable 6.12.86-1 arm64
+  Header files for Linux 6.12.86+deb13-arm64
+
+linux-headers-6.12.86+deb13-arm64-16k/stable 6.12.86-1 arm64
+  Header files for Linux 6.12.86+deb13-arm64-16k
+
+linux-headers-6.12.86+deb13-cloud-arm64/stable 6.12.86-1 arm64
+  Header files for Linux 6.12.86+deb13-cloud-arm64
+
+linux-headers-6.12.86+deb13-common/stable 6.12.86-1 all
+  Common header files for Linux 6.12.86+deb13
+
+linux-headers-6.12.86+deb13-common-rt/stable 6.12.86-1 all
+  Common header files for Linux 6.12.86+deb13-rt
+
+linux-headers-6.12.86+deb13-rt-arm64/stable 6.12.86-1 arm64
+  Header files for Linux 6.12.86+deb13-rt-arm64
+
+linux-headers-6.12.94+deb13-arm64/stable 6.12.94-1 arm64
+  Header files for Linux 6.12.94+deb13-arm64
+
+linux-headers-6.12.94+deb13-arm64-16k/stable 6.12.94-1 arm64
+  Header files for Linux 6.12.94+deb13-arm64-16k
+
+linux-headers-6.12.94+deb13-cloud-arm64/stable 6.12.94-1 arm64
+  Header files for Linux 6.12.94+deb13-cloud-arm64
+
+linux-headers-6.12.94+deb13-common/stable 6.12.94-1 all
+  Common header files for Linux 6.12.94+deb13
+
+linux-headers-6.12.94+deb13-common-rt/stable 6.12.94-1 all
+  Common header files for Linux 6.12.94+deb13-rt
+
+linux-headers-6.12.94+deb13-rt-arm64/stable 6.12.94-1 arm64
+  Header files for Linux 6.12.94+deb13-rt-arm64
+
+linux-headers-arm64/stable 6.12.94-1 arm64
+  Header files for Linux arm64 configuration (meta-package)
+
+linux-headers-arm64-16k/stable 6.12.94-1 arm64
+  Header files for Linux arm64-16k configuration (meta-package)
+
+linux-headers-cloud-arm64/stable 6.12.94-1 arm64
+  Header files for Linux cloud-arm64 configuration (meta-package)
+
+linux-headers-rt-arm64/stable 6.12.94-1 arm64
+  Header files for Linux rt-arm64 configuration (meta-package)
+
+linux-image-6.12.86+deb13-arm64/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines (signed)
+
+linux-image-6.12.86+deb13-arm64-16k/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines with 16k pages (signed)
+
+linux-image-6.12.86+deb13-arm64-16k-dbg/stable 6.12.86-1 arm64
+  Debug symbols for linux-image-6.12.86+deb13-arm64-16k
+
+linux-image-6.12.86+deb13-arm64-16k-unsigned/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines with 16k pages
+
+linux-image-6.12.86+deb13-arm64-dbg/stable 6.12.86-1 arm64
+  Debug symbols for linux-image-6.12.86+deb13-arm64
+
+linux-image-6.12.86+deb13-arm64-unsigned/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines
+
+linux-image-6.12.86+deb13-cloud-arm64/stable 6.12.86-1 arm64
+  Linux 6.12 for arm64 cloud (signed)
+
+linux-image-6.12.86+deb13-cloud-arm64-dbg/stable 6.12.86-1 arm64
+  Debug symbols for linux-image-6.12.86+deb13-cloud-arm64
+
+linux-image-6.12.86+deb13-cloud-arm64-unsigned/stable 6.12.86-1 arm64
+  Linux 6.12 for arm64 cloud
+
+linux-image-6.12.86+deb13-rt-arm64/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines (signed), PREEMPT_RT
+
+linux-image-6.12.86+deb13-rt-arm64-dbg/stable 6.12.86-1 arm64
+  Debug symbols for linux-image-6.12.86+deb13-rt-arm64
+
+linux-image-6.12.86+deb13-rt-arm64-unsigned/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines, PREEMPT_RT
+
+linux-image-6.12.94+deb13-arm64/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines (signed)
+
+linux-image-6.12.94+deb13-arm64-16k/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines with 16k pages (signed)
+
+linux-image-6.12.94+deb13-arm64-16k-dbg/stable 6.12.94-1 arm64
+  Debug symbols for linux-image-6.12.94+deb13-arm64-16k
+
+linux-image-6.12.94+deb13-arm64-16k-unsigned/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines with 16k pages
+
+linux-image-6.12.94+deb13-arm64-dbg/stable 6.12.94-1 arm64
+  Debug symbols for linux-image-6.12.94+deb13-arm64
+
+linux-image-6.12.94+deb13-arm64-unsigned/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines
+
+linux-image-6.12.94+deb13-cloud-arm64/stable 6.12.94-1 arm64
+  Linux 6.12 for arm64 cloud (signed)
+
+linux-image-6.12.94+deb13-cloud-arm64-dbg/stable 6.12.94-1 arm64
+  Debug symbols for linux-image-6.12.94+deb13-cloud-arm64
+
+linux-image-6.12.94+deb13-cloud-arm64-unsigned/stable 6.12.94-1 arm64
+  Linux 6.12 for arm64 cloud
+
+linux-image-6.12.94+deb13-rt-arm64/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines (signed), PREEMPT_RT
+
+linux-image-6.12.94+deb13-rt-arm64-dbg/stable 6.12.94-1 arm64
+  Debug symbols for linux-image-6.12.94+deb13-rt-arm64
+
+linux-image-6.12.94+deb13-rt-arm64-unsigned/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines, PREEMPT_RT
+
+linux-image-arm64/stable 6.12.94-1 arm64
+  Linux for 64-bit ARMv8 machines (meta-package)
+
+linux-image-arm64-16k/stable 6.12.94-1 arm64
+  Linux for 64-bit ARMv8 machines with 16k pages (meta-package)
+
+linux-image-arm64-16k-dbg/stable 6.12.94-1 arm64
+  Debugging symbols for Linux arm64-16k configuration (meta-package)
+
+linux-image-arm64-dbg/stable 6.12.94-1 arm64
+  Debugging symbols for Linux arm64 configuration (meta-package)
+
+linux-image-cloud-arm64/stable 6.12.94-1 arm64
+  Linux for arm64 cloud (meta-package)
+
+linux-image-cloud-arm64-dbg/stable 6.12.94-1 arm64
+  Debugging symbols for Linux cloud-arm64 configuration (meta-package)
+
+linux-image-rt-arm64/stable 6.12.94-1 arm64
+  Linux for 64-bit ARMv8 machines (meta-package)
+
+linux-image-rt-arm64-dbg/stable 6.12.94-1 arm64
+  Debugging symbols for Linux rt-arm64 configuration (meta-package)
+
+linux-kbuild-6.12.86+deb13/stable 6.12.86-1 arm64
+  Kbuild infrastructure for Linux 6.12.86+deb13
+
+linux-kbuild-6.12.94+deb13/stable 6.12.94-1 arm64
+  Kbuild infrastructure for Linux 6.12.94+deb13
+
+linux-libc-dev/stable,now 6.12.94-1 all [installed,automatic]
+  Linux support headers for userspace development
+
+linux-libc-dev-alpha-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-amd64-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-arc-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-arm64-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-armel-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-armhf-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-hppa-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-i386-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-loong64-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-m68k-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mips-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mips64-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mips64el-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mips64r6-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mips64r6el-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mipsel-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mipsn32-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mipsn32el-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mipsn32r6-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mipsn32r6el-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mipsr6-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-mipsr6el-cross/stable 6.12.8-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-powerpc-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-ppc64-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-ppc64el-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-riscv64-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-s390x-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-sh4-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-sparc64-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-libc-dev-x32-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+linux-source/stable 6.12.94-1 all
+  Linux kernel source (meta-package)
+
+linux-source-6.12/stable 6.12.94-1 all
+  Linux kernel source for version 6.12 with Debian patches
+
+linux-support-6.12.86+deb13/stable 6.12.86-1 all
+  Support files for Linux 6.12
+
+linux-support-6.12.94+deb13/stable 6.12.94-1 all
+  Support files for Linux 6.12
+
+linuxcnc-uspace/stable 1:2.9.4-2+deb13u1 arm64
+  motion controller for CNC machines and robots
+
+linuxcnc-uspace-dev/stable 1:2.9.4-2+deb13u1 arm64
+  PC based motion controller for real-time Linux
+
+linuxinfo/stable 4.2.2-1 arm64
+  Displays extended system information
+
+lksctp-tools/stable 1.0.21+dfsg-1 arm64
+  user-space access to Linux kernel SCTP - commandline tools
+
+lldpad/stable 1.1.1-1+b2 arm64
+  Link Layer Discovery Protocol Implementation (Runtime)
+
+lldpad-dev/stable 1.1.1-1+b2 arm64
+  Link Layer Discovery Protocol Implementation (Development headers)
+
+low-memory-monitor/stable 2.1-2+b2 arm64
+  Monitors low-memory conditions
+
+low-memory-monitor-doc/stable 2.1-2 all
+  Documentation of the low-memory-monitor daemon D-Bus API
+
+lsscsi/stable 0.32-2 arm64
+  list all SCSI devices (or hosts) currently on system
+
+lsuio/stable 0.3.0-1+b2 arm64
+  list Userspace IO devices
+
+lttng-modules-dkms/stable 2.13.18-1+deb13u1 all
+  Linux Trace Toolkit (LTTng) kernel modules (DKMS)
+
+lttng-tools/stable 2.13.15-2 arm64
+  LTTng control and utility programs
+
+lua-ljsyscall/stable 0.12-1.1 all
+  Unix system calls for LuaJIT
+
+lua-lxc/stable 1:3.0.2-4 arm64
+  Linux Containers userspace tools (Lua bindings)
+
+lxc/stable 1:6.0.4-4+deb13u3+b1 arm64
+  Linux Containers userspace tools
+
+lxc-dev/stable 1:6.0.4-4+deb13u3+b1 arm64
+  Linux Containers userspace tools (development)
+
+lxc-templates/stable 3.0.4.89.gc128b96-1 arm64
+  Linux Containers userspace tools (templates)
+
+lxc-tests/stable 1:6.0.4-4+deb13u3+b1 arm64
+  Linux Containers userspace tools (test binaries)
+
+macaulay2-jupyter-kernel/stable 0.6.7~beta-3 all
+  Jupyter kernel for Macaulay2
+
+madwimax/stable 0.1.1-4 arm64
+  user-space driver for mWiMAX equipment based on Samsung CMC-730
+
+mate-sensors-applet/stable 1.26.0-1+deb13u1 arm64
+  Display readings from hardware sensors in your MATE panel
+
+mbpfan/stable 2.4.0-2.1+b1 arm64
+  fan control daemon for Apple Macbooks
+
+mbr/stable 1.2.2 arm64
+  Master Boot Record for IBM-PC compatible computers.
+
+mcstrans/stable 3.8.1-1 arm64
+  SELinux core policy utilities (mcstrans utilities)
+
+mdevctl/stable 1.4.0-2+b1 arm64
+  Mediated device management utility for Linux
+
+memdump/stable 1.01-9+b1 arm64
+  utility to dump memory contents to standard output
+
+mhz/stable 0.0~git20240131.d84a678-1+b1 arm64
+  CPU frequency measurement utility
+
+mimic/stable 0.7.0+ds-2 arm64
+  eBPF UDP -> TCP obfuscator
+
+mimic-dkms/stable 0.7.0+ds-2 arm64
+  eBPF UDP -> TCP obfuscator (DKMS kernel module)
+
+mkbootimg/stable 1:34.0.5-12 all
+  Creates Android boot images
+
+mmc-utils/stable 0+git20240329.f757f413-1+b1 arm64
+  Userspace tools for MMC/SD devices
+
+mobian-archive-keyring/stable 20250408.0 all
+  OpenPGP keys for the Mobian package archive
+
+module-assistant/stable 0.11.14 all
+  tool to make module package creation easier
+
+mon/stable 1.4.1-2 arm64
+  monitor hosts/services/whatever and alert about problems
+
+mon-client/stable 1.2.0-3 all
+  modules for interfacing with the mon package
+
+monitoring-plugins-contrib/stable 48.20250420 arm64
+  Plugins for nagios compatible monitoring systems
+
+mptcpd/stable 0.13-2 arm64
+  Multipath TCP Daemon
+
+mptcpd-plugins/stable 0.13-2 arm64
+  Multipath TCP Daemon Plug-ins
+
+mptcpize/stable 0.13-2 arm64
+  Multipath TCP Converter
+
+mstflint/stable 4.31.0+1-4 arm64
+  Mellanox firmware burning application and diagnostics tools
+
+mstflint-dkms/stable 4.31.0+1-4 all
+  kernel module for Nvidia (formly Mellanox) firmware buring tool
+
+mtdev-tools/stable 1.1.7-1 arm64
+  Multitouch Protocol Translation Library - test tools
+
+multiboot/stable 0.6.96+20101113-3 all
+  The Multiboot specification
+
+multipath-tools-boot/stable 0.11.1-2 all
+  Support booting from multipath devices
+
+ndctl/stable 81-1 arm64
+  Utility for managing the nvdimm subsystem
+
+needrestart/stable 3.11-1 all
+  check which daemons need to be restarted after library upgrades
+
+net-tools/stable 2.10-1.3 arm64
+  NET-3 networking toolkit
+
+netconsd/stable 0.4.1-1+b1 arm64
+  Netconsole Daemon
+
+netconsole/stable 0.3.1-3 all
+  Dynamically configure Linux netconsole
+
+netgen-headers/stable 6.2.2501+dfsg1-12 arm64
+  Automatic 3d tetrahedral mesh generator internal headers
+
+nethogs/stable 0.8.8-1 arm64
+  Net top tool grouping bandwidth per process
+
+netlabel-tools/stable 0.30.0-1+b1 arm64
+  management tool for the Linux NetLabel Subsystem
+
+netscript-2.4/stable 5.5.5+nmu3 all
+  Linux 2.4/2.6/3.x router/firewall/VM host network config system.
+
+netsniff-ng/stable 0.6.9-1 arm64
+  Linux network packet sniffer toolkit
+
+nettle-bin/stable 3.10.1-1 arm64
+  low level cryptographic library (binary tools)
+
+nettle-dev/stable 3.10.1-1 arm64
+  low level cryptographic library (development files)
+
+newrole/stable 3.8.1-2 arm64
+  SELinux core policy utilities (newrole application for RBAC/MLS)
+
+nfacct/stable 1.0.2-4+b1 arm64
+  netfilter accounting object tool
+
+nfs-kernel-server/stable 1:2.8.3-1 arm64
+  support for NFS kernel server
+
+nftables/stable,now 1.1.3-1 arm64 [installed]
+  Program to control packet filtering rules by Netfilter project
+
+nield/stable 0.6.2-1 arm64
+  generate logs related to network interfaces
+
+node-d3-contour/stable 1.3.2+~1.3.3-1 all
+  Compute contour polygons
+
+node-yajsml/stable 1.1.5+ds-5 all
+  Yet another (Common)JS module loader
+
+nvptx-tools/stable 0.20240810-3 arm64
+  collection of tools for use with nvptx-none GCC toolchains
+
+nydus-snapshotter/stable 0.13.4-2.1+b10 arm64
+  A containerd snapshotter with data deduplication and lazy loading in P2P fashion (program)
+
+ocfs2-tools/stable 1.8.8-3 arm64
+  tools for managing OCFS2 cluster filesystems
+
+ocfs2-tools-dev/stable 1.8.8-3 arm64
+  tools for managing OCFS2 cluster filesystems - development files
+
+ohai/stable 18.1.3-2.1 all
+  Detects data about your operating system and reports it in JSON
+
+oomd/stable 0.5.0-1.2+b3 arm64
+  userspace Out-Of-Memory (OOM) killer for Linux systems
+
+open-iscsi/stable 2.1.11-1+deb13u2 arm64
+  iSCSI initiator tools
+
+openafs-fuse/stable 1.8.13.2-1 arm64
+  AFS distributed file system experimental FUSE client
+
+openafs-modules-dkms/stable 1.8.13.2-1 all
+  AFS distributed filesystem kernel module DKMS source
+
+openafs-modules-source/stable 1.8.13.2-1 all
+  AFS distributed filesystem kernel module source
+
+openqa/stable 4.6.1732034221.ae34b08ff-2 all
+  automatic Operating System testing framework (webUI & scheduler)
+
+openqa-worker/stable 4.6.1732034221.ae34b08ff-2 all
+  automatic Operating System testing framework (worker)
+
+openrazer-driver-dkms/stable 3.10.2+dfsg-1 all
+  OpenRazer peripheral drivers (DKMS)
+
+opensnitch-ebpf-modules/stable 1.6.9-3 arm64
+  GNU/Linux interactive application firewall eBPF modules
+
+openvpn-dco-dkms/stable 0.0+git20241121-1 all
+  DCO (Data-Channel Offload) kernel module for OpenVPN)
+
+openvswitch-switch/stable 3.5.0-1+b1 arm64
+  Open vSwitch switch implementations
+
+openvswitch-switch-dpdk/stable 3.5.0-1+b1 arm64
+  DPDK enabled Open vSwitch switch implementation
+
+optee-client-dev/stable 4.5.0-1 arm64
+  normal world user space client APIs for OP-TEE (development)
+
+optee-os/stable 4.5.0-2 arm64
+  OP-TEE Trusted OS
+
+optee-os-dev/stable 4.5.0-2 arm64
+  SDK of OP-TEE Trusted OS
+
+optee-test-qemu/stable 4.5.0-1 arm64
+  OP-TEE sanity testsuite
+
+os-autoinst/stable 4.6.1731418769.97d9a7fd-4 arm64
+  automated testing of Operating Systems
+
+osmocom-dahdi-dkms/stable 0.0~git20241003.b2ea348-4 all
+  Kernel module package maintained by DKMS
+
+oss-compat/stable 8 arm64
+  Open Sound System (OSS) compatibility package
+
+paxtest/stable 1:0.9.15-2 arm64
+  Test suite for the PaX kernel patch
+
+pcmciautils/stable 018-18 arm64
+  PCMCIA utilities for Linux 2.6
+
+perf-tools-unstable/stable 1.0.1~20200130+git49b8cdf-1 all
+  DTrace-like tools for Linux
+
+persistent-cache-cpp-dev/stable 1.0.7-2 arm64
+  Cache of key-value pairs with persistent storage for C++ 11
+
+persistent-cache-cpp-doc/stable 1.0.7-2 all
+  Documentation for persistent-cache-cpp-dev
+
+php-fruitcake-php-cors/stable 1.3.0-4 all
+  Cross-origin resource sharing library for Symfony HttpFoundation
+
+php-symfony-http-kernel/stable 6.4.41+dfsg-0+deb13u1 all
+  building blocks for flexible and fast HTTP-based frameworks
+
+phpsysinfo/stable 3.4.4-1 all
+  PHP based host information
+
+physlock/stable 13-1.1 arm64
+  lightweight Linux console locking tool
+
+pidgin-blinklight/stable 0.11.1-6 arm64
+  Blinks your ThinkPad's ThinkLight upon new messages
+
+pigpio-tools/stable 1.78-1.1+b1 arm64
+  Client tools for Raspberry Pi GPIO control
+
+pike8.0-fuse/stable 8.0.1956-1 arm64
+  Filesystem in USErspace support for Pike
+
+pimd/stable 2.3.2-4+b2 arm64
+  multicast routing daemon (PIMv2)
+
+ply/stable 2.4.0-1 arm64
+  Light-weight dynamic tracer for Linux
+
+po4a/stable 0.73-2 all
+  tools to ease the translation of documentation
+
+pocl-opencl-icd/stable 6.0-6 arm64
+  PoCL ICD
+
+policycoreutils/stable 3.8.1-2 arm64
+  SELinux core policy utilities
+
+policycoreutils-dbus/stable 3.8.1-1 all
+  SELinux core policy utilities (D-Bus daemon)
+
+policycoreutils-dev/stable 3.8.1-2 arm64
+  SELinux core policy utilities (development utilities)
+
+policycoreutils-gui/stable 3.8.1-1 all
+  SELinux core policy utilities (graphical utilities)
+
+policycoreutils-python-utils/stable 3.8.1-2 all
+  SELinux core policy utilities (Python utilities)
+
+postgresql-17-pg-stat-kcache/stable 2.3.0-1 arm64
+  PostgreSQL extension to gather per-query kernel statistics.
+
+powercap-utils/stable 0.6.0-1+b2 arm64
+  Utilities for accessing the powercap Linux kernel feature
+
+pps-tools/stable 1.0.2-2+b1 arm64
+  LinuxPPS support tools and headers
+
+prctl/stable 1.7-1 arm64
+  Process control operations
+
+procps/stable,now 2:4.0.4-9 arm64 [installed]
+  /proc file system utilities
+
+prometheus-bird-exporter/stable 1.4.2+ds-2 arm64
+  Prometheus exporter for the BIRD routing daemon
+
+proot/stable 5.1.0-1.3+b1 arm64
+  emulate chroot, bind mount and binfmt_misc for non-root users
+
+puppet-module-camptocamp-kmod/stable 2.1.1-3 all
+  Puppet module for managing kmod configuration
+
+puppet-module-voxpupuli-kmod/stable 3.2.0-2 all
+  Puppet module for manipulating modprobe and kernel modules
+
+pwru/stable 1.0.5+ds1-1+b5 arm64
+  eBPF-based Linux kernel networking debugger (program)
+
+python-evdev-doc/stable 1.9.1-1 arm64
+  Python bindings for the Linux input subsystem (docs)
+
+python-jupyter-client-doc/stable 8.6.3-2 all
+  Jupyter protocol client APIs (documentation)
+
+python-jupyter-console-doc/stable 6.6.3-2 all
+  Jupyter terminal client (documentation)
+
+python-llfuse-doc/stable 1.5.0+dfsg-1 all
+  Python bindings for the low-level FUSE API (documentation)
+
+python-metakernel-doc/stable 0.30.3-1 all
+  Jupyter kernel base class (documentation)
+
+python-peachpy-doc/stable 0.0~git20211013.257881e-1.1 all
+  Portable Efficient Assembly Codegen in Higher-level Python (doc)
+
+python-pyinotify-doc/stable 0.9.6-5 all
+  simple Linux inotify Python bindings -- documentation
+
+python3-binwalk/stable 2.4.3+dfsg1-2 all
+  Python3 library for analyzing binary blobs and executable code
+
+python3-bpfcc/stable 0.31.0+ds-7 all
+  Python 3 wrappers for BPF Compiler Collection (BCC)
+
+python3-cap-ng/stable 0.8.5-4+b1 arm64
+  Python3 bindings for libcap-ng
+
+python3-comm/stable 0.2.1-1 all
+  Register a comm implementation in the Jupyter kernel (Python 3)
+
+python3-cpuset/stable 1.6.2-2 all
+  manipluation of cpusets and provides higher level fun - Python 3.x
+
+python3-ephemeral-port-reserve/stable 1.1.4-4 all
+  binds to an ephemeral port, force it into the TIME_WAIT state, and unbind it
+
+python3-ethtool/stable 0.15-1+b2 arm64
+  Python bindings for the ethtool kernel interface
+
+python3-evdev/stable 1.9.1-1 arm64
+  Python 3 bindings for the Linux input subsystem
+
+python3-evemu/stable 2.7.0-4+b1 arm64
+  Linux Input Event Device Emulation Library - Python3 bindings
+
+python3-fuse/stable 2:1.0.9-1+b1 arm64
+  Python bindings for FUSE (Filesystems in USErspace) (Python 3 package)
+
+python3-gimmik/stable 3.2.1-1 all
+  generator of matrix multiplication kernels (Python 3)
+
+python3-inotify/stable 0.2.10-5 all
+  inotify generator library for Python 3
+
+python3-ipykernel/stable 6.29.5-2 all
+  IPython kernel for Jupyter (Python 3)
+
+python3-jupyter-client/stable 8.6.3-2 all
+  Jupyter protocol client APIs (Python 3)
+
+python3-jupyter-console/stable 6.6.3-2 all
+  Jupyter terminal client (Python 3)
+
+python3-jupyter-kernel-test/stable 0.7.0-3 all
+  tool to test Jupyter kernels
+
+python3-jupyter-sphinx/stable 0.3.2-2 all
+  Jupyter Sphinx Extension - Python3
+
+python3-kconfiglib/stable 14.1.0-4 all
+  Alternative Kconfig implementation (Python 3)
+
+python3-keyutils/stable 0.6-3+b6 arm64
+  Python3 bindings for keyutils
+
+python3-knitpy/stable 0.1.1~git20180430-4.2 all
+  report generation tool with Python
+
+python3-libiio/stable 0.26-2 all
+  Python bindings for libiio
+
+python3-libkdumpfile/stable 0.5.4-3+b1 arm64
+  Python bindings for libkdumpfile
+
+python3-linux-procfs/stable 0.7.3-3 arm64
+  Linux /proc abstraction classes in Python
+
+python3-llfuse/stable 1.5.0+dfsg-1+b2 arm64
+  Python 3 bindings for the low-level FUSE API
+
+python3-loki-ecmwf/stable 0.3.1-1 all
+  Source-to-source translation for Fortran
+
+python3-lttngust/stable 2.13.9-1 all
+  LTTng 2.0 Userspace Tracer (Python 3 UST agent)
+
+python3-lxc/stable 1:5.0.0-2+deb13u1 arm64
+  Linux Containers userspace tools (Python3 bindings)
+
+python3-matplotlib-inline/stable 0.1.7-1 all
+  Matplotlib backend for inline use in IPython and Jupyter
+
+python3-metakernel/stable 0.30.3-1 all
+  Jupyter kernel base class
+
+python3-netfilter/stable 0.6.4-4 all
+  Python module for manipulating netfilter rules
+
+python3-netgen/stable 6.2.2501+dfsg1-12 arm64
+  Automatic 3d tetrahedral mesh generator Python 3 bindings
+
+python3-nftables/stable 1.1.3-1 arm64
+  nftables/libnftables python3 module
+
+python3-octave-kernel/stable 0.36.0-1 all
+  Jupyter kernel for Octave
+
+python3-pigpio/stable 1.78-1.1 all
+  Python module which talks to the pigpio daemon (Python 3)
+
+python3-pyarmnn/stable 23.08-5 arm64
+  PyArmNN is a python extension for the Armnn SDK
+
+python3-pyinotify/stable 0.9.6-5 all
+  simple Linux inotify Python bindings
+
+python3-pyric/stable 0.1.6.4+git20170421.0562b17-1 all
+  Python library for Linux wireless device control
+
+python3-pytest-jupyter/stable 0.10.1-2 all
+  Pytest plugins for Jupyter libraries and extensions
+
+python3-rpi-bad-power/stable 0.1.0-2 all
+  Detect bad power supply on Raspberry Pi
+
+python3-rtslib-fb/stable 2.1.76-3 all
+  object API for managing the Linux LIO kernel target - Python 3.x
+
+python3-schedutils/stable 0.6-4+b2 arm64
+  Linux scheduler Python bindings
+
+python3-seccomp/stable 2.6.0-2 arm64
+  high level interface to Linux seccomp filter (Python 3 bindings)
+
+python3-selinux/stable 3.8.1-1 arm64
+  Python3 bindings to SELinux shared libraries
+
+python3-semanage/stable 3.8.1-1 arm64
+  Python3 bindings for SELinux policy management
+
+python3-sendfile/stable 2.0.1-4+b9 arm64
+  Python interface to sendfile(2)
+
+python3-smbus/stable 4.4-2 arm64
+  Python 3 bindings for Linux SMBus access through i2c-dev
+
+python3-sphinx-thebe/stable 0.3.1-2 all
+  Integrate interactive code blocks into your documentation with Thebe and Binder
+
+python3-spidev/stable 3.6-1+b6 arm64
+  Python bindings for Linux SPI access through spidev
+
+python3-spyder-kernels/stable 3.0.3-1 all
+  Jupyter kernels for the Spyder console - Python 3
+
+python3-trace-cmd/stable 3.3.1-1+b1 arm64
+  Python module for analyzing function tracing in the kernel
+
+python3-uinput/stable 1.0.1-3+b1 arm64
+  Pythonic API to Linux uinput kernel module (Python3)
+
+python3-virt-firmware/stable 24.11-2 all
+  Tools for manipulating edk2 (ovmf/qemu-efi) firmware images
+
+python3-xeus-python-shell/stable 0.17.2+~0.6.3-0.1 all
+  Native jupyter kernel for python (python library)
+
+python3-zmq/stable 26.4.0-1 arm64
+  Python3 bindings for 0MQ library
+
+qcom-phone-utils/stable 0.4.2 arm64
+  Utilities for Qualcomm-based phones running Linux
+
+qemu-system-x86/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (x86)
+
+qemu-user/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU user mode emulation (static binaries)
+
+quilt/stable 0.68-1 all
+  Tool to work with series of patches
+
+r-cran-drr/stable 0.0.4-2 all
+  GNU R dimensionality reduction via regression
+
+r-cran-irdisplay/stable 1.1-1 all
+  Rich display library for the Jupyter R kernel
+
+r-cran-irkernel/stable 1.3.2+git20240429.124f234-2 all
+  Native R kernel for the Jupyter notebook
+
+r-cran-kedd/stable 1.0.4-1 all
+  Kernel Estimator+Bandwidth Selection - Density+Derivatives
+
+r-cran-kernelheaping/stable 2.3.0-1 all
+  GNU R kernel density estimation for heaped and rounded data
+
+r-cran-kernlab/stable 0.9-33-1 arm64
+  GNU R package for kernel-based machine learning lab
+
+r-cran-kernsmooth/stable 2.23-26-1 arm64
+  GNU R package for kernel smoothing and density estimation
+
+r-cran-ks/stable 1.14.3-1 arm64
+  GNU R kernel smoothing
+
+r-cran-sm/stable 2.2-6.0-1+b1 arm64
+  GNU R package for kernel smoothing methods
+
+r-cran-sparr/stable 2.3-16-2 all
+  GNU R spatial and spatiotemporal relative risk
+
+r-cran-spatstat.explore/stable 3.3-4-1 arm64
+  GNU R exploratory data analysis for the 'spatstat' family
+
+r-cran-spatstat.linnet/stable 3.2-5-1 arm64
+  linear networks functionality of the 'spatstat' family of GNU R
+
+r-cran-spatstat.model/stable 3.3-4-1 arm64
+  GNU R parametric statistical modelling for the 'spatstat' family
+
+r-cran-spatstat.univar/stable 3.1-2-1 arm64
+  One-Dimensional Probability Distribution Support for the 'spatstat' Family
+
+r-cran-statip/stable 0.2.3-2+b2 arm64
+  statistical functions for probability distributions and regression
+
+r-cran-vioplot/stable 0.5.1-1 all
+  GNU R toolbox for violin plots
+
+r-recommended/stable 4.5.0-3 all
+  GNU R collection of recommended packages [metapackage]
+
+rapiddisk/stable 9.2.0-1 arm64
+  Linux RAM Drive and Caching kernel modules
+
+rapiddisk-dkms/stable 9.2.0-1 all
+  Linux RAM Drive and Caching kernel modules (DKMS)
+
+rasdaemon/stable 0.8.3-1 arm64
+  utility to receive RAS error tracings
+
+rdma-core/stable 56.1-1 arm64
+  RDMA core userspace infrastructure and documentation
+
+reboot-notifier/stable 0.12 all
+  daily reboot notification mailer
+
+refind/stable 0.14.2-2.1 arm64
+  boot manager for EFI-based computers
+
+reform-tools/stable 1.71-2+deb13u1 all
+  MNT System Tools for MNT Reform and MNT Pocket Reform
+
+reform2-lpc-dkms/stable 1.71-2+deb13u1 all
+  dkms driver sources for Reform 2 LPC11U24
+
+restorecond/stable 3.8.1-1 arm64
+  SELinux core policy utilities (restorecond utilities)
+
+rkhunter/stable 1.4.6-13 all
+  rootkit, backdoor, sniffer and exploit scanner
+
+rng-tools-debian/stable 2.6 arm64
+  daemon to use a Hardware RNG (classic version)
+
+rng-tools5/stable 5-4.1+b2 arm64
+  Daemon to use a Hardware TRNG
+
+rocm-device-libs-17/stable 6.0+git20231212.5a852ed-2 arm64
+  AMD specific device-side language runtime libraries
+
+rootlesskit/stable 2.0.2-2+b9 arm64
+  Linux-native "fake root" for rootless containers
+
+rsyslog/stable 8.2504.0-1 arm64
+  reliable system and kernel logging daemon
+
+rt-app/stable 1.0-1.2 arm64
+  Test application which simulates a real-time periodic load
+
+rt-tests/stable 2.6-1.1 arm64
+  Test programs for rt kernels
+
+rtirq-init/stable 20150216-3 all
+  startup script for realtime-preempt enabled kernels
+
+rtla/stable 6.12.94-1 arm64
+  Real-Time Linux Analysis tools
+
+rtpengine/stable 12.5.1.31-1 all
+  NGCP RTP/media proxy - metapackage
+
+rtpengine-daemon/stable 12.5.1.31-1 arm64
+  proxy for RTP and media streams used in NGCP, userspace part
+
+rtpengine-kernel-dkms/stable 12.5.1.31-1 all
+  IPtables kernel module for the NGCP media proxy - DKMS
+
+ruby-erubi/stable 1.12.0-1 all
+  Small ERB Implementation
+
+ruby-nfnetlink/stable 1.0.2-2 all
+  Wrapper on top of libnfnetlink using FFI
+
+ruby-nio4r/stable 2.7.3-1+b2 arm64
+  Ruby library providing a selector API for monitoring IO objects
+
+ruby-posix-spawn/stable 0.3.15-3+b2 arm64
+  Ruby Implementation of posix_spawn(2) for faster process spawning
+
+ruby-rb-inotify/stable 0.10.1-2 all
+  Ruby wrapper for Linux's inotify, using FFI
+
+ruby-scanf/stable 1.0.0-2 all
+  Implementation of the C function scanf
+
+ruby-selinux/stable 3.8.1-1 arm64
+  Ruby bindings to SELinux shared libraries
+
+ruby-semanage/stable 3.8.1-1 arm64
+  Ruby bindings to for SELinux policy management
+
+ruby-silent-stream/stable 1.0.6-2 all
+  ActiveSupport's Stream Silencing - Without ActiveSupport
+
+runsc/stable 0.0~20240729.0-4+b7 arm64
+  gVisor container sandbox runtime
+
+schedtool/stable 1.3.0-5+b1 arm64
+  Queries/alters process' scheduling policy and CPU affinity
+
+schroot/stable 1.6.13-7 arm64
+  Execute commands in a chroot environment
+
+secilc/stable 3.8.1-1 arm64
+  SELinux CIL compiler
+
+secilc-doc/stable 3.8.1-1 all
+  documentation for the SELinux CIL Compiler
+
+selinux-utils/stable 3.8.1-1 arm64
+  SELinux utility programs
+
+semanage-utils/stable 3.8.1-1 all
+  SELinux policy management utilities
+
+semodule-utils/stable 3.8.1-1 arm64
+  SELinux core policy utilities (modules utilities)
+
+sepol-utils/stable 3.8.1-1 arm64
+  Security Enhanced Linux policy utility programs
+
+setools/stable 4.5.1-1.1+b1 arm64
+  tools for Security Enhanced Linux policy analysis
+
+setools-gui/stable 4.5.1-1.1+b1 arm64
+  GUI tools for Security Enhanced Linux policy analysis
+
+skales/stable 0.20170929-4 all
+  Boot image creation tools for qualcomm boards
+
+smcroute/stable 2.5.7-1+b1 arm64
+  static multicast router daemon
+
+smifb2-dkms/stable 2.4.1-1 all
+  SiliconMotion SM750/SM768 Graphics PCI-E DRM Driver
+
+socklog/stable 2.1.0+repack-6 arm64
+  system and kernel logging services - binaries
+
+socklog-run/stable 2.1.0+repack-6 arm64
+  system and kernel logging services - runit services
+
+soundmodem/stable 0.20-7+b1 arm64
+  Sound Card Amateur Packet Radio Modems
+
+speakup-doc/stable 3.1.6.dfsg.1-7 all
+  Documentation for speakup kernel modules
+
+speechd-up/stable 0.5~20110719-15+b1 arm64
+  Interface between Speech Dispatcher and SpeakUp
+
+spice-vdagent/stable 0.22.1-4.1 arm64
+  Spice agent for Linux
+
+squashfuse/stable 0.5.2-0.2+b2 arm64
+  FUSE filesystem to mount squashfs archives
+
+srptools/stable 56.1-1 arm64
+  Tools for Infiniband attached storage (SRP)
+
+starpu-examples/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines - exs
+
+starpu-tools/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines - tools
+
+strace/stable 6.13+ds-1 arm64
+  System call tracer
+
+stress/stable 1.0.7-1+b1 arm64
+  tool to impose load on and stress test a computer system
+
+strongswan/stable 6.0.1-6+deb13u6 all
+  IPsec VPN solution metapackage
+
+strongswan-charon/stable 6.0.1-6+deb13u6 arm64
+  strongSwan Internet Key Exchange daemon
+
+strongswan-libcharon/stable 6.0.1-6+deb13u6 arm64
+  strongSwan charon library
+
+strongswan-nm/stable 6.0.1-6+deb13u6 arm64
+  strongSwan plugin to interact with NetworkManager
+
+strongswan-pki/stable 6.0.1-6+deb13u6 arm64
+  strongSwan IPsec client, pki command
+
+strongswan-starter/stable 6.0.1-6+deb13u6 arm64
+  strongSwan daemon starter and configuration file parser
+
+strongswan-swanctl/stable 6.0.1-6+deb13u6 arm64
+  strongSwan IPsec client, swanctl command
+
+switcheroo-control/stable 2.6-3+b1 arm64
+  D-Bus service to check the availability of dual-GPU
+
+sysfsutils/stable 2.1.1-7 arm64
+  sysfs query tool and boot-time setup
+
+sysprof/stable 48.0-2 arm64
+  system-wide Linux profiler
+
+sysstat/stable 12.7.5-2+b2 arm64
+  system performance tools for Linux
+
+systemd-boot/stable 257.13-1~deb13u1 arm64
+  simple UEFI boot manager - integration and services
+
+systemd-boot-efi/stable 257.13-1~deb13u1 arm64
+  simple UEFI boot manager - EFI binaries
+
+systemd-boot-tools/stable 257.13-1~deb13u1 arm64
+  simple UEFI boot manager - tools
+
+systemd-bootchart/stable 235-2+b1 arm64
+  boot performance graphing tool
+
+systemd-oomd/stable 257.13-1~deb13u1 arm64
+  userspace out-of-memory (OOM) killer
+
+systemd-ukify/stable 257.13-1~deb13u1 all
+  tool to build Unified Kernel Images
+
+systemtap-client/stable 5.1-5 arm64
+  instrumentation system for Linux (client for compile server)
+
+systune/stable 0.5.13+nmu2 all
+  kernel tuning through the /proc file system
+
+targetcli-fb/stable 1:2.1.53-1.3 all
+  Command shell for managing the Linux LIO kernel target
+
+tayga/stable 0.9.2-10+deb13u1 arm64
+  userspace stateless NAT64
+
+tcmu-runner/stable 1.5.4-9+b1 arm64
+  Daemon that handles the userspace side of the LIO TCM-User backstore
+
+tcpbench/stable 2.02-2+b1 arm64
+  TCP/UDP benchmarking and measurement tool
+
+tee-supplicant/stable 4.5.0-1 arm64
+  normal world user space client APIs for OP-TEE
+
+texlive-latex-base/stable 2024.20250309-1 all
+  TeX Live: LaTeX fundamental packages
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+tiny-initramfs/stable 0.1-6.1 all
+  Minimalistic initramfs implementation (automation)
+
+tiny-initramfs-core/stable 0.1-6.1 arm64
+  Minimalistic initramfs implementation (core tools)
+
+trace-cmd/stable 3.3.1-1+b1 arm64
+  Utility for retrieving and analyzing function tracing in the kernel
+
+triggerhappy/stable 0.5.0-1.1+b4 arm64
+  global hotkey daemon for Linux
+
+trinity/stable 1.9+git20241022.ba2360ed84a8-1 arm64
+  system call fuzz tester
+
+tuna/stable 0.19-1 arm64
+  Low-level system performance tuning for realtime systems
+
+u-boot-efi-dtb/stable 3 all
+  copy DTBs to the EFI System Partition from the linux-image-* packages
+
+u-boot-menu/stable 4.2.4 all
+  u-boot menu update
+
+udfclient/stable 0.8.11-2+b1 arm64
+  userland implementation of the UDF filesystem
+
+ufo-filters-data/stable 0.17.0.76.g691aa0e+dfsg1-2 all
+  Library for high-performance, GPU-based computing - data
+
+uftrace/stable 0.17-1 arm64
+  Traces and analyzes execution of programs written in C/C++
+
+uml-utilities/stable 20070815.4-2.1 arm64
+  User-mode Linux (utility programs)
+
+unhide/stable 20240510-2 arm64
+  forensic tool to find hidden processes and ports
+
+unhide-gui/stable 20240510-2 arm64
+  graphical user interface for unhide
+
+unicorn/stable 6.1.0+git.20250131.1370f52-1+b1 arm64
+  Rack HTTP server for fast clients
+
+unison/stable 2.53+1 all
+  file-synchronization tool for Unix and Windows
+
+unison-2.53/stable 2.53.7-2 arm64
+  file-synchronization tool for Unix and Windows
+
+unison-2.53-gtk/stable 2.53.7-2 arm64
+  file-synchronization tool for Unix and Windows with GTK+ interface
+
+unison-gtk/stable 2.53+1 all
+  file-synchronization tool for Unix and Windows with GTK+ interface
+
+usb-modeswitch/stable 2.6.1-4+b2 arm64
+  mode switching tool for controlling "flip flop" USB devices
+
+usb-modeswitch-data/stable 20191128-7 all
+  mode switching data for usb-modeswitch
+
+usbauth/stable 1.0.5-1.1+b1 arm64
+  USB firewall against BadUSB attacks
+
+util-linux/stable,now 2.41-5 arm64 [installed]
+  miscellaneous system utilities
+
+v4l2loopback-dkms/stable 0.15.0-2 all
+  Source for the v4l2loopback driver (DKMS)
+
+v4l2loopback-source/stable 0.15.0-2 all
+  Source for the v4l2loopback driver
+
+vblade/stable 25-2+b1 arm64
+  virtual AoE blade emulator
+
+vboot-kernel-utils/stable 0~R106-15054.B+dfsg-0.1 arm64
+  Chrome OS verified boot utils required to sign kernels
+
+vboot-utils/stable 0~R106-15054.B+dfsg-0.1 arm64
+  Chrome OS verified u-boot utilities
+
+vhba-dkms/stable 20250329-1 all
+  VHBA virtual host bus adapter module
+
+virtme/stable 0.1.1+git20211118.3dfc002-3 all
+  Helper scripts to test kernel code on qemu
+
+virtme-ng/stable 1.35-1 all
+  Helper scripts to test kernel code on qemu
+
+vpnc/stable 0.5.3+git20241220-2 arm64
+  Cisco-compatible VPN client
+
+vpoll-dkms/stable 0.1.1-1 all
+  vpoll device: generate events for poll/select/ppoll/pselect/epoll
+
+watchdog/stable 5.16-1.1 arm64
+  system health checker and software/hardware watchdog handler
+
+wayland-scanner++/stable 1.0.0-6+b2 arm64
+  wayland compositor infrastructure - C++ protocol code generator
+
+waylandpp-dev/stable 1.0.0-6+b2 arm64
+  wayland compositor infrastructure - C++ development files
+
+waylandpp-doc/stable 1.0.0-6 all
+  wayland compositor documentation
+
+west-chamber-common/stable 20100405+svn20111107.r124-14.3 arm64
+  iptable extension for bypassing content filtering firewall
+
+west-chamber-dkms/stable 20100405+svn20111107.r124-14.3 all
+  iptable extension for bypassing content filtering firewall (dkms)
+
+west-chamber-source/stable 20100405+svn20111107.r124-14.3 all
+  iptable extension for bypassing content filtering firewall (module source)
+
+wine-binfmt/stable 10.0~repack-6 all
+  Register Wine as the interpreter for Windows executables
+
+wireguard/stable 1.0.20210914-3 all
+  fast, modern, secure kernel VPN tunnel (metapackage)
+
+wireguard-tools/stable 1.0.20210914-3 arm64
+  fast, modern, secure kernel VPN tunnel (userland utilities)
+
+wireless-regdb/stable 2026.05.30-1~deb13u1 all
+  wireless regulatory database for Linux
+
+wmacpi/stable 2.4-2+b2 arm64
+  ACPI battery monitor for WindowMaker
+
+wmload/stable 0.9.7-2+b1 arm64
+  system load monitor designed for Window Maker
+
+xboxdrv/stable 0.8.8-4+b1 arm64
+  Xbox360 gamepad driver for the userspace
+
+xdp-tests/stable 1.5.4-1 arm64
+  library and utilities for use with XDP - test scripts and programs
+
+xdp-tools/stable 1.5.4-1 arm64
+  library and utilities for use with XDP
+
+xen-hypervisor-common/stable 4.20.2+37-g61ff35323e-0+deb13u1 arm64
+  Xen Hypervisor - common files
+
+xeus-dev/stable 5.1.1-0.1 arm64
+  C++ Implementation of the Jupyter Kernel protocol (headers)
+
+xeus-gp/stable 0.1.0-1 arm64
+  Native jupyter kernel for GP
+
+xeus-zmq-dev/stable 3.1.0-0.3 arm64
+  ZeroMQ middleware for xeus (headers)
+
+xfce4-battery-plugin/stable 1.1.5-1+b3 arm64
+  battery monitor plugin for the Xfce4 panel
+
+xfce4-cpugraph-plugin/stable 1.2.10-1+b2 arm64
+  CPU load graph plugin for the Xfce4 panel
+
+xfce4-diskperf-plugin/stable 2.7.0-1+b3 arm64
+  disk performance display plugin for the Xfce4 panel
+
+xfslibs-dev/stable 6.13.0-2+b1 arm64
+  XFS filesystem-specific static libraries and headers
+
+xfsprogs/stable 6.13.0-2+b1 arm64
+  Utilities for managing the XFS filesystem
+
+xindy/stable 2.5.1.20160104-12 arm64
+  index generator for structured documents like LaTeX or SGML
+
+xorriso-dd-target/stable 1.5.6-1.2 all
+  Device evaluator and disk image copier for GNU/Linux
+
+xpython/stable 0.17.2+~0.6.3-0.1+b1 arm64
+  Native jupyter kernel for python (binary)
+
+xserver-xorg-input-evdev/stable 1:2.11.0-1 arm64
+  X.Org X server -- evdev input driver
+
+xserver-xorg-input-mouse/stable 1:1.9.3-1+b2 arm64
+  X.Org X server -- mouse input driver
+
+xserver-xorg-legacy/stable 2:21.1.16-1.3+deb13u3 arm64
+  setuid root Xorg server wrapper
+
+xsysinfo/stable 1.7-10+b2 arm64
+  display some Linux kernel parameters in graphical form
+
+xtables-addons-common/stable 3.27-4 arm64
+  Additional targets and matches for iptables [tools, libs]
+
+xtables-addons-dkms/stable 3.27-4 all
+  Additional targets and matches for iptables [sources for DKMS]
+
+xtables-addons-source/stable 3.27-4 all
+  Additional targets and matches for iptables [sources for module-assistant]
+
+xtrx-dkms/stable 0.0.1+git20190320.5ae3a3e-3.7 all
+  XTRX PCI driver for Linux
+
+yasat/stable 848-1.2 all
+  simple stupid audit tool
+
+z8530-utils2/stable 3.0-1-12 arm64
+  Utilities for Z8530 based HDLC cards for AX.25
+
+zram-tools/stable 0.3.7-1 all
+  utilities for working with zram
+

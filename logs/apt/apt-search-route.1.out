@@ -1,0 +1,1154 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+ahcpd/stable 0.53-3+b1 arm64
+  Ad-Hoc Configuration Protocol
+
+ampr-ripd/stable 2.4.1-1+b4 arm64
+  Routing daemon for AMPRnet gateway announcements
+
+anytun/stable 0.3.8-1.1 arm64
+  secure anycast tunneling protocol
+
+ap51-flash/stable 2025.0-1 arm64
+  firmware flasher for ethernet connected routers and access points
+
+arachne-pnr/stable 0.1+20190728gitc40fb22-3+b1 arm64
+  Place and route tool for iCE40 family FPGAs
+
+arachne-pnr-chipdb/stable 0.1+20190728gitc40fb22-3 all
+  Chip db files for arachne-pnr
+
+asn/stable 0.78.0-1 all
+  network OSINT CLI ASN, RPKI, BGP, Geo, Recon, Trace
+
+auto-apt-proxy/stable 16.8+deb13u1 all
+  automatic detector of common APT proxy settings
+
+ax25mail-utils/stable 0.15-1+b2 arm64
+  hamradio packet utilities for fbb
+
+babeld/stable 1.13.1+ds-1 arm64
+  loop-free distance-vector routing protocol
+
+batctl/stable 2025.0-2 arm64
+  B.A.T.M.A.N. advanced control and management tool
+
+bird2/stable 2.17.5-0+deb13u1 arm64
+  Internet Routing Daemon
+
+bird2-doc/stable 2.17.5-0+deb13u1 all
+  Internet Routing Daemon - documentation
+
+bird3/stable 3.1.7-0+deb13u1 arm64
+  Internet Routing Daemon
+
+bird3-doc/stable 3.1.7-0+deb13u1 all
+  Internet Routing Daemon - documentation
+
+bittwist/stable 4.7+ds-2 arm64
+  libpcap based Ethernet packet generator
+
+br2684ctl/stable 1:2.5.1-7 arm64
+  Utility for configuring RFC 2684 ATM/Ethernet bridging
+
+clamsmtp/stable 1.10-18+b1 arm64
+  virus-scanning SMTP proxy
+
+cyclograph/stable 1.9.1-1.3 all
+  route altimetry plotting application
+
+cyclograph-gtk3/stable 1.9.1-1.3 all
+  route altimetry plotting application - GTK3 interface
+
+cyclograph-qt5/stable 1.9.1-1.3 all
+  route altimetry plotting application - Qt interface
+
+debian-edu-router-common/stable 2.13.5 all
+  Debian Edu Router - common/shared files
+
+debian-edu-router-config/stable 2.13.5 all
+  Debian Edu Router Configuration
+
+debian-edu-router-deployserver/stable 2.13.5 all
+  Deployment server for the Debian Edu Router system
+
+debian-edu-router-fai/stable 2.13.5 all
+  FAI config space (et al.) for the Debian Edu Router system
+
+debian-edu-router-fai-l10n/stable 2.13.5 all
+  FAI config space locale files for the Debian Edu Router system
+
+debian-edu-router-plugin.content-filter/stable 2.13.5 all
+  Debian Edu Router Plugin for content filtering
+
+debian-edu-router-plugin.krb5-connector/stable 2.13.5 all
+  Debian Edu Router Plugin for Kerberos connector
+
+debian-edu-router-plugin.ldap-connector/stable 2.13.5 all
+  Debian Edu Router Plugin for LDAP/AD connector
+
+debian-edu-router-plugin.mdns-reflector/stable 2.13.5 all
+  Debian Edu Router Plugin for mDNS reflection
+
+desktop-file-utils/stable,now 0.28-1 arm64 [installed,automatic]
+  Utilities for .desktop files
+
+dnsdiag/stable 2.6.0-1 all
+  DNS request auditing toolset
+
+dnsdist/stable 1.9.15-0+deb13u1 arm64
+  DNS loadbalancer
+
+dublin-traceroute/stable 0.4.2-3+b1 arm64
+  NAT-aware multipath tracerouting tool
+
+ejabberd-mod-rest/stable 0.2025.01.11~dfsg0-2+deb13u2 arm64
+  ejabberd module providing an HTTP REST interface
+
+etherpuppet/stable 0.3-5+b1 arm64
+  create a virtual interface from a remote Ethernet interface
+
+exabgp/stable 4.2.25-1 all
+  BGP swiss army knife of networking
+
+fastd/stable 23-2 arm64
+  Fast and Secure Tunneling Daemon
+
+fastd-doc/stable 23-2 all
+  Fast and Secure Tunneling Daemon (documentation)
+
+fever/stable 1.3.7-2+b4 arm64
+  fast, extensible, versatile event router for Suricata's EVE-JSON format
+
+filetea/stable 0.1.18-3+b1 arm64
+  Web-based file sharing system
+
+filius/stable 2.8.0+ds-2 all
+  educational network simulator
+
+firewalk/stable 5.0-5+b2 arm64
+  active reconnaissance network security tool
+
+fonts-aenigma/stable 0.0.20080511+dfsg-5 all
+  465 free TrueType fonts by Brian Kent
+
+fonts-national-park/stable 0.0~20220205-2 all
+  Typeface designed to mimic the US National Park service signs
+
+fonts-routed-gothic/stable 1.0.0+git20210723.e22ee83+dfsg-2 all
+  Clean vintage drafting, avionics, routed signage, and keyboard legend font
+
+foolsm/stable 1.0.21-2 arm64
+  Link connectivity monitor tool
+
+fort-validator/stable 1.6.6-1 arm64
+  RPKI validator and RTR server
+
+frr/stable 10.3-3+deb13u1 arm64
+  FRRouting Internet routing protocol suite
+
+frr-rpki-rtrlib/stable 10.3-3+deb13u1 arm64
+  FRRouting Internet routing protocol suite (BGP RPKI support)
+
+fwanalog/stable 0.6.9-11 all
+  firewall log-file report generator (using analog)
+
+fwbuilder/stable 5.3.7-8 arm64
+  Firewall administration tool GUI
+
+fwbuilder-common/stable 5.3.7-8 all
+  Firewall administration tool GUI (common files)
+
+fwbuilder-doc/stable 5.3.7-8 all
+  Firewall administration tool GUI documentation
+
+gir1.2-qrtr-1.0/stable 1.2.2-1+b2 arm64
+  GObject introspection data for libqrtr-glib
+
+gnome-nettool/stable 42.0-2.1 arm64
+  network information tool for GNOME
+
+golang-github-adrianmo-go-nmea-dev/stable 1.10.0-1 all
+  Go library for the NMEA 0183 protocol
+
+golang-github-appleboy-gofight-dev/stable 2.1.2-3 all
+  API Handler Testing for Golang Web framework
+
+golang-github-armon-go-socks5-dev/stable 0.0~git20160902.e753329-1.1 all
+  SOCKS5 server in Golang
+
+golang-github-audriusbutkevicius-go-nat-pmp-dev/stable 0.0~git20160522.452c976-3 all
+  Go language client for the NAT-PMP internet
+
+golang-github-bgp-stayrtr-dev/stable 0.6.2-1+deb13u1 all
+  RPKI to router protocol library
+
+golang-github-gin-gonic-gin-dev/stable 1.8.1-3 all
+  HTTP web framework written in Go
+
+golang-github-go-chi-chi-dev/stable 5.2.0-1 all
+  lightweight, idiomatic and composable router for building Go HTTP services
+
+golang-github-gorilla-csrf-dev/stable 1.7.2+ds1-2 all
+  Cross Site Request Forgery (CSRF) prevention middleware for Go
+
+golang-github-gorilla-mux-dev/stable 1.8.1-1 all
+  powerful URL router and dispatcher for golang
+
+golang-github-hashicorp-memberlist-dev/stable 0.5.0-1 all
+  Golang package for gossip based membership and failure detection
+
+golang-github-jackpal-go-nat-pmp-dev/stable 1.0.2-3 all
+  client for the NAT-PMP internet protocol
+
+golang-github-jsimonetti-rtnetlink-dev/stable 2.0.2-1 all
+  low-level access to the Linux rtnetlink API (library)
+
+golang-github-julienschmidt-httprouter-dev/stable 1.3.0-2 all
+  High performance HTTP request router for Go that scales well
+
+golang-github-labstack-echo-dev/stable 4.12.0-1 all
+  high performance, minimalist Go web framework
+
+golang-github-minio-mux-dev/stable 1.9.0-2 all
+  Powerful HTTP router and URL matcher for building Go web servers
+
+golang-github-nebulouslabs-go-upnp-dev/stable 0.0~git20171003.0.1be4557-1.1 all
+  Opinionated interface to Internet Gateway Devices
+
+golang-github-prometheus-common-dev/stable 0.62.0-3 all
+  common libraries for Prometheus components
+
+golang-github-rluisr-mysqlrouter-go-dev/stable 1.2.0-2 all
+  client for mysql-router (library)
+
+golang-github-vishvananda-netlink-dev/stable 1.3.0-2 all
+  netlink library for go
+
+golang-github-weaveworks-mesh-dev/stable 0.1+git20180323.0c91e69-1 all
+  go library to build distributed systems
+
+golang-github-xtaci-kcp-dev/stable 5.6.1-2 all
+  Full-Featured Reliable-UDP Library for golang
+
+golang-github-yl2chen-cidranger-dev/stable 1.0.2-1 all
+  Fast IP to CIDR lookup in Golang
+
+golang-k8s-kube-openapi-dev/stable 0.0~git20241212.2c72e55-2 all
+  Kubernetes OpenAPI spec generation & serving (library)
+
+google-guest-agent/stable 20211116.00-7+b3 arm64
+  Guest Agent for Google Compute Engine
+
+gpsbabel/stable 1.10.0+ds-1 arm64
+  GPS file conversion plus transfer to/from GPS units
+
+gpsbabel-doc/stable 1.10.0+ds-1 all
+  GPS file conversion plus transfer to/from GPS units - documentation
+
+gpsbabel-gui/stable 1.10.0+ds-1 arm64
+  GPS file conversion plus transfer to/from GPS units - GUI
+
+gpstrans/stable 0.41-11 arm64
+  communicate via serial port with a Garmin GPS receiver
+
+gpxinfo/stable 1.6.2-1 all
+  Command line utility to extract basic statistics from a GPX file
+
+hddemux/stable 0.5-1.1+b1 arm64
+  HTTP/1.x and DNS demultiplexer
+
+hipercontracer/stable 1.6.10-1+b1 arm64
+  Command-line programs for HiPerConTracer
+
+hipercontracer-trigger/stable 1.6.10-1+b1 arm64
+  Triggered HiPerConTracer service
+
+hobbit-plugins/stable 20230301 all
+  plugins for the Xymon network monitor
+
+horizon-eda/stable 2.6.0-2.2+b1 arm64
+  EDA layout and schematic application
+
+hp-search-mac/stable 0.1.5.2 all
+  Search for a MAC address on HP switches
+
+hping3/stable 3.a2.ds2-10.1 arm64
+  Active Network Smashing Tool
+
+ibacm/stable 56.1-1 arm64
+  InfiniBand Communication Manager Assistant (ACM)
+
+icecc/stable 1.4-1+b3 arm64
+  distributed compiler (client and server)
+
+ifmetric/stable 0.3-5+b1 arm64
+  Set routing metrics for a network interface
+
+ifupdown-extra/stable 0.34 all
+  Network scripts for ifupdown
+
+inadyn/stable 2.11.0-1+b2 arm64
+  simple and small dynamic DNS client with HTTPS support
+
+inetutils-traceroute/stable 2:2.6-3+deb13u3 arm64
+  trace the IPv4 route to another host
+
+iproute2/stable,now 6.15.0-1 arm64 [installed,automatic]
+  networking and traffic control tools
+
+iputils-tracepath/stable 3:20240905-3 arm64
+  Tools to trace the network path to a remote host
+
+ipv6toolkit/stable 2.0+ds.1-2+b2 arm64
+  Security assessment and troubleshooting tool for the IPv6 protocols
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+isatapd/stable 0.9.7-5+b3 arm64
+  creates and maintains an ISATAP client tunnel (RFC 5214)
+
+keepalived/stable 1:2.3.3-1 arm64
+  Failover and monitoring daemon for LVS clusters
+
+kube-openapi/stable 0.0~git20241212.2c72e55-2 arm64
+  Kubernetes OpenAPI spec generation & serving (program)
+
+lft/stable 3.91-2+b1 arm64
+  layer-four traceroute
+
+libapache-qpid-proton-j-java/stable 0.34.0-2 all
+  Apache Qpid Proton-J
+
+libapache-qpid-proton-j-java-doc/stable 0.34.0-2 all
+  Apache Qpid Proton-J - documentation
+
+libapache2-mod-evasive/stable 2.4.0-2 arm64
+  evasive module to minimize HTTP DoS or brute force attacks
+
+libcomidi-clojure/stable 0.3.2-2 all
+  HTTP route definitions for Clojure
+
+libdancer-plugin-auth-extensible-perl/stable 1.00-3 all
+  module providing extensible authentication framework for Dancer apps
+
+libdancer2-plugin-ajax-perl/stable 0.400000-2 all
+  Dancer2 plugin for adding Ajax route handlers
+
+libdevel-backtrace-perl/stable 0.12-3 all
+  Object-oriented backtrace
+
+libdublintraceroute-dev/stable 0.4.2-3+b1 arm64
+  NAT-aware multipath tracerouting tool (dev)
+
+libdublintraceroute0/stable 0.4.2-3+b1 arm64
+  NAT-aware multipath tracerouting tool (library)
+
+libdumbnet-dev/stable 1.18.0-2 arm64
+  dumb, portable networking library -- development files
+
+libdumbnet1/stable 1.18.0-2 arm64
+  dumb, portable networking library -- shared library
+
+libghc-clash-prelude-dev/stable 1.8.1-2+b2 arm64
+  Functional hardware description language - Prelude library
+
+libghc-clash-prelude-doc/stable 1.8.1-2 all
+  Functional hardware description language - Prelude library; documentation
+
+libghc-clash-prelude-prof/stable 1.8.1-2+b2 arm64
+  Functional hardware description language - Prelude library; profiling libraries
+
+libghc-hslogger-dev/stable 1.3.1.1+dfsg-1 arm64
+  logging framework for Haskell
+
+libghc-hslogger-doc/stable 1.3.1.1+dfsg-1 all
+  logging framework for Haskell; documentation
+
+libghc-hslogger-prof/stable 1.3.1.1+dfsg-1 arm64
+  logging framework for Haskell; profiling libraries
+
+libghc-iproute-dev/stable 1.7.14-1+b1 arm64
+  Haskell IP routing table
+
+libghc-iproute-doc/stable 1.7.14-1 all
+  Haskell IP routing table; documentation
+
+libghc-iproute-prof/stable 1.7.14-1+b1 arm64
+  Haskell IP routing table; profiling libraries
+
+libglobus-net-manager0t64/stable 1.7-3+b3 arm64
+  Grid Community Toolkit - Network Manager Library
+
+libhipercontracer-dev/stable 1.6.10-1+b1 arm64
+  Development files for HiPerConTracer API library
+
+libhipercontracer1/stable 1.6.10-1+b1 arm64
+  API library of HiPerConTracer
+
+libhyperic-sigar-java/stable 1.6.4+dfsg-8 arm64
+  System Information Gatherer And Reporter - Java bindings
+
+libima-dbi-perl/stable 0.35-3 all
+  module for database connection caching and organization
+
+libjs-vue-router/stable 3.6.5~ds1-1 all
+  official router for Vue.js
+
+libkeepalive0/stable 0.3-2 arm64
+  enable tcp keepalive support in programs using shared libraries
+
+liblwipv6-2t64/stable 1.5a-10 arm64
+  User level (lightweight) TCP/IP stack with IPv6 support
+
+liblwipv6-dev/stable 1.5a-10 arm64
+  Development files for the LWIPv6 library
+
+liblwp-protocol-psgi-perl/stable 0.11-2 all
+  override LWP's HTTP/HTTPS backend with your own PSGI application
+
+libmason-plugin-routersimple-perl/stable 0.07-2 all
+  Mason plugin to specify routes for page components with Router::Simple
+
+libminiupnpc-dev/stable 2.2.8-2+b2 arm64
+  UPnP IGD client lightweight library development files
+
+libminiupnpc18/stable 2.2.8-2+b2 arm64
+  UPnP IGD client lightweight library
+
+libmojolicious-perl/stable 9.39+dfsg-1 all
+  simple, yet powerful, Web Application Framework
+
+libmojolicious-plugin-openapi-perl/stable 5.11-1 all
+  OpenAPI/Swagger plugin for Mojolicious
+
+libnatpmp-dev/stable 20230423-1.2+b3 arm64
+  portable and fully compliant implementation of NAT-PMP (dev files)
+
+libnatpmp1t64/stable 20230423-1.2+b3 arm64
+  portable and fully compliant implementation of NAT-PMP
+
+libnet-irr-perl/stable 0.10-1 all
+  perl interface to the Internet Route Registry daemon
+
+libnet-libdnet-perl/stable 0.990-1 arm64
+  interface to libdumbnet's low-level network functions
+
+libnet-libdnet6-perl/stable 0.28-2 all
+  module to add IPv6 support to Net::Libdnet
+
+libnet-rawip-perl/stable 0.25-4+b2 arm64
+  Perl interface to lowlevel TCP/IP
+
+libnet-route-perl/stable 0.02-4 all
+  portable interface to the routing table
+
+libnet-telnet-cisco-perl/stable 1.12-2 all
+  Additional functionality to automate Cisco management
+
+libnet-traceroute-perl/stable 1.15-3 all
+  traceroute(1) functionality in perl
+
+libnet-traceroute-pureperl-perl/stable 0.10-4 all
+  traceroute(1) functionality in perl via raw sockets
+
+libnet1/stable 1.3+dfsg-2 arm64
+  library for the construction and handling of network packets
+
+libnet1-dev/stable 1.3+dfsg-2 arm64
+  development files for libnet
+
+libnet1-doc/stable 1.3+dfsg-2 all
+  developers documentation files for libnet
+
+libnl-route-3-200/stable 3.7.0-2 arm64
+  library for dealing with netlink sockets - route interface
+
+libnl-route-3-dev/stable 3.7.0-2 arm64
+  development library and headers for libnl-route-3
+
+libpath-router-perl/stable 0.15-4 all
+  tool for routing paths
+
+libpcp-pmda-perl/stable 6.3.8-1 arm64
+  Performance Co-Pilot Domain Agent Perl module
+
+libpcp-pmda3/stable 6.3.8-1 arm64
+  Performance Co-Pilot Domain Agent library
+
+libpcp-pmda3-dev/stable 6.3.8-1 arm64
+  Performance Co-Pilot Domain Agent library and headers
+
+libqpid-proton-cpp12/stable 0.37.0-6 arm64
+  C++ libraries for Qpid Proton
+
+libqpid-proton-cpp12-dev/stable 0.37.0-6 arm64
+  C++ Development libraries for writing messaging apps with Qpid Proton
+
+libqpid-proton-cpp12-dev-doc/stable 0.37.0-6 all
+  C++ developer documentation for Qpid Proton
+
+libqpid-proton11/stable 0.37.0-6 arm64
+  C libraries for Qpid Proton
+
+libqpid-proton11-dev/stable 0.37.0-6 arm64
+  C Development libraries for writing messaging apps with Qpid Proton
+
+libqpid-proton11-dev-doc/stable 0.37.0-6 all
+  Developer documentation for Qpid Proton
+
+libqpid-proton11-dev-examples/stable 0.37.0-6 all
+  Example applications for writign messaging apps with Qpid Proton
+
+libqrtr-dev/stable 1.1-2+b1 arm64
+  Userspace reference for QRTR -- development files
+
+libqrtr-glib-dev/stable 1.2.2-1+b2 arm64
+  Development files for libqrtr-glib
+
+libqrtr-glib-doc/stable 1.2.2-1 all
+  API documentation for libqrtr-glib
+
+libqrtr-glib0/stable 1.2.2-1+b2 arm64
+  Support library to use the QRTR protocol
+
+libqrtr1/stable 1.1-2+b1 arm64
+  Userspace reference for QRTR -- shared libraries
+
+librouter-simple-perl/stable 0.17-3 all
+  simple HTTP router for web applications
+
+libroutino-dev/stable 3.4.3-1 arm64
+  Routino library development headers
+
+libroutino-slim0/stable 3.4.3-1 arm64
+  Routino slim routing library
+
+libroutino0/stable 3.4.3-1 arm64
+  Routino routing library
+
+librtr-dev/stable 0.8.0-1.1+b1 arm64
+  Small extensible RPKI-RTR-Client C library - development files
+
+librtr-doc/stable 0.8.0-1.1 all
+  Small extensible RPKI-RTR-Client C library - documentation
+
+librtr0t64/stable 0.8.0-1.1+b1 arm64
+  Small extensible RPKI-RTR-Client C library
+
+librust-actix-router-dev/stable 0.5.3-3 arm64
+  Resource path matching and router - Rust source code
+
+librust-axum-core-dev/stable 0.4.5+0.7.9-13 all
+  core types and traits for the web framework axum - Rust source code
+
+librust-axum-dev/stable 0.7.9-13 all
+  ergonomic and modular web framework - Rust source code
+
+librust-axum-extra-dev/stable 0.9.6+0.7.9-13 all
+  extra utilities for the web framework axum - Rust source code
+
+librust-axum-macros-dev/stable 0.4.2+0.7.9-13 all
+  macros for the web framework axum - Rust source code
+
+librust-console-log-dev/stable 1.0.0-1+b3 arm64
+  Logging facility that routes Rust log messages to the browser's console - Rust source code
+
+librust-log-reroute-dev/stable 0.1.8-1+b2 arm64
+  Support to change logging target for the log crate - Rust source code
+
+librust-matchit-dev/stable 0.7.3-2+b2 arm64
+  High performance, zero-copy URL router - Rust source code
+
+librust-netlink-packet-route-0.19-dev/stable 0.19.0-4 arm64
+  Netlink packet types - Rust source code
+
+librust-netlink-packet-route-dev/stable 0.21.0-4 arm64
+  Netlink packet types - Rust source code
+
+librust-route-recognizer-dev/stable 0.3.1-1+b3 arm64
+  Recognizes URL patterns with support for dynamic and wildcard segments - Rust source code
+
+libscamperfile0-dev/stable 20211212-1.2+b1 arm64
+  development headers for scamper's binary dump file access library
+
+libscamperfile0t64/stable 20211212-1.2+b1 arm64
+  file access library for scamper's binary dump format
+
+libsnmp-session-perl/stable 1.16-1 all
+  Perl support for accessing SNMP-aware devices
+
+libstrongswan/stable 6.0.1-6+deb13u6 arm64
+  strongSwan utility and crypto library
+
+libtest-lwp-useragent-perl/stable 0.036-1 all
+  module for simulating and testing network calls
+
+libtrapperkeeper-comidi-metrics-clojure/stable 0.1.2-2 all
+  ring middleware to automatically track metrics for requests
+
+libuecc0/stable 7-6 arm64
+  very small Elliptic Curve Cryptography library
+
+libunirest-java-java/stable 1.4.8-3 all
+  Simplified, lightweight HTTP client library
+
+libwiretap-dev/stable 4.4.16-0+deb13u1 arm64
+  network packet capture library -- development files
+
+libwiretap15/stable 4.4.16-0+deb13u1 arm64
+  network packet capture library -- shared library
+
+libxml-stream-perl/stable 1.24-5 all
+  module for manipulating streaming XML data
+
+libyang-dev/stable 3.12.2-1 arm64
+  parser toolkit for IETF YANG data modeling language (development)
+
+libyang3/stable 3.12.2-1 arm64
+  parser toolkit for IETF YANG data modeling language (library)
+
+libyang3-tools/stable 3.12.2-1 arm64
+  parser toolkit for IETF YANG data modeling language (tools)
+
+linssid/stable 3.6-10 arm64
+  graphical wireless scanner
+
+mactelnet-client/stable 0.6.1-1.1 arm64
+  Console tools for telneting and pinging via MAC addresses
+
+mactelnet-server/stable 0.6.1-1.1 arm64
+  Telnet daemon for accepting connections via MAC addresses
+
+miniupnpc/stable 2.2.8-2+b2 arm64
+  UPnP IGD client lightweight library client
+
+miniupnpd/stable 2.3.9-2+deb13u1 all
+  Lightweight UPnP IGD & PCP/NAT-PMP daemon
+
+miniupnpd-iptables/stable 2.3.9-2+deb13u1 arm64
+  Lightweight UPnP IGD & PCP/NAT-PMP daemon - legacy iptables backend
+
+miniupnpd-nftables/stable 2.3.9-2+deb13u1 arm64
+  Lightweight UPnP IGD & PCP/NAT-PMP daemon - nftables backend
+
+mkchromecast/stable 0.3.9~git20200902+db2964a-2.1 all
+  Cast your Linux audio or video to your Google Cast devices
+
+monitoring-plugins-contrib/stable 48.20250420 arm64
+  Plugins for nagios compatible monitoring systems
+
+mrtg/stable 2.17.10-13+deb13u1 arm64
+  Multi Router Traffic Grapher
+
+mrtg-contrib/stable 2.17.10-13+deb13u1 all
+  Multi Router Traffic Grapher (contributed files)
+
+mrtg-ping-probe/stable 2.2.0-5 all
+  Ping module for Multi Router Traffic Grapher
+
+mrtparse/stable 1.6-3 all
+  read and analyze the MRT format data (utilities)
+
+mtr/stable 0.95-1.1+b2 arm64
+  Full screen ncurses and X11 traceroute tool
+
+mtr-tiny/stable 0.95-1.1+b2 arm64
+  Full screen ncurses traceroute tool
+
+natpmpc/stable 20230423-1.2+b3 arm64
+  portable and fully compliant implementation of NAT-PMP (client)
+
+navit/stable 0.5.6+dfsg.1-4 arm64
+  Car navigation system with routing engine
+
+navit-data/stable 0.5.6+dfsg.1-4 all
+  Car navigation system with routing engine - data files
+
+navit-graphics-gtk-drawing-area/stable 0.5.6+dfsg.1-4 arm64
+  Car navigation system with routing engine - GTK+ graphic plugin
+
+navit-gui-gtk/stable 0.5.6+dfsg.1-4 arm64
+  Car navigation system with routing engine - GTK+ GUI
+
+navit-gui-internal/stable 0.5.6+dfsg.1-4 arm64
+  Car navigation system with routing engine - internal GUI
+
+ndisc6/stable 1.0.7-1+b1 arm64
+  IPv6 diagnostic tools
+
+net-tools/stable 2.10-1.3 arm64
+  NET-3 networking toolkit
+
+netmask/stable 2.4.4-4+b1 arm64
+  helps determine network masks
+
+netscript-2.4/stable 5.5.5+nmu3 all
+  Linux 2.4/2.6/3.x router/firewall/VM host network config system.
+
+netselect/stable 0.3.ds1-31 arm64
+  speed tester for choosing a fast network server
+
+netsniff-ng/stable 0.6.9-1 arm64
+  Linux network packet sniffer toolkit
+
+netstress/stable 1.2.0-11+b1 arm64
+  utility to stress and benchmark networks
+
+networking-bgpvpn-doc/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-MPLS VPN Extension - doc
+
+netwox/stable 5.39.0+dfsg-0.1 arm64
+  networking utilities
+
+netwox-doc/stable 5.39.0+dfsg-0.1 all
+  documentation for netwox toolbox
+
+neutron-bgp-dragent/stable 2:26.0.0-3 all
+  OpenStack Neutron Dynamic Routing - Agent
+
+neutron-dynamic-routing-common/stable 2:26.0.0-3 all
+  OpenStack Neutron Dynamic Routing - common files
+
+neutron-ha-tool/stable 0.1.0-3 all
+  additional command line utility for OpenStack Neutron HA operations
+
+neutron-vpnaas-vyatta-agent/stable 2:26.0.0-1 all
+  OpenStack virtual network service - VPNaaS Vyatta Agent
+
+nextpnr-ecp5/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Lattice ECP5
+
+nextpnr-ecp5-chipdb/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Lattice ECP5 -- chipdb files
+
+nextpnr-ecp5-qt/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Lattice ECP5 - with GUI
+
+nextpnr-generic/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Generic FPGAs
+
+nextpnr-gowin/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Gowin GW1N
+
+nextpnr-gowin-chipdb/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Gowin GW1N -- chipdb files
+
+nextpnr-gowin-qt/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Gowin GW1N - with GUI
+
+nextpnr-ice40/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Lattice iCE40
+
+nextpnr-ice40-chipdb/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Lattice iCE40 -- chipdb files
+
+nextpnr-ice40-qt/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Lattice iCE40 - with GUI
+
+nncp/stable 8.11.0-4+deb13u1 arm64
+  Secure store-and-forward files, mail, and commands
+
+node-parseurl/stable 1.3.3-2 all
+  parse a url with memoization
+
+node-route-recognizer/stable 0.3.4+git.20200411.3de84ec-7 all
+  library that matches paths against registered routes
+
+nzbget/stable 21.0+dfsg-4+b2 arm64
+  command-line based binary newsgrabber for nzb files
+
+openbgpd/stable 8.8-1 arm64
+  OpenBSD BGP daemon
+
+openoverlayrouter/stable 1.3.0+ds1-4+b1 arm64
+  deploy programmable overlay networks
+
+opensta/stable 0~20191111gitc018cb2+dfsg-1.1 arm64
+  Gate-level Static Timing Analyzer
+
+opensta-dev/stable 0~20191111gitc018cb2+dfsg-1.1 arm64
+  Gate-level Static Timing Analyzer - development files
+
+opentracker/stable 0.0~git20240622.c854b3d-2 arm64
+  Open and free bittorrent tracker
+
+opentracker-common/stable 0.0~git20240622.c854b3d-2 all
+  Open and free bittorrent tracker (common files)
+
+openvpn-auth-radius/stable 2.1-9+deb13u1 arm64
+  OpenVPN RADIUS authentication module
+
+parprouted/stable 0.70-4 arm64
+  transparent IP (Layer 3) proxy ARP bridging tool
+
+pcb-rnd/stable 3.1.6-1 arm64
+  Standard installation of pcb-rnd
+
+pcb-rnd-auto/stable 3.1.6-1 arm64
+  Autoroute and autoplace.
+
+pcp-import-mrtg2pcp/stable 6.3.8-1 all
+  Tool for importing data from MRTG into PCP archive logs
+
+pd-unauthorized/stable 0.1-9 arm64
+  library of Pd objects for streaming and GUI control
+
+phonon-backend-gstreamer-common/stable 4:4.10.0-2+b3 arm64
+  Phonon GStreamer 1.0.x backend icons
+
+phonon4qt5-backend-gstreamer/stable 4:4.10.0-2+b3 arm64
+  Phonon Qt5 GStreamer 1.0 backend
+
+php-datto-json-rpc-http/stable 5.0.6-4 all
+  HTTP client and server for JSON-RPC 2.0
+
+php-illuminate-routing/stable 10.48.29+dfsg-1 all
+  Illuminate Routing library component for PHP
+
+php-nikic-fast-route/stable 1.3.0-6 all
+  Fast request router for PHP
+
+php-symfony-routing/stable 6.4.41+dfsg-0+deb13u1 all
+  associate a request with code that generates a response
+
+portsentry/stable 1.2-16 arm64
+  Portscan detection daemon
+
+ppp-gatekeeper/stable 0.1.0-201406111015-1.1 all
+  PPP manager for handling balanced, redundant and failover links
+
+prometheus-bird-exporter/stable 1.4.2+ds-2 arm64
+  Prometheus exporter for the BIRD routing daemon
+
+prometheus-mysqlrouter-exporter/stable 6.0.0-4+b4 arm64
+  Prometheus exporter for MySQL Router (program)
+
+python-bottle-doc/stable 0.13.2-1.1 all
+  fast and simple WSGI-framework for Python - documentation
+
+python-certbot-dns-route53-doc/stable 4.0.0-1 all
+  Documentation for the Route53 DNS plugin for Certbot
+
+python-django-pgschemas-doc/stable 1.0.1-1 all
+  Django multi-tenancy using PostgreSQL schemas (Documentation)
+
+python-flask-doc/stable 3.1.1-1 all
+  micro web framework based on Werkzeug and Jinja2 - documentation
+
+python-flask-httpauth-doc/stable 4.8.0-1 all
+  Basic and Digest HTTP authentication for Flask (documentation)
+
+python-flask-limiter-doc/stable 3.12-1 all
+  Rate-limiting for Flask routes - Documentation
+
+python-iptables-doc/stable 1.0.1-4 all
+  documentation for the python-iptables library
+
+python-pyroute2-doc/stable 0.7.7-4 all
+  netlink and Linux network configuration library (documentation)
+
+python-qpid-proton-doc/stable 0.37.0-6 all
+  Documentation for the Python language bindings for Qpid Proton
+
+python-respx-doc/stable 0.22.0-3 all
+  Documentation for python-respx
+
+python3-aioasuswrt/stable 1.4.0-2 all
+  API wrapper for Asuswrt
+
+python3-aiohttp-fast-url-dispatcher/stable 0.3.1-3 all
+  Enhanced URL dispatcher for aiohttp for improved performance
+
+python3-aiohttp-openmetrics/stable 0.0.11-1 all
+  OpenMetrics provider for aiohttp
+
+python3-aiovodafone/stable 0.9.0-1.1 all
+  library to control Vodafone Station
+
+python3-aresponses/stable 3.0.0-2 all
+  Asyncio testing server for mocking external services
+
+python3-asgi-csrf/stable 0.11-2 all
+  ASGI middleware for protecting against CSRF attacks
+
+python3-bottle/stable 0.13.2-1.1 all
+  fast and simple WSGI-framework for Python 3
+
+python3-bottle-sqlite/stable 0.2.0-4+deb13u1 all
+  SQLite3 integration for Bottle - Python 3.x
+
+python3-certbot-dns-route53/stable 4.0.0-1 all
+  Route53 DNS plugin for Certbot
+
+python3-cherrypy3/stable 18.10.0-1 all
+  Python web development framework - Python 3 module
+
+python3-django-pgschemas/stable 1.0.1-1 all
+  Django multi-tenancy using PostgreSQL schemas (Python3 version)
+
+python3-djangorestframework-extensions/stable 0.7.1-6 all
+  custom extensions for Django REST framework (Python3 version)
+
+python3-exabgp/stable 4.2.25-1 all
+  BGP swiss army knife of networking - Python 3 module
+
+python3-flask/stable 3.1.1-1 all
+  micro web framework based on Werkzeug and Jinja2 - Python 3.x
+
+python3-flask-httpauth/stable 4.8.0-1 all
+  Basic and Digest HTTP authentication for Flask (Python 3)
+
+python3-flask-limiter/stable 3.12-1 all
+  Rate-limiting for Flask routes
+
+python3-fritzconnection/stable 1.14.0-3 all
+  Communicate with the AVM FRITZ!Box router using TR-064 and HTTP protocols
+
+python3-icmplib/stable 2.1.1-3 all
+  forge ICMP packets and make your own ping and traceroute
+
+python3-iptables/stable 1.0.1-4+b1 arm64
+  Python bindings for iptables (Python 3 interface)
+
+python3-kgb/stable 7.2-1 all
+  Utilities for spying on function calls in Python unit tests
+
+python3-libnatpmp/stable 20230423-1.2+b3 arm64
+  portable and fully compliant implementation of NAT-PMP (Python 3 bindings)
+
+python3-librouteros/stable 3.4.1-1 all
+  Python implementation of RouterOS API
+
+python3-miniupnpc/stable 2.2.8-2+b2 arm64
+  UPnP IGD client lightweight library Python 3 bindings
+
+python3-mistralclient/stable 1:5.4.0-2 all
+  OpenStack Workflow as a Service client - Python 3.x
+
+python3-mrtparse/stable 1.6-3 all
+  read and analyze the MRT format data (Python 3.x module)
+
+python3-ndms2-client/stable 0.1.3-3 all
+  Client library for Keenetic NDMS routers
+
+python3-networking-bgpvpn/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-MPLS VPN Extension - Python 3.x
+
+python3-neutron-dynamic-routing/stable 2:26.0.0-3 all
+  OpenStack Neutron Dynamic Routing - Python library
+
+python3-nextbusnext/stable 2.3.0-1 all
+  Python client for accessing real-time transit data from the NextBus API
+
+python3-opendata-transport/stable 0.5.0-1 all
+  API client for Swiss public transport data
+
+python3-pyasuswrt/stable 0.1.21-2 all
+  API wrapper for communication with ASUSWRT-powered routers
+
+python3-pygti/stable 0.10.0-1 all
+  Access public transport information in Hamburg, Germany
+
+python3-pynetgear/stable 0.10.10-1.1 all
+  Access Netgear routers using their SOAP API
+
+python3-pyroute2/stable 0.7.7-4 all
+  Python3 Netlink library - full package
+
+python3-python-otbr-api/stable 2.7.0-1 all
+  Interact with an OpenThread Border Router (OTBR) via the REST API
+
+python3-pytrafikverket/stable 1.1.1-1 all
+  Retrieve data from the Swedish Trafikverket API
+
+python3-qpid-proton/stable 0.37.0-6 arm64
+  language bindings for Qpid Proton messaging framework - Python 3.x
+
+python3-respx/stable 0.22.0-3 all
+  Utility for mocking out the Python HTTPX and HTTP Core libraries
+
+python3-routes/stable 2.5.1-7 all
+  Routing Recognition and Generation Tools for Python 3
+
+python3-scrapli/stable 2023.7.30-3 all
+  sync/async screen scraping client specifically for network devices
+
+python3-starlette/stable 0.46.1-3+deb13u2 all
+  ASGI library ideal for building high performance asyncio services
+
+python3-xstatic-angular-ui-router/stable 0.3.1.2-5 all
+  Angular UI router XStatic support
+
+qmidiroute/stable 0.4.0-2+b2 arm64
+  MIDI event router and filter
+
+qrtr-tools/stable 1.1-2+b1 arm64
+  Userspace reference for QRTR -- tools and services
+
+quickroute-gps/stable 2.5-1 arm64
+  GPS analysis software for getting your route on the map
+
+radvd/stable 1:2.20-1 arm64
+  Router Advertisement Daemon
+
+radvdump/stable 1:2.20-1 arm64
+  dumps Router Advertisements
+
+rancid/stable 3.14-1 arm64
+  Really Awesome New Cisco confIg Differ
+
+rancid-cgi/stable 3.14-1 all
+  looking glass CGI based on rancid tools
+
+resource-agents/stable 1:4.16.0-3+deb13u2 arm64
+  Cluster Resource Agents
+
+ripe-atlas-tools/stable 3.1.0-0.1 all
+  command-line interface for RIPE Atlas
+
+ripe-atlas-tools-doc/stable 3.1.0-0.1 all
+  command-line interface for RIPE Atlas (documentation)
+
+route-rnd/stable 0.9.3-1 arm64
+  external autorouter for pcb-rnd
+
+routino/stable 3.4.3-1 arm64
+  Set of tools to find a path between two points
+
+routino-common/stable 3.4.3-1 all
+  Routino data
+
+routino-www/stable 3.4.3-1 all
+  Web frontend for routino
+
+rpki-trust-anchors/stable 20250116-1 all
+  RPKI Trust Anchor Locators
+
+ruby-actionmailbox/stable 2:7.2.2.2+dfsg-2~deb13u1 all
+  receive and process incoming emails (part of Rails)
+
+ruby-journey/stable 1.0.4-2.1 all
+  Journey is a router for Ruby on Rails
+
+ruby-sinatra-contrib/stable 4.1.1-5 all
+  collection of useful extensions to the Sinatra web framework
+
+scamper/stable 20211212-1.2+b1 arm64
+  parallel Internet measurement utility
+
+selektor/stable 3.13.73-1 all
+  Tor exit node selector and traffic router
+
+ser2net/stable 4.6.4-1 arm64
+  Serial port to network proxy
+
+shorewall/stable 5.2.8-6 all
+  Shoreline Firewall, netfilter configurator
+
+shorewall-lite/stable 5.2.8-6 all
+  Shorewall (lite version), a high-level tool for configuring Netfilter
+
+shorewall6/stable 5.2.8-6 all
+  Shoreline Firewall (IPv6 version), netfilter configurator
+
+shorewall6-lite/stable 5.2.8-6 all
+  Shorewall (lite version with IPv6 support)
+
+smcroute/stable 2.5.7-1+b1 arm64
+  static multicast router daemon
+
+spinner/stable 1.2.4-6+b1 arm64
+  Sends small packets over a idle link
+
+stayrtr/stable 0.6.2-1+deb13u1 arm64
+  RPKI to Router server
+
+strongswan-libcharon/stable 6.0.1-6+deb13u6 arm64
+  strongSwan charon library
+
+tcpreplay/stable 4.5.1-1 arm64
+  Tool to replay saved tcpdump files at arbitrary speeds
+
+tcptraceroute/stable 1.5beta7+debian-4.2 arm64
+  traceroute implementation using TCP packets
+
+texlive-lang-french/stable 2024.20250309-1 all
+  TeX Live: French
+
+thc-ipv6/stable 3.8-1+b3 arm64
+  The Hacker Choice's IPv6 Attack Toolkit
+
+tlsrouter/stable 0.0~git20231102.2862066-2+b8 arm64
+  Proxy TCP implementation written in golang (program)
+
+tor/stable 0.4.9.11-0+deb13u1 arm64
+  anonymizing overlay network for TCP
+
+traceroute/stable 1:2.1.6-1 arm64
+  Traces the route taken by packets over an IPv4/IPv6 network
+
+tractor/stable 5.1.0-1 all
+  Setup an onion routing proxy
+
+trippy/stable 0.12.2+dfsg-1 arm64
+  TUI network diagnostic tool
+
+tryton-modules-web-shortener/stable 7.0.0-3 all
+  Tryton application platform - web shortener module
+
+twinkle/stable 1:1.10.3+dfsg-1 arm64
+  Voice over Internet Protocol (VoIP) SIP Phone (GUI)
+
+twinkle-common/stable 1:1.10.3+dfsg-1 all
+  Voice over Internet Protocol (VoIP) SIP Phone (common files)
+
+twinkle-console/stable 1:1.10.3+dfsg-1 arm64
+  Voice over Internet Protocol (VoIP) SIP Phone (console)
+
+uif/stable 1.99.0-7 all
+  Advanced iptables-firewall script
+
+uwsgi-core/stable 2.0.28-9 arm64
+  fast, self-healing application container server (core)
+
+uwsgi-plugin-router-access/stable 2.0.28-9 arm64
+  Access router plugin for uWSGI
+
+veroroute/stable 2.38-1+b3 arm64
+  Veroboard, Perfboard, and PCB layout and routing application
+
+veroroute-data/stable 2.38-1 all
+  Veroboard, Perfboard, and PCB layout and routing application (data package)
+
+vlan/stable 2.0.5+nmu3 all
+  ifupdown legacy integration for vlan configuration
+
+vpcs/stable 0.5b2-2.2+b1 arm64
+  virtual PC simulator for Dynamips
+
+vpnc-scripts/stable 0.1~git20220510-1 all
+  Network configuration scripts for VPNC and OpenConnect
+
+wmnd-snmp/stable 0.4.18-2+b2 arm64
+  Dockapp monitoring network interfaces with SNMP support
+
+x42-plugins/stable 20240611+ds-1+b1 arm64
+  Collection of LV2 plugins
+
+xxdiff-scripts/stable 1:5.1+git20250320+dfsg-1 all
+  graphical file/directory comparison and merge tool - scripts
+
+zephyr-server/stable 3.1.2-1.1+b2 arm64
+  Project Athena's notification service - non-Kerberos server
+
+zephyr-server-krb5/stable 3.1.2-1.1+b2 arm64
+  The original "Instant Message" system-server with Kerberos 5
+
+zeroc-glacier2/stable 3.7.10-3.1 arm64
+  Glacier2 router
+

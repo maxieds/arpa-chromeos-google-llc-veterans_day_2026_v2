@@ -1,0 +1,269 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+acpi/stable 1.8-1 arm64
+  displays information on ACPI devices
+
+acpid/stable 1:2.0.34-1+b2 arm64
+  Advanced Configuration and Power Interface event daemon
+
+acpitool/stable 0.5.1-7+b1 arm64
+  command line ACPI client
+
+awesome-extra/stable 2023010601 all
+  additional modules for awesome
+
+batalert/stable 0.4.0-1 all
+  Battery notifications/alerts for your favorite WM!
+
+batmon.app/stable 0.9-4+b2 arm64
+  Battery monitor for GNUstep
+
+battery-stats/stable 0.5.6-2.1 arm64
+  collects statistics about charge of laptop batteries
+
+btop/stable 1.3.2-0.1 arm64
+  Modern and colorful command line resource monitor that shows usage and stats
+
+btrfsd/stable 0.2.2-1+b1 arm64
+  Tiny Btrfs maintenance daemon
+
+bumblebee/stable 3.2.1-32 arm64
+  NVIDIA Optimus support for Linux
+
+cairo-dock-powermanager-plug-in/stable 3.5.1-1 arm64
+  Powermanager plug-in for Cairo-dock
+
+cbatticon/stable 1.6.9-1+b3 arm64
+  lightweight and fast battery icon status and more
+
+chiark-tcl-applet/stable 1.0-2 all
+  Tray widget for battery monitor and other X11 programs
+
+chiark-utils-bin/stable 8.0.1 arm64
+  chiark system administration utilities
+
+collectd-core/stable 5.12.0-26 arm64
+  statistics collection and monitoring daemon (core system)
+
+fdpowermon/stable 1.20 all
+  simple battery power monitor for laptops with ACPI
+
+gir1.2-matepanelapplet-4.0/stable 1.27.1-4.1 arm64
+  GObject introspection data for MATE panel
+
+gkrellm-thinkbat/stable 0.2.3-1 arm64
+  ThinkPad laptops battery status indicator for GKrellM
+
+gnome-applets/stable 3.56.0-1 arm64
+  Various applets for the GNOME panel - binary files
+
+gnome-panel/stable 3.56.0-1 arm64
+  traditional panel, used in GNOME Flashback
+
+gnome-power-manager/stable 43.0-4+b1 arm64
+  power management tool for the GNOME desktop
+
+golang-github-jouyouyun-hardware-dev/stable 0.1.8-1 all
+  Golang Library for Get hardware info
+
+i3blocks/stable 1.4-4+b2 arm64
+  highly flexible status line for the i3 window manager
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+kacpimon/stable 1:2.0.34-1+b2 arm64
+  Kernel ACPI Event Monitor
+
+laptop-mode-tools/stable 1.74-1.4 all
+  Tools for Power Savings based on battery/AC status
+
+libacpi-dev/stable 0.2-7+b1 arm64
+  development files for libacpi
+
+libacpi0/stable 0.2-7+b1 arm64
+  general purpose library for ACPI
+
+libbatterycontrol6/stable 4:6.3.6-2 arm64
+  Plasma Workspace battery control library
+
+libdieharder-dev/stable 3.31.1.4-1.1+b1 arm64
+  Random-number generator test library -- development package
+
+libdieharder3t64/stable 3.31.1.4-1.1+b1 arm64
+  Random-number generator test library
+
+libmate-panel-applet-4-1/stable 1.27.1-4.1 arm64
+  library for MATE Panel applets
+
+libmate-panel-applet-dev/stable 1.27.1-4.1 arm64
+  library for MATE Panel applets (development files)
+
+libmate-panel-applet-doc/stable 1.27.1-4.1 all
+  library for MATE Panel applets (documentation files)
+
+librust-starship-battery-dev/stable 0.10.0-1 arm64
+  Cross-platform information about the notebook batteries - Rust source code
+
+livi/stable 0.3.1-1 arm64
+  Minimalistic video player targeting mobile devices
+
+mate-indicator-applet/stable 1.26.0-1+b2 arm64
+  MATE panel indicator applet
+
+mate-indicator-applet-common/stable 1.26.0-1 all
+  MATE panel indicator applet (common files)
+
+mate-panel/stable 1.27.1-4.1 arm64
+  launcher and docking facility for MATE
+
+mate-panel-common/stable 1.27.1-4.1 all
+  launcher and docking facility for MATE (common files)
+
+mate-power-manager/stable 1.26.1-1.1 arm64
+  power management tool for the MATE desktop
+
+mate-power-manager-common/stable 1.26.1-1.1 all
+  power management tool for the MATE desktop (common files)
+
+musescore/stable 2.3.2+dfsg4-16 arm64
+  cross-platform multi-lingual music composition and notation, v2
+
+musescore3/stable 3.2.3+dfsg2-19 arm64
+  cross-platform multi-lingual music composition and notation, v3
+
+php-symfony-mercure/stable 0.6.5-3 all
+  publisher part of the Mercure Protocol
+
+php-symfony-mercure-bundle/stable 0.3.9-1 all
+  Mercure Component integration
+
+pocket-reform-handbook/stable 2025-03-16+dfsg-2 all
+  MNT Pocket Reform Operator Handbook
+
+power-calibrate/stable 0.01.37-1+b1 arm64
+  processor power calibration tool
+
+powerdevil/stable 4:6.3.6-1 arm64
+  KDE power management service for Plasma
+
+powermgmt-base/stable 1.38 all
+  common utils for power management
+
+powerstat/stable 0.04.05-1 arm64
+  laptop power measuring tool
+
+powersupply-gtk/stable 0.9.0-2 all
+  Graphical power status tool for Linux mobile devices
+
+prosody-modules/stable 0.0~hg20250402.f315edc39f3d+dfsg-2 all
+  Selection of community modules for Prosody
+
+python3-elgato/stable 5.1.2-2 all
+  Library for controlling and monitoring Elgato Light devices
+
+python3-goalzero/stable 0.2.2-2 all
+  Library for interacting with Goal Zero Yeti devices via REST API
+
+python3-legion-linux/stable 0.0.20+ds-1 all
+  CLI and GUI for Lenovo Legion laptops fan and power control
+
+python3-ondilo/stable 0.5.0-1.1 all
+  Client to access Ondilo ICO APIs
+
+python3-oralb-ble/stable 0.18.0-3 all
+  Bluetooth library for Oral-B devices
+
+python3-power/stable 1.4+dfsg-6 all
+  Python module to get power and battery status (Python 3)
+
+python3-py-dormakaba-dkey/stable 1.0.5-2 all
+  Library to interact with Dormakaba dKey locks via Bluetooth
+
+python3-pyaarlo/stable 0.8.0.15-1 all
+  Module for Python 3 that provides asynchronous access to Netgear Arlo cameras
+
+python3-pybotvac/stable 0.0.28-1 all
+  Library for controlling Neato Botvac Connected vacuum robots
+
+python3-pyfritzhome/stable 0.6.17-1 all
+  Python library for managing AVM Fritz!Box Smart Home devices
+
+python3-pyrituals/stable 0.0.6-2 all
+  Async library for interacting with Rituals Perfume Genie devices
+
+python3-pyschlage/stable 2025.4.0-1 all
+  Library for controlling Schlage Wi-Fi locks via cloud API
+
+python3-pysma/stable 0.7.5-1.1 all
+  Library to interface with an SMA Solar WebConnect module
+
+python3-pytedee-async/stable 0.2.20-2 all
+  Tedee lock client package for asynchronous operations
+
+python3-python-fullykiosk/stable 0.0.14-2 all
+  Python library for Fully Kiosk Browser's REST API
+
+python3-renault-api/stable 0.3.1-1 all
+  Python library for interacting with the Renault API
+
+python3-romy/stable 0.0.10-2 all
+  Library to control Wi-Fi enabled ROMY vacuum cleaners
+
+python3-tesla-powerwall/stable 0.5.2-2 all
+  Library for interacting with Tesla Powerwall energy storage systems
+
+python3-zombie-telnetlib/stable 1.001 all
+  copy of telnetlib that was removed from Python standard library
+
+reform-handbook/stable 2025-04-30+dfsg-2 all
+  MNT Reform Operator Handbook
+
+reform2-lpc-dkms/stable 1.71-2+deb13u1 all
+  dkms driver sources for Reform 2 LPC11U24
+
+solaar/stable 1.1.14-4 all
+  Logitech Unifying Receiver peripherals manager for Linux
+
+t2n/stable 0.7-2+b1 arm64
+  Simple command-line tool for LEGO Mindstorms NXT
+
+tint2/stable 17.0.1-1.2 arm64
+  lightweight taskbar
+
+tlp/stable 1.8.0-1 all
+  Optimize laptop battery life
+
+waybar/stable 0.12.0-1 arm64
+  Highly customizable Wayland bar for Sway and Wlroots based compositors
+
+wmacpi/stable 2.4-2+b2 arm64
+  ACPI battery monitor for WindowMaker
+
+wmbattery/stable 2.56-1+b2 arm64
+  display laptop battery info, dockable in WindowMaker
+
+xfce4-battery-plugin/stable 1.1.5-1+b3 arm64
+  battery monitor plugin for the Xfce4 panel
+
+xfce4-goodies/stable 4.20.0 arm64
+  enhancements for the Xfce4 Desktop Environment
+
+xfce4-power-manager/stable 4.20.0-1 arm64
+  power manager for Xfce desktop
+
+xfce4-power-manager-data/stable 4.20.0-1 all
+  power manager for Xfce desktop, arch-indep files
+
+xfce4-power-manager-plugins/stable 4.20.0-1 arm64
+  power manager plugins for Xfce panel
+
+xkcdpass/stable 1.19.9+dfsg1-1 all
+  secure passphrase generator inspired by XKCD 936
+
+yambar/stable 1.11.0-1+b1 arm64
+  Lightweight and configurable status panel
+

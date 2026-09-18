@@ -1,0 +1,1388 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+acr/stable 2.2.0-1 all
+  autoconf like tool
+
+amanda-client/stable 1:3.5.4-2 arm64
+  Advanced Maryland Automatic Network Disk Archiver (Client)
+
+amanda-server/stable 1:3.5.4-2 arm64
+  Advanced Maryland Automatic Network Disk Archiver (Server)
+
+arch-test/stable 0.22-1 all
+  detect architectures supported by your machine/kernel
+
+arp-scan/stable 1.10.0-2+b2 arm64
+  arp scanning and fingerprinting tool
+
+bittwist/stable 4.7+ds-2 arm64
+  libpcap based Ethernet packet generator
+
+bmake/stable 20200710-17 arm64
+  NetBSD make
+
+bochs/stable 3.0+dfsg-1 arm64
+  IA-32 PC emulator
+
+bsd-mailx/stable 8.1.2-0.20220412cvs-1.1 arm64
+  simple mail user agent
+
+bsdextrautils/stable 2.41-5 arm64
+  extra utilities from 4.4BSD-Lite
+
+bsdgames/stable 2.17-35 arm64
+  collection of classic textual unix games
+
+bsdiff/stable 4.3-23+b1 arm64
+  generate/apply a patch between two binary files
+
+bsdmainutils/stable 12.1.8 all
+  Transitional package for more utilities from FreeBSD
+
+bsdowl/stable 2.2.2-1.3 all
+  Universal portable build system written for BSD Make
+
+bsdutils/stable,now 1:2.41-5 arm64 [installed]
+  basic utilities from 4.4BSD-Lite
+
+cadaver/stable 0.26+dfsg-2 arm64
+  command-line WebDAV client
+
+calendar/stable 12.1.8+b1 arm64
+  display upcoming dates and provide reminders
+
+centreon-plugins/stable 0.0~20250303+dfsg-1 all
+  Collection of Nagios plugins to monitor OS, services and network devices
+
+cl-hunchentoot/stable 1.2.38-1.1 all
+  Common Lisp web server formerly known as TBNL
+
+cl-salza2/stable 2.0.9-1.1 all
+  Create compressed data from Common Lisp
+
+cl-zs3/stable 1.3.1-1.1 all
+  Amazon S3 and CloudFront from Common Lisp
+
+corekeeper/stable 1.7 arm64
+  enable core files and report crashes to the sysadmin
+
+cowsay/stable 3.03+dfsg2-8 all
+  configurable talking cow
+
+cowsay-off/stable 3.03+dfsg2-8 all
+  configurable talking cow (offensive cows)
+
+cpuinfo/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (binary utilities)
+
+crosshurd/stable 1.7.64 all
+  Install a Debian system
+
+csh/stable 20240808-2 arm64
+  Shell with C-like syntax
+
+cups-bsd/stable,now 2.4.10-3+deb13u2 arm64 [installed,automatic]
+  Common UNIX Printing System(tm) - BSD commands
+
+cwm/stable 7.1-1+b1 arm64
+  lightweight and efficient window manager for X11
+
+deskflow/stable 1.22.0+dfsg-7 arm64
+  Mouse and keyboard sharing utility
+
+devscripts/stable 2.25.15+deb13u1 all
+  scripts to make the life of a Debian Package maintainer easier
+
+disktype/stable 9-13 arm64
+  detection of content format of a disk or disk image
+
+drogon/stable 1.9.0+ds-1+b1 arm64
+  C++14/17-based HTTP application framework
+
+dump/stable 0.4b49-2 arm64
+  backup and restore for ext2/3/4 filesystems
+
+elvish/stable 0.21.0-2+b7 arm64
+  Powerful scripting language & versatile interactive shell
+
+enum/stable 1.1-2 arm64
+  seq- and jot-like enumerator
+
+fische/stable 3.2.2-7+b2 arm64
+  stand-alone sound visualisation for Linux
+
+forensics-extra/stable 2.58 all
+  Forensics Environment - extra console components (metapackage)
+
+fortunate.app/stable 3.1-5+b2 arm64
+  Display a quotation (fortune) in a window for GNUstep
+
+fpart/stable 1.7.0-1 arm64
+  sort file trees and pack them into bags
+
+freebsd-manpages/stable 12.2-2 all
+  Manual pages for a GNU/kFreeBSD system
+
+fswatch/stable 1.14.0+repack-13.1+b2 arm64
+  file change monitor based on inotify
+
+funcoeszz/stable 21.1-1 all
+  script with 170+ useful mini applications
+
+fwanalog/stable 0.6.9-11 all
+  firewall log-file report generator (using analog)
+
+gdisk/stable 1.0.10-2+b1 arm64
+  GPT fdisk text-mode partitioning tool
+
+glances/stable 4.3.1+dfsg-1 all
+  Curses-based monitoring tool
+
+glhack/stable 1.2-8 arm64
+  Fullscreen SDL/OpenGL version of NetHack
+
+gnome-robots/stable 1:41.2-2 arm64
+  improved old BSD robots game
+
+golang-github-bmatsuo-lmdb-go-dev/stable 1.8.0+git20170215.a14b5a3-4 all
+  Bindings for the LMDB C library
+
+golang-github-cli-browser-dev/stable 1.3.0-1 all
+  helpers to open URLs, files, or readers in a web browser (Go library)
+
+golang-github-daaku-go.zipexe-dev/stable 1.0.1-2 all
+  zipexe attempts to open an executable binary file as a zip file
+
+golang-github-danwakefield-fnmatch-dev/stable 0.0~git20160403.cbb64ac-3 all
+  Updated clone of kballard’s fnmatch(3) implementation for Go
+
+golang-github-denisbrodbeck-machineid-dev/stable 1.0.1-2 all
+  Get the unique machine id of any host (Go library)
+
+golang-github-google-logger-dev/stable 1.1.1-2 all
+  Cross platform Go logging library (library)
+
+golang-github-kr-binarydist-dev/stable 0.1.0-1 all
+  Go implementation of the bspatch algorithm
+
+golang-github-mdlayher-socket-dev/stable 0.5.1-1 all
+  low-level network connection type to provide asynchronous I/O (library)
+
+golang-github-mkrautz-goar-dev/stable 0.0~git20150919.282caa8-1.1 all
+  library for reading and writing ar archives in Go
+
+golang-github-nebulouslabs-fastrand-dev/stable 0.0~git20170512.60b6156-1 all
+  10x faster than crypto/rand
+
+golang-github-pkg-xattr-dev/stable 0.4.10-1 all
+  Extended attribute support for Go
+
+golang-github-riywo-loginshell-dev/stable 0.0~git20190610.2ed199a-3 all
+  Golang library to get the login shell of the current user
+
+golang-github-shibukawa-configdir-dev/stable 0.0~git20170330.e180dbd-1.1 all
+  multi platform library of configuration directories for Golang
+
+golang-github-suapapa-go-eddystone-dev/stable 1.3.1-1 all
+  golang library for supporting Eddystone
+
+golang-github-tklauser-go-sysconf-dev/stable 0.3.11-1 all
+  sysconf for Go, without using cgo (library)
+
+golang-github-tklauser-numcpus-dev/stable 0.3.0-2 all
+  Go module to get the number of CPUs (library)
+
+golang-github-zalando-go-keyring-dev/stable 0.2.4-1 all
+  Cross-platform keyring interface for Go (library)
+
+gpart/stable 1:0.3-10+b1 arm64
+  Guess PC disk partition table, find lost partitions
+
+gwenhywfar-tools/stable 5.12.0-1 arm64
+  helper applications for Gwenhywfar library
+
+gxemul/stable 0.7.0+dfsg-2 arm64
+  machine emulator for multiple architectures
+
+hashcat/stable 6.2.6+ds2-1+b1 arm64
+  World's fastest and most advanced password recovery utility
+
+hibiscus/stable 2.10.24+dfsg-1 all
+  Java online banking client using the HBCI standard
+
+hibiscus-doc/stable 2.10.24+dfsg-1 all
+  Java online banking client using the HBCI standard - documentation package
+
+hostapd/stable 2:2.10-24 arm64
+  access point and authentication server for Wi-Fi and Ethernet
+
+ht/stable 2.1.0+repack1-5+b1 arm64
+  Viewer/editor/analyser (mostly) for executables
+
+ifhp/stable 3.5.20-20+b2 arm64
+  Printer filter for HP LaserJet printers
+
+istgt/stable 0.4~20111008-4+b3 arm64
+  iSCSI userspace target daemon for Unix-like operating systems
+
+jgmenu/stable 4.5.0-1 arm64
+  Simple X11 menu
+
+jgmenu-xfce4-panel-applet/stable 4.5.0-1 arm64
+  xfce4-panel applet for jgmenu
+
+junior-math/stable 1.32 all
+  Debian Jr. educational math
+
+kde-config-screenlocker/stable 6.3.5-1 arm64
+  KCM Module for kscreenlocker
+
+killbots/stable 4:25.04.0-1 arm64
+  port of the classic BSD console game robots
+
+kodi-vfs-libarchive/stable 21.0.2+ds-1 arm64
+  Libarchive VFS add-on for Kodi
+
+kscreenlocker-dev/stable 6.3.5-1 arm64
+  Development files for kscreenlocker
+
+lazarus/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - SDK dependency package
+
+lazarus-4.0/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - suite
+
+lazarus-doc/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - documentation dependency package
+
+lazarus-doc-4.0/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - documentation
+
+lazarus-ide/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - dependency package
+
+lazarus-ide-4.0/stable 4.0+dfsg-3+b1 arm64
+  IDE for Free Pascal - common IDE files
+
+lazarus-ide-gtk2/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - Last GTK+ version dependency package
+
+lazarus-ide-gtk2-4.0/stable 4.0+dfsg-3+b1 arm64
+  IDE for Free Pascal - GTK+ version
+
+lazarus-ide-qt5/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - Last Qt version dependency package
+
+lazarus-ide-qt5-4.0/stable 4.0+dfsg-3+b1 arm64
+  IDE for Free Pascal - Qt version
+
+lazarus-src/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - LCL source code dependency package
+
+lazarus-src-4.0/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - LCL source code
+
+lcl/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - LCL dependency package
+
+lcl-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - LCL suite
+
+lcl-gtk2/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - GTK+ backend dependency package
+
+lcl-gtk2-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - GTK+ backend
+
+lcl-nogui/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - no GUI backend dependency package
+
+lcl-nogui-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - no GUI backend
+
+lcl-qt5/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - Qt backend dependency package
+
+lcl-qt5-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - Qt backend
+
+lcl-units/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - backend independent components dependency package
+
+lcl-units-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - backend independent components
+
+lcl-utils/stable 4.0+dfsg-3 all
+  Lazarus Components Library - command line build tools dependency package
+
+lcl-utils-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - command line build tools
+
+lfortran/stable 0.45.0-1+b3 arm64
+  Modern interactive LLVM-based Fortran compiler
+
+libanet-dev/stable 0.5.1-4 arm64
+  Ada networking library (development)
+
+libanet0.4.3/stable 0.5.1-4 arm64
+  Ada networking library
+
+libao-common/stable 1.2.2+20180113-1.2 all
+  Cross Platform Audio Output Library (Common files)
+
+libao-dbg/stable 1.2.2+20180113-1.2 arm64
+  Cross Platform Audio Output Library Debug Symbols
+
+libao-dev/stable 1.2.2+20180113-1.2 arm64
+  Cross Platform Audio Output Library Development
+
+libao4/stable 1.2.2+20180113-1.2 arm64
+  Cross Platform Audio Output Library
+
+libarchive-dev/stable 3.7.4-4+deb13u1 arm64
+  Multi-format archive and compression library (development files)
+
+libarchive-tools/stable 3.7.4-4+deb13u1 arm64
+  FreeBSD implementations of 'tar' and 'cpio' and other archive tools
+
+libarchive13t64/stable,now 3.7.4-4+deb13u1 arm64 [installed,automatic]
+  Multi-format archive and compression library (shared library)
+
+libbacktrace-dev/stable 0.1-4 arm64
+  Backtrace library (for C/C++ apps)
+
+libbacktrace0/stable 0.1-4 arm64
+  Backtrace library (for C/C++ apps)
+
+libblis-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,32bit,meta)
+
+libblis-openmp-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,32bit,openmp)
+
+libblis-pthread-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,32bit,pthread)
+
+libblis-serial-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,32bit,serial)
+
+libblis4/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (32bit,meta)
+
+libblis4-openmp/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (32bit,openmp)
+
+libblis4-pthread/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (32bit,pthread)
+
+libblis4-serial/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (32bit,serial)
+
+libblis64-4/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (64bit,meta)
+
+libblis64-4-openmp/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (64bit,openmp)
+
+libblis64-4-pthread/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (64bit,pthread)
+
+libblis64-4-serial/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (64bit,serial)
+
+libblis64-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,64bit,meta)
+
+libblis64-openmp-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,64bit,openmp)
+
+libblis64-pthread-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,64bit,pthread)
+
+libblis64-serial-dev/stable 1.1-2 arm64
+  BLAS-like Library Instantiation Software Framework (dev,64bit,serial)
+
+libbsd-arc4random-perl/stable 1.50-8+b4 arm64
+  CPAN's BSD::arc4random -- Perl bindings for arc4random
+
+libbsd-dev/stable 0.12.2-2 arm64
+  utility functions from BSD systems - development files
+
+libbsd-resource-perl/stable 1.2911-2+b4 arm64
+  BSD process resource limit and priority functions
+
+libbsd0/stable,now 0.12.2-2 arm64 [installed,automatic]
+  utility functions from BSD systems - shared library
+
+libcapstone5/stable 5.0.7-1~deb13u1 arm64
+  lightweight multi-architecture disassembly framework - library
+
+libcpuinfo-dev/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (header file)
+
+libcpuinfo0/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (shared object)
+
+libcriterion-dev/stable 2.4.1-2+b3 arm64
+  cross-platform C and C++ unit testing framework (development files)
+
+libcriterion3/stable 2.4.1-2+b3 arm64
+  cross-platform C and C++ unit testing framework
+
+libcrypt-eksblowfish-perl/stable 0.009-3+b4 arm64
+  Perl module implementing the Eksblowfish block cipher
+
+libcrypt-passwdmd5-perl/stable 1.42-2 all
+  interoperable MD5-based crypt() for Perl
+
+libdisasm-dev/stable 0.23-7 arm64
+  disassembler library for x86 code (development files)
+
+libdisasm0/stable 0.23-7 arm64
+  disassembler library for x86 code
+
+libdrogon-dev/stable 1.9.0+ds-1+b1 arm64
+  C++14/17-based HTTP application framework development files
+
+libdrogon1t64/stable 1.9.0+ds-1+b1 arm64
+  C++14/17-based HTTP application framework library files
+
+libedit-dev/stable 3.1-20250104-1 arm64
+  BSD editline and history libraries (development files)
+
+libedit2/stable,now 3.1-20250104-1 arm64 [installed,automatic]
+  BSD editline and history libraries
+
+libeditreadline-dev/stable 3.1-20250104-1 arm64
+  BSD editline and history libraries (shim development files)
+
+libeinfo-dev/stable 0.56-1 arm64
+  dependency based service manager (pretty console display development)
+
+libeinfo1/stable 0.56-1 arm64
+  dependency based service manager (pretty console display library)
+
+liberfa-dev/stable 2.0.1-1+b2 arm64
+  Essential Routines for Fundamental Astronomy (development files)
+
+liberfa1/stable 2.0.1-1+b2 arm64
+  Essential Routines for Fundamental Astronomy
+
+libfilesys-notify-simple-perl/stable 0.14-3 all
+  simple file system monitor
+
+libghc-data-reify-dev/stable 0.6.3-6+b1 arm64
+  Reify a recursive data structure into an explicit graph.
+
+libghc-data-reify-doc/stable 0.6.3-6 all
+  Reify a recursive data structure into an explicit graph.; documentation
+
+libghc-data-reify-prof/stable 0.6.3-6+b1 arm64
+  Reify a recursive data structure into an explicit graph.; profiling libraries
+
+libghc-happstack-server-dev/stable 7.8.0.2-3+b1 arm64
+  Happstack web framework, HTTP server
+
+libghc-happstack-server-doc/stable 7.8.0.2-3 all
+  Happstack web framework, HTTP server; documentation
+
+libghc-happstack-server-prof/stable 7.8.0.2-3+b1 arm64
+  Happstack web framework, HTTP server; profiling libraries
+
+libghc-lukko-dev/stable 0.1.1.3-5+b1 arm64
+  file locking
+
+libghc-lukko-doc/stable 0.1.1.3-5 all
+  file locking; documentation
+
+libghc-lukko-prof/stable 0.1.1.3-5+b1 arm64
+  file locking; profiling libraries
+
+libghc-network-bsd-dev/stable 2.8.1.0-5+b1 arm64
+  POSIX network database netdb.h API
+
+libghc-network-bsd-doc/stable 2.8.1.0-5 all
+  POSIX network database netdb.h API; documentation
+
+libghc-network-bsd-prof/stable 2.8.1.0-5+b1 arm64
+  POSIX network database netdb.h API; profiling libraries
+
+libghc-sendfile-dev/stable 0.7.11.6-1+b1 arm64
+  Haskell portable sendfile library
+
+libghc-sendfile-doc/stable 0.7.11.6-1 all
+  Haskell portable sendfile library; documentation
+
+libghc-sendfile-prof/stable 0.7.11.6-1+b1 arm64
+  Haskell portable sendfile library; profiling libraries
+
+libgwengui-fox16-79t64/stable 5.12.0-1 arm64
+  Gwenhywfar GUI implementation for the FOX Toolkit
+
+libgwengui-fox16-dev/stable 5.12.0-1 arm64
+  Gwenhywfar GUI implementation for the FOX Toolkit (development files)
+
+libgwengui-gtk3-79t64/stable 5.12.0-1 arm64
+  Gwenhywfar GUI implementation for GTK3
+
+libgwengui-gtk3-dev/stable 5.12.0-1 arm64
+  Gwenhywfar GUI implementation for GTK3 (development files)
+
+libgwengui-qt5-79t64/stable 5.12.0-1 arm64
+  Gwenhywfar GUI implementation for Qt5
+
+libgwengui-qt5-dev/stable 5.12.0-1 arm64
+  Gwenhywfar GUI implementation for Qt 5 (development files)
+
+libgwenhywfar-core-dev/stable 5.12.0-1 arm64
+  OS abstraction layer (core development files)
+
+libgwenhywfar-data/stable 5.12.0-1 all
+  OS abstraction layer - data files
+
+libgwenhywfar-doc/stable 5.12.0-1 all
+  OS abstraction layer (API documentation)
+
+libgwenhywfar79t64/stable 5.12.0-1 arm64
+  OS abstraction layer
+
+libite-dev/stable 2.6.1-1 arm64
+  static library, header files, and docs for libite
+
+libite5t64/stable 2.6.1-1 arm64
+  That missing frog DNA you've been looking for
+
+libjbcrypt-java/stable 0.4-3 all
+  Java implementation of OpenBSD's Blowfish hashing
+
+libjline-java/stable 1.0-3 all
+  Java library for handling console input
+
+libjline-java-doc/stable 1.0-3 all
+  Java library for handling console input - documentation
+
+libjline2-java/stable 2.14.6-6 all
+  console input handling in Java
+
+libjline3-java/stable 3.3.1-4 all
+  Console input handling library
+
+libjsonparser-dev/stable 1.1.0-2+b2 arm64
+  Very low footprint JSON parser written in portable ANSI C - development headers
+
+libjsonparser1.1/stable 1.1.0-2+b2 arm64
+  Very low footprint JSON parser written in portable ANSI C
+
+libjzlib-java/stable 1.1.3-3 all
+  Java Zlib implementation
+
+libkscreenlocker6/stable 6.3.5-1 arm64
+  Secure lock screen architecture
+
+liblfortran-dev/stable 0.45.0-1+b3 arm64
+  flang library - Development package.
+
+liblfortran-runtime0/stable 0.45.0-1+b3 arm64
+  Runtime libraries for the lfortran compiler
+
+libltdl-dev/stable 2.5.4-4 arm64
+  System independent dlopen wrapper for GNU libtool (headers)
+
+libltdl7/stable,now 2.5.4-4 arm64 [installed,automatic]
+  System independent dlopen wrapper for GNU libtool
+
+libmaliit-glib-dev/stable 2.3.0-5+b1 arm64
+  Maliit Input Method Framework - GLib Development Headers
+
+libmaliit-glib2/stable 2.3.0-5+b1 arm64
+  Maliit Input Method Framework - GLib Bindings
+
+libmaliit-plugins2/stable 2.3.0-5+b1 arm64
+  Maliit Input Method Framework - Plugin Library
+
+libmandoc-dev/stable 1.14.6-4 arm64
+  BSD manpage compiler toolset - library
+
+libmd-dev/stable 1.1.0-2+b1 arm64
+  message digest functions from BSD systems - development files
+
+libmd0/stable,now 1.1.0-2+b1 arm64 [installed]
+  message digest functions from BSD systems - shared library
+
+libnatpmp-dev/stable 20230423-1.2+b3 arm64
+  portable and fully compliant implementation of NAT-PMP (dev files)
+
+libnatpmp1t64/stable 20230423-1.2+b3 arm64
+  portable and fully compliant implementation of NAT-PMP
+
+libnbcompat-dev/stable 20240319-1 arm64
+  NetBSD pkgsrc compatibility library
+
+libnet-patricia-perl/stable 1.23-1 arm64
+  Perl module for fast IP address lookups
+
+libnet-route-perl/stable 0.02-4 all
+  portable interface to the routing table
+
+libopenblas-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, meta)
+
+libopenblas-openmp-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, openmp)
+
+libopenblas-pthread-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, pthread)
+
+libopenblas-serial-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, serial)
+
+libopenblas0/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (meta)
+
+libopenblas0-openmp/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, openmp)
+
+libopenblas0-pthread/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, pthread)
+
+libopenblas0-serial/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, serial)
+
+libopenblas64-0/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, meta)
+
+libopenblas64-0-openmp/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, openmp)
+
+libopenblas64-0-pthread/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, pthread)
+
+libopenblas64-0-serial/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, serial)
+
+libopenblas64-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, meta)
+
+libopenblas64-openmp-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, openmp)
+
+libopenblas64-pthread-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, pthread)
+
+libopenblas64-serial-dev/stable 0.3.29+ds-3 arm64
+  Optimized BLAS (linear algebra) library (dev, 64bit, serial)
+
+libopenimageio-dev/stable 2.5.18.0+dfsg-1+b1 arm64
+  Library for reading and writing images - development
+
+libopenimageio-doc/stable 2.5.18.0+dfsg-1 all
+  Library for reading and writing images - documentation
+
+libopenimageio2.5/stable 2.5.18.0+dfsg-1+b1 arm64
+  Library for reading and writing images - runtime
+
+libpam-ufpidentity/stable 1.0-1.1+b1 arm64
+  PAM library for UFP identity
+
+libparse-dmidecode-perl/stable 0.03-4 all
+  interface to SMBIOS using dmidecode
+
+librc-dev/stable 0.56-1 arm64
+  dependency based service manager (runtime development)
+
+librc1t64/stable 0.56-1 arm64
+  dependency based service manager (runtime library)
+
+libreoffice/stable 4:25.2.3-2+deb13u6 arm64
+  office productivity suite (metapackage)
+
+librhash1/stable 1.4.5-1 arm64
+  shared library for hash functions computing
+
+librte-net25/stable 24.11.4-0+deb13u1 arm64
+  Data Plane Development Kit (librte-net runtime library)
+
+librust-exacl-dev/stable 0.10.0-4 arm64
+  Manipulate file system access control lists (ACL) on macOS, Linux, and FreeBSD - Rust source code
+
+librust-pidfile-rs-dev/stable 0.1.0-2+b2 arm64
+  Rust wrapper for pidfile_* functions from libbsd/libutil - Rust source code
+
+librust-pledge-dev/stable 0.3.1-1+b2 arm64
+  Rust binding to OpenBSD's pledge(2) interface - Rust source code
+
+librust-sys-info-dev/stable 0.9.1-7 arm64
+  Get system information in Rust - Rust source code
+
+librust-unveil-dev/stable 0.2.0-1+b2 arm64
+  Rust binding for OpenBSD's unveil(2) - Rust source code
+
+librust-utmp-classic-raw-dev/stable 0.1.3-1.1 arm64
+  Provides raw types for parsing login records in classic utmp (UNIXv1 & OpenBSD) file - Rust source code
+
+libsdbus-c++-bin/stable 2.1.0-1 arm64
+  High-level C++ D-Bus library for Linux in modern C++ (utilities)
+
+libsdbus-c++-dev/stable 2.1.0-1 arm64
+  High-level C++ D-Bus library for Linux in modern C++ (development files)
+
+libsdbus-c++-doc/stable 2.1.0-1 all
+  High-level C++ D-Bus library for Linux in modern C++ (documentation)
+
+libsdbus-c++2/stable 2.1.0-1 arm64
+  High-level C++ D-Bus library for Linux in modern C++ (library)
+
+libsde1t64/stable 7.1.0-5+b1 arm64
+  PAPI software defined events runtime (shared libraries)
+
+libsdl-gfx1.2-5/stable 2.0.25-12+b2 arm64
+  drawing and graphical effects extension for SDL
+
+libsdl-gfx1.2-dev/stable 2.0.25-12+b2 arm64
+  development files for SDL_gfx
+
+libsdl-gfx1.2-doc/stable 2.0.25-12 all
+  documentation files for SDL_gfx
+
+libsdl-image1.2/stable 1.2.12-14 arm64
+  Image loading library for Simple DirectMedia Layer 1.2, libraries
+
+libsdl-image1.2-dev/stable 1.2.12-14 arm64
+  Image loading library for Simple DirectMedia Layer 1.2, development files
+
+libsdl-kitchensink-dev/stable 1.0.12-1+b1 arm64
+  FFmpeg and SDL2 based library for audio and video playback - Development files
+
+libsdl-kitchensink1/stable 1.0.12-1+b1 arm64
+  FFmpeg and SDL2 based library for audio and video playback
+
+libsdl-mixer1.2/stable 1.2.12-19+b1 arm64
+  Mixer library for Simple DirectMedia Layer 1.2, libraries
+
+libsdl-mixer1.2-dev/stable 1.2.12-19+b1 arm64
+  Mixer library for Simple DirectMedia Layer 1.2, development files
+
+libsdl-net1.2/stable 1.2.8-6+b2 arm64
+  Network library for Simple DirectMedia Layer 1.2, libraries
+
+libsdl-net1.2-dev/stable 1.2.8-6+b2 arm64
+  Network library for Simple DirectMedia Layer 1.2, development files
+
+libsdl-pango-dev/stable 0.1.2-8+b3 arm64
+  text rendering with Pango in SDL applications (development)
+
+libsdl-pango1/stable 0.1.2-8+b3 arm64
+  text rendering with Pango in SDL applications (shared library)
+
+libsdl-perl/stable 2.548-5+b1 arm64
+  SDL bindings for the Perl language
+
+libsdl-sge/stable 030809dfsg-11+b3 arm64
+  extension of graphic functions for SDL multimedia libraries
+
+libsdl-sge-dev/stable 030809dfsg-11+b3 arm64
+  extension of graphic functions for the SDL multimedia, development files
+
+libsdl-sound1.2/stable 1.0.3-9+b5 arm64
+  Sound library for Simple DirectMedia Layer 1.2, libraries
+
+libsdl-sound1.2-dev/stable 1.0.3-9+b5 arm64
+  Sound library for Simple DirectMedia Layer 1.2, development files
+
+libsdl-ttf2.0-0/stable 2.0.11-6+b2 arm64
+  TrueType Font library for Simple DirectMedia Layer 1.2, libraries
+
+libsdl-ttf2.0-dev/stable 2.0.11-6+b2 arm64
+  TrueType Font library for Simple DirectMedia Layer 1.2, development files
+
+libsdl1.2-compat/stable 1.2.68-3 arm64
+  SDL 1.2 binary compatibility library - transitional package
+
+libsdl1.2-compat-dev/stable 1.2.68-3 arm64
+  SDL 1.2 binary compatibility library - transitional development files
+
+libsdl1.2-compat-shim/stable 1.2.68-3 arm64
+  libsdl1.2debian replacement using SDL 2.0 - transitional package
+
+libsdl1.2-compat-tests/stable 1.2.68-3 arm64
+  SDL 1.2 binary compatibility library - tests
+
+libsdl1.2-dev/stable 1.2.68-3 arm64
+  SDL 1.2 binary compatibility library - development files
+
+libsdl1.2debian/stable 1.2.68-3 arm64
+  SDL 1.2 binary compatibility library wrapping SDL 2.0
+
+libsdl2-2.0-0/stable 2.32.4+dfsg-1 arm64
+  Simple DirectMedia Layer
+
+libsdl2-compat/stable 2.32.54+ds-1 arm64
+  SDL 2 binary compatibility library wrapping SDL 3
+
+libsdl2-compat-dev/stable 2.32.54+ds-1 arm64
+  libsdl2-dev replacement using SDL 3
+
+libsdl2-compat-shim/stable 2.32.54+ds-1 arm64
+  libsdl2-2.0-0 replacement using SDL 3
+
+libsdl2-compat-tests/stable 2.32.54+ds-1 arm64
+  SDL 2 binary compatibility library - tests
+
+libsdl2-dev/stable 2.32.4+dfsg-1 arm64
+  Simple DirectMedia Layer development files
+
+libsdl2-doc/stable 2.32.4+dfsg-1 all
+  Reference manual for libsdl2
+
+libsdl2-gfx-1.0-0/stable 1.0.4+dfsg-6 arm64
+  drawing and graphical effects extension for SDL2
+
+libsdl2-gfx-dev/stable 1.0.4+dfsg-6 arm64
+  development files for SDL2_gfx
+
+libsdl2-gfx-doc/stable 1.0.4+dfsg-6 all
+  documentation files for SDL2_gfx
+
+libsdl2-image-2.0-0/stable 2.8.8+dfsg-1 arm64
+  Image loading library for Simple DirectMedia Layer 2, libraries
+
+libsdl2-image-dev/stable 2.8.8+dfsg-1 arm64
+  Image loading library for Simple DirectMedia Layer 2, development files
+
+libsdl2-image-tests/stable 2.8.8+dfsg-1 arm64
+  Image loading library for Simple DirectMedia Layer 2 - tests
+
+libsdl2-mixer-2.0-0/stable 2.8.1+dfsg-2 arm64
+  Mixer library for Simple DirectMedia Layer 2, libraries
+
+libsdl2-mixer-dev/stable 2.8.1+dfsg-2 arm64
+  Mixer library for Simple DirectMedia Layer 2, development files
+
+libsdl2-net-2.0-0/stable 2.2.0+dfsg-3 arm64
+  Network library for Simple DirectMedia Layer 2, libraries
+
+libsdl2-net-dev/stable 2.2.0+dfsg-3 arm64
+  Network library for Simple DirectMedia Layer 2, development files
+
+libsdl2-pango4/stable 2.1.5-2 arm64
+  pango extension for sdl2
+
+libsdl2-pango4-dev/stable 2.1.5-2 arm64
+  text rendering with Pango in SDL applications (development)
+
+libsdl2-tests/stable 2.32.4+dfsg-1 arm64
+  Simple DirectMedia Layer automated and manual tests
+
+libsdl2-ttf-2.0-0/stable 2.24.0+dfsg-2 arm64
+  TrueType Font library for Simple DirectMedia Layer 2, libraries
+
+libsdl2-ttf-dev/stable 2.24.0+dfsg-2 arm64
+  TrueType Font library for Simple DirectMedia Layer 2, development files
+
+libsdl3-0/stable 3.2.10+ds-1 arm64
+  Simple DirectMedia Layer, version 3
+
+libsdl3-dev/stable 3.2.10+ds-1 arm64
+  Simple DirectMedia Layer, version 3 development files
+
+libsdl3-doc/stable 3.2.10+ds-1 all
+  Reference manual for SDL 3
+
+libsdl3-image-dev/stable 3.2.4+ds-1 arm64
+  Image loading library for Simple DirectMedia Layer 3, development files
+
+libsdl3-image-doc/stable 3.2.4+ds-1 all
+  Image loading library for Simple DirectMedia Layer 3 - documentation
+
+libsdl3-image-tests/stable 3.2.4+ds-1 arm64
+  Image loading library for Simple DirectMedia Layer 3 - tests
+
+libsdl3-image0/stable 3.2.4+ds-1 arm64
+  Image loading library for Simple DirectMedia Layer 3, libraries
+
+libsdl3-tests/stable 3.2.10+ds-1 arm64
+  Simple DirectMedia Layer automated and manual tests
+
+libsdl3-ttf-dev/stable 3.2.2+ds-1 arm64
+  TrueType Font library for Simple DirectMedia Layer 3, development files
+
+libsdl3-ttf-doc/stable 3.2.2+ds-1 all
+  TrueType Font library for Simple DirectMedia Layer 3 - documentation
+
+libsdl3-ttf-tests/stable 3.2.2+ds-1 arm64
+  TrueType Font library for Simple DirectMedia Layer 3 - tests
+
+libsdl3-ttf0/stable 3.2.2+ds-1 arm64
+  TrueType Font library for Simple DirectMedia Layer 3, libraries
+
+libsdo-api-java/stable 1.1.1-2 all
+  Service Data Objects 2.1 Java API spec
+
+libsdo-api-java-doc/stable 1.1.1-2 all
+  Documentation for libsdo-api-java
+
+libsdp-api-java/stable 1.0-2 all
+  SDP API for Java
+
+libsdp-dev/stable 6.2.0-5+b2 arm64
+  Software package for semidefinite programming (development)
+
+libsdp0/stable 6.2.0-5+b2 arm64
+  Software package for semidefinite programming (library)
+
+libsdsl-dev/stable 2.1.1+dfsg-5 arm64
+  succinct data structure library - development files
+
+libsdsl3/stable 2.1.1+dfsg-5 arm64
+  succinct data structure library
+
+libsmf-dev/stable 1.3-4.1+b2 arm64
+  Development files for the smf library
+
+libsmf0t64/stable 1.3-4.1+b2 arm64
+  LibSMF is a BSD-licensed C library for handling SMF ("*.mid") files
+
+libsnap7-1/stable 1.4.2+dfsg-1+b2 arm64
+  Siemens S7 PLCs communications library
+
+libsnap7-dev/stable 1.4.2+dfsg-1+b2 arm64
+  Siemens S7 PLCs communications library -- dev files
+
+libsndio-dev/stable 1.10.0-0.1 arm64
+  Small audio and MIDI framework from OpenBSD, development files
+
+libsndio7.0/stable 1.10.0-0.1 arm64
+  Small audio and MIDI framework from OpenBSD, runtime libraries
+
+libsocket++-dev/stable 1.12.13+git20131030.5d039ba-1+b2 arm64
+  lightweight convenience library to handle low level BSD sockets in C++ -devel
+
+libsocket++1/stable 1.12.13+git20131030.5d039ba-1+b2 arm64
+  lightweight convenience library to handle low level BSD sockets in C++ - libs
+
+libstrongswan/stable 6.0.1-6+deb13u6 arm64
+  strongSwan utility and crypto library
+
+libtcplay/stable 3.3-1+b1 arm64
+  TrueCrypt and VeraCrypt implementation based on dm-crypt (library)
+
+libtcplay-dev/stable 3.3-1+b1 arm64
+  TrueCrypt and VeraCrypt implementation based on dm-crypt (development headers)
+
+libterm-twiddle-perl/stable 2.73-4 all
+  Perl module to twiddle a thingy while-u wait
+
+libtls28t64/stable 3.8.1-2.1+b2 arm64
+  libtls shared library
+
+libtsk-dev/stable 4.12.1+dfsg-3 arm64
+  library for forensics analysis (development files)
+
+libtsk19t64/stable 4.12.1+dfsg-3 arm64
+  library for forensics analysis on volume and filesystem data
+
+libunix-errno-ocaml/stable 0.6.2-1+b8 arm64
+  errno variant that includes a variety of constructors
+
+libunix-errno-ocaml-dev/stable 0.6.2-1+b8 arm64
+  errno variant that includes a variety of constructors -- development files
+
+libvdpau-dev/stable 1.5-3+b1 arm64
+  Video Decode and Presentation API for Unix (development files)
+
+libvdpau-doc/stable 1.5-3 all
+  Video Decode and Presentation API for Unix (documentation)
+
+libvdpau1/stable,now 1.5-3+b1 arm64 [installed,automatic]
+  Video Decode and Presentation API for Unix (libraries)
+
+libwiretap-dev/stable 4.4.16-0+deb13u1 arm64
+  network packet capture library -- development files
+
+libwiretap15/stable 4.4.16-0+deb13u1 arm64
+  network packet capture library -- shared library
+
+libwxbase3.2-1t64/stable 3.2.8+dfsg-2 arm64
+  wxBase library (runtime) - non-GUI support classes of wxWidgets toolkit
+
+libzvbi-common/stable,now 0.2.44-1 all [installed,automatic]
+  Vertical Blanking Interval decoder (VBI) - common files
+
+libzvbi-dev/stable 0.2.44-1 arm64
+  Vertical Blanking Interval decoder (VBI) - development files
+
+libzvbi-doc/stable 0.2.44-1 all
+  Vertical Blanking Interval decoder (VBI) - documentation files
+
+libzvbi0t64/stable,now 0.2.44-1 arm64 [installed,automatic]
+  Vertical Blanking Interval decoder (VBI) - runtime files
+
+lomiri-keyboard/stable 1.0.3-1 arm64
+  Lomiri on-screen keyboard
+
+lomiri-keyboard-data/stable 1.0.3-1 all
+  Lomiri on-screen keyboard data files
+
+lomiri-keyboard-dev/stable 1.0.3-1 all
+  Lomiri on-screen keyboard - development files
+
+lpr/stable 1:2008.05.17.3+nmu3.1 arm64
+  BSD lpr/lpd line printer spooling system
+
+lua-ljsyscall/stable 0.12-1.1 all
+  Unix system calls for LuaJIT
+
+machineid/stable 1.0.1-2+b4 arm64
+  Get the unique machine id of any host (program)
+
+makefs/stable 20190105-3+b1 arm64
+  create a cd9660 or ffs filesystem image from a directory tree
+
+maliit-framework/stable 2.3.0-5+b1 arm64
+  Maliit Input Method Framework
+
+maliit-framework-dev/stable 2.3.0-5+b1 arm64
+  Maliit Input Method Framework - Development Files
+
+maliit-inputcontext-gtk2/stable 0.99.1+git20151116.72d7576-3+b2 arm64
+  Maliit Inputcontext for GTK+-2 applications
+
+maliit-inputcontext-gtk3/stable 0.99.1+git20151116.72d7576-3+b2 arm64
+  Maliit Inputcontext for GTK+-3 applications
+
+man2html/stable 1.6g-16+b2 arm64
+  browse man pages in your web browser
+
+mandoc/stable 1.14.6-4 arm64
+  BSD manpage compiler toolset
+
+mecab-naist-jdic/stable 0.6.3.b-20111013-11 all
+  free Japanese Dictionaries for mecab (replacement of mecab-ipadic)
+
+mecab-naist-jdic-eucjp/stable 0.6.3.b-20111013-11 all
+  free Japanese Dictionaries for mecab (replacement of mecab-ipadic) in EUC-JP
+
+ministat/stable 20150715-1+b3 arm64
+  simple tool for statistical comparison of data sets
+
+mk-configure/stable 0.37.0-2 all
+  lightweight replacement for GNU autotools
+
+mksh/stable 59c-41+b2 arm64
+  MirBSD Korn Shell
+
+mmllib-tools/stable 1.4-1 all
+  library for handling Music Macro Language (tools)
+
+mtree-netbsd/stable 20180822-9 arm64
+  Validates directory tree against specification
+
+multiboot/stable 0.6.96+20101113-3 all
+  The Multiboot specification
+
+multitee/stable 3.0-6.1 arm64
+  send multiple inputs to multiple outputs
+
+naist-jdic/stable 1:0.4.3-21 all
+  free Japanese Dictionaries for ChaSen (replacement of ipadic)
+
+naist-jdic-utf8/stable 1:0.4.3-21 all
+  free Japanese Dictionaries for ChaSen (replacement of ipadic) in UTF-8
+
+nasm/stable 2.16.03-1 arm64
+  General-purpose x86 assembler
+
+natpmpc/stable 20230423-1.2+b3 arm64
+  portable and fully compliant implementation of NAT-PMP (client)
+
+nbsdgames/stable 5-8 arm64
+  text based mini games for your terminal
+
+ncal/stable 12.1.8+b1 arm64
+  display a calendar and the date of Easter
+
+netcat-openbsd/stable 1.229-1 arm64
+  TCP/IP swiss army knife
+
+netcat-traditional/stable 1.10-50 arm64
+  TCP/IP swiss army knife
+
+netperf/stable 2.7.0+git20210121.3bc455b+ds-3 arm64
+  Network performance benchmark
+
+netpipes/stable 4.2-8+b3 arm64
+  manipulate BSD TCP/IP stream sockets
+
+node-bcrypt-pbkdf/stable 1.0.2-3 all
+  Port of the OpenBSD bcrypt_pbkdf function to pure JS
+
+node-copy-paste/stable 1.5.3-1 all
+  access to the system clipboard
+
+node-tar/stable 6.2.1+~cs7.0.8-1+deb13u1 all
+  read and write portable tar archives module for Node.js
+
+nq/stable 1.0-0.2+b1 arm64
+  Lightweight queue system
+
+nvi/stable 1.81.6-23 arm64
+  4.4BSD re-implementation of vi
+
+nvi-doc/stable 1.81.6-23 all
+  4.4BSD re-implementation of vi - documentation files
+
+open-jtalk-mecab-naist-jdic/stable 1.11-5 all
+  NAIST Japanese Dictionary for Open JTalk
+
+openbgpd/stable 8.8-1 arm64
+  OpenBSD BGP daemon
+
+openbsd-inetd/stable 0.20221205-3+b3 arm64
+  OpenBSD Internet Superserver
+
+opendoas/stable 6.8.2-1+b1 arm64
+  minimal replacement for sudo, with persist support
+
+opengnb/stable 1.6.0.a-2 arm64
+  P2P de-centralized layer 3 VPN
+
+openimageio-tools/stable 2.5.18.0+dfsg-1+b1 arm64
+  Library for reading and writing images - command line tools
+
+openntpd/stable 1:6.2p3-4.2+b3 arm64
+  OpenBSD NTP daemon
+
+openrc/stable 0.56-1 arm64
+  dependency based service manager (runlevel change mechanism)
+
+opensmtpd/stable 7.6.0p1-1 arm64
+  secure, reliable, lean, and easy-to configure SMTP server
+
+oz/stable 0.17.0-6 all
+  Install virtual machine guest OSs with minimal input from the user
+
+pal/stable 0.4.3-11 arm64
+  command-line calendar program that can keep track of events
+
+pamtester/stable 0.1.2-4+b1 arm64
+  utility program to test the PAM facility
+
+parted/stable 3.6-5 arm64
+  disk partition manipulator
+
+pax/stable 1:20240817-1 arm64
+  Portable Archive Interchange (cpio, pax, tar)
+
+pimd/stable 2.3.2-4+b2 arm64
+  multicast routing daemon (PIMv2)
+
+plopfolio.app/stable 0.1.0-9+b2 arm64
+  Personal dashboard for GNUstep
+
+polenum/stable 1.6.1-2 all
+  Extracts the password policy from a Windows system
+
+prelude-lml-rules/stable 5.2.0-1 all
+  Security Information and Events Management System [ LML Rules ]
+
+ptpd/stable 2.3.1-debian1-4+b2 arm64
+  Precision Time Protocol daemon
+
+python-bsddb3-doc/stable 6.2.9-4 all
+  Documentation for the python Berkeley DB interface module
+
+python-freezerclient-doc/stable 6.0.0-3 all
+  OpenStack backup restore and disaster recovery service - doc files
+
+python-serial-asyncio-doc/stable 0.6-4 all
+  Async I/O extension package for pyserial (documentation)
+
+python3-arpy/stable 1.1.1-5 all
+  library for accessing "ar" archives
+
+python3-astropy-healpix/stable 1.1.2-1 arm64
+  HEALPix representation of spherical data - Python 3
+
+python3-boltons/stable 25.0.0-1 all
+  set of pure-Python utilities (Python 3)
+
+python3-bsddb3/stable 6.2.9-4+b1 arm64
+  Python interface for Berkeley DB (Python 3.x)
+
+python3-django-dynamic-preferences/stable 1.17.0-1 all
+  Dynamic global and instance settings for your django project
+
+python3-freezerclient/stable 6.0.0-3 all
+  OpenStack backup restore and disaster recovery service - client files
+
+python3-libnatpmp/stable 20230423-1.2+b3 arm64
+  portable and fully compliant implementation of NAT-PMP (Python 3 bindings)
+
+python3-maturin/stable 1.8.3-1 arm64
+  Build and publish crates with pyo3
+
+python3-mmllib/stable 1.4-1 all
+  library for handling Music Macro Language (Python 3)
+
+python3-monotonic/stable 1.6-3 all
+  implementation of time.monotonic() - Python 3.x
+
+python3-openimageio/stable 2.5.18.0+dfsg-1+b1 arm64
+  Library for reading and writing images - Python bindings
+
+python3-oscrypto/stable 1.3.0-7 all
+  cryptography library for Python
+
+python3-pako/stable 0.3.1-2.1 all
+  Universal package manager library (Python 3)
+
+python3-parallel/stable 0.2.2-4 all
+  pyparallel - module encapsulating access for the parallel port
+
+python3-psutil/stable 7.0.0-2 arm64
+  module providing convenience functions for managing processes (Python3)
+
+python3-serial/stable 3.5-2 all
+  pyserial - module encapsulating access for the serial port
+
+python3-serial-asyncio/stable 0.6-4 all
+  Async I/O extension package for pyserial
+
+rbootd/stable 3.3 arm64
+  Remote Boot Daemon
+
+rhash/stable 1.4.5-1 arm64
+  utility for computing hash sums and magnet links
+
+rlinetd/stable 0.9.3-3 arm64
+  gruesomely over-featured inetd replacement
+
+rlpr/stable 2.06-2+b1 arm64
+  utility for lpd printing without using /etc/printcap
+
+rpki-client/stable 9.5-1 arm64
+  OpenBSD RPKI validator
+
+ruby-bcrypt/stable 3.1.20-1+b2 arm64
+  Ruby binding for the bcrypt() password hashing algorithm
+
+ruby-bcrypt-pbkdf/stable 1.1.1-1+b3 arm64
+  Ruby library for OpenBSD's bcrypt_pdkfd
+
+runit-services/stable 0.9.1+deb13u1 all
+  UNIX init scheme with service supervision (services)
+
+s-nail/stable 14.9.25-1 arm64
+  feature-rich BSD mail(1)
+
+scheme9/stable 2018.12.05-2 arm64
+  Scheme 9 from Empty Space R4RS Scheme interpreter
+
+signify-openbsd/stable 32-1.1+b1 arm64
+  Lightweight cryptographic signing and verifying tool
+
+signify-openbsd-keys/stable 2025.1 all
+  Public keys for use with signify-openbsd
+
+sleuthkit/stable 4.12.1+dfsg-3 arm64
+  tools for forensics analysis on volume and filesystem data
+
+smb4k/stable 4.0.0-1+deb13u1 arm64
+  Samba (SMB) share advanced browser
+
+smf-utils/stable 1.3-4.1+b2 arm64
+  Utilities to support the smf library
+
+sndio-tools/stable 1.10.0-0.1 arm64
+  Small audio and MIDI framework from OpenBSD, basic tools
+
+sndiod/stable 1.10.0-0.1 arm64
+  Small audio and MIDI framework from OpenBSD, sound server
+
+sockstat/stable 0.4.1-1+b1 arm64
+  view detailed information about open connections
+
+srain/stable 1.7.0-1+b1 arm64
+  graphical IRC client based on GTK+
+
+swirc/stable 3.5.4-1 arm64
+  Curses ICB and IRC client
+
+tcplay/stable 3.3-1+b1 arm64
+  TrueCrypt and VeraCrypt implementation based on dm-crypt
+
+tcsh/stable 6.24.13-2+b1 arm64
+  TENEX C Shell, an enhanced version of Berkeley csh
+
+testdisk/stable 7.2-0.1 arm64
+  Partition scanner and disk recovery tool, and PhotoRec file recovery tool
+
+testssl.sh/stable 3.2.1+dfsg-1 all
+  Command line tool to check TLS/SSL ciphers, protocols and cryptographic flaws
+
+tftp-hpa/stable 5.2+20240610-3 arm64
+  HPA's tftp client
+
+tftpd-hpa/stable 5.2+20240610-3 arm64
+  HPA's tftp server
+
+tnftp/stable 20230507-2+b2 arm64
+  enhanced ftp client
+
+toybox/stable 0.8.9+dfsg-1.1 arm64
+  BSD-licensed Linux command line utilities
+
+ucarp/stable 1.5.2+git20192404.1a9aaf7-1+b2 arm64
+  user-space replacement to VRRP automatic IP fail-over
+
+ufw/stable 0.36.2-9 all
+  program for managing a Netfilter firewall
+
+ugrep/stable 7.4.2+dfsg-1 arm64
+  faster grep with an interactive query UI
+
+unworkable/stable 0.53-7+b1 arm64
+  efficient, simple and secure bittorrent client
+
+usbsdmux/stable 24.11.1-1 all
+  control software for USB-SD-Mux devices
+
+vacation/stable 3.3.3+b2 arm64
+  email autoresponder
+
+vdpau-driver-all/stable,now 1.5-3+b1 arm64 [installed,automatic]
+  Video Decode and Presentation API for Unix (driver metapackage)
+
+vdpauinfo/stable 1.5-3+b1 arm64
+  Video Decode and Presentation API for Unix (vdpauinfo utility)
+
+vdr-plugin-dvbsddevice/stable 2.2.0-16 arm64
+  Plugin that adds support for full featured SD-DVB cards to VDR
+
+vonsh/stable 1.0+ds-0.1 arm64
+  Snake-like game with line of people running around to get more food
+
+weasyprint/stable 62.3-1 all
+  Document factory for creating PDF files from HTML
+
+whohas/stable 0.29.1+git20220714.5feb1a4-1 all
+  query multiple distributions' package archives
+
+x86dis/stable 0.23-7 arm64
+  Frontend to libdisasm
+
+xfce4-taskmanager/stable 1.5.8-1 arm64
+  process manager for the Xfce4 Desktop Environment
+
+xscreensaver-screensaver-bsod/stable 6.09+dfsg1-1 arm64
+  BSOD screen saver module from XScreenSaver
+
+xserver-xorg-input-mouse/stable 1:1.9.3-1+b2 arm64
+  X.Org X server -- mouse input driver
+
+xva-img/stable 1.5-1+b2 arm64
+  Citrix XenServer .xva disk extraction tool
+

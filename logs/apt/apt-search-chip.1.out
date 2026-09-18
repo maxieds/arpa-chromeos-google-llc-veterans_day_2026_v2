@@ -1,0 +1,680 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+adplug-utils/stable 2.3.3+dfsg-2+b1 arm64
+  free AdLib sound library (utils)
+
+airspy/stable 1.0.10-3+b3 arm64
+  Tiny and efficient software defined radio receiver - utilities
+
+alsa-tools/stable 1.2.14-1 arm64
+  Console based ALSA utilities for specific hardware
+
+arachne-pnr-chipdb/stable 0.1+20190728gitc40fb22-3 all
+  Chip db files for arachne-pnr
+
+autotalent/stable 0.2-6+b1 arm64
+  pitch correction LADSPA plugin
+
+bambootracker/stable 0.6.5-1 arm64
+  YM2608 (OPNA, sound chip of Yamaha) music tracker
+
+berkeley-express/stable 1.5.3+dfsg-3+b4 arm64
+  Streaming quantification for high-throughput sequencing
+
+berkeley-express-doc/stable 1.5.3+dfsg-3 all
+  Documentation for RNA-Seq tool eXpress
+
+binutils-arm-none-eabi/stable 2.44-3+23+b2 arm64
+  GNU assembler, linker and binary utilities for ARM Cortex-R/M processors
+
+binutils-riscv64-unknown-elf/stable 2.44-3+7+b1 arm64
+  GNU assembler, linker and binary utilities for Risc-V processors
+
+binutils-xtensa-lx106/stable 2.44-3+6+b2 arm64
+  GNU binary utilities, for Xtensa lx106 core
+
+cc-tool/stable 0.27-1+b6 arm64
+  support for Texas Instruments CC Debugger
+
+cheesecutter/stable 2.9+git20211011-3+b1 arm64
+  SID music editor
+
+chip-seq/stable 1.5.5-3+b2 arm64
+  tools performing common ChIP-Seq data analysis tasks
+
+chip-seq-data/stable 1.5.5-3 all
+  tools performing common ChIP-Seq data analysis tasks (data)
+
+chromhmm/stable 1.26+dfsg-3 all
+  Chromatin state discovery and characterization
+
+chromhmm-example/stable 1.26+dfsg-3 all
+  Chromatin state discovery and characterization (example)
+
+cl-chipz/stable 20230418.git6f80368-1 all
+  decompress DEFLATE and BZIP2 data in Common Lisp
+
+cl-cluck/stable 0.1.3.1-1 all
+  Common Lisp Microcontroller Clock Calculator
+
+collectd-core/stable 5.12.0-26 arm64
+  statistics collection and monitoring daemon (core system)
+
+crust-firmware/stable 0.6-1 all
+  SCP firmware for Allwinner sunxi boards
+
+dav1d/stable 1.5.1-1 arm64
+  fast and small AV1 video stream decoder
+
+dfu-programmer/stable,now 0.6.1-1+b3 arm64 [installed]
+  device firmware update (DFU) based USB programmer for Atmel chips
+
+dosbox-x/stable 2025.02.01+dfsg-3 arm64
+  DOS emulator with complete, accurate hardware emulation
+
+drs4eb/stable 5.0.6+git20211217+ds-4+b1 arm64
+  DRS4 Evaluation Board software
+
+edac-utils/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+esptool/stable 4.7.0+dfsg-0.1 all
+  create and flash firmware files to ESP8266 and ESP32 chips
+
+firmware-ath9k-htc/stable 1.4.0-110-ge888634+dfsg1-0.1 all
+  firmware for AR7010 and AR9271 USB wireless adapters
+
+flashrom/stable 1.4.0-3 arm64
+  Identify, read, write, erase, and verify BIOS/ROM/flash chips
+
+fpga-icestorm/stable 0~20250207git7fbf8c0+dfsg1-1 arm64
+  Tools to handle the bitstream format of Lattice iCE40 FPGAs
+
+fpga-icestorm-chipdb/stable 0~20250207git7fbf8c0+dfsg1-1 all
+  Chip database files for fpga-icestorm
+
+fpgatools/stable 0.0+201212-1.1+b1 arm64
+  tool to program field-programmable gate arrays
+
+ftdi-eeprom/stable 1.5-10 arm64
+  Tool for reading/erasing/flashing FTDI USB chip EEPROMs
+
+furnace/stable 0.6.8.1+git20250403+ds-1 arm64
+  multi-system chiptune tracker compatible with DefleMask modules
+
+gcc-arm-none-eabi/stable 15:14.2.rel1-1 arm64
+  GCC cross compiler for ARM Cortex-R/M processors
+
+gcc-arm-none-eabi-source/stable 15:14.2.rel1-1 all
+  GCC cross compiler for ARM Cortex-R/M processors (source)
+
+gcc-riscv64-unknown-elf/stable 14.2.0+19 arm64
+  GCC cross compiler for Risc-V processors
+
+gcc-xtensa-lx106/stable 13.3.0-16+14+b4 arm64
+  GNU Compiler Collection for Xtensa lx106 core
+
+gemma/stable 0.98.5+dfsg-3 arm64
+  Genome-wide Efficient Mixed Model Association
+
+gmtkbabel/stable 0.1-2 all
+  graphical interface for mtkbabel
+
+gnumed-client-de/stable 1.8.21+dfsg-1 all
+  medical practice management - Client for German users
+
+golang-github-brentp-irelate-dev/stable 0.0.1+ds-1 all
+  Streaming relation testing of sorted files of intervals
+
+gpsim/stable 0.32.1-2+b2 arm64
+  Simulator for Microchip's PIC microcontrollers
+
+gpsim-dev/stable 0.32.1-2+b2 arm64
+  Libraries needed only for building gpsim components
+
+gputils/stable 1.5.2-1 arm64
+  GNU PIC utilities
+
+gputils-common/stable 1.5.2-1 all
+  headers and linker scripts for gputils
+
+gputils-doc/stable 1.5.2-1 all
+  documentation for gputils
+
+hackrf/stable 2024.02.1-3 arm64
+  Software defined radio peripheral - utilities
+
+i2c-tools/stable 4.4-2 arm64
+  heterogeneous set of I2C tools for Linux
+
+iaxmodem/stable 1.2.0~dfsg-4 arm64
+  software modem with IAX2 connectivity
+
+imsprog/stable 1.5.2-1 arm64
+  Linux chip programmer for CH341a devices
+
+libadplug-2.3.3-0/stable 2.3.3+dfsg-2+b1 arm64
+  free AdLib sound library
+
+libadplug-dev/stable 2.3.3+dfsg-2+b1 arm64
+  free AdLib sound library (development)
+
+libbcm2835-dev/stable 1.75+ds-1 arm64
+  access to GPIO and other IO functions on the Broadcom BCM 2835 chip
+
+libbio-mage-perl/stable 20030502.3-6 all
+  Container module for classes in the MAGE package: MAGE
+
+libbio-mage-utils-perl/stable 20030502.0-5 all
+  Extra modules for classes in the MAGE package: MAGE
+
+libchipcard-data/stable 5.1.6-2 all
+  configuration files for libchipcard
+
+libchipcard-dev/stable 5.1.6-2+b1 arm64
+  API for smartcard readers
+
+libchipcard-tools/stable 5.1.6-2+b1 arm64
+  tools for accessing chipcards
+
+libchipcard6t64/stable 5.1.6-2+b1 arm64
+  library for accessing smartcards
+
+libchipmunk-dev/stable 7.0.3-6+b2 arm64
+  Fast and lightweight 2D rigid body physics library (development files)
+
+libchipmunk7/stable 7.0.3-6+b2 arm64
+  fast and lightweight 2D rigid body physics library in C
+
+libdav1d-dev/stable 1.5.1-1 arm64
+  fast and small AV1 video stream decoder (development files)
+
+libdav1d7/stable,now 1.5.1-1 arm64 [installed,automatic]
+  fast and small AV1 video stream decoder (shared library)
+
+libeac-dev/stable 1.1.2+ds+git20220117+453c3d6b03a0-1.1+b3 arm64
+  cryptographic library for EAC version 2 (development)
+
+libeac3/stable 1.1.2+ds+git20220117+453c3d6b03a0-1.1+b3 arm64
+  cryptographic library for EAC version 2 (shared library)
+
+libedac-dev/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+libedac1/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+libedac1-dbg/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+libflashrom-dev/stable 1.4.0-3 arm64
+  BIOS/ROM/flash chips - development files
+
+libflashrom1/stable 1.4.0-3 arm64
+  Identify, read, write, erase, and verify BIOS/ROM/flash chips - library
+
+libfpga-dev/stable 0.0+201212-1.1+b1 arm64
+  development files for fpgatools
+
+libfpga0t64/stable 0.0+201212-1.1+b1 arm64
+  libraries of fpgatools
+
+libfreesrp-dev/stable 0.3.0-5+b2 arm64
+  Software defined radio support for FreeSRP hardware (development files)
+
+libfreesrp0/stable 0.3.0-5+b2 arm64
+  Software defined radio support for FreeSRP hardware (library)
+
+libftdi1/stable,now 0.20-4+b2 arm64 [installed,automatic]
+  Library to control and program the FTDI USB controller
+
+libftdi1-2/stable 1.5-10 arm64
+  C Library to control and program the FTDI USB controllers
+
+libftdi1-dev/stable 1.5-10 arm64
+  Development files for libftdi1
+
+libftdi1-doc/stable 1.5-10 all
+  Documentation for libftdi1
+
+libftdipp1-3/stable 1.5-10 arm64
+  C++ Library to control and program the FTDI USB controllers
+
+libftdipp1-dev/stable 1.5-10 arm64
+  Development files for libftdipp1
+
+libgme-dev/stable 0.6.3-7+b2 arm64
+  Playback library for video game music files - development files
+
+libgme0/stable 0.6.3-7+b2 arm64
+  Playback library for video game music files - shared library
+
+libhbci4j-core-java/stable 3.1.85+dfsg-1 all
+  Java online banking client using the HBCI standard
+
+libhbci4j-core-java-doc/stable 3.1.85+dfsg-1 all
+  Documentation for Java online banking client using the HBCI standard
+
+libifd-cyberjack6/stable 3.99.5final.sp17-0.1 arm64
+  REINER SCT cyberJack USB chipcard reader user space driver
+
+libjaylink-dev/stable 0.4.0-1 arm64
+  library for interacting with J-Link programmers (development files)
+
+libjaylink0/stable 0.4.0-1 arm64
+  library for interacting with J-Link programmers
+
+libmrtd-dev/stable 0.1.6-3.3 arm64
+  Development files for libmrtd0t64
+
+libmrtd0t64/stable 0.1.6-3.3 arm64
+  MRTD - Machine-readable travel document library
+
+libmtd-dev/stable 1:2.3.0-1 arm64
+  Memory Technology Device Development Libraries
+
+libnfc-bin/stable,now 1.8.0-3.1+b1 arm64 [installed]
+  Near Field Communication (NFC) binaries
+
+libnfc-dev/stable 1.8.0-3.1+b1 arm64
+  Near Field Communication (NFC) library (development files)
+
+libnfc-examples/stable 1.8.0-3.1+b1 arm64
+  Near Field Communication (NFC) examples
+
+libnfc-pn53x-examples/stable 1.8.0-3.1+b1 arm64
+  Near Field Communication (NFC) examples for PN53x chips only
+
+libnfc6/stable,now 1.8.0-3.1+b1 arm64 [installed,automatic]
+  Near Field Communication (NFC) library
+
+libosmo-fl2k-dev/stable 0.1.1-2+b2 arm64
+  use a VGA USB adapter as DAC and SDR transmitter - development
+
+libosmo-fl2k0/stable 0.1.1-2+b2 arm64
+  use a VGA USB adapter as DAC and SDR transmitter - library
+
+libpcsc-perl/stable 1.4.16-1+b3 arm64
+  Perl interface to the PC/SC smart card library
+
+libresid-builder-dev/stable 2.1.1-16 arm64
+  SID chip emulation class based on resid
+
+libresid-builder0c2a/stable 2.1.1-16 arm64
+  SID chip emulation class based on resid
+
+librtlsdr-dev/stable 2.0.2-2+b1 arm64
+  Software defined radio receiver for Realtek RTL2832U (development)
+
+librtlsdr0/stable 2.0.2-2+b1 arm64
+  Software defined radio receiver for Realtek RTL2832U (library)
+
+librust-rockfile-dev/stable 0.1.2-1 arm64
+  Rockchip specific file parsers - Rust source code
+
+librust-rockusb-dev/stable 0.2.0-2+b2 arm64
+  Rockchip usb protocol host implementation - Rust source code
+
+libsidplay1v5/stable 1.36.60-1+b2 arm64
+  SID (MOS 6581) emulation library
+
+libsidplay2/stable 2.1.1-16 arm64
+  SID (MOS 6581) emulation library
+
+libsidplay2-dev/stable 2.1.1-16 arm64
+  SID (MOS 6581) emulation library
+
+libsidplayfp-dev/stable 2.12.0-1 arm64
+  library to play Commodore 64 music based on libsidplay2 (development files)
+
+libsidplayfp-doc/stable 2.12.0-1 all
+  library to play Commodore 64 music based on libsidplay2  (documentation)
+
+libsidplayfp6/stable 2.12.0-1 arm64
+  Library to play Commodore 64 music based on libsidplay2
+
+libsidutils-dev/stable 2.1.1-16 arm64
+  utility functions for SID players
+
+libsidutils0/stable 2.1.1-16 arm64
+  utility functions for SID players
+
+libsquish-dev/stable 1.15-3+b2 arm64
+  DXT texture compression library - development files
+
+libsquish0/stable 1.15-3+b2 arm64
+  DXT texture compression library
+
+libstdc++-arm-none-eabi-dev/stable 15:14.2.rel1-1+29 all
+  GNU Standard C++ Library v3 for ARM Cortex-R/M processors (headers)
+
+libstdc++-arm-none-eabi-newlib/stable 15:14.2.rel1-1+29 all
+  GNU Standard C++ Library v3 for ARM Cortex-R/M processors (newlib)
+
+libstdc++-arm-none-eabi-picolibc/stable 15:14.2.rel1-1+29 all
+  GNU Standard C++ Library v3 for ARM Cortex-R/M processors (picolibc)
+
+libstdc++-riscv64-unknown-elf-dev/stable 14.2.0+7 all
+  GNU Standard C++ Library v3 for Risc-V processors (headers)
+
+libstdc++-riscv64-unknown-elf-picolibc/stable 14.2.0+7 all
+  GNU Standard C++ Library v3 for Risc-V (picolibc)
+
+libtpm2-pkcs11-1/stable 1.9.1-0.1 arm64
+  pkcs11 library for tpm2
+
+libtpm2-pkcs11-tools/stable 1.9.1-0.1 all
+  pkcs11 library for tpm2 - command-line tools
+
+libtss2-dev/stable 4.1.3-1.2 arm64
+  TPM2 Software stack library - development files
+
+libtss2-doc/stable 4.1.3-1.2 all
+  TPM2 Software stack library - documentation
+
+libtss2-esys-3.0.2-0t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-fapi1t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-mu-4.0.1-0t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-policy0t64/stable 4.1.3-1.2 arm64
+  TPM2 Software stack library - policy libraries
+
+libtss2-rc0t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-sys1t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-cmd0t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-device0t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-i2c-ftdi0/stable 4.1.3-1.2 arm64
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-i2c-helper0/stable 4.1.3-1.2 arm64
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-libtpms0t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-mssim0t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-pcap0t64/stable 4.1.3-1.2 arm64
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-spi-ftdi0/stable 4.1.3-1.2 arm64
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-spi-helper0t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-spi-ltt2go0/stable 4.1.3-1.2 arm64
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-spidev0/stable 4.1.3-1.2 arm64
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tcti-swtpm0t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+libtss2-tctildr0t64/stable,now 4.1.3-1.2 arm64 [installed,automatic]
+  TPM2 Software stack library - TSS and TCTI libraries
+
+liburjtag-dev/stable 2024.03.24-1+b1 arm64
+  JTAG programmer for various flash parts and boards - devel
+
+liburjtag-o-dev/stable 2021.03-5 arm64
+  JTAG programmer for various flash parts and boards - devel
+
+liburjtag-o0/stable 2021.03-5 arm64
+  JTAG programmer for various flash parts and boards - library
+
+liburjtag0/stable 2024.03.24-1+b1 arm64
+  JTAG programmer for various flash parts and boards - library
+
+libvdpau-va-gl1/stable,now 0.4.2-2 arm64 [installed,automatic]
+  VDPAU driver with OpenGL/VAAPI backend
+
+macs/stable 3.0.2-1+b3 arm64
+  Model-based Analysis of ChIP-Seq on short reads sequencers
+
+madwimax/stable 0.1.1-4 arm64
+  user-space driver for mWiMAX equipment based on Samsung CMC-730
+
+mtd-utils/stable 1:2.3.0-1 arm64
+  Memory Technology Device Utilities
+
+mtkbabel/stable 0.8.4-0.3 all
+  Tool for managing i-Blue 747 and compatible GPS data loggers
+
+mudita24/stable 1.0.3+svn13-7+b2 arm64
+  ALSA GUI control tool for Envy24 (ice1712) soundcards
+
+nextpnr-ecp5-chipdb/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Lattice ECP5 -- chipdb files
+
+nextpnr-gowin-chipdb/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Gowin GW1N -- chipdb files
+
+nextpnr-ice40/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Lattice iCE40
+
+nextpnr-ice40-chipdb/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Lattice iCE40 -- chipdb files
+
+nextpnr-ice40-qt/stable 0.7-1+b3 arm64
+  FPGA place and route tool for Lattice iCE40 - with GUI
+
+nitpic/stable 0.1-21 arm64
+  simulator for the Microchip PIC16C84 microcontroller
+
+open-roms/stable 0.0~git20250319.46ccd6f-1 all
+  ROM files for retro computers
+
+openfpgaloader/stable 0.13.1-1 arm64
+  Universal utility for programming FPGAs
+
+openocd/stable 0.12.0-3+b2 arm64
+  Open on-chip JTAG/SWD debug solution for embedded target devices
+
+openpace/stable 1.1.2+ds+git20220117+453c3d6b03a0-1.1+b3 arm64
+  cryptographic library for EAC version 2 (tools)
+
+openwince-jtag/stable 0.5.1-11 arm64
+  allows programming jtag capable devices such as CPUs or FPGAs
+
+opl3-soundfont/stable 1.0-4 all
+  OPL3 SoundFont that simulates the sound of an OPL3 chip
+
+osmo-fl2k/stable 0.1.1-2+b2 arm64
+  use a VGA USB adapter as DAC and SDR transmitter
+
+pico-sdk-source/stable 2.1.1-1 all
+  headers and libraries to write programs for RP2040-based devices
+
+plc-utils/stable 0.0.6+git20250517.7fb8ac5-1 arm64
+  Toolkit for HomePlug Powerline network adapters with Atheros chipsets
+
+plc-utils-doc/stable 0.0.6+git20250517.7fb8ac5-1 all
+  Additional documentation from the Atheros Powerline toolkit
+
+plc-utils-extra/stable 0.0.6+git20250517.7fb8ac5-1 arm64
+  Extended toolkit for HomePlug Powerline network adapters with Atheros chipsets
+
+plink/stable 1.07+dfsg-4+b2 arm64
+  whole-genome association analysis toolset
+
+plink1.9/stable 1.90~b7.7-241022-2 arm64
+  whole-genome association analysis toolset
+
+plink2/stable 2.00~a6.9-250129+dfsg-1+b1 arm64
+  whole-genome association analysis toolset
+
+ponyprog/stable 3.1.4+ds-1 arm64
+  Serial device programmer
+
+pscan-chip/stable 1.1-3+b3 arm64
+  ChIP-based identifcation of TF binding sites
+
+pscan-chip-data/stable 1.1-3 all
+  auxiliary data for PScan-ChIP
+
+python3-apycula/stable 0.17+dfsg1-1 all
+  Tools to generate Gowin FPGA bitstreams
+
+python3-btchip/stable 0.1.32-4 all
+  Python library to communicate with BTChip dongle (Python 3)
+
+python3-ftdi1/stable 1.5-10 arm64
+  Python module to control and program the FTDI USB controllers
+
+python3-tpm2-pkcs11-tools/stable 1.9.1-0.1 all
+  pkcs11 library for tpm2 - Python library
+
+qmmp/stable 2.2.4-1 arm64
+  feature-rich audio player with support of many formats
+
+r-bioc-affxparser/stable 1.78.0-3 arm64
+  Affymetrix File Parsing SDK
+
+r-bioc-hgu95a.db/stable 3.13.0-2 all
+  Affymetrix Affymetrix HG_U95A Array annotation data (chip
+
+r-bioc-hilbertvis/stable 1.64.0-2 arm64
+  GNU R package to visualise long vector data
+
+r-bioc-limma/stable 3.62.2+dfsg-1 arm64
+  linear models for microarray data
+
+r-bioc-makecdfenv/stable 1.82.0-2 arm64
+  BioConductor CDF Environment Maker
+
+r-bioc-metapod/stable 1.14.0+dfsg-2 arm64
+  GNU R meta-analyses on P-Values of differential analyses
+
+r-cran-palmerpenguins/stable 0.1.1-1 all
+  GNU R Palmer Archipelago (Antarctica) penguin data
+
+r-cran-samr/stable 3.0-2+b1 arm64
+  GNU R significance analysis of microarrays
+
+r-cran-spp/stable 1.16.0-2+b1 arm64
+  GNU R ChIP-seq processing pipeline
+
+rasdaemon/stable 0.8.3-1 arm64
+  utility to receive RAS error tracings
+
+reform2-lpc-dkms/stable 1.71-2+deb13u1 all
+  dkms driver sources for Reform 2 LPC11U24
+
+rkdeveloptool/stable 1.32+pine64git20240226.17823e9-1+b1 arm64
+  tools for working with Rockchip processors
+
+rkflashtool/stable 0~20160324-2 arm64
+  Tools for flashing Rockchip devices
+
+rng-tools-debian/stable 2.6 arm64
+  daemon to use a Hardware RNG (classic version)
+
+rng-tools5/stable 5-4.1+b2 arm64
+  Daemon to use a Hardware TRNG
+
+rockusb/stable 0.2.0-2+b2 arm64
+  Rockchip USB utility
+
+rtl-sdr/stable 2.0.2-2+b1 arm64
+  Software defined radio receiver for Realtek RTL2832U (tools)
+
+seabios/stable 1.16.3-2 all
+  Legacy BIOS implementation
+
+sidplayfp/stable 2.12.0-1 arm64
+  Fork of sidplay2, a C64 and C128 music player
+
+sigrok-firmware-fx2lafw/stable 0.1.7-3 all
+  Firmware for Cypress FX2(LP) based logic analyzers
+
+simple-tpm-pk11/stable 0.06-5+b2 arm64
+  simple library for using the TPM chip to secure SSH keys
+
+simulpic/stable 1:2005-1-28-10 arm64
+  simulator for Microchip PIC16F84 microcontroller
+
+smifb2-dkms/stable 2.4.1-1 all
+  SiliconMotion SM750/SM768 Graphics PCI-E DRM Driver
+
+soapysdr-module-rtlsdr/stable 0.3.3-1+b4 arm64
+  RTL-SDR device support for SoapySDR (default version)
+
+soapysdr0.8-module-rtlsdr/stable 0.3.3-1+b4 arm64
+  RTL-SDR device support for SoapySDR
+
+speakersafetyd/stable 1.1.2-4 arm64
+  software Smart Amp implementation
+
+stm32flash/stable 0.7-1+b1 arm64
+  STM32 chip flashing utility using a serial bootloader
+
+stymulator/stable 0.21a~dfsg-4 arm64
+  Curses based player and converter for the YM chiptune format
+
+texlive-science/stable 2024.20250309-2 all
+  TeX Live: Mathematics, natural sciences, computer science packages
+
+theli/stable 3.1.4-2 arm64
+  Astronomical image data reduction pipeline
+
+tpm2-tools/stable,now 5.7-1+b1 arm64 [installed]
+  TPM 2.0 utilities
+
+u-boot-rockchip/stable 2025.01-3 arm64
+  A boot loader for rockchip systems
+
+uisp/stable 20050207-4.5+b2 arm64
+  Micro In-System Programmer for Atmel's AVR MCUs
+
+urjtag/stable 2021.03-5 arm64
+  JTAG programmer for various flash parts and boards - binary tools
+
+urjtag-common/stable 2021.03-5 all
+  urjtag architecture-independent files
+
+uuu/stable 1.5.201-1+b1 arm64
+  Freescale/NXP I.MX Chip image deploy tools
+
+xc3sprog/stable 0+svn795+dfsg-4 arm64
+  JTAG flashing tool for FPGAs, CPLDs and EEPROMs
+
+xmms2-plugin-gme/stable 0.8+dfsg-28+b1 arm64
+  XMMS2 - gme plug-in
+
+xserver-xorg-video-amdgpu/stable 23.0.0-1+b2 arm64
+  X.Org X server -- AMDGPU display driver
+
+xserver-xorg-video-mga/stable 1:2.0.0-1+b3 arm64
+  X.Org X server -- MGA display driver
+
+xserver-xorg-video-neomagic/stable 1:1.3.1-1 arm64
+  X.Org X server -- Neomagic display driver
+
+xserver-xorg-video-radeon/stable 1:22.0.0-1+b2 arm64
+  X.Org X server -- AMD/ATI Radeon display driver
+
+xserver-xorg-video-savage/stable 1:2.4.1-1 arm64
+  X.Org X server -- Savage display driver
+
+xserver-xorg-video-siliconmotion/stable 1:1.7.10-1 arm64
+  X.Org X server -- SiliconMotion display driver
+

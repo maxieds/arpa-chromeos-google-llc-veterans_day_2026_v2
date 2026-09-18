@@ -1,0 +1,611 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+afflib-tools/stable 3.7.21-1 arm64
+  Advanced Forensics Format Library (utilities)
+
+afuse/stable 0.5.0-0.1+b2 arm64
+  automounting file system implemented in user-space using FUSE
+
+android-file-transfer/stable 4.3-1+b2 arm64
+  reliable MTP client with minimalistic UI
+
+archivemount/stable 1b-1 arm64
+  mounts an archive or compressed file for access as a filesystem
+
+armv8crc-support/stable 27 arm64
+  CPU feature checking - require ARMv8CRC
+
+autossh/stable 1.4g-1+b1 arm64
+  Automatically restart SSH sessions and tunnels
+
+avfs/stable 1.2.0-2 arm64
+  virtual filesystem to access archives, disk images, remote locations
+
+bindfs/stable 1.14.7-1.1+b2 arm64
+  mirrors or overlays a local directory with altered permissions
+
+btfs/stable 2.24-1+b4 arm64
+  access torrent files as a filesystem
+
+clamav-cvdupdate/stable 1.1.1-1 all
+  ClamAV Private Database Mirror Updater Tool
+
+clamfs/stable 1.3.0-1+b2 arm64
+  user-space anti-virus protected file system
+
+cloudsql-proxy/stable 1.33.14-1+b11 arm64
+  connect securely to a 2nd generation Cloud SQL DB
+
+cntr/stable 1.6.0-2+b2 arm64
+  a container debugging tool based on FUSE mount
+
+curlftpfs/stable 0.9.2-10 arm64
+  filesystem to access FTP hosts based on FUSE and cURL
+
+diffuse/stable 0.9.0-1 all
+  graphical tool for merging and comparing text files
+
+disorderfs/stable 0.5.11-4 arm64
+  FUSE filesystem that introduces non-determinism
+
+elpa-elisp-refs/stable 1.5-3 all
+  find callers of elisp functions or macros
+
+encfs/stable 1.9.5-3 arm64
+  encrypted virtual filesystem
+
+enfuse/stable 4.2-10+b2 arm64
+  image exposure blending tool
+
+erofsfuse/stable 1.8.6-1 arm64
+  FUSE Mount Utility for EROFS File System
+
+exfat-fuse/stable 1.4.0-3+b2 arm64
+  read and write exFAT driver for FUSE
+
+fdm-materials/stable 5.0.0-2 all
+  3D printing material definitions for Cura
+
+ffmpegfs/stable 2.17-1+deb13u1 arm64
+  Fuse Multi Media Filesystem
+
+fonts-aenigma/stable 0.0.20080511+dfsg-5 all
+  465 free TrueType fonts by Brian Kent
+
+fonts-sil-andika/stable 6.200-1 all
+  Font family designed for literacy use
+
+fonts-sil-andika-compact/stable 5.000-3 all
+  Smart Unicode Latin/Greek fonts for literacy (tight spacing version)
+
+fonts-sil-andikanewbasic/stable 5.500-3.1 all
+  smart Unicode Latin font family for literacy (more faces, limited charset)
+
+fosfat/stable 1.0.1-2+b1 arm64
+  FUSE library to access Smaky formatted disk (ro)
+
+fosfat-dev/stable 1.0.1-2+b1 arm64
+  FUSE library to access Smaky formatted disk, development files
+
+fuse/stable 3.17.2-3 all
+  Filesystem in Userspace (transitional package)
+
+fuse-convmvfs/stable 0.2.6-2.1+b1 arm64
+  mirrors a whole filesystem tree from one charset to another
+
+fuse-emulator-common/stable 1.6.0+dfsg1-2 all
+  The Free Unix Spectrum Emulator (common files)
+
+fuse-emulator-gtk/stable 1.6.0+dfsg1-2+b2 arm64
+  The Free Unix Spectrum Emulator (GTK version)
+
+fuse-emulator-sdl/stable 1.6.0+dfsg1-2+b2 arm64
+  The Free Unix Spectrum Emulator (SDL version)
+
+fuse-emulator-utils/stable 1.4.3-2+b2 arm64
+  The Free Unix Spectrum Emulator - Utilities
+
+fuse-overlayfs/stable 1.14-1+b1 arm64
+  implementation of overlay+shiftfs in FUSE for rootless containers
+
+fuse-posixovl/stable 1.3-1.1 arm64
+  FUSE file system that provides POSIX functionality
+
+fuse-zip/stable 0.7.2-3 arm64
+  ZIP archive mounter based on FUSE
+
+fuse2fs/stable 1.47.2-3+b11 arm64
+  ext2 / ext3 / ext4 file system driver for FUSE
+
+fuse3/stable,now 3.17.2-3 arm64 [installed,automatic]
+  Filesystem in Userspace (3.x version)
+
+fuseext2/stable 1.47.2-3 all
+  transitional package
+
+fusefat/stable 0.3+dfsg-1+b1 arm64
+  Mount FAT file systems using FUSE
+
+fusefile/stable 2.0-1+b1 arm64
+  Using FUSE to combine file fragments into a single file.
+
+fuseiso/stable 20070708-7 arm64
+  FUSE module to mount ISO filesystem images
+
+fuseiso9660/stable 20070708-7 all
+  transitional package
+
+gargoyle-free/stable 2023.1+dfsg-4+b3 arm64
+  graphical player for Interactive Fiction games
+
+gerris/stable 20131206+dfsg-21+b3 arm64
+  Fluid Flow Solver
+
+gfarm2fs/stable 1.2.16-1+b2 arm64
+  FUSE program to mount the Gfarm file system
+
+gnunet-fuse/stable 0.20.0-5 arm64
+  secure, trust-based peer-to-peer framework (fuse filesystem client)
+
+go-mtpfs/stable 1.0.0+git20200111.42254b1-1+b15 arm64
+  Mount MTP devices over FUSE
+
+gocryptfs/stable 2.5.1-2+b1 arm64
+  Encrypted overlay filesystem written in Go
+
+golang-bazil-fuse-dev/stable 0.0~git20160811.0.371fbbd-4 all
+  FUSE library for Go
+
+golang-github-anacrolix-fuse-dev/stable 0.3.1-2 all
+  bazil.org/fuse with macOS support
+
+golang-github-containerd-nydus-snapshotter-dev/stable 0.13.4-2.1 all
+  A containerd snapshotter with data deduplication and lazy loading (library)
+
+golang-github-digitalocean-go-smbios-dev/stable 0.0~git20180907.390a4f4-2 all
+  Detection and access to SMBIOS and DMI data and structures (library)
+
+golang-github-goji-param-dev/stable 0.0~git20160927.d7f49fd-6 all
+  Rack / jQuery style parameter parsing for Go
+
+golang-github-hanwen-go-fuse-dev/stable 2.4.2-3 all
+  Native Go bindings for the FUSE kernel module
+
+golang-github-hanwen-usb-dev/stable 0.0~git20141217.69aee45-3 all
+  CGO bindings for libusb
+
+golang-github-jacobsa-bazilfuse-dev/stable 0.0~git20150622-4 all
+  fork of bazil.org/fuse for gcsfuse
+
+golang-github-jacobsa-fuse-dev/stable 0.0~git20150806.0.9a7512a-4 all
+  writing and mounting user-space file systems from Go
+
+gphotofs/stable 0.5-6+b3 arm64
+  filesystem to mount digital cameras
+
+guestmount/stable 1:1.54.1-2+deb13u1 arm64
+  FUSE-based mount utility for guest filesystems
+
+gvfs/stable 1.57.2-2+deb13u1 arm64
+  userspace virtual filesystem - GIO module
+
+gvfs-backends/stable 1.57.2-2+deb13u1 arm64
+  userspace virtual filesystem - backends
+
+gvfs-common/stable 1.57.2-2+deb13u1 all
+  userspace virtual filesystem - common data files
+
+gvfs-daemons/stable 1.57.2-2+deb13u1 arm64
+  userspace virtual filesystem - servers
+
+gvfs-fuse/stable 1.57.2-2+deb13u1 arm64
+  userspace virtual filesystem - fuse server
+
+gvfs-libs/stable 1.57.2-2+deb13u1 arm64
+  userspace virtual filesystem - private libraries
+
+httpdirfs/stable 1.2.7-1 arm64
+  filesystem client for HTTP directory listings
+
+hxtools/stable 20231224-2+b3 arm64
+  Collection of tools and scripts
+
+ifuse/stable 1.1.4-2+b1 arm64
+  FUSE module for iPhone and iPod Touch devices
+
+jmtpfs/stable 0.5-4+b2 arm64
+  FUSE based filesystem for accessing MTP devices
+
+kio-fuse/stable 5.1.0-1+b1 arm64
+  FUSE Interface for KIO
+
+libconfig-model-perl/stable 2.155-1 all
+  module for describing and editing configuration data
+
+libconfuse-common/stable 3.3-4 all
+  Common files for libConfuse
+
+libconfuse-dev/stable 3.3-4 arm64
+  Development files for libConfuse
+
+libconfuse-doc/stable 3.3-4 all
+  Documentation for libConfuse
+
+libconfuse2/stable 3.3-4 arm64
+  Library for parsing configuration files
+
+libfosfat1/stable 1.0.1-2+b1 arm64
+  API for the Smaky file system
+
+libfosgra1/stable 1.0.1-2+b1 arm64
+  library to decode Smaky .IMAGE files
+
+libfsapfs-utils/stable 20240429-1+b1 arm64
+  APFS access library -- Utilities
+
+libfsfat-utils/stable 0~20240501-1+b2 arm64
+  File Allocation Table (FAT) file system format access library -- Utilities
+
+libfuse-dev/stable 2.9.9-9 arm64
+  Filesystem in Userspace (development)
+
+libfuse-perl/stable 0.16.1+20180422git6becd92d7fce3fc411d7c-6+b5 arm64
+  Perl bindings for FUSE (Filesystems in USErland
+
+libfuse2t64/stable 2.9.9-9 arm64
+  Filesystem in Userspace (library)
+
+libfuse3-4/stable,now 3.17.2-3 arm64 [installed,automatic]
+  Filesystem in Userspace (library) (3.x version)
+
+libfuse3-dev/stable 3.17.2-3 arm64
+  Filesystem in Userspace (development) (3.x version)
+
+libhtml-linklist-perl/stable 0.1701-3 all
+  module that creates a 'smart' list of HTML links
+
+libjs-textarea-caret/stable 3.0.2-2 all
+  JS library to get the xy coords of a textarea or input's caret
+
+liblog-agent-logger-perl/stable 0.201-1 all
+  extension for Log::Agent providing an application-level logging API
+
+liblv-perl/stable 0.006-4 all
+  lvalue subroutines for Perl
+
+libmapbox-polylabel-dev/stable 2.0.1-1 all
+  Fast algorithm for finding polygon pole of inaccessibility
+
+libmfsio-dev/stable 4.57.5-1 arm64
+  MooseFS IO library - development files
+
+libmfsio1t64/stable 4.57.5-1 arm64
+  MooseFS IO library
+
+libnbd-bin/stable 1.22.2-1+b1 arm64
+  Utilities using the Network Block Device client library
+
+libntfs-3g89t64/stable 1:2022.10.3-5+deb13u1 arm64
+  read/write NTFS driver for FUSE (runtime library)
+
+libotcl1/stable 1.14+dfsg-8+b2 arm64
+  shared library of OTcl
+
+libotcl1-dev/stable 1.14+dfsg-8+b2 arm64
+  static library of OTcl
+
+libpam-cgfs/stable 1:6.0.4-4+deb13u3+b1 arm64
+  PAM module for managing cgroups for LXC
+
+libpam-mount/stable 2.20-3+b2 arm64
+  PAM module that can mount volumes for a user session
+
+libpam-mount-bin/stable 2.20-3+b2 arm64
+  PAM module that can mount volumes for a user session - helper
+
+libpragmatic-perl/stable 1.7-4 all
+  Adds pragmata to Exporter
+
+librust-cntr-dev/stable 1.6.0-2+b2 arm64
+  Container debugging tool based on FUSE - Rust source code
+
+librust-cntr-fuse-abi-dev/stable 0.4.1-1+b2 arm64
+  ABI types for communicating with the FUSE kernel interface - Rust source code
+
+librust-cntr-fuse-dev/stable 0.4.2-2 arm64
+  Filesystems in userspace (FUSE) (fork with functionality needed for the cntr project) - Rust source code
+
+librust-cntr-fuse-sys-dev/stable 0.4.1-1+b2 arm64
+  FFI bindings to the FUSE kernel interface and libfuse - Rust source code
+
+libsharp-dev/stable 1.0.0-2+b2 arm64
+  fast spherical harmonic transforms - C/C++ library
+
+libsharp0/stable 1.0.0-2+b2 arm64
+  fast spherical harmonic transforms - C/C++ development library
+
+libsquashfuse-dev/stable 0.5.2-0.2+b2 arm64
+  Development files for libsquashfuse
+
+libsquashfuse0/stable 0.5.2-0.2+b2 arm64
+  FUSE filesystem to mount squashfs archives library
+
+libstring-tokenizer-perl/stable 0.06-3 all
+  simple string tokenizer
+
+libunix-errno-ocaml/stable 0.6.2-1+b8 arm64
+  errno variant that includes a variety of constructors
+
+libunix-errno-ocaml-dev/stable 0.6.2-1+b8 arm64
+  errno variant that includes a variety of constructors -- development files
+
+libvavr0-java/stable 0.10.3-2 all
+  object-functional language extension for Java
+
+loggedfs/stable 0.9+ds-5 arm64
+  User-controllable logging file system
+
+lxcfs/stable 6.0.4-1+deb13u1 arm64
+  FUSE based filesystem for LXC
+
+makeself/stable 2.5.0-1 all
+  utility to generate self-extractable archives
+
+mergerfs/stable 2.40.2-5 arm64
+  another FUSE union filesystem
+
+moosefs-cgi/stable 4.57.5-1 all
+  MooseFS - CGI monitor
+
+moosefs-cgiserv/stable 4.57.5-1 all
+  simple CGI-capable HTTP server to run MooseFS CGI monitor
+
+moosefs-chunkserver/stable 4.57.5-1 arm64
+  MooseFS - data server
+
+moosefs-cli/stable 4.57.5-1 all
+  MooseFS CLI utility
+
+moosefs-client/stable 4.57.5-1 arm64
+  MooseFS - client tools and mount utility
+
+moosefs-common/stable 4.57.5-1 all
+  MooseFS - common files
+
+moosefs-master/stable 4.57.5-1 arm64
+  MooseFS - master server
+
+moosefs-metalogger/stable 4.57.5-1 arm64
+  MooseFS - metalogger server
+
+moosefs-netdump/stable 4.57.5-1 arm64
+  MooseFS network packet dump utility
+
+mp3fs/stable 1.1.1-1+b4 arm64
+  FUSE filesystem for transcoding FLAC to MP3 on the fly
+
+mustang-plug/stable 1.2-6 arm64
+  control Fender Mustang amplifiers
+
+nfs-ganesha/stable 6.5-5 arm64
+  NFS server in User Space
+
+nfs-ganesha-ceph/stable 6.5-5 arm64
+  nfs-ganesha fsal ceph libraries
+
+nfs-ganesha-doc/stable 6.5-5 all
+  Documentation for nfs-ganesha
+
+nfs-ganesha-gluster/stable 6.5-5 arm64
+  nfs-ganesha fsal gluster libraries
+
+nfs-ganesha-gpfs/stable 6.5-5 arm64
+  nfs-ganesha fsal gpfs libraries
+
+nfs-ganesha-mem/stable 6.5-5 arm64
+  nfs-ganesha fsal mem libraries
+
+nfs-ganesha-mount-9p/stable 6.5-5 all
+  nfs-ganesha mount.9P
+
+nfs-ganesha-nullfs/stable 6.5-5 arm64
+  nfs-ganesha fsal nullfs libraries
+
+nfs-ganesha-proxy-v4/stable 6.5-5 arm64
+  nfs-ganesha fsal proxy v4 libraries
+
+nfs-ganesha-rados-grace/stable 6.5-5 arm64
+  nfs-ganesha ganesha-rados-grace program
+
+nfs-ganesha-rgw/stable 6.5-5 arm64
+  nfs-ganesha fsal rgw libraries
+
+nfs-ganesha-vfs/stable 6.5-5 arm64
+  nfs-ganesha fsal vfs libraries
+
+ntfs-3g/stable 1:2022.10.3-5+deb13u1 arm64
+  read/write NTFS driver for FUSE
+
+ntfs-3g-dev/stable 1:2022.10.3-5+deb13u1 arm64
+  read/write NTFS driver for FUSE (development)
+
+nydus-snapshotter/stable 0.13.4-2.1+b10 arm64
+  A containerd snapshotter with data deduplication and lazy loading in P2P fashion (program)
+
+obexftp/stable 0.24-10+b3 arm64
+  file transfer utility for devices that use the OBEX protocol
+
+openafs-fuse/stable 1.8.13.2-1 arm64
+  AFS distributed file system experimental FUSE client
+
+oss-compat/stable 8 arm64
+  Open Sound System (OSS) compatibility package
+
+otcl-shells/stable 1.14+dfsg-8+b2 arm64
+  MIT Object Tcl shells
+
+owfs/stable 3.2p4+dfsg1-6 all
+  Dallas 1-wire support
+
+owfs-fuse/stable 3.2p4+dfsg1-6 arm64
+  1-Wire filesystem
+
+php-symfony-routing/stable 6.4.41+dfsg-0+deb13u1 all
+  associate a request with code that generates a response
+
+pike8.0-fuse/stable 8.0.1956-1 arm64
+  Filesystem in USErspace support for Pike
+
+pizzly/stable 0.37.3+ds-9+b2 arm64
+  Identifies gene fusions in RNA sequencing data
+
+pmccabe/stable 2.8-3+b1 arm64
+  McCabe-style function complexity and line counting for C and C++
+
+ponyprog/stable 3.1.4+ds-1 arm64
+  Serial device programmer
+
+psmisc/stable 23.7-2 arm64
+  utilities that use the proc file system
+
+python-llfuse-doc/stable 1.5.0+dfsg-1 all
+  Python bindings for the low-level FUSE API (documentation)
+
+python3-b2sdk/stable 2.8.0-1 all
+  Python library to access B2 cloud storage
+
+python3-beniget/stable 0.4.1-3 all
+  collection of compile-time Python AST analyzers
+
+python3-confuse/stable 2.0.1-1 all
+  Python Library for painless YAML configuration
+
+python3-defusedxml/stable 0.7.1-3 all
+  XML bomb protection for Python stdlib modules (for Python 3)
+
+python3-flexparser/stable 0.4-1 all
+  Parsing using Python typing
+
+python3-fuse/stable 2:1.0.9-1+b1 arm64
+  Python bindings for FUSE (Filesystems in USErspace) (Python 3 package)
+
+python3-fusepy/stable 3.0.1-5 all
+  simple Python interface to FUSE (Python 3)
+
+python3-llfuse/stable 1.5.0+dfsg-1+b2 arm64
+  Python 3 bindings for the low-level FUSE API
+
+python3-nfs-ganesha/stable 6.5-5 all
+  Python bindings for nfs-ganesha
+
+python3-odf/stable 1.4.2-4 all
+  Python3 API to manipulate OpenDocument files
+
+python3-processview/stable 1.4.1-3 all
+  Toolkit for workflow processes supervision
+
+python3-pyfuse3/stable 3.4.0-3+b3 arm64
+  Python 3 bindings for libfuse 3 with asynchronous API
+
+python3-pyfuse3-doc/stable 3.4.0-3 all
+  Python 3 bindings for libfuse 3 with asynchronous API (documentation)
+
+python3-pyrituals/stable 0.0.6-2 all
+  Async library for interacting with Rituals Perfume Genie devices
+
+python3-zeep/stable 4.3.1-2 all
+  Modern SOAP client library (Python 3)
+
+rbd-fuse/stable 18.2.7+ds-1+deb13u1 arm64
+  FUSE-based rbd client for the Ceph distributed file system
+
+rbd-fuse-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for rbd-fuse
+
+rdiff-backup-fs/stable 1.0.0-8+b1 arm64
+  Fuse filesystem for accessing rdiff-backup archives
+
+rshim/stable 2.2.2+debian-1+b1 arm64
+  Userspace (fuse) host driver for Mellanox BlueField devices
+
+ruby-fusefs/stable 0.7.0-6+b3 arm64
+  library to easily define a filesystem in Ruby using fuse
+
+ruby-netrc/stable 0.11.0-4 all
+  Ruby library to read and write netrc files
+
+ruby-whitequark-parser/stable 3.3.4.2-2 all
+  Ruby parser written in pure Ruby
+
+s3fs/stable 1.95-1 arm64
+  FUSE-based file system backed by Amazon S3
+
+samba-vfs-glusterfs/stable 2:4.22.10+dfsg-0+deb13u1 arm64
+  Samba Virtual FileSystem glusterfs modules
+
+squashfs-mount/stable 1.1.0-1 arm64
+  setuid utility instead of FUSE for mounting squashfs files
+
+squashfuse/stable 0.5.2-0.2+b2 arm64
+  FUSE filesystem to mount squashfs archives
+
+sra-toolkit/stable 3.2.1+dfsg-4 arm64
+  utilities for the NCBI Sequence Read Archive
+
+sshfs/stable 3.7.3-1.2~deb13u1 arm64
+  filesystem client based on SSH File Transfer Protocol
+
+surf-alggeo/stable 1.0.6+ds-7+b1 arm64
+  visualization of real algebraic geometry
+
+surf-alggeo-doc/stable 1.0.6+ds-7 all
+  visualization of real algebraic geometry -- manual
+
+surf-alggeo-nox/stable 1.0.6+ds-7+b1 arm64
+  visualization of real algebraic geometry -- no X support
+
+tmfs/stable 7-1+b1 arm64
+  Apple Time Machine FUSE mount
+
+transfuse/stable 0.6.7-1 arm64
+  Runs formatted documents through transformations/translation
+
+vagrant-sshfs/stable 1.3.7-1 all
+  vagrant plugin that adds synced folder support with sshfs
+
+vifm/stable 0.14-3 arm64
+  Flexible vi-like file manager using ncurses
+
+vmfs-tools/stable 0.2.5-1.1+b1 arm64
+  Tools to access VMFS filesystems
+
+vmfs6-tools/stable 0.2.1-1+b3 arm64
+  Tools to access VMFS6 filesystems
+
+vuos-mod-vufusefatfs/stable 0.3+dfsg-1+b1 arm64
+  Mount FAT file systems in vuos
+
+winregfs/stable 0.7-5+b1 arm64
+  Windows registry FUSE filesystem
+
+wit/stable 3.01a-5 arm64
+  manipulate Wii and GameCube ISO images and WBFS containers
+
+wmbubble/stable 1.54-2+b2 arm64
+  system-load meter for Window Maker that features a duck
+
+xmount/stable 1.2.0+ds-1+b1 arm64
+  tool for crossmounting between disk image formats
+
+xorriso-dd-target/stable 1.5.6-1.2 all
+  Device evaluator and disk image copier for GNU/Linux
+
+xrootd-fuse/stable 5.8.1-1 arm64
+  Xrootd FUSE tool
+
+xscreensaver-screensaver-bsod/stable 6.09+dfsg1-1 arm64
+  BSOD screen saver module from XScreenSaver
+

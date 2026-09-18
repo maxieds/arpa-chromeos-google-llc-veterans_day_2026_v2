@@ -1,0 +1,20 @@
+ctstat Version 6.15.0
+Copyright (C) 2004 by Harald Welte <laforge@gnumonks.org>
+This program is free software licensed under GNU GPLv2
+with ABSOLUTELY NO WARRANTY.
+
+Parameters:
+	-V --version		Print Version of Program
+	-c --count <count>	Print <count> number of intervals
+	-d --dump		Dump list of available files/keys
+	-j --json		Display in JSON format
+	-f --file <file>	Statistics file to use
+	-h --help		This help message
+	-i --interval <intv>	Set interval to 'intv' seconds
+	-k --keys k,k,k,...	Display only keys specified
+	-s --subject [0-2]	Control header printing:
+				0 = never
+				1 = once
+				2 = every 20 lines (default))
+	-w --width n,n,n,...	Width for each field
+

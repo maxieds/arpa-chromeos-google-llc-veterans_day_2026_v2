@@ -1,0 +1,1 @@
+objdump -a -f -p -x -D -S -s -Z -e -G -Wk -WK -F -l -C auto -Ul -z --prefix-addresses --show-raw-insn --ctf --sframe --show-all-symbols --special-syms --inlines --visualize-jumps=extended-color -M no-aliases,notes /usr/bin/addr2line

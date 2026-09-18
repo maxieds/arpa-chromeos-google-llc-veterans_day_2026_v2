@@ -1,0 +1,416 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+amideco/stable 0.31e-4 arm64
+  Decompress flashfiles equipped with an AMI BIOS
+
+art-nextgen-simulation-tools/stable 20160605+dfsg-5+b1 arm64
+  simulation tools to generate synthetic next-generation sequencing reads
+
+art-nextgen-simulation-tools-profiles/stable 20160605+dfsg-5 all
+  profiles for art simulation tools
+
+atftp/stable 0.8.0-8 arm64
+  advanced TFTP client
+
+awardeco/stable 0.2-7 arm64
+  Decompress flashfiles equipped with an AWARD BIOS
+
+bcc/stable 0.16.21-2 arm64
+  16-bit x86 C compiler
+
+biosig-tools/stable 3.9.0-1 arm64
+  format conversion tools for biomedical data formats
+
+biosquid/stable 1.9g+cvs20050121-15.1+b2 arm64
+  utilities for biological sequence analysis
+
+biosyntax/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (metapackage)
+
+biosyntax-common/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (common files)
+
+biosyntax-example/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (example)
+
+biosyntax-gedit/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (gedit)
+
+biosyntax-less/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (less)
+
+biosyntax-vim/stable 1.0.0b-6 all
+  Syntax Highlighting for Computational Biology (vim)
+
+bochs/stable 3.0+dfsg-1 arm64
+  IA-32 PC emulator
+
+bochs-sdl/stable 3.0+dfsg-1 arm64
+  SDL plugin for Bochs
+
+bochs-term/stable 3.0+dfsg-1 arm64
+  Terminal (ncurses-based) plugin for Bochs
+
+bochs-wx/stable 3.0+dfsg-1 arm64
+  WxWindows plugin for Bochs
+
+bochs-x/stable 3.0+dfsg-1 arm64
+  X11 plugin for Bochs
+
+bochsbios/stable 3.0+dfsg-1 all
+  BIOS for the Bochs emulator
+
+bootcd/stable 6.8.2 all
+  bootcd tools can copy a running or mounted Debian system.
+
+cbios/stable 0.29a-1.1 all
+  open source MSX BIOS roms
+
+coreboot-utils/stable 24.12+dfsg-2 arm64
+  Coreboot firmware utilities
+
+coreboot-utils-doc/stable 24.12+dfsg-2 all
+  Coreboot firmware utilities - documentation
+
+cpu-checker/stable 0.7-1.4 arm64
+  tools to help evaluate certain CPU (or BIOS) features
+
+cutesv/stable 2.1.1-1 all
+  comprehensive discovery of structural variations of genomic sequences
+
+daligner/stable 1.0+git20240119.335105d-3+b1 arm64
+  local alignment discovery between long nucleotide sequencing reads
+
+debootstick/stable 2.8 all
+  Turn a chroot environment into a bootable image
+
+dmidecode/stable,now 3.6-2 arm64 [installed]
+  SMBIOS/DMI table decoder
+
+edfbrowser/stable 2.12+dfsg-1 arm64
+  viewer for biosignal storage files such as bdf and edf
+
+eegdev-plugins-free/stable 0.2-10 arm64
+  Biosignal acquisition device library (free plugins)
+
+etherwake/stable 1.09-5 arm64
+  tool to send magic Wake-on-LAN packets
+
+fancontrol/stable 1:3.6.2-2 all
+  utility to control the fan speed
+
+faucc/stable 20180503-1.1+b1 arm64
+  C compiler generating Intel code for 16bit/32bit CPUs
+
+fcode-utils/stable 1.0.3-2 arm64
+  OpenBIOS FCode utilities
+
+flashrom/stable 1.4.0-3 arm64
+  Identify, read, write, erase, and verify BIOS/ROM/flash chips
+
+fortunes-es/stable 1.36+nmu1 all
+  Spanish fortune database
+
+fusioninventory-agent-task-network/stable 1:2.6-4 all
+  network device discovery for FusionInventory Agent
+
+gbrowse/stable 2.56+dfsg-12 all
+  GMOD Generic Genome Browser
+
+gdf-tools/stable 0.1.3-11.1+b2 arm64
+  IO library for the GDF -- helper tools
+
+gnu-efi/stable 3.0.18-1+deb13u1 arm64
+  Library for developing EFI applications
+
+golang-github-denisbrodbeck-machineid-dev/stable 1.0.1-2 all
+  Get the unique machine id of any host (Go library)
+
+golang-github-digitalocean-go-smbios-dev/stable 0.0~git20180907.390a4f4-2 all
+  Detection and access to SMBIOS and DMI data and structures (library)
+
+hwinfo/stable 21.82-1.1+b2 arm64
+  Hardware identification system
+
+ipmitool/stable 1.8.19-9 arm64
+  utility for IPMI control with kernel driver or LAN interface (daemon)
+
+lambda-align/stable 1.0.3-6+b1 arm64
+  Local Aligner for Massive Biological DatA
+
+lambda-align2/stable 2.0.1-3 arm64
+  Local Aligner for Massive Biological DatA - v2
+
+libbiojava-java/stable 1:1.9.7+dfsg-2 all
+  Java API to biological data and applications (default version)
+
+libbiojava4-java/stable 4.2.12+dfsg-8 all
+  Java API to biological data and applications (default version)
+
+libbiojava4.0-java/stable 4.2.12+dfsg-8 all
+  Java API to biological data and applications (version 4)
+
+libbiojava6-java/stable 6.1.0+dfsg-5 all
+  Java API to biological data and applications (version 6)
+
+libbiosig-dev/stable 3.9.0-1 arm64
+  I/O library for biomedical data - development files
+
+libbiosig3/stable 3.9.0-1 arm64
+  I/O library for biomedical data - dynamic library
+
+libbiosoup-dev/stable 0.11.0-3 all
+  C++ header-only support library for bioinformatics tools
+
+libconsensuscore-dev/stable 1.1.1+dfsg-8 arm64
+  algorithms for PacBio multiple sequence consensus -- development files
+
+libeegdev-dev/stable 0.2-10 arm64
+  Biosignal acquisition device library (Development files)
+
+libeegdev0t64/stable 0.2-10 arm64
+  Biosignal acquisition device library
+
+libflashrom-dev/stable 1.4.0-3 arm64
+  BIOS/ROM/flash chips - development files
+
+libflashrom1/stable 1.4.0-3 arm64
+  Identify, read, write, erase, and verify BIOS/ROM/flash chips - library
+
+libgdf-dev/stable 0.1.3-11.1+b2 arm64
+  IO library for the GDF -- development library
+
+libgdf0t64/stable 0.1.3-11.1+b2 arm64
+  IO library for the GDF (general dataformat for biosignals)
+
+libhd-dev/stable 21.82-1.1+b2 arm64
+  Hardware identification system library and headers
+
+libhd-doc/stable 21.82-1.1 all
+  Hardware identification system library documentation
+
+libhd21t64/stable 21.82-1.1+b2 arm64
+  Hardware identification system library
+
+libminimap0/stable 0.2-8+b3 arm64
+  library for approximate mapping of long biosequences
+
+libnet-nbname-perl/stable 0.26-4 all
+  NetBIOS Name Service Requests
+
+libnss-winbind/stable 2:4.22.10+dfsg-0+deb13u1 arm64
+  Samba nameservice integration plugins
+
+libparse-dmidecode-perl/stable 0.03-4 all
+  interface to SMBIOS using dmidecode
+
+libpbbam-dev/stable 2.4.0+dfsg-1+b4 arm64
+  Pacific Biosciences binary alignment/map (BAM) library (headers)
+
+libpbbam2.4.0/stable 2.4.0+dfsg-1+b4 arm64
+  Pacific Biosciences binary alignment/map (BAM) library
+
+libpbcopper-dev/stable 2.3.0+dfsg-2+b2 arm64
+  data structures, algorithms, and utilities for C++ applications -- header files
+
+libpbcopper2.3.0/stable 2.3.0+dfsg-2+b2 arm64
+  data structures, algorithms, and utilities for C++ applications
+
+libsquid-dev/stable 1.9g+cvs20050121-15.1+b2 arm64
+  biosquid headers and static library for biological sequence analysis
+
+libsquid1t64/stable 1.9g+cvs20050121-15.1+b2 arm64
+  biosquid dynamic library for biological sequence analysis
+
+libxdf-dev/stable 0.99.8+dfsg-3+b3 arm64
+  C++ library for loading XDF files (headers and static lib)
+
+libxdf0/stable 0.99.8+dfsg-3+b3 arm64
+  C++ library for loading XDF files
+
+libxdffileio-dev/stable 0.3-4+b2 arm64
+  Library to read/write EEG data file formats (development files)
+
+libxdffileio0/stable 0.3-4+b2 arm64
+  Library to read/write EEG data file formats
+
+machineid/stable 1.0.1-2+b4 arm64
+  Get the unique machine id of any host (program)
+
+mash/stable 2.3+dfsg-6+b2 arm64
+  fast genome and metagenome distance estimation using MinHash
+
+minimap/stable 0.2-8+b3 arm64
+  tool for approximate mapping of long biosequences such as DNA reads
+
+mtd-utils/stable 1:2.3.0-1 arm64
+  Memory Technology Device Utilities
+
+nanosv/stable 1.2.4+git20190409.c1ae30c-7 all
+  structural variant caller for nanopore data
+
+nbtscan/stable 1.7.2-3+b1 arm64
+  scan networks searching for NetBIOS information
+
+octave-biosig/stable 3.9.0-1 arm64
+  Octave bindings for BioSig library
+
+octave-bsltl/stable 1.3.1-4 all
+  biospeckle laser tool library for Octave
+
+octave-gdf/stable 0.1.3-11.1+b2 arm64
+  IO library for the GDF -- Octave interface
+
+openmsx/stable 20.0+dfsg-1.2 arm64
+  MSX emulator that aims for perfection
+
+openqa/stable 4.6.1732034221.ae34b08ff-2 all
+  automatic Operating System testing framework (webUI & scheduler)
+
+openqa-worker/stable 4.6.1732034221.ae34b08ff-2 all
+  automatic Operating System testing framework (worker)
+
+ovmf/stable 2025.02-8+deb13u1 all
+  UEFI firmware for 64-bit x86 virtual machines
+
+ovmf-ia32/stable 2025.02-8+deb13u1 all
+  UEFI firmware for 32-bit x86 virtual machines
+
+pbbamtools/stable 2.4.0+dfsg-1+b4 arm64
+  processing Pacific Biosciences binary alignment/map files
+
+python-dmidecode-data/stable 3.12.3-4 all
+  Python extension module for dmidecode (debug) - Data
+
+python-dracclient-doc/stable 3.1.0-6 all
+  Library for managing machines with Dell iDRAC cards - doc
+
+python-pbcore-doc/stable 2.1.2+dfsg-11 all
+  Python library for processing PacBio data files (documentation)
+
+python-sushy-cli-doc/stable 0.4.0-4 all
+  Redfish CLI tool based on sushy Redfish client library - doc
+
+python3-biopython-sql/stable 1.85+dfsg-4 all
+  Biopython support for the BioSQL database schema (Python 3)
+
+python3-biosig/stable 3.9.0-1 arm64
+  Python3 bindings for BioSig library
+
+python3-dmidecode/stable 3.12.3-4+b2 arm64
+  Python extension module for dmidecode - Python 3
+
+python3-dracclient/stable 3.1.0-6 all
+  library for managing machines with Dell iDRAC cards - Python 3.x
+
+python3-pbcommand/stable 2.1.1+git20231020.28d1635-1 all
+  common command-line interface for Pacific Biosciences analysis modules
+
+python3-pbconsensuscore/stable 1.1.1+dfsg-8 arm64
+  algorithms for PacBio multiple sequence consensus -- Python 3
+
+python3-pbcore/stable 2.1.2+dfsg-11 all
+  Python 3 library for processing PacBio data files
+
+python3-pyipmi/stable 0.5.7-1 all
+  Pure Python IPMI library
+
+python3-sushy-cli/stable 0.4.0-4 all
+  Redfish CLI tool based on sushy Redfish client library - Python 3.x
+
+r-bioc-biostrings/stable 2.74.1+dfsg-2 arm64
+  GNU R string objects representing biological sequences
+
+r-bioc-bsgenome/stable 1.74.0-2 all
+  BioConductor infrastructure for Biostrings-based genome data packages
+
+r-bioc-pwmenrich/stable 4.42.0-2 all
+  PWM enrichment analysis
+
+r-bioc-sva/stable 3.54.0-2 arm64
+  GNU R Surrogate Variable Analysis
+
+r-cran-epi/stable 2.59-1 arm64
+  GNU R epidemiological analysis
+
+r-cran-epibasix/stable 1.5-2 all
+  GNU R Elementary Epidemiological Functions
+
+r-cran-kmi/stable 0.5.5-2 all
+  GNU R Kaplan-Meier Multiple Imputation
+
+r-cran-rms/stable 8.0-0-1 arm64
+  GNU R regression modeling strategies by Frank Harrell
+
+racon/stable 1.5.0-3+b2 arm64
+  consensus module for raw de novo DNA assembly of long uncorrected reads
+
+redfishtool/stable 1.1.5-3 all
+  redfish command-line client
+
+refind/stable 0.14.2-2.1 arm64
+  boot manager for EFI-based computers
+
+seabios/stable 1.16.3-2 all
+  Legacy BIOS implementation
+
+sedutil/stable 1.20.0-2+b1 arm64
+  DTA sedutil Self encrypting drive software
+
+sigviewer/stable 0.6.4-3+b2 arm64
+  GUI viewer for biosignals such as EEG, EMG, and ECG
+
+smb-nat/stable 1:1.0-7 arm64
+  Netbios Auditing Tool
+
+smrtanalysis/stable 0~20210112 all
+  software suite for single molecule, real-time sequencing
+
+smrtanalysis-dev/stable 0~20210112 arm64
+  develepment libraries for smrtanalysis
+
+sniffles/stable 2.6.0-1 all
+  structural variation caller using third-generation sequencing
+
+swtpm-tools/stable 0.7.1-1.5 arm64
+  Tools for the TPM emulator
+
+tantan/stable 51-1 arm64
+  low complexity and tandem repeat masker for biosequences
+
+texlive-bibtex-extra/stable 2024.20250309-2 all
+  TeX Live: BibTeX additional styles
+
+texlive-publishers/stable 2024.20250309-2 all
+  TeX Live: Publisher styles, theses, etc.
+
+tracetuner/stable 3.0.6~beta+dfsg-3+b1 arm64
+  interpretation of DNA Sanger sequencing data
+
+uefitool/stable 0.28.0+A71-1 arm64
+  UEFI firmware image viewer and editor
+
+uefitool-cli/stable 0.28.0+A71-1 arm64
+  UEFI firmware image viewer and editor - CLI version
+
+vgabios/stable 0.8a+ds-2 all
+  VGA BIOS software for the Bochs emulated VGA card
+
+xen-utils-4.20/stable 4.20.2+37-g61ff35323e-0+deb13u1 arm64
+  Xen administrative tools
+
+xorriso/stable 1.5.6-1.2+b1 arm64
+  command line ISO-9660 and Rock Ridge manipulation tool
+
+yabause/stable 0.9.15-3 all
+  beautiful and under-rated Saturn emulator
+
+yabause-common/stable 0.9.15-3 all
+  beautiful and under-rated Saturn emulator - common files
+
+yabause-qt/stable 0.9.15-3+b2 arm64
+  beautiful and under-rated Saturn emulator - Qt port
+

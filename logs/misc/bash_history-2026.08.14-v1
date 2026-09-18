@@ -1,0 +1,343 @@
+ls ~/Downloads/
+cd ChameleonMini/\
+cd ChameleonMini
+ls ~/Downloads/
+mkdir saved-docs/{web,screenshots}
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+ls ~/Downloads/
+mv ~/Downloads/* saved-docs/web/
+mv saved-docs/web/* sfnet-xbox-linux-group/
+ls ~/Downloads/*
+mv ~/Downloads/* saved-docs/web/
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+mv ~/Downloads/*.zip .
+mv ~/Downloads/* saved-docs/web/
+ls ~/Downloads/*
+mv ~/Downloads/* saved-docs/web/
+rm -rf ~/Downloads/*
+ls ~/Downloads/*
+ls ~/Downloads
+ls ~/Downloads/
+rm -rf ~/Downloads/_.inf 
+ls
+mkdir chameleon-driver-docs
+mv ~/Downloads/* chameleon-driver-docs/
+mv ~/Downloads/* saved-docs/web/
+mv ~/Downloads/* chameleon-driver-docs/
+mkdir xboxoneresearch
+cd xboxoneresearch/
+git clone https://github.com/xboxoneresearch/XBOX_Linux.git
+cd ..
+mkdir avrdudes
+cd avrdudes/
+git clone https://github.com/avrdudes/avrdude.git
+cd ..
+mkdir ro5bert
+cd ro5bert/
+git clone https://github.com/Ro5bert/avra.git
+cd ..
+mv ~/Downloads/*.bz2 .
+ls
+mv ~/Downloads/* saved-docs/web/
+mkdir dfu-util && cd dfu-util && git clone git://git.code.sf.net/p/dfu-util/dfu-util.git
+cd ../avrdudes/
+git clone https://github.com/avrdudes/avr-libc.git
+git clone https://github.com/avrdudes/avarice.git
+cd ..
+mkdir gnu
+cd gnu
+git clone https://gcc.gnu.org/git/gcc.git
+cd ../emsec/
+ls
+cd ChameleonMini/
+ls
+cd Firmware/
+ls
+ls LUFA
+cat LUFA/Version.h 
+cat LUFA/Version.h | less
+cd ../../
+cd ..
+mkdir abcminiuser
+cd abcminiuser/
+ls
+git clone https://github.com/abcminiuser/lufa.git
+cd ..
+cd abcminiuser/
+ls
+mv ~/Downloads/*.tar.gz .
+ls
+wget http://github.com/abcminiuser/lufa/archive/refs/tags/LUFA-170418.tar.gz
+ls 
+cd ..
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+mv ~/.bash_history saved-docs/bash_history-2026.08.13-v1
+mv ~/Downloads/* saved-docs/web/
+mv ~/Downloads/bookmarks-2026.08.13-v1.html saved-docs/
+ls
+ls ..
+ls ../Downloads/
+du -hsc ./*
+mkdir gregkh
+cd gregkh/
+git clone https://github.com/gregkh/usbutils.git
+cd ..
+mkdir libusb
+cd libusb/
+git clone https://github.com/libusb/libusb.git
+cd ..
+mkdir nfc-tools
+cd nfc-tools/
+git clone https://github.com/nfc-tools/libnfc.git
+git clone https://github.com/nfc-tools/libfreefare.git
+cd ..
+ls ~/Downloads/
+mv ~/Downloads/* saved-docs/web/
+mv ~/.bash_history saved-docs/bash_history-2026.08.13-v2
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+mv ~/Downloads/* saved-docs/web/
+mv ~/Downloads/*.zip .
+ls
+mv ~/Downloads/* saved-docs/web/
+mkdir Drswith
+cd Drswith/
+git clone https://github.com/Drswith/usb.ids.git
+ls
+cd ..
+mv ~/Downloads/linux-usb-org-usb.ids .
+mv ~/Downloads/usb.ids ./systemd-usb.ids
+ls
+ls ~/Downloads/
+mv ~/Downloads/*.bz2 .
+mv ~/Downloads/* saved-docs/web/
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+mv ~/Downloads/bookmarks-2026.08.13-v2.html saved-docs/
+mv ~/.bash_history saved-docs/bash_history-2026.08.13-v3
+mv ~/Downloads/ProfDan-AVR2054.pdf saved-docs/web/
+mv saved-docs/web/ProfDan-AVR2054.pdf saved-docs/web/AVRSerialBootloader-ProfDan-AVR2054.pdf 
+cd ChameleonMini/
+ls
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+ls ~/Downloads/
+cd ChameleonMini/
+ls
+man tar
+cd emsec/ChameleonMini/
+ls
+less RevE/Drivers/LUFA\ VirtualSerial.inf 
+less RevE/Drivers/ChameleonDriver.inf 
+ls
+ls Software/
+less Software/EM4233_010Editor_Template.bt 
+ls
+cd Firmware/
+ls
+ls Atmel\ DFU\ Bootloader/
+ls
+ls LUFA/
+cd LUFA/Bootloaders/
+ls
+less makefile 
+ls
+less CDC/Config/AppConfig.h 
+less CDC/Config/LUFAConfig.h 
+less CDC/asf.xml 
+less CDC/LUFA\ CDC\ Bootloader.inf 
+less CDC/BootloaderCDC.txt 
+less CDC/Descriptors.h
+less CDC/Descriptors.c
+less CDC/BootloaderCDC.h 
+less CDC/BootloaderCDC.c
+less CDC/BootloaderAPI.h 
+less CDC/BootloaderAPI.c
+less CDC/BootloaderAPITable.S 
+ls 
+cd DFU/
+ls
+ls Config/AppConfig.h 
+less Config/AppConfig.h 
+less Config/LUFAConfig.h 
+ls
+less asf.xml 
+less makefile 
+less doxyfile 
+ls
+vim Descriptors.h 
+vim Descriptors.c
+ls
+vim BootloaderDFU.txt
+ls
+ls ..
+cd ../..
+ls
+less BuildTests/BoardDriverTest/BoardDeviceMap.cfg 
+less Build/HID_EEPROM_Loader/HID_EEPROM_Loader.c 
+ls
+less CodeTemplates/WindowsINF/LUFA\ 
+less CodeTemplates/WindowsINF/LUFA
+less CodeTemplates/WindowsINF/LUFA\ CDC-ACM.inf 
+less CodeTemplates/WindowsINF/LUFA\ RNDIS.inf 
+less Version.h 
+less README.txt 
+less .gitignore 
+less License.txt 
+cd ../../../../
+cd ../..
+ls
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+cd saved-docs/
+mkdir pdf
+mv web/*.pdf pdf
+ls
+mkdir unicdoe-org
+mv unicdoe-org/ unicode-org
+cd unicode-org/
+gi clone https://github.com/unicode-org/cldr.git.
+gi clone https://github.com/unicode-org/cldr.git
+git clone https://github.com/unicode-org/cldr.git
+ls cldr/
+ls ~/Downloads/
+mv ~/Downloads/* ../saved-docs/web/
+mv ~/Downloads/*.{txt,zip} .
+mv ~/Downloads/README.html .
+mv ~/Downloads/* ../saved-docs/web/
+git clone https://github.com/unicode-org/icu.git
+ls
+df -h
+git clone https://github.com/unicode-org/icu-data.git
+git clone https://github.com/unicode-org/icu-demos.git
+git clone https://github.com/unicode-org/icu-docs.git
+cd ..
+mkdir m3y54m
+cd m3y54m/
+git clone https://github.com/m3y54m/simple-avr-bootloader.git
+cd .,
+mkdir a-boot
+cd a-boot/
+mv ~/Downloads/README.txt .
+mv ~/Downloads/a-boot_2_1.7z .
+ls ~/Downloads/
+mv ~/Downloads/*.pdf ../../saved-docs/pdf
+mv ~/Downloads/* ../../saved-docs/web/
+rm -rf ~/Downloads/*
+cd ..
+mv a-boot ../
+ls
+cd ..
+mkdir Optiboot
+cd Optiboot/
+git clone https://github.com/Optiboot/optiboot.git
+cd ..
+mv ~/Downloads/*.pdf saved-docs/pdf/
+mv ~/Downloads/* saved-docs/web/
+mv ~/Downloads/bookmarks-2026.08.14-v1.html saved-docs/
+ls
+du -hsc ./*
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+ls
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+cd ../../../../../
+cd ..
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+ls
+du -hsc ./*
+ls XBoxDev/cromwell/
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+less XBoxDev/cromwell/boot/Memorymap.txt 
+less XBoxDev/cromwell/boot/loaders.h 
+less XBoxDev/cromwell/boot_rom/Xcodes.h 
+less XBoxDev/cromwell/boot_eth/README.ethboot 
+less XBoxDev/cromwell/boot_vml/disk/linuxboot.cfg 
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+mv ~/Downloads/*.msi 
+mkdir saved-docs/usb-docs
+mv ~/Downloads/*.msi saved-docs/usb-docs/
+ls ~/Downloads/
+mv ~/Downloads/* saved-docs/web/
+ls saved-docs/web/*.pdf
+mv ~/Downloads/*.pdf saved-docs/pdf/
+mv ~/Downloads/*.zip .
+mv ~/Downloads/* saved-docs/web/
+rm -rf ~/Downloads/*
+mv ~/Downloads/*.pdf saved-docs/pdf/
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+firefox
+cd ChameleonMini/emsec/ChameleonMini/Firmware/LUFA/
+ls
+cd Bootloaders/
+ls
+cd DFU/
+ls
+vim BootloaderDFU.txt
+ls
+vim BootloaderDFU.h
+vim BootloaderDFU.c
+vim BootloaderAPI.h
+vim BootloaderAPI.c
+vim BootloaderAPITable.S 
+cd ../HID/
+ls
+vim Config/LUFAConfig.h 
+less HostLoaderApp/gpl3.txt 
+less HostLoaderApp/.gitignore 
+less HostLoaderApp/hid_bootloader_cli.c 
+less HostLoaderApp_Python/hid_bootloader_loader.py 
+ls
+vim asf.xml 
+ls
+vim Descriptors.h 
+vim Descriptors.c
+ls
+vim BootloaderHID.txt 
+vim BootloaderHID.h
+vim BootloaderHID.c
+cd ../MassStorage/
+ls
+less Config/AppConfig.h 
+less Config/LUFAConfig.h 
+ls
+less Lib/SCSI.h
+less Lib/VirtualFAT.h
+less Lib/SCSI.h
+ls
+cd Lib/
+ls
+vim VirtualFAT.h 
+vim VirtualFAT.c
+ls
+vim SCSI.h
+vim SCSI.c
+cd ..
+ls
+vim asf.xml 
+vim Descriptors.h
+vim Descriptors.c
+ls
+vim BootloaderMassStorage.txt 
+vim BootloaderMassStorage.h
+vim BootloaderMassStorage.c
+vim BootloaderAPI.h
+vim BootloaderAPI.c
+vim BootloaderAPITable.S 
+cd ../Printer/
+ls
+ls Config/
+less Config/LUFAConfig.h 
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png ../../../../../../saved-docs/screenshots/
+cd ../../../../../..
+ls
+find . -type f -size +98M
+rm XBoxDev/xbox-linux/.git/objects/pack/pack-dcb0013a0267d401ae674e77742268e5704f6e54.{pack,idx}
+rm -rf sfnet-xbox-linux-group/Gentoox.ShALLaX.Home-Edition-v7.0.tbz2 
+rm -rf unicode-org/cldr/.git/objects/pack/pack-570b691f7e69f9869fd3de861a1dd92a9b28fea8.pack 
+rm -rf unicode-org/icu-docs/.git/objects/pack/pack-4d16f9b9e275510e876e8753ebeeb958d7961793.pack
+find . -type f -size +98M
+du -hsc ./*
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots/
+du -hsc ./*
+firefox
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png ChameleonMini/saved-docs/screenshots/Screenshot\ 2026-08-
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png ChameleonMini/saved-docs/screenshots/
+firefox
+cd ChameleonMini/emsec/ChameleonMini/Firmware/LUFA/Bootloaders/Printer/
+ls

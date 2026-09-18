@@ -1,0 +1,1700 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+ament-cmake-googletest/stable 2.7.2-2 arm64
+  CMake build system for ROS 2 ament packages (Googletest extension)
+
+android-boringssl/stable 14.0.0+r45-2 arm64
+  Google's internal fork of OpenSSL for the Android SDK - tool
+
+android-libandroidfw/stable 1:14~beta1-3 arm64
+  Android utility library
+
+android-libandroidfw-dev/stable 1:14~beta1-3 arm64
+  Android utility library - Development files
+
+android-libboringssl/stable 14.0.0+r45-2 arm64
+  Google's internal fork of OpenSSL for the Android SDK
+
+android-libboringssl-dev/stable 14.0.0+r45-2 arm64
+  Google's internal fork of OpenSSL for the Android SDK - devel
+
+apkverifier/stable 0.0~git20191015.7330a51-11+b15 arm64
+  Android APK Signature verification tool
+
+apprise/stable 1.9.3-1 all
+  Push Notifications that work with just about every platform
+
+aspell-ar-large/stable 1.2-0-5 all
+  Large Arabic dictionary for aspell
+
+beancount/stable 3.1.0-3 all
+  Double-entry accounting from text files
+
+bitlbee/stable 3.6-1.5 arm64
+  IRC to other chat networks gateway (default version)
+
+bitlbee-common/stable 3.6-1.5 arm64
+  IRC to other chat networks gateway (common files/docs)
+
+bitlbee-dev/stable 3.6-1.5 arm64
+  IRC to other chat networks gateway (dev files)
+
+bitlbee-libpurple/stable 3.6-1.5 arm64
+  IRC to other chat networks gateway (using libpurple)
+
+bitlbee-plugin-facebook/stable 1.2.2-3+b1 arm64
+  IRC to other chat networks gateway (Facebook chat plugin)
+
+bitlbee-plugin-otr/stable 3.6-1.5 arm64
+  IRC to other chat networks gateway (OTR plugin)
+
+bleachbit/stable 4.6.2-2 all
+  delete unnecessary files from the system
+
+buku/stable 4.9+ds-1 all
+  Powerful command-line bookmark manager
+
+buteo-syncfw-plugin-google/stable 0.4.28-1 arm64
+  Buteo contact and calendar sync plugin for Google
+
+ceres-solver-doc/stable 2.2.0+dfsg-4.1 all
+  documentation for ceres-solver
+
+clementine/stable 1.4.1+git27-g658f34ec4+dfsg-3 arm64
+  modern music player and library organizer
+
+closure-compiler/stable 20130227+rhino-2 all
+  JavaScript optimizing compiler
+
+cloud-enum/stable 0.7-3 all
+  Multi-cloud open source intelligence tool
+
+cloudsql-proxy/stable 1.33.14-1+b11 arm64
+  connect securely to a 2nd generation Cloud SQL DB
+
+cmis-client/stable 0.6.2-2.1+b2 arm64
+  client for the CMIS protocol
+
+collectd-core/stable 5.12.0-26 arm64
+  statistics collection and monitoring daemon (core system)
+
+conda-package-handling/stable 2.3.0-1 arm64
+  create and extract conda packages of various formats
+
+cpdb-libs-tools/stable 2.0~b5-1.2+b3 arm64
+  Common Print Dialog Backends - tools
+
+cpplint/stable 1.6.1-3 all
+  Static code checker for C++
+
+crow-translate/stable 2.11.1+git20240108+ds-2+b1 arm64
+  simple and lightweight translator
+
+debgpt/stable 0.7.7 all
+  General Purpose Terminal LLM Tool with Some Debian-Specific Design
+
+dialect/stable 2.5.0+~2.5.0-1 arm64
+  translation app for GNOME
+
+dnsenum/stable 1.3.2-1 all
+  tool to enumerate domain DNS information
+
+dnsmap/stable 0.36-4 arm64
+  DNS domain name brute forcing tool
+
+dnsrecon/stable 1.2.0-3 all
+  Powerful DNS enumeration script
+
+dummydroid/stable 1.2-2 all
+  Register a GSF ID for mock-up Android devices
+
+elpa-atomic-chrome/stable 2.0.0-6 all
+  edit a web-browser text entry area with Emacs
+
+elpa-org-caldav/stable 3.0+git20230924.1bbce67-2 all
+  Caldav sync for Emacs Orgmode
+
+elpa-protobuf-mode/stable 3.21.12-11+deb13u1 all
+  Emacs addon for editing protocol buffers
+
+elpa-web-mode/stable 17.3.20-1 all
+  major emacs mode for editing web templates
+
+emacs-calfw/stable 1.6+git20180118-2 all
+  calendar framework for Emacs
+
+emacs-calfw-howm/stable 1.6+git20180118-2 all
+  calendar framework for Emacs (howm add-on)
+
+emacs-mozc/stable 2.29.5160.102+dfsg-1.4 arm64
+  Mozc for Emacs
+
+emacs-mozc-bin/stable 2.29.5160.102+dfsg-1.4 arm64
+  Helper module for emacs-mozc
+
+enterprise-certificate-proxy-signer/stable 0.3.6-1+b2 arm64
+  signer for Google Proxies for Enterprise Certificates (program)
+
+epiphany-browser/stable 48.5-0+deb13u1 arm64
+  Intuitive GNOME web browser
+
+erlang-p1-xmpp/stable 1.9.4-1 arm64
+  Erlang/Elixir XMPP parsing and serialization library
+
+evolution/stable 3.56.2-0+deb13u1 arm64
+  groupware suite with mail client and organizer
+
+fcitx-googlepinyin/stable 0.1.6-5+b2 arm64
+  Fcitx wrapper for Google Pinyin IM engine
+
+fcitx-mozc-data/stable 2.29.5160.102+dfsg-1.4 all
+  Mozc input method - data files for fcitx
+
+fcitx-sayura/stable 0.1.2-2+b2 arm64
+  Fcitx wrapper for Sayura IM engine
+
+fcitx-table-cangjie/stable 1:4.2.9.9-2 all
+  Flexible Input Method Framework - Cangjie table (DO NOT USE)
+
+fence-agents-gce/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Google Compute Engine agent
+
+flashrom/stable 1.4.0-3 arm64
+  Identify, read, write, erase, and verify BIOS/ROM/flash chips
+
+flatbuffers-compiler/stable 23.5.26+dfsg-4 arm64
+  efficient cross platform serialization library - compiler
+
+flatbuffers-compiler-dev/stable 23.5.26+dfsg-4 arm64
+  efficient cross platform serialization library - cmake files
+
+fnt/stable 1.9-1 all
+  Font downloader/manager
+
+font-downloader/stable 10.0.0-4 all
+  Download and install fonts from fonts.google.com
+
+fonts-karla/stable 20230419-1 all
+  Grotesque Sans Serif Latin typeface
+
+fonts-material-design-icons-iconfont/stable 6.7.0+dfsg-1 all
+  Material Design Icons DX
+
+fonts-myanmar/stable 0.0-1 all
+  Myanmar font Collection
+
+fonts-noto-color-emoji/stable 2.051-0+deb13u1 all
+  color emoji font from Google
+
+fonts-open-sans/stable 1.11-2 all
+  humanist sans serif typeface by Steve Matteson
+
+fonts-roboto/stable 2:0~20170802-4 all
+  metapackage to pull in Roboto fonts
+
+fonts-roboto-slab/stable 1.100263+20170512-2 all
+  Google's signature family of fonts (slab)
+
+fonts-roboto-unhinted/stable 2:0~20170802-4 all
+  Google's signature family of fonts (unhinted)
+
+fonts-wqy-microhei/stable 0.2.0-beta-4 all
+  Sans-serif style CJK font derived from Droid
+
+fonts-yanone-kaffeesatz/stable 2.0+git20211102+ds-2 all
+  Font in six weights, reminiscent of 1920s coffee house typography
+
+fonts-yusei-magic/stable 1.000-20210130-2 all
+  handwritten letters written with permanent marker
+
+gambas3-gb-map/stable 3.20.2-1+deb13u1 all
+  Gambas online map viewer
+
+garmin-forerunner-tools/stable 0.10repacked-16 arm64
+  retrieve data from Garmin Forerunner/Edge GPS devices
+
+gcalcli/stable 4.5.1-1 all
+  Google Calendar Command Line Interface
+
+gdown/stable 5.2.0+dfsg-2+deb13u1 all
+  Google Drive public file downloader
+
+gftools/stable 0.5.2+dfsg-3 all
+  Google Fonts Tools
+
+gir1.2-gdata-0.0/stable 0.18.1-9 arm64
+  GObject introspection data for the GData webservices library
+
+gir1.2-goa-1.0/stable 3.54.5-1~deb13u1 arm64
+  Introspection data for GNOME Online Accounts
+
+git-annex-remote-rclone/stable 0.8-1 all
+  rclone-based git annex special remote
+
+gmtsar/stable 6.5+ds-3 all
+  InSAR processing system based on Generic Mapping Tools - metapackage
+
+gmtsar-core/stable 6.5+ds-3 arm64
+  InSAR processing system based on Generic Mapping Tools - core
+
+gmtsar-data/stable 6.5+ds-3 all
+  InSAR processing system based on Generic Mapping Tools - data
+
+gmtsar-scripts/stable 6.5+ds-3 all
+  InSAR processing system based on Generic Mapping Tools - scripts
+
+gnome-kiosk-search-appliance/stable 48.0-1 all
+  Example search application that uses GNOME Kiosk
+
+gnome-online-accounts/stable 3.54.5-1~deb13u1 arm64
+  service to manage online accounts for the GNOME desktop
+
+gnome-online-accounts-gtk/stable 3.50.6-1 arm64
+  GUI Utility for logging into online accounts
+
+gnome-shell-extension-gsconnect/stable 62-1+deb13u1 all
+  KDE Connect implementation for GNOME Shell
+
+gobuster/stable 3.6.0-1+b10 arm64
+  Directory/file & DNS busting tool written in Go
+
+golang-github-adamkorcz-go-fuzz-headers-1-dev/stable 0.0~git20230919.8b5d3ce-2 all
+  helper functions for Go fuzzing (library)
+
+golang-github-andybalholm-brotli-dev/stable 1.1.1-1 all
+  pure Go Brotli encoder and decoder (library)
+
+golang-github-avast-apkverifier-dev/stable 0.0~git20191015.7330a51-11 all
+  Android APK Signature verification Go library
+
+golang-github-backblaze-blazer-dev/stable 0.6.1-4 all
+  Go library for Backblaze's B2
+
+golang-github-bep-gowebp-dev/stable 0.3.0+dfsg-1 all
+  C bindings and an API for encoding WebP images (Go library)
+
+golang-github-bmatsuo-lmdb-go-dev/stable 1.8.0+git20170215.a14b5a3-4 all
+  Bindings for the LMDB C library
+
+golang-github-bradenhilton-cityhash-dev/stable 1.0.0-1.1 all
+  Go implementation of Google CityHash version 1
+
+golang-github-dgryski-go-farm-dev/stable 0.0~git20171119.ac7624ea8da3-1.1 all
+  pure-Go FarmHash implementation
+
+golang-github-digitalocean-godo-dev/stable 1.37.0-2 all
+  DigitalOcean API V2 client library for Google Go
+
+golang-github-dylanmei-winrmtest-dev/stable 0.0~git20151226.0256178-5 all
+  testing addon for golang-github-masterzen-winrm
+
+golang-github-emicklei-go-restful-dev/stable 3.10.2-1 all
+  build REST-style Web Services using Google Go
+
+golang-github-emicklei-go-restful-swagger12-dev/stable 1.0.1-3 all
+  Swagger 1.2 extension to the go-restful package
+
+golang-github-emicklei-proto-dev/stable 1.14.0-1 all
+  parser for Google ProtocolBuffers definition (Go library)
+
+golang-github-glycerine-go-unsnap-stream-dev/stable 0.0~git20210130.47dfef3-1 all
+  library for decoding the snappy streaming format
+
+golang-github-gogo-googleapis-dev/stable 1.4.0-2 all
+  googleapis generated with gogoprotobuf
+
+golang-github-golang-leveldb-dev/stable 0.0~git20161231.0.3435554-3 all
+  Implementation of the LevelDB key/value database in Go
+
+golang-github-google-blueprint-dev/stable 0.0~git20201007.25128be-2 all
+  Blueprint meta build system (library)
+
+golang-github-google-btree-dev/stable 1.0.1-1 all
+  BTree implementation for Go
+
+golang-github-google-cel-go-dev/stable 0.18.2+ds-5 all
+  Common Expression Language (go runtime)
+
+golang-github-google-certificate-transparency-dev/stable 1.3.1-2 all
+  Framework for monitoring and auditing SSL certificates
+
+golang-github-google-flatbuffers-dev/stable 24.12.23-1 all
+  FlatBuffers: Memory Efficient Serialization Library (library)
+
+golang-github-google-gnostic-models-dev/stable 0.6.8-3 all
+  Protocol buffer models for gnostic
+
+golang-github-google-go-cmp-dev/stable 0.6.0-1 all
+  Package for comparing Go values in tests
+
+golang-github-google-go-configfs-tsm-dev/stable 0.3.2-2 all
+  Trusted Security Module attestation reporting (library)
+
+golang-github-google-go-containerregistry-dev/stable 0.20.1+ds1-1 all
+  Go library and CLIs for working with container registries (library)
+
+golang-github-google-go-dap-dev/stable 0.10.0-1 all
+  Go implementation of the Debug Adapter Protocol (library)
+
+golang-github-google-go-github-dev/stable 60.0.0-1 all
+  Go library for accessing the GitHub API
+
+golang-github-google-go-intervals-dev/stable 0.0.2-3 all
+  Functions for set operations on intervals, like ranges (library)
+
+golang-github-google-go-pkcs11-dev/stable 0.3.0+dfsg-2 all
+  Go package for loading PKCS #11 modules (library)
+
+golang-github-google-go-querystring-dev/stable 1.1.0-2 all
+  library for encoding structs into URL query parameters
+
+golang-github-google-go-sev-guest-dev/stable 0.13.0-1 all
+  attestation verification reporting via /dev/sev-guest (library)
+
+golang-github-google-go-tdx-guest-dev/stable 0.3.1-2 all
+  wrap /dev/tdx-guest and attestation verification (library)
+
+golang-github-google-go-tpm-dev/stable 0.9.3-1 all
+  communicate directly with a TPM device (library)
+
+golang-github-google-go-tspi-dev/stable 0.3.0-2 all
+  TPM TSPI bindings for golang (library)
+
+golang-github-google-gofuzz-dev/stable 1.2.0-1 all
+  Fuzz testing for Go
+
+golang-github-google-gopacket-dev/stable 1.1.19-6.2 all
+  packet capturing and decoding library for Go
+
+golang-github-google-goterm-dev/stable 0.0~git20200907.555d40f-3 all
+  Go Terminal library with PTY support and colors
+
+golang-github-google-gousb-dev/stable 1.1.3-1 all
+  provides low-level interface for accessing USB devices (library)
+
+golang-github-google-jsonapi-dev/stable 1.0.0-1 all
+  jsonapi.org style payload serializer and deserializer
+
+golang-github-google-logger-dev/stable 1.1.1-2 all
+  Cross platform Go logging library (library)
+
+golang-github-google-martian-dev/stable 3.3.2-3 all
+  Martian is a library for building custom HTTP/S proxies
+
+golang-github-google-nftables-dev/stable 0.2.0-3 all
+  Go library to interact with Linux nftables
+
+golang-github-google-pprof-dev/stable 0.0~git20211008.947d60d-1 all
+  pprof is a tool for visualization and analysis of profiling data
+
+golang-github-google-renameio-dev/stable 2.0.0-2 all
+  provides a way to atomically create or replace a file or symbolic link
+
+golang-github-google-s2a-go-dev/stable 0.1.8-1 all
+  Secure Session Agent Client Libraries (library)
+
+golang-github-google-safetext-dev/stable 0.0~git20240104.7a7d9b3-1 all
+  Secure, syntax-aware libraries ensuring safer data formatting
+
+golang-github-google-shlex-dev/stable 0.0~git20191202.e7afc7f-1 all
+  Simple lexer for Go that supports shell-style rules
+
+golang-github-google-subcommands-dev/stable 1.2.0-2 all
+  go package for add some subcommands to single command
+
+golang-github-google-trillian-dev/stable 1.6.1-1 all
+  transparent scalable and cryptographically verifiable data store (library)
+
+golang-github-google-uuid-dev/stable 1.6.0-1 all
+  generates and inspects UUIDs based on RFC 4122
+
+golang-github-google-wire-dev/stable 0.6.0-1 all
+  Compile-time Dependency Injection for Go (library)
+
+golang-github-googleapis-enterprise-certificate-proxy-dev/stable 0.3.6-1 all
+  Google Proxies for Enterprise Certificates (library)
+
+golang-github-googleapis-gax-go-dev/stable 2.14.1-1 all
+  Google API Extensions for Go
+
+golang-github-googleapis-gnostic-dev/stable 0.2.0-7 all
+  compiler for OpenAPI specification - library
+
+golang-github-googlecloudplatform-cloudsql-proxy-dev/stable 1.33.14-1 all
+  connect securely to a 2nd generation Cloud SQL DB (Go library)
+
+golang-github-googlecloudplatform-guest-logging-go-dev/stable 0.0~git20210621.facc9c0-1.1 all
+  Go logging package with Google Cloud Platform interface (library)
+
+golang-github-gopacket-gopacket-dev/stable 1.3.0-2 all
+  Provides packet processing capabilities for Go (library)
+
+golang-github-hexops-gotextdiff-dev/stable 1.0.3-2 all
+  Unified text diffing in Go (copy of gopls internal diffing)
+
+golang-github-jacobsa-gcloud-dev/stable 0.0~git20150709-3 all
+  convenience wrapper around google cloud platform APIs
+
+golang-github-jacobsa-oglematchers-dev/stable 0.0~git20150320-3 all
+  matchers for testing/mocking frameworks such as ogletest
+
+golang-github-jacobsa-oglemock-dev/stable 0.0~git20150428-5 all
+  mocking framework for Go
+
+golang-github-jacobsa-ogletest-dev/stable 0.0~git20170503.80d50a7-2 all
+  unit testing framework for Go
+
+golang-github-klauspost-pgzip-dev/stable 1.2.6-1 all
+  parallel gzip (de)compression library for Go
+
+golang-github-leemcloughlin-gofarmhash-dev/stable 0.0~git20160919.0.0a055c5-6 all
+  Implements Google's Farmhash in Golang
+
+golang-github-masterzen-winrm-dev/stable 0.0~git20200615.c42b513-2 all
+  Windows remote command execution library for Go
+
+golang-github-masterzen-xmlpath-dev/stable 0.0~git20140218.13f4951-4 all
+  subset of the XPath specification for Go (deprecated)
+
+golang-github-minio-highwayhash-dev/stable 1.0.2-2 all
+  Native Go implementation of HighwayHash (library)
+
+golang-github-mostynb-go-grpc-compression-dev/stable 1.2.3-2 all
+  Go gRPC encoding wrappers for missing compressors (library)
+
+golang-github-mreiferson-go-snappystream-dev/stable 0.2.3-3 all
+  Go package for framed snappy streams
+
+golang-github-pquerna-otp-dev/stable 1.5.0+really1.3.0-1 all
+  Google Authenticator compatible one time passwords for Go
+
+golang-github-protocolbuffers-txtpbfmt-dev/stable 0.0~git20241112.20d2c9e-2 all
+  modify text proto files preserving comments (Go library)
+
+golang-github-seandolphin-bqschema-dev/stable 1.0.0-1 all
+  Go library to process Google Big Query
+
+golang-github-suapapa-go-eddystone-dev/stable 1.3.1-1 all
+  golang library for supporting Eddystone
+
+golang-github-tideland-golib-dev/stable 4.24.2-2 all
+  collection of misc Go packages
+
+golang-github-tidwall-btree-dev/stable 0.3.0-2 all
+  B-Tree implementation for Go
+
+golang-github-tink-crypto-tink-go-dev/stable 2.4.0-1 all
+  crypto library Tink in Go (library)
+
+golang-github-tink-crypto-tink-go-gcpkms-dev/stable 2.2.0-2 all
+  Extension to Tink Go for Google Cloud KMS integration (library)
+
+golang-github-transparency-dev-merkle-dev/stable 0.0.2-2 all
+  create and manipulate Merkle trees in Go (library)
+
+golang-github-victoriametrics-fastcache-dev/stable 1.12.2+ds1-1 all
+  fast thread-safe in-memory cache for big number of entries in Go (library)
+
+golang-github-zmap-zcrypto-dev/stable 0.0~git20240512.0fef58d-2 all
+  Liberal Go TLS + X.509 Library for Research
+
+golang-glog-dev/stable 1.2.4-1 all
+  Leveled execution logs for Go
+
+golang-go.uber-mock-dev/stable 0.5.0-1 all
+  mocking framework for the Go programming language
+
+golang-golang-x-oauth2-google-dev/stable 0.27.0-1 all
+  Google APIs support for OAuth2
+
+golang-gonum-v1-plot-dev/stable 0.7.0-5 all
+  repository for plotting and visualizing data (library)
+
+golang-google-api-dev/stable 0.61.0-6 all
+  Google APIs Client Library
+
+golang-google-appengine-dev/stable 1.6.7-2 all
+  basic functionality for Google App Engine
+
+golang-google-cloud-compute-metadata-dev/stable 0.56.0-6 all
+  Google Cloud Platform APIs (only cloud/compute/metadata)
+
+golang-google-cloud-dev/stable 0.56.0-6 all
+  Google Cloud Platform APIs
+
+golang-google-genproto-dev/stable 0.0~git20210726.e7812ac-4 all
+  Generated Go packages for common protocol buffer types
+
+golang-google-grpc-dev/stable 1.64.0-7 all
+  implementation of gRPC in Go
+
+golang-google-protobuf-dev/stable 1.36.5-1 all
+  Go support for protocol buffers (APIv2)
+
+golang-inet-netstack-dev/stable 0.0~git20211120.8aa80cf2-6 all
+  Pure Go network stack
+
+golang-k8s-sigs-randfill-dev/stable 1.0.0-2 all
+  Fuzz testing for go (library)
+
+goobox/stable 3.6.0-14+b1 arm64
+  CD player and ripper with GNOME 3 integration
+
+google-compute-engine-oslogin/stable 20240415.00-1 arm64
+  Google Compute Engine OS Login
+
+google-guest-agent/stable 20211116.00-7+b3 arm64
+  Guest Agent for Google Compute Engine
+
+google-mock/stable 1.16.0-1 arm64
+  Google's framework for writing and using C++ mock classes
+
+google-perftools/stable 2.16-1 all
+  command line utilities to analyze the performance of C++ programs
+
+google-wire/stable 0.6.0-1+b7 arm64
+  Compile-time Dependency Injection for Go (program)
+
+googletest/stable 1.16.0-1 all
+  Google's C++ test framework sources
+
+gpsprune/stable 25.2-1 all
+  visualize, edit, convert and prune GPS data
+
+gr-air-modes/stable 0.0.20210211-3.1+b7 arm64
+  Gnuradio Mode-S/ADS-B radio
+
+ibus-mozc/stable 2.29.5160.102+dfsg-1.4 arm64
+  Mozc engine for IBus - Client of the Mozc input method
+
+inkscape-open-symbols/stable 1.2.1-1.2 all
+  Open source SVG symbol sets that can be used as Inkscape symbols
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+jsxgraph/stable 1.10.1+dfsg1-1 all
+  Interactive Geometry with JavaScript
+
+juk/stable 4:25.04.0-1 arm64
+  music jukebox / music player
+
+kaccounts-providers/stable 4:25.04.0-1 arm64
+  KDE providers for accounts sign-on
+
+kbibtex/stable 0.10.0-4+b1 arm64
+  BibTeX editor for KDE
+
+kbibtex-data/stable 0.10.0-4 all
+  BibTeX editor for KDE -- common data
+
+kio-gdrive/stable 25.04.0-1 arm64
+  KIO access for GDrive
+
+lbdb/stable 0.56-1 arm64
+  Little Brother's DataBase for the mutt mail reader
+
+leveldb-doc/stable 1.23-5 all
+  LevelDB documentation
+
+libabsl-dev/stable 20240722.0-4 arm64
+  extensions to the C++ standard library (development files)
+
+libabsl20240722/stable,now 20240722.0-4 arm64 [installed,automatic]
+  extensions to the C++ standard library
+
+libandroid-tools-analytics-library-java/stable 2.2.2-3 all
+  Libraries for tracking the usage analytics of Android SDK
+
+libauth-googleauth-perl/stable 1.07-1 all
+  Google Authenticator TOTP Abstraction
+
+libauthen-u2f-perl/stable 0.003-2 all
+  pure Perl FIDO U2F server library
+
+libbot-basicbot-pluggable-perl/stable 1.30+ds1-1 all
+  extended simple IRC bot for pluggable modules
+
+libcaffeine-java/stable 2.6.2-1.1 all
+  High performance caching library
+
+libcaptcha-recaptcha-v3-perl/stable 0.06-1 all
+  Perl implementation of reCAPTCHA API version 3
+
+libcava-java/stable 0.6.0-2 all
+  Libraries and tools for blockchain and decentralized software
+
+libceres-dev/stable 2.2.0+dfsg-4.1+b2 arm64
+  nonlinear least squares minimizer (development files)
+
+libceres4t64/stable 2.2.0+dfsg-4.1+b2 arm64
+  nonlinear least squares minimizer (shared library)
+
+libcharts4j-java/stable 1.3-4 all
+  free, lightweight charts and graphs Java API
+
+libclosure-compiler-java/stable 20130227+rhino-2 all
+  JavaScript optimizing compiler - library package
+
+libclosure-compiler-java-doc/stable 20130227+rhino-2 all
+  JavaScript optimizing compiler - Javadoc
+
+libcmis-0.6-6t64/stable 0.6.2-2.1+b2 arm64
+  CMIS protocol client library
+
+libcmis-dev/stable 0.6.2-2.1+b2 arm64
+  CMIS protocol client library -- development
+
+libcompress-snappy-perl/stable 0.25+ds-1+b1 arm64
+  Perl interface to Google's Snappy (de)compressor
+
+libcpdb-backend-dev/stable 2.0~b5-1.2+b3 arm64
+  Common Print Dialog Backends - Development files for Backend Library
+
+libcpdb-dev/stable 2.0~b5-1.2+b3 arm64
+  Common Print Dialog Backends - Development files for both libraries
+
+libcpdb-frontend-dev/stable 2.0~b5-1.2+b3 arm64
+  Common Print Dialog Backends - Development files for Frontend Library
+
+libcpdb-frontend2t64/stable 2.0~b5-1.2+b3 arm64
+  Common Print Dialog Backends - Interface Library for Frontends
+
+libctemplate3t64/stable 2.4-4 arm64
+  Simple but powerful template language for C++
+
+libdbi-perl/stable,now 1.647-1+deb13u1 arm64 [installed,automatic]
+  Perl Database Interface (DBI)
+
+libfinance-quotehist-perl/stable 1.32-1 all
+  Perl modules for fetching historical stock quotes from the web
+
+libflatbuffers-dev/stable 23.5.26+dfsg-4 arm64
+  efficient cross platform serialization library - development files
+
+libflatbuffers23.5.26/stable 23.5.26+dfsg-4 arm64
+  efficient cross platform serialization library - shared library
+
+libgav1-1/stable,now 0.19.0-3+b1 arm64 [installed,automatic]
+  AV1 decoder developed by Google -- runtime library
+
+libgav1-bin/stable 0.19.0-3+b1 arm64
+  Av1 decoder developed by Google -- example application
+
+libgav1-dev/stable 0.19.0-3+b1 arm64
+  AV1 decoder developed by Google -- development kit
+
+libgdata-common/stable 0.18.1-9 all
+  Library for accessing GData webservices - common data files
+
+libgdata-dev/stable 0.18.1-9 arm64
+  Library for accessing GData webservices - development files
+
+libgdata-doc/stable 0.18.1-9 all
+  Library for accessing GData webservices - documentation
+
+libgdata-tests/stable 0.18.1-9 arm64
+  Library for accessing GData webservices - tests
+
+libgdata22/stable 0.18.1-9 arm64
+  Library for accessing GData webservices - shared libraries
+
+libgeo-coder-googlev3-perl/stable 0.17-2 all
+  Perl module providing access to Google Maps v3 Geocoding API
+
+libgeo-google-mapobject-perl/stable 0.06-4 all
+  module managing the server side of the Google Maps API
+
+libgeo-googleearth-pluggable-perl/stable 0.17-1 all
+  module to generate GoogleEarth Documents
+
+libgeocoding8/stable 8.13.51+ds-4.2 arm64
+  geocoding phone numbers
+
+libghc-double-conversion-dev/stable 2.0.5.0+ds1-1+b1 arm64
+  fast conversion between double precision floating point and text
+
+libghc-double-conversion-doc/stable 2.0.5.0+ds1-1 all
+  fast conversion between double precision floating point and text; documentation
+
+libghc-double-conversion-prof/stable 2.0.5.0+ds1-1+b1 arm64
+  fast conversion between double precision floating point and text; profiling libraries
+
+libghc-murmur-hash-dev/stable 0.1.0.10-3+b1 arm64
+  MurmurHash2 implementation for Haskell.
+
+libghc-murmur-hash-doc/stable 0.1.0.10-3 all
+  MurmurHash2 implementation for Haskell.; documentation
+
+libghc-murmur-hash-prof/stable 0.1.0.10-3+b1 arm64
+  MurmurHash2 implementation for Haskell.; profiling libraries
+
+libghc-protobuf-dev/stable 0.2.1.3-5+b1 arm64
+  Google Protocol Buffers for Haskell
+
+libghc-protobuf-doc/stable 0.2.1.3-5 all
+  Google Protocol Buffers for Haskell; documentation
+
+libghc-protobuf-prof/stable 0.2.1.3-5+b1 arm64
+  Google Protocol Buffers for Haskell; profiling libraries
+
+libghc-recaptcha-dev/stable 0.1.0.4-6+b1 arm64
+  Haskell interface to reCAPTCHA service
+
+libghc-recaptcha-doc/stable 0.1.0.4-6 all
+  Haskell interface to reCAPTCHA service; documentation
+
+libghc-recaptcha-prof/stable 0.1.0.4-6+b1 arm64
+  Haskell interface to reCAPTCHA service; profiling libraries
+
+libghc-stringsearch-dev/stable 0.3.6.6-13+b1 arm64
+  Fast searching, splitting and replacing of ByteStrings
+
+libghc-stringsearch-doc/stable 0.3.6.6-13 all
+  Fast searching, splitting and replacing of ByteStrings; documentation
+
+libghc-stringsearch-prof/stable 0.3.6.6-13+b1 arm64
+  Fast searching, splitting and replacing of ByteStrings; profiling libraries
+
+libgmock-dev/stable 1.16.0-1 arm64
+  Google's framework for writing C++ tests
+
+libgoa-1.0-0b/stable 3.54.5-1~deb13u1 arm64
+  library for GNOME Online Accounts
+
+libgoa-1.0-common/stable 3.54.5-1~deb13u1 all
+  library for GNOME Online Accounts - common files
+
+libgoa-1.0-dev/stable 3.54.5-1~deb13u1 arm64
+  library for GNOME Online Accounts - development files
+
+libgoa-1.0-doc/stable 3.54.5-1~deb13u1 all
+  library for GNOME Online Accounts - documentation files
+
+libgoa-backend-1.0-2/stable 3.54.5-1~deb13u1 arm64
+  backend library for GNOME Online Accounts
+
+libgoa-backend-1.0-dev/stable 3.54.5-1~deb13u1 arm64
+  backend library for GNOME Online Accounts - development files
+
+libgoogle-api-client-java/stable 1.27.1-3 all
+  Google APIs Client Library for Java
+
+libgoogle-api-services-drive-java/stable 1.32.1-2 all
+  Google Drive API Client Library for Java
+
+libgoogle-api-services-sheets-java/stable 1.32.1-3 all
+  Google Sheets API Client Library for Java
+
+libgoogle-auth-java/stable 0.18.0-2 all
+  Open source authentication client library for Java
+
+libgoogle-auto-common-java/stable 1.1.2-1 all
+  Set of common utilities to help ease use of annotation processing
+
+libgoogle-auto-service-java/stable 1.0.1-1 all
+  collection of source code generators for Java
+
+libgoogle-auto-value-java/stable 1.8.2-2 all
+  Generated immutable value classes for Java 7+
+
+libgoogle-common-protos-java/stable 1.16.0+ds-2 all
+  Google common protos for Java
+
+libgoogle-flogger-java/stable 0.5.1-3 all
+  Fluent Logging API for Java
+
+libgoogle-glog-dev/stable 0.6.0-2.1+b2 arm64
+  library that implements application-level logging.
+
+libgoogle-glog0v6t64/stable 0.6.0-2.1+b2 arm64
+  library that implements application-level logging.
+
+libgoogle-gson-java/stable 2.10.1-1 all
+  Converts Java objects into their JSON representation
+
+libgoogle-http-client-java/stable 1.42.0-2 all
+  Google HTTP Client Library for Java
+
+libgoogle-oauth-client-java/stable 1.34.1-2 all
+  Google OAuth Client Library for Java
+
+libgoogle-perftools-dev/stable 2.16-1 arm64
+  libraries for CPU and heap analysis, plus an efficient thread-caching malloc
+
+libgoogle-perftools4t64/stable 2.16-1 arm64
+  libraries for CPU and heap analysis, plus an efficient thread-caching malloc
+
+libgoogle-protocolbuffers-perl/stable 0.12-2 all
+  simple Perl interface to Google Protocol Buffers
+
+libgooglepinyin0/stable 0.1.2-8+b2 arm64
+  Pinyin engine fork from Google Pinyin on Android
+
+libgooglepinyin0-dev/stable 0.1.2-8+b2 arm64
+  Pinyin engine fork from Google Pinyin on Android - development files
+
+libgradle-plugins-java/stable 4.4.1-22 all
+  Powerful build system for the JVM - All plugins
+
+libgtest-dev/stable 1.16.0-1 arm64
+  Google's framework for writing C++ tests
+
+libguava-java/stable 32.0.1-1 all
+  Suite of Google common libraries for Java
+
+libguava-testlib-java/stable 32.0.1-1 all
+  Google Testing Libraries for Java
+
+libhtml-highlight-perl/stable 0.20-8 all
+  Perl module for highlighting words or patterns in HTML documents
+
+libjiconfont-java/stable 1.0.0-2 all
+  API to provide icons generated by any icon font
+
+libjs-autolink/stable 1.0.2+dfsg2-4 all
+  JavaScript methods converting text to links
+
+libjs-chartkick.js/stable 4.1.0-2 all
+  create beautiful JavaScript charts with minimal code
+
+libjs-dygraphs/stable 2.2.1-4 all
+  fast and flexible JavaScript charting library
+
+libjs-jquery-file-upload/stable 10.32.0-1 all
+  file upload widget for jQuery
+
+libjs-jquery-jush/stable 12-4 all
+  jQuery Syntax Highlighter
+
+libjs-jquery-typeahead/stable 2.11.0+dfsg1-3 all
+  Type-ahead autocompletion plugin for JQuery
+
+libjs-jquery.sparkline/stable 2.1.2-3 all
+  library for jQuery to generate sparklines
+
+libjs-openlayers/stable 2.13.1+ds2-11 all
+  JavaScript library for displaying map data in web browsers
+
+libjs-simile-timeline/stable 2.3.0+dfsg1-8 all
+  JavaScript library for web-based interactive timelines
+
+libjs-textarea-caret/stable 3.0.2-2 all
+  JS library to get the xy coords of a textarea or input's caret
+
+libkdgcommons-java/stable 1.0.17-1 all
+  utility library for web programming
+
+libkgapi-data/stable 24.12.3-1 all
+  Google API library for KDE -- data files
+
+libkgapi-dev/stable 24.12.3-1 arm64
+  Google API library for KDE -- development files
+
+libkmlframework-java/stable 0.0.git20150825.a2e0518-1 arm64
+  library/framework for generating Google Earth KML
+
+libkpim6gapiblogger6/stable 24.12.3-1 arm64
+  library to integrate with Google Blogger service API
+
+libkpim6gapicalendar6/stable 24.12.3-1 arm64
+  library to integrate with Google Calendar service API
+
+libkpim6gapicore6/stable 24.12.3-1 arm64
+  core library to integrate with Google service APIs
+
+libkpim6gapidrive6/stable 24.12.3-1 arm64
+  library to integrate with Google Drive service API
+
+libkpim6gapilatitude6/stable 24.12.3-1 arm64
+  library to integrate with Google Latitude service API
+
+libkpim6gapimaps6/stable 24.12.3-1 arm64
+  library to integrate with Google Maps service API
+
+libkpim6gapipeople6/stable 24.12.3-1 arm64
+  library to integrate with Google People service API
+
+libkpim6gapitasks6/stable 24.12.3-1 arm64
+  library to integrate with Google Tasks service API
+
+libkpimgapi-data/stable 22.12.3-3 all
+  Google API library for KDE -- data files
+
+libkpimgapi-dev/stable 22.12.3-3 arm64
+  Google API library for KDE -- development files
+
+libkpimgapiblogger5abi1/stable 22.12.3-3 arm64
+  library to integrate with Google Blogger service API
+
+libkpimgapicalendar5/stable 22.12.3-3 arm64
+  library to integrate with Google Calendar service API
+
+libkpimgapicontacts5/stable 22.12.3-3 arm64
+  library to integrate with Google Contacts service API
+
+libkpimgapicore5abi1/stable 22.12.3-3 arm64
+  core library to integrate with Google service APIs
+
+libkpimgapidrive5/stable 22.12.3-3 arm64
+  library to integrate with Google Drive service API
+
+libkpimgapilatitude5/stable 22.12.3-3 arm64
+  library to integrate with Google Latitude service API
+
+libkpimgapimaps5/stable 22.12.3-3 arm64
+  library to integrate with Google Maps service API
+
+libkpimgapitasks5/stable 22.12.3-3 arm64
+  library to integrate with Google Tasks service API
+
+libleveldb-dev/stable 1.23-5+b2 arm64
+  fast key-value storage library (development files)
+
+libleveldb1d/stable 1.23-5+b2 arm64
+  fast key-value storage library
+
+libmrmpi-dev/stable 1.0~20140404-3+b4 arm64
+  Implements MapReduce operation on top of standard MPI message - development
+
+libmrmpi1/stable 1.0~20140404-3+b4 arm64
+  Implements MapReduce operation on top of standard MPI message - runtime
+
+libmtbl-dev/stable 1.6.1-1+b1 arm64
+  immutable sorted string table library (development files)
+
+libmtbl1/stable 1.6.1-1+b1 arm64
+  immutable sorted string table library
+
+libnanopb-dev/stable 0.4.9.1-1 arm64
+  Protocol Buffers with small code size, development files
+
+libnet-gmail-imap-label-perl/stable 0.008-1 all
+  IMAP proxy for Google's Gmail that retrieves message labels
+
+libnet-google-authsub-perl/stable 0.5-4 all
+  module to interact with sites that implement Google style AuthSub
+
+libnet-oauth2-perl/stable 0.67-1 all
+  implementation of the OAuth 2.0 protocol
+
+libopencore-amrnb-dev/stable 0.1.6-1+b2 arm64
+  Adaptive Multi Rate speech codec - development files
+
+libopencore-amrnb0/stable,now 0.1.6-1+b2 arm64 [installed,automatic]
+  Adaptive Multi Rate speech codec - shared library
+
+libopencore-amrwb-dev/stable 0.1.6-1+b2 arm64
+  Adaptive Multi-Rate - Wideband speech codec - development files
+
+libopencore-amrwb0/stable,now 0.1.6-1+b2 arm64 [installed,automatic]
+  Adaptive Multi-Rate - Wideband speech codec - shared library
+
+libosmpbf-dev/stable 1.5.1-1+b1 arm64
+  C headers for OpenStreetMap PBF file format
+
+libosmpbf-java/stable 1.5.1-1 all
+  Java access library for OpenStreetMap PBF file format
+
+libosmpbf1/stable 1.5.1-1+b1 arm64
+  OpenStreetMap PBF file format library
+
+libpam-google-authenticator/stable 20191231-2.1+b1 arm64
+  Two-step verification
+
+libperformance-test-fixture-dev/stable 0.3.1-1+b3 arm64
+  Performance test fixture for ROS 2 benchmarks (development headers)
+
+libperformance-test-fixture0d/stable 0.3.1-1+b3 arm64
+  Performance test fixture for ROS 2 benchmarks
+
+libphonenumber-dev/stable 8.13.51+ds-4.2 arm64
+  parsing/formatting/validating phone numbers - development files
+
+libphonenumber8/stable 8.13.51+ds-4.2 arm64
+  parsing/formatting/validating phone numbers
+
+libphonenumber8-java/stable 8.13.51+ds-4.2 all
+  parsing/formatting/validating phone numbers - java
+
+libprotobuf-dev/stable 3.21.12-11+deb13u1 arm64
+  protocol buffers C++ library (development files) and proto files
+
+libprotobuf-java/stable 3.21.12-11+deb13u1 all
+  Java bindings for protocol buffers
+
+libprotobuf-java-format-java/stable 1.3-2 all
+  Library to serialize protobuf messages to XML, JSON and HTML
+
+libprotobuf-lite32t64/stable 3.21.12-11+deb13u1 arm64
+  protocol buffers C++ library (lite version)
+
+libprotobuf2-java/stable 2.6.1-4 all
+  Java bindings for protocol buffers
+
+libprotobuf32t64/stable 3.21.12-11+deb13u1 arm64
+  protocol buffers C++ library
+
+libprotoc-dev/stable 3.21.12-11+deb13u1 arm64
+  protocol buffers compiler library (development files)
+
+libprotoc32t64/stable 3.21.12-11+deb13u1 arm64
+  protocol buffers compiler library
+
+libprotozero-dev/stable 1.8.1-1 arm64
+  Minimalistic protocol buffer decoder and encoder in C++
+
+libprotozero-doc/stable 1.8.1-1 all
+  Minimalistic protocol buffer decoder and encoder in C++ - docs
+
+librdf-kml-exporter-perl/stable 0.003-2 all
+  export RDF geo data to KML (Google Earth)
+
+libre-engine-re2-perl/stable 0.18+ds-2 arm64
+  RE2 regex engine
+
+librust-cast-sender-dev/stable 0.2.0-2 arm64
+  Fully asynchronous implementation of the Google Cast CASTV2 protocol, allowing communication with receivers such as Chromecast or Google TV devices - Rust source code
+
+librust-dissimilar-dev/stable 1.0.2-1+b2 arm64
+  Diff library with semantic cleanup, based on Google's diff-match-patch - Rust source code
+
+librust-google-cloud-logging-dev/stable 0.1.0-1+b1 arm64
+  Google Cloud Structured Logging structures - Rust source code
+
+librust-gperftools-dev/stable 0.2.0-1+b2 arm64
+  Bindings to google's gperftools - Rust source code
+
+librust-hashbrown-dev/stable 0.14.5-5 arm64
+  Rust port of Google's SwissTable hash map - Rust source code
+
+librust-highway-dev/stable 1.2.0-1+b2 arm64
+  Native Rust port of Google's HighwayHash
+
+librust-polyline-dev/stable 0.10.1-2+b2 arm64
+  Encoder and decoder for the Google Encoded Polyline format - Rust source code
+
+librust-stackdriver-logger-dev/stable 0.8.2-5 arm64
+  Logger for Google's Stackdriver with a cli-friendly fallback for local development - Rust source code
+
+librust-varint-dev/stable 0.9.0-1+b3 arm64
+  Google Protobuf's Variable-Length Integers - Rust source code
+
+libs2-geometry-library-java/stable 1.0.1-3 all
+  Java library for spherical math
+
+libsisu-inject-java/stable 0.3.5-1 all
+  Dependency Injection container for Java
+
+libsnappy-java/stable 1.1.10.7-1 all
+  Snappy for Java, a fast compressor/decompresser
+
+libsnappy-jni/stable 1.1.10.7-1 arm64
+  Snappy for Java, a fast compressor/decompresser (JNI library)
+
+libsparsehash-dev/stable 2.0.3-2 all
+  Google's extremely memory-efficient C++ hash_map implementation
+
+libspatialaudio-dev/stable 0.3.0+git20180730+dfsg1-2.1+b1 arm64
+  library for ambisonic encoding and decoding (development files)
+
+libspatialaudio0t64/stable 0.3.0+git20180730+dfsg1-2.1+b1 arm64
+  library for ambisonic encoding and decoding (runtime files)
+
+libstreamvbyte-dev/stable 0.4.1-4+b1 arm64
+  fast integer compression in C using the StreamVByte codec (devel)
+
+libstreamvbyte0/stable 0.4.1-4+b1 arm64
+  fast integer compression in C using the StreamVByte codec
+
+libtcmalloc-minimal4t64/stable 2.16-1 arm64
+  efficient thread-caching malloc
+
+libtsl-hopscotch-map-dev/stable 2.3.1-1 all
+  C++ fast hash map and hash set using hopscotch hashing
+
+libunilog-dev/stable 2.5-2+b3 arm64
+  wrapper library for google-glog (develop)
+
+libunilog2/stable 2.5-2+b3 arm64
+  wrapper library for google-glog
+
+libvo-aacenc-dev/stable 0.1.3-3 arm64
+  VisualOn AAC encoder library (development files)
+
+libvo-aacenc0/stable 0.1.3-3 arm64
+  VisualOn AAC encoder library
+
+libvo-amrwbenc-dev/stable 0.1.3-2+b2 arm64
+  VisualOn AMR-WB encoder library (development files)
+
+libvo-amrwbenc0/stable 0.1.3-2+b2 arm64
+  VisualOn AMR-WB encoder library
+
+libvoaacenc-ocaml/stable 0.1.1-2+b4 arm64
+  OCaml interface to the vo-aacenc library -- runtime files
+
+libvoaacenc-ocaml-dev/stable 0.1.1-2+b4 arm64
+  OCaml interface to the vo-aacenc library -- developpement files
+
+libvpx-dev/stable 1.15.0-2.1+deb13u1 arm64
+  VP8 and VP9 video codec (development files)
+
+libvpx-doc/stable 1.15.0-2.1+deb13u1 all
+  VP8 and VP9 video codec (API documentation)
+
+libvpx9/stable,now 1.15.0-2.1+deb13u1 arm64 [installed,automatic]
+  VP8 and VP9 video codec (shared library)
+
+libvuser-google-api-perl/stable 1.0.1-1.1 all
+  Perl module that implements the Google Apps Provisioning API
+
+libwebm-dev/stable 1.0.0.31-1+b2 arm64
+  WebM parser library (development files)
+
+libwebm-tools/stable 1.0.0.31-1+b2 arm64
+  WebM parser library (binary tools)
+
+libwebm1/stable 1.0.0.31-1+b2 arm64
+  WebM parser library
+
+libwebservice-youtube-perl/stable 1.0.3-4.1 all
+  Perl module that provides an interface to YouTube services
+
+libwww-google-calculator-perl/stable 0.07-2.1 all
+  Perl interface for Google calculator
+
+liferea/stable 1.15.8-2+b1 arm64
+  feed/news/podcast client with plugin support
+
+lomiri-online-accounts-plugin-google/stable 0.20-1 all
+  Lomiri Online Accounts account plugin - Google
+
+mariadb-plugin-provider-snappy/stable 1:11.8.6-0+deb13u1 arm64
+  Snappy compression support in the server and storage engines
+
+mediawiki-extension-youtube/stable 1.9.4~git20241126.01673ce-1 all
+  Embed YouTube and other videos into MediaWiki pages
+
+mkchromecast/stable 0.3.9~git20200902+db2964a-2.1 all
+  Cast your Linux audio or video to your Google Cast devices
+
+mkdocs-material/stable 9.6.4-1 all
+  Material Design theme for MkDocs
+
+mopidy/stable 3.4.2-3 all
+  extensible music server
+
+mopidy-alsamixer/stable 2.0.1-1 all
+  Mopidy extension for volume control via ALSA
+
+mopidy-beets/stable 4.0.1-1 all
+  Mopidy extension for playing music from Beets' web plugin
+
+mopidy-dleyna/stable 2.0.2-1 all
+  Mopidy extension for playing music from Digital Media Servers
+
+mopidy-doc/stable 3.4.2-3 all
+  extensible music server - documentation
+
+mopidy-internetarchive/stable 3.0.1-2 all
+  Mopidy extension for playing music from the Internet Archive
+
+mopidy-local/stable 3.2.1-1 all
+  Mopidy extension for playing music from your local music archive
+
+mopidy-mpd/stable 3.3.0-1 all
+  Mopidy extension for controlling Mopidy from MPD clients
+
+mopidy-mpris/stable 3.0.3-1 all
+  Mopidy extension for controlling playback through MPRIS
+
+mopidy-podcast/stable 3.0.1-1 all
+  Mopidy extension for searching and browsing podcasts
+
+mopidy-podcast-itunes/stable 3.0.1-1 all
+  Mopidy extension for searching and browsing iTunes podcasts
+
+mopidy-scrobbler/stable 2.0.1-1 all
+  Mopidy extension for scrobbling music to Last.fm
+
+mopidy-somafm/stable 2.0.2-1 all
+  Mopidy extension for playing music from SomaFM
+
+mopidy-soundcloud/stable 3.0.2-1 all
+  Mopidy extension for playing music from SoundCloud
+
+mopidy-tunein/stable 1.1.0-1 all
+  Mopidy extension for playing music from TuneIn
+
+mozc-data/stable 2.29.5160.102+dfsg-1.4 all
+  Mozc input method - data files
+
+mozc-server/stable 2.29.5160.102+dfsg-1.4 arm64
+  Server of the Mozc input method
+
+mozc-utils-gui/stable 2.29.5160.102+dfsg-1.4 arm64
+  GUI utilities of the Mozc input method
+
+mrmpi-doc/stable 1.0~20140404-3 all
+  Implements MapReduce operation on top of standard MPI message - doc
+
+mtbl-bin/stable 1.6.1-1+b1 arm64
+  immutable sorted string table library (utilities)
+
+nanopb/stable 0.4.9.1-1 all
+  Protocol Buffers with small code size
+
+nitrokey-authenticator/stable 1.2.4-2+b3 arm64
+  TOTP authenticator app that's using Nitrokey Pro2 and/or LibremKey
+
+node-autoprefixer/stable 10.4.19.0+dfsg1+~cs24.8.24-1 all
+  add vendor prefixes to CSS rules
+
+node-chrome-trace-event/stable 1.0.3-2 all
+  create a trace of your node app per Google's Trace Event format
+
+node-googlediff/stable 0.1.0-3 all
+  Compares the differences between the two texts
+
+osmpbf-bin/stable 1.5.1-1+b1 arm64
+  OpenStreetMap PBF file format library - tools
+
+pandorafms-agent/stable 6.0-1 all
+  Pandora FMS - The Flexible Monitoring System (agent)
+
+paper-icon-theme/stable 1.5.0+git20200312.aa3e8af-6 all
+  simple and modern icon and cursor theme
+
+parsero/stable 0.0+git20140929.e5b585a-7 all
+  Audit tool for robots.txt of a site
+
+php-giggsey-libphonenumber/stable 9.0.4-1 all
+  PHP Port of Google's libphonenumber
+
+php-google-protobuf/stable 3.21.12-11+deb13u1 all
+  PHP bindings for protocol buffers
+
+php-google-recaptcha/stable 1.3.0-2+deb13u1 all
+  reCAPTCHA PHP client library
+
+php-kissifrot-php-ixr/stable 1.8.5-1 all
+  Incutio XML-RPC library (IXR)
+
+php-symfony-google-chat-notifier/stable 6.4.41+dfsg-0+deb13u1 all
+  Symfony Google Chat Notifier Bridge
+
+php-symfony-google-mailer/stable 6.4.41+dfsg-0+deb13u1 all
+  Symfony Google Mailer Bridge
+
+pidgin-plugin-pack/stable 2.8.0-1+b2 arm64
+  Collection of Pidgin plugins
+
+plasma-browser-integration/stable 6.3.4-2 arm64
+  Chromium, Google Chrome, Firefox integration for Plasma (backend)
+
+protobuf-compiler/stable 3.21.12-11+deb13u1 arm64
+  compiler for protocol buffer definition files
+
+protoc-gen-go/stable 1.36.5-1 arm64
+  Go plugin for protobuf compiler (APIv2)
+
+protoc-gen-go-1-5/stable 1.5.4-1 arm64
+  Go plugin for protobuf compiler (version v1.5.x)
+
+protoc-gen-go-grpc/stable 1.64.0-7+b2 arm64
+  gRPC plugin for protobuf compiler
+
+python-certbot-dns-google-doc/stable 4.0.0-2 all
+  Documentation for the Google DNS plugin for Certbot
+
+python-django-allauth-doc/stable 65.0.2-1 all
+  Django app for local and social authentication (Documentation)
+
+python-django-phonenumber-field-doc/stable 8.1.0-1 all
+  Model and form field for normalised phone numbers (Documentation)
+
+python-listparser-doc/stable 0.20-2 all
+  Parse OPML, RDF+FOAF, and iGoogle subscription lists (documentation)
+
+python-proto-plus-doc/stable 1.26.1-1 all
+  Documentation for python-proto-plus
+
+python-pyftpdlib-doc/stable 2.0.1-1 all
+  documentation for Python FTP server library
+
+python-shodan-doc/stable 1.31.0-1 all
+  Official Python library for Shodan (common documentation)
+
+python3-absl/stable 2.1.0-1 all
+  Abseil Python Common Libraries
+
+python3-aioimaplib/stable 2.0.1-1 all
+  Asynchronous IMAP4rev1 client library using Python asyncio
+
+python3-aiozipkin/stable 1.1.1a1-1 all
+  Distributed tracing instrumentation for asyncio application with zipkin
+
+python3-ament-cmake-google-benchmark/stable 2.7.2-2 arm64
+  Python 3 module for Google Benchmark in ROS 2 ament packages
+
+python3-ament-cpplint/stable 0.19.1-1 all
+  Python 3 module for cpplint support in ROS 2 ament packages
+
+python3-androidtvremote2/stable 0.1.1-2 all
+  interacting with Android TV using the Android TV Remote protocol v2
+
+python3-axisregistry/stable 0.3.5-2 all
+  Access data from the Google Fonts variable fonts axis registry
+
+python3-beancount/stable 3.1.0-3 arm64
+  Double-entry accounting from text files - Python module
+
+python3-brotlicffi/stable 1.1.0.0+ds1-1+b1 arm64
+  Python CFFI bindings for the reference Brotli encoder/decoder
+
+python3-certbot-dns-google/stable 4.0.0-2 all
+  Google DNS plugin for Certbot
+
+python3-chartkick/stable 1.0.1+ds1-2 all
+  create beautiful JavaScript charts with minimal code (Python 3)
+
+python3-django-allauth/stable 65.0.2-1 all
+  Django app for local and social authentication (Python 3 version)
+
+python3-django-phonenumber-field/stable 8.1.0-1 all
+  Model and form field for normalised phone numbers (Python 3 version)
+
+python3-docstring-parser/stable 0.16-1 all
+  Parse Python docstrings in reST, Google and Numpydoc format
+
+python3-flatbuffers/stable 23.5.26+dfsg-4 all
+  efficient cross platform serialization library - Python bindings
+
+python3-gcal-sync/stable 7.0.0-2 all
+  A python library for syncing Google Calendar to local storage
+
+python3-gflanguages/stable 0.7.2-3 all
+  API for evaluating language support in the Google Fonts collection
+
+python3-glyphsets/stable 1.0.0-3 all
+  Python API for evaluating glyph sets in font projects
+
+python3-gmplot/stable 1.4.1-1 all
+  matplotlib-like interface to plotting data with Google Maps (python3)
+
+python3-google-api-core/stable 2.23.0-1 all
+  Google API client core library
+
+python3-google-auth/stable 2.28.2-3 all
+  Google Authentication Library - Python 3.x
+
+python3-google-auth-httplib2/stable 0.2.0-3 all
+  Google Authentication Library: httplib2 transport
+
+python3-google-auth-oauthlib/stable 1.2.1-1 all
+  oauthlib integration with google-auth
+
+python3-google-i18n-address/stable 2.4.0-2.1 all
+  Internationalization address metadata (python3 bindings)
+
+python3-googleapi/stable 2.166.0-1 all
+  Google APIs Client Library - Python 3.x
+
+python3-googleapi-samples/stable 2.166.0-1 all
+  Google APIs Client Library for Python, samples
+
+python3-googleapis-common-protos/stable 1.66.0-1 all
+  Common protobufs used in Google APIs
+
+python3-googlemaps/stable 4.10.0-2 all
+  client library for Google Maps Platform
+
+python3-gpapi/stable 0.4.4+git20200310-3 all
+  Unofficial Python API for Google Play
+
+python3-gpsoauth/stable 0.4.1-4 all
+  Client library for Google Play Services OAuth
+
+python3-gspread/stable 6.1.4-1.1 all
+  Google Spreadsheets Python API
+
+python3-gtts/stable 2.5.4-1 all
+  Wrapper and CLI utility for the Google TTS (Text-to-Speech) API (Python 3)
+
+python3-gtts-token/stable 1.1.3-3 all
+  Calculates a token to run the Google Translate text to speech (Python 3)
+
+python3-hass-nabucasa/stable 0.103.0-1 all
+  Home Assistant cloud integration for secure access to cloud services
+
+python3-id/stable 1.5.0-1 all
+  Python tool for generating and managing OIDC identities
+
+python3-keras-applications/stable 1.0.8+ds-2 all
+  popular models and pre-trained weights for the Keras deep learning framework
+
+python3-keras-preprocessing/stable 1.1.2-1 all
+  data preprocessing module for the Keras deep learning framework
+
+python3-listparser/stable 0.20-2 all
+  Parse OPML, RDF+FOAF, and iGoogle subscription lists
+
+python3-onetimepass/stable 1.0.1-2 all
+  Module for generating and validating HOTP and TOTP tokens
+
+python3-pattern/stable 2.6+git20180818-4.1 all
+  web mining module for Python 3
+
+python3-pdoc/stable 15.0.1-2 all
+  API Documentation for Python Projects
+
+python3-phonenumbers/stable 8.12.57-4 all
+  parsing/formatting/validating phone numbers - Python 3
+
+python3-polyline/stable 2.0.0-2 all
+  Python library to encode/decode polylines
+
+python3-proto-plus/stable 1.26.1-1 all
+  Beautiful Pythonic protocol buffers
+
+python3-protobuf/stable 3.21.12-11+deb13u1 arm64
+  Python 3 bindings for protocol buffers
+
+python3-pychromecast/stable 9.4.0-2 all
+  Library to communicate with Google Chromecast (Python 3)
+
+python3-pyftpdlib/stable 2.0.1-1 all
+  Python FTP server library (Python 3)
+
+python3-pyocr/stable 0.8.5-2 all
+  Python wrapper for OCR engines (Python 3)
+
+python3-pyotp/stable 2.9.0-2 all
+  Python One Time Password Library
+
+python3-shodan/stable 1.31.0-1 all
+  Official Python library for Shodan (Python 3)
+
+python3-snappy/stable 0.5.3-1.2+b6 arm64
+  snappy compression library from Google - Python 3.x
+
+python3-sphinxcontrib.googleanalytics/stable 0.4-2 all
+  Google Analytics extension for Sphinx
+
+quickroute-gps/stable 2.5-1 arm64
+  GPS analysis software for getting your route on the map
+
+r-cran-gargle/stable 1.5.2-1 all
+  GNU R utilities for working with Google APIs
+
+r-cran-gfonts/stable 0.2.0-3 all
+  offline 'Google' Fonts for 'Markdown' and 'Shiny' for GNU R
+
+r-cran-googledrive/stable 2.1.1-3 all
+  GNU R interface to Google Drive
+
+r-cran-googlesheets4/stable 1.1.1-1 all
+  GNU R access Google sheets using the sheets API V4
+
+r-cran-googlevis/stable 0.7.3+dfsg-1 all
+  GNU R Interface to Google Charts
+
+r-cran-rcppcctz/stable 0.2.13-1 arm64
+  GNU R package with 'CCTZ' bindings
+
+r-cran-rgooglemaps/stable 1.5.1-1 all
+  GNU R overlays on static maps
+
+r-cran-rprotobuf/stable 0.4.23-1 arm64
+  GNU R package providing an interface to the Protocol Buffers API
+
+r-cran-s2/stable 1.1.7-2 arm64
+  GNU R spherical geometry operators using the S2 geometry library
+
+r-cran-thematic/stable 0.1.6-1 all
+  unified and automatic theming for GNU R
+
+r-cran-v8/stable 6.0.2+dfsg-1 arm64
+  Embedded JavaScript and WebAssembly Engine for R
+
+rclone/stable 1.60.1+dfsg-4 arm64
+  rsync for commercial cloud storage
+
+resource-agents/stable 1:4.16.0-3+deb13u2 arm64
+  Cluster Resource Agents
+
+roundcube-plugin-html5-notifier/stable 0.6.4-1 all
+  HTML5_Notifier plugin for Roundcube Webmail
+
+rss-bridge/stable 2022-01-20+dfsg1-1 all
+  web service generating ATOM feeds for websites that don't have them
+
+rssguard/stable 4.0.4+dfsg-1.1+b1 arm64
+  simple, light and easy-to-use RSS/ATOM feed aggregator
+
+ruby-beefcake/stable 1.2.0-1 all
+  sane Google Protocol Buffers library for Ruby
+
+ruby-diff-match-patch/stable 0.1.0-2 all
+  diff/match/patch algorithms implemented in Ruby
+
+ruby-fog-google/stable 1.19.0-3 all
+  module for the 'fog' library to support Google cloud services
+
+ruby-google-api-client/stable 0.53.0-2 all
+  Client for accessing Google APIs
+
+ruby-google-apis-androidpublisher-v3/stable 0.34.0-2 all
+  Simple REST client for Google Play Android Developer API V3
+
+ruby-google-apis-cloudbilling-v1/stable 0.21.0-2 all
+  Simple REST client for Cloud Billing API V1
+
+ruby-google-apis-cloudresourcemanager-v1/stable 0.31.0-2 all
+  Simple REST client for Cloud Resource Manager API V1
+
+ruby-google-apis-compute-v1/stable 0.57.0-2 all
+  Simple REST client for Compute Engine API V1
+
+ruby-google-apis-container-v1/stable 0.43.0-2 all
+  Simple REST client for Kubernetes Engine API V1
+
+ruby-google-apis-container-v1beta1/stable 0.43.0-2 all
+  Simple REST client for Kubernetes Engine API V1beta1
+
+ruby-google-apis-core/stable 0.11.3-1 all
+  Common utility and base classes for legacy Google REST clients
+
+ruby-google-apis-dns-v1/stable 0.12.0-2 all
+  Simple REST client for Cloud DNS API V1
+
+ruby-google-apis-iam-v1/stable 0.36.0-2 all
+  Simple REST client for Identity and Access Management (IAM) API V1
+
+ruby-google-apis-iamcredentials-v1/stable 0.16.0-2 all
+  Simple REST client for IAM Service Account Credentials API V1
+
+ruby-google-apis-monitoring-v3/stable 0.12.0-2 all
+  Simple REST client for Cloud Monitoring API V3
+
+ruby-google-apis-pubsub-v1/stable 0.7.0-2 all
+  Simple REST client for Cloud Pub/Sub API V1
+
+ruby-google-apis-serviceusage-v1/stable 0.28.0-2 all
+  Simple REST client for Service Usage API V1
+
+ruby-google-apis-sqladmin-v1beta4/stable 0.41.0-2 all
+  Simple REST client for Cloud SQL Admin API V1beta4
+
+ruby-google-apis-storage-v1/stable 0.21.0-2 all
+  Simple REST client for Google Cloud Storage JSON API V1
+
+ruby-google-cloud-core/stable 1.6.1-1.1 all
+  Internal shared library for google-cloud-ruby
+
+ruby-google-cloud-env/stable 1.6.0-1 all
+  Google Cloud Platform hosting environment information
+
+ruby-google-cloud-errors/stable 1.3.1-1 all
+  Error classes for google-cloud-ruby
+
+ruby-google-protobuf/stable 3.21.12-11+deb13u1 arm64
+  Protocol Buffers
+
+ruby-googleapis-common-protos-types/stable 1.14.0-1 all
+  Common protobuf types used in Google APIs
+
+ruby-googleauth/stable 1.3.0-4 all
+  Google Auth Library for Ruby
+
+ruby-hangouts-chat/stable 0.0.5-2 all
+  Library for sending messages to Hangouts Chat rooms
+
+ruby-omniauth-google-oauth2/stable 1.1.1-2 all
+  Google OAuth2 strategy for OmniAuth 1.x
+
+ruby-representable/stable 3.0.4-2 all
+  Renders and parses JSON/XML/YAML documents from and to Ruby objects
+
+ruby-safety-net-attestation/stable 0.4.0-2 all
+  SafetyNet attestation response verification
+
+s3ql/stable 5.2.3+dfsg-2 arm64
+  Full-featured file system for online data storage
+
+s3ql-dbg/stable 5.2.3+dfsg-2 arm64
+  Full-featured file system for online data storage (debugging symbols)
+
+sacad/stable 2.8.0-2 all
+  Search and download music album covers
+
+sublist3r/stable 1.1-4 all
+  Fast subdomains enumeration tool for penetration testers
+
+sunpinyin-utils/stable 3.0.0~rc2+ds1-5+b2 arm64
+  Simplified Chinese Input Method from SUN (utilities)
+
+surfraw/stable 2.3.0-2 all
+  fast unix command line interface to WWW
+
+surfraw-extra/stable 2.3.0-2 all
+  extra surfraw search tools with heavy dependencies
+
+syncthingtray/stable 1.7.5-1 arm64
+  desktop integration for Syncthing
+
+syncthingtray-kde-plasma/stable 1.7.5-1 arm64
+  KDE Plasma Desktop and Dolphin integration for Syncthing
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+tryton-modules-google-maps/stable 7.0.0-3 all
+  Tryton application platform - google maps module
+
+txt2tags/stable 3.9-1 all
+  conversion tool to generating several file formats
+
+txtpbfmt/stable 0.0~git20241112.20d2c9e-2+b4 arm64
+  modify text proto files preserveing comments (program)
+
+typecatcher/stable 0.4-0.1 all
+  Download Google webfonts for off-line use
+
+urlextractor/stable 0.2.0-2.1 all
+  Information gathering and website reconnaissance
+
+varnish-re2/stable 2.0.0-7 arm64
+  RE2 regular expressions for Varnish
+
+victoria-metrics/stable 1.112.0+ds1-2 arm64
+  fast, cost-effective and scalable time series database
+
+vpx-tools/stable 1.15.0-2.1+deb13u1 arm64
+  VP8 and VP9 video codec encoding/decoding tools
+
+webext-indie-wiki-buddy-chromium/stable 3.10.1-1 all
+  browser extension that redirects you to independent wikis (Chromium)
+
+webext-indie-wiki-buddy-firefox/stable 3.10.1-1 all
+  browser extension that redirects you to independent wikis (Firefox)
+
+webext-privacy-badger/stable 2020.10.7-1 all
+  Privacy Badger automatically learns to block invisible trackers
+
+xfce4-smartbookmark-plugin/stable 0.5.2-1+b3 arm64
+  search the web via the Xfce4 panel
+
+yt-dlp/stable 2025.04.30-1 all
+  downloader of videos from YouTube and other sites
+
+ytcc/stable 2.6.1-1 all
+  YouTube channel checker
+
+zenmap/stable 7.95+dfsg-3 all
+  The Network Mapper Front End
+

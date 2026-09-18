@@ -1,0 +1,587 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+avahi-autoipd/stable 0.8-16 arm64
+  Avahi IPv4LL network address configuration daemon
+
+baresip/stable 1.1.0-3 all
+  portable and modular SIP user-agent - metapackage
+
+baresip-core/stable 1.1.0-3 arm64
+  portable and modular SIP user-agent - core parts
+
+baresip-ffmpeg/stable 1.1.0-3 arm64
+  portable and modular SIP user-agent - FFmpeg codecs and formats
+
+baresip-gstreamer/stable 1.1.0-3 arm64
+  portable and modular SIP user-agent - GStreamer pipelines
+
+baresip-gtk/stable 1.1.0-3 arm64
+  portable and modular SIP user-agent - GTK+ front-end
+
+baresip-x11/stable 1.1.0-3 arm64
+  portable and modular SIP user-agent - X11 features
+
+clatd/stable 2.1.0-2+deb13u1 all
+  464XLAT (CLAT) and SIIT-DC (ER) network architecture support
+
+coturn/stable 4.6.1-2+b2 arm64
+  TURN and STUN server for VoIP
+
+dataurl/stable 0.0~git20191104.d1553a7-1.1+b17 arm64
+  Data URL Schemes in Golang (program)
+
+elpa-uuid/stable 0.0.3~git20120910.1519bfe-4 all
+  UUID/GUID library for Emacs Lisp
+
+erlang-p1-oauth2/stable 0.6.14-2 arm64
+  Erlang library for server side implementation of OAuth2
+
+gir1.2-ical-3.0/stable 3.0.20-1+b1 arm64
+  iCalendar library implementation in C (GObject Introspection)
+
+gir1.2-nice-0.1/stable 0.1.22-1 arm64
+  ICE library (GObject introspection)
+
+golang-github-aead-chacha20-dev/stable 0.0~git20180709.8b13a72-5 all
+  ChaCha20 and XChaCha20 stream ciphers go library
+
+golang-github-beevik-ntp-dev/stable 0.3.0-4 all
+  simple NTP client for Go (library)
+
+golang-github-dpotapov-go-spnego-dev/stable 0.0~git20190506.c2c6091-2 all
+  Golang library to make HTTP calls with Kerberos authentication
+
+golang-github-eggsampler-acme-dev/stable 3.6.1-2 all
+  Go client library implementation for ACME v2 (RFC8555) (library)
+
+golang-github-emersion-go-imap-uidplus-dev/stable 0.0~git20200503.e75854c-2 all
+  UIDPLUS extension for go-imap (library)
+
+golang-github-emersion-go-msgauth-dev/stable 0.6.6-2 all
+  Go library and tools for DKIM, DMARC and Authentication-Results (library)
+
+golang-github-emersion-go-vcard-dev/stable 0.0~git20230815.8fda7d2-2 all
+  Go library to parse and format vCard (library)
+
+golang-github-evanphx-json-patch-dev/stable 5.7.0-1 all
+  Go library to apply RFC6902 patches and create and apply RFC7386 patches
+
+golang-github-fxamacker-cbor-dev/stable 2.8.0-1 all
+  CBOR codec implementing RFCs 7049 & 8949 (library)
+
+golang-github-go-fed-httpsig-dev/stable 1.1.0-3 all
+  HTTP signatures made simple (library)
+
+golang-github-gomodule-oauth1-dev/stable 0.0~git20181215.9a59ed3-2 all
+  OAuth 1.0 client package for Go
+
+golang-github-google-trillian-dev/stable 1.6.1-1 all
+  transparent scalable and cryptographically verifiable data store (library)
+
+golang-github-google-uuid-dev/stable 1.6.0-1 all
+  generates and inspects UUIDs based on RFC 4122
+
+golang-github-gowebpki-jcs-dev/stable 1.0.1-3 all
+  JSON canonicalization scheme library based on RFC 8785 (Go library)
+
+golang-github-jtacoma-uritemplates-dev/stable 1.0.0-2 all
+  URI Templates (RFC 6570) implemented in Go
+
+golang-github-katalix-go-l2tp-dev/stable 0.1.8-1 all
+  Go library for building L2TP applications on Linux systems (library)
+
+golang-github-lucas-clemente-quic-go-dev/stable 0.50.1-2 all
+  QUIC golang library
+
+golang-github-mdlayher-dhcp6-dev/stable 0.0~git20190311.2a67805-2 all
+  implements a DHCPv6 server, as described in RFC 3315 (library)
+
+golang-github-mdlayher-ndp-dev/stable 1.1.0-1 all
+  Golang implementation of the Neighbor Discovery Protocol (library)
+
+golang-github-mholt-acmez-dev/stable 0.1.3-2 all
+  Premier ACME client library for Go (library)
+
+golang-github-miekg-mmark-dev/stable 1.3.6+dfsg-3 all
+  Markdown processor in Go geared for the IETF (Go library)
+
+golang-github-mmarkdown-mmark-dev/stable 2.2.25+dfsg1-2 all
+  powerful markdown processor in Go geared towards the IETF (library)
+
+golang-github-muhlemmer-httpforwarded-dev/stable 0.1.0-2 all
+  Library for parsing the HTTP Forwarded header (RFC-7239)
+
+golang-github-pion-dtls.v2-dev/stable 2.2.6-1 all
+  DTLS 1.2 Server/Client implementation for Go
+
+golang-github-pion-rtcp-dev/stable 1.2.10-1 all
+  Go implementation of RTCP (library)
+
+golang-github-pion-rtp-dev/stable 1.7.13-1 all
+  Go implementation of RTP (library)
+
+golang-github-pion-sctp-dev/stable 1.8.6-1 all
+  Go implementation of SCTP
+
+golang-github-protonmail-go-srp-dev/stable 0.0.7+ds-2 all
+  Golang implementation of the SRP protocol (library)
+
+golang-github-puerkitobio-purell-dev/stable 1.1.1-1 all
+  tiny Go library to normalize URLs
+
+golang-github-sigstore-timestamp-authority-dev/stable 1.2.3-2 all
+  Sigstore RFC3161 Timestamp Authority (Go library)
+
+golang-github-veraison-go-cose-dev/stable 1.2.1-2 all
+  go library for CBOR Object Signing and Encryption (COSE) (library)
+
+golang-github-vincent-petithory-dataurl-dev/stable 0.0~git20191104.d1553a7-1.1 all
+  Data URL Schemes in Golang (library)
+
+golang-github-xdg-go-pbkdf2-dev/stable 1.0.0-3 all
+  PBKDF2 key generation (library)
+
+golang-github-xdg-go-scram-dev/stable 1.1.2-1 all
+  RFC-5802 SCRAM in Go (library)
+
+golang-github-youmark-pkcs8-dev/stable 1.1-3 all
+  Go package to parse and convert private keys in PKCS#8 format (library)
+
+golang-github-zmap-zlint-dev/stable 3.6.2-4 all
+  X.509 Certificate Linter focused on Web PKI standards (library)
+
+golang-gopkg-hlandau-acmeapi.v2-dev/stable 2.0.2-1 all
+  ACME v2 (RFC 8555) client library for Go
+
+golang-nhooyr-websocket-dev/stable 1.8.12-4 all
+  Minimal and idiomatic WebSocket library for Go (library)
+
+golang-webpki-org-jsoncanonicalizer-dev/stable 1.0.1-3 all
+  Golang library for a JCS (RFC 8785) compliant JSON canonicalizer
+
+gosop/stable 1.1.0-3+b1 arm64
+  Stateless CLI for GopenPGP
+
+gpg-wks-client/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - Web Key Service client
+
+gpg-wks-server/stable 2.4.7-21+deb13u1+b4 arm64
+  GNU privacy guard - Web Key Service server
+
+gstreamer1.0-nice/stable 0.1.22-1 arm64
+  ICE library (GStreamer plugin)
+
+ietf2bibtex/stable 2.0.2-1 all
+  Create BibTeX entry for IETF document (RFC or Internet Draft)
+
+libatombus-perl/stable 1.0405-7 all
+  AtomPub server for messaging
+
+libatompub-perl/stable 0.3.7-6 all
+  implementation of Atom Publishing Protocol
+
+libbelr-dev/stable 5.3.105-2 arm64
+  language recognition library by Belledonne Communications (development headers)
+
+libbelr1/stable 5.3.105-2 arm64
+  language recognition library by Belledonne Communications
+
+libbitstream-dev/stable 1.5-2 all
+  C headers giving access to binary streams like MPEG or DVB
+
+libcoap3-dev/stable 4.3.4-1.1+deb13u3 arm64
+  C-Implementation of CoAP - development files API version 3
+
+libcoap3-doc/stable 4.3.4-1.1+deb13u3 all
+  C-Implementation of CoAP - HTML based documentation files for API v3
+
+libcoap3t64/stable 4.3.4-1.1+deb13u3 arm64
+  C-Implementation of CoAP - libraries API version 3
+
+libconvert-base32-perl/stable 0.06-3 all
+  module for encoding and decoding of base32 strings
+
+libcpprspserver-dev/stable 3.4.4-1.1+b2 arm64
+  headers of the C++ RSerPool client/server API library
+
+libcpprspserver3t64/stable 3.4.4-1.1+b2 arm64
+  C++ RSerPool client/server API library
+
+libcrypt-jwt-perl/stable 0.037-1 all
+  JSON Web Token support for Perl
+
+libdata-url-java/stable 1.0.1-2 all
+  Support for data URLs according to RFC 2397
+
+libdatetime-format-rfc3339-perl/stable 1.10.0-1 all
+  module to parse and format RFC3339 datetime strings
+
+libhttp-cookiejar-perl/stable 0.014-2 all
+  minimalist HTTP user agent cookie jar
+
+libhttp-multipartparser-perl/stable 0.02-3 all
+  HTTP multipart MIME parser
+
+libical-dev/stable 3.0.20-1+b1 arm64
+  iCalendar library implementation in C (development)
+
+libical-doc/stable 3.0.20-1 all
+  iCalendar library implementation in C (documentation)
+
+libical3t64/stable 3.0.20-1+b1 arm64
+  iCalendar library implementation in C (runtime)
+
+libidn12/stable,now 1.43-1 arm64 [installed,automatic]
+  GNU Libidn library, implementation of IETF IDN specifications
+
+libiri-perl/stable 0.013-1 all
+  Handle Internationalized Resource Identifiers in Perl
+
+libjmdns-java/stable 3.5.5-1 all
+  Java implementation of multi-cast DNS (Apple Rendezvous)
+
+libjmdns-java-doc/stable 3.5.5-1 all
+  Documentation for Java implementation of multi-cast DNS
+
+libjson-pointer-perl/stable 0.07-2 all
+  Perl implementation of JSON Pointer (RFC6901)
+
+libjug-java/stable 3.1.5-2 all
+  Pure java UUID generator
+
+liblcrq-dev/stable 0.2.3-1 arm64
+  librecast RaptorQ library (development)
+
+liblcrq0.0/stable 0.2.3-1 arm64
+  librecast RaptorQ library (runtime)
+
+libldaptive-java/stable 2.1.2-1 all
+  simple, extensible Java API for interacting with LDAP servers
+
+libmojo-jwt-perl/stable 1.01-1 all
+  JSON Web Token the Mojo way
+
+libnet-oauth2-authorizationserver-perl/stable 0.28-2 all
+  implementation of an OAuth2 Authorization Server
+
+libnet-sftp-foreign-perl/stable 1.93+dfsg-1 all
+  client for the Secure File Transfer Protocol
+
+libnetconf2-4/stable 3.7.1-1 arm64
+  library for IETF NETCONF protocol
+
+libnetconf2-dev/stable 3.7.1-1 arm64
+  library for IETF NETCONF protocol (development)
+
+libnetconf2-doc/stable 3.7.1-1 all
+  library for IETF NETCONF protocol (documentation)
+
+libngtcp2-16/stable,now 1.11.0-1+deb13u1 arm64 [installed,automatic]
+  implementation of QUIC protocol (library)
+
+libngtcp2-crypto-gnutls-dev/stable 1.11.0-1+deb13u1 arm64
+  implementation of QUIC protocol (development)
+
+libngtcp2-crypto-gnutls8/stable,now 1.11.0-1+deb13u1 arm64 [installed,automatic]
+  implementation of QUIC protocol (library)
+
+libngtcp2-dev/stable 1.11.0-1+deb13u1 arm64
+  implementation of QUIC protocol (development)
+
+libnice-dev/stable 0.1.22-1 arm64
+  ICE library (development files)
+
+libnice-doc/stable 0.1.22-1 all
+  ICE library (documentation)
+
+libnice10/stable 0.1.22-1 arm64
+  ICE library (shared library)
+
+libnoggit-java/stable 0.8-1 all
+  Fast streaming JSON parser for Java
+
+libopus-dev/stable 1.5.2-2 arm64
+  Opus codec library development files
+
+libopus-doc/stable 1.5.2-2 all
+  libopus API documentation
+
+libopus-ocaml/stable 1.0.0-1+b2 arm64
+  OCaml interface to the opus library -- runtime files
+
+libopus-ocaml-dev/stable 1.0.0-1+b2 arm64
+  OCaml interface to the opus library -- development files
+
+libopus0/stable,now 1.5.2-2 arm64 [installed,automatic]
+  Opus codec runtime library
+
+libosip2-15t64/stable 5.3.1-1.1+b1 arm64
+  Session Initiation Protocol (SIP) library
+
+libosmo-sigtran-dev/stable 2.1.0-3 arm64
+  Development headers for the Osmocom SIGTRAN library
+
+libosmo-sigtran-doc/stable 2.1.0-3 all
+  Documentation for the Osmocom SIGTRAN library
+
+libosmo-sigtran11/stable 2.1.0-3 arm64
+  Osmocom SIGTRAN library (SCCP, SUA, M3UA and more)
+
+libossp-uuid-dev/stable 1.6.4-1 arm64
+  OSSP uuid ISO-C and C++ - headers and static libraries
+
+libossp-uuid-perl/stable 1.6.4-1 arm64
+  perl OSSP::UUID - OSSP uuid Perl Binding
+
+libossp-uuid16/stable 1.6.4-1 arm64
+  OSSP uuid ISO-C and C++ - shared library
+
+libpgm-5.3-0t64/stable 5.3.128~dfsg-2.1+b1 arm64
+  OpenPGM shared library
+
+libpgm-dev/stable 5.3.128~dfsg-2.1+b1 arm64
+  OpenPGM development files
+
+libprotocol-websocket-perl/stable 0.26-3 all
+  Perl library that implements WebSocket protocol
+
+libreswan/stable 5.2-2.2 arm64
+  Internet Key Exchange daemon
+
+librsplib-dev/stable 3.4.4-1.1+b2 arm64
+  headers of the RSerPool client/server API library rsplib
+
+librsplib3t64/stable 3.4.4-1.1+b2 arm64
+  RSerPool client/server API library for session management
+
+librust-crc24-dev/stable 0.1.6-1+b2 arm64
+  CRC-24 implementation (IETF RFC2440-compatible) - Rust source code
+
+librust-oxiri-dev/stable 0.2.11-2 all
+  validation and relative resolution of IRIs - Rust source code
+
+librust-sequoia-sop-dev/stable 0.37.2-1+b3 arm64
+  Stateless OpenPGP Command Line Interface using Sequoia - Rust source code
+
+libsdp-api-java/stable 1.0-2 all
+  SDP API for Java
+
+libsofia-sip-ua-dev/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1+b2 arm64
+  Sofia-SIP library development files
+
+libsofia-sip-ua-glib-dev/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1+b2 arm64
+  Sofia-SIP library glib/gobject interface development files
+
+libsofia-sip-ua-glib3t64/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1+b2 arm64
+  Sofia-SIP library glib/gobject interfaces runtime
+
+libsofia-sip-ua0t64/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1+b2 arm64
+  Sofia-SIP library runtime
+
+libspatialaudio-dev/stable 0.3.0+git20180730+dfsg1-2.1+b1 arm64
+  library for ambisonic encoding and decoding (development files)
+
+libspatialaudio0t64/stable 0.3.0+git20180730+dfsg1-2.1+b1 arm64
+  library for ambisonic encoding and decoding (runtime files)
+
+libtlsrpt0/stable 0.5.0rc1-2 arm64
+  library to implement TLSRPT reporting into an MTA (shared lib)
+
+libtlsrpt0-dev/stable 0.5.0rc1-2 arm64
+  library to implement TLSRPT reporting into an MTA (dev files)
+
+libyang-dev/stable 3.12.2-1 arm64
+  parser toolkit for IETF YANG data modeling language (development)
+
+libyang3/stable 3.12.2-1 arm64
+  parser toolkit for IETF YANG data modeling language (library)
+
+libyang3-tools/stable 3.12.2-1 arm64
+  parser toolkit for IETF YANG data modeling language (tools)
+
+mmark/stable 2.2.25+dfsg1-2 arm64
+  powerful markdown processor in Go geared towards the IETF (program)
+
+netconfd-module-ietf-interfaces/stable 2.14-1 arm64
+  SIL module for netconfd implementing ietf-interfaces.yang
+
+netconfd-module-ietf-system/stable 2.14-1 arm64
+  SIL module for netconfd implementing ietf-system.yang
+
+ngtcp2-client/stable 1.11.0-1+deb13u1 arm64
+  implementation of QUIC protocol (development)
+
+ngtcp2-server/stable 1.11.0-1+deb13u1 arm64
+  implementation of QUIC protocol (development)
+
+node-websocket/stable 1.0.35+~cs11.0.30-1+b1 arm64
+  WebSocket implementation for NodeJS
+
+nut-snmp/stable 2.8.1-5 arm64
+  network UPS tools - SNMP driver
+
+ocserv/stable 1.3.0-2 arm64
+  OpenConnect VPN server compatible with Cisco AnyConnect VPN
+
+openssh-client/stable,now 1:10.0p1-7+deb13u4 arm64 [installed,automatic]
+  secure shell (SSH) client, for secure access to remote machines
+
+openssh-client-gssapi/stable 1:10.0p1-7+deb13u4 all
+  secure shell (SSH) client, with GSS-API support
+
+openssh-client-ssh1/stable 1:7.5p1-17+b1 arm64
+  secure shell (SSH) client for legacy SSH1 protocol
+
+openssh-server/stable,now 1:10.0p1-7+deb13u4 arm64 [installed,automatic]
+  secure shell (SSH) server, for secure access from remote machines
+
+openssh-server-gssapi/stable 1:10.0p1-7+deb13u4 all
+  secure shell (SSH) server, with GSS-API key exchange
+
+openssh-sftp-server/stable,now 1:10.0p1-7+deb13u4 arm64 [installed,automatic]
+  secure shell (SSH) sftp server module, for SFTP access from remote machines
+
+osmo-mgw/stable 1.14.0+dfsg1-2 arm64
+  Osmocom's Media Gateway for 2G and 3G circuit-switched mobile networks
+
+osmo-msc/stable 1.13.0+dfsg1-2 arm64
+  Osmocom's Mobile Switching Center for 2G and 3G mobile networks
+
+python-josepy-doc/stable 2.0.0-1 all
+  JOSE implementation for Python - Documentation
+
+python-json-pointer-doc/stable 2.4-3 all
+  resolve JSON pointers - doc
+
+python-ovsdbapp-doc/stable 2.11.0-2 all
+  library for creating OVSDB applications - doc
+
+python3-aio-geojson-client/stable 0.20-2 all
+  async GeoJSON client library
+
+python3-aio-geojson-generic-client/stable 0.4-2 all
+  generic async GeoJSON client library
+
+python3-arcp/stable 0.2.1-7 all
+  (Archive and Package) URI parser and generator
+
+python3-authres/stable 1.2.0-4 all
+  RFC 8601 Authentication Results Header manipulation for Python3
+
+python3-babelfish/stable 0.6.1-1 all
+  library to work with countries and languages (Python 3)
+
+python3-fqdn/stable 1.5.1-2 all
+  Python library to validate fully qualified domain names (FQDNs)
+
+python3-httpsig/stable 1.3.0-3 all
+  sign HTTP requests (IETF HTTP Signatures) - Python 3 version of the package
+
+python3-josepy/stable 2.0.0-1 all
+  JOSE implementation for Python 3.x
+
+python3-json-pointer/stable 2.4-3 all
+  resolve JSON pointers - Python 3.x
+
+python3-jsonpatch/stable 1.32-5 all
+  library to apply JSON patches - Python 3.x
+
+python3-kerberos/stable 1.1.14-3.1+b12 arm64
+  GSSAPI interface module - Python 3.x
+
+python3-ldap3/stable 2.9.1-2 all
+  Pure Python LDAP client library
+
+python3-ovsdbapp/stable 2.11.0-2 all
+  library for creating OVSDB applications - Python 3.x
+
+python3-rfc3339-validator/stable 0.1.4-2 all
+  RFC 3339 validator (Python library)
+
+python3-rfc3986-validator/stable 0.1.1-2 all
+  RFC 3986 validator (Python library)
+
+python3-ssdpy/stable 0.4.1-2 all
+  Lightweight, compatible SSDP library for Python
+
+python3-websocket/stable 1.8.0-2 all
+  WebSocket client library - Python 3.x
+
+rsop/stable 0.6.4-1 arm64
+  Stateless OpenPGP (SOP) CLI tool based on rPGP and rpgpie
+
+rsopv/stable 0.6.4-1 arm64
+  Stateless OpenPGP Verification-only (SOPV) CLI (rpgp and rpgpie)
+
+rsplib-all/stable 3.4.4-1.1+b2 arm64
+  RSerPool implementation RSPLIB
+
+rsplib-doc/stable 3.4.4-1.1 all
+  documentation of the RSerPool implementation RSPLIB
+
+rsplib-fgp-cfgfiles/stable 3.4.4-1.1 all
+  RSerPool Fractal Generator Service example input files
+
+rsplib-registrar/stable 3.4.4-1.1+b2 arm64
+  RSerPool Registrar service
+
+rsplib-services/stable 3.4.4-1.1+b2 arm64
+  RSerPool example services
+
+rsplib-tools/stable 3.4.4-1.1+b2 arm64
+  RSerPool test tools
+
+rsyslog-gnutls/stable 8.2504.0-1 arm64
+  TLS protocol support for rsyslog (GnuTLS)
+
+rsyslog-openssl/stable 8.2504.0-1 arm64
+  TLS/DTLS protocol support for rsyslog (OpenSSL)
+
+ruby-kramdown-rfc2629/stable 1.7.14-1 all
+  generate XML2RFC XML from Markdown
+
+ruby-webfinger/stable 2.1.3-1 all
+  Ruby WebFinger client library
+
+secsipidx/stable 1.3.2-2.1+b8 arm64
+  Secure SIP Identity Extensions - IETF STIR and SHAKEN
+
+sofia-sip-bin/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1+b2 arm64
+  Sofia-SIP library utilities
+
+sofia-sip-doc/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1 all
+  Sofia-SIP library documentation
+
+sopv-doc/stable 1.1.1-1 all
+  OpenPGP verification manuals and examples
+
+sopv-gpgv/stable 0.1.4-1 all
+  Stateless OpenPGP CLI Verification-only Subset backed by gpgv
+
+sqop/stable 0.37.2-1+b3 arm64
+  Stateless OpenPGP Command Line Interface using Sequoia
+
+sqopv/stable 0.37.2-1+b3 arm64
+  Stateless OpenPGP Verification-only Command Line Interface using Sequoia
+
+stun-client/stable 0.97~dfsg-3+b1 arm64
+  Test client for STUN
+
+stun-server/stable 0.97~dfsg-3+b1 arm64
+  Server daemon for STUN
+
+texlive-bibtex-extra/stable 2024.20250309-2 all
+  TeX Live: BibTeX additional styles
+
+uacme/stable 1.7.6-1 arm64
+  Lightweight client for the RFC8555 ACMEv2 protocol
+
+uuid/stable 1.6.4-1 arm64
+  Universally Unique Identifier Command-Line Tool
+
+zlint/stable 3.6.2-4 arm64
+  X.509 Certificate Linter focused on Web PKI standards (program)
+

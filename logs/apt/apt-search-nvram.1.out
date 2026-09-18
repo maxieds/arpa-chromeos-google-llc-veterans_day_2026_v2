@@ -1,0 +1,32 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+asahi-btsync/stable 0.2.4-7 arm64
+  sync bluetooth pairing keys with macos on ARM Macs
+
+asahi-nvram/stable 0.2.3-6 arm64
+  read and write nvram variables on ARM Macs
+
+asahi-platform-nvram/stable 2.1 arm64
+  metapackage for nvram manipulation on the Asahi platform
+
+asahi-wifisync/stable 0.2.2-6 arm64
+  sync Wifi passwords with macos on ARM Macs
+
+coreboot-utils/stable 24.12+dfsg-2 arm64
+  Coreboot firmware utilities
+
+efitools/stable 1.9.2-3.5 arm64
+  Tools to manipulate EFI secure boot keys and signatures
+
+librust-apple-nvram-dev/stable 0.3.0-3 arm64
+  Parse and write apple-formatted nvram entries - Rust source code
+
+shutdown-at-night/stable 0.24 all
+  System to shut down clients at night, and wake them in the morning
+
+swtpm-tools/stable 0.7.1-1.5 arm64
+  Tools for the TPM emulator
+

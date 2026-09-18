@@ -1,0 +1,256 @@
+PACK
+tree a6eef686da275e6cdbfadccf8784b20d346c3aa9
+parent 7de49a0239b2a1fa62f34196e71a8260ca49dee3
+author Dr. Maxie Dion Schmidt (Taliban LLC^H^H^H^H^H^H^H^H^H^H^HNO) [Linux penguin 6.6.119-09283-g9c138e0af8c3 #1 SMP PREEMPT Sat, 30 May 2026 01:16:16 -0700 aarch64 GNU/Linux] <maxieds@gmail.com [Linux penguin 6.6.119-09283-g9c138e0af8c3 #1 SMP PREEMPT Sat, 30 May 2026 01:16:16 -0700 aarch64 GNU/Linux]> 1789604298 -0500
+committer Dr. Maxie Dion Schmidt (Taliban LLC^H^H^H^H^H^H^H^H^H^H^HNO) [Linux penguin 6.6.119-09283-g9c138e0af8c3 #1 SMP PREEMPT Sat, 30 May 2026 01:16:16 -0700 aarch64 GNU/Linux] <maxieds@gmail.com [Linux penguin 6.6.119-09283-g9c138e0af8c3 #1 SMP PREEMPT Sat, 30 May 2026 01:16:16 -0700 aarch64 GNU/Linux]> 1789604298 -0500
+Archiving ChromeOSBook - LDE home directory oddities to examine
+]tree 48bb37898c19c03912d1fecdb4811ec96e12cea3
+parent 803c925ffc27b477c5004828fd9417fb5f82a040
+Screenshots and logs
+F_)8
+tree 43cbd2c372f19cca041274e6bb4fa8dbfc5891c3
+author Dr. Maxie Dion Schmidt <maxieds-hackercat@outlook.com> 1788463428 -0500
+committer GitHub <noreply@github.com> 1788463428 -0500
+gpgsig -----BEGIN PGP SIGNATURE-----
+ wsFcBAABCAAQBQJqmclFCRC1aQ7uu5UhlAAAbGEQAI1+LsTAzfmFBJhWzAhESZSg
+ WzCQTAhVn81oklb4JODBXX8iIG5R9DrSjF1wJu8532M0x3yM5S+fC/MFgTT/UsX1
+ t9isgpYi9YphuJKSRHNyD6XuUjfYZLh4vtz79QzCa5qsDkbVQFuS32r36MXE+ANP
+ GmXY2VCdP+Er3awVW/G4QtfXWVMffxx30kfEusaJs/NEffzSpmyikbXtzLg5KQTP
+ o6TkuzfWDMS4of7LLXKC+p9poh4Ri0j4aaCIfTO42Dtn8HWFMIMnT03LFEFQ5BZq
+ V/4u4+GXhCtpklY2bneAzEvLrcAwlMIrgrf5NZ9tjA1eb6H5T9MERIrrVnLDRQFJ
+ 7NjAE4plpz22jL/J+meCLi1bjrtNBLHJ4k8mnqZ6GwQSPViSoKzvts8gznlic3cJ
+ jJ8beQLd1grDhKC6dG7zM0RSXbOascmpIFDoQ2MhrhXYr7KzpgsulLYWhPNDAUBg
+ dZG4gyz4AWr2FYXo2IvQAFX4O/LaFO9OgktgrbIrHJkdP8kzo5Xq17zYk3jQSo/E
+ QvcdPrOgboiHoW+0P5sPYI43JBZz0rW81X68Ri245+sVuye3zsh91iv/mr+iDSXF
+ qhS1SsYYsQ2V727lQbBjYWA25wKZS8TiIQhDBJLgo6tFNBppb3MAT2xEFHl8nhIr
+ kCFu/RZo8bvOMEg7lntg
+ =Olnm
+ -----END PGP SIGNATURE-----
+Initial commit+
+# arpa-chromeos-google-llc-veterans_day_2026_v2
+penguin
+MIT-MAGIC-COOKIE-1
+B0gY
+penguin
+MIT-MAGIC-COOKIE-1
+0000000 soh nul nul bel   p   e   n   g   u   i   n nul soh   0 nul dc2
+0000020   M   I   T   -   M   A   G   I   C   -   C   O   O   K   I   E
+0000040   -   1 nul dle   -  ff  nl   Q   p   B   ;   ] can   e   m   2
+0000060   B   0   g   Y soh nul nul bel   p   e   n   g   u   i   n nul
+0000100 soh   1 nul dc2   M   I   T   -   M   A   G   I   C   -   C   O
+0000120   O   K   I   E   -   1 nul dle dle   :   | etb del  bs   ]   D
+0000140   v   p   X   j  si nul   % nul
+0000150
+0000000 001  \0  \0  \a   p   e   n   g   u   i   n  \0 001   0  \0 022
+0000020   M   I   T   -   M   A   G   I   C   -   C   O   O   K   I   E
+0000040   -   1  \0 020   -  \f  \n 321 360 302   ;   ] 030   e 355 262
+0000060   B   0   g   Y 001  \0  \0  \a   p   e   n   g   u   i   n  \0
+0000100 001   1  \0 022   M   I   T   -   M   A   G   I   C   -   C   O
+0000120   O   K   I   E   -   1  \0 020 020   :   | 227 377  \b 335 304
+0000140 366   p   X   j 017  \0   % 200
+0000150
+ls -lha
+less .Xauthority 
+mkdir ChromeOSBookLDESystemFiles/home-god-hidden-files
+mv .Xauthority ChromeOSBookLDESystemFiles/home-god-hidden-files/
+less .bashrc 
+less .bash_history 
+vim .cache/fontconfig/CACHEDIR.TAG 
+vim .cache/mesa_shader_cache_db/index 
+od -v -t a .cache/mesa_shader_cache_db/index 
+od -v -t a .cache/mesa_shader_cache_db/index | less
+od -v -t a .cache/mesa_shader_cache_db/part8/mesa_cache.db 
+od -v -t a .cache/mesa_shader_cache_db/part8/mesa_cache.idx 
+od -v -t a .cache/mesa_shader_cache_db/part37/mesa_cache.db 
+od -v -t a .cache/mesa_shader_cache_db/part37/mesa_cache.idx
+od -v -t a .cache/mesa_shader_cache_db/part42/mesa_cache.db 
+od -v -t c .cache/mesa_shader_cache_db/part42/mesa_cache.db 
+od -v -t c .cache/mesa_shader_cache_db/part42/mesa_cache.idx
+od -v -t a .cache/mesa_shader_cache_db/part42/mesa_cache.idx
+od -v -t a .cache/mozilla/firefox/oxh34pxn.default-esr/quicksuggest-other.sql-wal 
+objdump -t -s -a .cache/mozilla/firefox/oxh34pxn.default-esr/quicksuggest-other.sql-wal 
+od -v -t a .cache/mozilla/firefox/oxh34pxn.default-esr/personality-provider/recipe_attachment.json 
+vim .cache/mozilla/firefox/oxh34pxn.default-esr/personality-provider/recipe_attachment.json 
+vim .cache/mozilla/firefox/oxh34pxn.default-esr/personality-provider/nb_model_build_attachment_real_estate.json 
+od -v -t a .cache/mozilla/firefox/oxh34pxn.default-esr/personality-provider/nb_model_build_attachment_real_estate.json 
+od -v -t a .cache/mozilla/firefox/oxh34pxn.default-esr/cache2/doomed/37172931 
+od -v -t a .cache/mozilla/firefox/oxh34pxn.default-esr/cache2/doomed/202856563 
+od -v -t a .cache/mozilla/firefox/oxh34pxn.default-esr/cache2/doomed/2030898414 
+od -v -t a .cache/mozilla/firefox/oxh34pxn.default-esr/cache2/entries/0049B9FBC99E9C3CDBE201244B9E0EB1D2BDCD26 
+od -v -t a .cache/mozilla/firefox/oxh34pxn.default-esr/cache2/index 
+od -v -t a .cache/mozilla/firefox/oxh34pxn.default-esr/settings/main/ms-language-packs/browser/newtab/asrouter.ftl 
+vim .cache/mozilla/firefox/oxh34pxn.default-esr/settings/main/ms-language-packs/browser/newtab/asrouter.ftl 
+mkdir ChameleonMini/outside-found-art-examples
+cp -RapL .cache/mozilla/firefox/oxh34pxn.default-esr/settings/main/ms-language-packs/browser/newtab/asrouter.ftl ChameleonMini/outside-found-art-examples/
+cp -RapL .cache/mozilla/firefox/oxh34pxn.default-esr/startupCache/ ChameleonMini/outside-found-art-examples/
+vim .cache/mozilla/firefox/oxh34pxn.default-esr/thumbnails/bacc13de1045f315e7a99c2bcc171e56.png 
+objdump -t -s -a .cache/mozilla/firefox/oxh34pxn.default-esr/thumbnails/bacc13de1045f315e7a99c2bcc171e56.png 
+od -v -t a .cache/mozilla/firefox/oxh34pxn.default-esr/thumbnails/bacc13de1045f315e7a99c2bcc171e56.png 
+od -v -t c .cache/mozilla/firefox/oxh34pxn.default-esr/thumbnails/bacc13de1045f315e7a99c2bcc171e56.png 
+od -v -t a .cache/mozilla/firefox/oxh34pxn.default-esr/thumbnails/bacc13de1045f315e7a99c2bcc171e56.png 
+cd ChameleonMini/
+vim outside-found-art-examples/notice-hidden-config-routes.txt
+vim outside-found-art-examples/notice-hidden-config-routes.txt
+vim outside-found-art-examples/notice-hidden-config-routes.txt
+elinks chrome://flags
+cd ChameleonBLEAPI/
+vim packets/.gitignore 
+vim packets/build/generated/source/buildConfig/debug/com/proxgrind/chameleon/packets/BuildConfig.java 
+vim packets/build/outputs/logs/manifest-merger-debug-report.txt 
+cp -RapL packets/build/outputs/logs/manifest-merger-debug-report.txt ~/ChameleonMini/outside-found-art-examples/
+vim packets/build.gradle 
+vim packets/build.gradle 
+vim packets/src/main/AndroidManifest.xml 
+vim packets/src/main/java/com/proxgrind/chameleon/exceptions/CMDInvalidException.java 
+vim packets/src/main/java/com/proxgrind/chameleon/exceptions/DataInvalidException.java 
+vim packets/src/main/java/com/proxgrind/chameleon/packets/DataBean.java 
+vim packets/src/main/java/com/proxgrind/chameleon/packets/DataHead.java 
+vim packets/src/main/java/com/proxgrind/chameleon/packets/DataPackets.java 
+vim packets/src/main/java/com/proxgrind/chameleon/packets/DataBean.java 
+vim packets/src/main/java/com/proxgrind/chameleon/packets/DataBean.java 
+vim packets/src/main/java/com/proxgrind/chameleon/packets/DataPackets.java 
+cp -RapL packets/src/main/java/com/proxgrind/chameleon/packets/DataPackets.java ~/ChameleonMini/outside-found-art-examples/
+vim README.md 
+cd appmain/
+vim defined/ChameleonType.java 
+ls callback/Basecallback.java 
+vim callback/Basecallback.java 
+vim callback/actioncallback.java 
+vim callback/Basecallback.java 
+vim callback/actioncallback.java 
+cd defined/
+vim Basctypescallback.java 
+vim Basctypescallback.java 
+vim ChameleonCMDSet.java 
+vim ChameleonClick.java 
+vim ChameleonType.java 
+vim DataChangeListener.java 
+vim DecryptCallback.java 
+vim IChameleonExecutor.java 
+ls -lha
+od -v -t a .config/weston.ini 
+od -v -t a .config/pulse/cookie
+od -v -t a .config/dconf/user 
+vim .config/dconf/user 
+cp .config/dconf/user ChameleonMini/outside-found-art-examples/dconf-user
+cp .config/weston.ini ChameleonMini/outside-found-art-examples/
+od -v -t a .config/cros-garcon.conf 
+vim .config/cros-garcon.conf 
+cp -RapL .config/cros-garcon.conf ChameleonMini/outside-found-art-examples/
+mv .bash* .cache .config ChromeOSBookLDESystemFiles/home-god-hidden-files/
+ls -lha
+less .gitconfig 
+vim .local/share/baguette-motd 
+vim .local/share/recently-used.xbel 
+vim .mozilla/firefox/installs.ini 
+vim .mozilla/firefox/lt0bourf.default/times.json 
+vim .mozilla/firefox/profiles.ini 
+cp -RapL .mozilla/firefox/profiles.ini ChameleonMini/outside-found-art-examples/mozilla-firefox-profiles.ini
+vim .mozilla/firefox-esr/Crash\ Reports/crash_helper_server.log 
+vim .profile 
+cp -RapL .profile ChameleonMini/outside-found-art-examples/_dot_profile-bash-script-config
+vim .sommelierrc 
+cp -RapL .sommelierrc ChameleonMini/outside-found-art-examples/
+cp -RapL .sommelierrc ChameleonMini/outside-found-art-examples/_dot_sommelierrc
+vim .sudo_as_admin_successful 
+vim .viminfo 
+cp -RapL .viminfo ChameleonMini/outside-found-art-examples/_dot_viminfo-threats
+vim .vim/.netrwhist 
+vim .wget-hsts 
+cp -RapL .wget-hsts ChameleonMini/outside-found-art-examples/_dot_wget-hsts
+mv .local .mozilla .sommelierrc .sudo_as_admin_successful .vim* .wget-hsts ChameleonMini/outside-found-art-examples/
+cp -RapL .gitconfig ChameleonMini/outside-found-art-examples/
+ls -lha
+vim .profile 
+ls Downloads/
+cd ChameleonMini/
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots2
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots2/Screenshot\ 2026-08-
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots2/
+mv /mnt/chromeos/shared/MyFiles/Downloads/*.png saved-docs/screenshots2/
+0000000   l   s  nl   l   s  sp   -   l   h   a  nl   l   e   s   s  sp
+0000020   .   X   a   u   t   h   o   r   i   t   y  sp  nl   m   k   d
+0000040   i   r  sp   C   h   r   o   m   e   O   S   B   o   o   k   L
+0000060   D   E   S   y   s   t   e   m   F   i   l   e   s   /   h   o
+0000100   m   e   -   g   o   d   -   h   i   d   d   e   n   -   f   i
+0000120   l   e   s  nl   m   v  sp   .   X   a   u   t   h   o   r   i
+0000140   t   y  sp   C   h   r   o   m   e   O   S   B   o   o   k   L
+0000160   D   E   S   y   s   t   e   m   F   i   l   e   s   /   h   o
+0000200   m   e   -   g   o   d   -   h   i   d   d   e   n   -   f   i
+0000220   l   e   s   /  nl   l   e   s   s  sp   .   b   a   s   h   r
+0000240   c  sp  nl   l   e   s   s  sp   .   b   a   s   h   _   h   i
+0000260   s   t   o   r   y  sp  nl   v   i   m  sp   .   c   a   c   h
+0000300   e   /   f   o   n   t   c   o   n   f   i   g   /   C   A   C
+0000320   H   E   D   I   R   .   T   A   G  sp  nl   v   i   m  sp   .
+0000340   c   a   c   h   e   /   m   e   s   a   _   s   h   a   d   e
+0000360   r   _   c   a   c   h   e   _   d   b   /   i   n   d   e   x
+0000400  sp  nl   o   d  sp   -   v  sp   -   t  sp   a  sp   .   c   a
+0000420   c   h   e   /   m   e   s   a   _   s   h   a   d   e   r   _
+0000440   c   a   c   h   e   _   d   b   /   i   n   d   e   x  sp  nl
+0000460   o   d  sp   -   v  sp   -   t  sp   a  sp   .   c   a   c   h
+0000500   e   /   m   e   s   a   _   s   h   a   d   e   r   _   c   a
+0000520   c   h   e   _   d   b   /   i   n   d   e   x  sp   |  sp   l
+0000540   e   s   s  nl   o   d  sp   -   v  sp   -   t  sp   a  sp   .
+0000560   c   a   c   h   e   /   m   e   s   a   _   s   h   a   d   e
+0000600   r   _   c   a   c   h   e   _   d   b   /   p   a   r   t   8
+0000620   /   m   e   s   a   _   c   a   c   h   e   .   d   b  sp  nl
+0000640   o   d  sp   -   v  sp   -   t  sp   a  sp   .   c   a   c   h
+0000660   e   /   m   e   s   a   _   s   h   a   d   e   r   _   c   a
+0000700   c   h   e   _   d   b   /   p   a   r   t   8   /   m   e   s
+0000720   a   _   c   a   c   h   e   .   i   d   x  sp  nl   o   d  sp
+0000740   -   v  sp   -   t  sp   a  sp   .   c   a   c   h   e   /   m
+0000760   e   s   a   _   s   h   a   d   e   r   _   c   a   c   h   e
+0001000   _   d   b   /   p   a   r   t   3   7   /   m   e   s   a   _
+0001020   c   a   c   h   e   .   d   b  sp  nl   o   d  sp   -   v  sp
+0001040   -   t  sp   a  sp   .   c   a   c   h   e   /   m   e   s   a
+0001060   _   s   h   a   d   e   r   _   c   a   c   h   e   _   d   b
+0001100   /   p   a   r   t   3   7   /   m   e   s   a   _   c   a   c
+0001120   h   e   .   i   d   x  nl   o   d  sp   -   v  sp   -   t  sp
+0001140   a  sp   .   c   a   c   h   e   /   m   e   s   a   _   s   h
+0001160   a   d   e   r   _   c   a   c   h   e   _   d   b   /   p   a
+0001200   r   t   4   2   /   m   e   s   a   _   c   a   c   h   e   .
+0001220   d   b  sp  nl   o   d  sp   -   v  sp   -   t  sp   c  sp   .
+0001240   c   a   c   h   e   /   m   e   s   a   _   s   h   a   d   e
+0001260   r   _   c   a   c   h   e   _   d   b   /   p   a   r   t   4
+0001300   2   /   m   e   s   a   _   c   a   c   h   e   .   d   b  sp
+0001320  nl   o   d  sp   -   v  sp   -   t  sp   c  sp   .   c   a   c
+0001340   h   e   /   m   e   s   a   _   s   h   a   d   e   r   _   c
+0001360   a   c   h   e   _   d   b   /   p   a   r   t   4   2   /   m
+0001400   e   s   a   _   c   a   c   h   e   .   i   d   x  nl   o   d
+0001420  sp   -   v  sp   -   t  sp   a  sp   .   c   a   c   h   e   /
+0001440   m   e   s   a   _   s   h   a   d   e   r   _   c   a   c   h
+0001460   e   _   d   b   /   p   a   r   t   4   2   /   m   e   s   a
+0001500   _   c   a   c   h   e   .   i   d   x  nl   o   d  sp   -   v
+0001520  sp   -   t  sp   a  sp   .   c   a   c   h   e   /   m   o   z
+0001540   i   l   l   a   /   f   i   r   e   f   o   x   /   o   x   h
+0001560   3   4   p   x   n   .   d   e   f   a   u   l   t   -   e   s
+0001600   r   /   q   u   i   c   k   s   u   g   g   e   s   t   -   o
+0001620   t   h   e   r   .   s   q   l   -   w   a   l  sp  nl   o   b
+0001640   j   d   u   m   p  sp   -   t  sp   -   s  sp   -   a  sp   .
+0001660   c   a   c   h   e   /   m   o   z   i   l   l   a   /   f   i
+0001700   r   e   f   o   x   /   o   x   h   3   4   p   x   n   .   d
+0001720   e   f   a   u   l   t   -   e   s   r   /   q   u   i   c   k
+0001740   s   u   g   g   e   s   t   -   o   t   h   e   r   .   s   q
+0001760   l   -   w   a   l  sp  nl   o   d  sp   -   v  sp   -   t  sp
+0002000   a  sp   .   c   a   c   h   e   /   m   o   z   i   l   l   a
+0002020   /   f   i   r   e   f   o   x   /   o   x   h   3   4   p   x
+0002040   n   .   d   e   f   a   u   l   t   -   e   s   r   /   p   e
+0002060   r   s   o   n   a   l   i   t   y   -   p   r   o   v   i   d
+0002100   e   r   /   r   e   c   i   p   e   _   a   t   t   a   c   h
+0002120   m   e   n   t   .   j   s   o   n  sp  nl   v   i   m  sp   .
+0002140   c   a   c   h   e   /   m   o   z   i   l   l   a   /   f   i
+0002160   r   e   f   o   x   /   o   x   h   3   4   p   x   n   .   d
+0002200   e   f   a   u   l   t   -   e   s   r   /   p   e   r   s   o
+0002220   n   a   l   i   t   y   -   p   r   o   v   i   d   e   r   /
+0002240   r   e   c   i   p   e   _   a   t   t   a   c   h   m   e   n
+0002260   t   .   j   s   o   n  sp  nl   v   i   m  sp   .   c   a   c
+0002300   h   e   /   m   o   z   i   l   l   a   /   f   i   r   e   f
+0002320   o   x   /   o   x   h   3   4   p   x   n   .   d   e   f   a
+0002340   u   l   t   -   e   s   r   /   p   e   r   s   o   n   a   l
+0002360   i   t   y   -   p   r   o   v   i   d   e   r   /   n   b   _
+0002400   m   o   d   e   l   _   b   u   i   l   d   _   a   t   t   a
+0002420   c   h   m   e   n   t   _   r   e   a   l   _   e   s   t   a
+0002440   t   e   .   j   s   o   n  sp  nl   o   d  sp   -   v  sp   -
+0002460   t  sp   a  sp   .   c   a   c   h   e   /   m   o   z   i   l
+0002500   l   a   /   f   i   r   e   f   o   x   /   o   x   h   3   4
+0002520   p   x   n   .   d   e   f   a   u   l   t   -   e   s   r   /

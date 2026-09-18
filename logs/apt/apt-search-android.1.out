@@ -1,0 +1,767 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+aapt/stable 1:14~beta1-3 arm64
+  Android Asset Packaging Tool
+
+abootimg/stable 0.6-2 arm64
+  Tool to read/write/update android boot images
+
+adb/stable 1:34.0.5-12 arm64
+  Android Debug Bridge
+
+adbd/stable 34.0.5-12 arm64
+  Android Debug Bridge daemon
+
+aidl/stable 1:10.0.0+r36-4+b1 arm64
+  Binder generator of AIDL interfaces
+
+anacrolix-dms/stable 1.5.0-2+b16 arm64
+  Go UPnP DLNA Digital Media Server with basic video transcoding
+
+androguard/stable 3.4.0~a1-17 all
+  full Python tool to play with Android files
+
+android-boringssl/stable 14.0.0+r45-2 arm64
+  Google's internal fork of OpenSSL for the Android SDK - tool
+
+android-file-transfer/stable 4.3-1+b2 arm64
+  reliable MTP client with minimalistic UI
+
+android-framework-res/stable 1:14~beta1-3 all
+  Android platform framework resources
+
+android-libaapt/stable 1:14~beta1-3 arm64
+  Android Asset Packaging Tool - Shared library
+
+android-libandroidfw/stable 1:14~beta1-3 arm64
+  Android utility library
+
+android-libandroidfw-dev/stable 1:14~beta1-3 arm64
+  Android utility library - Development files
+
+android-libart/stable 14.0.0+r15-4+b1 arm64
+  Android Runtime
+
+android-libbacktrace/stable 1:34.0.5-12 arm64
+  Android backtrace library
+
+android-libbacktrace-dev/stable 1:34.0.5-12 arm64
+  Android backtrace library - Development files
+
+android-libbase/stable 1:34.0.5-12 arm64
+  Android base library
+
+android-libbase-dev/stable 1:34.0.5-12 arm64
+  Android base library - Development files
+
+android-libboringssl/stable 14.0.0+r45-2 arm64
+  Google's internal fork of OpenSSL for the Android SDK
+
+android-libboringssl-dev/stable 14.0.0+r45-2 arm64
+  Google's internal fork of OpenSSL for the Android SDK - devel
+
+android-libcutils/stable 1:34.0.5-12 arm64
+  Android utils library for C
+
+android-libcutils-dev/stable 1:34.0.5-12 arm64
+  Android utils library for C - Development files
+
+android-libext4-utils/stable 10.0.0+r36+ds-2.1+b1 arm64
+  Android ext4 utility library
+
+android-libext4-utils-dev/stable 10.0.0+r36+ds-2.1 all
+  Android ext4 utility library - Development files
+
+android-libfec/stable 10.0.0+r36+ds-2.1+b1 arm64
+  Android libfec library
+
+android-libfec-dev/stable 10.0.0+r36+ds-2.1 all
+  Android libfec library - Development files
+
+android-liblog/stable 1:34.0.5-12 arm64
+  Android NDK logger interfaces
+
+android-liblog-dev/stable 1:34.0.5-12 arm64
+  Android NDK logger interfaces - Development files
+
+android-libnativebridge/stable 1:14.0.0+r15-4+b1 arm64
+  Android native bridge library
+
+android-libnativehelper/stable 34.0.5-12 arm64
+  Support functions for Android's class libraries
+
+android-libnativehelper-dev/stable 34.0.5-12 arm64
+  Support functions for Android's class libraries - Development files
+
+android-libnativeloader/stable 1:14.0.0+r15-4+b1 arm64
+  Android native loader library
+
+android-libselinux/stable 10.0.0+r36-2+b1 arm64
+  Security-Enhanced Linux for Android
+
+android-libselinux-dev/stable 10.0.0+r36-2+b1 arm64
+  Security-Enhanced Linux for Android - Development files
+
+android-libsepol/stable 10.0.0+r36-2+b1 arm64
+  Security-Policy Linux for Android
+
+android-libsepol-dev/stable 10.0.0+r36-2+b1 arm64
+  Security-Policy Linux for Android - Development files
+
+android-libsparse/stable 1:34.0.5-12 arm64
+  Library for sparse files
+
+android-libsparse-dev/stable 1:34.0.5-12 arm64
+  Library for sparse files - Development files
+
+android-libunwind/stable 10.0.0+r36-4.1 arm64
+  libunwind for Android
+
+android-libunwind-dev/stable 10.0.0+r36-4.1 arm64
+  libunwind for Android - Development files
+
+android-libutils/stable 1:34.0.5-12 arm64
+  Android Utility Function Library
+
+android-libutils-dev/stable 1:34.0.5-12 arm64
+  Android Utility Function Library - Development files
+
+android-libziparchive/stable 1:34.0.5-12 arm64
+  Library for ZIP archives
+
+android-libziparchive-dev/stable 1:34.0.5-12 arm64
+  Library for ZIP archives - Development files
+
+android-logtags-tools/stable 1:10.0.0+r36-1.1 all
+  Tools from AOSP that process event-log-tags files
+
+android-platform-frameworks-native-headers/stable 1:34.0.5-12 all
+  Headers of android-platform-frameworks-native
+
+android-platform-libcore-headers/stable 10.0.0+r36-1 all
+  Header files in AOSP repository platform/libcore
+
+android-platform-system-core-headers/stable 1:34.0.5-12 all
+  Shared headers in AOSP repository platform/system/core
+
+android-platform-tools-base/stable 2.2.2-6 all
+  base tools for developing applications for the Android system
+
+android-sdk/stable 28.0.2+12 arm64
+  Software development kit for Android platform
+
+android-sdk-build-tools/stable 29.0.3+12 arm64
+  Tools for building Android applications
+
+android-sdk-build-tools-common/stable 29.0.3+12 all
+  Tools for building Android applications - Common files
+
+android-sdk-common/stable 28.0.2+12 all
+  Common files of Android SDK base toolset
+
+android-sdk-helper/stable 0.2 all
+  Helper tools for building Android apps using Debian's Android SDK
+
+android-sdk-libsparse-utils/stable 1:34.0.5-12 arm64
+  Android sparse image creation tool
+
+android-sdk-platform-tools/stable 28.0.2+12 arm64
+  Tools for interacting with an Android platform
+
+android-sdk-platform-tools-common/stable 28.0.2+12 all
+  Tools for interacting with an Android platform - Common files
+
+android-udev-rules/stable 0~20250314+ds-5 all
+  udev rules for Android tools
+
+apkinfo/stable 0.3.31-1 all
+  Simple CLI script to display info about an APK file
+
+apksigcopier/stable 1.1.1-1 all
+  copy/extract/patch android apk signatures & compare apks
+
+apksigner/stable 35.0.2-1 all
+  command line tool to sign and verify Android APKs
+
+apktool/stable 2.7.0+dfsg-7 arm64
+  tool for reverse engineering Android apk files
+
+apkverifier/stable 0.0~git20191015.7330a51-11+b15 arm64
+  Android APK Signature verification tool
+
+bazel-bootstrap/stable 4.2.3+ds-11 arm64
+  Tool to automate software builds and tests
+
+bazel-bootstrap-data/stable 4.2.3+ds-11 all
+  Tool to automate software builds and tests (data files)
+
+bazel-bootstrap-source/stable 4.2.3+ds-11 all
+  Tool to automate software builds and tests (source code)
+
+ckati/stable 10.0.0+r32+git20220314.09dfa26c4e59-7.1+b8 arm64
+  experimental GNU make clone
+
+clementine/stable 1.4.1+git27-g658f34ec4+dfsg-3 arm64
+  modern music player and library organizer
+
+cpuinfo/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (binary utilities)
+
+dexdump/stable 14.0.0+r15-4+b1 arm64
+  Displays information about Android DEX files
+
+dexlist/stable 14.0.0+r15-4+b1 arm64
+  Lists all methods in all concrete classes in Android DEX files
+
+diffoscope/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories
+
+diffoscope-minimal/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories (minimal package)
+
+dmtracedump/stable 1:14.0.0+r15-4+b1 arm64
+  Generates graphical call-stack diagrams from Android trace logs
+
+droid-juicer/stable 0.4.0-2+b1 arm64
+  Firmware extractor for Android devices running Linux
+
+droidlysis/stable 3.4.7-1 all
+  Property extractor for Android apps
+
+dsmidiwifi/stable 2+b3 arm64
+  DSMI over WLAN server
+
+dummydroid/stable 1.2-2 all
+  Register a GSF ID for mock-up Android devices
+
+elpa-kivy-mode/stable 2.3.1-1 all
+  Emacs major mode for Kivy files
+
+emscripten/stable 3.1.69+dfsg-3 all
+  LLVM-to-JavaScript Compiler
+
+enjarify/stable 1:1.0.3-5 all
+  translate Dalvik bytecode to equivalent Java bytecode
+
+erofs-utils/stable 1.8.6-1 arm64
+  Utilities for EROFS File System
+
+erofsfuse/stable 1.8.6-1 arm64
+  FUSE Mount Utility for EROFS File System
+
+etc1tool/stable 34.0.5-12 arm64
+  ETC1 conversion tool
+
+fastboot/stable 1:34.0.5-12 arm64
+  Android fastboot tool
+
+fcitx-googlepinyin/stable 0.1.6-5+b2 arm64
+  Fcitx wrapper for Google Pinyin IM engine
+
+fdroidcl/stable 0.7.0-1+b11 arm64
+  F-Droid desktop client
+
+fdroidserver/stable 2.4.2-1 all
+  F-Droid build server and repository tools for Android
+
+fonts-clear-sans/stable 1.00-2 all
+  sharp on-screen sans-serif font
+
+fonts-noto-color-emoji/stable 2.051-0+deb13u1 all
+  color emoji font from Google
+
+fonts-roboto/stable 2:0~20170802-4 all
+  metapackage to pull in Roboto fonts
+
+fonts-roboto-slab/stable 1.100263+20170512-2 all
+  Google's signature family of fonts (slab)
+
+fonts-roboto-unhinted/stable 2:0~20170802-4 all
+  Google's signature family of fonts (unhinted)
+
+fp-units-castle-game-engine/stable 7.0~alpha.3+dfsg2-4 arm64
+  Castle Game Engine - 3D game engine for FreePascal / Lazarus
+
+glewlwyd/stable 2.7.6+ds-3 arm64
+  Experimental Single-Sign-On server with multiple factor authentication
+
+glewlwyd-common/stable 2.7.6+ds-3 all
+  Experimental Single-Sign-On server - common files
+
+gnome-shell-extension-gsconnect/stable 62-1+deb13u1 all
+  KDE Connect implementation for GNOME Shell
+
+go-mtpfs/stable 1.0.0+git20200111.42254b1-1+b15 arm64
+  Mount MTP devices over FUSE
+
+golang-android-soong-dev/stable 0.0~git20201014.17e97d9-4 all
+  Soong build system (library)
+
+golang-github-anacrolix-dms-dev/stable 1.5.0-2 all
+  Go source for UPnP DLNA Digital Media Server
+
+golang-github-avast-apkparser-dev/stable 0.0~git20190516.3b8c5ef-3 all
+  APK manifest & resources parsing in Golang.
+
+golang-github-avast-apkverifier-dev/stable 0.0~git20191015.7330a51-11 all
+  Android APK Signature verification Go library
+
+golang-github-mvdan-fdroidcl-dev/stable 0.7.0-1 all
+  fdroidcl develpoment files
+
+golang-github-wlynxg-anet-dev/stable 0.0.5-2 all
+  Network abstraction layer supporting Android and Linux
+
+golang-github-zyedidia-clipper-dev/stable 0.1.1-2 all
+  Cross-platform clipboard access in Go (library)
+
+gpgv-static/stable 2.4.7-21+deb13u1+b4 arm64
+  minimal signature verification tool (static build)
+
+gradle/stable 4.4.1-22 all
+  Powerful build system for the JVM
+
+gradle-doc/stable 4.4.1-22 all
+  Powerful build system for the JVM - Documentations
+
+hashcat/stable 6.2.6+ds2-1+b1 arm64
+  World's fastest and most advanced password recovery utility
+
+hidl-gen/stable 10.0.0+r36-3.1+b1 arm64
+  Compiler for the HIDL
+
+hprof-conv/stable 34.0.5-12 arm64
+  HPROF Converter
+
+ibus-keyman/stable 18.0.235-1 arm64
+  Keyman engine for IBus
+
+jmtpfs/stable 0.5-4+b2 arm64
+  FUSE based filesystem for accessing MTP devices
+
+kanjidraw/stable 0.2.3-2 all
+  handwritten kanji recognition - gui
+
+kati/stable 10.0.0+r32+git20220314.09dfa26c4e59-7.1+b8 arm64
+  experimental GNU make clone
+
+kdeconnect/stable 25.04.2-1+deb13u1 arm64
+  connect smartphones to your desktop devices
+
+kdeconnect-libs/stable 25.04.2-1+deb13u1 arm64
+  KDE Connect internal libs
+
+keyman/stable 18.0.235-1 all
+  Type in your language with Keyman for Linux
+
+keyman-system-service/stable 18.0.235-1 arm64
+  System service for Keyman
+
+kirigami-gallery/stable 25.04.0-2 arm64
+  set of QtQuick components targeted for mobile use
+
+kirigami2-dev/stable 5.116.0-1 arm64
+  set of QtQuick components targeted for mobile use
+
+libam7xxx-dev/stable 0.1.7-5 arm64
+  library for accessing am7xxx devices - development files
+
+libam7xxx0.1/stable 0.1.7-5 arm64
+  library for accessing am7xxx based devices
+
+libam7xxx0.1-bin/stable 0.1.7-5 arm64
+  library for accessing am7xxx devices - utilities
+
+libam7xxx0.1-doc/stable 0.1.7-5 all
+  library for accessing am7xxx devices - documentation
+
+libandroid-databinding-java/stable 2.2.2-6 all
+  Android Data Binding Library
+
+libandroid-ddms-java/stable 2.2.2-6 all
+  Communicate with devices through adb - Core library
+
+libandroid-json-java/stable 10.0.0+r36-1 all
+  Android rewrite of the evil licensed json.org
+
+libandroid-json-org-java/stable 20121204-20090211-6 all
+  androids rewrite of the evil licensed json.org
+
+libandroid-layoutlib-api-java/stable 2.2.2-6 all
+  Library to use the rendering library for Android layouts - API
+
+libandroid-tools-analytics-library-java/stable 2.2.2-3 all
+  Libraries for tracking the usage analytics of Android SDK
+
+libandroid-tools-annotations-java/stable 2.2.2-6 all
+  annotations used throughout the Android tools libraries
+
+libandroid-tools-common-java/stable 2.2.2-6 all
+  common library used by other Android tools libraries
+
+libandroid-tools-dvlib-java/stable 2.2.2-6 all
+  Library to manage the Android device database XML files
+
+libandroid-tools-repository-java/stable 2.2.2-6 all
+  Library for downloading and managing package repositories
+
+libandroid-tools-sdklib-java/stable 2.2.2-6 all
+  Library to parse and download the Android SDK
+
+libandroid-zipflinger-java/stable 7.2.2-2 all
+  Library dedicated to ZIP files manipulation
+
+libapksig-java/stable 35.0.2-1 all
+  library to sign and verify Android APKs
+
+libavcodec-extra61/stable 7:7.1.5-0+deb13u1 arm64
+  FFmpeg library with additional de/encoders for audio/video codecs
+
+libaxmlrpc-java/stable 1.13.0-1 all
+  XML-RPC Java library
+
+libbullet-dev/stable 3.24+dfsg-2.1+b2 arm64
+  professional 3D Game Multiphysics Library -- development files
+
+libcapstone5/stable 5.0.7-1~deb13u1 arm64
+  lightweight multi-architecture disassembly framework - library
+
+libcharon-extauth-plugins/stable 6.0.1-6+deb13u6 arm64
+  strongSwan charon library (extended authentication plugins)
+
+libcpuinfo-dev/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (header file)
+
+libcpuinfo0/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (shared object)
+
+libgoogle-http-client-java/stable 1.42.0-2 all
+  Google HTTP Client Library for Java
+
+libgooglepinyin0/stable 0.1.2-8+b2 arm64
+  Pinyin engine fork from Google Pinyin on Android
+
+libgooglepinyin0-dev/stable 0.1.2-8+b2 arm64
+  Pinyin engine fork from Google Pinyin on Android - development files
+
+libgradle-android-plugin-java/stable 2.2.2-6 all
+  Android Plugin for Gradle
+
+libgradle-android-plugin-java-doc/stable 2.2.2-6 all
+  Android Plugin for Gradle - Documentations
+
+libgradle-core-java/stable 4.4.1-22 all
+  Powerful build system for the JVM - Core libraries
+
+libgradle-plugins-java/stable 4.4.1-22 all
+  Powerful build system for the JVM - All plugins
+
+libgrpc-java/stable 1.41.3+ds-5 all
+  Java gRPC implementation, HTTP/2 based RPC
+
+libhalide19-0/stable 19.0.0-6 arm64
+  fast, portable computation on images and tensors
+
+libjacoco-java/stable 0.8.12-1 all
+  free code coverage library for Java
+
+libjs-jquery.sparkline/stable 2.1.2-3 all
+  library for jQuery to generate sparklines
+
+libjsilver-aosp-java/stable 10.0.0+r36-1 all
+  Pure-Java implementation of Clearsilver
+
+libkeymancore-dev/stable 18.0.235-1 arm64
+  Development files for Keyman keyboard processing library
+
+libkeymancore2/stable 18.0.235-1 arm64
+  Keyman keyboard processing library
+
+libkf5kirigami2-5/stable 5.116.0-1 arm64
+  set of QtQuick components targeted for mobile use
+
+libkf5kirigami2-doc/stable 5.116.0-1 all
+  set of QtQuick components targeted for mobile use (documentation)
+
+libkirigami-data/stable 6.13.0-2 all
+  set of QtQuick components targeted for mobile use
+
+libkirigami-dev/stable 6.13.0-2 arm64
+  set of QtQuick components targeted for mobile use (development)
+
+libkirigami-doc/stable 6.13.0-2 all
+  set of QtQuick components targeted for mobile use (documentation)
+
+libkirigami6/stable 6.13.0-2 arm64
+  set of QtQuick components targeted for mobile use
+
+libkirigamidelegates6/stable 6.13.0-2 arm64
+  set of QtQuick components targeted for mobile use
+
+libkirigamidialogs6/stable 6.13.0-2 arm64
+  set of QtQuick components targeted for mobile use
+
+libkirigamilayouts6/stable 6.13.0-2 arm64
+  set of QtQuick components targeted for mobile use
+
+libkirigamiplatform6/stable 6.13.0-2 arm64
+  set of QtQuick components targeted for mobile use
+
+libkirigamiprimitives6/stable 6.13.0-2 arm64
+  set of QtQuick components targeted for mobile use
+
+libkirigamiprivate6/stable 6.13.0-2 arm64
+  set of QtQuick components targeted for mobile use
+
+libkiwix-dev/stable 14.0.0-1.1+b1 arm64
+  library of common code for Kiwix (development)
+
+libkiwix14/stable 14.0.0-1.1+b1 arm64
+  library of common code for Kiwix
+
+libminidns-java/stable 1.0.0-3 all
+  minimal DNS client library for Android and Java SE
+
+libokhttp-java/stable 3.13.1-4 all
+  HTTP+HTTP/2 client for Android and Java applications
+
+libopencore-amrnb-dev/stable 0.1.6-1+b2 arm64
+  Adaptive Multi Rate speech codec - development files
+
+libopencore-amrnb0/stable,now 0.1.6-1+b2 arm64 [installed,automatic]
+  Adaptive Multi Rate speech codec - shared library
+
+libopencore-amrwb-dev/stable 0.1.6-1+b2 arm64
+  Adaptive Multi-Rate - Wideband speech codec - development files
+
+libopencore-amrwb0/stable,now 0.1.6-1+b2 arm64 [installed,automatic]
+  Adaptive Multi-Rate - Wideband speech codec - shared library
+
+libopenjson-java/stable 1.0.13-1 all
+  rewrite of the evil licensed json.org
+
+libpam-barada/stable 0.5.3-1 arm64
+  PAM module to provide two-factor authentication based on HOTP
+
+librust-cpufeatures-dev/stable 0.2.16-1 arm64
+  Lightweight runtime CPU feature detection for aarch64, loongarch64, and x86/x86_64 targets,  with no_std support and support for mobile targets including Android and iOS - Rust source code
+
+librust-forensic-adb-dev/stable 0.8.0-1 arm64
+  Client library for the Android Debug Bridge (adb) - Rust source code
+
+libsmali-java/stable 2.5.2.git2771eae-4 all
+  assembler/disassembler for Android's dex format
+
+libsonivox-dev/stable 3.6.15-2 arm64
+  Sonivox Embedded Audio Synthesis Library (Development files)
+
+libsonivox3/stable 3.6.15-2 arm64
+  Sonivox Embedded Audio Synthesis Library
+
+libsqlcipher-dev/stable 4.6.1-2 arm64
+  SQLCipher development files
+
+libsqlcipher1/stable 4.6.1-2 arm64
+  SQLCipher shared library
+
+libtrident-java/stable 7.3+dfsg3-6 all
+  Animation library for Java applications
+
+libvo-aacenc-dev/stable 0.1.3-3 arm64
+  VisualOn AAC encoder library (development files)
+
+libvo-aacenc0/stable 0.1.3-3 arm64
+  VisualOn AAC encoder library
+
+libvo-amrwbenc-dev/stable 0.1.3-2+b2 arm64
+  VisualOn AMR-WB encoder library (development files)
+
+libvo-amrwbenc0/stable 0.1.3-2+b2 arm64
+  VisualOn AMR-WB encoder library
+
+libvoaacenc-ocaml/stable 0.1.1-2+b4 arm64
+  OCaml interface to the vo-aacenc library -- runtime files
+
+libvoaacenc-ocaml-dev/stable 0.1.1-2+b4 arm64
+  OCaml interface to the vo-aacenc library -- developpement files
+
+libzstd-jni-java/stable 1.5.2-5+ds-7 all
+  JNI bindings for Zstd (Java files)
+
+libzstd-jni1/stable 1.5.2-5+ds-7 arm64
+  JNI bindings for Zstd (Architecture-specific files)
+
+libzxing-java/stable 3.5.3+ds-1 all
+  ZXing ("Zebra Crossing") barcode scanning library for Java, Android
+
+lime-forensics-dkms/stable 1.9.1-8 all
+  kernel module to memory dump (DKMS)
+
+linaro-bcb-util/stable 0.0.2-2 all
+  simple util to access the BCB partition
+
+linssid/stable 3.6-10 arm64
+  graphical wireless scanner
+
+make-dynpart-mappings/stable 10.2.4-1+b2 arm64
+  CLI tool to setup DM mappings for Android dynamic partitions
+
+mini-soong/stable 0.20201028 all
+  minimalist Soong build system reimplementation
+
+mkbootimg/stable 1:34.0.5-12 all
+  Creates Android boot images
+
+mobile-atlas-creator/stable 2.1.4+dfsg.1-2 all
+  program to create offline atlases for GPS/cell phone applications
+
+musescore/stable 2.3.2+dfsg4-16 arm64
+  cross-platform multi-lingual music composition and notation, v2
+
+musescore3/stable 3.2.3+dfsg2-19 arm64
+  cross-platform multi-lingual music composition and notation, v3
+
+node-html5-qrcode/stable 2.3.8+repack-5 all
+  qr-code and bar-code scanning library for the web
+
+novnc/stable 1:1.6.0-2 all
+  HTML5 VNC client - daemon and programs
+
+nuntius/stable 0.2.0-5+b4 arm64
+  share notifications from Android phone or tablet via Bluetooth or LAN
+
+openorienteering-mapper/stable 0.9.5-3.1+b7 arm64
+  Orienteering map drawing application
+
+pidcat/stable 2.1.0-6 all
+  Colored adb logcat that shows entries for specific apps
+
+python-briefcase-doc/stable 0.3.22-2 all
+  Convert Python project to native application(common documentation)
+
+python-django-phonenumber-field-doc/stable 8.1.0-1 all
+  Model and form field for normalised phone numbers (Documentation)
+
+python-kivy-examples/stable 2.3.1-1 all
+  Kivy - Multimedia / Multitouch framework in Python (examples)
+
+python3-androidtvremote2/stable 0.1.1-2 all
+  interacting with Android TV using the Android TV Remote protocol v2
+
+python3-anthemav/stable 1.4.2-2 all
+  API for controlling Anthem Receivers
+
+python3-apkinspector/stable 1.3.2-2 all
+  tool designed to analyse Android APK files
+
+python3-axolotl/stable 0.2.3-4 all
+  Python 3 port of libaxolotl-android
+
+python3-briefcase/stable 0.3.22-2 all
+  Convert Python project to native application
+
+python3-django-phonenumber-field/stable 8.1.0-1 all
+  Model and form field for normalised phone numbers (Python 3 version)
+
+python3-emulated-roku/stable 0.3.0-2 all
+  Library emulating Roku API for remote control connectivity
+
+python3-gpsoauth/stable 0.4.1-4 all
+  Client library for Google Play Services OAuth
+
+python3-kanjidraw/stable 0.2.3-2 all
+  handwritten kanji recognition - library
+
+python3-keyman-config/stable 18.0.235-1 all
+  Keyman for Linux configuration
+
+python3-kivy/stable 2.3.1-1+b1 arm64
+  Kivy - Multimedia / Multitouch framework in Python (Python 3)
+
+python3-meshtastic/stable 2.6.0-1 all
+  client shell for talking to Meshtastic devices
+
+python3-notifications-android-tv/stable 1.2.2-2 all
+  Python API to send notifications to Android TV and Fire TV devices
+
+python3-omemo-dr/stable 1.0.1-2+b4 arm64
+  OMEMO double ratchet for Python
+
+python3-onetimepass/stable 1.0.1-2 all
+  Module for generating and validating HOTP and TOTP tokens
+
+python3-pyaxmlparser/stable 0.3.31-1 all
+  Simple Python library to parse Android XML files
+
+python3-pydroid-ipcam/stable 3.0.0-1 all
+  Library for interacting with Android's IP Webcam application
+
+python3-pyialarm/stable 2.2.0-2 all
+  Library to interface with iAlarm systems and related brands
+
+python3-python-fullykiosk/stable 0.0.14-2 all
+  Python library for Fully Kiosk Browser's REST API
+
+qbootctl/stable 0.2.2-1 arm64
+  utility to control Qualcomm A/B boot slots
+
+qml-module-org-kde-kirigami2/stable 5.116.0-1 arm64
+  set of QtQuick components targeted for mobile use
+
+qml6-module-org-kde-kdeconnect/stable 25.04.2-1+deb13u1 arm64
+  QML module wrapping KDE Connect functionality
+
+qml6-module-org-kde-kirigami/stable 6.13.0-2 arm64
+  set of QtQuick components targeted for mobile use (QML module)
+
+qtmir-android/stable 0.8.0~git20250407.ea2f477-1+deb13u1 arm64
+  QPA plugin for a Mir server (mobile, transitional package)
+
+ruby-google-apis-androidpublisher-v3/stable 0.34.0-2 all
+  Simple REST client for Google Play Android Developer API V3
+
+ruby-rushover/stable 0.3.0-2 all
+  Simple ruby Pushover client
+
+sdkmanager/stable 0.6.11-2 all
+  Package manager for Android SDK packages
+
+signalbackup-tools/stable 20250313.1-1 arm64
+  Tool to work with Signal Backup files
+
+signapk/stable 1:10.0.0+r36-1.1 all
+  Command line tool for signing Android ZIP/JAR/APK
+
+signtos/stable 1:10.0.0+r36-1.1 all
+  Android signing tool for signing Trusty images
+
+skales/stable 0.20170929-4 all
+  Boot image creation tools for qualcomm boards
+
+sonivoxrender/stable 3.6.15-2 arm64
+  Sonivox Embedded Audio Synthesis Library - Render Tool
+
+soong/stable 0.0~git20201014.17e97d9-4+b13 arm64
+  Soong build system (command-line tools)
+
+split-select/stable 1:14~beta1-3 arm64
+  APK split and selection tool
+
+sqlcipher/stable 4.6.1-2 arm64
+  Command line interface for SQLCipher
+
+toybox/stable 0.8.9+dfsg-1.1 arm64
+  BSD-licensed Linux command line utilities
+
+wifi-qr/stable 0.4-1 all
+  Wi-Fi password share via QR codes
+
+zipalign/stable 1:10.0.0+r36-1.1 arm64
+  Zip archive alignment tool
+
+ziptime/stable 1:10.0.0+r36-1.1 arm64
+  Zip archive timestamp remover
+

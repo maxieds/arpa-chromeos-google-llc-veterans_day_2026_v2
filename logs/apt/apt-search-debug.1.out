@@ -1,0 +1,2531 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+64tass/stable 1.59.3120-2 arm64
+  cross (turbo) assembler targeting the MOS 65xx series of micro processors
+
+abi-dumper/stable 1.4-1 all
+  tool to dump ABI of an ELF object containing DWARF debug info
+
+acpica-tools/stable 20250404-1 arm64
+  ACPICA tools for the development and debug of ACPI tables
+
+acr/stable 2.2.0-1 all
+  autoconf like tool
+
+adb/stable 1:34.0.5-12 arm64
+  Android Debug Bridge
+
+adbd/stable 34.0.5-12 arm64
+  Android Debug Bridge daemon
+
+akonadiconsole/stable 4:24.12.3-1 arm64
+  management and debugging console for akonadi
+
+algol68g/stable 3.1.2-1+b1 arm64
+  Implementation of Algol 68 as defined by the Revised Report
+
+amd-dbgapi-dev/stable 5.7.1-2 arm64
+  AMD GPU debugger support - headers
+
+android-libbacktrace/stable 1:34.0.5-12 arm64
+  Android backtrace library
+
+android-libbacktrace-dev/stable 1:34.0.5-12 arm64
+  Android backtrace library - Development files
+
+apitrace/stable 11.1+repack-2+b1 arm64
+  tools for debugging OpenGL applications and drivers - cli frontends
+
+apitrace-gui/stable 11.1+repack-2+b1 arm64
+  tools for debugging OpenGL applications and drivers - graphical frontend
+
+apitrace-tracers/stable 11.1+repack-2+b1 arm64
+  tools for debugging OpenGL applications and drivers - application tracer
+
+apktool/stable 2.7.0+dfsg-7 arm64
+  tool for reverse engineering Android apk files
+
+aspectj/stable 1.9.6-1 all
+  aspect-oriented extension for Java - tools
+
+aspectj-doc/stable 1.9.6-1 all
+  aspect-oriented extension for Java - documentation
+
+atftp/stable 0.8.0-8 arm64
+  advanced TFTP client
+
+augeas-tools/stable 1.14.1-1.1~deb13u1 arm64
+  Augeas command line tools
+
+avarice/stable 2.14+svn427-2 arm64
+  use GDB with Atmel AVR debuggers
+
+batctl/stable 2025.0-2 arm64
+  B.A.T.M.A.N. advanced control and management tool
+
+bats-assert/stable 2.1.0-3 all
+  Helper library providing common assertions for Bats
+
+binstats/stable 1.08-10 all
+  Statistics tool for installed programs
+
+binutils-aarch64-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for aarch64-linux-gnu target (debug symbols)
+
+binutils-alpha-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for alpha-linux-gnu target (debug symbols)
+
+binutils-arc-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for arc-linux-gnu target (debug symbols)
+
+binutils-arm-linux-gnueabi-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for arm-linux-gnueabi target (debug symbols)
+
+binutils-arm-linux-gnueabihf-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for arm-linux-gnueabihf target (debug symbols)
+
+binutils-dbg/stable 2.44-3 arm64
+  GNU assembler, linker and binary utilities(debug symbols)
+
+binutils-gold-aarch64-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for aarch64-linux-gnu target (debug symbols)
+
+binutils-gold-arm-linux-gnueabi-dbg/stable 2.44-2 arm64
+  gold ELF linker, for arm-linux-gnueabi target (debug symbols)
+
+binutils-gold-arm-linux-gnueabihf-dbg/stable 2.44-2 arm64
+  gold ELF linker, for arm-linux-gnueabihf target (debug symbols)
+
+binutils-gold-i686-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for i686-linux-gnu target (debug symbols)
+
+binutils-gold-powerpc-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for powerpc-linux-gnu target (debug symbols)
+
+binutils-gold-powerpc64le-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for powerpc64le-linux-gnu target (debug symbols)
+
+binutils-gold-s390x-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for s390x-linux-gnu target (debug symbols)
+
+binutils-gold-sparc-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for sparc-linux-gnu target (debug symbols)
+
+binutils-gold-sparc64-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for sparc64-linux-gnu target (debug symbols)
+
+binutils-gold-x86-64-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for x86-64-linux-gnu target (debug symbols)
+
+binutils-gold-x86-64-linux-gnux32-dbg/stable 2.44-2 arm64
+  gold ELF linker, for x86-64-linux-gnux32 target (debug symbols)
+
+binutils-hppa-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for hppa-linux-gnu target (debug symbols)
+
+binutils-i686-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for i686-linux-gnu target (debug symbols)
+
+binutils-loongarch64-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for loongarch64-linux-gnu target (debug symbols)
+
+binutils-m68k-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for m68k-linux-gnu target (debug symbols)
+
+binutils-mips-linux-gnu-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips-linux-gnu target (debug symbols)
+
+binutils-mips64-linux-gnuabi64-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64-linux-gnuabi64 target (debug symbols)
+
+binutils-mips64-linux-gnuabin32-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64-linux-gnuabin32 target (debug symbols)
+
+binutils-mips64el-linux-gnuabi64-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64el-linux-gnuabi64 target (debug symbols)
+
+binutils-mips64el-linux-gnuabin32-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64el-linux-gnuabin32 target (debug symbols)
+
+binutils-mipsel-linux-gnu-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsel-linux-gnu target (debug symbols)
+
+binutils-mipsisa32r6-linux-gnu-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa32r6-linux-gnu target (debug symbols)
+
+binutils-mipsisa32r6el-linux-gnu-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa32r6el-linux-gnu target (debug symbols)
+
+binutils-mipsisa64r6-linux-gnuabi64-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6-linux-gnuabi64 target (debug symbols)
+
+binutils-mipsisa64r6-linux-gnuabin32-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6-linux-gnuabin32 target (debug symbols)
+
+binutils-mipsisa64r6el-linux-gnuabi64-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6el-linux-gnuabi64 target (debug symbols)
+
+binutils-mipsisa64r6el-linux-gnuabin32-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6el-linux-gnuabin32 target (debug symbols)
+
+binutils-multiarch-dbg/stable 2.44-3 arm64
+  Binary utilities that support multi-arch targets (debug symbols)
+
+binutils-powerpc-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for powerpc-linux-gnu target (debug symbols)
+
+binutils-powerpc64le-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for powerpc64le-linux-gnu target (debug symbols)
+
+binutils-riscv64-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for riscv64-linux-gnu target (debug symbols)
+
+binutils-s390x-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for s390x-linux-gnu target (debug symbols)
+
+binutils-sh4-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for sh4-linux-gnu target (debug symbols)
+
+binutils-sparc-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for sparc-linux-gnu target (debug symbols)
+
+binutils-sparc64-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for sparc64-linux-gnu target (debug symbols)
+
+binutils-x86-64-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for x86-64-linux-gnu target (debug symbols)
+
+binutils-x86-64-linux-gnux32-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for x86-64-linux-gnux32 target (debug symbols)
+
+blt/stable 2.5.3+dfsg-8 arm64
+  graphics extension library for Tcl/Tk - run-time
+
+blt-demo/stable 2.5.3+dfsg-8 all
+  graphics extension library for Tcl/Tk - demos and examples
+
+blt-dev/stable 2.5.3+dfsg-8 arm64
+  graphics extension library for Tcl/Tk - development files
+
+bsh/stable 2.0b4-20 all
+  Java scripting environment (BeanShell) Version 2
+
+bsh-doc/stable 2.0b4-20 all
+  Documentation for bsh
+
+bsh-src/stable 2.0b4-20 all
+  Java scripting environment (BeanShell) Version 2 (source code)
+
+bustle/stable 0.11.0-2 arm64
+  D-Bus activity visualiser
+
+cc-tool/stable 0.27-1+b6 arm64
+  support for Texas Instruments CC Debugger
+
+cdemu-client/stable 3.2.5-2 all
+  Command-line client to control CDEmu daemon
+
+ceph-base-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-base
+
+ceph-common-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-common
+
+ceph-immutable-object-cache-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-immutable-object-cache
+
+ceph-mds-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-mds
+
+ceph-mgr-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-mgr
+
+ceph-mon-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-mon
+
+ceph-osd-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-osd
+
+ceph-test-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  Ceph test and benchmarking tools - ceph-test debug
+
+cephfs-mirror-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for cephfs-mirror
+
+cgdb/stable 0.8.0-3+b1 arm64
+  curses-based interface to the GNU Debugger (GDB)
+
+cl-fiasco/stable 0.0~git20200514.bb47d2f-3 all
+  test framework for Common Lisp
+
+cl-swank/stable 2:2.30+dfsg-4 all
+  Superior Lisp Interaction Mode for Emacs (Lisp-side server)
+
+cli-common-dev/stable 0.10+nmu2 all
+  common files for building CLI packages
+
+clisp/stable 1:2.49.20241228.gitc3ec11b-2 arm64
+  GNU CLISP, a Common Lisp implementation
+
+cntr/stable 1.6.0-2+b2 arm64
+  a container debugging tool based on FUSE mount
+
+codeblocks/stable 25.03+dfsg-2 arm64
+  Code::Blocks integrated development environment (IDE)
+
+codeblocks-dev/stable 25.03+dfsg-2 arm64
+  Code::Blocks development files (SDK)
+
+connectome-workbench-dbg/stable 2.0.1-1 arm64
+  brain visualization, analysis and discovery tool -- debug symbols
+
+crash/stable 8.0.6-1 arm64
+  kernel debugging utility, allowing gdb like syntax
+
+criu/stable 4.1.1-1 arm64
+  checkpoint and restore in userspace
+
+cupt-dbg/stable 2.10.4+nmu2+b2 arm64
+  flexible package manager -- debugging symbols
+
+cysignals-tools/stable 1.12.3+ds-1 all
+  interrupt and signal handling for Cython -- tools
+
+d-feet/stable 0.3.16-4 all
+  D-Bus object browser, viewer and debugger
+
+dbus-tests/stable 1.16.2-2 arm64
+  simple interprocess messaging system (test infrastructure)
+
+ddd/stable 1:3.3.12-5.4+b2 arm64
+  Data Display Debugger, a graphical debugger frontend
+
+ddd-doc/stable 1:3.3.12-5.4 all
+  Additional documentation for the Data Display Debugger
+
+debug-me/stable 1.20221231-2.1 arm64
+  secure remote debugging
+
+debug-me-server/stable 1.20221231-2.1 all
+  run a debug-me server for secure remote debugging
+
+debugbreak/stable 1.0-1 arm64
+  Put breakpoints in C/C++ code
+
+debugedit/stable 1:5.1-2 arm64
+  tools for handling build-ids and paths rewriting in DWARF data
+
+debuginfod/stable 0.192-4 arm64
+  debuginfo-related http file-server daemon
+
+delve/stable 1.24.0-4+b4 arm64
+  debugger for the Go programming language
+
+dibbler-client-dbg/stable 1.0.1-2 arm64
+  portable DHCPv6 client
+
+dibbler-relay-dbg/stable 1.0.1-2 arm64
+  portable DHCPv6 relay
+
+dibbler-server-dbg/stable 1.0.1-2 arm64
+  portable DHCPv6 server
+
+djbdns-utils/stable 1:1.05-22 arm64
+  dns debugging tools
+
+dnf-plugins-core/stable 4.10.1-4 all
+  Core plugins for DNF, the Dandified Yum package manager
+
+dnswalk/stable 2.0.2.dfsg.1-3 all
+  Checks dns zone information using nameserver lookups
+
+dosbox-debug/stable 0.74-3-5+b3 arm64
+  x86 emulator with DOS - debugger
+
+drkonqi/stable 6.3.4-1 arm64
+  Crash handler for Qt applications
+
+dsda-doom/stable 0.29.0+dfsg-1 arm64
+  Doom source port with a focus on demo recording and speedrunning
+
+duktape/stable 2.7.0-2+b2 arm64
+  embeddable Javascript engine
+
+duma/stable 2.5.21-11 arm64
+  Detect Unintended Memory Access - A Red-Zone memory allocator
+
+dumpet/stable 2.1-15+b1 arm64
+  dump information about bootable CDs and other similar formats
+
+dwarf2sources/stable 0.2.5-2+b1 arm64
+  utility to list the source files for a given binary
+
+dwarfdump/stable 1:0.11.1-1 arm64
+  utility to dump DWARF debug information from ELF objects
+
+ecj/stable 3.35.0+eclipse4.29-2 all
+  Eclipse Compiler for Java (command line tool)
+
+electric-fence/stable 2.2.7 arm64
+  A malloc(3) debugger
+
+elpa-bug-hunter/stable 1.3.1+repack-10 all
+  automatically debug and bisect your init.el or .emacs file
+
+elpa-dap-mode/stable 0.8-2 all
+  DAP UI controls implemented using treemacs
+
+elpa-dape/stable 0.24.1-1 all
+  Debug Adapter Protocol for Emacs
+
+elpa-geiser/stable 0.31.1-1 all
+  Generic Emacs/Scheme interaction mode
+
+elpa-helpful/stable 0.21-5 all
+  better *help* buffer
+
+elpa-matlab-mode/stable 6.3-1 all
+  MATLAB/Emacs integration
+
+elpa-puppet-mode/stable 0.4-5 all
+  Emacs major mode for Puppet manifests
+
+elpa-tuareg/stable 1:3.0.1-3 all
+  emacs-mode for OCaml programs
+
+elpa-undercover/stable 0.8.1-2 all
+  test coverage library for Emacs Lisp
+
+emu8051/stable 2.0.1-3+b2 arm64
+  Emulator and simulator for 8051 microcontrollers
+
+eric/stable 24.3+ds1-1 all
+  full featured Python IDE
+
+erlang-debugger/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP application for debugging and testing
+
+erlang-runtime-tools/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP runtime tracing/debugging tools
+
+evtest/stable 1:1.35-1+b1 arm64
+  utility to monitor Linux input device events
+
+f2c/stable 20240504-1+b2 arm64
+  FORTRAN 77 to C/C++ translator
+
+ffado-tools/stable 2.4.9-2 arm64
+  FFADO debugging and firmware tools
+
+flashrom/stable 1.4.0-3 arm64
+  Identify, read, write, erase, and verify BIOS/ROM/flash chips
+
+flowgrind-dbg/stable 0.8.2-2+b4 arm64
+  Debugging version of flowgrind
+
+fonts-ricty-diminished/stable 4.1.1-4 all
+  font based on Inconsolata and Circle M+ 1m for programming
+
+ftnchek/stable 3.3.1-7 arm64
+  Semantic checker for Fortran 77 programs
+
+fuse-emulator-gtk/stable 1.6.0+dfsg1-2+b2 arm64
+  The Free Unix Spectrum Emulator (GTK version)
+
+fuse-emulator-sdl/stable 1.6.0+dfsg1-2+b2 arm64
+  The Free Unix Spectrum Emulator (SDL version)
+
+fyi/stable 1.0.4-1 arm64
+  utility to send desktop notifications via a notification daemon
+
+gammaray-plugin-quickinspector/stable 3.1.0+ds-3 arm64
+  GammaRay plugin for inspecting QtQuick2 applications
+
+gdb/stable 16.3-1 arm64
+  GNU Debugger
+
+gdb-avr/stable 15.1-1+b3 arm64
+  GNU Debugger for avr
+
+gdb-bpf/stable 16.3-1+2+b1 arm64
+  Cross-debugger for the bpf target
+
+gdb-mingw-w64/stable 16.3-1+13.2+b2 arm64
+  Cross-debugger for Win32 and Win64 using MinGW-w64
+
+gdb-mingw-w64-target/stable 16.1-1+13.2 all
+  Cross-debugger server for Win32 and Win64 using MinGW-w64
+
+gdb-minimal/stable 16.3-1 all
+  GNU Debugger (minimal version - dummy transitional package)
+
+gdb-multiarch/stable 16.3-1 arm64
+  GNU Debugger (with support for multiple architectures)
+
+gdb-source/stable 16.3-1 all
+  GNU Debugger (source)
+
+gdbserver/stable 16.3-1 arm64
+  GNU Debugger (remote server)
+
+geany-plugin-debugger/stable 2.0-6+b1 arm64
+  debugger plugin for Geany
+
+geany-plugin-scope/stable 2.0-6+b1 arm64
+  graphical GDB front-end for Geany
+
+geany-plugin-webhelper/stable 2.0-6+b1 arm64
+  web helper plugin for Geany
+
+ghdl-tools/stable 5.0.1+dfsg-1+b1 arm64
+  VHDL compiler/simulator (tools)
+
+gmsl/stable 1.1.9-1 all
+  extra functions to extend functionality of GNU Makefiles
+
+gnusim8085/stable 1.4.1-1+b3 arm64
+  Graphical Intel 8085 simulator, assembler and debugger
+
+gnutls-bin/stable 3.8.9-3+deb13u4 arm64
+  GNU TLS library - commandline utilities
+
+golang-github-cilium-ebpf-dev/stable 0.11.0-2 all
+  eBPF Library for Go
+
+golang-github-d2r2-go-logger-dev/stable 0.0~git20210606.60e9d12-4 all
+  Go logger functionality with package-level logging separation (library)
+
+golang-github-davecgh-go-spew-dev/stable 1.1.1-3 all
+  Implements a deep pretty printer for Go data structures to aid in debugging
+
+golang-github-evilsocket-ftrace-dev/stable 1.2.0-2.1 all
+  trace Linux syscalls using the FTRACE kernel framework
+
+golang-github-go-macaron-toolbox-dev/stable 0.0~git20170220.0.6766b8f-7 all
+  health check, pprof, profile and statistic services for Macaron
+
+golang-github-golang-jwt-jwt-dev/stable 5.0.0+really4.5.2-1 all
+  golang implementation of JSON Web Tokens (library)
+
+golang-github-google-go-dap-dev/stable 0.10.0-1 all
+  Go implementation of the Debug Adapter Protocol (library)
+
+golang-github-hodgesds-perf-utils-dev/stable 0.5.1-2 all
+  Perf Utilities for Go (library)
+
+golang-github-huandu-go-assert-dev/stable 1.1.5-2 all
+  Magic assert macros for Go
+
+golang-github-influxdata-wlog-dev/stable 0.0~git20160411.7c63b0a-1.1 all
+  simple log level based Golang logger
+
+golang-github-jackc-pgmock-dev/stable 0.0~git20210724.4ad1a82-2 all
+  provides the ability to mock a PostgreSQL server
+
+golang-github-kr-pretty-dev/stable 0.3.1-1 all
+  Pretty printing for Go values
+
+golang-github-kylelemons-godebug-dev/stable 1.1.0-2 all
+  Debugging helper utilities for Go
+
+golang-github-lestrrat-go-pdebug-dev/stable 0.0~git20180220.0.569c974-3 all
+  Print debugging library for Go
+
+golang-github-maruel-panicparse-dev/stable 2.3.1-3 all
+  Crash your app in style (Go library)
+
+golang-github-microsoft-dev-tunnels-dev/stable 0.0.25-2 all
+  Dev Tunnels SDK (Go library)
+
+golang-github-pkg-errors-dev/stable 0.9.1-3 all
+  Simple error handling primitives for Go
+
+golang-github-sanity-io-litter-dev/stable 1.5.5-1 all
+  Pretty printer library for Go data structures to aid in debugging and testing
+
+golang-github-schollz-logger-dev/stable 1.2.0-2 all
+  Simplistic, opinionated logging for Golang (library)
+
+golang-github-zclconf-go-cty-debug-dev/stable 0.0~git20191215.b22d67c-2 all
+  debugging and inspection utilities for cty
+
+golang-gopkg-check.v1-dev/stable 0.0+git20200902.038fdea-2 all
+  Rich testing extension for Go's testing package
+
+gpsim/stable 0.32.1-2+b2 arm64
+  Simulator for Microchip's PIC microcontrollers
+
+gradle-completion/stable 1.3.1-1.1 all
+  Bash and Zsh completion support for Gradle
+
+graide/stable 1.1.0+dfsg-7 all
+  IDE for Graphite GDL font description development
+
+graphicsmagick-dbg/stable 1.4+really1.3.45+hg17696-1 arm64
+  format-independent image processing - debugging symbols
+
+graphviz/stable,now 2.42.4-3 arm64 [installed,automatic]
+  rich set of graph drawing tools
+
+grub-efi-arm64-dbg/stable 2.12-9+deb13u2 arm64
+  GRand Unified Bootloader, version 2 (ARM64 UEFI debug files)
+
+gupnp-tools/stable 0.12.2-1+b1 arm64
+  tools for testing UPnP devices and control points
+
+hackrf/stable 2024.02.1-3 arm64
+  Software defined radio peripheral - utilities
+
+heaptrack/stable 1.5.0+dfsg1-5 arm64
+  heap memory profiler for Linux
+
+heaptrack-gui/stable 1.5.0+dfsg1-5 arm64
+  heap memory profiler for Linux
+
+hexedit/stable 1.6-2 arm64
+  viewer and editor in hexadecimal or ASCII for files or devices
+
+horst/stable 5.1-3+b1 arm64
+  Highly Optimized Radio Scanning Tool
+
+hylafax-client-dbg/stable 3:6.0.7-11.1 arm64
+  Flexible client/server fax software - client utilities
+
+hylafax-server-dbg/stable 3:6.0.7-11.1 arm64
+  Debug symbols for the hylafax server
+
+image-analyzer/stable 3.2.6-5 all
+  Mirage Image Analyzer
+
+inotify-info/stable 0.0.3-4 arm64
+  tracking the number of inotify watches
+
+ipgrab/stable 0.9.10-5+b1 arm64
+  tcpdump-like utility that prints detailed header information
+
+java-wrappers/stable 0.5 all
+  wrappers for java executables
+
+javacc/stable 7.0.13-1 all
+  Parser generator for use with Java
+
+javacc-doc/stable 7.0.13-1 all
+  Documentation for the JavaCC Parser Generator
+
+javacc4/stable 4.0-3 all
+  Parser generator for use with Java
+
+javacc4-doc/stable 4.0-3 all
+  Documentation for the JavaCC Parser Generator
+
+javacc5/stable 5.0-11 all
+  Parser generator for use with Java
+
+javacc5-doc/stable 5.0-11 all
+  Documentation for the JavaCC Parser Generator
+
+jitterdebugger/stable 0.3.1+git20200117.b90ff3a-5+b1 arm64
+  Real time response measurement tool
+
+jitterdebugger-all/stable 0.3.1+git20200117.b90ff3a-5+b1 arm64
+  Real time response measurement tool - metapackage
+
+jitterdebugger-utils/stable 0.3.1+git20200117.b90ff3a-5+b1 arm64
+  Utilities for the jitterdebugger tool
+
+jwt/stable 5.0.0+really4.5.2-1+b2 arm64
+  golang implementation of JSON Web Tokens (command line)
+
+kcov/stable 43+dfsg-1+b4 arm64
+  Code coverage analysis using DWARF debugging information
+
+kdebugsettings/stable 25.04.0-2 arm64
+  application to enable/disable qCDebug settings
+
+kdevelop/stable 4:24.12.3-1 arm64
+  integrated development environment for C/C++ and other languages
+
+kdevelop-data/stable 4:24.12.3-1 all
+  data files for the KDevelop IDE
+
+kdevelop-dev/stable 4:24.12.3-1 arm64
+  development files for the KDevelop IDE
+
+kdevelop-l10n/stable 4:24.12.3-1 all
+  localization files for the KDevelop IDE
+
+kdevelop-php/stable 24.12.3-1 arm64
+  PHP plugin for KDevelop
+
+kdevelop-python/stable 24.12.3-1 arm64
+  Python 3 plugin for KDevelop
+
+kdevelop-python-data/stable 24.12.3-1 all
+  Python 3 plugin for KDevelop - data files
+
+kubectl/stable 1.32.3+ds-2 arm64
+  Command-line tool for controlling Kubernetes clusters
+
+kyotocabinet-utils/stable 1.2.80-2+b1 arm64
+  Straightforward implementation of DBM - utilities
+
+lam-runtime/stable 7.1.4-7.2 arm64
+  LAM runtime environment for executing parallel programs
+
+ldnsutils/stable 1.8.4-2+b1 arm64
+  ldns library for DNS programming - tools (includes drill tool)
+
+libadns1-dbg/stable 1.6.1-1+b1 arm64
+  Asynchronous-capable DNS client library (debugging symbols)
+
+libandroid-ddms-java/stable 2.2.2-6 all
+  Communicate with devices through adb - Core library
+
+libandroid-tools-analytics-library-java/stable 2.2.2-3 all
+  Libraries for tracking the usage analytics of Android SDK
+
+libantlr3c-3.4-0/stable 3.4+dfsg-4+b2 arm64
+  ANTLR v3 parser generator C runtime
+
+libantlr3c-antlrdbg-3.4-0/stable 3.4+dfsg-4+b2 arm64
+  ANTLR v3 parser generator C runtime with ANTLR debugger
+
+libao-dbg/stable 1.2.2+20180113-1.2 arm64
+  Cross Platform Audio Output Library Debug Symbols
+
+libapache2-mod-ldap-userdir-dbg/stable 1.1.19-2.1+b5 arm64
+  Debugging symbols for mod_ldap_userdir
+
+libaspectj-java/stable 1.9.6-1 all
+  aspect-oriented extension for Java - library
+
+libautovivification-perl/stable 0.18-2+b4 arm64
+  pragma for lexically disabling autovivification
+
+libb-debug-perl/stable 1.26-3 all
+  module to print debug info about perl ops
+
+libbacktrace-dev/stable 0.1-4 arm64
+  Backtrace library (for C/C++ apps)
+
+libbacktrace0/stable 0.1-4 arm64
+  Backtrace library (for C/C++ apps)
+
+libbinutils-dbg/stable 2.44-3 arm64
+  GNU binary utilities (private shared library, debug symbols)
+
+libbsh-java/stable 2.0b4-20 all
+  Java scripting environment (BeanShell) Version 2 (library)
+
+libc6-dbg/stable 2.41-12+deb13u3 arm64
+  GNU C Library: detached debugging symbols
+
+libcarp-always-perl/stable 0.16-1 all
+  Perl module to make warn and die noisy with stack backtraces
+
+libcarp-assert-perl/stable 0.22-1 all
+  Carp::Assert - executable comments for perl
+
+libcarp-datum-perl/stable 1:0.1.3-9 all
+  Debugging And Tracing Ultimate Module (for perl)
+
+libcatalyst-action-renderview-perl/stable 0.17-1 all
+  Sensible default end action for Catalyst
+
+libcatalyst-plugin-stacktrace-perl/stable 0.12-4 all
+  Catalyst plugin for displaying a stack trace on the debug screen
+
+libcatalystx-leakchecker-perl/stable 0.06-3 all
+  module for detecting memory leaks in Catalyst applications
+
+libcatmandu-perl/stable 1.2024-1 all
+  metadata toolkit
+
+libcephfs2-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for libcephfs2
+
+libcgi-application-plugin-debugscreen-perl/stable 1.00-2 all
+  debugging tool for CGI::Application
+
+libcgi-application-plugin-devpopup-perl/stable 1.08+~cs2.4-1 all
+  debugging framework for CGI::Application
+
+libcgi-application-plugin-viewcode-perl/stable 1.02-6 all
+  debugging tool for CGI::Application
+
+libcgicc-dev/stable 3.2.19-3 arm64
+  C++ class library for writing CGI applications (development files)
+
+libcgicc-doc/stable 3.2.19-3 all
+  C++ class library for writing CGI applications (documentation)
+
+libcgicc3/stable 3.2.19-3 arm64
+  C++ class library for writing CGI applications (library)
+
+libclass-base-perl/stable 0.09-2 all
+  useful base class for deriving other modules
+
+libclass-ooorno-perl/stable 0.011-3 all
+  Give your module classic AND OO interfaces
+
+libcodeblocks0t64/stable 25.03+dfsg-2 arm64
+  Code::Blocks shared library
+
+libcofoja-java/stable 1.3-4.1 all
+  Java API for annotating code with contracts
+
+libcohttp-ocaml/stable 5.3.0-1+b23 arm64
+  OCaml library for HTTP clients and servers (runtime)
+
+libcohttp-ocaml-dev/stable 5.3.0-1+b23 arm64
+  OCaml library for HTTP clients and servers (dev)
+
+libconstant-generate-perl/stable 0.17-3 all
+  Perl module providing useful utilities for handling symbolic constants
+
+libcppdap-dev/stable 1.58.0a-6 arm64
+  C++11 implementation of the Debug Adapter Protocol
+
+libcriu-dev/stable 4.1.1-1 arm64
+  checkpoint and restore in userspace (development headers)
+
+libcriu2/stable 4.1.1-1 arm64
+  checkpoint and restore in userspace (library)
+
+libctemplate-dev/stable 2.4-4 arm64
+  Simple but powerful template language for C++ - development files
+
+libctf-nobfd0-dbg/stable 2.44-3 arm64
+  Compact C Type Format library (debug symbols, no BFD dependency)
+
+libctf0-dbg/stable 2.44-3 arm64
+  Compact C Type Format library (debug symbols, BFD dependency)
+
+libdata-dumper-concise-perl/stable 2.023-3 all
+  module for more shorter Data::Dumper-like output
+
+libdb5.3-dbg/stable 5.3.28+dfsg2-9 arm64
+  Berkeley v5.3 Database Libraries [debug]
+
+libdebug-trace-perl/stable 0.05-3 all
+  module to trace Perl subroutine calls
+
+libdebug0/stable 0.5.3-8+b1 arm64
+  Memory leak detection system and logging library
+
+libdebug0-dev/stable 0.5.3-8+b1 arm64
+  Development files for the debug library
+
+libdebuginfod-common/stable 0.192-4 all
+  configuration to enable the Debian debug info server
+
+libdebuginfod-dev/stable 0.192-4 arm64
+  libdebuginfod development libraries and header files
+
+libdebuginfod1t64/stable 0.192-4 arm64
+  library to interact with debuginfod (development files)
+
+libdevel-argnames-perl/stable 0.03-3 all
+  module providing access to subroutine variable names
+
+libdevel-confess-perl/stable 0.009004-4 all
+  module to include stack traces on all warnings and errors
+
+libdevel-dumpvar-perl/stable 1.06-1.1 all
+  Perl module to dump Perl variables
+
+libdevel-mat-perl/stable 0.53-1+b1 arm64
+  Perl Memory Analysis Tool
+
+libdevel-ptkdb-perl/stable 1.1091-3.1 all
+  Perl debugger using a Tk GUI
+
+libdevel-trace-perl/stable 0.12-1.1 all
+  Perl module to aid debugging by printing out each line before execution
+
+libdkim1d-dbg/stable 1:1.0.21-4+b6 arm64
+  DomainKeys Identified Mail (DKIM) library - debug symbols
+
+libdmalloc-dev/stable 5.5.2-14+b3 arm64
+  debug memory allocation library (development files and doc)
+
+libdmalloc5/stable 5.5.2-14+b3 arm64
+  debug memory allocation library
+
+libdw-dev/stable 0.192-4 arm64
+  libdw1t64 development libraries and header files
+
+libdw1t64/stable 0.192-4 arm64
+  library that provides access to the DWARF debug information
+
+libdwarf-dev/stable 1:0.11.1-1 arm64
+  library to consume and produce DWARF debug information
+
+libdwarf1/stable 1:0.11.1-1 arm64
+  library to consume and produce DWARF debug information (runtime)
+
+libeclipse-debug-core-java/stable 3.21.100+eclipse4.29-4 all
+  Eclipse Debug Core
+
+libeclipse-debug-ui-java/stable 3.18.100+eclipse4.29-4 all
+  Eclipse Debug UI
+
+libeclipse-jdt-annotation-java/stable 2.2.700+eclipse4.29-2 all
+  Eclipse JDT Annotations for Enhanced Null Analysis
+
+libeclipse-jdt-apt-core-java/stable 3.8.100+eclipse4.29-2 all
+  Eclipse Java Annotation Processing Core
+
+libeclipse-jdt-apt-pluggable-core-java/stable 1.4.100+eclipse4.29-2 all
+  Eclipse Java Compiler Apt IDE
+
+libeclipse-jdt-core-compiler-batch-java/stable 3.35.0+eclipse4.29-2 all
+  Eclipse Java Compiler Batch
+
+libeclipse-jdt-core-java/stable 3.35.0+eclipse4.29-2 all
+  Eclipse Java Development Tools Core
+
+libeclipse-jdt-debug-java/stable 3.21.100+eclipse4.29-1 all
+  Eclipse JDI Debug Model
+
+libeclipse-jdt-debug-ui-java/stable 3.13.100+eclipse4.29-1 all
+  Eclipse JDI Debug UI
+
+libeclipse-jdt-launching-java/stable 3.20.100+eclipse4.29-1 all
+  Eclipse Java Development Tools Launching Support
+
+libeclipse-linuxtools-java/stable 8.1.0+dfsg.1-1 all
+  framework for Eclipse CDT profiling tools (Java libraries)
+
+libedac1-dbg/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+libedje-bin/stable 1.28.1-1 arm64
+  EFL layout and animation tools - utilities
+
+libeina-bin/stable 1.28.1-1 arm64
+  EFL optimized data types - extra tools
+
+libelementary-bin/stable 1.28.1-1 arm64
+  EFL widget set - helper programs
+
+libexpect-perl/stable 1.38-1 all
+  Perl Expect interface
+
+libfacile-ocaml-dev/stable 1.1.4-4+b3 arm64
+  functional constraint library implemented in Objective Caml
+
+libfilter-perl/stable 1.64-2 arm64
+  Perl source filters
+
+libfilter-template-perl/stable 1.043-3 all
+  source filter for inline code templates (macros)
+
+libflatpak-dev/stable 1.16.6-1~deb13u1 arm64
+  Application deployment framework for desktop apps (development)
+
+libfreehep-graphicsio-java-java/stable 2.4+dfsg-3 all
+  FreeHEP Java Driver
+
+libftdi1-dbg/stable 0.20-4+b2 arm64
+  Debugging symbols for libftdi1
+
+libgecodegist49t64/stable 6.2.0-7 arm64
+  Gecode Interactive Search Tool library
+
+libghc-iospec-dev/stable 0.3.1.2-2+b1 arm64
+  Pure specification of the IO monad
+
+libghc-iospec-doc/stable 0.3.1.2-2 all
+  Pure specification of the IO monad; documentation
+
+libghc-iospec-prof/stable 0.3.1.2-2+b1 arm64
+  Pure specification of the IO monad; profiling libraries
+
+libghc-lambdabot-misc-plugins-dev/stable 5.3.1.2-1+b1 arm64
+  Lambdabot miscellaneous plugins
+
+libghc-lambdabot-misc-plugins-doc/stable 5.3.1.2-1 all
+  Lambdabot miscellaneous plugins; documentation
+
+libghc-lambdabot-misc-plugins-prof/stable 5.3.1.2-1+b1 arm64
+  Lambdabot miscellaneous plugins; profiling libraries
+
+libgoogle-glog-dev/stable 0.6.0-2.1+b2 arm64
+  library that implements application-level logging.
+
+libgoogle-perftools-dev/stable 2.16-1 arm64
+  libraries for CPU and heap analysis, plus an efficient thread-caching malloc
+
+libgprofng0-dbg/stable 2.44-3 arm64
+  GNU Next Generation profiler (debug symbols)
+
+libgrammatica-java/stable 1.6+ds-4 all
+  C# and Java parser generator (compiler compiler)
+
+libgsl-dbg/stable 2.8+dfsg-5 arm64
+  GNU Scientific Library (GSL) -- debug symbols package
+
+libguestfs-rescue/stable 1:1.54.1-2+deb13u1 arm64
+  guest disk image management system - virt-rescue enhancements
+
+libgusb-dev/stable 0.4.9-1+b1 arm64
+  GLib wrapper around libusb1 - development files
+
+libheaptrack/stable 1.5.0+dfsg1-5 arm64
+  heap memory profiler for Linux
+
+libhtml-mason-perl/stable 1:1.60-2 all
+  HTML::Mason Perl module
+
+libimobiledevice-utils/stable 1.3.0+git20250228-2 arm64
+  Utitilies for communicating with iPhone and other Apple devices
+
+libiptcdata0-dbg/stable 1.0.5-2.4 arm64
+  Library to parse IPTC metadata (debug files)
+
+libitpp8v5-dbg/stable 4.3.1-10+b3 arm64
+  C++ library of signal processing and communication routines: Debug symbols
+
+libivykis0-dbg/stable 0.43.2-1+b1 arm64
+  Asynchronous I/O readiness notification library (debug symbols)
+
+libjama-dev/stable 1.2.5-1 all
+  C++ Linear Algebra Package
+
+libjaylink-dev/stable 0.4.0-1 arm64
+  library for interacting with J-Link programmers (development files)
+
+libjaylink0/stable 0.4.0-1 arm64
+  library for interacting with J-Link programmers
+
+libjs-debug/stable 4.3.4+~cs4.1.7-1 all
+  small debugging utility
+
+libjs-debugger/stable 0.5-5 all
+  Console logger for debugging JavaScript
+
+libjs-hooker/stable 0.2.3+~0.2.31-2 all
+  Useful javascript debugging library usable in a browser
+
+libjs-requirejs/stable 2.3.7+ds+~2.1.37-1 all
+  JavaScript file and module loader
+
+libkate-tools/stable 0.4.3-1 arm64
+  Utilities for mangling kate Ogg files
+
+libkf5notifications-dev/stable 5.116.0-1 arm64
+  Framework for desktop notifications
+
+libkf6filemetadata-dev-tools/stable 6.13.0-1 arm64
+  development tools file metadata frameworks
+
+libkibi-dbg/stable 0.1.1-2.1+b2 arm64
+  library for byte prefixes (debugging symbols)
+
+libkpim6akonadisearchdebug6/stable 4:24.12.3-1 arm64
+  Akonadi search debug library
+
+libkrb5-dbg/stable 1.21.3-5+deb13u1 arm64
+  debugging files for MIT Kerberos
+
+libkysdk-base/stable 2.2.0.2-1 arm64
+  Kylin SDK basic library
+
+libkysdk-base-dev/stable 2.2.0.2-1 arm64
+  development files for libkysdk-base
+
+liblinksem-ocaml-dev/stable 0.8+dfsg3-1+b2 arm64
+  Formalisation of the core ELF and DWARF file formats written in Lem
+
+liblldb-17-dev/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger, header files
+
+liblldb-17t64/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger, library
+
+liblldb-18/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger, library
+
+liblldb-18-dev/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger, header files
+
+liblldb-19/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger, library
+
+liblldb-19-dev/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger, header files
+
+liblldb-dev/stable 1:19.0-63 arm64
+  Next generation, high-performance debugger, header files
+
+liblog-any-adapter-callback-perl/stable 0.102-1 all
+  module to send Log::Any logs to a subroutine
+
+liblog-contextual-perl/stable 0.009001-1 all
+  module for simple contextual logging
+
+liblog-fast-perl/stable 2.0.1-2 all
+  fast and flexible logger
+
+liblog4net-cil-dev/stable 1.2.10+dfsg-9 all
+  highly configurable logging API for the CLI
+
+liblog4net1.2-cil/stable 1.2.10+dfsg-9 all
+  highly configurable logging API for the CLI
+
+liblogger-syslog-perl/stable 1.1-6 all
+  Logger::Syslog -- a simple wrapper over Sys::Syslog for Perl
+
+liblouis-bin/stable 3.33.0-1 arm64
+  Braille translation library - utilities
+
+liblouis-data/stable 3.33.0-1 all
+  Braille translation library - data
+
+liblttng-ctl-dev/stable 2.13.15-2 arm64
+  LTTng control and utility library (development files)
+
+liblttng-ctl0t64/stable 2.13.15-2 arm64
+  LTTng control and utility library
+
+liblua5.3-0-dbg/stable 5.3.6-2+b4 arm64
+  Debug symbols for the Lua shared library interpreter
+
+libmaa-dev/stable 1.5.1-1 arm64
+  maa programming library, development files
+
+libmaa4/stable 1.5.1-1 arm64
+  maa programming library
+
+libmatthew-debug-java/stable 0.8.1-4 all
+  Debugging library for Java
+
+libmatthew-java-doc/stable 0.8.1-4 all
+  API documentation for the libmatthew-java libraries
+
+libmetalang99-dev/stable 1.13.3-1 arm64
+  Full-blown preprocessor metaprogramming
+
+libminlog-java/stable 1.3.1-1 all
+  minimal Java logging library
+
+libmodule-build-xsutil-perl/stable 0.19-3 all
+  Module::Build class for building XS modules
+
+libmono-debugger-soft4.0a-cil/stable 6.12.0.199+dfsg-6 all
+  Mono Soft Debugger library (for CLI 4.0)
+
+libmono-management4.0-cil/stable 6.12.0.199+dfsg-6 all
+  Mono Management library (for CLI 4.0)
+
+libmono-system-reactive-debugger2.2-cil/stable 6.12.0.199+dfsg-6 all
+  Mono System.Reactive.Debugger Library (for CLI 4.5)
+
+libmonosgen-2.0-1-dbg/stable 6.12.0.199+dfsg-6 arm64
+  Mono JIT library, debugging symbols (SGen GC)
+
+libmoosex-role-strict-perl/stable 0.5-3 all
+  module for using strict 'roles' with Moose
+
+libnet-fastcgi-perl/stable 0.14-2 all
+  Perl toolkit to write FastCGI applications
+
+libnfc-bin/stable,now 1.8.0-3.1+b1 arm64 [installed]
+  Near Field Communication (NFC) binaries
+
+libnfc-examples/stable 1.8.0-3.1+b1 arm64
+  Near Field Communication (NFC) examples
+
+libnfc-pn53x-examples/stable 1.8.0-3.1+b1 arm64
+  Near Field Communication (NFC) examples for PN53x chips only
+
+libnginx-mod-http-echo/stable 1:0.63-7 arm64
+  Bring echo and more shell style goodies to Nginx
+
+libocamlviz-ocaml-dev/stable 1.01-8+b4 arm64
+  real-time profiling tools for Objective Caml (library)
+
+libocamlviz-ocaml-doc/stable 1.01-8 all
+  real-time profiling tools for Objective Caml (documentation)
+
+liboggz2-dev/stable 1.1.3-1 arm64
+  convenience interface for Ogg stream I/O (development files)
+
+libopencsg1-dbg/stable 1.5.0-1+b3 arm64
+  debugging symbols for libopencsg
+
+libopenjfx-java/stable 11.0.11+1-7 all
+  JavaFX/OpenJFX - Rich client application platform for Java (Java libraries)
+
+libopenjfx-java-doc/stable 11.0.11+1-7 all
+  JavaFX/OpenJFX - Rich client application platform for Java (Javadoc)
+
+libopenjfx-jni/stable 11.0.11+1-7 arm64
+  JavaFX/OpenJFX - Rich client application platform for Java (native libraries)
+
+libpackage-new-perl/stable 0.10-1 all
+  simple base package from which to inherit
+
+libpadwalker-perl/stable,now 2.5-1+b6 arm64 [installed,automatic]
+  module to inspect and manipulate lexical variables
+
+libparse-http-useragent-perl/stable 0.43-1 all
+  parser for the HTTP User Agent string
+
+libpcap0.8-dev/stable 1.10.5-2 arm64
+  development library and header files for libpcap0.8t64
+
+libpcap0.8t64/stable 1.10.5-2 arm64
+  system interface for user-level packet capture
+
+libperl-destruct-level-perl/stable 0.02-3+b5 arm64
+  Perl module to change Perl's destruction level
+
+libperl-languageserver-perl/stable 2.6.2-1 all
+  Language Server and Debug Protocol Adapter for Perl
+
+libpetsc-complex3.22-dbg/stable 3.22.5+dfsg1-2+b1 arm64
+  Debugging libraries for PETSc
+
+libpetsc-real3.22-dbg/stable 3.22.5+dfsg1-2+b1 arm64
+  Debugging libraries for PETSc
+
+libpetsc64-complex3.22-dbg/stable 3.22.5+dfsg1-2+b1 arm64
+  Debugging libraries for 64-bit PETSc with Complex Numbers
+
+libpetsc64-real3.22-dbg/stable 3.22.5+dfsg1-2+b1 arm64
+  Debugging libraries for PETSc
+
+libphobos2-ldc-shared-dev/stable 1:1.40.0-5 arm64
+  LLVM D Compiler - Standard and runtime libraries, imports
+
+libplack-middleware-debug-perl/stable 0.18+dfsg-2 all
+  Plack middleware for displaying request/response debug information
+
+libpmem1-debug/stable 1.13.1-1.1+b1 arm64
+  Persistent Memory low level support library — debug build
+
+libpmem2-debug/stable 1.13.1-1.1+b1 arm64
+  Persistent Memory low level support library — debug build
+
+libpmemblk1-debug/stable 1.13.1-1.1+b1 arm64
+  Persistent Memory block array support library — debug build
+
+libpmemlog1-debug/stable 1.13.1-1.1+b1 arm64
+  Persistent Memory log file support library — debug build
+
+libpmemobj1-debug/stable 1.13.1-1.1+b1 arm64
+  Persistent Memory object store support library — debug build
+
+libpmempool1/stable 1.13.1-1.1+b1 arm64
+  Persistent Memory pool management support library
+
+libpmempool1-debug/stable 1.13.1-1.1+b1 arm64
+  Persistent Memory pool management support library — debug build
+
+libpostscript-file-perl/stable 2.23+dfsg-3 all
+  module for creating Adobe PostScript files
+
+libpython3-all-dbg/stable 3.13.5-1 arm64
+  package depending on all supported Python 3 debugging packages
+
+libpython3-dbg/stable 3.13.5-1 arm64
+  debug build of the Python 3 Interpreter (version 3.13)
+
+libpython3.13-dbg/stable 3.13.5-2+deb13u3 arm64
+  Debug Build of the Python Interpreter (version 3.13)
+
+libqscintilla2-doc/stable 2.14.1+dfsg-1 all
+  API documentation for QScintilla 2
+
+libqscintilla2-qt5-15/stable 2.14.1+dfsg-1+b4 arm64
+  Qt5 port of the Scintilla source code editing widget
+
+libqscintilla2-qt5-designer/stable 2.14.1+dfsg-1+b4 arm64
+  Qt5 Designer plugin for QScintilla 2
+
+libqscintilla2-qt5-dev/stable 2.14.1+dfsg-1+b4 arm64
+  Scintilla source code editing widget for Qt5, development files
+
+libqscintilla2-qt5-l10n/stable 2.14.1+dfsg-1 all
+  Scintilla source code editing widget for Qt5, translation files
+
+libqscintilla2-qt6-15/stable 2.14.1+dfsg-1+b4 arm64
+  Qt6 port of the Scintilla source code editing widget
+
+libqscintilla2-qt6-designer/stable 2.14.1+dfsg-1+b4 arm64
+  Qt6 Designer plugin for QScintilla 2
+
+libqscintilla2-qt6-dev/stable 2.14.1+dfsg-1+b4 arm64
+  Scintilla source code editing widget for Qt6, development files
+
+libqscintilla2-qt6-l10n/stable 2.14.1+dfsg-1 all
+  Scintilla source code editing widget for Qt6, translation files
+
+libqt5scripttools5/stable 5.15.15+dfsg-2 arm64
+  Qt 5 script tools module
+
+librados2-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for librados
+
+libradosstriper1-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for libradosstriper
+
+librbd1-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for librbd1
+
+libreadonly-perl/stable,now 2.050-3 all [installed,automatic]
+  facility for creating read-only scalars, arrays and hashes
+
+libreadonlyx-perl/stable 1.04-4 all
+  faster facility for creating read-only scalars, arrays, hashes
+
+libregexp-debugger-perl/stable 0.002007-1 all
+  Perl module to visually debug regexes in-place
+
+librgw2-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for librbd1
+
+librocksdb-dev/stable 9.10.0-1 arm64
+  persistent Key-Value Store for Flash and RAM Storage (development)
+
+librocksdb9.10/stable 9.10.0-1 arm64
+  persistent Key-Value Store for Flash and RAM Storage
+
+librocm-dbgapi0/stable 5.7.1-2 arm64
+  AMD GPU debugger support - library
+
+librtfilter1-dbg/stable 1.1-4+b3 arm64
+  realtime digital filtering library (debugging symbols)
+
+librust-byte-string-dev/stable 1.0.0-1+b2 arm64
+  Wrapper types for outputting byte strings using the Debug format - Rust source code
+
+librust-cntr-dev/stable 1.6.0-2+b2 arm64
+  Container debugging tool based on FUSE - Rust source code
+
+librust-debugid-dev/stable 0.8.0-1+b2 arm64
+  Common reusable types for implementing the sentry.io protocol - Rust source code
+
+librust-forensic-adb-dev/stable 0.8.0-1 arm64
+  Client library for the Android Debug Bridge (adb) - Rust source code
+
+librust-gimli-dev/stable 0.31.1-2 arm64
+  Reading and writing the DWARF debugging format - Rust source code
+
+librust-is-debug-dev/stable 1.0.1-1+b2 arm64
+  Get build model is debug - Rust source code
+
+librust-new-debug-unreachable-dev/stable 1.0.4-1+b2 arm64
+  Panic in debug, intrinsics::unreachable() in release (fork of debug_unreachable) - Rust source code
+
+librust-onig+print-debug-dev/stable 6.3.2-2 arm64
+  Bindings for the Oniguruma regex library - feature "print-debug"
+
+librust-opaque-debug-dev/stable 0.3.0-1+b2 arm64
+  Macro for opaque Debug trait implementation - Rust source code
+
+librust-pdb-dev/stable 0.8.0-3 arm64
+  Parser for Microsoft PDB (Program Database) debugging information - Rust source code
+
+librust-serde-fmt-dev/stable 1.0.3-4 all
+  write any serde::Serialize using standard formatting APIs - Rust source code
+
+librust-spytrap-adb-dev/stable 0.3.5-1 arm64
+  Test a phone for stalkerware using adb and usb debugging - Rust source code
+
+librust-structopt+debug-dev/stable 0.3.26-2+b2 arm64
+  Parse command line argument by defining a struct - feature "debug"
+
+librust-sval-fmt-dev/stable 2.6.1-1+b2 arm64
+  Integration between std::fmt::Debug and sval::Value - Rust source code
+
+librust-temp-testdir-dev/stable 0.2.3-2 arm64
+  Little crate to use temp directory in crate - Rust source code
+
+libsframe1-dbg/stable 2.44-3 arm64
+  Library to handle the SFrame format (debug symbols)
+
+libsimavr-dev/stable 1.6+dfsg-3+b3 arm64
+  AVR simulator development library
+
+libsimavr-examples/stable 1.6+dfsg-3 all
+  AVR simulator development examples
+
+libsimavr2/stable 1.6+dfsg-3+b3 arm64
+  AVR simulator shared library
+
+libsimavrparts1/stable 1.6+dfsg-3+b3 arm64
+  AVR simulator additional peripherals shared library
+
+libsmali-java/stable 2.5.2.git2771eae-4 all
+  assembler/disassembler for Android's dex format
+
+libsmart-comments-perl/stable 1.06-3 all
+  Perl module for comments that do more than just sit there
+
+libsml-utils/stable 1.1.2-2+b1 arm64
+  Small tool for testing and debugging libsml
+
+libsqlite3-mod-ceph-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for libsqlite3-mod-ceph
+
+libstdc++6-12-dbg/stable 12.4.0-5 arm64
+  GNU Standard C++ Library v3 (debug build)
+
+libstdc++6-13-dbg/stable 13.3.0-16 arm64
+  GNU Standard C++ Library v3 (debug build)
+
+libstdc++6-14-dbg/stable 14.2.0-19 arm64
+  GNU Standard C++ Library v3 (debug build)
+
+libsub-exporter-formethods-perl/stable 0.100055-1 all
+  Sub::Exporter extension for handling methods
+
+libtelepathy-farstream3-dbg/stable 0.6.2-1.2+b2 arm64
+  Glue library between telepathy and farstream (debug symbols)
+
+libtelnet-utils/stable 0.23-1 arm64
+  Small library for parsing the TELNET protocol - utilities
+
+libtemplate-plugin-stash-perl/stable 1.006-2 all
+  Template::Toolkit plugin that exposes the template's stash
+
+libtest-nobreakpoints-perl/stable 0.17-3 all
+  module to test that files do not contain soft breakpoints
+
+libtest-valgrind-perl/stable 1.19-6 all
+  module to test Perl code through valgrind
+
+libtnt-dev/stable 1.2.6-1.1 all
+  interface for scientific computing in C++
+
+libtypec-dev/stable 0.6.0-4 arm64
+  generic USB-C port management library (development files)
+
+libtypec-utils/stable 0.6.0-4 arm64
+  generic USB-C port management library (tools)
+
+libtypec0/stable 0.6.0-4 arm64
+  generic USB-C port management library
+
+libuemf-dev/stable 0.2.8+ds-3+b2 arm64
+  Read/write EMF, EMF+, WMF files (development files)
+
+libuemf0/stable 0.2.8+ds-3+b2 arm64
+  Read/write EMF, EMF+, WMF files (shared library)
+
+libunity-tools/stable 7.1.4+19.04.20190319-6.1+b1 arm64
+  binding to get places into the launcher - debugging tools
+
+libupnp-dev/stable 1:1.14.20-1+deb13u1 arm64
+  Portable SDK for UPnP Devices, version 1.14 (development files)
+
+liburfkill-glib0-dbg/stable 0.5.0-7.3 arm64
+  wireless killswitch management library (debug symbols)
+
+libvart-dev/stable 2.5-5 arm64
+  Vitis AI RuntTime library (development)
+
+libvart2/stable 2.5-5 arm64
+  Vitis AI RuntTime library
+
+libvi-quickfix-perl/stable 1.135-3 all
+  Perl support for vim's QuickFix mode
+
+libvtkgdcm-tools/stable 3.0.24-5+b3 arm64
+  Grassroots DICOM VTK tools and utilities
+
+libwxsmithlib-dev/stable 25.03+dfsg-2 arm64
+  wxSmith development files (Code::Blocks plugin for RAD GUI editing)
+
+libwxsmithlib0t64/stable 25.03+dfsg-2 arm64
+  wxSmith shared library (Code::Blocks plugin for RAD GUI editing)
+
+libxcb-errors-dev/stable 1.0.1-4 arm64
+  Helper library for printing information about X11 errors (dev)
+
+libxcb-errors0/stable 1.0.1-4 arm64
+  Helper library for printing information about X11 errors (shared library)
+
+libxdg-basedir1-dbg/stable 1.2.0-2.1 arm64
+  Implementation of the XDG Base Directory Specifications (debugging symbols)
+
+libxml-handler-printevents-perl/stable 0.01-8.1 all
+  Perl module for printing PerlSAX events (for debugging)
+
+libxml-libxml-debugging-perl/stable 0.103-5 all
+  get debugging information from XML::LibXML
+
+libxml-writer-perl/stable 0.900-2 all
+  Perl module for writing XML documents
+
+libxxf86vm1-dbg/stable 1:1.1.4-1+b4 arm64
+  X11 XFree86 video mode extension library (debug package)
+
+libxxx-perl/stable 0.38-1 all
+  debug viewer for Perl data structure
+
+libyade/stable 2025.2.0-1+b1 arm64
+  Platform for discrete element modeling. Libraries
+
+linux-image-6.12.86+deb13-arm64-16k-dbg/stable 6.12.86-1 arm64
+  Debug symbols for linux-image-6.12.86+deb13-arm64-16k
+
+linux-image-6.12.86+deb13-arm64-dbg/stable 6.12.86-1 arm64
+  Debug symbols for linux-image-6.12.86+deb13-arm64
+
+linux-image-6.12.86+deb13-cloud-arm64-dbg/stable 6.12.86-1 arm64
+  Debug symbols for linux-image-6.12.86+deb13-cloud-arm64
+
+linux-image-6.12.86+deb13-rt-arm64-dbg/stable 6.12.86-1 arm64
+  Debug symbols for linux-image-6.12.86+deb13-rt-arm64
+
+linux-image-6.12.94+deb13-arm64-16k-dbg/stable 6.12.94-1 arm64
+  Debug symbols for linux-image-6.12.94+deb13-arm64-16k
+
+linux-image-6.12.94+deb13-arm64-dbg/stable 6.12.94-1 arm64
+  Debug symbols for linux-image-6.12.94+deb13-arm64
+
+linux-image-6.12.94+deb13-cloud-arm64-dbg/stable 6.12.94-1 arm64
+  Debug symbols for linux-image-6.12.94+deb13-cloud-arm64
+
+linux-image-6.12.94+deb13-rt-arm64-dbg/stable 6.12.94-1 arm64
+  Debug symbols for linux-image-6.12.94+deb13-rt-arm64
+
+linux-image-arm64-16k-dbg/stable 6.12.94-1 arm64
+  Debugging symbols for Linux arm64-16k configuration (meta-package)
+
+linux-image-arm64-dbg/stable 6.12.94-1 arm64
+  Debugging symbols for Linux arm64 configuration (meta-package)
+
+linux-image-cloud-arm64-dbg/stable 6.12.94-1 arm64
+  Debugging symbols for Linux cloud-arm64 configuration (meta-package)
+
+linux-image-rt-arm64-dbg/stable 6.12.94-1 arm64
+  Debugging symbols for Linux rt-arm64 configuration (meta-package)
+
+lldb/stable 1:19.0-63 arm64
+  Next generation, high-performance debugger
+
+lldb-17/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger
+
+lldb-18/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger
+
+lldb-19/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger
+
+llvm-17/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies
+
+llvm-18/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies
+
+llvm-19/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies
+
+ltrace/stable 0.7.91~git20230705.8eabf68-4 arm64
+  Tracks runtime library calls in dynamically linked programs
+
+lttng-modules-dkms/stable 2.13.18-1+deb13u1 all
+  Linux Trace Toolkit (LTTng) kernel modules (DKMS)
+
+lttng-tools/stable 2.13.15-2 arm64
+  LTTng control and utility programs
+
+lua-inspect/stable 3.1.1-2 all
+  Lua table visualizer, ideal for debugging
+
+lv2file/stable 0.95-2+b1 arm64
+  Command-line program to apply LV2 effects to audio files
+
+lxc/stable 1:6.0.4-4+deb13u3+b1 arm64
+  Linux Containers userspace tools
+
+maxima/stable 5.47.0-7 arm64
+  Computer algebra system -- base system
+
+maxima-doc/stable 5.47.0-7 all
+  Computer algebra system -- documentation
+
+maxima-emacs/stable 5.47.0-7 all
+  Computer algebra system -- emacs interface
+
+maxima-sage/stable 5.45.1-2+b3 arm64
+  Computer algebra system -- base system
+
+maxima-sage-doc/stable 5.45.1-2 all
+  Computer algebra system -- documentation
+
+maxima-sage-share/stable 5.45.1-2 all
+  Computer algebra system -- extra code
+
+maxima-share/stable 5.47.0-7 all
+  Computer algebra system -- extra code
+
+maxima-src/stable 5.47.0-7 all
+  Computer algebra system -- source code
+
+maxima-test/stable 5.47.0-7 all
+  Computer algebra system -- test suite
+
+mcpp/stable 2.7.2-5.2 arm64
+  Alternative C/C++ preprocessor
+
+mdk/stable 1.3.0+dfsg-4 arm64
+  MIX Development Kit
+
+mediascanner2.0-utils/stable 0.118-1 arm64
+  Media scanner utilities
+
+mescc-tools/stable 1.5.2-1+b1 arm64
+  tools for binary bootstrapping
+
+mit-scheme-doc/stable 12.1-4 all
+  MIT/GNU Scheme documentation
+
+mold/stable 2.37.1+dfsg-1 arm64
+  Drop-in linker
+
+monado-gui/stable 25.0.0+dfsg-2 arm64
+  Monado GUI config and debug utility
+
+mono-dbg/stable 6.12.0.199+dfsg-6 all
+  Mono debugging symbols
+
+mono-runtime-dbg/stable 6.12.0.199+dfsg-6 arm64
+  Mono runtime, debugging symbols
+
+mp3splt-dbg/stable 2.6.2+20170630-3.3+b1 arm64
+  debugging symbols for mp3splt, mp3splt-gtk and libmp3splt
+
+mruby/stable 3.3.0-1+b1 arm64
+  lightweight implementation of the Ruby language
+
+mspdebug/stable 0.25-1 arm64
+  debugging tool for MSP430 microcontrollers
+
+mtd-utils/stable 1:2.3.0-1 arm64
+  Memory Technology Device Utilities
+
+muon-meson/stable 0.4.0-1 arm64
+  Meson implementation in C
+
+mutter/stable 48.7-0+deb13u1 arm64
+  Example window manager using GNOME's window manager library
+
+netcat-openbsd/stable 1.229-1 arm64
+  TCP/IP swiss army knife
+
+netcat-traditional/stable 1.10-50 arm64
+  TCP/IP swiss army knife
+
+netsniff-ng/stable 0.6.9-1 arm64
+  Linux network packet sniffer toolkit
+
+neutron-taas-openvswitch-agent/stable 15.0.0-1 all
+  OpenStack virtual network service - Tap-as-a-Service agent
+
+nfs-kernel-server/stable 1:2.8.3-1 arm64
+  support for NFS kernel server
+
+nghttp2-client/stable 1.64.0-1.1+deb13u1 arm64
+  client implementing HTTP/2 protocol
+
+njs/stable 0.8.9-1 arm64
+  JavaScript for Nginx command-line utility
+
+node-assert-plus/stable 1.0.0-4 all
+  small wrapper over nodejs' assert module with two extra features
+
+node-async-stacktrace/stable 0.0.2-6 all
+  Improve Node.js stacktraces and make it easier to handle errors
+
+node-babel7-debug/stable 7.20.15+ds1+~cs214.269.168-8 all
+  Source-map files for node-babel7 packages
+
+node-bindings/stable 1.5.0-2 all
+  resolve path to c++ addons built by node-gyp - Node.js module
+
+node-combine-source-map/stable 0.8.0+ds-8 all
+  Add source maps of multiple files and combine
+
+node-console-group/stable 0.3.3-5 all
+  basic console.group implementation for node
+
+node-convert-source-map/stable 1.9.0+~1.5.2-1 all
+  Converts a source-map from/to between formats
+
+node-dabh-diagnostics/stable 2.0.2-5 all
+  Tools for debugging your node.js modules and event loop
+
+node-debug/stable 4.3.4+~cs4.1.7-1 all
+  small debugging utility for Node.js
+
+node-debug-fabulous/stable 1.1.0-4 all
+  visionmedia debug extensions rolled into one
+
+node-devtools-protocol/stable 0.0.801017-1.1 all
+  Chrome DevTools Protocol
+
+node-enabled/stable 2.0.0-6 all
+  Check if a certain debug flag is enabled in Node.js
+
+node-errorhandler/stable 1.5.1-3 all
+  error handler middleware - Node.js
+
+node-hooker/stable 0.2.3+~0.2.31-2 all
+  Useful debugging library for Node.js
+
+node-lazy-debug-legacy/stable 0.0.1-3 all
+  Generates module names for vision media's debug
+
+node-log4js/stable 6.9.1+~cs8.4.19-1 all
+  Conversion of the log4js framework to work with Node.js
+
+node-nomnom/stable 1.8.1-2 all
+  Option parser with generated usage and commands for Node.js
+
+node-parse-base64vlq-mappings/stable 0.1.4-7 all
+  Parses out base64 VLQ encoded source map
+
+node-pruddy-error/stable 2.0.2-4 all
+  Prettify given error object
+
+node-react/stable 18.2.0+dfsg+~cs88.72.123-1 all
+  Node.js library for building user interfaces
+
+node-redux/stable 4.2.1-1 all
+  predictable state container for JavaScript apps
+
+node-redux-devtools-core/stable 3.13.1~git20230831-2 all
+  Live-editing time travel environment for node-redux
+
+node-requirejs/stable 2.3.7+ds+~2.1.37-1 all
+  JavaScript file and module loader - NodeJS
+
+node-rollup-plugin-strip/stable 3.0.1+ds-1 all
+  Rollup plugin to remove debugger statements and functions
+
+node-sqlite3/stable 5.1.5+ds1-1+b5 arm64
+  asynchronous, non-blocking SQLite3 bindings for Node.js
+
+node-stack-utils/stable 2.0.6+~2.0.1-1 all
+  Captures and cleans stack traces
+
+node-vasync/stable 2.2.1-2 all
+  Utilities for observable asynchronous control flow
+
+node-vscode-debugprotocol/stable 1.57.0-2 all
+  VS Code Debug Protocol
+
+node-ws/stable 8.18.1+~cs14.18.2-1 all
+  RFC-6455 WebSocket implementation module for Node.js
+
+ocamlviz/stable 1.01-8+b4 arm64
+  real-time profiling tools for Objective Caml (clients)
+
+ocfs2-tools/stable 1.8.8-3 arm64
+  tools for managing OCFS2 cluster filesystems
+
+ocrmypdf/stable 16.7.0+dfsg1-3 all
+  add an OCR text layer to PDF files
+
+oggz-tools/stable 1.1.3-1 arm64
+  utilities for mangling Ogg streams
+
+omake/stable 0.10.7-1 arm64
+  build system with automated dependency analysis
+
+opalmod/stable 0.2.2.1 all
+  A set of Perl modules for various tasks
+
+opencu/stable 3-3+b2 arm64
+  Serial terminal emulator
+
+openjdk-21-dbg/stable 21.0.11+10-1~deb13u2 arm64
+  Java runtime based on OpenJDK (debugging symbols)
+
+openjdk-21-jre-zero/stable 21.0.11+10-1~deb13u2 arm64
+  Alternative JVM for OpenJDK, using Zero
+
+openjdk-25-dbg/stable 25.0.3+9-2~deb13u1 arm64
+  Java runtime based on OpenJDK (debugging symbols)
+
+openjdk-25-jre-zero/stable 25.0.3+9-2~deb13u1 arm64
+  Alternative JVM for OpenJDK, using Zero
+
+openjfx/stable 11.0.11+1-7 arm64
+  JavaFX/OpenJFX - Rich client application platform for Java
+
+openjfx-source/stable 11.0.11+1-7 all
+  JavaFX/OpenJFX - Rich client application platform for Java (sources)
+
+openmsx-debugger/stable 0.1~git20230804-1.1 arm64
+  Graphical debugger for openMSX
+
+openni-utils/stable 1.5.4.0+dfsg-8 arm64
+  debug and test utilities OpenNI framework
+
+openni2-utils/stable 2.2.0.33+dfsg-18+b2 arm64
+  debug and test utilities OpenNI2 framework
+
+openocd/stable 0.12.0-3+b2 arm64
+  Open on-chip JTAG/SWD debug solution for embedded target devices
+
+openstack-cluster-installer-poc/stable 43.0.10 all
+  automatic PXE and puppet-master installer for OpenStack - PoC
+
+pahole/stable 1.30-1 arm64
+  set of advanced DWARF utilities
+
+panicparse/stable 2.3.1-3 arm64
+  Crash your app in style (compiled Go binaries)
+
+pcb-rnd-debug/stable 3.1.6-1 arm64
+  Debug and diagnostics.
+
+pccts/stable 1.33MR33-6.5 arm64
+  Purdue Compiler Construction Tool Set (PCCTS)
+
+pd-jmmmp/stable 0.61-2 all
+  collection of Pd GUI objects for musical performance
+
+pdns-tools/stable 4.9.16-0+deb13u1 arm64
+  Tools for DNS debugging by PowerDNS
+
+perl-debug/stable 5.40.1-6 arm64
+  debug-enabled Perl interpreter
+
+phosh-osk-stub-doc/stable 0.46.0-1 all
+  API documentation for Phosh's OSK stub
+
+php-composer-xdebug-handler/stable 3.0.5-4 all
+  Restarts a process without Xdebug
+
+php-phpdbg/stable 2:8.4+96 all
+  server-side, HTML-embedded scripting language (PHPDBG binary) (default)
+
+php-psr-log/stable 3.0.2-2 all
+  common interface for logging libraries
+
+php-symfony-debug-bundle/stable 6.4.41+dfsg-0+deb13u1 all
+  debugging tools for the Symfony framework
+
+php-symfony-error-handler/stable 6.4.41+dfsg-0+deb13u1 all
+  manage errors and ease debugging
+
+php-symfony-web-profiler-bundle/stable 6.4.41+dfsg-0+deb13u1 all
+  collect requests information for analysis and debugging
+
+php-xdebug/stable 3.4.5-3 all
+  Xdebug Module for PHP
+
+php-xdebug-all-dev/stable 3.4.5-3 all
+  Xdebug Module for PHP
+
+php8.4-phpdbg/stable 8.4.23-1~deb13u1 arm64
+  server-side, HTML-embedded scripting language (PHPDBG binary)
+
+php8.4-xdebug/stable 3.4.5-3 arm64
+  Xdebug Module for PHP
+
+phpqrcode/stable 1.1.4-3.1 all
+  PHP library for generating two-dimensional barcodes
+
+picocom/stable 3.1-4+b1 arm64
+  minimal dumb-terminal emulation program
+
+plasma-kdevelop/stable 4:24.12.3-1 arm64
+  KDevelop plugins for Plasma
+
+pmdk-tools/stable 1.13.1-1.1+b1 arm64
+  Persistent Memory management tools
+
+podman-toolbox/stable 0.0.99.4-2 arm64
+  unprivileged development environment using containers
+
+postgresql-17-omnidb/stable 3.0.0.20201026-6 arm64
+  PostgreSQL PL/pgSQL debugger extension for OmniDB
+
+postgresql-17-pldebugger/stable 1:1.8-2 arm64
+  PostgreSQL pl/pgsql Debugger API
+
+postgresql-all/stable 278 all
+  metapackage depending on all PostgreSQL server packages
+
+powerdebug/stable 0.7.0-2013.08-4+b1 arm64
+  tool to display regulator, sensor and clock information
+
+pry/stable 0.15.2-1 all
+  powerful irb alternative and runtime developer console
+
+psychtoolbox-3-dbg/stable 3.0.19.14.dfsg1-1 arm64
+  toolbox for vision research -- debug symbols for binaries
+
+pwru/stable 1.0.5+ds1-1+b5 arm64
+  eBPF-based Linux kernel networking debugger (program)
+
+python-django-assets-doc/stable 2.0-6 all
+  integrate webassets into Django applications (Documentation)
+
+python-django-debug-toolbar-doc/stable 1:5.2.0-1 all
+  Embedded debugging toolbar for Django projects (documentation)
+
+python-django-dynamic-fixture-doc/stable 4.0.1-1 all
+  create dynamic model instances for testing purposes (Documentation)
+
+python-django-extensions-doc/stable 4.1-1 all
+  Useful extensions for Django projects (Documentation)
+
+python-django-uwsgi-doc/stable 1.1.2-3 all
+  uWSGI related tools for Django (Documentation, transitional dummy package)
+
+python-django-uwsgi-ng-doc/stable 1.1.2-3 all
+  uWSGI related tools for Django (Documentation)
+
+python-dmidecode-data/stable 3.12.3-4 all
+  Python extension module for dmidecode (debug) - Data
+
+python-drgn-doc/stable 0.0.31-1 all
+  Programmable debugger - documentation
+
+python-flask-debugtoolbar-doc/stable 0.16.0+dfsg-1 all
+  Debugging toolbar overlay information for Flask applications (Documentation)
+
+python-funcy-doc/stable 2.0-2 all
+  Collection of fancy functional tools focused on practicality (Documentation)
+
+python-pbcore-doc/stable 2.1.2+dfsg-11 all
+  Python library for processing PacBio data files (documentation)
+
+python-typer-doc/stable 0.15.2-1 all
+  Python library for building CLI applications (common documentation)
+
+python-werkzeug-doc/stable 3.1.3-2 all
+  Documentation for the werkzeug Python library (docs)
+
+python3-aioasuswrt/stable 1.4.0-2 all
+  API wrapper for Asuswrt
+
+python3-aiobafi6/stable 0.9.0-2 all
+  Asynchronous Python library for controlling Big Ass Fans via the i6 protocol
+
+python3-all-dbg/stable 3.13.5-1 arm64
+  package depending on all supported Python 3 debugging packages
+
+python3-borgstore/stable 0.3.0-2 all
+  Simple key/value store implementation in Python
+
+python3-buienradar/stable 1.0.6-1.1 all
+  Library and CLI tools for interacting with buienradar.
+
+python3-codegen/stable 1.0-5 all
+  extension to ast that allows AST -> Python code generation
+
+python3-dbg/stable 3.13.5-1 arm64
+  debug build of the Python 3 Interpreter (version 3.13)
+
+python3-debugpy/stable 1.8.12+ds-1 arm64
+  Implementation of the Debug Adapter Protocol for Python 3
+
+python3-django-assets/stable 2.0-6 all
+  integrate webassets into Django applications (Python3 version)
+
+python3-django-debug-toolbar/stable 1:5.2.0-1 all
+  Embedded debugging toolbar for Django projects (Python 3 version)
+
+python3-django-dynamic-fixture/stable 4.0.1-1 all
+  create dynamic model instances for testing purposes (Python3 version)
+
+python3-django-extensions/stable 4.1-1 all
+  Useful extensions for Django projects (Python 3 version)
+
+python3-django-graphiql-debug-toolbar/stable 0.2.0-7 all
+  Django Debug Toolbar for GraphiQL IDE (Python3 version)
+
+python3-django-guid/stable 3.5.1-1 all
+  Identify Django request logs
+
+python3-django-guid-doc/stable 3.5.1-1 all
+  Identify Django request logs (doc)
+
+python3-django-sass-processor/stable 1.4.1-1 all
+  compile files from markup languages such as SASS/SCSS
+
+python3-django-uwsgi/stable 1.1.2-3 all
+  uWSGI related tools for Django (Python3 version, transitional dummy package)
+
+python3-django-uwsgi-ng/stable 1.1.2-3 all
+  uWSGI related tools for Django (Python3 version)
+
+python3-djvu/stable 0.9.1-2 arm64
+  Python3 support for the DjVu image format
+
+python3-drgn/stable 0.0.31-1 arm64
+  Programmable debugger
+
+python3-fastapi/stable 0.115.11-4 all
+  modern, fast, web framework for building APIs, based on type hints
+
+python3-fire/stable 0.7.0-1 all
+  automatically generate CLIs from absolutely any Python object
+
+python3-flask-debugtoolbar/stable 0.16.0+dfsg-1 all
+  Debugging toolbar overlay information for Flask applications (Python3)
+
+python3-flask-talisman/stable 1.1.0-2 all
+  HTTP security headers for Flask
+
+python3-friendly-traceback/stable 0.7.62+git20240811.d7dbff6-1.1 all
+  Friendlier tracebacks in any language
+
+python3-funcy/stable 2.0-2 all
+  Collection of fancy functional tools focused on practicality (Python3 version)
+
+python3-gdbm-dbg/stable 3.13.5-1 arm64
+  GNU dbm database support for Python 3.x (debug extension)
+
+python3-icecream/stable 2.1.3-1.1 all
+  Debugging tool for Python scripts
+
+python3-ipdb/stable 0.13.13-3 all
+  IPython-based pdb replacement (Python 3 version)
+
+python3-jinja2/stable 3.1.6-1 all
+  small but fast and easy to use stand-alone template engine
+
+python3-kazoo/stable 2.9.0-2 all
+  higher level API to Apache Zookeeper (Python 3)
+
+python3-knitpy/stable 0.1.1~git20180430-4.2 all
+  report generation tool with Python
+
+python3-lldb/stable 1:19.0-63 arm64
+  Next generation, high-performance debugger, python lib
+
+python3-lldb-17/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger, python3 lib
+
+python3-lldb-18/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger, python3 lib
+
+python3-lldb-19/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger, python3 lib
+
+python3-logging-tree/stable 1.9-1.2 all
+  introspect and display the logging tree in Python3
+
+python3-loguru/stable 0.7.3-1 all
+  enjoyable loggin' for Python
+
+python3-lttng/stable 2.13.15-2 arm64
+  LTTng control and utility Python bindings
+
+python3-neutron-taas/stable 15.0.0-1 all
+  OpenStack virtual network service - Tap-as-a-Service extension
+
+python3-pako/stable 0.3.1-2.1 all
+  Universal package manager library (Python 3)
+
+python3-pbcore/stable 2.1.2+dfsg-11 all
+  Python 3 library for processing PacBio data files
+
+python3-ptrace/stable 0.9.9-0.2 arm64
+  Python 3 bindings for ptrace
+
+python3-pubsub/stable 4.0.3-7 all
+  Python 3 publish-subcribe library
+
+python3-pudb/stable 2024.1.3-1 all
+  full-screen, console-based Python3 debugger
+
+python3-pycriu/stable 4.1.1-1 all
+  checkpoint and restore in userspace (Python bindings)
+
+python3-pydevd/stable 3.3.0+ds-4 arm64
+  Debugger used by debugpy
+
+python3-pyelftools/stable 0.32-1 all
+  pure-python3 library for parsing ELF and DWARF
+
+python3-pyocd/stable 0.36.0-2.1 all
+  ARM Cortex-M programming tools (Python3)
+
+python3-pyqt5.qsci/stable 2.14.1+dfsg-1+b4 arm64
+  Python 3 bindings for QScintilla 2 with Qt 5
+
+python3-pyqt6.qsci/stable 2.14.1+dfsg-1+b4 arm64
+  Python 3 bindings for QScintilla 2 with Qt 6
+
+python3-pytest-timeout/stable 2.3.1-1 all
+  Pytest plugin to abort hanging tests - Python 3.X
+
+python3-q/stable 2.6-1.2 all
+  Quick-and-dirty Python 3 debugging output for tired programmers
+
+python3-retry/stable 0.9.2-3 all
+  easy to use retry decorator
+
+python3-rosnode/stable 1.17.0+ds-2 all
+  Tool for displaying debug information about Robot OS - Python 3
+
+python3-rostopic/stable 1.17.0+ds-2 all
+  Tool for displaying debug information about Robot OS Topics - Python 3
+
+python3-scooby/stable 0.10.0-1 all
+  Great Dane turned Python environment detective (Python 3)
+
+python3-shelxfile/stable 21-1 all
+  read and write SHELXL syntax files (Python 3)
+
+python3-spyder/stable 6.0.5+ds-6 all
+  Richly-featured Python IDE - Python modules
+
+python3-sqlmodel/stable 0.0.24-1 all
+  SQL databases in Python, designed for simplicity, compatibility, and robustness
+
+python3-starlette/stable 0.46.1-3+deb13u2 all
+  ASGI library ideal for building high performance asyncio services
+
+python3-storm/stable 1.0-2 arm64
+  object-relational mapper (ORM) for Python 3
+
+python3-tk-dbg/stable 3.13.5-1 arm64
+  Tkinter - Writing Tk applications with Python 3.x (debug extension)
+
+python3-trololio/stable 1.0-4 all
+  Trollius and asyncio compatibility library (Python 3)
+
+python3-typer/stable 0.15.2-1 all
+  Python library for building CLI applications (Python 3)
+
+python3-uart-devices/stable 0.1.1-1 all
+  Python library for managing UART devices on Linux
+
+python3-werkzeug/stable 3.1.3-2 all
+  Collection of utilities for WSGI applications (Python 3.x)
+
+python3-wurlitzer/stable 3.1.1-1 all
+  Capture C-level output in context managers
+
+python3-yade/stable 2025.2.0-1+b1 arm64
+  Platform for discrete element modeling. Python bindings
+
+python3.13-dbg/stable 3.13.5-2+deb13u3 arm64
+  Debug Build of the Python Interpreter (version 3.13)
+
+qasconfig/stable 1.4.0-1+b3 arm64
+  ALSA configuration browser
+
+qemu-system-arm/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (arm)
+
+qemu-system-mips/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (mips)
+
+qemu-system-misc/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (miscellaneous)
+
+qemu-system-ppc/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (ppc)
+
+qemu-system-s390x/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (s390x)
+
+qemu-system-sparc/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (sparc)
+
+qemu-system-x86/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (x86)
+
+qmk/stable 1.1.6-1 all
+  program to help users work with QMK Firmware
+
+qtcreator/stable 16.0.1-2 arm64
+  integrated development environment (IDE) for Qt
+
+r-base/stable 4.5.0-3 all
+  GNU R statistical computation and graphics system
+
+r-base-core/stable 4.5.0-3 arm64
+  GNU R core of statistical computation and graphics system
+
+r-base-dev/stable 4.5.0-3 all
+  GNU R installation of auxiliary GNU R packages
+
+r-base-html/stable 4.5.0-3 all
+  GNU R html docs for statistical computing system functions
+
+r-cran-spdl/stable 0.0.5-1 all
+  GNU R package to Wrap RcppSpdlog Functions
+
+r-cran-uroot/stable 2.1-3-1 all
+  GNU R unit root tests for seasonal time series
+
+r-doc-html/stable 4.5.0-3 all
+  GNU R html manuals for statistical computing system
+
+r-doc-info/stable 4.5.0-3 all
+  GNU R info manuals statistical computing system
+
+r-doc-pdf/stable 4.5.0-3 all
+  GNU R pdf manuals for statistical computing system
+
+r-mathlib/stable 4.5.0-3 arm64
+  GNU R standalone mathematics library
+
+r-recommended/stable 4.5.0-3 all
+  GNU R collection of recommended packages [metapackage]
+
+radeontool/stable 1.6.3-3 arm64
+  utility to control ATI Radeon backlight functions on laptops
+
+radosgw-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for radosgw
+
+rakudo/stable 2024.09-4 arm64
+  Raku implementation on top of MoarVM
+
+rbd-fuse-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for rbd-fuse
+
+rbd-mirror-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for rbd-mirror
+
+rbd-nbd-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for rbd-nbd
+
+re2c/stable 4.1-1 arm64
+  lexer generator for C, C++, Go, Java, Python, Rust, and others
+
+redfishtool/stable 1.1.5-3 all
+  redfish command-line client
+
+regalloc2-tool/stable 0.10.2-4+b1 arm64
+  backtracking register allocator
+
+reiserfsprogs/stable 1:3.6.27-9 arm64
+  User-level tools for ReiserFS filesystems
+
+remake/stable 4.3+dbg-1.6+dfsg-2 arm64
+  GNU make fork with improved error reporting and debugging
+
+riscemu/stable 2.2.7-1 all
+  RISC-V emulator in Python
+
+riscemu-doc/stable 2.2.7-1 all
+  RISC-V emulator in Python
+
+rocksdb-tools/stable 9.10.0-1 arm64
+  persistent Key-Value Store for Flash and RAM Storage (tools)
+
+roslisp/stable 1.9.25-2 all
+  Lisp client library for Robot OS
+
+rr/stable 5.9.0-3 arm64
+  application execution recorder, player and debugger
+
+rshim/stable 2.2.2+debian-1+b1 arm64
+  Userspace (fuse) host driver for Mellanox BlueField devices
+
+ruby-binding-of-caller/stable 1.0.0-1 all
+  retrieve the binding of a method's caller
+
+ruby-byebug/stable 11.1.3-5+b2 arm64
+  Ruby fast debugger - base + CLI
+
+ruby-columnize/stable 0.9.0-1.1 all
+  Ruby library to format arrays as column-aligned strings
+
+ruby-debug-inspector/stable 1.1.0+gh-2+b2 arm64
+  Ruby wrapper for the MRI 2.0 debug_inspector API
+
+ruby-parslet/stable 2.0.0-1 all
+  Parser construction library with great error reporting in Ruby
+
+ruby-pcaprub/stable 0.13.3-1+b2 arm64
+  Ruby bindings for LBL Packet Capture library (libpcap)
+
+ruby-rack-timeout/stable 0.7.0-2 all
+  abort requests that are taking too long
+
+ruby-source-map/stable 3.0.1+git.20120229.bda06a3f-2 all
+  ruby support for source maps in javascripts
+
+ruby-web-console/stable 4.2.1-1 all
+  Ruby on Rails debugger
+
+rust-gdb/stable 1.85.0+dfsg3-1 all
+  Rust debugger (gdb)
+
+rust-lldb/stable 1.85.0+dfsg3-1 all
+  Rust debugger (lldb)
+
+s3ql-dbg/stable 5.2.3+dfsg-2 arm64
+  Full-featured file system for online data storage (debugging symbols)
+
+sasm/stable 3.15.0+ds-1 arm64
+  simple IDE for NASM, GAS and FASM assembly languages
+
+sawfish-lisp-source/stable 1:1.11.90-1.2 all
+  sawfish lisp files
+
+sbcl/stable 2:2.5.2-1 arm64
+  Common Lisp compiler and development system
+
+sbcl-source/stable 2:2.5.2-1 all
+  Source code files for SBCL
+
+scanmem/stable 0.17-5+b2 arm64
+  locate and modify a variable in a running process
+
+sch-rnd-debug/stable 1.0.8-3 arm64
+  Debug and diagnostics.
+
+sedsed/stable 2.0.0-3 all
+  debugger and code formatter for sed scripts
+
+simavr/stable 1.6+dfsg-3+b3 arm64
+  lean and mean AVR simulator
+
+slime/stable 2:2.30+dfsg-4 all
+  Superior Lisp Interaction Mode for Emacs (client)
+
+sos/stable 4.9.1-1 all
+  Set of tools to gather troubleshooting data from a system
+
+spew/stable 1.0.8-1.2 arm64
+  I/O performance measurement and load generation tool
+
+spim/stable 8.0+dfsg-7+b1 arm64
+  MIPS R2000/R3000 emulator
+
+spyder/stable 6.0.5+ds-6 all
+  Richly-featured Python IDE
+
+spytrap-adb/stable 0.3.5-1 arm64
+  Test a phone for stalkerware using adb and usb debugging
+
+statserial/stable 1.1-25+b1 arm64
+  Displays serial port modem status lines
+
+stella/stable 7.0+dfsg-2 arm64
+  Atari 2600 Emulator for SDL & the X Window System
+
+stimfit-dbg/stable 0.16.7-1 arm64
+  Debug symbols for stimfit
+
+strace/stable 6.13+ds-1 arm64
+  System call tracer
+
+stressapptest/stable 1.0.11-2+b2 arm64
+  stress test application for simulating high load situations
+
+stretchplayer-dbg/stable 0.503-4+b3 arm64
+  Debugging symbols for StretchPlayer
+
+swh-lv2/stable 1.0.16+git20160519~repack0-4+b1 arm64
+  Steve Harris's SWH plugins ported to LV2
+
+syslog-ng-dbg/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (debug symbols)
+
+systemtap-client/stable 5.1-5 arm64
+  instrumentation system for Linux (client for compile server)
+
+tcllib/stable 2.0+dfsg-4 all
+  Standard Tcl Library
+
+tclx8.4/stable 8.4.1-5 arm64
+  Extended Tcl (TclX) - shared library
+
+tclx8.4-dev/stable 8.4.1-5 arm64
+  Extended Tcl (TclX) - development package
+
+tclx8.4-doc/stable 8.4.1-5 all
+  Extended Tcl (TclX) - manpages
+
+tcpflow/stable 1.6.1-3+b2 arm64
+  TCP flow recorder
+
+tcpflow-nox/stable 1.6.1-3+b2 arm64
+  TCP flow recorder - version without X11 dependencies
+
+termdebug/stable 2.2+dfsg-2 arm64
+  Tools for recording and replaying terminal I/O
+
+termshark/stable 2.4.0-2+b8 arm64
+  Terminal UI for tshark, inspired by Wireshark
+
+teseq/stable 1.1.1-5+b1 arm64
+  utility for rendering terminal typescripts human-readable
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+texlive-luatex/stable 2024.20250309-1 all
+  TeX Live: LuaTeX packages
+
+tf-tools/stable 1.13.2-11 arm64
+  Set of utilities to operate with the Robot OS tf lib
+
+thonny/stable 4.1.7-1 all
+  Python IDE for beginners
+
+tilem/stable 2.0-5.1 arm64
+  GTK+ TI Z80 calculator emulator
+
+tilem-data/stable 2.0-5.1 all
+  GTK+ TI Z80 calculator emulator (data files)
+
+tk8.6-blt2.5/stable 2.5.3+dfsg-8 arm64
+  graphics extension library for Tcl/Tk - library
+
+traceroute/stable 1:2.1.6-1 arm64
+  Traces the route taken by packets over an IPv4/IPv6 network
+
+trousers-dbg/stable 0.3.15-0.4+b2 arm64
+  open-source TCG Software Stack (debug)
+
+tuned-utils/stable 2.25.1-1 all
+  various tuned utilities
+
+turing/stable 0.11-2 all
+  assistant to learn algorithms and programming languages
+
+tweak/stable 3.02-6+b1 arm64
+  Efficient text-mode hex editor
+
+typer/stable 0.15.2-1 all
+  CLI to run Python scripts and create CLI applications
+
+u-boot-asahi/stable 2025.01-3 arm64
+  A boot loader for Apple Silicon systems
+
+u-boot-mvebu/stable 2025.01-3 arm64
+  A boot loader for marvell systems
+
+u-boot-qcom/stable 2025.01-3 arm64
+  A boot loader for qcom systems
+
+u-boot-qemu/stable 2025.01-3 all
+  A boot loader for qemu
+
+u-boot-rockchip/stable 2025.01-3 arm64
+  A boot loader for rockchip systems
+
+u-boot-rpi/stable 2025.01-3 arm64
+  A boot loader for Raspberry PI systems
+
+u-boot-sunxi/stable 2025.01-3 arm64
+  A boot loader for sunxi systems
+
+u-boot-tegra/stable 2025.01-3 arm64
+  A boot loader for NVIDIA Tegra systems
+
+u-config/stable 0.33.3-1 arm64
+  smaller, simpler, portable pkg-config clone
+
+ubuntu-keyring/stable 2023.11.28.1-0.2 all
+  all GnuPG keys used by Ubuntu Project
+
+umps3/stable 3.0.5-1+b3 arm64
+  Virtual machine simulator based around the MIPS R2/3000 microprocessor
+
+unagi-dbg/stable 0.3.4-1+b5 arm64
+  Modular X compositing manager - debugging symbols
+
+uni2ascii/stable 4.20-1 arm64
+  UTF-8 to 7-bit ASCII and vice versa converter
+
+uniutils/stable 2.28-2 arm64
+  Tools for finding out what is in a Unicode file
+
+ussp-push-dbg/stable 0.11-4+b3 arm64
+  Client for OBEX PUSH (debugging information)
+
+valgrind/stable 1:3.24.0-3 arm64
+  instrumentation framework for building dynamic analysis tools
+
+valgrind-mpi/stable 1:3.24.0-3 arm64
+  instrumentation framework for building dynamic analysis tools (MPI module)
+
+valinor/stable 1.1.4+ds-10 all
+  generate IDE project files to debug ELF files
+
+vart-bin/stable 2.5-5 arm64
+  Vitis AI RuntTime library (utilities)
+
+vboot-utils/stable 0~R106-15054.B+dfsg-0.1 arm64
+  Chrome OS verified u-boot utilities
+
+vcdimager/stable 2.0.1+dfsg-6+b5 arm64
+  VideoCD (VCD) image mastering and ripping tool
+
+veristat/stable 0.4-1 arm64
+  Tool to load, verify and debug BPF object files
+
+visual-regexp/stable 3.1-7 all
+  graphical front-end to write/debug regular expressions in Perl
+
+voltron/stable 0.1.7+git20200109-4 all
+  Hacky debugger UI for hackers
+
+vsftpd-dbg/stable 3.0.5-0.2 arm64
+  lightweight, efficient FTP server written for security (debug)
+
+wadc/stable 3.1-1 all
+  programming environment for creating Doom maps
+
+wev/stable 1.0.0-3+b1 arm64
+  tool for debugging events on a Wayland window
+
+x42-plugins/stable 20240611+ds-1+b1 arm64
+  Collection of LV2 plugins
+
+xen-hypervisor-4.20-arm64-dbg/stable 4.20.2+37-g61ff35323e-0+deb13u1 arm64
+  debug symbols for Xen Hypervisor on ARM64
+
+xen-utils-4.20-dbg/stable 4.20.2+37-g61ff35323e-0+deb13u1 arm64
+  debug symbols for xen-utils-4.20
+
+xmaxima/stable 5.47.0-7 arm64
+  Computer algebra system -- x interface
+
+xmpi/stable 2.2.3b8-14+b2 arm64
+  Graphical user interface for MPI program development
+
+xrestop/stable 0.6-1 arm64
+  X11 server resource usage monitor
+
+xutils-dev/stable 1:7.7+7 arm64
+  X Window System utility programs for development
+
+xwpe/stable 1.5.30a-4+b1 arm64
+  Programming environment and editor for console and X11
+
+yabause/stable 0.9.15-3 all
+  beautiful and under-rated Saturn emulator
+
+yabause-common/stable 0.9.15-3 all
+  beautiful and under-rated Saturn emulator - common files
+
+yabause-qt/stable 0.9.15-3+b2 arm64
+  beautiful and under-rated Saturn emulator - Qt port
+
+yade/stable 2025.2.0-1+b1 arm64
+  Platform for discrete element modeling
+
+yade-doc/stable 2025.2.0-1 all
+  Platform for discrete element modeling. Documentation
+
+yydebug/stable 1.1.0-14 all
+  support library for the Java-based parser generator jay
+

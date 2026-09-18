@@ -1,0 +1,164 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+azure-cli/stable 2.74.0-1 all
+  Azure Command-Line Interface (CLI)
+
+azure-vm-utils/stable 0.6.0-2 arm64
+  Core utilities and configuration for Linux VMs on Azure
+
+biglybt/stable 3.8.0.2-1 all
+  BitTorrent client
+
+biglybtd/stable 3.8.0.2-1 all
+  BiglyBT system service
+
+centreon-plugins/stable 0.0~20250303+dfsg-1 all
+  Collection of Nagios plugins to monitor OS, services and network devices
+
+cloud-enum/stable 0.7-3 all
+  Multi-cloud open source intelligence tool
+
+distribution-gpg-keys/stable 1.119+ds-1~deb13u1 all
+  Archive keyrings for RPM-based Linux distributions
+
+fence-agents-azure-arm/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Azure ARM agent
+
+git-credential-azure/stable 0.3.0-1+b8 arm64
+  Git credential helper for Azure Repos
+
+golang-github-azure-azure-pipeline-go-dev/stable 0.2.3-1 all
+  HTTP request/response middleware pipeline
+
+golang-github-azure-azure-sdk-for-go-dev/stable 68.0.0-2 all
+  Microsoft Azure SDK for Go
+
+golang-github-azure-azure-storage-blob-go-dev/stable 0.15.0-1 all
+  Microsoft Azure Blob Storage Library for Go
+
+golang-github-azure-go-amqp-dev/stable 1.0.2-2 all
+  aMQP 1.0 client library for Go (library)
+
+golang-github-azure-go-ansiterm-dev/stable 0.0~git20210617.d185dfc-2 all
+  Go package for ANSI terminal emulation in Windows
+
+golang-github-azure-go-autorest-dev/stable 14.2.0+git20220726.711dde1-1 all
+  HTTP request pipeline suitable for use across multiple go-routines
+
+golang-github-azure-go-ntlmssp-dev/stable 0.0~git20220621.cb9428e-1 all
+  NTLM/Negotiate authentication over HTTP (Go library)
+
+golang-github-azuread-microsoft-authentication-extensions-for-go-dev/stable 0.0~git20231002.7e3b8e2-2 all
+  Microsoft Authentication Library (MSAL) Extensions for Go (library)
+
+golang-github-azuread-microsoft-authentication-library-for-go-dev/stable 1.0.0-2 all
+  Sign in users or apps with Microsoft Accounts or Azure AD identities
+
+golang-github-denisenkom-go-mssqldb-dev/stable 0.0~git20170717.0.8fccfc8-7 all
+  Microsoft SQL server driver written in go language
+
+golang-github-hashicorp-go-azure-helpers-dev/stable 0.13.1-3 all
+  various helpers and wrappers for working with Azure
+
+golang-github-tombuildsstuff-giovanni-dev/stable 0.20.0-1 all
+  alternative Azure Storage SDK for Go
+
+ibverbs-providers/stable 56.1-1 arm64
+  User space provider drivers for libibverbs
+
+libqpid-proton-j-extensions-java/stable 1.2.5-1 all
+  Websocket extension of Qpid Proton-J
+
+python-azure-doc/stable 20250603+git-1 all
+  Microsoft Azure SDK for Python - Documentation
+
+python3-adal/stable 1.2.7-5 all
+  Azure Active Directory Authentication Library for Python 3.x
+
+python3-aioazuredevops/stable 2.2.0-2 all
+  get data from the Azure DevOps API
+
+python3-applicationinsights/stable 0.11.10-2 all
+  Azure Application Insights API for Python 3.x
+
+python3-azext-devops/stable 1.0.1-1 all
+  Azure DevOps Extension for Azure CLI
+
+python3-azure/stable 20250603+git-1 all
+  Microsoft Azure SDK for Python 3.x
+
+python3-azure-cli/stable 2.74.0-1 all
+  Azure Command-Line Interface (CLI) - commands modules
+
+python3-azure-cli-core/stable 2.74.0-1 all
+  Azure Command-Line Interface (CLI) - core modules
+
+python3-azure-cli-telemetry/stable 2.74.0-1 all
+  Azure Command-Line Interface (CLI) - telemetry modules
+
+python3-azure-cli-testsdk/stable 2.74.0-1 all
+  Azure Command-Line Interface (CLI) - testsdk modules
+
+python3-azure-datalake-store/stable 0.0.53-1 all
+  Azure Data Lake Store Filesystem Library for Python
+
+python3-azure-devtools/stable 1.2.0-6 all
+  Microsoft Azure Development Tools for Python 3.x
+
+python3-azure-functions-devops-build/stable 0.0.22-6 all
+  Azure Devops Build Manager For Azure Functions
+
+python3-azure-kusto-data/stable 5.0.3-1 all
+  Microsoft Azure Kusto (Azure Data Explorer) SDK for Python
+
+python3-azure-multiapi-storage/stable 1.4.0-1 all
+  Azure Storage Data Plane SDK supporting multiple API versions
+
+python3-azure-storage/stable 20250603+git-1 all
+  Microsoft Azure Storage Library for Python 3.x
+
+python3-maggma/stable 0.70.0-4 all
+  build scientific data processing pipelines in Python
+
+python3-msal/stable 1.32.3-1 all
+  Microsoft Authentication Library (MSAL) for Python
+
+python3-msrestazure/stable 0.6.4-4 all
+  Runtime library for AutoRest generated Python 3.x clients
+
+python3-mssql-django/stable 1.5-1 all
+  Django backend for Microsoft SQL Server (Python3 version)
+
+python3-uamqp/stable 1.6.11-1+b2 arm64
+  AMQP 1.0 client library for Python
+
+python3-vsts-cd-manager/stable 1.0.2-6 all
+  Visual Studio Team Services Continuous Delivery Manager
+
+resource-agents/stable 1:4.16.0-3+deb13u2 arm64
+  Cluster Resource Agents
+
+ruby-activestorage/stable 2:7.2.2.2+dfsg-2~deb13u1 all
+  local and cloud file storage framework (part of Rails)
+
+ruby-azure-storage-blob/stable 2.0.0-3 all
+  access and manage Microsoft Azure Storage Blob Services
+
+ruby-azure-storage-common/stable 2.0.1-8 all
+  ruby package that supports service client libraries for azure storage
+
+ruby-gitlab-fog-azure-rm/stable 1.9.1-1 all
+  Azure Blob Storage with CarrierWave and Fog
+
+ruby-omniauth-azure-activedirectory-v2/stable 2.0.0-1 all
+  OAuth 2 authentication with the Azure ActiveDirectory V2 API
+
+victoria-metrics/stable 1.112.0+ds1-2 arm64
+  fast, cost-effective and scalable time series database
+
+waagent/stable 2.12.0.2-3 all
+  Virtual machine interaction with the Microsoft Azure cloud service
+

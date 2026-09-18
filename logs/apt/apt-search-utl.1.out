@@ -1,0 +1,704 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+auctex/stable 13.2-1.1 all
+  integrated document editing environment for TeX etc.
+
+birdfont/stable 2.33.6-1 arm64
+  font editor that lets you create outline vector graphics and export fonts
+
+birdfont-common/stable 2.33.6-1 all
+  arch-independent data for birdfont package
+
+cadaver/stable 0.26+dfsg-2 arm64
+  command-line WebDAV client
+
+cl-zpb-ttf/stable 1.0.7-1 all
+  Access TrueType fonts with Common Lisp
+
+davmail/stable 6.3.0.3627-1 all
+  POP/IMAP/SMTP/CalDav/LDAP to Microsoft Exchange gateway - GUI
+
+davmail-server/stable 6.3.0.3627-1 all
+  POP/IMAP/SMTP/CalDav/LDAP to Microsoft Exchange gateway - headless
+
+elki/stable 0.7.1-10.1 all
+  Data mining algorithm development framework
+
+elki-dev/stable 0.7.1-10.1 all
+  Data mining algorithm development framework - development files
+
+elpa-counsel/stable 0.15.1-3 all
+  collection of Ivy-enhanced versions of common Emacs commands
+
+elpa-folding/stable 0.0~git20240308.b27c4a1-2 all
+  folding-editor minor mode for Emacs
+
+elpa-fountain-mode/stable 3.7.1-3 all
+  Emacs major mode for screenwriting in Fountain markup
+
+elpa-org/stable 9.7.29+dfsg-1 all
+  Keep notes, maintain ToDo lists, and do project planning in emacs
+
+elpa-treemacs/stable 3.2-1 all
+  tree layout file explorer for Emacs
+
+elpa-treemacs-evil/stable 3.2-1 all
+  tree layout file explorer for Emacs - evil support
+
+elpa-treemacs-magit/stable 3.2-1 all
+  tree layout file explorer for Emacs - magit support
+
+elpa-treemacs-projectile/stable 3.2-1 all
+  tree layout file explorer for Emacs - projectile support
+
+elpa-ws-butler/stable 1.3-1 all
+  unobtrusively remove trailing whitespace in Emacs
+
+evolution-plugin-pstimport/stable 3.56.2-0+deb13u1 arm64
+  standard plugins for Evolution (pstimport)
+
+fence-agents-apc/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - APC over telnet/ssh agent
+
+fence-agents-apc-snmp/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - APC over SNMP agent
+
+fence-agents-cdu/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Sentry Switch CDU agent
+
+fence-agents-cyberpower-ssh/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - CyberPower agent
+
+fence-agents-eaton-snmp/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Eaton SNMP agent
+
+fence-agents-eaton-ssh/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Eaton SSH agent
+
+fence-agents-ilo-ssh/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - HP iLO over SSH agent
+
+fence-agents-ipdu/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - IBM iPDU agent
+
+fence-agents-lindy-pdu/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Lindy PDU agent
+
+fence-agents-netio/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Koukaam NETIO-230B agent
+
+fence-agents-raritan/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Raritan Dominion PX agent
+
+fence-agents-raritan-px3/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Raritan Dominion PX2/PX3 agent
+
+fence-agents-rsb/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Fujitsu-Siemens RSB agent
+
+fntsample/stable 5.4-3+b4 arm64
+  program for making font samples
+
+fonts-aenigma/stable 0.0.20080511+dfsg-5 all
+  465 free TrueType fonts by Brian Kent
+
+fonts-agave/stable 37-4 all
+  monospaces programming font
+
+fonts-femkeklaver/stable 1.0-4 all
+  simple handwriting font
+
+fonts-ipaexfont/stable 00401-5 all
+  Japanese OpenType font, all IPAex Fonts
+
+fonts-ipafont/stable 00303-23 all
+  Japanese OpenType font set (Mincho and Gothic)
+
+fonts-ipafont-gothic/stable 00303-23 all
+  Japanese OpenType font set, IPA Gothic and IPA P Gothic Fonts
+
+fonts-ipafont-mincho/stable 00303-23 all
+  Japanese OpenType font set, IPA Mincho and IPA P Mincho Fonts
+
+fonts-ipamj-mincho/stable 005.01-2.1 all
+  Japanese OpenType font, IPAmj Mincho Font
+
+fonts-rampart/stable 1.000-20210120-3 all
+  unique outline shadow font made in the image of 3-D blocks
+
+fonts-tuffy/stable 20120614-3 all
+  Tuffy Truetype Font Family
+
+fonts-unifont/stable 1:15.1.01-1 all
+  OpenType version of GNU Unifont
+
+fonts-urw-base35/stable,now 20200910-8 all [installed,automatic]
+  font set metric-compatible with the 35 PostScript Level 2 Base Fonts
+
+fonts-wqy-microhei/stable 0.2.0-beta-4 all
+  Sans-serif style CJK font derived from Droid
+
+gedit-latex-plugin/stable 46.2.2-1 all
+  gedit plugin for composing and compiling LaTeX documents
+
+ghostwriter/stable 25.04.0+ds-1 arm64
+  Distraction-free, themeable Markdown editor
+
+gir-rust-code-generator/stable 0.20.5-3 arm64
+  Generate rust source code from gir files
+
+gmt-gshhg/stable 2.3.7-7 all
+  Global Self-consistent Hierarchical High-resolution Geography (GSHHG)
+
+gmt-gshhg-full/stable 2.3.7-7 all
+  Full resolution coastlines for the Generic Mapping Tools
+
+gmt-gshhg-high/stable 2.3.7-7 all
+  High resolution coastlines for the Generic Mapping Tools
+
+gmt-gshhg-low/stable 2.3.7-7 all
+  Low resolution coastlines for the Generic Mapping Tools
+
+gnutls-bin/stable 3.8.9-3+deb13u4 arm64
+  GNU TLS library - commandline utilities
+
+gnutls-doc/stable 3.8.9-3+deb13u4 all
+  GNU TLS library - documentation and examples
+
+golang-github-go-webauthn-webauthn-dev/stable 0.10.2-1 all
+  webauthn/FIDO2 library in golang (library)
+
+golang-github-jung-kurt-gofpdf-dev/stable 2.17.2+ds-3 all
+  PDF document generator with high level support for text, drawing and images
+
+golang-refraction-networking-utls-dev/stable 1.2.1-3.1 all
+  TLS golang library with low-level access
+
+guile-gnutls/stable 4.0.1-2 arm64
+  GNU TLS library - GNU Guile bindings
+
+hamradio-maintguide/stable 0.7 all
+  Debian Hamradio Maintainers Guide
+
+hyperfine/stable 1.19.0-1+b3 arm64
+  Command-line benchmarking tool
+
+inputlirc/stable 34-1+b1 arm64
+  Zeroconf LIRC daemon using input event devices
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+karbon/stable 1:25.04.2+dfsg-1 arm64
+  vector graphics application for the Calligra Suite
+
+libandroid-layoutlib-api-java/stable 2.2.2-6 all
+  Library to use the rendering library for Android layouts - API
+
+libapache-poi-java/stable 4.0.1-6 all
+  Apache POI - Java API for Microsoft Documents
+
+libapache-poi-java-doc/stable 4.0.1-6 all
+  Apache POI - Java API for Microsoft Documents (Documentation)
+
+libcoap3-bin/stable 4.3.4-1.1+deb13u3 arm64
+  C-Implementation of CoAP - example binaries API version 3
+
+libcoap3t64/stable 4.3.4-1.1+deb13u3 arm64
+  C-Implementation of CoAP - libraries API version 3
+
+libcommons-exec-java/stable 1.3-3 all
+  Java library to reliably execute external processes from within the JVM
+
+libcurl3t64-gnutls/stable 8.14.1-2+deb13u4 arm64 [upgradable from: 8.14.1-2+deb13u3]
+  easy-to-use client-side URL transfer library (GnuTLS flavour)
+
+libcurl4-gnutls-dev/stable 8.14.1-2+deb13u4 arm64
+  development files and documentation for libcurl (GnuTLS flavour)
+
+libcutl-1.10/stable 1.10.0+ds1-5+b5 arm64
+  C++ utility library
+
+libcutl-dev/stable 1.10.0+ds1-5+b5 arm64
+  C++ utility library, development files
+
+libeclipse-jdt-astview-java/stable 1.6.0+eclipse4.29-1 all
+  Eclipse AST View Plug-in
+
+libeclipse-jdt-core-manipulation-java/stable 1.19.100+eclipse4.29-1 all
+  Eclipse Java Code Manipulation Functionality
+
+libeclipse-jdt-junit-core-java/stable 3.12.100+eclipse4.29-1 all
+  Eclipse Java Development Tools JUnit core support
+
+libeclipse-jdt-junit-runtime-java/stable 3.7.200+eclipse4.29-1 all
+  Eclipse Java Development Tools JUnit Runtime Support
+
+libeclipse-jdt-junit4-runtime-java/stable 1.3.0+eclipse4.29-1 all
+  Eclipse Java Development Tools JUnit4 Runtime Support
+
+libeclipse-jdt-ui-java/stable 3.30.0+eclipse4.29-1 all
+  Eclipse Java Development Tools UI
+
+libeclipse-ltk-core-refactoring-java/stable 3.14.100+eclipse4.29-1 all
+  Eclipse Refactoring Core
+
+libeclipse-ltk-ui-refactoring-java/stable 3.13.100+eclipse4.29-1 all
+  Eclipse Refactoring UI
+
+libemail-outlook-message-perl/stable 0.921-1 all
+  module for reading Outlook .msg files
+
+libfont-freetype-perl/stable 0.16-3+b3 arm64
+  module to read font files and render glyphs from Perl using FreeType2
+
+libftgl-dev/stable 2.4.0-5 arm64
+  development files for libftgl
+
+libftgl2/stable 2.4.0-5 arm64
+  library to render text in OpenGL using FreeType
+
+libghc-pandoc-dev/stable 3.1.11.1-3 arm64
+  Conversion between markup formats
+
+libghc-pandoc-doc/stable 3.1.11.1-3 all
+  Conversion between markup formats; documentation
+
+libghc-pandoc-prof/stable 3.1.11.1-3 arm64
+  Conversion between markup formats; profiling libraries
+
+libgnutls-dane0t64/stable 3.8.9-3+deb13u4 arm64
+  GNU TLS library - DANE security support
+
+libgnutls-openssl27t64/stable 3.8.9-3+deb13u4 arm64
+  GNU TLS library - OpenSSL wrapper
+
+libgnutls28-dev/stable 3.8.9-3+deb13u4 arm64
+  GNU TLS library - development files
+
+libgnutls30t64/stable 3.8.9-3+deb13u4 arm64 [upgradable from: 3.8.9-3+deb13u3]
+  GNU TLS library - main runtime library
+
+libhash-merge-perl/stable 0.302-1 all
+  Perl module for merging arbitrarily deep hashes into a single hash
+
+libhpdf-2.3.0/stable 2.3.0+dfsg-1+b3 arm64
+  C library for generating pdf files
+
+libhpdf-dev/stable 2.3.0+dfsg-1+b3 arm64
+  C library for generating pdf files (development files)
+
+libhtml-html5-outline-perl/stable 0.006-4 all
+  implementation of the HTML5 Outline algorithm
+
+libjs-strophe/stable 3.1.0-2 all
+  Library for writing XMPP clients
+
+libjwt-gnutls-dev/stable 1.17.2-1 arm64
+  Development files for libjwt - GnuTLS flavour
+
+libjwt-gnutls2/stable 1.17.2-1 arm64
+  C library to handle JWT (JSON Web Token) - GnuTLS flavour
+
+libkpim6tnef6/stable 4:24.12.3-1 arm64
+  library for handling TNEF data
+
+libktnef-data/stable 4:24.12.3-1 all
+  library for handling TNEF data - data files
+
+libktnef-dev/stable 4:24.12.3-1 arm64
+  library for handling TNEF data - development files
+
+libmapbox-polylabel-dev/stable 2.0.1-1 all
+  Fast algorithm for finding polygon pole of inaccessibility
+
+libneon27-gnutls-dev/stable 0.34.2-1 arm64
+  Header and static library files for libneon27t64 (GnuTLS enabled)
+
+libneon27t64-gnutls/stable 0.34.2-1 arm64
+  HTTP and WebDAV client library (GnuTLS enabled)
+
+libngtcp2-crypto-gnutls-dev/stable 1.11.0-1+deb13u1 arm64
+  implementation of QUIC protocol (development)
+
+libngtcp2-crypto-gnutls8/stable,now 1.11.0-1+deb13u1 arm64 [installed,automatic]
+  implementation of QUIC protocol (library)
+
+libpaps-dev/stable 0.6.8-7.2 arm64
+  Development files for libpaps
+
+libpaps0t64/stable 0.6.8-7.2 arm64
+  UTF-8 to PostScript converter library using Pango
+
+libpdf-api2-perl/stable 2.047-1 all
+  module for creating, modifying, and examining PDF files
+
+libpdf-builder-perl/stable 3.026-1 all
+  Facilitates the creation and modification of PDF files
+
+libpff-dev/stable 20180714-3.1+b3 arm64
+  library to access various ms outlook files formats (development)
+
+libpff1t64/stable 20180714-3.1+b3 arm64
+  library to access various ms outlook files formats
+
+libpod-weaver-perl/stable 4.020-1 all
+  Perl module to weave together a Pod document from an outline
+
+libpopplerkit-dev/stable 0.0.20051227svn-16 arm64
+  GNUstep framework for rendering PDF content (development files)
+
+libpopplerkit0/stable 0.0.20051227svn-16 arm64
+  GNUstep framework for rendering PDF content (library files)
+
+libpostscript-file-perl/stable 2.23+dfsg-3 all
+  module for creating Adobe PostScript files
+
+libpst-dev/stable 0.6.76-1.2 arm64
+  library for reading Microsoft Outlook PST files (development files)
+
+libpst4t64/stable 0.6.76-1.2 arm64
+  library for reading Microsoft Outlook PST files
+
+librenaissance-dev/stable 0.9.0-6 arm64
+  GNUstep GUI Framework - development files
+
+librust-elsa-dev/stable 1.10.0-1 arm64
+  Append-only collections for Rust where borrows to entries can outlive insertions - Rust source code
+
+libsoup-2.4-1/stable 2.74.3-10.1 arm64
+  HTTP library implementation in C -- Shared library
+
+libsoup-3.0-0/stable,now 3.6.5-3 arm64 [installed,automatic]
+  HTTP library implementation in C -- Shared library
+
+libsoup-3.0-dev/stable 3.6.5-3 arm64
+  HTTP library implementation in C -- Development files
+
+libsoup-3.0-doc/stable 3.6.5-3 all
+  HTTP library implementation in C -- API Reference
+
+libsoup-gnome-2.4-1/stable 2.74.3-10.1 arm64
+  HTTP library implementation in C -- GNOME support library
+
+libsoup-gnome2.4-dev/stable 2.74.3-10.1 arm64
+  HTTP library implementation in C -- GNOME support development files
+
+libsoup2.4-dev/stable 2.74.3-10.1 arm64
+  HTTP library implementation in C -- Development files
+
+libsoup2.4-doc/stable 2.74.3-10.1 all
+  HTTP library implementation in C -- API Reference
+
+libsrt-gnutls-dev/stable 1.5.4-1 arm64
+  Secure Reliable Transport UDP streaming library (GnuTLS flavour development)
+
+libsrt1.5-gnutls/stable 1.5.4-1 arm64
+  Secure Reliable Transport UDP streaming library (GnuTLS flavour)
+
+libstatistics-test-randomwalk-perl/stable 0.02-3 all
+  module to perform a Random Walk statistical test
+
+libtext-vcard-perl/stable 3.09-2 all
+  module to parse, edit and create multiple vCards
+
+libxml-opml-perl/stable 0.26-4 all
+  Perl module to create and update OPML files
+
+libxmlsec1t64-gnutls/stable 1.2.41-1+b1 arm64
+  Gnutls engine for the XML security library
+
+libytnef0/stable 2.1.2-1+b2 arm64
+  improved decoder for application/ms-tnef attachments
+
+libytnef0-dev/stable 2.1.2-1+b2 arm64
+  headers for application/ms-tnef attachments decoder
+
+libzlog-dev/stable 1.2.18-1+b1 arm64
+  mutli features pure C logging library -- development files
+
+libzlog1/stable 1.2.18-1+b1 arm64
+  mutli features pure C logging library -- runtime library
+
+lighttpd-mod-gnutls/stable 1.4.79-2 arm64
+  TLS support using GnuTLS module for lighttpd
+
+mailutils-imap4d/stable 1:3.19-1 arm64
+  GNU mailutils-based IMAP4 Daemon
+
+mailutils-pop3d/stable 1:3.19-1 arm64
+  GNU mailutils-based POP3 Daemon
+
+manuskript/stable 0.16.1-2 all
+  open-source tool for writers
+
+mcrypt/stable 2.6.8-8 arm64
+  Replacement for old unix crypt(1)
+
+metacity-themes/stable 1.0.13 all
+  Themes for the Gtk2 metacity window manager
+
+mp3cd/stable 1.27.0-5 all
+  Burns normalized audio CDs from lists of MP3s/WAVs/Oggs/FLACs
+
+node-addon-api/stable 8.3.1-1 all
+  Node.js header-only C++ wrapper classes
+
+obs-draw-dock/stable 0.2.1-1 arm64
+  plugin for OBS Studio to draw on stream output
+
+obs-time-source/stable 0.2-5+b1 arm64
+  plugin for OBS Studio that displays current date and time
+
+otf2bdf/stable 3.1-4.1+b1 arm64
+  generate BDF bitmap fonts from OpenType outline fonts
+
+pandoc/stable 3.1.11.1+ds-2 arm64
+  general markup converter
+
+pandoc-data/stable 3.1.11.1-3 all
+  Conversion between markup formats
+
+paps/stable 0.6.8-7.2 arm64
+  UTF-8 to PostScript converter using Pango
+
+pd-ableton-link/stable 0.6~ds0-7+b1 arm64
+  integration of Ableton Link into Pure Data
+
+pd-chaos/stable 0.2-9+b1 arm64
+  Pd library for calculating various chaotic attractors
+
+pd-jmmmp/stable 0.61-2 all
+  collection of Pd GUI objects for musical performance
+
+pd-mjlib/stable 0.2.0-2+b1 arm64
+  library of Pd objects for composing music
+
+pdf2djvu/stable 0.9.18.2-2.1+b4 arm64
+  PDF to DjVu converter
+
+pdfproctools/stable 1.9.6-1 all
+  PDF Processing Tools
+
+perltidier/stable 1.20-1 all
+  tweaks to Perl::Tidy to support some syntactic sugar
+
+pex/stable 1.5.3-1 all
+  library for generating Python executable zip files
+
+pff-tools/stable 20180714-3.1+b3 arm64
+  utilities for MS Outlook PAB, PST and OST files
+
+pipenightdreams/stable 0.10.0-15+b1 arm64
+  connect pipes to get the water flowing from inlet to outlet
+
+pipenightdreams-data/stable 0.10.0-15 all
+  connect pipes to get the water flowing from inlet to outlet (data files)
+
+pst-utils/stable 0.6.76-1.2 arm64
+  tools for reading Microsoft Outlook PST files
+
+python-listparser-doc/stable 0.20-2 all
+  Parse OPML, RDF+FOAF, and iGoogle subscription lists (documentation)
+
+python-pex-doc/stable 1.5.3-1 all
+  library for generating Python executable zip files
+
+python-pycurl-doc/stable 7.45.6-1 all
+  Python bindings to libcurl (documentation)
+
+python3-aioimaplib/stable 2.0.1-1 all
+  Asynchronous IMAP4rev1 client library using Python asyncio
+
+python3-broadlink/stable 0.19.0-1 all
+  Python API for controlling Broadlink devices
+
+python3-freetype/stable 2.5.1-1 all
+  Freetype Python bindings for Python 3
+
+python3-homewizard-energy/stable 9.2.0-1 all
+  Library to communicate with HomeWizard Energy devices
+
+python3-listparser/stable 0.20-2 all
+  Parse OPML, RDF+FOAF, and iGoogle subscription lists
+
+python3-nanomath/stable 1.2.1+ds-1 all
+  simple math function for other Oxford Nanopore processing scripts
+
+python3-odf/stable 1.4.2-4 all
+  Python3 API to manipulate OpenDocument files
+
+python3-olefile/stable,now 0.47-1 all [installed,automatic]
+  Python module to read/write MS OLE2 files
+
+python3-pex/stable 1.5.3-1 all
+  library for generating Python executable zip files
+
+python3-pyactiveresource/stable 2.2.2-3 all
+  ActiveResource for Python
+
+python3-pycurl/stable 7.45.6-1 arm64
+  Python bindings to libcurl (Python 3)
+
+python3-pypff/stable 20180714-3.1+b3 arm64
+  Python 3 bindings for libpff
+
+python3-python-mystrom/stable 2.2.0-3 all
+  Asynchronous Python client for myStrom devices
+
+python3-pyvesync/stable 2.1.18-1 all
+  Library to manage VeSync compatible smart home devices
+
+python3-raritan-json-rpc/stable 4.3.0+ds-1 all
+  Python 3 library for the Raritan Xerus™ JSON-RPC interface
+
+python3-svg.path/stable 6.3-3 all
+  SVG path objects and parser for Python3
+
+python3-umodbus/stable 1.0.4-2 all
+  Implementation of the Modbus protocol in pure Python
+
+python3-vedo/stable 2025.5.3-1 all
+  Python module for 3D scientific visualization with VTK
+
+qpdfview/stable 0.5.0+ds-5+b2 arm64
+  tabbed document viewer
+
+r-cran-dbscan/stable 1.2.2+ds-2 arm64
+  Density Based Clustering of Applications with Noise (DBSCAN)
+
+r-cran-dendsort/stable 0.3.4+dfsg-2 all
+  GNU R Modular Leaf Ordering Methods for Dendrogram Nodes
+
+r-cran-genie/stable 1.0.5-2+b1 arm64
+  GNU R fast, robust, and outlier resistant hierarchical clustering
+
+r-cran-prophet/stable 1.0+dfsg-5+b1 arm64
+  GNU R automatic forecasting procedure
+
+r-cran-randomforest/stable 4.7-1.2-1 arm64
+  GNU R package implementing the random forest classificator
+
+r-cran-rstatix/stable 0.7.2-1 all
+  Pipe-Friendly Framework for Basic Statistical Tests
+
+r-cran-seurat/stable 5.2.1-5 arm64
+  Tools for Single Cell Genomics
+
+r-cran-seuratobject/stable 5.0.2-1 arm64
+  GNU R data structures for single cell data
+
+r-other-chbutils/stable 0.1+git20171026.a226cee-2 arm64
+  GNU R utilities from Harvard School of Public Health Bioinformatics
+
+renaissance-dev-tools/stable 0.9.0-6 arm64
+  GNUstep GUI Framework - development tools (applications)
+
+rsyslog-gnutls/stable 8.2504.0-1 arm64
+  TLS protocol support for rsyslog (GnuTLS)
+
+rubocop/stable 1.39.0+dfsg-1 all
+  Ruby static code analyzer
+
+ruby-certificate-authority/stable 1.1.0-1 all
+  tool to manage the core functions outlined in RFC-3280 for PKI
+
+sispmctl/stable 4.12-1+b1 arm64
+  Control Gembird SIS-PM programmable power outlet strips
+
+sisu/stable 7.3.0-1 all
+  documents - structuring, publishing in multiple formats and search
+
+squid/stable 6.13-2+deb13u2 arm64
+  Full featured Web Proxy cache (HTTP proxy GnuTLS flavour)
+
+suitename/stable 0.4.130509+git20210223.ebb1325-1+b1 arm64
+  categorize each suite in an RNA backbone
+
+sylpheed/stable 3.8.0~beta1-2+deb13u1 arm64
+  Light weight e-mail client with GTK+
+
+tclcurl/stable 7.22.1-1 arm64
+  Tcl bindings to libcurl
+
+texlive-fonts-extra/stable 2024.20250309-2 all
+  TeX Live: Additional fonts
+
+texlive-fonts-recommended/stable 2024.20250309-1 all
+  TeX Live: Recommended fonts
+
+texlive-lang-english/stable 2024.20250309-1 all
+  TeX Live: US and UK English
+
+texlive-latex-base/stable 2024.20250309-1 all
+  TeX Live: LaTeX fundamental packages
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+tnef/stable 1.4.18-4+b1 arm64
+  Tool to unpack MIME application/ms-tnef attachments
+
+trac-wikiprint/stable 4.0.0+svn18614+really3.0.0+svn18295-1 all
+  Make Trac wiki pages printable, exporting to PDF or printable HTML
+
+treeline/stable 3.1.5-1.1 all
+  versatile tree-like structured custom data manager
+
+treesheets/stable 1:1.0.2-1.1+b4 arm64
+  Data organizer that covers spreadsheets, mind mappers, and small databases
+
+turbocase/stable 1.8.0-2 all
+  Generate OpenSCAD case template from a KiCad PCB
+
+uacme/stable 1.7.6-1 arm64
+  Lightweight client for the RFC8555 ACMEv2 protocol
+
+uaputl/stable 1.12-3 arm64
+  admin utility for Marvell uAP wireless driver
+
+ufo-filters/stable 0.17.0.76.g691aa0e+dfsg1-2 arm64
+  Set of plugins for ufo-core - runtime
+
+undbx/stable 0.21-4+b1 arm64
+  tool to extract, recover and undelete e-mail messages from .dbx files
+
+undertime/stable 4.3.0 all
+  pick a meeting time using a table of world clocks
+
+unifont/stable 1:15.1.01-1 all
+  font with a glyph for each visible Unicode Plane 0 character
+
+unifont-bin/stable 1:15.1.01-1+b1 arm64
+  utilities for manipulating GNU Unifont
+
+uthash-dev/stable 2.3.0-2 arm64
+  hash table and linked list for C structures
+
+vim-scripts/stable 20210124.4 all
+  plugins for vim, adding bells and whistles
+
+vim-voom/stable 5.3-8 all
+  Vim two-pane outliner
+
+viruskiller/stable 1.03-1+dfsg1-3+b1 arm64
+  Game about viruses invading your computer
+
+vym/stable 2.9.31-1 arm64
+  mindmapping tool
+
+webext-tbsync/stable 4.16-1~deb13u2 all
+  Thunderbird/Lightning Add-On to support MS Exchange Calendar etc.
+
+yt-dlp/stable 2025.04.30-1 all
+  downloader of videos from YouTube and other sites
+
+ytnef-tools/stable 2.1.2-1+b2 arm64
+  ytnef decoder commandline tools
+
+zim/stable 0.76.3-1 all
+  graphical text editor based on wiki technologies
+

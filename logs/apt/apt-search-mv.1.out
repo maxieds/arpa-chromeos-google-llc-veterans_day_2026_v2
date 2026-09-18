@@ -1,0 +1,1004 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+armv8crc-support/stable 27 arm64
+  CPU feature checking - require ARMv8CRC
+
+artemis/stable 18.2.0+dfsg-4 all
+  genome browser and annotation tool
+
+awffull/stable 3.10.2-10+deb13u1 arm64
+  web server log analysis program
+
+beneath-a-steel-sky/stable 0.0372-9 all
+  classic 2D point and click science fiction adventure game
+
+bluraybackup/stable 2.0-1 arm64
+  Backup BDMV from the command line
+
+box64-rpi4/stable 0.3.4+dfsg-1 arm64
+  run amd64 binaries on RPI4 without emulating library calls
+
+busybox/stable 1:1.37.0-6+b8 arm64
+  Tiny utilities for small and embedded systems
+
+busybox-static/stable 1:1.37.0-6+b8 arm64
+  Standalone rescue shell with tons of builtin utilities
+
+cambalache/stable 0.94.1-3 arm64
+  User Interface builder for Gtk4
+
+camv-rnd/stable 1.1.5-1 arm64
+  Standard installation of camv-rnd
+
+camv-rnd-core/stable 1.1.5-1 arm64
+  camv-rnd executable with the core functionality and boxsym-rnd
+
+camv-rnd-doc/stable 1.1.5-1 all
+  Documentation for camv-rnd
+
+camv-rnd-export-extra/stable 1.1.5-1 arm64
+  Export formats: special/extra
+
+camv-rnd-export-gd/stable 1.1.5-1 arm64
+  Export formats that require libgd.
+
+camv-rnd-export-vector/stable 1.1.5-1 arm64
+  Export formats: vector graphics
+
+camv-rnd-import/stable 1.1.5-1 arm64
+  Standard import file format support (PCB).
+
+camv-rnd-lib-gui/stable 1.1.5-1 arm64
+  Support library for building the GUI.
+
+cardpeek/stable 0.8.4-3 arm64
+  Tool to read the contents of ISO7816 smartcards
+
+cardpeek-data/stable 0.8.4-3 all
+  Tool to read the contents of ISO7816 smartcards - data files
+
+castle-model-viewer/stable 5.2.0-3 arm64
+  VRML / X3D browser, and a viewer for other 3D model formats
+
+cmdreader/stable 1.5-3 all
+  Library that parses command line arguments
+
+codonw/stable 1.4.4-8+b1 arm64
+  Correspondence Analysis of Codon Usage
+
+colmap/stable 3.10-2 arm64
+  Structure-from-Motion and Multi-View Stereo
+
+convmv/stable 2.06+repack-1 all
+  filename encoding conversion tool
+
+coreutils/stable,now 9.7-3 arm64 [installed]
+  GNU core utilities
+
+cpuinfo/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (binary utilities)
+
+dav1d/stable 1.5.1-1 arm64
+  fast and small AV1 video stream decoder
+
+dpf-plugins/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (metapackage)
+
+dpf-plugins-clap/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (CLAP plugins)
+
+dpf-plugins-common/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (common files)
+
+dpf-plugins-dssi/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (DSSI plugins)
+
+dpf-plugins-ladspa/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (LADSPA plugins)
+
+dpf-plugins-lv2/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (LV2 plugins)
+
+dpf-plugins-vst/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (VST2 plugins)
+
+dpf-plugins-vst3/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (VST3 plugins)
+
+drascula/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- English version
+
+drascula-french/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- French version
+
+drascula-german/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- German version
+
+drascula-italian/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- Italian version
+
+drascula-music/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- music files
+
+drascula-spanish/stable 1.0+ds4-2 all
+  classic 2D point and click adventure game -- Spanish version
+
+e2tools/stable 0.1.2-1 arm64
+  utilities for manipulating files in an ext2/ext3 filesystem
+
+elpa-color-theme-modern/stable 0.0.3-5 all
+  deftheme reimplementation of classic Emacs color-themes
+
+equivs/stable 2.3.2 all
+  Circumvent Debian package dependencies
+
+fcheck/stable 2.7.59-27 all
+  IDS filesystem baseline integrity checker
+
+festvox-suopuhe-common/stable 1.0g-20051204-5 all
+  Common files for Festival Finnish speakers
+
+festvox-suopuhe-mv/stable 20041119-3 all
+  Finnish male speaker for festival
+
+flashrom/stable 1.4.0-3 arm64
+  Identify, read, write, erase, and verify BIOS/ROM/flash chips
+
+flight-of-the-amazon-queen/stable 1.0.0-11 all
+  classic 2D point and click fantasy adventure game
+
+forensics-extra-gui/stable 2.58 all
+  Forensics Environment - extra GUI components (metapackage)
+
+fuse-convmvfs/stable 0.2.6-2.1+b1 arm64
+  mirrors a whole filesystem tree from one charset to another
+
+gemma/stable 0.98.5+dfsg-3 arm64
+  Genome-wide Efficient Mixed Model Association
+
+geomview/stable 1.9.5-5 arm64
+  interactive geometry viewing program
+
+go-internal/stable 1.12.0-3 arm64
+  Selected Go-internal packages factored out from the standard library (binaries)
+
+golang-github-apparentlymart-go-versions-dev/stable 1.0.1-1 all
+  version-wrangling library for Go
+
+golang-github-aquasecurity-go-version-dev/stable 0.0~git20210121.637058c-2 all
+  Go library for parsing and verifying versions and version constraints
+
+golang-github-azure-go-ntlmssp-dev/stable 0.0~git20220621.cb9428e-1 all
+  NTLM/Negotiate authentication over HTTP (Go library)
+
+golang-github-blang-semver-dev/stable 4.0.0-1 all
+  semantic versioning library
+
+golang-github-bmatsuo-lmdb-go-dev/stable 1.8.0+git20170215.a14b5a3-4 all
+  Bindings for the LMDB C library
+
+golang-github-coreos-go-semver-dev/stable 0.3.0-1 all
+  Go library for semantic versioning
+
+golang-github-creekorful-mvnparser-dev/stable 1.4.0-1 all
+  Go parser for maven (POM) file
+
+golang-github-hashicorp-go-version-dev/stable 1.6.0-1 all
+  library for parsing and verifying versions and version constraints
+
+golang-github-lestrrat-go-blackmagic-dev/stable 1.0.2-2 all
+  Reflect-based black magic (library)
+
+golang-github-masahiro331-go-mvn-version-dev/stable 0.0~git20210429.d3157d6-2 all
+  Go library for parsing maven(java) package versions
+
+golang-github-masterminds-semver-dev/stable 3.2.0-1 all
+  Semantic versions library in Go
+
+golang-github-mvdan-fdroidcl-dev/stable 0.7.0-1 all
+  fdroidcl develpoment files
+
+golang-github-mvo5-goconfigparser-dev/stable 0.2.2-1.1 all
+  Python compatible INI parser
+
+golang-github-mvo5-uboot-go-dev/stable 0.4+git256976a-3 all
+  Read/write uboot environment
+
+golang-github-rogpeppe-go-internal-dev/stable 1.12.0-3 all
+  Selected Go-internal packages factored out from the standard library
+
+golang-github-steveyen-gtreap-dev/stable 0.0~git20150807.0.0abe01e-7 all
+  gtreap is an immutable treap implementation in the Go Language
+
+golang-github-stvp-tempredis-dev/stable 0.0~git20231107.8a695b6-2 all
+  Go package to start and stop temporary redis-server processes
+
+golang-github-thomsonreuterseikon-go-ntlm-dev/stable 0.0~git20151030.0.b00ec39-1.1 all
+  NTLM Implementation for Go
+
+golang-go-semver-dev/stable 0.3.0-1 all
+  Transitional package for golang-github-coreos-go-semver-dev
+
+golang-mvdan-editorconfig-dev/stable 0.2.0+git20240816.eab549b-1 all
+  EditorConfig support in Go
+
+golang-mvdan-gofumpt-dev/stable 0.6.0-1 all
+  stricter gofmt (library)
+
+golang-mvdan-sh-dev/stable 3.8.0-1 all
+  shell parser, formatter, and interpreter (library)
+
+golang-mvdan-xurls-dev/stable 2.5.0-1 all
+  Extract urls from text (library)
+
+golang-snowflake-dev/stable 2.5.1-1 all
+  WebRTC pluggable transport for Tor (library)
+
+golang-uber-goleak-dev/stable 1.3.0-1 all
+  goroutine leak detector
+
+gridsite-clients/stable 3.0.0~20240125git1200598-1.1 arm64
+  Clients to gridsite: htcp, htrm, htmv
+
+gss-ntlmssp/stable 1.2.0-1+b3 arm64
+  GSSAPI NTLMSSP Mechanism -- MIT GSSAPI plugin
+
+gss-ntlmssp-dev/stable 1.2.0-1+b3 arm64
+  GSSAPI NTLMSSP Mechanism -- development headers
+
+guile-semver/stable 0.1.1-4 arm64
+  guile implementation of Semantic Versioning
+
+gxemul/stable 0.7.0+dfsg-2 arm64
+  machine emulator for multiple architectures
+
+hashcat/stable 6.2.6+ds2-1+b1 arm64
+  World's fastest and most advanced password recovery utility
+
+haskell-clash-ghc-utils/stable 1.8.1-4 arm64
+  Clash: functional hardware descr. language - GHC frontend
+
+haskell-clash-lib-utils/stable 1.8.1-2+b4 arm64
+  Functional hardware description language - library
+
+hdfs-cli/stable 2.3.0-2+b16 arm64
+  CLI client for HDFS, written in go
+
+imv/stable 4.5.0-1+b5 arm64
+  X11/Wayland image viewer intended for use with tiling window managers
+
+imview/stable 1.1.9h-4+b3 arm64
+  Image viewing and analysis application
+
+imvirt/stable 0.9.6-13 all
+  detects several virtualizations
+
+imvirt-helper/stable 0.9.6-13 arm64
+  helper programs to detect several virtualizations
+
+indi-ffmv/stable 0.3+20221223120905-2+b2 arm64
+  INDI driver for Point Grey Firefly MV cameras
+
+isa-support/stable 27 arm64
+  CPU feature checking - common back-end
+
+joystick/stable 1:1.8.1-2+b2 arm64
+  set of testing and calibration tools for joysticks
+
+kchmviewer/stable 8.0-2+b3 arm64
+  CHM viewer for KDE
+
+knot-resolver/stable 5.7.5-1 arm64
+  caching, DNSSEC-validating DNS resolver
+
+ktx/stable 1.45-1 arm64
+  QuakeWorld mod "Kombat Teams eXtreme"
+
+libafterburner.fx-java/stable 1.7.0-3 all
+  minimalistic JavaFX MVP framework
+
+libafterburner.fx-java-doc/stable 1.7.0-3 all
+  Documentation for afterburner.fx
+
+libcapstone5/stable 5.0.7-1~deb13u1 arm64
+  lightweight multi-architecture disassembly framework - library
+
+libcatalyst-authentication-store-htpasswd-perl/stable 1.006-3 all
+  Authen::Htpasswd based user storage/authentication
+
+libcatalyst-engine-apache-perl/stable 1.16-3 all
+  Catalyst engine for Apache 1.x and 2.x
+
+libcatalyst-manual-perl/stable 5.9013-1 all
+  developer's manual for Catalyst
+
+libcatalyst-perl/stable 5.90132-1 all
+  elegant Model-View-Controller Web Application Framework
+
+libcgi-application-plugin-validaterm-perl/stable 2.52-1 all
+  plugin for validating form data using Data::FormValidator
+
+libclass-dbi-fromform-perl/stable 0.04-3.1 all
+  Perl module to update Class::DBI data using Data::FormValidator
+
+libconfig-mvp-perl/stable 2.200013-1 all
+  multivalue-property package-oriented configuration module
+
+libconfig-mvp-reader-ini-perl/stable 2.101465-1 all
+  Perl module providing a MVP config reader for .ini files
+
+libconfig-mvp-slicer-perl/stable 0.303-2 all
+  module to extract embedded plugin config from parent config
+
+libcpuinfo-dev/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (header file)
+
+libcpuinfo0/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (shared object)
+
+libdata-formvalidator-constraints-datetime-perl/stable 1.11-4 all
+  date and time constraint plugin for Data::FormValidator
+
+libdata-formvalidator-perl/stable 4.88-2 all
+  module to validate user input, mainly for HTML forms
+
+libdatetime-timezone-systemv-perl/stable 0.010-2 all
+  System V and POSIX timezone strings
+
+libdav1d-dev/stable 1.5.1-1 arm64
+  fast and small AV1 video stream decoder (development files)
+
+libdav1d7/stable,now 1.5.1-1 arm64 [installed,automatic]
+  fast and small AV1 video stream decoder (shared library)
+
+libdist-zilla-config-slicer-perl/stable 0.202-1 all
+  Config::MVP::Slicer customized for Dist::Zilla
+
+libdist-zilla-plugin-minimumperlfast-perl/stable 0.005-1 all
+  Dist::Zilla plugin for detecting the required minimum Perl version
+
+libdynarmic-dev/stable 6.7.0+ds-4 arm64
+  ARM dynamic recompiler - development
+
+libdynarmic6.7/stable 6.7.0+ds-4 arm64
+  ARM dynamic recompiler
+
+libfileutils-ocaml-dev/stable 0.6.6-1+b2 arm64
+  File manipulation for OCaml
+
+libformvalidator-simple-perl/stable 0.29-3 all
+  module for validating forms with simple chains of constraints
+
+libfreemarker-java/stable 2.3.32-2.1 all
+  template engine written in Java
+
+libgeomview-1.9.5t64/stable 1.9.5-5 arm64
+  geomview library runtime
+
+libgeomview-dev/stable 1.9.5-5 arm64
+  geomview library development package
+
+libgfal-srm-ifce1t64/stable 1.24.7-1+b1 arm64
+  SRM client side library
+
+libghc-atomic-write-dev/stable 0.2.1.0-1+b1 arm64
+  Atomically write to a file
+
+libghc-atomic-write-doc/stable 0.2.1.0-1 all
+  Atomically write to a file; documentation
+
+libghc-atomic-write-prof/stable 0.2.1.0-1+b1 arm64
+  Atomically write to a file; profiling libraries
+
+libghc-base-prelude-dev/stable 1.6.1.1-2+b1 arm64
+  most complete prelude formed solely from the "base" package
+
+libghc-base-prelude-doc/stable 1.6.1.1-2 all
+  most complete prelude formed solely from the "base" package; documentation
+
+libghc-base-prelude-prof/stable 1.6.1.1-2+b1 arm64
+  most complete prelude formed solely from the "base" package; profiling libraries
+
+libghc-clash-ghc-dev/stable 1.8.1-4 arm64
+  Clash: functional hardware descr. language - GHC frontend
+
+libghc-clash-ghc-doc/stable 1.8.1-4 all
+  Clash: functional hardware descr. language - GHC frontend; documentation
+
+libghc-clash-ghc-prof/stable 1.8.1-4 arm64
+  Clash: functional hardware descr. language - GHC frontend; profiling libraries
+
+libghc-clash-lib-dev/stable 1.8.1-2+b4 arm64
+  Functional hardware description language - library
+
+libghc-clash-lib-doc/stable 1.8.1-2 all
+  Functional hardware description language - library; documentation
+
+libghc-clash-lib-prof/stable 1.8.1-2+b4 arm64
+  Functional hardware description language - library; profiling libraries
+
+libghc-clash-prelude-dev/stable 1.8.1-2+b2 arm64
+  Functional hardware description language - Prelude library
+
+libghc-clash-prelude-doc/stable 1.8.1-2 all
+  Functional hardware description language - Prelude library; documentation
+
+libghc-clash-prelude-prof/stable 1.8.1-2+b2 arm64
+  Functional hardware description language - Prelude library; profiling libraries
+
+libghc-iospec-dev/stable 0.3.1.2-2+b1 arm64
+  Pure specification of the IO monad
+
+libghc-iospec-doc/stable 0.3.1.2-2 all
+  Pure specification of the IO monad; documentation
+
+libghc-iospec-prof/stable 0.3.1.2-2+b1 arm64
+  Pure specification of the IO monad; profiling libraries
+
+libghc-versions-dev/stable 6.0.7-2+b1 arm64
+  Types and parsers for software version numbers.
+
+libghc-versions-doc/stable 6.0.7-2 all
+  Types and parsers for software version numbers.; documentation
+
+libghc-versions-prof/stable 6.0.7-2+b1 arm64
+  Types and parsers for software version numbers.; profiling libraries
+
+libgtk3-simplelist-perl/stable 0.21-1 all
+  Perl simple interface to GTK+ 3's complex MVC list widget
+
+libhtml-widget-perl/stable 1.11-7 all
+  HTML widget and validation framework
+
+libimvirt-perl/stable 0.9.6-13 all
+  Perl module for detecting several virtualizations
+
+libjsf-api-java/stable 2.2.8-6 all
+  JavaServer Faces 2.2 Java EE web framework - API
+
+libjsf-java-doc/stable 2.2.8-6 all
+  Documentation for libjsf-api-java
+
+libkf5itemmodels-dev/stable 5.116.0-1 arm64
+  additional item/view models for Qt Itemview
+
+libkf5itemmodels-doc/stable 5.116.0-1 all
+  additional item/view models for Qt Itemview (documentation)
+
+libkf5itemmodels5/stable 5.116.0-1 arm64
+  additional item/view models for Qt Itemview
+
+libkf5itemviews-data/stable 5.116.0-1 all
+  Qt library with additional widgets for ItemModels
+
+libkf5itemviews-dev/stable 5.116.0-1 arm64
+  Qt library with additional widgets for ItemModels
+
+libkf5itemviews-doc/stable 5.116.0-1 all
+  Qt library with additional widgets for ItemModels (documentation)
+
+libkf5itemviews5/stable 5.116.0-1 arm64
+  Qt library with additional widgets for ItemModels
+
+libkf6itemmodels-dev/stable 6.13.0-1 arm64
+  additional item/view models for Qt Itemview
+
+libkf6itemmodels-doc/stable 6.13.0-1 all
+  additional item/view models for Qt Itemview (documentation)
+
+libkf6itemmodels6/stable 6.13.0-1 arm64
+  additional item/view models for Qt Itemview
+
+libkf6itemviews-data/stable 6.13.0-1 all
+  Qt library with additional widgets for ItemModels
+
+libkf6itemviews-dev/stable 6.13.0-1 arm64
+  Qt library with additional widgets for ItemModels
+
+libkf6itemviews-doc/stable 6.13.0-1 all
+  Qt library with additional widgets for ItemModels (documentation)
+
+libkf6itemviews6/stable 6.13.0-1 arm64
+  Qt library with additional widgets for ItemModels
+
+liblwipv6-2t64/stable 1.5a-10 arm64
+  User level (lightweight) TCP/IP stack with IPv6 support
+
+liblwipv6-dev/stable 1.5a-10 arm64
+  Development files for the LWIPv6 library
+
+libmavibot-java/stable 1.0.0~M8-1 all
+  Apache Mavibot - MVCC BTree Java Implementation
+
+libmediainfo-dev/stable 25.04+dfsg-1 arm64
+  library reading metadata from media files -- headers
+
+libmediainfo-doc/stable 25.04+dfsg-1 all
+  library for reading metadata from media files -- documentation
+
+libmediainfo0v5/stable 25.04+dfsg-1 arm64
+  library for reading metadata from media files -- shared library
+
+libmono-system-web-mvc3.0-cil/stable 6.12.0.199+dfsg-6 all
+  Mono ASP.NET MVC 3.0 Library (for CLI 4.0)
+
+libmvel-java/stable 2.4.4-2 all
+  expression language for Java-based applications - Library
+
+liboaknut-dev/stable 1.2.2+git20240301.94c726c-2 arm64
+  C++20 assembler for AArch64
+
+libopencsd-bin/stable 1.5.5-1 arm64
+  ARM CoreSight trace decode utility
+
+libopencsd-dev/stable 1.5.5-1 arm64
+  ARM CoreSight trace decode library development files
+
+libopencsd-doc/stable 1.5.5-1 all
+  ARM CoreSight trace decode library documentation
+
+libopencsd1/stable 1.5.5-1 arm64
+  ARM CoreSight Trace decode library
+
+libosmvendor5/stable 3.3.23-3.1 arm64
+  InfiniBand subnet manager - vendor library
+
+libpcp-mmv-perl/stable 6.3.8-1 arm64
+  Performance Co-Pilot Memory Mapped Value Perl module
+
+libpcp-mmv1/stable 6.3.8-1 arm64
+  Performance Co-Pilot Memory Mapped Value client library
+
+libpcp-mmv1-dev/stable 6.3.8-1 arm64
+  Performance Co-Pilot Memory Mapped Value library and headers
+
+libperl-minimumversion-fast-perl/stable 0.22-1 all
+  Find a minimum required version of perl for Perl code
+
+libperl-minimumversion-perl/stable 1.40-1 all
+  module to determine minimum required version of perl required
+
+libpod-minimumversion-perl/stable 50-3 all
+  module to determine minimum Perl version of POD directives
+
+libqwprot-dev/stable 0.0~28~20250208~07a7285-2 all
+  QuakeWorld protocol header files
+
+librust-semver-0.9+ci-dev/stable 0.9.0-5 arm64
+  Semantic version parsing and comparison - feature "serde" and 1 more
+
+librust-semver-0.9-dev/stable 0.9.0-5 arm64
+  Semantic version parsing and comparison - Rust source code
+
+librust-semver-dev/stable 1.0.23-1 arm64
+  Parser and evaluator for Cargo's flavor of Semantic Versioning - Rust source code
+
+librust-semver-parser-0.7-dev/stable 0.7.0-2 arm64
+  Parsing of the semver spec - Rust source code
+
+librust-semver-parser-dev/stable 0.10.0-1+b2 arm64
+  Parsing of the semver spec - Rust source code
+
+libsemantic-version-java/stable 2.1.1+ds-2 all
+  single-class semantic version implementation for java
+
+libsemver-clojure/stable 0.3.0-2 all
+  parsing, comparison, and manipulation of semantic version strings
+
+libsemver-java/stable 0.10.2-2 all
+  Java implementation of the SemVer Specification
+
+libsemver-perl/stable 0.10.0-2 all
+  Perl implementation of the Semantic Versioning 2.0.0 Specification
+
+libspatialindex-c8/stable 2.1.0-1 arm64
+  General framework for developing spatial indices - C library
+
+libspatialindex-dev/stable 2.1.0-1 arm64
+  General framework for developing spatial indices - development files
+
+libspatialindex8/stable 2.1.0-1 arm64
+  General framework for developing spatial indices
+
+libspring-web-portlet-java/stable 4.3.30-3 all
+  modular Java/J2EE application framework - Portlet MVC
+
+libspring-web-servlet-java/stable 4.3.30-3 all
+  modular Java/J2EE application framework - Web Portlet
+
+libstreamvbyte-dev/stable 0.4.1-4+b1 arm64
+  fast integer compression in C using the StreamVByte codec (devel)
+
+libstreamvbyte0/stable 0.4.1-4+b1 arm64
+  fast integer compression in C using the StreamVByte codec
+
+libtest-minimumversion-perl/stable 0.101083-2 all
+  Perl test module to check the version of perl required
+
+libthread-tie-perl/stable 0.16-1 all
+  alternative separate thread implementation of shared variables
+
+libverilog-perl/stable 3.482-2 arm64
+  framework providing Verilog support
+
+libvixl-dev/stable 5.1.0-6 arm64
+  ARMv8 Runtime Code Generation Library - develop
+
+libvixl5/stable 5.1.0-6 arm64
+  ARMv8 Runtime Code Generation Library
+
+libvlc-bin/stable 3.0.23-0+deb13u1 arm64
+  tools for VLC's base library
+
+libvlc-dev/stable 3.0.23-0+deb13u1 arm64
+  development files for libvlc
+
+libvlc5/stable 3.0.23-0+deb13u1 arm64
+  multimedia player and streamer library
+
+libvlccore-dev/stable 3.0.23-0+deb13u1 arm64
+  development files for libvlccore
+
+libvlccore9/stable 3.0.23-0+deb13u1 arm64
+  base library for VLC and its modules
+
+libvtkgdcm-tools/stable 3.0.24-5+b3 arm64
+  Grassroots DICOM VTK tools and utilities
+
+libwww-mediawiki-client-perl/stable 0.31-3 all
+  simple CVS-like interface for editing MediaWiki websites
+
+linux-image-6.12.86+deb13-arm64/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines (signed)
+
+linux-image-6.12.86+deb13-arm64-16k/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines with 16k pages (signed)
+
+linux-image-6.12.86+deb13-arm64-16k-unsigned/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines with 16k pages
+
+linux-image-6.12.86+deb13-arm64-unsigned/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines
+
+linux-image-6.12.86+deb13-rt-arm64/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines (signed), PREEMPT_RT
+
+linux-image-6.12.86+deb13-rt-arm64-unsigned/stable 6.12.86-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines, PREEMPT_RT
+
+linux-image-6.12.94+deb13-arm64/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines (signed)
+
+linux-image-6.12.94+deb13-arm64-16k/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines with 16k pages (signed)
+
+linux-image-6.12.94+deb13-arm64-16k-unsigned/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines with 16k pages
+
+linux-image-6.12.94+deb13-arm64-unsigned/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines
+
+linux-image-6.12.94+deb13-rt-arm64/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines (signed), PREEMPT_RT
+
+linux-image-6.12.94+deb13-rt-arm64-unsigned/stable 6.12.94-1 arm64
+  Linux 6.12 for 64-bit ARMv8 machines, PREEMPT_RT
+
+linux-image-arm64/stable 6.12.94-1 arm64
+  Linux for 64-bit ARMv8 machines (meta-package)
+
+linux-image-arm64-16k/stable 6.12.94-1 arm64
+  Linux for 64-bit ARMv8 machines with 16k pages (meta-package)
+
+linux-image-rt-arm64/stable 6.12.94-1 arm64
+  Linux for 64-bit ARMv8 machines (meta-package)
+
+lua-orbit/stable 2.2.1+dfsg-5 all
+  MVC web framework for Lua
+
+lure-of-the-temptress/stable 1.1+ds3-1 all
+  classic 2D point and click fantasy adventure game
+
+mailscripts/stable 30-2 all
+  collection of scripts for manipulating e-mail on Debian
+
+mat2/stable 0.13.5-1.2 all
+  Metadata anonymisation toolkit v2
+
+mediainfo/stable 25.04-1 arm64
+  command-line utility for reading information from audio/video files
+
+mediainfo-gui/stable 25.04-1 arm64
+  graphical utility for reading information from audio/video files
+
+mencoder/stable 2:1.5+svn38674-2 arm64
+  MPlayer's Movie Encoder
+
+mmv/stable 2.5.1-1+b1 arm64
+  Move/Copy/Link multiple files and directories
+
+mplayer/stable 2:1.5+svn38674-2 arm64
+  movie player for Unix-like systems
+
+mplayer-gui/stable 2:1.5+svn38674-2 arm64
+  movie player for Unix-like systems (GUI variant)
+
+mtd-utils/stable 1:2.3.0-1 arm64
+  Memory Technology Device Utilities
+
+mvdsv/stable 1.11-1 arm64
+  QuakeWorld-compatible dedicated server
+
+node-compare-versions/stable 5.0.1-3 all
+  Version string comparison for Node.js
+
+node-console-group/stable 0.3.3-5 all
+  basic console.group implementation for node
+
+node-knockout/stable 3.5.1+ds-1 all
+  JavaScript MVVM framework
+
+node-natural-sort/stable 1.0.0-5 all
+  Sorting with support for numbers, dates, unicode and more
+
+node-prepend-http/stable 3.0.1-2 all
+  Prepend `http://` to humanized URLs like todomvc.com and localhost
+
+node-randombytes/stable 2.1.0+~2.0.0-2 all
+  random bytes from browserify stand alone
+
+node-react-lifecycles-compat/stable 3.0.4+~cs3.0.1-2 all
+  Backwards compatibility polyfill for React class components
+
+node-semver/stable 7.6.1+~7.5.8-2 all
+  Semantic Versioning for Node.js
+
+node-semver-diff/stable 3.1.1-4 all
+  get the diff type of two semver versions
+
+obfs4proxy/stable 0.0.14-2+b5 arm64
+  pluggable transport proxy for Tor, implementing obfs4
+
+octave-mvn/stable 1.1.0-4 all
+  multivariate normal distribution clustering for Octave
+
+octave-queueing/stable 1.2.8-1 all
+  Queueing Networks and Markov chains analysis for Octave
+
+openctm-tools/stable 1.0.3+dfsg1-3+b2 arm64
+  Tools for compression of 3D triangle meshes
+
+pacpl/stable 6.1.3-1 all
+  multi-purpose audio converter/ripper/tagger script
+
+php-composer-semver/stable 3.4.3-2 all
+  utilities, version constraint parsing and validation
+
+php-illuminate-view/stable 10.48.29+dfsg-1 all
+  Illuminate View library component for PHP
+
+php-symfony-framework-bundle/stable 6.4.41+dfsg-0+deb13u1 all
+  basic, robust and flexible MVC framework
+
+php-zeta-base/stable 1.9.4-2 all
+  Zeta Components - Base package
+
+php-zeta-console-tools/stable 1.7.5-2 all
+  Zeta Components - ConsoleTools package
+
+php-zeta-unit-test/stable 1.2.6-1 all
+  Zeta Components - UnitTest package
+
+pimd/stable 2.3.2-4+b2 arm64
+  multicast routing daemon (PIMv2)
+
+pkg-js-tools/stable 0.15.23 all
+  collection of tools to aid packaging Node.js modules in Debian
+
+postgresql-17-semver/stable 0.40.0-2 arm64
+  Semantic version number type for PostgreSQL
+
+progress/stable 0.17-1+b1 arm64
+  Coreutils Progress Viewer (formerly known as 'cv')
+
+python-django-extra-views-doc/stable 0.14.0-4 all
+  Complementary class-based generic views for Django (Documentation)
+
+python-semantic-version-doc/stable 2.10.0-3 all
+  implementing the SemVer scheme - doc
+
+python3-django-extra-views/stable 0.14.0-4 all
+  Complementary class-based generic views for Django (Python3 version)
+
+python3-filetype/stable 1.2.0-1 all
+  Infer file type and MIME type of any file/buffer
+
+python3-mediainfodll/stable 25.04+dfsg-1 all
+  library for reading metadata from media files -- shared library
+
+python3-ropgadget/stable 7.6+dfsg-1 all
+  Gadgets finder for ROP exploitation code
+
+python3-semantic-version/stable 2.10.0-3 all
+  implementing the SemVer scheme - Python 3.x
+
+python3-semver/stable 3.0.2-1 all
+  library for Semantic Versioning standard versions – Python 3
+
+python3-stdnum/stable 1.20-3 all
+  Python module to handle standardized numbers and codes (Python3 version)
+
+python3-urwidtrees/stable 1.0.3.dev0-3 all
+  Urwid Tree Container API
+
+qhull-bin/stable 2020.2-6+b2 arm64
+  calculate convex hulls and related structures (utilities)
+
+qml-module-org-kde-kitemmodels/stable 5.116.0-1 arm64
+  additional item/view models for Qt Itemview (QML Bindings)
+
+qml6-module-org-kde-kitemmodels/stable 6.13.0-1 arm64
+  additional item/view models for Qt Itemview (QML Bindings)
+
+r-cran-ape/stable 5.8-1-1 arm64
+  GNU R package for Analyses of Phylogenetics and Evolution
+
+r-cran-clubsandwich/stable 0.5.11-1 all
+  GNU R cluster-robust (Sandwich) variance estimators with small-sample
+
+r-cran-fontbitstreamvera/stable 0.1.1+dfsg-5 all
+  GNU R fonts with 'Bitstream Vera Fonts' license
+
+r-cran-mnormt/stable 2.1.1-2+b1 arm64
+  GNU R package providing multivariate normal and t distribution
+
+r-cran-mvnfast/stable 0.2.8+dfsg-1+b1 arm64
+  GNU R fast multivariate normal and student's t methods
+
+r-cran-mvnormtest/stable 0.1-9-3-3 all
+  GNU R package for multivariate normality test
+
+r-cran-mvtnorm/stable 1.3-3-1 arm64
+  GNU R package to compute multivariate Normal and T distributions
+
+r-cran-tmvnsim/stable 1.0-2-1+b1 arm64
+  GNU R package for truncated multivariate normal simulation
+
+r-cran-tmvtnorm/stable 1.6-1+b1 arm64
+  GNU R truncated multivariate normal and student t distribution
+
+rails/stable 2:7.2.2.2+dfsg-2~deb13u1 all
+  MVC ruby based framework geared for web application development (metapackage)
+
+renameutils/stable 0.12.0-12 arm64
+  Programs to make file renaming easier
+
+riseup-vpn/stable 0.24.10+ds1-1+deb13u2 arm64
+  Easy, fast, and secure VPN service from riseup.net
+
+ruby-actionpack/stable 2:7.2.2.2+dfsg-2~deb13u1 all
+  web-flow and rendering framework putting the VC in MVC (part of Rails)
+
+ruby-rails/stable 2:7.2.2.2+dfsg-2~deb13u1 all
+  MVC ruby based framework geared for web application development
+
+ruby-rspec-rails/stable 7.1.1-2 all
+  RSpec for Rails
+
+ruby-semantic-range/stable 3.0.0-2 all
+  node-semver rewritten in ruby
+
+ruby-semver-dialects/stable 3.4.0-2 all
+  utility function to process semantic versions expressed in different dialects
+
+ruby-semverse/stable 2.0.0-1.1 all
+  Ruby library for representing SemVer versions and constraints
+
+ruby-solve/stable 4.0.4-1 all
+  Ruby version constraint solver implementing semantic versioning
+
+savi/stable 1.6.0-1+b2 arm64
+  satellite constellation visualisation
+
+scummvm/stable 2.9.0+dfsg-1+b1 arm64
+  engine for several graphical adventure games
+
+scummvm-data/stable 2.9.0+dfsg-1 all
+  engine for several graphical adventure games (data files)
+
+scummvm-tools/stable 2.9.0-1+b1 arm64
+  collection of tools for ScummVM
+
+snowflake-client/stable 2.5.1-1+b16 arm64
+  WebRTC pluggable transport for Tor (client)
+
+snowflake-proxy/stable 2.5.1-1+b16 arm64
+  WebRTC pluggable transport for Tor (proxy)
+
+stda/stable 1.3.1-2.1 all
+  simple tools for data analysis (stda)
+
+texlive-humanities/stable 2024.20250309-2 all
+  TeX Live: Humanities packages
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+timbl/stable 6.10-3 arm64
+  Tilburg Memory Based Learner
+
+u-boot-mvebu/stable 2025.01-3 arm64
+  A boot loader for marvell systems
+
+velocity/stable 1.7-7 all
+  Java-based template engine for web application
+
+verilator/stable 5.032-1+b2 arm64
+  fast free Verilog simulator
+
+vlc/stable 3.0.23-0+deb13u1 arm64
+  multimedia player and streamer
+
+vlc-bin/stable 3.0.23-0+deb13u1 arm64
+  binaries from VLC
+
+vlc-data/stable 3.0.23-0+deb13u1 all
+  common data for VLC
+
+vlc-l10n/stable 3.0.23-0+deb13u1 all
+  translations for VLC
+
+vlc-plugin-access-extra/stable 3.0.23-0+deb13u1 arm64
+  multimedia player and streamer (extra access plugins)
+
+vlc-plugin-base/stable 3.0.23-0+deb13u1 arm64
+  multimedia player and streamer (base plugins)
+
+vlc-plugin-fluidsynth/stable 3.0.23-0+deb13u1 arm64
+  FluidSynth plugin for VLC
+
+vlc-plugin-jack/stable 3.0.23-0+deb13u1 arm64
+  JACK audio plugins for VLC
+
+vlc-plugin-notify/stable 3.0.23-0+deb13u1 arm64
+  LibNotify plugin for VLC
+
+vlc-plugin-pipewire/stable 3-3+b2 arm64
+  PipeWire audio plugins for VLC
+
+vlc-plugin-qt/stable 3.0.23-0+deb13u1 arm64
+  multimedia player and streamer (Qt plugin)
+
+vlc-plugin-samba/stable 3.0.23-0+deb13u1 arm64
+  Samba plugin for VLC
+
+vlc-plugin-skins2/stable 3.0.23-0+deb13u1 arm64
+  multimedia player and streamer (Skins2 plugin)
+
+vlc-plugin-svg/stable 3.0.23-0+deb13u1 arm64
+  SVG plugin for VLC
+
+vlc-plugin-video-output/stable 3.0.23-0+deb13u1 arm64
+  multimedia player and streamer (video output plugins)
+
+vlc-plugin-video-splitter/stable 3.0.23-0+deb13u1 arm64
+  multimedia player and streamer (video splitter plugins)
+
+vlc-plugin-visualization/stable 3.0.23-0+deb13u1 arm64
+  multimedia player and streamer (visualization plugins)
+
+weborf-daemon/stable 1.5-1 all
+  init script for weborf
+
+xserver-xorg-video-ati/stable 1:22.0.0-1+b2 arm64
+  X.Org X server -- AMD/ATI display driver wrapper
+
+yt-dlp/stable 2025.04.30-1 all
+  downloader of videos from YouTube and other sites
+
+zam-plugins/stable 4.2+ds-1+b1 arm64
+  Collection of LV2, CLAP, VST3, LADSPA, LINUX-VST and JACK plugins
+

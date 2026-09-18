@@ -1,0 +1,236 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+aqemu/stable 0.9.2-5 arm64
+  Qt5 front-end for QEMU and KVM
+
+debian-handbook/stable 11.20220922 all
+  reference book for Debian users and system administrators
+
+entropybroker/stable 2.9-9+b1 arm64
+  infrastructure for distributing random numbers (entropy data)
+
+ganeti/stable 3.1.0~rc2-3 all
+  cluster virtualization manager
+
+ganeti-3.1/stable 3.1.0~rc2-3 all
+  cluster virtualization manager - Python components
+
+ganeti-doc/stable 3.1.0~rc2-3 all
+  cluster virtualization manager - documentation
+
+ganeti-haskell-3.1/stable 3.1.0~rc2-3 arm64
+  cluster virtualization manager - Haskell components
+
+ganeti-htools/stable 3.1.0~rc2-3 all
+  cluster virtualization manager - tools (stand-alone)
+
+ganeti-htools-3.1/stable 3.1.0~rc2-3 arm64
+  cluster virtualization manager - tools for Ganeti 3.1
+
+ganeti-os-noop/stable 0.2-5 all
+  Dummy no-op OS provider for Ganeti
+
+ganeti-testsuite/stable 3.1.0~rc2-3 all
+  cluster virtualization manager - test suite
+
+golang-github-kata-containers-govmm-dev/stable 0.0~git20211108.e438cc5-1 all
+  Provide Go APIs for creating and managing virtual machines
+
+golang-github-xanzy-go-cloudstack-dev/stable 2.9.0-1 all
+  Golang API client to interact with Apache CloudStack
+
+imvirt/stable 0.9.6-13 all
+  detects several virtualizations
+
+imvirt-helper/stable 0.9.6-13 arm64
+  helper programs to detect several virtualizations
+
+ksmtuned/stable 4.20150326+nmu1+b1 arm64
+  enables and tunes Kernel Samepage Merging
+
+libimvirt-perl/stable 0.9.6-13 all
+  Perl module for detecting several virtualizations
+
+librte-power-kvm-vm25/stable 24.11.4-0+deb13u1 arm64
+  Data Plane Development Kit (librte-power-kvm-vm runtime library)
+
+librust-kvm-bindings-dev/stable 0.10.0-2 arm64
+  Rust FFI bindings to KVM generated using bindgen - Rust source code
+
+librust-kvm-ioctls-dev/stable 0.19.1-1 arm64
+  Safe wrappers over KVM ioctls - Rust source code
+
+libvirglrenderer-dev/stable 1.1.0-2 arm64
+  virtual GPU for KVM virtualization - headers
+
+libvirglrenderer1/stable 1.1.0-2 arm64
+  virtual GPU for KVM virtualization
+
+libvirt-dbus/stable 1.4.1-4 arm64
+  libvirt D-Bus API bindings
+
+libvirt-ocaml/stable 0.6.1.5-2+b4 arm64
+  OCaml bindings for libvirt (runtime)
+
+libvirt-ocaml-dev/stable 0.6.1.5-2+b4 arm64
+  OCaml bindings for libvirt (development files)
+
+masakari-api/stable 19.0.0-3 all
+  OpenStack Virtual Machine High Availability (VMHA) - API Server
+
+masakari-common/stable 19.0.0-3 all
+  OpenStack Virtual Machine High Availability (VMHA) - common files
+
+masakari-doc/stable 19.0.0-3 all
+  OpenStack Virtual Machine High Availability (VMHA) - doc
+
+masakari-engine/stable 19.0.0-3 all
+  OpenStack Virtual Machine High Availability (VMHA) - API Server
+
+masakari-host-monitor/stable 19.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - host monitor
+
+masakari-instance-monitor/stable 19.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - instance monitor
+
+masakari-introspective-instance-monitor/stable 19.0.0-1 all
+  OpenStack VirtualMachine High Availability (VMHA) - introspective host monitor
+
+masakari-monitors-common/stable 19.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - monitors common files
+
+masakari-monitors-doc/stable 19.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - doc
+
+masakari-process-monitor/stable 19.0.0-1 all
+  OpenStack VM High Availability (VMHA) - process monitor
+
+mkvtoolnix/stable 92.0-1 arm64
+  Set of command-line tools to work with Matroska files
+
+mkvtoolnix-gui/stable 92.0-1 arm64
+  Set of tools to work with Matroska files - GUI frontend
+
+mom/stable 0.6.4-0.1 all
+  Dynamically manage system resources on virtualization hosts
+
+nova-api/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute API frontend
+
+nova-common/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - common files
+
+nova-compute/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node
+
+nova-compute-ironic/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (Ironic)
+
+nova-compute-kvm/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (KVM)
+
+nova-compute-lxc/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (LXC)
+
+nova-compute-qemu/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - compute node (QEmu)
+
+nova-conductor/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - conductor service
+
+nova-consoleproxy/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - NoVNC proxy
+
+nova-doc/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - documentation
+
+nova-scheduler/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - virtual machine scheduler
+
+openstack-compute-node/stable 0.39 all
+  Metapackage to install an Openstack compute node
+
+openstack-tempest-ci-live-booter/stable 0.39 all
+  configures a server to boot a custom live image to test OpenStack
+
+python-novaclient-doc/stable 2:18.9.0-2 all
+  client library for OpenStack Compute API - doc
+
+python3-ganeti-rapi/stable 3.1.0~rc2-3 all
+  cluster virtualization manager - RAPI client library (Python 3)
+
+python3-libvirt/stable 11.3.0-1 arm64
+  libvirt Python 3 bindings
+
+python3-masakari/stable 19.0.0-3 all
+  OpenStack Virtual Machine High Availability (VMHA) - Python files
+
+python3-masakari-dashboard/stable 12.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - dashboard plugin
+
+python3-masakari-monitors/stable 19.0.0-1 all
+  OpenStack Virtual Machine High Availability (VMHA) - Python files
+
+python3-masakariclient/stable 8.6.0-2 all
+  OpenStack Virtual Machine High Availability (VMHA) client
+
+python3-nova/stable 2:31.0.0-6+deb13u2 all
+  OpenStack Compute - libraries
+
+python3-novaclient/stable 2:18.9.0-2 all
+  client library for OpenStack Compute API - 3.x
+
+qemu-system-x86/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (x86)
+
+randmac/stable 0.2-1+b1 arm64
+  generate random MAC addresses
+
+ruby-libvirt/stable 0.8.4-1+b2 arm64
+  Ruby bindings for libvirt
+
+texlive-science/stable 2024.20250309-2 all
+  TeX Live: Mathematics, natural sciences, computer science packages
+
+u-boot-qemu/stable 2025.01-3 all
+  A boot loader for qemu
+
+ustreamer/stable 5.4-1+b2 arm64
+  Lightweight and fast MJPG-HTTP streamer
+
+vagrant/stable 2.3.7+git20230731.5fc64cde+dfsg-3+b1 arm64
+  Tool for building and distributing virtualized development environments
+
+vagrant-mutate/stable 1.2.0-4.1 all
+  convert vagrant boxes to work with different providers
+
+virgl-server/stable 1.1.0-2 arm64
+  virtual GPU for KVM virtualization - vtest server used
+
+virt-manager/stable 1:5.0.0-5+deb13u1 all
+  desktop application for managing virtual machines
+
+virt-p2v/stable 1.42.4-1 arm64
+  physical-to-virtual machine converter
+
+virt-top/stable 1.1.1-1 arm64
+  show stats of virtualized domains
+
+virt-v2v/stable 2.6.0-1 arm64
+  virtual-to-virtual machine converter
+
+virtnbdbackup/stable 2.28-1 arm64
+  Backup utility for libvirt
+
+x2x/stable 1.30-12 arm64
+  Link two X displays together, simulating a multiheaded display
+
+xmount/stable 1.2.0+ds-1+b1 arm64
+  tool for crossmounting between disk image formats
+
+xserver-xorg-video-qxl/stable 0.1.6-1.1 arm64
+  X.Org X server -- QXL display driver
+

@@ -1,0 +1,29 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+cddl/stable 0.9.5-1 arm64
+  tool for verifying conformance of CDDL definitions
+
+golang-github-fxamacker-cbor-dev/stable 2.8.0-1 all
+  CBOR codec implementing RFCs 7049 & 8949 (library)
+
+libcdd-dev/stable 094m-1.1+b1 arm64
+  Library for finding vertices of convex polytopes, development
+
+libcdd-doc/stable 094m-1.1 all
+  documentation for libcdd
+
+libcdd-tools/stable 094m-1.1+b1 arm64
+  Programs using libcdd
+
+libcdd0t64/stable 094m-1.1+b1 arm64
+  Library for calculations with convex polytopes, runtime
+
+librust-cddl-dev/stable 0.9.5-1 arm64
+  Parser for the Concise data definition language (CDDL) - Rust source code
+
+python3-pycddl/stable 0.6.4+ds-1 arm64
+  Deserialize CBOR and/or do CDDL schema validation
+

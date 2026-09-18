@@ -1,0 +1,5279 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+arduino-builder/stable 1.3.25-5+b2 arm64
+  Command line tool for compiling Arduino sketches
+
+autoconf2.69/stable 2.69-3.1 all
+  automatic configure script builder (obsolete version)
+
+autofdo/stable 0.19-3+b2 arm64
+  AutoFDO Profile Toolchain
+
+binutils-mingw-w64/stable 2.43.1-5+12 all
+  Cross-binutils for Win32 and Win64 using MinGW-w64
+
+binutils-mingw-w64-i686/stable 2.44-3+12+b1 arm64
+  Cross-binutils for Win32 (x86) using MinGW-w64
+
+binutils-mingw-w64-ucrt64/stable 2.44-3+12+b1 arm64
+  Cross-binutils for UCRT Win64 (x64) using MinGW-w64
+
+binutils-mingw-w64-x86-64/stable 2.44-3+12+b1 arm64
+  Cross-binutils for Win64 (x64) using MinGW-w64
+
+blhc/stable 0.14+git20240421.5d2c338-2 all
+  build log hardening check
+
+castxml/stable 0.6.11-1 arm64
+  C-family abstract syntax tree XML output tool
+
+clang/stable 1:19.0-63 arm64
+  C, C++ and Objective-C compiler (LLVM based), clang binary
+
+clang-17/stable 1:17.0.6-22+b2 arm64
+  C, C++ and Objective-C compiler
+
+clang-17-doc/stable 1:17.0.6-22 all
+  C, C++ and Objective-C compiler - Documentation
+
+clang-17-examples/stable 1:17.0.6-22 all
+  Clang examples
+
+clang-18/stable 1:18.1.8-18+b1 arm64
+  C, C++ and Objective-C compiler
+
+clang-18-doc/stable 1:18.1.8-18 all
+  C, C++ and Objective-C compiler - Documentation
+
+clang-18-examples/stable 1:18.1.8-18 all
+  Clang examples
+
+clang-19/stable 1:19.1.7-3+b1 arm64
+  C, C++ and Objective-C compiler
+
+clang-19-doc/stable 1:19.1.7-3 all
+  C, C++ and Objective-C compiler - Documentation
+
+clang-19-examples/stable 1:19.1.7-3 all
+  Clang examples
+
+clang-tools/stable 1:19.0-63 arm64
+  clang-based tools
+
+clang-tools-17/stable 1:17.0.6-22+b2 arm64
+  clang-based tools for C/C++ developments
+
+clang-tools-18/stable 1:18.1.8-18+b1 arm64
+  clang-based tools for C/C++ developments
+
+clang-tools-19/stable 1:19.1.7-3+b1 arm64
+  clang-based tools for C/C++ developments
+
+colorized-logs/stable 2.7-1 arm64
+  tools for consuming logs with ANSI color
+
+cpp/stable,now 4:14.2.0-1 arm64 [installed,automatic]
+  GNU C preprocessor (cpp)
+
+cpp-12/stable,now 12.4.0-5 arm64 [installed,automatic]
+  GNU C preprocessor
+
+cpp-12-arm-linux-gnueabi/stable 12.4.0-5cross1 arm64
+  GNU C preprocessor
+
+cpp-12-arm-linux-gnueabihf/stable 12.4.0-5cross1 arm64
+  GNU C preprocessor
+
+cpp-12-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C preprocessor
+
+cpp-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C preprocessor
+
+cpp-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C preprocessor
+
+cpp-12-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C preprocessor
+
+cpp-12-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C preprocessor
+
+cpp-12-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU C preprocessor
+
+cpp-13/stable 13.3.0-16 arm64
+  GNU C preprocessor
+
+cpp-13-aarch64-linux-gnu/stable 13.3.0-16 arm64
+  GNU C preprocessor for aarch64-linux-gnu
+
+cpp-13-alpha-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for alpha-linux-gnu
+
+cpp-13-arc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for arc-linux-gnu
+
+cpp-13-arm-linux-gnueabi/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for arm-linux-gnueabi
+
+cpp-13-arm-linux-gnueabihf/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for arm-linux-gnueabihf
+
+cpp-13-for-build/stable 13.3.0-16 all
+  GNU C preprocessor for the build architecture
+
+cpp-13-for-host/stable 13.3.0-16 arm64
+  GNU C preprocessor for the host architecture
+
+cpp-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for hppa-linux-gnu
+
+cpp-13-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for i686-linux-gnu
+
+cpp-13-loongarch64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for loongarch64-linux-gnu
+
+cpp-13-m68k-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for m68k-linux-gnu
+
+cpp-13-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C preprocessor for mips-linux-gnu
+
+cpp-13-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C preprocessor for mips64-linux-gnuabi64
+
+cpp-13-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C preprocessor for mips64el-linux-gnuabi64
+
+cpp-13-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C preprocessor for mipsel-linux-gnu
+
+cpp-13-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C preprocessor for mipsisa32r6-linux-gnu
+
+cpp-13-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C preprocessor for mipsisa32r6el-linux-gnu
+
+cpp-13-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C preprocessor for mipsisa64r6-linux-gnuabi64
+
+cpp-13-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C preprocessor for mipsisa64r6el-linux-gnuabi64
+
+cpp-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for powerpc-linux-gnu
+
+cpp-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for powerpc64le-linux-gnu
+
+cpp-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for riscv64-linux-gnu
+
+cpp-13-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for s390x-linux-gnu
+
+cpp-13-sh4-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for sh4-linux-gnu
+
+cpp-13-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for sparc64-linux-gnu
+
+cpp-13-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for x86_64-linux-gnu
+
+cpp-13-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for x86_64-linux-gnux32
+
+cpp-14/stable,now 14.2.0-19 arm64 [installed,automatic]
+  GNU C preprocessor
+
+cpp-14-aarch64-linux-gnu/stable,now 14.2.0-19 arm64 [installed,automatic]
+  GNU C preprocessor for aarch64-linux-gnu
+
+cpp-14-alpha-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for alpha-linux-gnu
+
+cpp-14-arc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for arc-linux-gnu
+
+cpp-14-arm-linux-gnueabi/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for arm-linux-gnueabi
+
+cpp-14-arm-linux-gnueabihf/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for arm-linux-gnueabihf
+
+cpp-14-for-build/stable 14.2.0-19 all
+  GNU C preprocessor for the build architecture
+
+cpp-14-for-host/stable 14.2.0-19 arm64
+  GNU C preprocessor for the host architecture
+
+cpp-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for hppa-linux-gnu
+
+cpp-14-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for i686-linux-gnu
+
+cpp-14-loongarch64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for loongarch64-linux-gnu
+
+cpp-14-m68k-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for m68k-linux-gnu
+
+cpp-14-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C preprocessor for mips-linux-gnu
+
+cpp-14-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C preprocessor for mips64-linux-gnuabi64
+
+cpp-14-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C preprocessor for mips64el-linux-gnuabi64
+
+cpp-14-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C preprocessor for mipsel-linux-gnu
+
+cpp-14-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C preprocessor for mipsisa32r6-linux-gnu
+
+cpp-14-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C preprocessor for mipsisa32r6el-linux-gnu
+
+cpp-14-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C preprocessor for mipsisa64r6-linux-gnuabi64
+
+cpp-14-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C preprocessor for mipsisa64r6el-linux-gnuabi64
+
+cpp-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for powerpc-linux-gnu
+
+cpp-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for powerpc64le-linux-gnu
+
+cpp-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for riscv64-linux-gnu
+
+cpp-14-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for s390x-linux-gnu
+
+cpp-14-sh4-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for sh4-linux-gnu
+
+cpp-14-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for sparc64-linux-gnu
+
+cpp-14-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for x86_64-linux-gnu
+
+cpp-14-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for x86_64-linux-gnux32
+
+cpp-aarch64-linux-gnu/stable,now 4:14.2.0-1 arm64 [installed,automatic]
+  GNU C preprocessor (cpp) for the arm64 architecture
+
+cpp-alpha-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the alpha architecture
+
+cpp-arc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the arc architecture
+
+cpp-arm-linux-gnueabi/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the armel architecture
+
+cpp-arm-linux-gnueabihf/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the armhf architecture
+
+cpp-for-build/stable 4:14.2.0-1 all
+  GNU C preprocessor (cpp) for the build architecture
+
+cpp-for-host/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the host architecture
+
+cpp-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the hppa architecture
+
+cpp-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the i386 architecture
+
+cpp-loongarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the loong64 architecture
+
+cpp-m68k-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the m68k architecture
+
+cpp-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the mips architecture
+
+cpp-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the mips64 architecture
+
+cpp-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the mips64el architecture
+
+cpp-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the mipsel architecture
+
+cpp-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the mipsr6 architecture
+
+cpp-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the mipsr6el architecture
+
+cpp-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the mips64r6 architecture
+
+cpp-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the mips64r6el architecture
+
+cpp-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the powerpc architecture
+
+cpp-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the ppc64el architecture
+
+cpp-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the riscv64 architecture
+
+cpp-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the s390x architecture
+
+cpp-sh4-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the sh4 architecture
+
+cpp-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the sparc64 architecture
+
+cpp-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the amd64 architecture
+
+cpp-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the x32 architecture
+
+cpphs/stable 1.20.9.1-4+b1 arm64
+  Simplified cpp-a-like preprocessor for Haskell
+
+cxref/stable 1.6e-9+b1 arm64
+  Generates LaTeX and HTML documentation for C programs
+
+debugbreak/stable 1.0-1 arm64
+  Put breakpoints in C/C++ code
+
+dpkg-dev/stable 1.22.22 all
+  Debian package development tools
+
+g++-mingw-w64/stable 14.2.0-17+27 all
+  GNU C++ compiler for MinGW-w64
+
+g++-mingw-w64-i686/stable 14.2.0-17+27 all
+  GNU C++ compiler for MinGW-w64 targeting Win32
+
+g++-mingw-w64-i686-posix/stable 14.2.0-19+27+b1 arm64
+  GNU C++ compiler for MinGW-w64, Win32/POSIX
+
+g++-mingw-w64-i686-win32/stable 14.2.0-19+27+b1 arm64
+  GNU C++ compiler for MinGW-w64, Win32/Win32
+
+g++-mingw-w64-ucrt64/stable 14.2.0-19+27+b1 arm64
+  GNU C++ compiler for MinGW-w64 targeting UCRT Win64
+
+g++-mingw-w64-x86-64/stable 14.2.0-17+27 all
+  GNU C++ compiler for MinGW-w64 targeting Win64
+
+g++-mingw-w64-x86-64-posix/stable 14.2.0-19+27+b1 arm64
+  GNU C++ compiler for MinGW-w64, Win64/POSIX
+
+g++-mingw-w64-x86-64-win32/stable 14.2.0-19+27+b1 arm64
+  GNU C++ compiler for MinGW-w64, Win64/Win32
+
+gcc/stable 4:14.2.0-1 arm64
+  GNU C compiler
+
+gcc-12/stable,now 12.4.0-5 arm64 [installed,automatic]
+  GNU C compiler
+
+gcc-12-arm-linux-gnueabi/stable 12.4.0-5cross1 arm64
+  GNU C compiler (cross compiler for armel architecture)
+
+gcc-12-arm-linux-gnueabi-base/stable 12.4.0-5cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-12-arm-linux-gnueabihf/stable 12.4.0-5cross1 arm64
+  GNU C compiler (cross compiler for armhf architecture)
+
+gcc-12-arm-linux-gnueabihf-base/stable 12.4.0-5cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-12-base/stable,now 12.4.0-5 arm64 [installed,automatic]
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-12-cross-base/stable 12.4.0-5cross1 all
+  GCC, the GNU Compiler Collection (library base package)
+
+gcc-12-cross-base-ports/stable 12.4.0-5cross1 all
+  GCC, the GNU Compiler Collection (library base package)
+
+gcc-12-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C compiler (cross compiler for i386 architecture)
+
+gcc-12-i686-linux-gnu-base/stable 12.4.0-5cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-12-locales/stable,now 12.4.0-5 all [installed]
+  GCC, the GNU compiler collection (native language support files)
+
+gcc-12-multilib-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for i386 architecture)
+
+gcc-12-multilib-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for s390x architecture)
+
+gcc-12-multilib-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for amd64 architecture)
+
+gcc-12-multilib-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for x32 architecture)
+
+gcc-12-plugin-dev/stable 12.4.0-5 arm64
+  Files for GNU GCC plugin development.
+
+gcc-12-plugin-dev-arm-linux-gnueabi/stable 12.4.0-5cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-12-plugin-dev-arm-linux-gnueabihf/stable 12.4.0-5cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-12-plugin-dev-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-12-plugin-dev-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-12-plugin-dev-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-12-plugin-dev-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-12-plugin-dev-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-12-plugin-dev-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C compiler (cross compiler for ppc64el architecture)
+
+gcc-12-powerpc64le-linux-gnu-base/stable 12.4.0-5cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C compiler (cross compiler for riscv64 architecture)
+
+gcc-12-riscv64-linux-gnu-base/stable 12.4.0-5cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-12-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C compiler (cross compiler for s390x architecture)
+
+gcc-12-s390x-linux-gnu-base/stable 12.4.0-5cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-12-source/stable 12.4.0-5 all
+  Source of the GNU Compiler Collection
+
+gcc-12-test-results/stable 12.4.0-5 arm64
+  Test results for the GCC test suite
+
+gcc-12-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C compiler (cross compiler for amd64 architecture)
+
+gcc-12-x86-64-linux-gnu-base/stable 12.4.0-5cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-12-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU C compiler (cross compiler for x32 architecture)
+
+gcc-12-x86-64-linux-gnux32-base/stable 12.4.0-5cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13/stable 13.3.0-16 arm64
+  GNU C compiler
+
+gcc-13-aarch64-linux-gnu/stable 13.3.0-16 arm64
+  GNU C compiler for the aarch64-linux-gnu architecture
+
+gcc-13-alpha-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the alpha-linux-gnu architecture
+
+gcc-13-alpha-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-arc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the arc-linux-gnu architecture
+
+gcc-13-arc-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-arm-linux-gnueabi/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the arm-linux-gnueabi architecture
+
+gcc-13-arm-linux-gnueabi-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-arm-linux-gnueabihf/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the arm-linux-gnueabihf architecture
+
+gcc-13-arm-linux-gnueabihf-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-base/stable 13.3.0-16 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-cross-base/stable 13.3.0-16cross1 all
+  GCC, the GNU Compiler Collection (library base package)
+
+gcc-13-cross-base-mipsen/stable 13.3.0-12cross1 all
+  GCC, the GNU Compiler Collection (library base package)
+
+gcc-13-cross-base-ports/stable 13.3.0-16cross1 all
+  GCC, the GNU Compiler Collection (library base package)
+
+gcc-13-for-build/stable 13.3.0-16 all
+  GNU C compiler for the build architecture
+
+gcc-13-for-host/stable 13.3.0-16 arm64
+  GNU C compiler for the host architecture
+
+gcc-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the hppa-linux-gnu architecture
+
+gcc-13-hppa-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the i686-linux-gnu architecture
+
+gcc-13-i686-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-locales/stable 13.3.0-16 all
+  GCC, the GNU compiler collection (native language support files)
+
+gcc-13-loongarch64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the loongarch64-linux-gnu architecture
+
+gcc-13-loongarch64-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-m68k-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the m68k-linux-gnu architecture
+
+gcc-13-m68k-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C compiler for the mips-linux-gnu architecture
+
+gcc-13-mips-linux-gnu-base/stable 13.3.0-12cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C compiler for the mips64-linux-gnuabi64 architecture
+
+gcc-13-mips64-linux-gnuabi64-base/stable 13.3.0-12cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C compiler for the mips64el-linux-gnuabi64 architecture
+
+gcc-13-mips64el-linux-gnuabi64-base/stable 13.3.0-12cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C compiler for the mipsel-linux-gnu architecture
+
+gcc-13-mipsel-linux-gnu-base/stable 13.3.0-12cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C compiler for the mipsisa32r6-linux-gnu architecture
+
+gcc-13-mipsisa32r6-linux-gnu-base/stable 13.3.0-12cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C compiler for the mipsisa32r6el-linux-gnu architecture
+
+gcc-13-mipsisa32r6el-linux-gnu-base/stable 13.3.0-12cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gcc-13-mipsisa64r6-linux-gnuabi64-base/stable 13.3.0-12cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gcc-13-mipsisa64r6el-linux-gnuabi64-base/stable 13.3.0-12cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-multilib-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for i386 architecture)
+
+gcc-13-multilib-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mips architecture)
+
+gcc-13-multilib-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mips64 architecture)
+
+gcc-13-multilib-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mips64el architecture)
+
+gcc-13-multilib-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mipsel architecture)
+
+gcc-13-multilib-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mipsr6 architecture)
+
+gcc-13-multilib-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mipsr6el architecture)
+
+gcc-13-multilib-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mips64r6 architecture)
+
+gcc-13-multilib-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mips64r6el architecture)
+
+gcc-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for powerpc architecture)
+
+gcc-13-multilib-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for s390x architecture)
+
+gcc-13-multilib-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for sparc64 architecture)
+
+gcc-13-multilib-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for amd64 architecture)
+
+gcc-13-multilib-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for x32 architecture)
+
+gcc-13-offload-nvptx/stable 13.3.0-16 arm64
+  GCC offloading compiler to NVPTX
+
+gcc-13-plugin-dev/stable 13.3.0-16 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-alpha-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-arc-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-arm-linux-gnueabi/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-arm-linux-gnueabihf/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-loongarch64-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-m68k-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-sh4-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the powerpc-linux-gnu architecture
+
+gcc-13-powerpc-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the powerpc64le-linux-gnu architecture
+
+gcc-13-powerpc64le-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the riscv64-linux-gnu architecture
+
+gcc-13-riscv64-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the s390x-linux-gnu architecture
+
+gcc-13-s390x-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-sh4-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the sh4-linux-gnu architecture
+
+gcc-13-sh4-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-source/stable 13.3.0-16 all
+  Source of the GNU Compiler Collection
+
+gcc-13-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the sparc64-linux-gnu architecture
+
+gcc-13-sparc64-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-test-results/stable 13.3.0-16 arm64
+  Test results for the GCC test suite
+
+gcc-13-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the x86_64-linux-gnu architecture
+
+gcc-13-x86-64-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the x86_64-linux-gnux32 architecture
+
+gcc-13-x86-64-linux-gnux32-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14/stable 14.2.0-19 arm64
+  GNU C compiler
+
+gcc-14-aarch64-linux-gnu/stable 14.2.0-19 arm64
+  GNU C compiler for the aarch64-linux-gnu architecture
+
+gcc-14-alpha-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the alpha-linux-gnu architecture
+
+gcc-14-alpha-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-arc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the arc-linux-gnu architecture
+
+gcc-14-arc-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-arm-linux-gnueabi/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the arm-linux-gnueabi architecture
+
+gcc-14-arm-linux-gnueabi-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-arm-linux-gnueabihf/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the arm-linux-gnueabihf architecture
+
+gcc-14-arm-linux-gnueabihf-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-base/stable,now 14.2.0-19 arm64 [installed]
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-cross-base/stable 14.2.0-19cross1 all
+  GCC, the GNU Compiler Collection (library base package)
+
+gcc-14-cross-base-mipsen/stable 14.2.0-13cross1 all
+  GCC, the GNU Compiler Collection (library base package)
+
+gcc-14-cross-base-ports/stable 14.2.0-19cross1 all
+  GCC, the GNU Compiler Collection (library base package)
+
+gcc-14-for-build/stable 14.2.0-19 all
+  GNU C compiler for the build architecture
+
+gcc-14-for-host/stable 14.2.0-19 arm64
+  GNU C compiler for the host architecture
+
+gcc-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the hppa-linux-gnu architecture
+
+gcc-14-hppa-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the i686-linux-gnu architecture
+
+gcc-14-i686-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-locales/stable 14.2.0-19 all
+  GCC, the GNU compiler collection (native language support files)
+
+gcc-14-loongarch64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the loongarch64-linux-gnu architecture
+
+gcc-14-loongarch64-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-m68k-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the m68k-linux-gnu architecture
+
+gcc-14-m68k-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C compiler for the mips-linux-gnu architecture
+
+gcc-14-mips-linux-gnu-base/stable 14.2.0-13cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C compiler for the mips64-linux-gnuabi64 architecture
+
+gcc-14-mips64-linux-gnuabi64-base/stable 14.2.0-13cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C compiler for the mips64el-linux-gnuabi64 architecture
+
+gcc-14-mips64el-linux-gnuabi64-base/stable 14.2.0-13cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C compiler for the mipsel-linux-gnu architecture
+
+gcc-14-mipsel-linux-gnu-base/stable 14.2.0-13cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C compiler for the mipsisa32r6-linux-gnu architecture
+
+gcc-14-mipsisa32r6-linux-gnu-base/stable 14.2.0-13cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C compiler for the mipsisa32r6el-linux-gnu architecture
+
+gcc-14-mipsisa32r6el-linux-gnu-base/stable 14.2.0-13cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gcc-14-mipsisa64r6-linux-gnuabi64-base/stable 14.2.0-13cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gcc-14-mipsisa64r6el-linux-gnuabi64-base/stable 14.2.0-13cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-multilib-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for i386 architecture)
+
+gcc-14-multilib-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mips architecture)
+
+gcc-14-multilib-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mips64 architecture)
+
+gcc-14-multilib-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mips64el architecture)
+
+gcc-14-multilib-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mipsel architecture)
+
+gcc-14-multilib-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mipsr6 architecture)
+
+gcc-14-multilib-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mipsr6el architecture)
+
+gcc-14-multilib-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mips64r6 architecture)
+
+gcc-14-multilib-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for mips64r6el architecture)
+
+gcc-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for powerpc architecture)
+
+gcc-14-multilib-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for s390x architecture)
+
+gcc-14-multilib-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for sparc64 architecture)
+
+gcc-14-multilib-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for amd64 architecture)
+
+gcc-14-multilib-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for x32 architecture)
+
+gcc-14-offload-nvptx/stable 14.2.0-19 arm64
+  GCC offloading compiler to NVPTX
+
+gcc-14-plugin-dev/stable 14.2.0-19 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-alpha-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-arc-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-arm-linux-gnueabi/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-arm-linux-gnueabihf/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-loongarch64-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-m68k-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-sh4-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the powerpc-linux-gnu architecture
+
+gcc-14-powerpc-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the powerpc64le-linux-gnu architecture
+
+gcc-14-powerpc64le-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the riscv64-linux-gnu architecture
+
+gcc-14-riscv64-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the s390x-linux-gnu architecture
+
+gcc-14-s390x-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-sh4-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the sh4-linux-gnu architecture
+
+gcc-14-sh4-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-source/stable 14.2.0-19 all
+  Source of the GNU Compiler Collection
+
+gcc-14-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the sparc64-linux-gnu architecture
+
+gcc-14-sparc64-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-test-results/stable 14.2.0-19 arm64
+  Test results for the GCC test suite
+
+gcc-14-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the x86_64-linux-gnu architecture
+
+gcc-14-x86-64-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the x86_64-linux-gnux32 architecture
+
+gcc-14-x86-64-linux-gnux32-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-aarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the arm64 architecture
+
+gcc-alpha-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the alpha architecture
+
+gcc-arc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the arc architecture
+
+gcc-arm-linux-gnueabi/stable 4:14.2.0-1 arm64
+  GNU C compiler for the armel architecture
+
+gcc-arm-linux-gnueabihf/stable 4:14.2.0-1 arm64
+  GNU C compiler for the armhf architecture
+
+gcc-arm-none-eabi/stable 15:14.2.rel1-1 arm64
+  GCC cross compiler for ARM Cortex-R/M processors
+
+gcc-arm-none-eabi-source/stable 15:14.2.rel1-1 all
+  GCC cross compiler for ARM Cortex-R/M processors (source)
+
+gcc-avr/stable,now 1:14.2.0-2 arm64 [installed]
+  GNU C compiler (cross compiler for avr)
+
+gcc-bpf/stable 14.2.0-19+2 arm64
+  GNU C compiler for bpf
+
+gcc-for-build/stable 4:14.2.0-1 all
+  GNU C compiler for the build architecture
+
+gcc-for-host/stable 4:14.2.0-1 arm64
+  GNU C compiler for the host architecture
+
+gcc-h8300-hms/stable 1:3.4.6+dfsg2-7 arm64
+  GNU C compiler (cross compiler for h8300-hitachi-coff)
+
+gcc-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the hppa architecture
+
+gcc-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the i386 architecture
+
+gcc-loongarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the loong64 architecture
+
+gcc-m68k-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the m68k architecture
+
+gcc-mingw-w64/stable 14.2.0-17+27 all
+  GNU C compiler for MinGW-w64
+
+gcc-mingw-w64-base/stable 14.2.0-19+27+b1 arm64
+  GNU Compiler Collection for MinGW-w64 (base package)
+
+gcc-mingw-w64-bootstrap/stable 14.2.0-19+27+b1 arm64
+  GNU Compiler Collection for MinGW-w64
+
+gcc-mingw-w64-i686/stable 14.2.0-17+27 all
+  GNU C compiler for MinGW-w64 targeting Win32
+
+gcc-mingw-w64-i686-posix/stable 14.2.0-19+27+b1 arm64
+  GNU C compiler for MinGW-w64, Win32/POSIX
+
+gcc-mingw-w64-i686-posix-runtime/stable 14.2.0-19+27+b1 arm64
+  GNU Compiler Collection for MinGW-w64, i686/POSIX
+
+gcc-mingw-w64-i686-win32/stable 14.2.0-19+27+b1 arm64
+  GNU C compiler for MinGW-w64, Win32/Win32
+
+gcc-mingw-w64-i686-win32-runtime/stable 14.2.0-19+27+b1 arm64
+  GNU Compiler Collection for MinGW-w64, i686/Win32
+
+gcc-mingw-w64-ucrt64/stable 14.2.0-19+27+b1 arm64
+  GNU C compiler for MinGW-w64 targeting UCRT Win64
+
+gcc-mingw-w64-ucrt64-runtime/stable 14.2.0-19+27+b1 arm64
+  GNU Compiler Collection for MinGW-w64, UCRT Win64
+
+gcc-mingw-w64-x86-64/stable 14.2.0-17+27 all
+  GNU C compiler for MinGW-w64 targeting Win64
+
+gcc-mingw-w64-x86-64-posix/stable 14.2.0-19+27+b1 arm64
+  GNU C compiler for MinGW-w64, Win64/POSIX
+
+gcc-mingw-w64-x86-64-posix-runtime/stable 14.2.0-19+27+b1 arm64
+  GNU Compiler Collection for MinGW-w64, x86-64/POSIX
+
+gcc-mingw-w64-x86-64-win32/stable 14.2.0-19+27+b1 arm64
+  GNU C compiler for MinGW-w64, Win64/Win32
+
+gcc-mingw-w64-x86-64-win32-runtime/stable 14.2.0-19+27+b1 arm64
+  GNU Compiler Collection for MinGW-w64, x86-64/Win32
+
+gcc-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mips architecture
+
+gcc-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mips64 architecture
+
+gcc-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mips64el architecture
+
+gcc-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mipsel architecture
+
+gcc-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mipsr6 architecture
+
+gcc-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mipsr6el architecture
+
+gcc-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mips64r6 architecture
+
+gcc-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mips64r6el architecture
+
+gcc-multilib-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the i386 architecture
+
+gcc-multilib-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mips architecture
+
+gcc-multilib-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mips64 architecture
+
+gcc-multilib-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mips64el architecture
+
+gcc-multilib-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mipsel architecture
+
+gcc-multilib-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mipsr6 architecture
+
+gcc-multilib-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mipsr6el architecture
+
+gcc-multilib-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mips64r6 architecture
+
+gcc-multilib-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU C compiler for the mips64r6el architecture
+
+gcc-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the powerpc architecture
+
+gcc-multilib-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the s390x architecture
+
+gcc-multilib-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the sparc64 architecture
+
+gcc-multilib-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the amd64 architecture
+
+gcc-multilib-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU C compiler for the x32 architecture
+
+gcc-or1k-elf/stable 14.2.0-19+1.0.10+b1 arm64
+  GNU C compiler for the Open RISC 1000 processors
+
+gcc-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the powerpc architecture
+
+gcc-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the ppc64el architecture
+
+gcc-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the riscv64 architecture
+
+gcc-riscv64-unknown-elf/stable 14.2.0+19 arm64
+  GCC cross compiler for Risc-V processors
+
+gcc-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the s390x architecture
+
+gcc-sh-elf/stable 13.3.0-16+8.2+b3 arm64
+  GNU C compiler for embedded SuperH devices
+
+gcc-sh4-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the sh4 architecture
+
+gcc-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the sparc64 architecture
+
+gcc-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the amd64 architecture
+
+gcc-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU C compiler for the x32 architecture
+
+gcc-xtensa-lx106/stable 13.3.0-16+14+b4 arm64
+  GNU Compiler Collection for Xtensa lx106 core
+
+gccgo/stable 4:14.2.0-1 arm64
+  Go compiler, based on the GCC backend
+
+gccgo-12/stable 12.4.0-5 arm64
+  GNU Go compiler
+
+gccgo-12-arm-linux-gnueabi/stable 12.4.0-5cross1 arm64
+  GNU Go compiler
+
+gccgo-12-arm-linux-gnueabihf/stable 12.4.0-5cross1 arm64
+  GNU Go compiler
+
+gccgo-12-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Go compiler
+
+gccgo-12-multilib-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for i386 architecture)
+
+gccgo-12-multilib-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for s390x architecture)
+
+gccgo-12-multilib-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for amd64 architecture)
+
+gccgo-12-multilib-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for x32 architecture)
+
+gccgo-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Go compiler
+
+gccgo-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Go compiler
+
+gccgo-12-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Go compiler
+
+gccgo-12-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Go compiler
+
+gccgo-12-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU Go compiler
+
+gccgo-13/stable 13.3.0-16 arm64
+  GNU Go compiler
+
+gccgo-13-aarch64-linux-gnu/stable 13.3.0-16 arm64
+  GNU Go compiler for the aarch64-linux-gnu architecture
+
+gccgo-13-alpha-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the alpha-linux-gnu architecture
+
+gccgo-13-arm-linux-gnueabi/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the arm-linux-gnueabi architecture
+
+gccgo-13-arm-linux-gnueabihf/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the arm-linux-gnueabihf architecture
+
+gccgo-13-for-build/stable 13.3.0-16 all
+  GNU Go compiler for the build architecture
+
+gccgo-13-for-host/stable 13.3.0-16 arm64
+  GNU Go compiler for the host architecture
+
+gccgo-13-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the i686-linux-gnu architecture
+
+gccgo-13-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Go compiler for the mips-linux-gnu architecture
+
+gccgo-13-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Go compiler for the mips64-linux-gnuabi64 architecture
+
+gccgo-13-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Go compiler for the mips64el-linux-gnuabi64 architecture
+
+gccgo-13-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Go compiler for the mipsel-linux-gnu architecture
+
+gccgo-13-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Go compiler for the mipsisa32r6-linux-gnu architecture
+
+gccgo-13-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Go compiler for the mipsisa32r6el-linux-gnu architecture
+
+gccgo-13-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Go compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gccgo-13-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Go compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gccgo-13-multilib-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for i386 architecture)
+
+gccgo-13-multilib-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mips architecture)
+
+gccgo-13-multilib-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mips64 architecture)
+
+gccgo-13-multilib-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mips64el architecture)
+
+gccgo-13-multilib-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mipsel architecture)
+
+gccgo-13-multilib-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mipsr6 architecture)
+
+gccgo-13-multilib-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mipsr6el architecture)
+
+gccgo-13-multilib-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mips64r6 architecture)
+
+gccgo-13-multilib-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mips64r6el architecture)
+
+gccgo-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for powerpc architecture)
+
+gccgo-13-multilib-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for s390x architecture)
+
+gccgo-13-multilib-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for sparc64 architecture)
+
+gccgo-13-multilib-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for amd64 architecture)
+
+gccgo-13-multilib-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for x32 architecture)
+
+gccgo-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the powerpc-linux-gnu architecture
+
+gccgo-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the powerpc64le-linux-gnu architecture
+
+gccgo-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the riscv64-linux-gnu architecture
+
+gccgo-13-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the s390x-linux-gnu architecture
+
+gccgo-13-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the sparc64-linux-gnu architecture
+
+gccgo-13-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the x86_64-linux-gnu architecture
+
+gccgo-13-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the x86_64-linux-gnux32 architecture
+
+gccgo-14/stable 14.2.0-19 arm64
+  GNU Go compiler
+
+gccgo-14-aarch64-linux-gnu/stable 14.2.0-19 arm64
+  GNU Go compiler for the aarch64-linux-gnu architecture
+
+gccgo-14-alpha-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the alpha-linux-gnu architecture
+
+gccgo-14-arm-linux-gnueabi/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the arm-linux-gnueabi architecture
+
+gccgo-14-arm-linux-gnueabihf/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the arm-linux-gnueabihf architecture
+
+gccgo-14-for-build/stable 14.2.0-19 all
+  GNU Go compiler for the build architecture
+
+gccgo-14-for-host/stable 14.2.0-19 arm64
+  GNU Go compiler for the host architecture
+
+gccgo-14-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the i686-linux-gnu architecture
+
+gccgo-14-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Go compiler for the mips-linux-gnu architecture
+
+gccgo-14-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Go compiler for the mips64-linux-gnuabi64 architecture
+
+gccgo-14-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Go compiler for the mips64el-linux-gnuabi64 architecture
+
+gccgo-14-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Go compiler for the mipsel-linux-gnu architecture
+
+gccgo-14-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Go compiler for the mipsisa32r6-linux-gnu architecture
+
+gccgo-14-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Go compiler for the mipsisa32r6el-linux-gnu architecture
+
+gccgo-14-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Go compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gccgo-14-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Go compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gccgo-14-multilib-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for i386 architecture)
+
+gccgo-14-multilib-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mips architecture)
+
+gccgo-14-multilib-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mips64 architecture)
+
+gccgo-14-multilib-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mips64el architecture)
+
+gccgo-14-multilib-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mipsel architecture)
+
+gccgo-14-multilib-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mipsr6 architecture)
+
+gccgo-14-multilib-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mipsr6el architecture)
+
+gccgo-14-multilib-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mips64r6 architecture)
+
+gccgo-14-multilib-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for mips64r6el architecture)
+
+gccgo-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for powerpc architecture)
+
+gccgo-14-multilib-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for s390x architecture)
+
+gccgo-14-multilib-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for sparc64 architecture)
+
+gccgo-14-multilib-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for amd64 architecture)
+
+gccgo-14-multilib-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for x32 architecture)
+
+gccgo-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the powerpc-linux-gnu architecture
+
+gccgo-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the powerpc64le-linux-gnu architecture
+
+gccgo-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the riscv64-linux-gnu architecture
+
+gccgo-14-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the s390x-linux-gnu architecture
+
+gccgo-14-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the sparc64-linux-gnu architecture
+
+gccgo-14-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the x86_64-linux-gnu architecture
+
+gccgo-14-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the x86_64-linux-gnux32 architecture
+
+gccgo-aarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the arm64 architecture
+
+gccgo-alpha-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the alpha architecture
+
+gccgo-arm-linux-gnueabi/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the armel architecture
+
+gccgo-arm-linux-gnueabihf/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the armhf architecture
+
+gccgo-for-build/stable 4:14.2.0-1 all
+  Go compiler, based on the GCC backend for the build architecture
+
+gccgo-for-host/stable 4:14.2.0-1 arm64
+  Go compiler, based on the GCC backend for the host architecture
+
+gccgo-go/stable 2:1.24~2 arm64
+  Go programming language -- gccgo
+
+gccgo-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the i386 architecture
+
+gccgo-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mips architecture
+
+gccgo-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mips64 architecture
+
+gccgo-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mips64el architecture
+
+gccgo-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mipsel architecture
+
+gccgo-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mipsr6 architecture
+
+gccgo-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mipsr6el architecture
+
+gccgo-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mips64r6 architecture
+
+gccgo-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mips64r6el architecture
+
+gccgo-multilib-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the i386 architecture
+
+gccgo-multilib-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mips architecture
+
+gccgo-multilib-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mips64 architecture
+
+gccgo-multilib-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mips64el architecture
+
+gccgo-multilib-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mipsel architecture
+
+gccgo-multilib-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mipsr6 architecture
+
+gccgo-multilib-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mipsr6el architecture
+
+gccgo-multilib-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mips64r6 architecture
+
+gccgo-multilib-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the mips64r6el architecture
+
+gccgo-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the powerpc architecture
+
+gccgo-multilib-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the s390x architecture
+
+gccgo-multilib-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the sparc64 architecture
+
+gccgo-multilib-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the amd64 architecture
+
+gccgo-multilib-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the x32 architecture
+
+gccgo-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the powerpc architecture
+
+gccgo-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the ppc64el architecture
+
+gccgo-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the riscv64 architecture
+
+gccgo-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the s390x architecture
+
+gccgo-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the sparc64 architecture
+
+gccgo-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the amd64 architecture
+
+gccgo-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the x32 architecture
+
+gccrs-14/stable 14.2.0-19 arm64
+  GNU Rust compiler
+
+gccrs-14-aarch64-linux-gnu/stable 14.2.0-19 arm64
+  GNU Rust compiler for the aarch64-linux-gnu architecture
+
+gccrs-14-for-build/stable 14.2.0-19 all
+  GNU Rust compiler for the build architecture
+
+gccrs-14-for-host/stable 14.2.0-19 arm64
+  GNU Rust compiler for the host architecture
+
+gdb-mingw-w64/stable 16.3-1+13.2+b2 arm64
+  Cross-debugger for Win32 and Win64 using MinGW-w64
+
+gdb-mingw-w64-target/stable 16.1-1+13.2 all
+  Cross-debugger server for Win32 and Win64 using MinGW-w64
+
+gdc/stable 4:14.2.0-1 arm64
+  D compiler (language version 2), based on the GCC backend
+
+gdc-12/stable 12.4.0-5 arm64
+  GNU D compiler (version 2)
+
+gdc-12-arm-linux-gnueabi/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2) (cross compiler for armel architecture)
+
+gdc-12-arm-linux-gnueabihf/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2) (cross compiler for armhf architecture)
+
+gdc-12-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2) (cross compiler for i386 architecture)
+
+gdc-12-multilib-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for i386 architecture)
+
+gdc-12-multilib-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for s390x architecture)
+
+gdc-12-multilib-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for amd64 architecture)
+
+gdc-12-multilib-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for x32 architecture)
+
+gdc-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2) (cross compiler for ppc64el architecture)
+
+gdc-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2) (cross compiler for riscv64 architecture)
+
+gdc-12-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2) (cross compiler for s390x architecture)
+
+gdc-12-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2) (cross compiler for amd64 architecture)
+
+gdc-12-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2) (cross compiler for x32 architecture)
+
+gdc-13/stable 13.3.0-16 arm64
+  GNU D compiler (version 2)
+
+gdc-13-aarch64-linux-gnu/stable 13.3.0-16 arm64
+  GNU D compiler (version 2) for the aarch64-linux-gnu architecture
+
+gdc-13-arm-linux-gnueabi/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the arm-linux-gnueabi architecture
+
+gdc-13-arm-linux-gnueabihf/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the arm-linux-gnueabihf architecture
+
+gdc-13-for-build/stable 13.3.0-16 all
+  GNU D compiler (version 2) for the build architecture
+
+gdc-13-for-host/stable 13.3.0-16 arm64
+  GNU D compiler (version 2) for the host architecture
+
+gdc-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the hppa-linux-gnu architecture
+
+gdc-13-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the i686-linux-gnu architecture
+
+gdc-13-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2) for the mips-linux-gnu architecture
+
+gdc-13-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2) for the mips64-linux-gnuabi64 architecture
+
+gdc-13-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2) for the mips64el-linux-gnuabi64 architecture
+
+gdc-13-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2) for the mipsel-linux-gnu architecture
+
+gdc-13-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2) for the mipsisa32r6-linux-gnu architecture
+
+gdc-13-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2) for the mipsisa32r6el-linux-gnu architecture
+
+gdc-13-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2) for the mipsisa64r6-linux-gnuabi64 architecture
+
+gdc-13-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2) for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gdc-13-multilib-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for i386 architecture)
+
+gdc-13-multilib-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mips architecture)
+
+gdc-13-multilib-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mips64 architecture)
+
+gdc-13-multilib-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mips64el architecture)
+
+gdc-13-multilib-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mipsel architecture)
+
+gdc-13-multilib-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mipsr6 architecture)
+
+gdc-13-multilib-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mipsr6el architecture)
+
+gdc-13-multilib-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mips64r6 architecture)
+
+gdc-13-multilib-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mips64r6el architecture)
+
+gdc-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for powerpc architecture)
+
+gdc-13-multilib-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for s390x architecture)
+
+gdc-13-multilib-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for amd64 architecture)
+
+gdc-13-multilib-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for x32 architecture)
+
+gdc-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the powerpc-linux-gnu architecture
+
+gdc-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the powerpc64le-linux-gnu architecture
+
+gdc-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the riscv64-linux-gnu architecture
+
+gdc-13-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the s390x-linux-gnu architecture
+
+gdc-13-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the x86_64-linux-gnu architecture
+
+gdc-13-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the x86_64-linux-gnux32 architecture
+
+gdc-14/stable 14.2.0-19 arm64
+  GNU D compiler (version 2)
+
+gdc-14-aarch64-linux-gnu/stable 14.2.0-19 arm64
+  GNU D compiler (version 2) for the aarch64-linux-gnu architecture
+
+gdc-14-arm-linux-gnueabi/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the arm-linux-gnueabi architecture
+
+gdc-14-arm-linux-gnueabihf/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the arm-linux-gnueabihf architecture
+
+gdc-14-for-build/stable 14.2.0-19 all
+  GNU D compiler (version 2) for the build architecture
+
+gdc-14-for-host/stable 14.2.0-19 arm64
+  GNU D compiler (version 2) for the host architecture
+
+gdc-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the hppa-linux-gnu architecture
+
+gdc-14-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the i686-linux-gnu architecture
+
+gdc-14-loongarch64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the loongarch64-linux-gnu architecture
+
+gdc-14-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2) for the mips-linux-gnu architecture
+
+gdc-14-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2) for the mips64-linux-gnuabi64 architecture
+
+gdc-14-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2) for the mips64el-linux-gnuabi64 architecture
+
+gdc-14-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2) for the mipsel-linux-gnu architecture
+
+gdc-14-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2) for the mipsisa32r6-linux-gnu architecture
+
+gdc-14-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2) for the mipsisa32r6el-linux-gnu architecture
+
+gdc-14-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2) for the mipsisa64r6-linux-gnuabi64 architecture
+
+gdc-14-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2) for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gdc-14-multilib-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for i386 architecture)
+
+gdc-14-multilib-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mips architecture)
+
+gdc-14-multilib-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mips64 architecture)
+
+gdc-14-multilib-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mips64el architecture)
+
+gdc-14-multilib-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mipsel architecture)
+
+gdc-14-multilib-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mipsr6 architecture)
+
+gdc-14-multilib-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mipsr6el architecture)
+
+gdc-14-multilib-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mips64r6 architecture)
+
+gdc-14-multilib-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for mips64r6el architecture)
+
+gdc-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for powerpc architecture)
+
+gdc-14-multilib-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for s390x architecture)
+
+gdc-14-multilib-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for amd64 architecture)
+
+gdc-14-multilib-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for x32 architecture)
+
+gdc-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the powerpc-linux-gnu architecture
+
+gdc-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the powerpc64le-linux-gnu architecture
+
+gdc-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the riscv64-linux-gnu architecture
+
+gdc-14-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the s390x-linux-gnu architecture
+
+gdc-14-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the x86_64-linux-gnu architecture
+
+gdc-14-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the x86_64-linux-gnux32 architecture
+
+gdc-aarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the arm64 architecture
+
+gdc-arm-linux-gnueabi/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the armel architecture
+
+gdc-arm-linux-gnueabihf/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the armhf architecture
+
+gdc-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the hppa architecture
+
+gdc-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the i386 architecture
+
+gdc-loongarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the loong64 architecture
+
+gdc-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mips architecture
+
+gdc-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mips64 architecture
+
+gdc-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mips64el architecture
+
+gdc-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mipsel architecture
+
+gdc-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mipsr6 architecture
+
+gdc-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mipsr6el architecture
+
+gdc-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mips64r6 architecture
+
+gdc-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mips64r6el architecture
+
+gdc-multilib-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the i386 architecture
+
+gdc-multilib-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mips architecture
+
+gdc-multilib-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mips64 architecture
+
+gdc-multilib-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mips64el architecture
+
+gdc-multilib-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mipsel architecture
+
+gdc-multilib-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mipsr6 architecture
+
+gdc-multilib-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mipsr6el architecture
+
+gdc-multilib-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mips64r6 architecture
+
+gdc-multilib-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the mips64r6el architecture
+
+gdc-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the powerpc architecture
+
+gdc-multilib-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the s390x architecture
+
+gdc-multilib-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the amd64 architecture
+
+gdc-multilib-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the x32 architecture
+
+gdc-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the powerpc architecture
+
+gdc-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the ppc64el architecture
+
+gdc-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the riscv64 architecture
+
+gdc-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the s390x architecture
+
+gdc-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the amd64 architecture
+
+gdc-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the x32 architecture
+
+gdmd/stable 2.100+git240529-1 all
+  DMD-like wrapper for GDC
+
+gfortran/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler
+
+gfortran-12/stable 12.4.0-5 arm64
+  GNU Fortran compiler
+
+gfortran-12-arm-linux-gnueabi/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler
+
+gfortran-12-arm-linux-gnueabihf/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler
+
+gfortran-12-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler
+
+gfortran-12-multilib-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for i386 architecture)
+
+gfortran-12-multilib-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for s390x architecture)
+
+gfortran-12-multilib-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for amd64 architecture)
+
+gfortran-12-multilib-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for x32 architecture)
+
+gfortran-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler
+
+gfortran-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler
+
+gfortran-12-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler
+
+gfortran-12-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler
+
+gfortran-12-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler
+
+gfortran-13/stable 13.3.0-16 arm64
+  GNU Fortran compiler
+
+gfortran-13-aarch64-linux-gnu/stable 13.3.0-16 arm64
+  GNU Fortran compiler for the aarch64-linux-gnu architecture
+
+gfortran-13-alpha-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the alpha-linux-gnu architecture
+
+gfortran-13-arc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the arc-linux-gnu architecture
+
+gfortran-13-arm-linux-gnueabi/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the arm-linux-gnueabi architecture
+
+gfortran-13-arm-linux-gnueabihf/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the arm-linux-gnueabihf architecture
+
+gfortran-13-for-build/stable 13.3.0-16 all
+  GNU Fortran compiler for the build architecture
+
+gfortran-13-for-host/stable 13.3.0-16 arm64
+  GNU Fortran compiler for the host architecture
+
+gfortran-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the hppa-linux-gnu architecture
+
+gfortran-13-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the i686-linux-gnu architecture
+
+gfortran-13-loongarch64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the loongarch64-linux-gnu architecture
+
+gfortran-13-m68k-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the m68k-linux-gnu architecture
+
+gfortran-13-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler for the mips-linux-gnu architecture
+
+gfortran-13-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler for the mips64-linux-gnuabi64 architecture
+
+gfortran-13-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler for the mips64el-linux-gnuabi64 architecture
+
+gfortran-13-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler for the mipsel-linux-gnu architecture
+
+gfortran-13-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler for the mipsisa32r6-linux-gnu architecture
+
+gfortran-13-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler for the mipsisa32r6el-linux-gnu architecture
+
+gfortran-13-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gfortran-13-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gfortran-13-multilib-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for i386 architecture)
+
+gfortran-13-multilib-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mips architecture)
+
+gfortran-13-multilib-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mips64 architecture)
+
+gfortran-13-multilib-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mips64el architecture)
+
+gfortran-13-multilib-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mipsel architecture)
+
+gfortran-13-multilib-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mipsr6 architecture)
+
+gfortran-13-multilib-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mipsr6el architecture)
+
+gfortran-13-multilib-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mips64r6 architecture)
+
+gfortran-13-multilib-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mips64r6el architecture)
+
+gfortran-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for powerpc architecture)
+
+gfortran-13-multilib-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for s390x architecture)
+
+gfortran-13-multilib-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for sparc64 architecture)
+
+gfortran-13-multilib-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for amd64 architecture)
+
+gfortran-13-multilib-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for x32 architecture)
+
+gfortran-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the powerpc-linux-gnu architecture
+
+gfortran-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the powerpc64le-linux-gnu architecture
+
+gfortran-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the riscv64-linux-gnu architecture
+
+gfortran-13-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the s390x-linux-gnu architecture
+
+gfortran-13-sh4-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the sh4-linux-gnu architecture
+
+gfortran-13-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the sparc64-linux-gnu architecture
+
+gfortran-13-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the x86_64-linux-gnu architecture
+
+gfortran-13-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the x86_64-linux-gnux32 architecture
+
+gfortran-14/stable 14.2.0-19 arm64
+  GNU Fortran compiler
+
+gfortran-14-aarch64-linux-gnu/stable 14.2.0-19 arm64
+  GNU Fortran compiler for the aarch64-linux-gnu architecture
+
+gfortran-14-alpha-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the alpha-linux-gnu architecture
+
+gfortran-14-arc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the arc-linux-gnu architecture
+
+gfortran-14-arm-linux-gnueabi/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the arm-linux-gnueabi architecture
+
+gfortran-14-arm-linux-gnueabihf/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the arm-linux-gnueabihf architecture
+
+gfortran-14-for-build/stable 14.2.0-19 all
+  GNU Fortran compiler for the build architecture
+
+gfortran-14-for-host/stable 14.2.0-19 arm64
+  GNU Fortran compiler for the host architecture
+
+gfortran-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the hppa-linux-gnu architecture
+
+gfortran-14-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the i686-linux-gnu architecture
+
+gfortran-14-loongarch64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the loongarch64-linux-gnu architecture
+
+gfortran-14-m68k-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the m68k-linux-gnu architecture
+
+gfortran-14-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler for the mips-linux-gnu architecture
+
+gfortran-14-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler for the mips64-linux-gnuabi64 architecture
+
+gfortran-14-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler for the mips64el-linux-gnuabi64 architecture
+
+gfortran-14-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler for the mipsel-linux-gnu architecture
+
+gfortran-14-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler for the mipsisa32r6-linux-gnu architecture
+
+gfortran-14-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler for the mipsisa32r6el-linux-gnu architecture
+
+gfortran-14-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gfortran-14-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gfortran-14-multilib-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for i386 architecture)
+
+gfortran-14-multilib-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mips architecture)
+
+gfortran-14-multilib-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mips64 architecture)
+
+gfortran-14-multilib-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mips64el architecture)
+
+gfortran-14-multilib-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mipsel architecture)
+
+gfortran-14-multilib-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mipsr6 architecture)
+
+gfortran-14-multilib-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mipsr6el architecture)
+
+gfortran-14-multilib-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mips64r6 architecture)
+
+gfortran-14-multilib-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for mips64r6el architecture)
+
+gfortran-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for powerpc architecture)
+
+gfortran-14-multilib-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for s390x architecture)
+
+gfortran-14-multilib-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for sparc64 architecture)
+
+gfortran-14-multilib-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for amd64 architecture)
+
+gfortran-14-multilib-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for x32 architecture)
+
+gfortran-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the powerpc-linux-gnu architecture
+
+gfortran-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the powerpc64le-linux-gnu architecture
+
+gfortran-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the riscv64-linux-gnu architecture
+
+gfortran-14-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the s390x-linux-gnu architecture
+
+gfortran-14-sh4-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the sh4-linux-gnu architecture
+
+gfortran-14-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the sparc64-linux-gnu architecture
+
+gfortran-14-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the x86_64-linux-gnu architecture
+
+gfortran-14-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the x86_64-linux-gnux32 architecture
+
+gfortran-aarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the arm64 architecture
+
+gfortran-alpha-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the alpha architecture
+
+gfortran-arc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the arc architecture
+
+gfortran-arm-linux-gnueabi/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the armel architecture
+
+gfortran-arm-linux-gnueabihf/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the armhf architecture
+
+gfortran-for-build/stable 4:14.2.0-1 all
+  GNU Fortran 95 compiler for the build architecture
+
+gfortran-for-host/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the host architecture
+
+gfortran-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the hppa architecture
+
+gfortran-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the i386 architecture
+
+gfortran-loongarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the loong64 architecture
+
+gfortran-m68k-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the m68k architecture
+
+gfortran-mingw-w64/stable 14.2.0-17+27 all
+  GNU Fortran compiler for MinGW-w64
+
+gfortran-mingw-w64-i686/stable 14.2.0-17+27 all
+  GNU Fortran compiler for MinGW-w64 targeting Win32
+
+gfortran-mingw-w64-i686-posix/stable 14.2.0-19+27+b1 arm64
+  GNU Fortran compiler for MinGW-w64, Win32/POSIX
+
+gfortran-mingw-w64-i686-win32/stable 14.2.0-19+27+b1 arm64
+  GNU Fortran compiler for MinGW-w64, Win32/Win32
+
+gfortran-mingw-w64-ucrt64/stable 14.2.0-19+27+b1 arm64
+  GNU Fortran compiler for MinGW-w64 targeting UCRT Win64
+
+gfortran-mingw-w64-x86-64/stable 14.2.0-17+27 all
+  GNU Fortran compiler for MinGW-w64 targeting Win64
+
+gfortran-mingw-w64-x86-64-posix/stable 14.2.0-19+27+b1 arm64
+  GNU Fortran compiler for MinGW-w64, Win64/POSIX
+
+gfortran-mingw-w64-x86-64-win32/stable 14.2.0-19+27+b1 arm64
+  GNU Fortran compiler for MinGW-w64, Win64/Win32
+
+gfortran-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mips architecture
+
+gfortran-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mips64 architecture
+
+gfortran-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mips64el architecture
+
+gfortran-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mipsel architecture
+
+gfortran-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mipsr6 architecture
+
+gfortran-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mipsr6el architecture
+
+gfortran-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mips64r6 architecture
+
+gfortran-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mips64r6el architecture
+
+gfortran-multilib-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the i386 architecture
+
+gfortran-multilib-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mips architecture
+
+gfortran-multilib-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mips64 architecture
+
+gfortran-multilib-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mips64el architecture
+
+gfortran-multilib-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mipsel architecture
+
+gfortran-multilib-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mipsr6 architecture
+
+gfortran-multilib-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mipsr6el architecture
+
+gfortran-multilib-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mips64r6 architecture
+
+gfortran-multilib-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the mips64r6el architecture
+
+gfortran-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the powerpc architecture
+
+gfortran-multilib-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the s390x architecture
+
+gfortran-multilib-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the sparc64 architecture
+
+gfortran-multilib-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the amd64 architecture
+
+gfortran-multilib-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the x32 architecture
+
+gfortran-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the powerpc architecture
+
+gfortran-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the ppc64el architecture
+
+gfortran-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the riscv64 architecture
+
+gfortran-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the s390x architecture
+
+gfortran-sh4-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the sh4 architecture
+
+gfortran-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the sparc64 architecture
+
+gfortran-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the amd64 architecture
+
+gfortran-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the x32 architecture
+
+ghdl/stable 5.0.1+dfsg-1+b1 arm64
+  VHDL compiler/simulator
+
+ghdl-gcc/stable 5.0.1+dfsg-1+b1 arm64
+  VHDL compiler/simulator (GCC backend)
+
+glslc/stable 2025.2-1 arm64
+  Command line compiler for GLSL/HLSL to SPIR-V
+
+gm2/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler, based on the GCC backend
+
+gm2-12/stable 12.4.0-5 arm64
+  GNU Modula-2 compiler
+
+gm2-12-arm-linux-gnueabi/stable 12.4.0-5cross1 arm64
+  GNU Modula-2 compiler (cross compiler for armel architecture)
+
+gm2-12-arm-linux-gnueabihf/stable 12.4.0-5cross1 arm64
+  GNU Modula-2 compiler (cross compiler for armhf architecture)
+
+gm2-12-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Modula-2 compiler (cross compiler for i386 architecture)
+
+gm2-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Modula-2 compiler (cross compiler for ppc64el architecture)
+
+gm2-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Modula-2 compiler (cross compiler for riscv64 architecture)
+
+gm2-12-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Modula-2 compiler (cross compiler for s390x architecture)
+
+gm2-12-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Modula-2 compiler (cross compiler for amd64 architecture)
+
+gm2-12-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU Modula-2 compiler (cross compiler for x32 architecture)
+
+gm2-13/stable 13.3.0-16 arm64
+  GNU D compiler (version 2)
+
+gm2-13-aarch64-linux-gnu/stable 13.3.0-16 arm64
+  GNU Modula-2 compiler for the aarch64-linux-gnu architecture
+
+gm2-13-alpha-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the alpha-linux-gnu architecture
+
+gm2-13-arc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the arc-linux-gnu architecture
+
+gm2-13-arm-linux-gnueabi/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the arm-linux-gnueabi architecture
+
+gm2-13-arm-linux-gnueabihf/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the arm-linux-gnueabihf architecture
+
+gm2-13-for-build/stable 13.3.0-16 all
+  GNU Modula-2 compiler for the build architecture
+
+gm2-13-for-host/stable 13.3.0-16 arm64
+  GNU Modula-2 compiler for the host architecture
+
+gm2-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the hppa-linux-gnu architecture
+
+gm2-13-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the i686-linux-gnu architecture
+
+gm2-13-m68k-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the m68k-linux-gnu architecture
+
+gm2-13-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Modula-2 compiler for the mips-linux-gnu architecture
+
+gm2-13-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Modula-2 compiler for the mips64-linux-gnuabi64 architecture
+
+gm2-13-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Modula-2 compiler for the mips64el-linux-gnuabi64 architecture
+
+gm2-13-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Modula-2 compiler for the mipsel-linux-gnu architecture
+
+gm2-13-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Modula-2 compiler for the mipsisa32r6-linux-gnu architecture
+
+gm2-13-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Modula-2 compiler for the mipsisa32r6el-linux-gnu architecture
+
+gm2-13-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Modula-2 compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gm2-13-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Modula-2 compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gm2-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the powerpc64le-linux-gnu architecture
+
+gm2-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the riscv64-linux-gnu architecture
+
+gm2-13-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the s390x-linux-gnu architecture
+
+gm2-13-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the sparc64-linux-gnu architecture
+
+gm2-13-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the x86_64-linux-gnu architecture
+
+gm2-13-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the x86_64-linux-gnux32 architecture
+
+gm2-14/stable 14.2.0-19 arm64
+  GNU Modula-2 compiler (version 2)
+
+gm2-14-aarch64-linux-gnu/stable 14.2.0-19 arm64
+  GNU Modula-2 compiler for the aarch64-linux-gnu architecture
+
+gm2-14-alpha-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the alpha-linux-gnu architecture
+
+gm2-14-arc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the arc-linux-gnu architecture
+
+gm2-14-arm-linux-gnueabi/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the arm-linux-gnueabi architecture
+
+gm2-14-arm-linux-gnueabihf/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the arm-linux-gnueabihf architecture
+
+gm2-14-for-build/stable 14.2.0-19 all
+  GNU Modula-2 compiler for the build architecture
+
+gm2-14-for-host/stable 14.2.0-19 arm64
+  GNU Modula-2 compiler for the host architecture
+
+gm2-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the hppa-linux-gnu architecture
+
+gm2-14-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the i686-linux-gnu architecture
+
+gm2-14-loongarch64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the loongarch64-linux-gnu architecture
+
+gm2-14-m68k-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the m68k-linux-gnu architecture
+
+gm2-14-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Modula-2 compiler for the mips-linux-gnu architecture
+
+gm2-14-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Modula-2 compiler for the mips64-linux-gnuabi64 architecture
+
+gm2-14-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Modula-2 compiler for the mips64el-linux-gnuabi64 architecture
+
+gm2-14-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Modula-2 compiler for the mipsel-linux-gnu architecture
+
+gm2-14-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Modula-2 compiler for the mipsisa32r6-linux-gnu architecture
+
+gm2-14-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Modula-2 compiler for the mipsisa32r6el-linux-gnu architecture
+
+gm2-14-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Modula-2 compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gm2-14-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Modula-2 compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gm2-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the powerpc64le-linux-gnu architecture
+
+gm2-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the riscv64-linux-gnu architecture
+
+gm2-14-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the s390x-linux-gnu architecture
+
+gm2-14-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the sparc64-linux-gnu architecture
+
+gm2-14-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the x86_64-linux-gnu architecture
+
+gm2-14-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the x86_64-linux-gnux32 architecture
+
+gm2-aarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the arm64 architecture
+
+gm2-alpha-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the alpha architecture
+
+gm2-arc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the arc architecture
+
+gm2-arm-linux-gnueabi/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the armel architecture
+
+gm2-arm-linux-gnueabihf/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the armhf architecture
+
+gm2-for-build/stable 4:14.2.0-1 all
+  GNU Modula-2 compiler for the build architecture, based on the GCC backend
+
+gm2-for-host/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler for the host architecture, based on the GCC backend
+
+gm2-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the hppa architecture
+
+gm2-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the i386 architecture
+
+gm2-loongarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the loong64 architecture
+
+gm2-m68k-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the m68k architecture
+
+gm2-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the mips architecture
+
+gm2-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the mips64 architecture
+
+gm2-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the mips64el architecture
+
+gm2-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the mipsel architecture
+
+gm2-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the mipsr6 architecture
+
+gm2-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the mipsr6el architecture
+
+gm2-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the mips64r6 architecture
+
+gm2-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the mips64r6el architecture
+
+gm2-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the ppc64el architecture
+
+gm2-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the riscv64 architecture
+
+gm2-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the s390x architecture
+
+gm2-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the sparc64 architecture
+
+gm2-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the amd64 architecture
+
+gm2-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the x32 architecture
+
+gnat-12/stable 12.4.0-5 arm64
+  GNU Ada compiler
+
+gnat-12-arm-linux-gnueabi/stable 12.4.0-5cross1 arm64
+  GNU Ada compiler
+
+gnat-12-arm-linux-gnueabihf/stable 12.4.0-5cross1 arm64
+  GNU Ada compiler
+
+gnat-12-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Ada compiler
+
+gnat-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Ada compiler
+
+gnat-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Ada compiler
+
+gnat-12-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Ada compiler
+
+gnat-12-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Ada compiler
+
+gnat-12-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU Ada compiler
+
+gnat-13/stable 13.3.0-16 arm64
+  GNU Ada compiler
+
+gnat-13-aarch64-linux-gnu/stable 13.3.0-16 arm64
+  GNU Ada compiler for the aarch64-linux-gnu architecture
+
+gnat-13-alpha-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the alpha-linux-gnu architecture
+
+gnat-13-arm-linux-gnueabi/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the arm-linux-gnueabi architecture
+
+gnat-13-arm-linux-gnueabihf/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the arm-linux-gnueabihf architecture
+
+gnat-13-for-build/stable 13.3.0-16 all
+  GNU Ada compiler for the build architecture
+
+gnat-13-for-host/stable 13.3.0-16 arm64
+  GNU Ada compiler for the host architecture
+
+gnat-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the hppa-linux-gnu architecture
+
+gnat-13-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the i686-linux-gnu architecture
+
+gnat-13-m68k-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the m68k-linux-gnu architecture
+
+gnat-13-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Ada compiler for the mips-linux-gnu architecture
+
+gnat-13-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Ada compiler for the mips64-linux-gnuabi64 architecture
+
+gnat-13-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Ada compiler for the mips64el-linux-gnuabi64 architecture
+
+gnat-13-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Ada compiler for the mipsel-linux-gnu architecture
+
+gnat-13-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Ada compiler for the mipsisa32r6-linux-gnu architecture
+
+gnat-13-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Ada compiler for the mipsisa32r6el-linux-gnu architecture
+
+gnat-13-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Ada compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gnat-13-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Ada compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gnat-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the powerpc-linux-gnu architecture
+
+gnat-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the powerpc64le-linux-gnu architecture
+
+gnat-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the riscv64-linux-gnu architecture
+
+gnat-13-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the s390x-linux-gnu architecture
+
+gnat-13-sh4-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the sh4-linux-gnu architecture
+
+gnat-13-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the sparc64-linux-gnu architecture
+
+gnat-13-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the x86_64-linux-gnu architecture
+
+gnat-13-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the x86_64-linux-gnux32 architecture
+
+gnat-14/stable 14.2.0-19 arm64
+  GNU Ada compiler
+
+gnat-14-aarch64-linux-gnu/stable 14.2.0-19 arm64
+  GNU Ada compiler for the aarch64-linux-gnu architecture
+
+gnat-14-alpha-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the alpha-linux-gnu architecture
+
+gnat-14-arm-linux-gnueabi/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the arm-linux-gnueabi architecture
+
+gnat-14-arm-linux-gnueabihf/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the arm-linux-gnueabihf architecture
+
+gnat-14-for-build/stable 14.2.0-19 all
+  GNU Ada compiler for the build architecture
+
+gnat-14-for-host/stable 14.2.0-19 arm64
+  GNU Ada compiler for the host architecture
+
+gnat-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the hppa-linux-gnu architecture
+
+gnat-14-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the i686-linux-gnu architecture
+
+gnat-14-loongarch64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the loongarch64-linux-gnu architecture
+
+gnat-14-m68k-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the m68k-linux-gnu architecture
+
+gnat-14-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Ada compiler for the mips-linux-gnu architecture
+
+gnat-14-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Ada compiler for the mips64-linux-gnuabi64 architecture
+
+gnat-14-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Ada compiler for the mips64el-linux-gnuabi64 architecture
+
+gnat-14-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Ada compiler for the mipsel-linux-gnu architecture
+
+gnat-14-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Ada compiler for the mipsisa32r6-linux-gnu architecture
+
+gnat-14-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Ada compiler for the mipsisa32r6el-linux-gnu architecture
+
+gnat-14-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Ada compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gnat-14-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Ada compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gnat-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the powerpc-linux-gnu architecture
+
+gnat-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the powerpc64le-linux-gnu architecture
+
+gnat-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the riscv64-linux-gnu architecture
+
+gnat-14-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the s390x-linux-gnu architecture
+
+gnat-14-sh4-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the sh4-linux-gnu architecture
+
+gnat-14-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the sparc64-linux-gnu architecture
+
+gnat-14-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the x86_64-linux-gnu architecture
+
+gnat-14-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the x86_64-linux-gnux32 architecture
+
+gnat-mingw-w64/stable 14.2.0-17+27 all
+  GNU Ada compiler for MinGW-w64
+
+gnat-mingw-w64-i686/stable 14.2.0-17+27 all
+  GNU Ada compiler for MinGW-w64 targeting Win32
+
+gnat-mingw-w64-i686-posix/stable 14.2.0-19+27+b1 arm64
+  GNU Ada compiler for MinGW-w64, Win32/POSIX
+
+gnat-mingw-w64-i686-win32/stable 14.2.0-19+27+b1 arm64
+  GNU Ada compiler for MinGW-w64, Win32/Win32
+
+gnat-mingw-w64-ucrt64/stable 14.2.0-19+27+b1 arm64
+  GNU Ada compiler for MinGW-w64 targeting UCRT Win64
+
+gnat-mingw-w64-x86-64/stable 14.2.0-17+27 all
+  GNU Ada compiler for MinGW-w64 targeting Win64
+
+gnat-mingw-w64-x86-64-posix/stable 14.2.0-19+27+b1 arm64
+  GNU Ada compiler for MinGW-w64, Win64/POSIX
+
+gnat-mingw-w64-x86-64-win32/stable 14.2.0-19+27+b1 arm64
+  GNU Ada compiler for MinGW-w64, Win64/Win32
+
+gobjc/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler
+
+gobjc++/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-12/stable 12.4.0-5 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-12-arm-linux-gnueabi/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-12-arm-linux-gnueabihf/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-12-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-12-multilib-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-12-multilib-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-12-multilib-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-12-multilib-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-12-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-12-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-12-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-13/stable 13.3.0-16 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-13-aarch64-linux-gnu/stable 13.3.0-16 arm64
+  GNU Objective-C++ compiler for the aarch64-linux-gnu architecture
+
+gobjc++-13-alpha-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the alpha-linux-gnu architecture
+
+gobjc++-13-arc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the arc-linux-gnu architecture
+
+gobjc++-13-arm-linux-gnueabi/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the arm-linux-gnueabi architecture
+
+gobjc++-13-arm-linux-gnueabihf/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the arm-linux-gnueabihf architecture
+
+gobjc++-13-for-build/stable 13.3.0-16 all
+  GNU Objective-C++ compiler for the build architecture
+
+gobjc++-13-for-host/stable 13.3.0-16 arm64
+  GNU Objective-C++ compiler for the host architecture
+
+gobjc++-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the hppa-linux-gnu architecture
+
+gobjc++-13-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the i686-linux-gnu architecture
+
+gobjc++-13-loongarch64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the loongarch64-linux-gnu architecture
+
+gobjc++-13-m68k-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the m68k-linux-gnu architecture
+
+gobjc++-13-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler for the mips-linux-gnu architecture
+
+gobjc++-13-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler for the mips64-linux-gnuabi64 architecture
+
+gobjc++-13-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler for the mips64el-linux-gnuabi64 architecture
+
+gobjc++-13-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler for the mipsel-linux-gnu architecture
+
+gobjc++-13-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler for the mipsisa32r6-linux-gnu architecture
+
+gobjc++-13-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler for the mipsisa32r6el-linux-gnu architecture
+
+gobjc++-13-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gobjc++-13-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gobjc++-13-multilib-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-multilib-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the powerpc-linux-gnu architecture
+
+gobjc++-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the powerpc64le-linux-gnu architecture
+
+gobjc++-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the riscv64-linux-gnu architecture
+
+gobjc++-13-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the s390x-linux-gnu architecture
+
+gobjc++-13-sh4-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the sh4-linux-gnu architecture
+
+gobjc++-13-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the sparc64-linux-gnu architecture
+
+gobjc++-13-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the x86_64-linux-gnu architecture
+
+gobjc++-13-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the x86_64-linux-gnux32 architecture
+
+gobjc++-14/stable 14.2.0-19 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-14-aarch64-linux-gnu/stable 14.2.0-19 arm64
+  GNU Objective-C++ compiler for the aarch64-linux-gnu architecture
+
+gobjc++-14-alpha-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the alpha-linux-gnu architecture
+
+gobjc++-14-arc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the arc-linux-gnu architecture
+
+gobjc++-14-arm-linux-gnueabi/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the arm-linux-gnueabi architecture
+
+gobjc++-14-arm-linux-gnueabihf/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the arm-linux-gnueabihf architecture
+
+gobjc++-14-for-build/stable 14.2.0-19 all
+  GNU Objective-C++ compiler for the build architecture
+
+gobjc++-14-for-host/stable 14.2.0-19 arm64
+  GNU Objective-C++ compiler for the host architecture
+
+gobjc++-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the hppa-linux-gnu architecture
+
+gobjc++-14-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the i686-linux-gnu architecture
+
+gobjc++-14-loongarch64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the loongarch64-linux-gnu architecture
+
+gobjc++-14-m68k-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the m68k-linux-gnu architecture
+
+gobjc++-14-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler for the mips-linux-gnu architecture
+
+gobjc++-14-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler for the mips64-linux-gnuabi64 architecture
+
+gobjc++-14-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler for the mips64el-linux-gnuabi64 architecture
+
+gobjc++-14-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler for the mipsel-linux-gnu architecture
+
+gobjc++-14-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler for the mipsisa32r6-linux-gnu architecture
+
+gobjc++-14-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler for the mipsisa32r6el-linux-gnu architecture
+
+gobjc++-14-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gobjc++-14-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gobjc++-14-multilib-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-multilib-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the powerpc-linux-gnu architecture
+
+gobjc++-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the powerpc64le-linux-gnu architecture
+
+gobjc++-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the riscv64-linux-gnu architecture
+
+gobjc++-14-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the s390x-linux-gnu architecture
+
+gobjc++-14-sh4-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the sh4-linux-gnu architecture
+
+gobjc++-14-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the sparc64-linux-gnu architecture
+
+gobjc++-14-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the x86_64-linux-gnu architecture
+
+gobjc++-14-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the x86_64-linux-gnux32 architecture
+
+gobjc++-aarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the arm64 architecture
+
+gobjc++-alpha-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the alpha architecture
+
+gobjc++-arc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the arc architecture
+
+gobjc++-arm-linux-gnueabi/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the armel architecture
+
+gobjc++-arm-linux-gnueabihf/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the armhf architecture
+
+gobjc++-for-build/stable 4:14.2.0-1 all
+  GNU Objective-C++ compiler for the build architecture
+
+gobjc++-for-host/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the host architecture
+
+gobjc++-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the hppa architecture
+
+gobjc++-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the i386 architecture
+
+gobjc++-loongarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the loong64 architecture
+
+gobjc++-m68k-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the m68k architecture
+
+gobjc++-mingw-w64/stable 14.2.0-17+27 all
+  GNU Objective-C++ compiler for MinGW-w64
+
+gobjc++-mingw-w64-i686/stable 14.2.0-17+27 all
+  GNU Objective-C++ compiler for MinGW-w64 targeting Win32
+
+gobjc++-mingw-w64-i686-posix/stable 14.2.0-19+27+b1 arm64
+  GNU Objective-C++ compiler for MinGW-w64, Win32/POSIX
+
+gobjc++-mingw-w64-i686-win32/stable 14.2.0-19+27+b1 arm64
+  GNU Objective-C++ compiler for MinGW-w64, Win32/Win32
+
+gobjc++-mingw-w64-ucrt64/stable 14.2.0-19+27+b1 arm64
+  GNU Objective-C++ compiler for MinGW-w64 targeting UCRT Win64
+
+gobjc++-mingw-w64-x86-64/stable 14.2.0-17+27 all
+  GNU Objective-C++ compiler for MinGW-w64 targeting Win64
+
+gobjc++-mingw-w64-x86-64-posix/stable 14.2.0-19+27+b1 arm64
+  GNU Objective-C++ compiler for MinGW-w64, Win64/POSIX
+
+gobjc++-mingw-w64-x86-64-win32/stable 14.2.0-19+27+b1 arm64
+  GNU Objective-C++ compiler for MinGW-w64, Win64/Win32
+
+gobjc++-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mips architecture
+
+gobjc++-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mips64 architecture
+
+gobjc++-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mips64el architecture
+
+gobjc++-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mipsel architecture
+
+gobjc++-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mipsr6 architecture
+
+gobjc++-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mipsr6el architecture
+
+gobjc++-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mips64r6 architecture
+
+gobjc++-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mips64r6el architecture
+
+gobjc++-multilib-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the i386 architecture
+
+gobjc++-multilib-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mips architecture
+
+gobjc++-multilib-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mips64 architecture
+
+gobjc++-multilib-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mips64el architecture
+
+gobjc++-multilib-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mipsel architecture
+
+gobjc++-multilib-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mipsr6 architecture
+
+gobjc++-multilib-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mipsr6el architecture
+
+gobjc++-multilib-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mips64r6 architecture
+
+gobjc++-multilib-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the mips64r6el architecture
+
+gobjc++-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the powerpc architecture
+
+gobjc++-multilib-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the s390x architecture
+
+gobjc++-multilib-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the sparc64 architecture
+
+gobjc++-multilib-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the amd64 architecture
+
+gobjc++-multilib-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the x32 architecture
+
+gobjc++-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the powerpc architecture
+
+gobjc++-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the ppc64el architecture
+
+gobjc++-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the riscv64 architecture
+
+gobjc++-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the s390x architecture
+
+gobjc++-sh4-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the sh4 architecture
+
+gobjc++-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the sparc64 architecture
+
+gobjc++-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the amd64 architecture
+
+gobjc++-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the x32 architecture
+
+gobjc-12/stable 12.4.0-5 arm64
+  GNU Objective-C compiler
+
+gobjc-12-arm-linux-gnueabi/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler
+
+gobjc-12-arm-linux-gnueabihf/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler
+
+gobjc-12-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler
+
+gobjc-12-multilib-i686-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for i386 architecture)
+
+gobjc-12-multilib-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for s390x architecture)
+
+gobjc-12-multilib-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for amd64 architecture)
+
+gobjc-12-multilib-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for x32 architecture)
+
+gobjc-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler
+
+gobjc-12-riscv64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler
+
+gobjc-12-s390x-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler
+
+gobjc-12-x86-64-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler
+
+gobjc-12-x86-64-linux-gnux32/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler
+
+gobjc-13/stable 13.3.0-16 arm64
+  GNU Objective-C compiler
+
+gobjc-13-aarch64-linux-gnu/stable 13.3.0-16 arm64
+  GNU Objective-C compiler for the aarch64-linux-gnu architecture
+
+gobjc-13-alpha-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the alpha-linux-gnu architecture
+
+gobjc-13-arc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the arc-linux-gnu architecture
+
+gobjc-13-arm-linux-gnueabi/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the arm-linux-gnueabi architecture
+
+gobjc-13-arm-linux-gnueabihf/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the arm-linux-gnueabihf architecture
+
+gobjc-13-for-build/stable 13.3.0-16 all
+  GNU Objective-C compiler for the build architecture
+
+gobjc-13-for-host/stable 13.3.0-16 arm64
+  GNU Objective-C compiler for the host architecture
+
+gobjc-13-hppa-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the hppa-linux-gnu architecture
+
+gobjc-13-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the i686-linux-gnu architecture
+
+gobjc-13-loongarch64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the loongarch64-linux-gnu architecture
+
+gobjc-13-m68k-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the m68k-linux-gnu architecture
+
+gobjc-13-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler for the mips-linux-gnu architecture
+
+gobjc-13-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler for the mips64-linux-gnuabi64 architecture
+
+gobjc-13-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler for the mips64el-linux-gnuabi64 architecture
+
+gobjc-13-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler for the mipsel-linux-gnu architecture
+
+gobjc-13-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler for the mipsisa32r6-linux-gnu architecture
+
+gobjc-13-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler for the mipsisa32r6el-linux-gnu architecture
+
+gobjc-13-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gobjc-13-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gobjc-13-multilib-i686-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for i386 architecture)
+
+gobjc-13-multilib-mips-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mips architecture)
+
+gobjc-13-multilib-mips64-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mips64 architecture)
+
+gobjc-13-multilib-mips64el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mips64el architecture)
+
+gobjc-13-multilib-mipsel-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mipsel architecture)
+
+gobjc-13-multilib-mipsisa32r6-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mipsr6 architecture)
+
+gobjc-13-multilib-mipsisa32r6el-linux-gnu/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mipsr6el architecture)
+
+gobjc-13-multilib-mipsisa64r6-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mips64r6 architecture)
+
+gobjc-13-multilib-mipsisa64r6el-linux-gnuabi64/stable 13.3.0-12cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mips64r6el architecture)
+
+gobjc-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for powerpc architecture)
+
+gobjc-13-multilib-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for s390x architecture)
+
+gobjc-13-multilib-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for sparc64 architecture)
+
+gobjc-13-multilib-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for amd64 architecture)
+
+gobjc-13-multilib-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for x32 architecture)
+
+gobjc-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the powerpc-linux-gnu architecture
+
+gobjc-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the powerpc64le-linux-gnu architecture
+
+gobjc-13-riscv64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the riscv64-linux-gnu architecture
+
+gobjc-13-s390x-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the s390x-linux-gnu architecture
+
+gobjc-13-sh4-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the sh4-linux-gnu architecture
+
+gobjc-13-sparc64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the sparc64-linux-gnu architecture
+
+gobjc-13-x86-64-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the x86_64-linux-gnu architecture
+
+gobjc-13-x86-64-linux-gnux32/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the x86_64-linux-gnux32 architecture
+
+gobjc-14/stable 14.2.0-19 arm64
+  GNU Objective-C compiler
+
+gobjc-14-aarch64-linux-gnu/stable 14.2.0-19 arm64
+  GNU Objective-C compiler for the aarch64-linux-gnu architecture
+
+gobjc-14-alpha-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the alpha-linux-gnu architecture
+
+gobjc-14-arc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the arc-linux-gnu architecture
+
+gobjc-14-arm-linux-gnueabi/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the arm-linux-gnueabi architecture
+
+gobjc-14-arm-linux-gnueabihf/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the arm-linux-gnueabihf architecture
+
+gobjc-14-for-build/stable 14.2.0-19 all
+  GNU Objective-C compiler for the build architecture
+
+gobjc-14-for-host/stable 14.2.0-19 arm64
+  GNU Objective-C compiler for the host architecture
+
+gobjc-14-hppa-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the hppa-linux-gnu architecture
+
+gobjc-14-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the i686-linux-gnu architecture
+
+gobjc-14-loongarch64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the loongarch64-linux-gnu architecture
+
+gobjc-14-m68k-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the m68k-linux-gnu architecture
+
+gobjc-14-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler for the mips-linux-gnu architecture
+
+gobjc-14-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler for the mips64-linux-gnuabi64 architecture
+
+gobjc-14-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler for the mips64el-linux-gnuabi64 architecture
+
+gobjc-14-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler for the mipsel-linux-gnu architecture
+
+gobjc-14-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler for the mipsisa32r6-linux-gnu architecture
+
+gobjc-14-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler for the mipsisa32r6el-linux-gnu architecture
+
+gobjc-14-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler for the mipsisa64r6-linux-gnuabi64 architecture
+
+gobjc-14-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler for the mipsisa64r6el-linux-gnuabi64 architecture
+
+gobjc-14-multilib-i686-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for i386 architecture)
+
+gobjc-14-multilib-mips-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mips architecture)
+
+gobjc-14-multilib-mips64-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mips64 architecture)
+
+gobjc-14-multilib-mips64el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mips64el architecture)
+
+gobjc-14-multilib-mipsel-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mipsel architecture)
+
+gobjc-14-multilib-mipsisa32r6-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mipsr6 architecture)
+
+gobjc-14-multilib-mipsisa32r6el-linux-gnu/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mipsr6el architecture)
+
+gobjc-14-multilib-mipsisa64r6-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mips64r6 architecture)
+
+gobjc-14-multilib-mipsisa64r6el-linux-gnuabi64/stable 14.2.0-13cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for mips64r6el architecture)
+
+gobjc-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for powerpc architecture)
+
+gobjc-14-multilib-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for s390x architecture)
+
+gobjc-14-multilib-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for sparc64 architecture)
+
+gobjc-14-multilib-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for amd64 architecture)
+
+gobjc-14-multilib-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for x32 architecture)
+
+gobjc-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the powerpc-linux-gnu architecture
+
+gobjc-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the powerpc64le-linux-gnu architecture
+
+gobjc-14-riscv64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the riscv64-linux-gnu architecture
+
+gobjc-14-s390x-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the s390x-linux-gnu architecture
+
+gobjc-14-sh4-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the sh4-linux-gnu architecture
+
+gobjc-14-sparc64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the sparc64-linux-gnu architecture
+
+gobjc-14-x86-64-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the x86_64-linux-gnu architecture
+
+gobjc-14-x86-64-linux-gnux32/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the x86_64-linux-gnux32 architecture
+
+gobjc-aarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the arm64 architecture
+
+gobjc-alpha-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the alpha architecture
+
+gobjc-arc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the arc architecture
+
+gobjc-arm-linux-gnueabi/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the armel architecture
+
+gobjc-arm-linux-gnueabihf/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the armhf architecture
+
+gobjc-for-build/stable 4:14.2.0-1 all
+  GNU Objective-C compiler for the build architecture
+
+gobjc-for-host/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the host architecture
+
+gobjc-hppa-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the hppa architecture
+
+gobjc-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the i386 architecture
+
+gobjc-loongarch64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the loong64 architecture
+
+gobjc-m68k-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the m68k architecture
+
+gobjc-mingw-w64/stable 14.2.0-17+27 all
+  GNU Objective-C compiler for MinGW-w64
+
+gobjc-mingw-w64-i686/stable 14.2.0-17+27 all
+  GNU Objective-C compiler for MinGW-w64 targeting Win32
+
+gobjc-mingw-w64-i686-posix/stable 14.2.0-19+27+b1 arm64
+  GNU Objective-C compiler for MinGW-w64, Win32/POSIX
+
+gobjc-mingw-w64-i686-win32/stable 14.2.0-19+27+b1 arm64
+  GNU Objective-C compiler for MinGW-w64, Win32/Win32
+
+gobjc-mingw-w64-ucrt64/stable 14.2.0-19+27+b1 arm64
+  GNU Objective-C compiler for MinGW-w64 targeting UCRT Win64
+
+gobjc-mingw-w64-x86-64/stable 14.2.0-17+27 all
+  GNU Objective-C compiler for MinGW-w64 targeting Win64
+
+gobjc-mingw-w64-x86-64-posix/stable 14.2.0-19+27+b1 arm64
+  GNU Objective-C compiler for MinGW-w64, Win64/POSIX
+
+gobjc-mingw-w64-x86-64-win32/stable 14.2.0-19+27+b1 arm64
+  GNU Objective-C compiler for MinGW-w64, Win64/Win32
+
+gobjc-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mips architecture
+
+gobjc-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mips64 architecture
+
+gobjc-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mips64el architecture
+
+gobjc-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mipsel architecture
+
+gobjc-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mipsr6 architecture
+
+gobjc-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mipsr6el architecture
+
+gobjc-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mips64r6 architecture
+
+gobjc-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mips64r6el architecture
+
+gobjc-multilib-i686-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the i386 architecture
+
+gobjc-multilib-mips-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mips architecture
+
+gobjc-multilib-mips64-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mips64 architecture
+
+gobjc-multilib-mips64el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mips64el architecture
+
+gobjc-multilib-mipsel-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mipsel architecture
+
+gobjc-multilib-mipsisa32r6-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mipsr6 architecture
+
+gobjc-multilib-mipsisa32r6el-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mipsr6el architecture
+
+gobjc-multilib-mipsisa64r6-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mips64r6 architecture
+
+gobjc-multilib-mipsisa64r6el-linux-gnuabi64/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the mips64r6el architecture
+
+gobjc-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the powerpc architecture
+
+gobjc-multilib-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the s390x architecture
+
+gobjc-multilib-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the sparc64 architecture
+
+gobjc-multilib-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the amd64 architecture
+
+gobjc-multilib-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the x32 architecture
+
+gobjc-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the powerpc architecture
+
+gobjc-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the ppc64el architecture
+
+gobjc-riscv64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the riscv64 architecture
+
+gobjc-s390x-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the s390x architecture
+
+gobjc-sh4-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the sh4 architecture
+
+gobjc-sparc64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the sparc64 architecture
+
+gobjc-x86-64-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the amd64 architecture
+
+gobjc-x86-64-linux-gnux32/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the x32 architecture
+
+golang-any/stable 2:1.24~2 arm64
+  Go programming language -- gccgo on "non-Go" platforms
+
+golang-github-cockroachdb-apd-dev/stable 3.2.1-1 all
+  arbitrary-precision decimals for Go
+
+golang-go/stable 2:1.24~2 arm64
+  Go programming language compiler, linker, compiled stdlib
+
+hackrf-firmware/stable 2024.02.1-3 all
+  Firmware for HackRF devices
+
+htslib-test/stable 1.21+ds-1 all
+  Test data for HTSlib
+
+inotify-hookable/stable 0.09-2 all
+  blocking command-line interface to inotify
+
+lib32atomic1-amd64-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions (32bit)
+
+lib32atomic1-mips64-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (32bit)
+
+lib32atomic1-mips64el-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (32bit)
+
+lib32atomic1-mips64r6-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (32bit)
+
+lib32atomic1-mips64r6el-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (32bit)
+
+lib32atomic1-ppc64-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions (32bit)
+
+lib32atomic1-s390x-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions (32bit)
+
+lib32atomic1-sparc64-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions (32bit)
+
+lib32atomic1-x32-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions (32bit)
+
+lib32gcc-12-dev-amd64-cross/stable 12.4.0-5cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-12-dev-ppc64-cross/stable 12.4.0-5cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-12-dev-s390x-cross/stable 12.4.0-5cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-12-dev-sparc64-cross/stable 12.4.0-5cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-12-dev-x32-cross/stable 12.4.0-5cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-13-dev-amd64-cross/stable 13.3.0-16cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-13-dev-mips64-cross/stable 13.3.0-12cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-13-dev-mips64el-cross/stable 13.3.0-12cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-13-dev-mips64r6-cross/stable 13.3.0-12cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-13-dev-mips64r6el-cross/stable 13.3.0-12cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-13-dev-ppc64-cross/stable 13.3.0-16cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-13-dev-s390x-cross/stable 13.3.0-16cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-13-dev-sparc64-cross/stable 13.3.0-16cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-13-dev-x32-cross/stable 13.3.0-16cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-14-dev-amd64-cross/stable 14.2.0-19cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-14-dev-mips64-cross/stable 14.2.0-13cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-14-dev-mips64el-cross/stable 14.2.0-13cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-14-dev-mips64r6-cross/stable 14.2.0-13cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-14-dev-mips64r6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-14-dev-ppc64-cross/stable 14.2.0-19cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-14-dev-s390x-cross/stable 14.2.0-19cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-14-dev-sparc64-cross/stable 14.2.0-19cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-14-dev-x32-cross/stable 14.2.0-19cross1 all
+  GCC support library (32 bit development files)
+
+lib32gcc-s1-amd64-cross/stable 14.2.0-19cross1 all
+  GCC support library (32 bit Version)
+
+lib32gcc-s1-mips64-cross/stable 14.2.0-13cross1 all
+  GCC support library (32 bit Version)
+
+lib32gcc-s1-mips64el-cross/stable 14.2.0-13cross1 all
+  GCC support library (32 bit Version)
+
+lib32gcc-s1-mips64r6-cross/stable 14.2.0-13cross1 all
+  GCC support library (32 bit Version)
+
+lib32gcc-s1-mips64r6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (32 bit Version)
+
+lib32gcc-s1-ppc64-cross/stable 14.2.0-19cross1 all
+  GCC support library (32 bit Version)
+
+lib32gcc-s1-s390x-cross/stable 14.2.0-19cross1 all
+  GCC support library (32 bit Version)
+
+lib32gcc-s1-sparc64-cross/stable 14.2.0-19cross1 all
+  GCC support library (32 bit Version)
+
+lib32gcc-s1-x32-cross/stable 14.2.0-19cross1 all
+  GCC support library (32 bit Version)
+
+lib32gomp1-amd64-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library (32bit)
+
+lib32gomp1-mips64-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (32bit)
+
+lib32gomp1-mips64el-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (32bit)
+
+lib32gomp1-mips64r6-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (32bit)
+
+lib32gomp1-mips64r6el-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (32bit)
+
+lib32gomp1-ppc64-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library (32bit)
+
+lib32gomp1-s390x-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library (32bit)
+
+lib32gomp1-sparc64-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library (32bit)
+
+lib32gomp1-x32-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library (32bit)
+
+lib32quadmath0-amd64-cross/stable 14.2.0-19cross1 all
+  GCC Quad-Precision Math Library (32bit)
+
+lib32quadmath0-x32-cross/stable 14.2.0-19cross1 all
+  GCC Quad-Precision Math Library (32bit)
+
+lib64atomic1-i386-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions (64bit)
+
+lib64atomic1-mips-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (64bit)
+
+lib64atomic1-mipsel-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (64bit)
+
+lib64atomic1-mipsr6-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (64bit)
+
+lib64atomic1-mipsr6el-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (64bit)
+
+lib64atomic1-powerpc-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions (64bit)
+
+lib64atomic1-x32-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions (64bit)
+
+lib64gcc-12-dev-i386-cross/stable 12.4.0-5cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-12-dev-x32-cross/stable 12.4.0-5cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-13-dev-i386-cross/stable 13.3.0-16cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-13-dev-mips-cross/stable 13.3.0-12cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-13-dev-mipsel-cross/stable 13.3.0-12cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-13-dev-mipsr6-cross/stable 13.3.0-12cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-13-dev-mipsr6el-cross/stable 13.3.0-12cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-13-dev-x32-cross/stable 13.3.0-16cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-14-dev-i386-cross/stable 14.2.0-19cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-14-dev-mips-cross/stable 14.2.0-13cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-14-dev-mipsel-cross/stable 14.2.0-13cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-14-dev-mipsr6-cross/stable 14.2.0-13cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-14-dev-mipsr6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-14-dev-x32-cross/stable 14.2.0-19cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-s1-i386-cross/stable 14.2.0-19cross1 all
+  GCC support library (i386) (64bit)
+
+lib64gcc-s1-mips-cross/stable 14.2.0-13cross1 all
+  GCC support library (mips) (64bit)
+
+lib64gcc-s1-mipsel-cross/stable 14.2.0-13cross1 all
+  GCC support library (mipsel) (64bit)
+
+lib64gcc-s1-mipsr6-cross/stable 14.2.0-13cross1 all
+  GCC support library (mipsr6) (64bit)
+
+lib64gcc-s1-mipsr6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (mipsr6el) (64bit)
+
+lib64gcc-s1-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC support library (powerpc) (64bit)
+
+lib64gcc-s1-x32-cross/stable 14.2.0-19cross1 all
+  GCC support library (x32) (64bit)
+
+lib64gomp1-i386-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library (64bit)
+
+lib64gomp1-mips-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (64bit)
+
+lib64gomp1-mipsel-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (64bit)
+
+lib64gomp1-mipsr6-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (64bit)
+
+lib64gomp1-mipsr6el-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (64bit)
+
+lib64gomp1-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library (64bit)
+
+lib64gomp1-x32-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library (64bit)
+
+lib64quadmath0-i386-cross/stable 14.2.0-19cross1 all
+  GCC Quad-Precision Math Library  (64bit)
+
+lib64quadmath0-x32-cross/stable 14.2.0-19cross1 all
+  GCC Quad-Precision Math Library  (64bit)
+
+libatomic1/stable,now 14.2.0-19 arm64 [installed,automatic]
+  support library providing __atomic built-in functions
+
+libatomic1-alpha-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-amd64-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-arc-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-arm64-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-armel-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-armhf-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-hppa-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-i386-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-loong64-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-m68k-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-mips-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-mips64-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-mips64el-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-mips64r6-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-mips64r6el-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-mipsel-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-mipsr6-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-mipsr6el-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-powerpc-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-ppc64-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-ppc64el-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-riscv64-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-s390x-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-sh4-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-sparc64-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libatomic1-x32-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libbacktrace-dev/stable 0.1-4 arm64
+  Backtrace library (for C/C++ apps)
+
+libbacktrace0/stable 0.1-4 arm64
+  Backtrace library (for C/C++ apps)
+
+libbio-db-hts-perl/stable 3.01-5 arm64
+  Perl interface to the HTS library
+
+libboost-charconv1.88-dev/stable 1.88.0-1 arm64
+  high quality implementation of <charconv> in C++11
+
+libboost-charconv1.88.0/stable 1.88.0-1 arm64
+  high quality implementation of <charconv> in C++11
+
+libc++-17-dev/stable 1:17.0.6-22+b2 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-17-dev-wasm32/stable 1:17.0.6-22 all
+  LLVM C++ Standard library (WASI)
+
+libc++-18-dev/stable 1:18.1.8-18+b1 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-18-dev-wasm32/stable 1:18.1.8-18 all
+  LLVM C++ Standard library (WASI)
+
+libc++-19-dev/stable 1:19.1.7-3+b1 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-19-dev-wasm32/stable 1:19.1.7-3 all
+  LLVM C++ Standard library (WASI)
+
+libc++-dev/stable 1:19.0-63 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-dev-wasm32/stable 1:19.0-63 arm64
+  LLVM C++ Standard library (WASI)
+
+libc++1/stable 1:19.0-63 arm64
+  LLVM C++ Standard library
+
+libc++1-17t64/stable 1:17.0.6-22+b2 arm64
+  LLVM C++ Standard library
+
+libc++1-18/stable 1:18.1.8-18+b1 arm64
+  LLVM C++ Standard library
+
+libc++1-19/stable 1:19.1.7-3+b1 arm64
+  LLVM C++ Standard library
+
+libcc1-0/stable,now 14.2.0-19 arm64 [installed,automatic]
+  GCC cc1 plugin for GDB
+
+libclang-17-dev/stable 1:17.0.6-22+b2 arm64
+  Clang library - Development package
+
+libclang-18-dev/stable 1:18.1.8-18+b1 arm64
+  Clang library - Development package
+
+libclang-19-dev/stable 1:19.1.7-3+b1 arm64
+  Clang library - Development package
+
+libclang-common-17-dev/stable 1:17.0.6-22+b2 arm64
+  Clang library - Common development package
+
+libclang-common-18-dev/stable 1:18.1.8-18+b1 arm64
+  Clang library - Common development package
+
+libclang-common-19-dev/stable 1:19.1.7-3+b1 arm64
+  Clang library - Common development package
+
+libclang-cpp-dev/stable 1:19.0-63 arm64
+  C++ interface to the clang library
+
+libclang-cpp17-dev/stable 1:17.0.6-22+b2 arm64
+  C++ interface to the Clang library
+
+libclang-cpp17t64/stable 1:17.0.6-22+b2 arm64
+  C++ interface to the Clang library
+
+libclang-cpp18/stable 1:18.1.8-18+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp18-dev/stable 1:18.1.8-18+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp19/stable 1:19.1.7-3+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp19-dev/stable 1:19.1.7-3+b1 arm64
+  C++ interface to the Clang library
+
+libclang-dev/stable 1:19.0-63 arm64
+  clang library - Development package
+
+libclang1/stable 1:19.0-63 arm64
+  C, C++ and Objective-C compiler (LLVM based)
+
+libclang1-17t64/stable 1:17.0.6-22+b2 arm64
+  C interface to the Clang library
+
+libclang1-18/stable 1:18.1.8-18+b1 arm64
+  C interface to the Clang library
+
+libclang1-19/stable 1:19.1.7-3+b1 arm64
+  C interface to the Clang library
+
+libcommons-cli-java/stable 1.6.0-1 all
+  Command line arguments and options parsing library
+
+libcriterion-dev/stable 2.4.1-2+b3 arm64
+  cross-platform C and C++ unit testing framework (development files)
+
+libcriterion3/stable 2.4.1-2+b3 arm64
+  cross-platform C and C++ unit testing framework
+
+libeigen3-dev/stable 3.4.0-5 all
+  lightweight C++ template library for linear algebra
+
+libgcc-12-dev/stable,now 12.4.0-5 arm64 [installed,automatic]
+  GCC support library (development files)
+
+libgcc-12-dev-alpha-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-amd64-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-arc-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-arm64-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-armel-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-armhf-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-hppa-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-i386-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-m68k-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-ppc64-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-ppc64el-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-riscv64-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-s390x-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-sh4-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-sparc64-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-12-dev-x32-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev/stable 13.3.0-16 arm64
+  GCC support library (development files)
+
+libgcc-13-dev-alpha-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-amd64-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-arc-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-arm64-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-armel-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-armhf-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-hppa-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-i386-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-loong64-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-m68k-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-mips-cross/stable 13.3.0-12cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-mips64-cross/stable 13.3.0-12cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-mips64el-cross/stable 13.3.0-12cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-mips64r6-cross/stable 13.3.0-12cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-mips64r6el-cross/stable 13.3.0-12cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-mipsel-cross/stable 13.3.0-12cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-mipsr6-cross/stable 13.3.0-12cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-mipsr6el-cross/stable 13.3.0-12cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-ppc64-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-ppc64el-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-riscv64-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-s390x-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-sh4-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-sparc64-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-x32-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev/stable 14.2.0-19 arm64
+  GCC support library (development files)
+
+libgcc-14-dev-alpha-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-amd64-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-arc-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-arm64-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-armel-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-armhf-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-hppa-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-i386-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-loong64-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-m68k-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-mips-cross/stable 14.2.0-13cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-mips64-cross/stable 14.2.0-13cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-mips64el-cross/stable 14.2.0-13cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-mips64r6-cross/stable 14.2.0-13cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-mips64r6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-mipsel-cross/stable 14.2.0-13cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-mipsr6-cross/stable 14.2.0-13cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-mipsr6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-ppc64-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-ppc64el-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-riscv64-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-s390x-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-sh4-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-sparc64-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-x32-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-s1/stable,now 14.2.0-19 arm64 [installed]
+  GCC support library
+
+libgcc-s1-alpha-cross/stable 14.2.0-19cross1 all
+  GCC support library (alpha)
+
+libgcc-s1-amd64-cross/stable 14.2.0-19cross1 all
+  GCC support library (amd64)
+
+libgcc-s1-arc-cross/stable 14.2.0-19cross1 all
+  GCC support library (arc)
+
+libgcc-s1-arm64-cross/stable 14.2.0-19cross1 all
+  GCC support library (arm64)
+
+libgcc-s1-armel-cross/stable 14.2.0-19cross1 all
+  GCC support library (armel)
+
+libgcc-s1-armhf-cross/stable 14.2.0-19cross1 all
+  GCC support library (armhf)
+
+libgcc-s1-i386-cross/stable 14.2.0-19cross1 all
+  GCC support library (i386)
+
+libgcc-s1-loong64-cross/stable 14.2.0-19cross1 all
+  GCC support library (loong64)
+
+libgcc-s1-mips-cross/stable 14.2.0-13cross1 all
+  GCC support library (mips)
+
+libgcc-s1-mips64-cross/stable 14.2.0-13cross1 all
+  GCC support library (mips64)
+
+libgcc-s1-mips64el-cross/stable 14.2.0-13cross1 all
+  GCC support library (mips64el)
+
+libgcc-s1-mips64r6-cross/stable 14.2.0-13cross1 all
+  GCC support library (mips64r6)
+
+libgcc-s1-mips64r6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (mips64r6el)
+
+libgcc-s1-mipsel-cross/stable 14.2.0-13cross1 all
+  GCC support library (mipsel)
+
+libgcc-s1-mipsr6-cross/stable 14.2.0-13cross1 all
+  GCC support library (mipsr6)
+
+libgcc-s1-mipsr6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (mipsr6el)
+
+libgcc-s1-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC support library (powerpc)
+
+libgcc-s1-ppc64-cross/stable 14.2.0-19cross1 all
+  GCC support library (ppc64)
+
+libgcc-s1-ppc64el-cross/stable 14.2.0-19cross1 all
+  GCC support library (ppc64el)
+
+libgcc-s1-riscv64-cross/stable 14.2.0-19cross1 all
+  GCC support library (riscv64)
+
+libgcc-s1-s390x-cross/stable 14.2.0-19cross1 all
+  GCC support library (s390x)
+
+libgcc-s1-sh4-cross/stable 14.2.0-19cross1 all
+  GCC support library (sh4)
+
+libgcc-s1-sparc64-cross/stable 14.2.0-19cross1 all
+  GCC support library (sparc64)
+
+libgcc-s1-x32-cross/stable 14.2.0-19cross1 all
+  GCC support library (x32)
+
+libgcc-s2-m68k-cross/stable 14.2.0-19cross1 all
+  GCC support library (m68k)
+
+libgcc-s4-hppa-cross/stable 14.2.0-19cross1 all
+  GCC support library (hppa)
+
+libgccjit-12-dev/stable 12.4.0-5 arm64
+  GCC just-in-time compilation (development files)
+
+libgccjit-12-doc/stable 12.4.0-5 all
+  GCC just-in-time compilation (documentation)
+
+libgccjit-13-dev/stable 13.3.0-16 arm64
+  GCC just-in-time compilation (development files)
+
+libgccjit-13-doc/stable 13.3.0-16 all
+  GCC just-in-time compilation (documentation)
+
+libgccjit-14-dev/stable 14.2.0-19 arm64
+  GCC just-in-time compilation (development files)
+
+libgccjit-14-doc/stable 14.2.0-19 all
+  GCC just-in-time compilation (documentation)
+
+libgccjit0/stable 14.2.0-19 arm64
+  GCC just-in-time compilation (shared library)
+
+libghc-language-c-quote-dev/stable 0.13.0.2-1+b1 arm64
+  C/CUDA/OpenCL/Objective-C quasiquoting library
+
+libghc-language-c-quote-doc/stable 0.13.0.2-1 all
+  C/CUDA/OpenCL/Objective-C quasiquoting library; documentation
+
+libghc-language-c-quote-prof/stable 0.13.0.2-1+b1 arm64
+  C/CUDA/OpenCL/Objective-C quasiquoting library; profiling libraries
+
+libgnat-12/stable 12.4.0-5 arm64
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-alpha-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-amd64-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-arm64-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-armel-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-armhf-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-hppa-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-i386-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-m68k-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-powerpc-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-ppc64-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-ppc64el-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-riscv64-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-s390x-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-sh4-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-sparc64-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-12-x32-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13/stable 13.3.0-16 arm64
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-alpha-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-amd64-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-arm64-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-armel-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-armhf-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-hppa-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-i386-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-m68k-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-mips-cross/stable 13.3.0-12cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-mips64-cross/stable 13.3.0-12cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-mips64el-cross/stable 13.3.0-12cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-mips64r6-cross/stable 13.3.0-12cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-mips64r6el-cross/stable 13.3.0-12cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-mipsel-cross/stable 13.3.0-12cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-mipsr6-cross/stable 13.3.0-12cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-mipsr6el-cross/stable 13.3.0-12cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-powerpc-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-ppc64-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-ppc64el-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-riscv64-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-s390x-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-sh4-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-sparc64-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-x32-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14/stable 14.2.0-19 arm64
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-alpha-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-amd64-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-arm64-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-armel-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-armhf-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-hppa-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-i386-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-loong64-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-m68k-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-mips-cross/stable 14.2.0-13cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-mips64-cross/stable 14.2.0-13cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-mips64el-cross/stable 14.2.0-13cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-mips64r6-cross/stable 14.2.0-13cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-mips64r6el-cross/stable 14.2.0-13cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-mipsel-cross/stable 14.2.0-13cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-mipsr6-cross/stable 14.2.0-13cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-mipsr6el-cross/stable 14.2.0-13cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-powerpc-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-ppc64-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-ppc64el-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-riscv64-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-s390x-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-sh4-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-sparc64-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-x32-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgomp-plugin-nvptx1/stable 14.2.0-19 arm64
+  GCC OpenMP v4.5 plugin for offloading to NVPTX
+
+libgomp1/stable,now 14.2.0-19 arm64 [installed,automatic]
+  GCC OpenMP (GOMP) support library
+
+libgomp1-alpha-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-amd64-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-arc-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-arm64-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-armel-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-armhf-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-hppa-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-i386-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-loong64-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-m68k-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-mips-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-mips64-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-mips64el-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-mips64r6-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-mips64r6el-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-mipsel-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-mipsr6-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-mipsr6el-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-ppc64-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-ppc64el-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-riscv64-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-s390x-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-sh4-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-sparc64-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgomp1-x32-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libhts-dev/stable 1.21+ds-1 arm64
+  development files for the HTSlib
+
+libhts3t64/stable 1.21+ds-1 arm64
+  C library for high-throughput sequencing data formats
+
+libjnr-x86asm-java/stable 1.0.2-6 all
+  Pure java x86 and x86_64 assembler
+
+libn32atomic1-mips-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (n32)
+
+libn32atomic1-mips64-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (n32)
+
+libn32atomic1-mips64el-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (n32)
+
+libn32atomic1-mips64r6-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (n32)
+
+libn32atomic1-mips64r6el-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (n32)
+
+libn32atomic1-mipsel-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (n32)
+
+libn32atomic1-mipsr6-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (n32)
+
+libn32atomic1-mipsr6el-cross/stable 14.2.0-13cross1 all
+  support library providing __atomic built-in functions (n32)
+
+libn32gcc-13-dev-mips-cross/stable 13.3.0-12cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-13-dev-mips64-cross/stable 13.3.0-12cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-13-dev-mips64el-cross/stable 13.3.0-12cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-13-dev-mips64r6-cross/stable 13.3.0-12cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-13-dev-mips64r6el-cross/stable 13.3.0-12cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-13-dev-mipsel-cross/stable 13.3.0-12cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-13-dev-mipsr6-cross/stable 13.3.0-12cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-13-dev-mipsr6el-cross/stable 13.3.0-12cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-14-dev-mips-cross/stable 14.2.0-13cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-14-dev-mips64-cross/stable 14.2.0-13cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-14-dev-mips64el-cross/stable 14.2.0-13cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-14-dev-mips64r6-cross/stable 14.2.0-13cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-14-dev-mips64r6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-14-dev-mipsel-cross/stable 14.2.0-13cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-14-dev-mipsr6-cross/stable 14.2.0-13cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-14-dev-mipsr6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (n32 development files)
+
+libn32gcc-s1-mips-cross/stable 14.2.0-13cross1 all
+  GCC support library (mips) (n32)
+
+libn32gcc-s1-mips64-cross/stable 14.2.0-13cross1 all
+  GCC support library (mips64) (n32)
+
+libn32gcc-s1-mips64el-cross/stable 14.2.0-13cross1 all
+  GCC support library (mips64el) (n32)
+
+libn32gcc-s1-mips64r6-cross/stable 14.2.0-13cross1 all
+  GCC support library (mips64r6) (n32)
+
+libn32gcc-s1-mips64r6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (mips64r6el) (n32)
+
+libn32gcc-s1-mipsel-cross/stable 14.2.0-13cross1 all
+  GCC support library (mipsel) (n32)
+
+libn32gcc-s1-mipsr6-cross/stable 14.2.0-13cross1 all
+  GCC support library (mipsr6) (n32)
+
+libn32gcc-s1-mipsr6el-cross/stable 14.2.0-13cross1 all
+  GCC support library (mipsr6el) (n32)
+
+libn32gomp1-mips-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (n32)
+
+libn32gomp1-mips64-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (n32)
+
+libn32gomp1-mips64el-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (n32)
+
+libn32gomp1-mips64r6-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (n32)
+
+libn32gomp1-mips64r6el-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (n32)
+
+libn32gomp1-mipsel-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (n32)
+
+libn32gomp1-mipsr6-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (n32)
+
+libn32gomp1-mipsr6el-cross/stable 14.2.0-13cross1 all
+  GCC OpenMP (GOMP) support library (n32)
+
+libquadmath0-amd64-cross/stable 14.2.0-19cross1 all
+  GCC Quad-Precision Math Library
+
+libquadmath0-i386-cross/stable 14.2.0-19cross1 all
+  GCC Quad-Precision Math Library
+
+libquadmath0-ppc64el-cross/stable 14.2.0-19cross1 all
+  GCC Quad-Precision Math Library
+
+libquadmath0-x32-cross/stable 14.2.0-19cross1 all
+  GCC Quad-Precision Math Library
+
+librelaxngcc-java/stable 1.12-2 all
+  RELAX NG Compiler Compiler
+
+librelaxngcc-java-doc/stable 1.12-2 all
+  RELAX NG Compiler Compiler -- documentation
+
+librust-backtrace-sys+compiler-builtins-dev/stable 0.1.37-1+b3 arm64
+  Bindings to the libbacktrace gcc library - feature "compiler_builtins"
+
+librust-backtrace-sys+core-dev/stable 0.1.37-1+b3 arm64
+  Bindings to the libbacktrace gcc library - feature "core"
+
+librust-backtrace-sys+rustc-dep-of-std-dev/stable 0.1.37-1+b3 arm64
+  Bindings to the libbacktrace gcc library - feature "rustc-dep-of-std"
+
+librust-backtrace-sys-dev/stable 0.1.37-1+b3 arm64
+  Bindings to the libbacktrace gcc library - Rust source code
+
+libscythestat-dev/stable 1.0.3-2 all
+  header files for Scythe statistics library
+
+libshaderc-dev/stable 2025.2-1 arm64
+  Library API for accessing glslc functionality - static libraries and headers
+
+libshaderc1/stable 2025.2-1 arm64
+  Library API for accessing glslc functionality - shared libraries
+
+libsimde-dev/stable 0.8.2-3 all
+  Implementations of SIMD instructions for all systems
+
+libtcc-dev/stable 0.9.27+git20200814.62c30a4a-2 arm64
+  fast library for dynamic code generation
+
+libuno-cppuhelpergcc3-3t64/stable 4:25.2.3-2+deb13u6 arm64
+  LibreOffice UNO runtime environment -- CPPU helper library
+
+libuno-purpenvhelpergcc3-3t64/stable 4:25.2.3-2+deb13u6 arm64
+  LibreOffice UNO runtime environment -- "purpose environment" helper
+
+libuno-salhelpergcc3-3t64/stable 4:25.2.3-2+deb13u6 arm64
+  LibreOffice UNO runtime environment -- SAL helpers for C++ library
+
+libx32atomic1-amd64-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions (x32)
+
+libx32atomic1-i386-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions (x32)
+
+libx32gcc-12-dev-amd64-cross/stable 12.4.0-5cross1 all
+  GCC support library (x32 development files)
+
+libx32gcc-12-dev-i386-cross/stable 12.4.0-5cross1 all
+  GCC support library (x32 development files)
+
+libx32gcc-13-dev-amd64-cross/stable 13.3.0-16cross1 all
+  GCC support library (x32 development files)
+
+libx32gcc-13-dev-i386-cross/stable 13.3.0-16cross1 all
+  GCC support library (x32 development files)
+
+libx32gcc-14-dev-amd64-cross/stable 14.2.0-19cross1 all
+  GCC support library (x32 development files)
+
+libx32gcc-14-dev-i386-cross/stable 14.2.0-19cross1 all
+  GCC support library (x32 development files)
+
+libx32gcc-s1-amd64-cross/stable 14.2.0-19cross1 all
+  GCC support library (amd64) (x32)
+
+libx32gcc-s1-i386-cross/stable 14.2.0-19cross1 all
+  GCC support library (i386) (x32)
+
+libx32gomp1-amd64-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library (x32)
+
+libx32gomp1-i386-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library (x32)
+
+libx32quadmath0-amd64-cross/stable 14.2.0-19cross1 all
+  GCC Quad-Precision Math Library (x32)
+
+libx32quadmath0-i386-cross/stable 14.2.0-19cross1 all
+  GCC Quad-Precision Math Library (x32)
+
+makedepf90/stable 3.0.1-1+b1 arm64
+  Fortran-90 dependency processor for Makefiles
+
+mcpp/stable 2.7.2-5.2 arm64
+  Alternative C/C++ preprocessor
+
+mingw-w64/stable 12.0.0-5 all
+  Development environment targeting 32- and 64-bit Windows
+
+mingw-w64-common/stable 12.0.0-5 all
+  Common files for Mingw-w64
+
+mingw-w64-i686-dev/stable 12.0.0-5 all
+  Development files for MinGW-w64 targeting Win32
+
+mingw-w64-tools/stable 12.0.0-5 arm64
+  Development tools for 32- and 64-bit Windows
+
+mingw-w64-ucrt64-dev/stable 12.0.0-5 all
+  Development files for MinGW-w64 targeting Win64/UCRT
+
+mingw-w64-x86-64-dev/stable 12.0.0-5 all
+  Development files for MinGW-w64 targeting Win64
+
+msp430mcu/stable 20120406-2.3 all
+  Spec files, headers and linker scripts for TI's MSP430 targets
+
+musl-dev/stable 1.2.5-3.1~deb13u1 arm64
+  standard C library development files
+
+musl-tools/stable 1.2.5-3.1~deb13u1 arm64
+  standard C library tools
+
+node-lcov-parse/stable 1.0.0+20170612git80d039574ed9-6 all
+  Parse lcov results files and return JSON
+
+nvptx-tools/stable 0.20240810-3 arm64
+  collection of tools for use with nvptx-none GCC toolchains
+
+nxt-firmware/stable 1.29.7-6 all
+  Improved firmware for LEGO Mindstorms NXT bricks
+
+objfw/stable 1.3-1 arm64
+  Portable, lightweight framework for the Objective-C language
+
+python-pygccxml-doc/stable 3.0.2-1 all
+  specialized XML reader reads the output from gccxml - documentation
+
+python3-clang/stable 1:19.0-63 arm64
+  Clang Python Bindings
+
+python3-clang-17/stable 1:17.0.6-22+b2 arm64
+  Clang Python Bindings
+
+python3-clang-18/stable 1:18.1.8-18+b1 arm64
+  Clang Python Bindings
+
+python3-clang-19/stable 1:19.1.7-3+b1 arm64
+  Clang Python Bindings
+
+python3-project-generator/stable 0.12.0-2 all
+  project generators for various embedded tools (IDE)
+
+python3-pygccxml/stable 3.0.2-1 all
+  specialized XML reader reads the output from gccxml - python3 lib
+
+ratfor/stable 1.07-1 arm64
+  Rational Fortran preprocessor for Fortran 77
+
+snp-sites/stable 2.5.1-2+b2 arm64
+  Binary code for the package snp-sites
+
+sparse/stable 0.6.4-5 arm64
+  semantic parser of source files
+
+sparse-test-inspect/stable 0.6.4-5 arm64
+  semantic parser of source files
+
+stalin/stable 0.11-10 arm64
+  Extremely aggressive Scheme compiler
+
+tcc/stable 0.9.27+git20200814.62c30a4a-2 arm64
+  small ANSI C compiler
+
+ubertooth-firmware/stable 2018.12.R1-5.3 all
+  Firmware for Ubertooth
+
+ubertooth-firmware-source/stable 2018.12.R1-5.3 all
+  Source code for the Ubertooth firmware
+
+uisp/stable 20050207-4.5+b2 arm64
+  Micro In-System Programmer for Atmel's AVR MCUs
+
+uwsgi-plugin-gccgo/stable 2.0.28+8+0.0.3 arm64
+  GNU Go plugin for uWSGI
+
+zmk/stable 0.5.1-2 all
+  collection of reusable Makefiles
+
+zmk-doc/stable 0.5.1-2 all
+  collection of reusable Makefiles (manual pages)
+

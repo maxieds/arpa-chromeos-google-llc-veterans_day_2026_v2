@@ -1,0 +1,1 @@
+objdump -t -a -s -f -p -x -M notes,no-aliases -z --show-all-symbols --special-syms /usr/bin/addr2line

@@ -1,0 +1,785 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+aewm++-goodies/stable 1.0-10.2 arm64
+  utilities to complement a minimal window manager
+
+amazon-ecr-credential-helper/stable 0.7.1-2.1+b6 arm64
+  Amazon ECR Credential Helper for Docker
+
+apg/stable 2.2.3.dfsg.1-7 arm64
+  Automated Password Generator - Standalone version
+
+apprise/stable 1.9.3-1 all
+  Push Notifications that work with just about every platform
+
+apt-transport-s3/stable 2.2.1-1 all
+  APT transport for privately held AWS S3 repositories
+
+assetfinder/stable 0.1.1-1+b9 arm64
+  Find domains and subdomains related to a given domain
+
+aws-nuke/stable 2.16.0-1+b18 arm64
+  Delete a whole AWS account and all resources
+
+awscli/stable 2.23.6-1 all
+  Unified command line interface to Amazon Web Services
+
+awstats/stable 7.9-1+deb13u2 all
+  powerful and featureful web server log analyzer
+
+bkchem/stable 0.14.0~pre4+git20211228-5 all
+  Chemical structures editor
+
+cairo-dock-showmouse-plug-in/stable 3.5.1-1 arm64
+  Showmouse plug-in Cairo-dock
+
+caja-sendto/stable 1.26.1-2+b1 arm64
+  integrates email clients and Pidgin into the Caja file manager
+
+centreon-plugins/stable 0.0~20250303+dfsg-1 all
+  Collection of Nagios plugins to monitor OS, services and network devices
+
+chkrootkit/stable 0.58b-5+b7 arm64
+  rootkit detector
+
+claws-mail/stable 4.3.1-1 arm64
+  Fast, lightweight and user-friendly GTK based email client
+
+claws-mail-acpi-notifier/stable 4.3.1-1 arm64
+  Laptop's Mail LED control for Claws Mail
+
+claws-mail-address-keeper/stable 4.3.1-1 arm64
+  Address keeper plugin for Claws Mail
+
+claws-mail-archiver-plugin/stable 4.3.1-1 arm64
+  Archiver plugin for Claws Mail
+
+claws-mail-attach-remover/stable 4.3.1-1 arm64
+  Mail attachment remover for Claws Mail
+
+claws-mail-attach-warner/stable 4.3.1-1 arm64
+  Missing attachment warnings for Claws Mail
+
+claws-mail-bogofilter/stable 4.3.1-1 arm64
+  Bogofilter plugin for Claws Mail
+
+claws-mail-bsfilter-plugin/stable 4.3.1-1 arm64
+  Spam filtering using bsfilter for Claws Mail
+
+claws-mail-clamd-plugin/stable 4.3.1-1 arm64
+  ClamAV socket-based plugin for Claws Mail
+
+claws-mail-dillo-viewer/stable 4.3.1-1 arm64
+  HTML viewer plugin for Claws Mail using Dillo
+
+claws-mail-doc/stable 4.3.1-1 all
+  User documentation for Claws Mail mailer
+
+claws-mail-extra-plugins/stable 4.3.1-1 all
+  Extra plugins collection for Claws Mail
+
+claws-mail-fancy-plugin/stable 4.3.1-1 arm64
+  HTML mail viewer using GTK WebKit
+
+claws-mail-feeds-reader/stable 4.3.1-1 arm64
+  Feeds (RSS/Atom/RDF) reader plugin for Claws Mail
+
+claws-mail-fetchinfo-plugin/stable 4.3.1-1 arm64
+  Add X-FETCH headers plugin for Claws Mail
+
+claws-mail-i18n/stable 4.3.1-1 all
+  Locale data for Claws Mail (i18n support)
+
+claws-mail-keyword-warner/stable 4.3.1-1 arm64
+  Warning on message keywords for Claws Mail
+
+claws-mail-libravatar/stable 4.3.1-1 arm64
+  Display sender avatar from a libravatar server
+
+claws-mail-litehtml-viewer/stable 4.3.1-1 arm64
+  HTML viewer plugin using litehtml library
+
+claws-mail-mailmbox-plugin/stable 4.3.1-1 arm64
+  mbox format mailboxes handler for Claws Mail
+
+claws-mail-managesieve/stable 4.3.1-1 arm64
+  manage Sieve filters with Claws Mail
+
+claws-mail-multi-notifier/stable 4.3.1-1 arm64
+  Various new mail notifiers for Claws Mail
+
+claws-mail-newmail-plugin/stable 4.3.1-1 arm64
+  New mail logger plugin for Claws Mail
+
+claws-mail-pdf-viewer/stable 4.3.1-1 arm64
+  PDF and PostScript attachment viewer for Claws Mail
+
+claws-mail-perl-filter/stable 4.3.1-1 arm64
+  Message filtering plugin using perl for Claws Mail
+
+claws-mail-pgpinline/stable 4.3.1-1 arm64
+  PGP/inline plugin for Claws Mail
+
+claws-mail-pgpmime/stable 4.3.1-1 arm64
+  PGP/MIME plugin for Claws Mail
+
+claws-mail-plugins/stable 4.3.1-1 all
+  Installs plugins for the Claws Mail mailer
+
+claws-mail-python-plugin/stable 4.3.1-1 arm64
+  Python plugin and console for Claws Mail
+
+claws-mail-smime-plugin/stable 4.3.1-1 arm64
+  S/MIME signature/encryption handling for Claws Mail
+
+claws-mail-spam-report/stable 4.3.1-1 arm64
+  Spam reporting plugin for Claws Mail
+
+claws-mail-spamassassin/stable 4.3.1-1 arm64
+  SpamAssassin plugin for Claws Mail
+
+claws-mail-themes/stable 20221017+dfsg.1-1 all
+  Pixmap icon themes for the Claws Mail mailer
+
+claws-mail-tnef-parser/stable 4.3.1-1 arm64
+  TNEF attachment handler for Claws Mail
+
+claws-mail-tools/stable 4.3.1-1 all
+  Helper and utility scripts for Claws Mail mailer
+
+claws-mail-vcalendar-plugin/stable 4.3.1-1 arm64
+  vCalendar message handling plugin for Claws Mail
+
+clawsker/stable 1.4.1-1 all
+  Configuration tweaker for Claws Mail
+
+clisp/stable 1:2.49.20241228.gitc3ec11b-2 arm64
+  GNU CLISP, a Common Lisp implementation
+
+darktable/stable 5.0.1-2 arm64
+  virtual lighttable and darkroom for photographers
+
+erlang-yapp/stable 2.2.0+dfsg-2 arm64
+  Erlang application for deploying Yaws webserver applications
+
+erlang-yaws/stable 2.2.0+dfsg-2 arm64
+  Erlang application which implements HTTP webserver
+
+fence-agents-aws/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - AWS agent
+
+flawfinder/stable 2.0.19-1.1 all
+  examines source code and looks for security weaknesses
+
+fonts-adobe-sourcesans3/stable 3.052+dfsg-2 all
+  Sans serif font family for user interface environments
+
+fraqtive/stable 0.4.8.1-1+b2 arm64
+  draws Mandelbrot and Julia fractals
+
+gir1.2-osmgpsmap-1.0/stable 1.2.0-4 arm64
+  GTK+ library to embed OpenStreetMap maps - Python bindings
+
+gnome-flashback/stable 3.56.0-1 arm64
+  helper application for the GNOME Flashback session
+
+golang-github-aws-aws-sdk-go-dev/stable 1.49.0-2 all
+  AWS SDK for the Go programming language
+
+golang-github-aws-aws-sdk-go-v2-dev/stable 1.30.3-1 all
+  AWS SDK for the Go programming language (library)
+
+golang-github-aws-smithy-go-dev/stable 1.20.3-1 all
+  Smithy code generators for Go (library)
+
+golang-github-awslabs-amazon-ecr-credential-helper-dev/stable 0.7.1-2.1 all
+  Amazon ECR Credential Helper for Docker (library)
+
+golang-github-awslabs-soci-snapshotter-dev/stable 0.4.1-5 all
+  Containerd snapshotter plugin to lazy-load OCI images (library)
+
+golang-github-cloudflare-backoff-dev/stable 0.0~git20161212.647f3cd-2 all
+  Go implementation of "Exponential Backoff And Jitter" (library)
+
+golang-github-coreos-ioprogress-dev/stable 0.0~git20151023.0.4637e49-2 all
+  progress bars around io.Reader/Writers
+
+golang-github-go-llsqlite-crawshaw-dev/stable 0.5.5-2 all
+  low-level Go interface to SQLite 3 using cgo (Go library)
+
+golang-github-hashicorp-terraform-registry-address-dev/stable 0.2.0-1.1 all
+  Go library to represent, compare and parse Terraform Registry address
+
+golang-github-muesli-crunchy-dev/stable 0.4.0-2 all
+  finds common flaws in passwords
+
+golang-github-prometheus-sigv4-dev/stable 0.1.2-2 all
+  Go http.RoundTripper for signing requests using AWS SigV4 (library)
+
+golang-github-rhnvrm-simples3-dev/stable 0.6.1-3 all
+  AWS S3 Golang Library
+
+golang-github-smartystreets-go-aws-auth-dev/stable 1.0.0-1 all
+  Go library to signs requests to Amazon Web Services
+
+golang-github-smira-go-aws-auth-dev/stable 0.0~git20160320.0070896-1.1 all
+  signs requests to Amazon Web Services
+
+golang-github-tink-crypto-tink-go-awskms-dev/stable 2.1.0-2 all
+  Extension to Tink Go that provides AWS KMS integration (library)
+
+golang-github-xanzy-go-cloudstack-dev/stable 2.9.0-1 all
+  Golang API client to interact with Apache CloudStack
+
+golang-github-yl2chen-cidranger-dev/stable 1.0.2-1 all
+  Fast IP to CIDR lookup in Golang
+
+graudit/stable 3.8-1 all
+  grep rough audit - source code auditing tool
+
+httpie-aws-authv4/stable 0.3.0-2 all
+  AWS Signature v4 Signing Process authentication plugin for HTTPie
+
+icedtea-netx/stable 1.8.8-3 all
+  Implementation of the Java Network Launching Protocol (JNLP)
+
+ipp-usb/stable 0.9.23-2+b7 arm64
+  Daemon for IPP over USB printer support
+
+ipv6toolkit/stable 2.0+ds.1-2+b2 arm64
+  Security assessment and troubleshooting tool for the IPv6 protocols
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+jigsaw-generator/stable 0.2.7-1 all
+  Generate jigsaw and card sort activities for classroom use
+
+kturtle/stable 4:25.04.0-1 arm64
+  educational programming environment
+
+libaws-signature4-perl/stable 1.02-3 all
+  module to create a version4 signature for Amazon Web Services
+
+libcerf-dev/stable 2.4-2+b1 arm64
+  Complex error function library - development files
+
+libcerf-doc/stable 2.4-2 all
+  Complex error function library - documentation
+
+libcerf2/stable 2.4-2+b1 arm64
+  Complex error function library - binary files
+
+libclaws-mail-dev/stable 4.3.1-1 arm64
+  Development files for Claws Mail plugins
+
+libdata-entropy-perl/stable 0.008-1 all
+  Perl module for entropy (randomness) management
+
+libdecor-0-plugin-1-cairo/stable 0.2.2-2 arm64
+  libdecor decoration plugin using Cairo
+
+libdecor-0-plugin-1-gtk/stable 0.2.2-2 arm64
+  libdecor decoration plugin using GTK
+
+libevas1/stable 1.28.1-1 arm64
+  EFL advanced canvas library
+
+libevas1-engines-drm/stable 1.28.1-1 arm64
+  Evas module providing the DRM engine
+
+libevas1-engines-fb/stable 1.28.1-1 arm64
+  Evas module providing the Framebuffer engine
+
+libevas1-engines-wayland/stable 1.28.1-1 arm64
+  Evas module providing the Wayland engine
+
+libevas1-engines-x/stable 1.28.1-1 arm64
+  Evas module providing the X11 engines
+
+libfoonathan-memory-dev/stable 0.7.3-2.1+b2 arm64
+  STL compatible C++ memory allocator library - development headers
+
+libfoonathan-memory-doc/stable 0.7.3-2.1 all
+  STL compatible C++ memory allocator library - documentation
+
+libfoonathan-memory0.7.3t64/stable 0.7.3-2.1+b2 arm64
+  STL compatible C++ memory allocator library
+
+libghc-aws-dev/stable 0.24.1-2+b1 arm64
+  Amazon Web Services for Haskell
+
+libghc-aws-doc/stable 0.24.1-2 all
+  Amazon Web Services for Haskell; documentation
+
+libghc-aws-prof/stable 0.24.1-2+b1 arm64
+  Amazon Web Services for Haskell; profiling libraries
+
+libghc-hedgehog-classes-dev/stable 0.2.5.4-2+b1 arm64
+  Hedgehog will eat your typeclass bugs
+
+libghc-hedgehog-classes-doc/stable 0.2.5.4-2 all
+  Hedgehog will eat your typeclass bugs; documentation
+
+libghc-hedgehog-classes-prof/stable 0.2.5.4-2+b1 arm64
+  Hedgehog will eat your typeclass bugs; profiling libraries
+
+libghc-microlens-aeson-dev/stable 2.5.2-1+b1 arm64
+  Law-abiding lenses for Aeson, using microlens
+
+libghc-microlens-aeson-doc/stable 2.5.2-1 all
+  Law-abiding lenses for Aeson, using microlens; documentation
+
+libghc-microlens-aeson-prof/stable 2.5.2-1+b1 arm64
+  Law-abiding lenses for Aeson, using microlens; profiling libraries
+
+libghc-quickcheck-classes-base-dev/stable 0.6.2.0-5+b1 arm64
+  QuickCheck common typeclasses from `base`
+
+libghc-quickcheck-classes-base-doc/stable 0.6.2.0-5 all
+  QuickCheck common typeclasses from `base`; documentation
+
+libghc-quickcheck-classes-base-prof/stable 0.6.2.0-5+b1 arm64
+  QuickCheck common typeclasses from `base`; profiling libraries
+
+libghc-quickcheck-classes-dev/stable 0.6.5.0-3+b1 arm64
+  QuickCheck common typeclasses
+
+libghc-quickcheck-classes-doc/stable 0.6.5.0-3 all
+  QuickCheck common typeclasses; documentation
+
+libghc-quickcheck-classes-prof/stable 0.6.5.0-3+b1 arm64
+  QuickCheck common typeclasses; profiling libraries
+
+libgradle-plugins-java/stable 4.4.1-22 all
+  Powerful build system for the JVM - All plugins
+
+libgraph-grammar-perl/stable 0.2.0-1 all
+  Grammar for graphs
+
+libgraphics-primitive-driver-cairo-perl/stable 0.47-2 all
+  backend providing graphics support using Cairo
+
+libjaba-client-java/stable 2.2.0-2 all
+  minimal client for the JABAWS server
+
+libjs-chart.js/stable 3.9.1+~cs3.1.2-3 all
+  Simple HTML5 charts using the canvas element (Browser)
+
+libnet-amazon-s3-perl/stable 0.991-1 all
+  Amazon S3 Perl API - Simple Storage Service
+
+libnet-amazon-s3-tools-perl/stable 0.08-3 all
+  Command line tools for Amazon AWS S3
+
+libnet-amazon-signature-v4-perl/stable 0.21-2 all
+  module for the Amazon Web Services signature version 4
+
+libosmgpsmap-1.0-1/stable 1.2.0-4 arm64
+  GTK+ library to embed OpenStreetMap maps
+
+libosmgpsmap-1.0-dev/stable 1.2.0-4 arm64
+  GTK+ library to embed OpenStreetMap maps - development files
+
+libpgsbox8/stable 8.4+ds-1 arm64
+  Draw and label curvilinear coordinate grids with pgplot
+
+libtermbox-dev/stable 1.1.2+dfsg-7 arm64
+  Library for writing text-based user interfaces (dev)
+
+libtermbox1/stable 1.1.2+dfsg-7 arm64
+  Library for writing text-based user interfaces (lib)
+
+libtickit-widget-scrollbox-perl/stable 0.12-1 all
+  widget allowing a single child widget to be scrolled
+
+libvisp-ar-dev/stable 3.6.0-5 arm64
+  development files for libvisp-ar
+
+libvisp-ar3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform ar library
+
+libvisp-blob-dev/stable 3.6.0-5 arm64
+  development files for libvisp-blob
+
+libvisp-blob3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform blob tracking library
+
+libvisp-core-dev/stable 3.6.0-5 arm64
+  development files for libvisp-core
+
+libvisp-core3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform core library
+
+libvisp-detection-dev/stable 3.6.0-5 arm64
+  development files for libvisp-detection
+
+libvisp-detection3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform detection library
+
+libvisp-dev/stable 3.6.0-5 arm64
+  development files for ViSP
+
+libvisp-dnn-tracker-dev/stable 3.6.0-5 arm64
+  development files for libvisp-dnn-tracker
+
+libvisp-dnn-tracker3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform dnn-tracker library
+
+libvisp-doc/stable 3.6.0-5 all
+  visual servoing library - documentation
+
+libvisp-gui-dev/stable 3.6.0-5 arm64
+  development files for libvisp-gui
+
+libvisp-gui3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform gui library
+
+libvisp-imgproc-dev/stable 3.6.0-5 arm64
+  development files for libvisp-imgproc
+
+libvisp-imgproc3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform imgproc library
+
+libvisp-io-dev/stable 3.6.0-5 arm64
+  development files for libvisp-io
+
+libvisp-io3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform io library
+
+libvisp-klt-dev/stable 3.6.0-5 arm64
+  development files for libvisp-klt
+
+libvisp-klt3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform klt tracking library
+
+libvisp-mbt-dev/stable 3.6.0-5 arm64
+  development files for libvisp-mbt
+
+libvisp-mbt3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform mbt library
+
+libvisp-me-dev/stable 3.6.0-5 arm64
+  development files for libvisp-me
+
+libvisp-me3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform me tracking library
+
+libvisp-robot-dev/stable 3.6.0-5 arm64
+  development files for libvisp-robot
+
+libvisp-robot3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform robot library
+
+libvisp-sensor-dev/stable 3.6.0-5 arm64
+  development files for libvisp-sensor
+
+libvisp-sensor3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform sensor library
+
+libvisp-tt-dev/stable 3.6.0-5 arm64
+  development files for libvisp-tt
+
+libvisp-tt-mi-dev/stable 3.6.0-5 arm64
+  development files for libvisp-tt-mi
+
+libvisp-tt-mi3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform tt-mi library
+
+libvisp-tt3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform tt library
+
+libvisp-vision-dev/stable 3.6.0-5 arm64
+  development files for libvisp-vision
+
+libvisp-vision3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform vision library
+
+libvisp-visual-features-dev/stable 3.6.0-5 arm64
+  development files for libvisp-visual-features
+
+libvisp-visual-features3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform visual-features library
+
+libvisp-vs-dev/stable 3.6.0-5 arm64
+  development files for libvisp-vs
+
+libvisp-vs3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform vs library
+
+libvm-ec2-perl/stable 1.28-5 all
+  module providing controls on Amazon EC2 and Eucalyptus
+
+marsshooter/stable 0.7.6-8 arm64
+  ridiculous space shooter governed by the laws of gravity
+
+marsshooter-data/stable 0.7.6-8 all
+  ridiculous space shooter governed by the laws of gravity -- data
+
+minio-client/stable 0.0~20250403-3+b3 arm64
+  Simple, fast tool to manage MinIO clusters
+
+msc-generator/stable 8.6.2-4 arm64
+  Draws signalling charts from textual description
+
+msc-generator-nox/stable 8.6.2-4 arm64
+  Draws signalling charts from textual description (no-X version)
+
+nautilus-sendto/stable 3.8.6-7+b2 arm64
+  easily send files via email from within Nautilus
+
+newsboat/stable 2.36-1.1 arm64
+  text mode rss feed reader with podcast support
+
+node-aws-sign2/stable 0.7.1-4 all
+  AWS signing in JavaScript
+
+node-aws4/stable 1.11.0-2 all
+  Signs and prepares requests using AWS Signature Version 4
+
+node-chart.js/stable 3.9.1+~cs3.1.2-3 all
+  Simple HTML5 charts using the canvas element (Node module)
+
+node-d3-path/stable 1.0.9+~1.0.9-1 all
+  Serialize Canvas path commands to SVG
+
+obs-stroke-glow-shadow/stable 1.5.2-3 arm64
+  plugin for OBS Studio to create strokes, glow and shadows
+
+php-async-aws-core/stable 1.25.0-1 all
+  AsyncAws Core - AsyncAws component
+
+php-async-aws-ses/stable 1.11.0-1 all
+  AsyncAws Ses - AsyncAws component
+
+php-async-aws-sns/stable 1.9.0-1 all
+  AsyncAws Sns - AsyncAws component
+
+php-async-aws-sqs/stable 2.5.0-1 all
+  AsyncAws Sqs - AsyncAws component
+
+php-doc/stable 20241205~git.dfcbb86+dfsg-1 all
+  Documentation for PHP
+
+php-league-flysystem/stable 3.29.1-2 all
+  filesystem abstraction offering one API to many filesystems
+
+python-libnmap-doc/stable 0.7.3-1 all
+  Python NMAP Library (common documentation)
+
+python3-aws-requests-auth/stable 0.4.3-5 all
+  AWS Signature Version 4 Signing Process (Python 3)
+
+python3-aws-xray-sdk/stable 0.95-4 all
+  AWS X-Ray SDK for Python 3
+
+python3-awsauth/stable 0.1.5-3 all
+  AWS authentication for Amazon S3 for the python3-requests module
+
+python3-awscrt/stable 0.24.0+dfsg-1 arm64
+  Python 3 bindings for the AWS Common Runtime
+
+python3-borgstore/stable 0.3.0-2 all
+  Simple key/value store implementation in Python
+
+python3-botocore/stable 1.37.9+repack-1 all
+  Low-level, data-driven core of boto 3 (Python 3)
+
+python3-django-health-check/stable 3.18.3-1 all
+  Checks for various conditions and provides reports
+
+python3-django-storages-s3/stable 1.14.5-1 all
+  storage backends in Django (S3)
+
+python3-extinction/stable 0.4.7-1+b2 arm64
+  Fast interstellar dust extinction laws (Python 3)
+
+python3-forge/stable 1.4.0-2 all
+  mocking and testing modules (Python 3 version)
+
+python3-gql/stable 3.6.0~b4-1 all
+  GraphQL client for Python
+
+python3-libnmap/stable 0.7.3-1 all
+  Python 3 NMAP library
+
+python3-moto/stable 5.1.1-4 all
+  Moto - Mock AWS Service - Python 3.x
+
+python3-pycognito/stable 2024.5.1-2 all
+  Library for interacting with AWS Cognito services
+
+python3-rlpycairo/stable 0.3.0-3 all
+  plugin for the ReportLab PDF Toolkit.
+
+python3-sncosmo/stable 2.12.1-1 arm64
+  Python library for high-level supervova cosmology analysis
+
+python3-termbox/stable 1.1.2+dfsg-7 arm64
+  Library for writing text-based user interfaces (Python)
+
+r-cran-genoplotr/stable 0.8.11+dfsg-2 all
+  Plot Publication-Grade Gene and Genome Maps
+
+r-cran-lsei/stable 1.3-0-1+b1 arm64
+  solving problems under equality/inequality constraints
+
+r-cran-misc3d/stable 0.9-1-1 all
+  GNU R collection of 3d plot functions and rgl-based isosurfaces
+
+r-cran-nnls/stable 1.6-1 arm64
+  GNU R package for non-negative least squares (the Lawson-Hanson algorithm)
+
+r-cran-posterior/stable 1.6.1+dfsg-1 all
+  GNU R tools for working with posterior distributions
+
+r-cran-purrr/stable 1.0.4-1 arm64
+  GNU R functional programming tools
+
+r-cran-spatstat.explore/stable 3.3-4-1 arm64
+  GNU R exploratory data analysis for the 'spatstat' family
+
+r-cran-spatstat.linnet/stable 3.2-5-1 arm64
+  linear networks functionality of the 'spatstat' family of GNU R
+
+r-cran-spatstat.model/stable 3.3-4-1 arm64
+  GNU R parametric statistical modelling for the 'spatstat' family
+
+resource-agents/stable 1:4.16.0-3+deb13u2 arm64
+  Cluster Resource Agents
+
+ruby-amazon-ec2/stable 0.9.17-5 all
+  Ruby library for accessing Amazon EC2
+
+ruby-aws/stable 2.10.2-5 all
+  AWS Ruby Library for interfacing with Amazon Web Services
+
+ruby-aws-eventstream/stable 1.3.0-1 all
+  AWS Event Stream Library
+
+ruby-aws-partitions/stable 1.1005.0-1 all
+  provider of information about AWS partitions, regions, and services
+
+ruby-aws-sdk/stable 1.67.0-3 all
+  Amazon Web Services SDK for Ruby
+
+ruby-aws-sdk-cloudformation/stable 1.41.0-2 all
+  AWS SDK for Ruby - AWS CloudFormation
+
+ruby-aws-sdk-core/stable 3.212.0-1 all
+  AWS SDK for Ruby - Core
+
+ruby-aws-sdk-kms/stable 1.24.0-3 all
+  AWS SDK for Ruby - KMS
+
+ruby-aws-sdk-s3/stable 1.170.1-1 all
+  AWS SDK for Ruby - Amazon S3
+
+ruby-aws-sigv4/stable 1.10.1-1 all
+  AWS Signature Version 4 library
+
+ruby-faraday-middleware-aws-sigv4/stable 1.0.1-2 all
+  Faraday middleware for AWS Signature Version 4 using aws-sigv4
+
+ruby-fog-aliyun/stable 0.4.0-2 all
+  Fog provider for Aliyun Web Services
+
+ruby-fog-aws/stable 3.18.0-2 all
+  module for the 'fog' gem to support Amazon Web Services
+
+ruby-fog-core/stable 2.3.0-2 all
+  shared classes and tests for fog providers and services
+
+ruby-fog-google/stable 1.19.0-3 all
+  module for the 'fog' library to support Google cloud services
+
+ruby-fog-openstack/stable 1.0.8-2.1 all
+  module for 'fog' library to support OpenStack instances
+
+ruby-fog-storm-on-demand/stable 0.1.1-2.1 all
+  module for the 'fog' library to support StormOnDemand
+
+s3backer/stable 1.5.4-2+b3 arm64
+  Amazon AWS S3-backed virtual hard disk device
+
+seaview/stable 1:5.0.5-3 arm64
+  Multiplatform interface for sequence alignment and phylogeny
+
+step/stable 4:25.04.0-1 arm64
+  interactive physical simulator for KDE
+
+stormbaancoureur/stable 2.1.6-3.1+b2 arm64
+  simulated obstacle course for automobiles
+
+swayimg/stable 3.8-1+b1 arm64
+  image viewer for Sway/Wayland
+
+testssl.sh/stable 3.2.1+dfsg-1 all
+  Command line tool to check TLS/SSL ciphers, protocols and cryptographic flaws
+
+texlive-fonts-extra/stable 2024.20250309-2 all
+  TeX Live: Additional fonts
+
+texlive-games/stable 2024.20250309-2 all
+  TeX Live: Games typesetting
+
+texlive-luatex/stable 2024.20250309-1 all
+  TeX Live: LuaTeX packages
+
+texlive-pictures/stable 2024.20250309-1 all
+  TeX Live: Graphics, pictures, diagrams
+
+texlive-pstricks/stable 2024.20250309-2 all
+  TeX Live: PSTricks
+
+texlive-science/stable 2024.20250309-2 all
+  TeX Live: Mathematics, natural sciences, computer science packages
+
+tgif/stable 1:4.2.5-2 arm64
+  2D vector graphic drawing tool using Xlib
+
+ueberzug/stable 18.3.1-2+b1 arm64
+  command line utility which draws images on terminals
+
+undertime/stable 4.3.0 all
+  pick a meeting time using a table of world clocks
+
+vagrant-sshfs/stable 1.3.7-1 all
+  vagrant plugin that adds synced folder support with sshfs
+
+victoria-metrics/stable 1.112.0+ds1-2 arm64
+  fast, cost-effective and scalable time series database
+
+visp-images-data/stable 3.6.0-1 all
+  visual servoing library - dataset reference files
+
+wcslib-dev/stable 8.4+ds-1 arm64
+  Header files and static library for wcslib and pgsbox
+
+yaws/stable 2.2.0+dfsg-2 all
+  High performance HTTP 1.1 webserver written in Erlang
+
+yaws-chat/stable 2.2.0+dfsg-2 all
+  Chat application for Yaws webserver
+
+yaws-doc/stable 2.2.0+dfsg-2 all
+  Documentation and examples for Yaws webserver
+
+yaws-mail/stable 2.2.0+dfsg-2 all
+  Webmail application for Yaws webserver
+
+yaws-wiki/stable 2.2.0+dfsg-2 all
+  Wiki application for Yaws webserver
+
+yaws-yapp/stable 2.2.0+dfsg-2 all
+  Provides an easy way to deploy applications for Yaws webserver
+
+youplot/stable 0.4.6-2 all
+  command line tool for Unicode plotting in the terminal
+
+zsh-theme-powerlevel9k/stable 0.6.7-4 all
+  powerlevel9k is a theme for zsh which uses powerline fonts
+

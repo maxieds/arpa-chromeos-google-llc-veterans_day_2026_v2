@@ -1,0 +1,4982 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+0install/stable 2.18-2.1 arm64
+  cross-distribution packaging system
+
+0install-core/stable 2.18-2.1 arm64
+  cross-distribution packaging system (non-GUI parts)
+
+7kaa/stable 2.15.6+ds-2 arm64
+  Seven Kingdoms: Ancient Adversaries - real-time strategy game
+
+7zip/stable 25.01+dfsg-1~deb13u2 arm64
+  7-Zip file archiver with a high compression ratio
+
+ace-gperf/stable 8.0.2+dfsg-2 arm64
+  ACE perfect hash function generator
+
+adplug-utils/stable 2.3.3+dfsg-2+b1 arm64
+  free AdLib sound library (utils)
+
+aerc/stable 0.20.0-2+b1 arm64
+  Pretty Good Email Client
+
+airspyhf/stable 1.6.8-4+b2 arm64
+  HF+VHF software defined radio receiver - user runtime
+
+amd-dbgapi-dev/stable 5.7.1-2 arm64
+  AMD GPU debugger support - headers
+
+antpm/stable 1.24-1 arm64
+  ANT+ information retrieval client for Garmin GPS products
+
+anytun/stable 0.3.8-1.1 arm64
+  secure anycast tunneling protocol
+
+apophenia-bin/stable 1.0+ds-10 arm64
+  Apophenia Statistical C Library -- binary package
+
+apophenia-doc/stable 1.0+ds-10 all
+  Apophenia Statistical C Library -- reference manual
+
+archlinux-keyring/stable 0~20260420-1~deb13u1 all
+  Arch Linux PGP keyring
+
+argon2/stable 0~20190702+dfsg-4+b2 arm64
+  memory-hard hashing function - utility
+
+armnn-latest-all/stable 23.08-5 arm64
+  Arm NN Core and all backends
+
+armnn-latest-cpu/stable 23.08-5 arm64
+  Arm NN Core and CPU backend
+
+armnn-latest-cpu-gpu/stable 23.08-5 arm64
+  Arm NN Core, CPU and GPU backends
+
+armnn-latest-cpu-gpu-ref/stable 23.08-5 arm64
+  Arm NN Core, CPU, GPU, and Reference backends
+
+armnn-latest-gpu/stable 23.08-5 arm64
+  Arm NN Core and GPU backend
+
+armnn-latest-ref/stable 23.08-5 arm64
+  Arm NN Core and Reference backend
+
+arp-scan/stable 1.10.0-2+b2 arm64
+  arp scanning and fingerprinting tool
+
+ase/stable 3.24.0-1 all
+  Atomic Simulation Environment
+
+asl-doc/stable 0.1.7-4.1 all
+  documentation for ASL
+
+asl-tools/stable 0.1.7-4.1+b5 arm64
+  command-line tools for ASL
+
+asn/stable 0.78.0-1 all
+  network OSINT CLI ASN, RPKI, BGP, Geo, Recon, Trace
+
+astap/stable 2024.05.01-1 arm64
+  astrometric (plate) solver, stacking of images, photometry and FITS viewer
+
+atomicparsley/stable 20240608.083822.1ed9031-1 arm64
+  read, parse and set metadata of MPEG-4 and 3gp files
+
+augeas-tools/stable 1.14.1-1.1~deb13u1 arm64
+  Augeas command line tools
+
+augustus-doc/stable 3.5.0+dfsg-5 all
+  documentation files for AUGUSTUS
+
+avahi-autoipd/stable 0.8-16 arm64
+  Avahi IPv4LL network address configuration daemon
+
+avahi-daemon/stable 0.8-16 arm64
+  Avahi mDNS/DNS-SD daemon
+
+avahi-discover/stable 0.8-16 all
+  Service discover user interface for avahi
+
+avahi-dnsconfd/stable 0.8-16 arm64
+  Avahi DNS configuration tool
+
+avahi-ui-utils/stable 0.8-16 arm64
+  Avahi GTK+ utilities
+
+avahi-utils/stable 0.8-16 arm64
+  Avahi browsing, publishing and discovery utilities
+
+aview/stable 1.3.0rc1-11 arm64
+  high quality ASCII art image viewer and video player
+
+babeld/stable 1.13.1+ds-1 arm64
+  loop-free distance-vector routing protocol
+
+balsa/stable 2.6.4-4 arm64
+  e-mail client for GNOME
+
+barman/stable 3.13.3-1 all
+  Backup and Recovery Manager for PostgreSQL
+
+barman-cli/stable 3.13.3-1 all
+  Client utilities for the integration of Barman in PostgreSQL clusters
+
+barman-cli-cloud/stable 3.13.3-1 all
+  Cloud client utilities for the integration of Barman in PostgreSQL clusters
+
+bgpdump/stable 1.6.2-3 arm64
+  Translate binary zebra/quagga/MRT files into readable output
+
+bgpq3/stable 0.1.36.1-1+b1 arm64
+  automatic BGP filter generator using RADB data
+
+bgpq4/stable 1.12-1+b1 arm64
+  automatic BGP filter generator using IRR routing data
+
+bird2/stable 2.17.5-0+deb13u1 arm64
+  Internet Routing Daemon
+
+bird3/stable 3.1.7-0+deb13u1 arm64
+  Internet Routing Daemon
+
+bitmath/stable 1.3.3.1-4 all
+  handle file sizes with different prefix notations
+
+blight/stable 0.7.1-2+b3 arm64
+  Hassle-free CLI backlight utility/library for Linux
+
+bluez/stable 5.82-1.1 arm64
+  Bluetooth tools and daemons
+
+bluez-cups/stable 5.82-1.1 arm64
+  Bluetooth printer driver for CUPS
+
+bluez-hcidump/stable 5.82-1.1 arm64
+  Analyses Bluetooth HCI packets
+
+bluez-meshd/stable 5.82-1.1 arm64
+  bluetooth mesh daemon
+
+bluez-obexd/stable 5.82-1.1 arm64
+  bluez obex daemon
+
+bluez-source/stable 5.82-1.1 all
+  Source code for the BlueZ Linux Bluetooth stack
+
+bluez-test-scripts/stable 5.82-1.1 all
+  test scripts of bluez
+
+bluez-test-tools/stable 5.82-1.1 arm64
+  test tools of bluez
+
+boinctui/stable 2.7.1-1+b2 arm64
+  Fullscreen text mode manager for Boinc client
+
+caja-seahorse/stable 1.18.5-3+b1 arm64
+  Caja extension to encrypt/decrypt OpenPGP files using GnuPG
+
+canid/stable 0.0~git20180613.007c9af-2+b34 arm64
+  Caching Additional Network Information Daemon
+
+castle-game-engine-doc/stable 7.0~alpha.3+dfsg2-4 all
+  Castle Game Engine - Developer's Documentation
+
+castle-game-engine-src/stable 7.0~alpha.3+dfsg2-4 all
+  Castle Game Engine - Source code for Lazarus integration
+
+cdemu-client/stable 3.2.5-2 all
+  Command-line client to control CDEmu daemon
+
+cdemu-daemon/stable 3.2.7-2 arm64
+  Main CDEmu daemon
+
+cgpt/stable 0~R106-15054.B+dfsg-0.1 arm64
+  GPT manipulation tool with support for Chromium OS extensions
+
+cl-py-configparser/stable 20170830-1.1 all
+  implements the ConfigParser Python module functionality in Common Lisp
+
+clapper/stable 0.8.0-2+b1 arm64
+  Simple and modern GNOME media player
+
+claws-mail-pgpinline/stable 4.3.1-1 arm64
+  PGP/inline plugin for Claws Mail
+
+claws-mail-pgpmime/stable 4.3.1-1 arm64
+  PGP/MIME plugin for Claws Mail
+
+clblast-tests/stable 1.6.3-1+b1 arm64
+  Tests for CLBlast
+
+clblast-utils/stable 1.6.3-1+b1 arm64
+  Utilities for CLBlast
+
+clfft-client/stable 2.12.2-5+b2 arm64
+  client program for clFFT
+
+clinfo/stable 3.0.25.02.14-1 arm64
+  Query OpenCL system information
+
+clisp/stable 1:2.49.20241228.gitc3ec11b-2 arm64
+  GNU CLISP, a Common Lisp implementation
+
+codeblocks-contrib/stable 25.03+dfsg-2 arm64
+  contrib plugins for Code::Blocks IDE
+
+codecrypt/stable 1.8-1+b3 arm64
+  post-quantum encryption and signing tool
+
+codegroup/stable 20080907+ds1-1 arm64
+  convert any file into five-letter code groups
+
+collectd-core/stable 5.12.0-26 arm64
+  statistics collection and monitoring daemon (core system)
+
+comgt/stable 0.32-6+b1 arm64
+  Option GlobeTrotter and Vodafone datacard control tool
+
+copyright-update/stable 2016.1018-6 all
+  update copyright information in files
+
+corectrl/stable 1.4.3+ds-2 arm64
+  Control your computer hardware using application profiles
+
+cp2k/stable 2025.1-1.1 arm64
+  Ab Initio Molecular Dynamics
+
+cpm/stable 0.32-1.6 arm64
+  Curses based password manager using PGP-encryption
+
+cpuinfo/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (binary utilities)
+
+cxl/stable 81-1 arm64
+  provisioning for CXL device memory
+
+cyborg-agent/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - processor
+
+cyborg-api/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - API server
+
+cyborg-common/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - common files
+
+cyborg-conductor/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - conductor
+
+cyborg-doc/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - Documentation
+
+darknet/stable 0.0.0+git20180914.61c9d02e-3+b1 arm64
+  Open Source Neural Networks in C
+
+darkradiant/stable 3.9.0-1+b2 arm64
+  Level design toolchain for DOOM3 and The Dark Mod
+
+dav-text/stable 0.9.0-3+b1 arm64
+  minimalist ncurses-based text editor
+
+dcraw/stable 9.28-8 arm64
+  decode raw digital camera images
+
+ddd/stable 1:3.3.12-5.4+b2 arm64
+  Data Display Debugger, a graphical debugger frontend
+
+debgpt/stable 0.7.7 all
+  General Purpose Terminal LLM Tool with Some Debian-Specific Design
+
+debian-archive-keyring/stable,now 2025.1 all [installed]
+  OpenPGP archive certificates of the Debian archive
+
+debian-keyring/stable 2025.07.26 all
+  OpenPGP certificates of Debian Developers and Maintainers
+
+debian-ports-archive-keyring/stable 2026.02.04~deb13u1 all
+  OpenPGP archive certificates of the debian-ports archive
+
+debian-tag2upload-keyring/stable 1.1 all
+  OpenPGP signing key for the Debian tag2upload service
+
+debsigs/stable 0.2.2-1 all
+  toolset for cryptographically signing Debian packages
+
+denemo-data/stable 2.6.39-0.3 all
+  data for Denemo
+
+denemo-doc/stable 2.6.39-0.3 all
+  documentation and examples for Denemo
+
+devscripts/stable 2.25.15+deb13u1 all
+  scripts to make the life of a Debian Package maintainer easier
+
+dh-ada-library/stable 9.9 all
+  tools for packaging software written in the Ada programming language
+
+dietlibc-dev/stable 0.34~cvs20160606-18 arm64
+  diet libc - a libc optimized for small size
+
+dietlibc-doc/stable 0.34~cvs20160606-18 all
+  diet libc documentation - a libc optimized for small size
+
+diffoscope/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories
+
+diffoscope-minimal/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories (minimal package)
+
+digikam/stable 4:8.6.0-1 arm64
+  digital photo management application for KDE
+
+dino-im/stable 0.5.0-1 arm64
+  modern XMPP client
+
+dino-im-common/stable 0.5.0-1 all
+  modern XMPP client - common files
+
+diod/stable 1.0.24-5.1+b1 arm64
+  I/O forwarding server for 9P
+
+dirmngr/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - network certificate management service
+
+disktype/stable 9-13 arm64
+  detection of content format of a disk or disk image
+
+distribution-gpg-keys/stable 1.119+ds-1~deb13u1 all
+  Archive keyrings for RPM-based Linux distributions
+
+djstub/stable 0.6-1 arm64
+  DJGPP-compatible stub manipulation tools
+
+dmidecode/stable,now 3.6-2 arm64 [installed]
+  SMBIOS/DMI table decoder
+
+dmrgpp/stable 6.06-2+b1 arm64
+  Density matrix renormalization group algorithm
+
+donkey/stable 1.2.0-9 arm64
+  One Time Password calculator
+
+dpf-plugins/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (metapackage)
+
+dpf-plugins-clap/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (CLAP plugins)
+
+dpf-plugins-common/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (common files)
+
+dpf-plugins-dssi/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (DSSI plugins)
+
+dpf-plugins-ladspa/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (LADSPA plugins)
+
+dpf-plugins-lv2/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (LV2 plugins)
+
+dpf-plugins-vst/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (VST2 plugins)
+
+dpf-plugins-vst3/stable 1.7+ds-3 arm64
+  Audio plugin collection from DISTRHO (VST3 plugins)
+
+dpic/stable 2023.06.01-1+b1 arm64
+  pic-language converter to LaTeX-compatible and other formats
+
+dpuser/stable 4.3+dfsg-1 arm64
+  Interactive language for handling numbers, strings, and matrices
+
+dupload/stable 2.13.2 all
+  Debian package upload tool
+
+eg25-manager/stable 0.5.2-1 arm64
+  Manager daemon for the Quectel EG25 modem
+
+elpa-password-store/stable 1.7.4-7 all
+  Emacs support for the lightweight directory-based password manager
+
+elpa-pyim/stable 5.3.4-3 all
+  Chinese input method support quanpin, shuangpin, wubi, cangjie and rime
+
+erlang-p1-stringprep/stable 1.0.30-2 arm64
+  erlang interface to stringprep
+
+ewipe/stable 1.2.0-10 all
+  Yet another presentation tool based on Tcl/Tk
+
+exabgp/stable 4.2.25-1 all
+  BGP swiss army knife of networking
+
+extremetuxracer/stable 0.8.4-1 arm64
+  3D racing game featuring Tux, the Linux penguin
+
+extremetuxracer-data/stable 0.8.4-1 all
+  data files for the game Extreme Tux Racer
+
+fbterm/stable 1.7-5+b1 arm64
+  fast framebuffer based terminal emulator for Linux
+
+fceux/stable 2.6.5+dfsg1-2+b2 arm64
+  all-in-one NES/Famicom Emulator
+
+fdisk/stable,now 2.41-5 arm64 [installed]
+  collection of partitioning utilities
+
+filespooler/stable 1.2.3-1+b8 arm64
+  Sequential, distributed, POSIX-style job queue processing
+
+firebird3.0-utils/stable 3.0.12.ds7-13+deb13u1 arm64
+  Firebird command line utilities
+
+firebird4.0-utils/stable 4.0.5.3140.ds6-17+deb13u1 arm64
+  Firebird command line utilities
+
+flashrom/stable 1.4.0-3 arm64
+  Identify, read, write, erase, and verify BIOS/ROM/flash chips
+
+fonts-arabeyes/stable 2.1-7 all
+  Arabeyes GPL TrueType Arabic fonts
+
+fonts-denemo/stable 2.6.39-0.3 all
+  music notation symbol fonts for Denemo
+
+fonts-dustin/stable 20030517-14 all
+  various TrueType fonts from dustismo.com
+
+fonts-linex/stable 2.2-9 all
+  Fonts suitable for education and institutional use
+
+fonts-sil-shimenkan-gsm/stable 1.000-3 all
+  Miao (Pollard) fonts for Gepo / Bai Yi [ygp]
+
+fonts-texmacs/stable 1:2.1.4+ds-3 all
+  WYSIWYG scientific text editor using TeX fonts -- fonts
+
+fonts-ubuntu-title/stable 1:0.3-3 all
+  font used to create the Ubuntu logo (2004‒2010)
+
+forensics-all/stable 3.61 all
+  Debian Forensics Environment - essential components (metapackage)
+
+fp-units-castle-game-engine/stable 7.0~alpha.3+dfsg2-4 arm64
+  Castle Game Engine - 3D game engine for FreePascal / Lazarus
+
+freefilesync/stable 13.7-1+b1 arm64
+  Cross-platform file sync utility with GUI (GPL release)
+
+frr/stable 10.3-3+deb13u1 arm64
+  FRRouting Internet routing protocol suite
+
+frr-doc/stable 10.3-3+deb13u1 all
+  FRRouting Internet routing protocol suite (documentation)
+
+frr-pythontools/stable 10.3-3+deb13u1 all
+  FRRouting Internet routing protocol suite (reload support)
+
+frr-rpki-rtrlib/stable 10.3-3+deb13u1 arm64
+  FRRouting Internet routing protocol suite (BGP RPKI support)
+
+frr-snmp/stable 10.3-3+deb13u1 arm64
+  FRRouting Internet routing protocol suite (SNMP support)
+
+futatabi/stable 2.3.0-2 arm64
+  multicamera slow motion video server
+
+futhark/stable 0.25.27-1+b2 arm64
+  optimising compiler for Futhark programming language
+
+futhark-doc/stable 0.25.27-1 all
+  Futhark User's Guide
+
+gajim/stable 2.1.1-2 all
+  GTK+-based Jabber client
+
+gajim-openpgp/stable 1.7.1-1 all
+  Gajim plugin for OpenPGP encryption
+
+gajim-pgp/stable 1.7.0-1 all
+  Gajim plugin for PGP encryption
+
+gap-alnuth/stable 3.2.1-2 all
+  GAP Alnuth - Algebraic number theory and an interface to PARI/GP
+
+garmin-forerunner-tools/stable 0.10repacked-16 arm64
+  retrieve data from Garmin Forerunner/Edge GPS devices
+
+gav/stable 0.9.1-1 arm64
+  GPL Arcade Volleyball
+
+gav-themes/stable 0.7.3-2.5 all
+  Extra themes for GPL Arcade Volleyball
+
+gdisk/stable 1.0.10-2+b1 arm64
+  GPT fdisk text-mode partitioning tool
+
+gdpc/stable 2.2.5-16+b2 arm64
+  visualiser of molecular dynamic simulations
+
+gdpc-examples/stable 2.2.5-16 all
+  example files for the gdpc program
+
+geany-plugin-gproject/stable 2.0-6 all
+  transitional dummy package for geany-plugin-projectorganizer
+
+gfsecret/stable 0.5.1-1 arm64
+  Tools to make secret sharing easier
+
+ghostscript/stable,now 10.05.1~dfsg-1+deb13u1 arm64 [installed,automatic]
+  interpreter for the PostScript language and for PDF
+
+ghostscript-doc/stable 10.05.1~dfsg-1+deb13u1 all
+  interpreter for the PostScript language and for PDF - Documentation
+
+gir1.2-cryptui-0.0/stable 3.12.2-8+b2 arm64
+  GObject introspection data for the CryptUI library
+
+gir1.2-gpaste-2/stable 45.3-1 arm64
+  GObject introspection data for the libgpaste-2 library
+
+gir1.2-magpie-0/stable 0.9.4-3 arm64
+  GObject introspection data for magpie
+
+gir1.2-mirage-3.2/stable 3.2.10-1 arm64
+  CD-ROM image access library (typelib files)
+
+gir1.2-osmgpsmap-1.0/stable 1.2.0-4 arm64
+  GTK+ library to embed OpenStreetMap maps - Python bindings
+
+gir1.2-ufo-1.0/stable 0.17.0.22.gc831aec-1 arm64
+  Library for high-performance, GPU-based computing - gir binding
+
+gis-gps/stable 0.0.22 all
+  GPS related programs
+
+git-annex/stable 10.20250416-2 arm64
+  manage files with git, without checking their contents into git
+
+giza-dev/stable 1.5.0-2 arm64
+  Lightweight scientific plotting library (development files)
+
+gmtkbabel/stable 0.1-2 all
+  graphical interface for mtkbabel
+
+gnome-keysign/stable 1.3.0-5.1 all
+  easy signing of OpenPGP keys over the local network
+
+gnome-shell-extension-freon/stable 58+dfsg-2 all
+  GNOME Shell Extension for Sensors
+
+gnome-shell-extension-gpaste/stable 45.3-1 all
+  GPaste extension for GNOME Shell
+
+gnss-share/stable 0.8.2-1+b8 arm64
+  Share GNSS location data
+
+gnupg/stable,now 2.4.7-21+deb13u1 all [installed,automatic]
+  GNU privacy guard - a free PGP replacement
+
+gnupg-agent/stable 2.4.7-21+deb13u1 all
+  GNU privacy guard - cryptographic agent (dummy transitional package)
+
+gnupg-l10n/stable,now 2.4.7-21+deb13u1 all [installed,automatic]
+  GNU privacy guard - localization files
+
+gnupg-utils/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - utility programs
+
+gnupg1/stable 1.4.23-3 arm64
+  GNU privacy guard - a PGP implementation (deprecated "classic" version)
+
+gnupg1-l10n/stable 1.4.23-3 all
+  GNU privacy guard "classic" - localization files (deprecated)
+
+gnupg2/stable 2.4.7-21+deb13u1 all
+  GNU privacy guard - a free PGP replacement (dummy transitional package)
+
+gobgpd/stable 3.36.0-2+b3 arm64
+  BGP implemented in Go (daemon and client)
+
+goby-java/stable 3.3.1+dfsg2-11 all
+  next-generation sequencing data and results analysis tool
+
+golang-github-adrianmo-go-nmea-dev/stable 1.10.0-1 all
+  Go library for the NMEA 0183 protocol
+
+golang-github-bgp-stayrtr-dev/stable 0.6.2-1+deb13u1 all
+  RPKI to router protocol library
+
+golang-github-emersion-go-pgpmail-dev/stable 0.2.2-1 all
+  PGP-encrypted email library for Go (library)
+
+golang-github-felixge-fgprof-dev/stable 0.9.2-1 all
+  sampling Go profiler for analyzing On-CPU and Off-CPU
+
+golang-github-go-piv-piv-go-dev/stable 1.8.0-3 all
+  Keys and certificates for YubiKeys, written in Go (library)
+
+golang-github-hashicorp-go-msgpack-dev/stable 0.5.5-1 all
+  encode/decode and rpc library for msgpack and Binc
+
+golang-github-hashicorp-net-rpc-msgpackrpc-dev/stable 0.0~git20151116.0.a14192a-1.1 all
+  Library for creating Go RPC client/server
+
+golang-github-inexio-go-monitoringplugin-dev/stable 1.0.13-1 all
+  Go lib for writing monitoring check plugins
+
+golang-github-jackc-pgpassfile-dev/stable 1.0.0-2 all
+  parser for PostgreSQL .pgpass files
+
+golang-github-jackc-pgproto3-v2-dev/stable 2.3.2-1 all
+  encoder and decoder of the PostgreSQL wire protocol version 3
+
+golang-github-jeromer-syslogparser-dev/stable 0~20150717.ff71fe7a-1.1 all
+  syslog parser library
+
+golang-github-keltia-archive-dev/stable 0.9.1-1 all
+  Small Go library for handling archives of various types.
+
+golang-github-mvo5-goconfigparser-dev/stable 0.2.2-1.1 all
+  Python compatible INI parser
+
+golang-github-osrg-gobgp-dev/stable 3.36.0-2 all
+  BGP implemented in Go (source)
+
+golang-github-philhofer-fwd-dev/stable 1.1.2+git20240916.20a13a1-1 all
+  Buffered Reader/Writer
+
+golang-github-proglottis-gpgme-dev/stable 0.1.4-3 all
+  Go wrapper for the GPGME library
+
+golang-github-protonmail-go-crypto-dev/stable 1.2.0-1 all
+  Go supplementary cryptography libraries
+
+golang-github-protonmail-gopenpgp-dev/stable 2.8.1-1 all
+  high-level OpenPGP library built on top of golang crypto library
+
+golang-github-protonmail-gopenpgp-v3-dev/stable 3.2.0-1 all
+  high-level OpenPGP library built on top of golang crypto library
+
+golang-github-rogpeppe-fastuuid-dev/stable 0.0~git20150106.0.6724a57-2.1 all
+  fast generation of 192-bit UUIDs
+
+golang-github-rogpeppe-go-internal-dev/stable 1.12.0-3 all
+  Selected Go-internal packages factored out from the standard library
+
+golang-github-stratoberry-go-gpsd-dev/stable 1.3.0-1 all
+  GPSD client
+
+golang-github-tdewolff-argp-dev/stable 0.0~git20240625.87b04d5-1 all
+  GNU command line argument parser (Go library)
+
+golang-github-tinylib-msgp-dev/stable 1.2.5-1 all
+  Go code generator for MessagePack (source)
+
+golang-github-ugorji-go-codec/stable 1.2.8-1+b14 arm64
+  idiomatic codec and rpc lib for msgpack, cbor, json (codecgen)
+
+golang-github-ugorji-go-codec-dev/stable 1.2.8-1 all
+  idiomatic codec and rpc lib for msgpack, cbor, json (library)
+
+golang-github-ugorji-go-msgpack-dev/stable 0.0~git20130605.792643-5 all
+  encode/decode and rpc library for msgpack and Binc
+
+golang-github-vmihailenco-msgpack.v5-dev/stable 5.4.1-1 all
+  MessagePack (msgpack.org) encoding for Golang (library)
+
+golang-github-vmihailenco-tagparser-dev/stable 0.1.1-4 all
+  Golang tag parser
+
+golang-github-vmihailenco-tagparser.v2-dev/stable 2.0.0-2 all
+  Opinionated Golang tag parser (library)
+
+golang-github-willabides-kongplete-dev/stable 0.4.0-2 all
+  Kongplete generates shell completions for command-line golang programs
+
+golang-github-xdg-go-stringprep-dev/stable 1.0.4-1 all
+  RFC-3454 stringprep and RFC-4013 SASLprep in Go (library)
+
+golang-github-xordataexchange-crypt/stable 0.0.2+git20170626.21.b2862e3-4+b8 arm64
+  Store/retrieve encrypted configs from etcd or Consul (CLI tool)
+
+golang-github-xordataexchange-crypt-dev/stable 0.0.2+git20170626.21.b2862e3-4 all
+  Store/retrieve encrypted configs from etcd or Consul (Go library)
+
+golang-golang-x-crypto-dev/stable 1:0.25.0-1 all
+  Supplementary Go cryptography libraries
+
+golang-gopkg-alecthomas-kingpin.v2-dev/stable 2.2.6-4 all
+  command-line and flag parser for Go
+
+golang-gopkg-vmihailenco-msgpack.v2-dev/stable 4.3.1-2 all
+  Msgpack encoding for Golang
+
+goldencheetah/stable 1:3.5-7 arm64
+  set of analysis tools for cycling performance
+
+google-perftools/stable 2.16-1 all
+  command line utilities to analyze the performance of C++ programs
+
+gosop/stable 1.1.0-3+b1 arm64
+  Stateless CLI for GopenPGP
+
+gp-saml-gui/stable 0.0~git20241120-1 all
+  login to a GlobalProtect VPN that uses SAML authentication
+
+gpart/stable 1:0.3-10+b1 arm64
+  Guess PC disk partition table, find lost partitions
+
+gparted/stable 1.6.0-2 arm64
+  GNOME partition editor
+
+gparted-common/stable 1.6.0-2 all
+  GNOME partition editor -- common data
+
+gpaste-2/stable 45.3-1 arm64
+  Clipboard management system for GNOME
+
+gpaw/stable 25.1.0-1+b1 arm64
+  DFT and beyond within the projector-augmented wave method
+
+gpaw-data/stable 24.11.0-1 all
+  gpaw datasets/setups
+
+gperf/stable 3.2.1-1 arm64
+  Perfect hash function generator
+
+gperiodic/stable 3.0.3-2 arm64
+  periodic table application
+
+gpg/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed]
+  GNU Privacy Guard -- minimalist public key operations
+
+gpg-agent/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - cryptographic agent
+
+gpg-from-sq/stable 0.13.1-3 all
+  use gpg-sq for /usr/bin/gpg
+
+gpg-remailer/stable 3.04.07-1+b1 arm64
+  Forwards re-encrypted PGP/GPG mail to a group
+
+gpg-sq/stable 0.13.1-3+b2 arm64
+  gpg-like OpenPGP CLI toolkit
+
+gpg-wks-client/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - Web Key Service client
+
+gpg-wks-server/stable 2.4.7-21+deb13u1+b4 arm64
+  GNU privacy guard - Web Key Service server
+
+gpgconf/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - core configuration utilities
+
+gpgme-json/stable 1.24.2-3 arm64
+  Use GnuPG with web browser extensions
+
+gpgmngr/stable 1.0.2-1 arm64
+  GPG assistant for the Linux terminal
+
+gpgrt-tools/stable 1.51-4 arm64
+  GnuPG development runtime library (executable tools)
+
+gpgsm/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - S/MIME version
+
+gpgv/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - signature verification tool
+
+gpgv-from-sq/stable 0.13.1-3 all
+  use gpgv-sq for /usr/bin/gpgv
+
+gpgv-sq/stable 0.13.1-3+b2 arm64
+  gpgv-like validator for OpenPGP signatures
+
+gpgv-static/stable 2.4.7-21+deb13u1+b4 arm64
+  minimal signature verification tool (static build)
+
+gpgv-win32/stable 2.4.7-21+deb13u1 all
+  GNU privacy guard - signature verification tool (win32 build)
+
+gpgv1/stable 1.4.23-3 arm64
+  GNU privacy guard - signature verification tool (deprecated "classic" version)
+
+gphoto2/stable 2.5.28-3 arm64
+  digital camera command-line client
+
+gphotofs/stable 0.5-6+b3 arm64
+  filesystem to mount digital cameras
+
+gpick/stable 0.2.6-1.1+b1 arm64
+  advanced GTK+ color picker
+
+gpicview/stable 0.3.1-1 arm64
+  lightweight image viewer
+
+gping/stable 1.19.0-3+b1 arm64
+  ping, but with a graph
+
+gpiod/stable 2.2.1-2+deb13u1 arm64
+  Tools for interacting with Linux GPIO character device - binary
+
+gplanarity/stable 17906-7+b3 arm64
+  simple puzzle game involving untangling planar graphs
+
+gplcver/stable 2.12a-3 arm64
+  Verilog simulator
+
+gpm/stable 1.20.7-11+b2 arm64
+  General Purpose Mouse interface
+
+gpodder/stable 3.11.3-2 all
+  podcast client and feed aggregator
+
+gpp/stable 2.28-2+b1 arm64
+  general-purpose preprocessor with customizable syntax
+
+gprbuild/stable 2025.0.0-4 arm64
+  multi-language extensible build tool
+
+gprbuild-doc/stable 2025.0.0-4 all
+  multi-language extensible build tool (documentation)
+
+gprconfig-kb/stable 25.0.0-2 all
+  compiler list for the gprbuild build tool
+
+gpredict/stable 2.3-115-g0f3beb6-4+b1 arm64
+  Satellite tracking program
+
+gpredict-doc/stable 2.3-115-g0f3beb6-4 all
+  Satellite tracking program - documentation
+
+gprename/stable 20210415-1 all
+  complete batch renamer for Linux
+
+gprofng-gui/stable 1:1.0-1 all
+  Graphical user interface for the GNU gprofng tool
+
+gprolog-doc/stable 1.4.5.0-3 all
+  documentation for the GNU Prolog compiler
+
+gpsbabel/stable 1.10.0+ds-1 arm64
+  GPS file conversion plus transfer to/from GPS units
+
+gpsbabel-doc/stable 1.10.0+ds-1 all
+  GPS file conversion plus transfer to/from GPS units - documentation
+
+gpsbabel-gui/stable 1.10.0+ds-1 arm64
+  GPS file conversion plus transfer to/from GPS units - GUI
+
+gpscorrelate/stable 2.3-0.1 arm64
+  correlates digital photos with GPS data filling EXIF fields (command line)
+
+gpscorrelate-gui/stable 2.3-0.1 arm64
+  correlates digital photos with GPS data filling EXIF fields (GUI)
+
+gpsd/stable 3.25-5+deb13u1 arm64
+  Global Positioning System - daemon
+
+gpsd-clients/stable 3.25-5+deb13u1 arm64
+  Global Positioning System - clients
+
+gpsd-tools/stable 3.25-5+deb13u1 arm64
+  Global Positioning System - tools
+
+gpshell/stable 2.4.0+dfsg-3 arm64
+  GlobalPlatform Shell smart card script interpreter
+
+gpsim/stable 0.32.1-2+b2 arm64
+  Simulator for Microchip's PIC microcontrollers
+
+gpsim-dev/stable 0.32.1-2+b2 arm64
+  Libraries needed only for building gpsim components
+
+gpsman/stable 6.4.4.2-9 all
+  GPS data graphical manager
+
+gpsmanshp/stable 1.2.3-7+b1 arm64
+  Tcl interface to shapelib
+
+gpsprune/stable 25.2-1 all
+  visualize, edit, convert and prune GPS data
+
+gpsshogi-data/stable 0.7.0-3.2 all
+  data files for gpsshogi
+
+gpstrans/stable 0.41-11 arm64
+  communicate via serial port with a Garmin GPS receiver
+
+gpt/stable 1.1-8+b1 arm64
+  G-Portugol is a Portuguese structured programming language
+
+gputils/stable 1.5.2-1 arm64
+  GNU PIC utilities
+
+gputils-common/stable 1.5.2-1 all
+  headers and linker scripts for gputils
+
+gputils-doc/stable 1.5.2-1 all
+  documentation for gputils
+
+gpw/stable 0.0.19940601-11+b1 arm64
+  Trigraph Password Generator
+
+gpx/stable 2.6.8-1+b1 arm64
+  Gcode to x3g conversion post processor
+
+gpxinfo/stable 1.6.2-1 all
+  Command line utility to extract basic statistics from a GPX file
+
+gpxviewer/stable 1.2.0-2 all
+  views GPS traces collected in the GPX format
+
+gr-fosphor/stable 3.9~git20240323.74d54fc-1+b10 arm64
+  gnuradio fosphor block (GPU spectrum display)
+
+grml-keyring/stable 2025.07.02 all
+  OpenPGP certificates used by the Grml project
+
+grub-efi-arm64/stable 2.12-9+deb13u2 arm64
+  GRand Unified Bootloader, version 2 (ARM64 UEFI version)
+
+grub-efi-arm64-bin/stable 2.12-9+deb13u2 arm64
+  GRand Unified Bootloader, version 2 (ARM64 UEFI modules)
+
+grub-efi-arm64-signed/stable 1+2.12+9+deb13u2 arm64
+  GRand Unified Bootloader, version 2 (arm64 UEFI signed by Debian)
+
+grub-efi-arm64-unsigned/stable 2.12-9+deb13u2 arm64
+  GRand Unified Bootloader, version 2 (ARM64 UEFI images)
+
+gstreamer1.0-plugins-good/stable 1.26.2-1+deb13u2 arm64 [upgradable from: 1.26.2-1]
+  GStreamer plugins from the "good" set
+
+gthumb/stable 3:3.12.7-1+b1 arm64
+  image viewer and browser
+
+gthumb-data/stable 3:3.12.7-1 all
+  image viewer and browser - arch-independent files
+
+gthumb-dev/stable 3:3.12.7-1+b1 arm64
+  image viewer and browser - development files
+
+guile-gcrypt/stable 0.4.0-5 arm64
+  gcrypt bindings for guile
+
+guncat/stable 2.02.00-1 arm64
+  Catenates files while decrypting PGP-encrypted sections
+
+gvfs-backends/stable 1.57.2-2+deb13u1 arm64
+  userspace virtual filesystem - backends
+
+hash-slinger/stable 3.1-1.2 arm64
+  tools to generate special DNS records
+
+hashcat/stable 6.2.6+ds2-1+b1 arm64
+  World's fastest and most advanced password recovery utility
+
+hashcat-data/stable 6.2.6+ds2-1 all
+  Data files for hashcat advanced password recovery utility
+
+haskell-dbus-hslogger-utils/stable 0.1.0.1-5+b2 arm64
+  expose a dbus server to control hslogger
+
+hcxkeys/stable 6.2.1-2+b2 arm64
+  Tools to generate plainmasterkeys (rainbowtables)
+
+heif-gdk-pixbuf/stable 1.19.8-1 arm64
+  HEIF and AVIF file format decoder and encoder - gdk-pixbuf loader
+
+hiera-eyaml/stable 4.2.0-1.1 all
+  OpenSSL Encryption backend for Hiera
+
+hipcc/stable 5.7.1-6+deb13u1 arm64
+  C++ Runtime API and Kernel Language for AMD and NVIDIA GPUs
+
+hopenpgp-tools/stable 0.23.11-1 arm64
+  hOpenPGP-based command-line tools
+
+ht/stable 2.1.0+repack1-5+b1 arm64
+  Viewer/editor/analyser (mostly) for executables
+
+hxtools/stable 20231224-2+b3 arm64
+  Collection of tools and scripts
+
+idn/stable 1.43-1 arm64
+  Command line interface to GNU Libidn
+
+ikvswitch/stable 1.0.4+deb13u1 all
+  virtual switch infrastructure designed for complex network deployment testing
+
+imagination/stable 3.6-2+b2 arm64
+  DVD slide show maker
+
+imgp/stable 2.9-1 all
+  Superfast batch image resizer and rotator
+
+impass/stable 0.14.1-1 all
+  Simple and secure password management and retrieval system
+
+indi-gphoto/stable 3.2+20221221172841-2+b3 arm64
+  INDI driver for GPhoto (DSLR) Cameras
+
+indi-gpsd/stable 0.5+20221222000619-1+b4 arm64
+  INDI driver for gpsd GPS daemon
+
+indi-gpsnmea/stable 0.2+20221223114018-1+b1 arm64
+  INDI driver for GPS NMEA streams
+
+ircmarkers/stable 0.16-1 arm64
+  place markers on maps at given coordinates
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+jetring/stable 0.32 all
+  gpg keyring maintenance using changesets
+
+josm/stable 0.0.svn19369+dfsg-2 all
+  Editor for OpenStreetMap
+
+josm-l10n/stable 0.0.svn19369+dfsg-2 all
+  Editor for OpenStreetMap - translation files
+
+jpegpixi/stable 1.1.1-5+b1 arm64
+  Remove hot spots from JPEG images with minimal quality loss
+
+kgeotag/stable 1.8.0-1 arm64
+  Photo geotagging program
+
+kgpg/stable 4:25.04.0-1 arm64
+  graphical front end for GNU Privacy Guard
+
+kitty/stable 0.41.1-2+deb13u1 arm64
+  fast, featureful, GPU based terminal emulator
+
+kitty-doc/stable 0.41.1-2+deb13u1 all
+  fast, featureful, GPU based terminal emulator (documentation)
+
+kitty-shell-integration/stable 0.41.1-2+deb13u1 all
+  fast, featureful, GPU based terminal emulator (shell integration files)
+
+kitty-terminfo/stable 0.41.1-2+deb13u1 all
+  fast, featureful, GPU based terminal emulator (terminfo file)
+
+kleopatra/stable 4:24.12.3-1+deb13u1 arm64
+  Certificate Manager and Unified Crypto GUI
+
+kodi-screensaver-pingpong/stable 21.0.2+ds-1 arm64
+  Pingpong screensaver for Kodi
+
+kquickcharts-dev/stable 5.116.0-1 arm64
+  Quick Charts - development files
+
+kuvert/stable 2.2.6+b1 arm64
+  wrapper that encrypts or signs outgoing mail
+
+lazarus/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - SDK dependency package
+
+lazarus-4.0/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - suite
+
+lazarus-doc/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - documentation dependency package
+
+lazarus-doc-4.0/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - documentation
+
+lazarus-ide/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - dependency package
+
+lazarus-ide-4.0/stable 4.0+dfsg-3+b1 arm64
+  IDE for Free Pascal - common IDE files
+
+lazarus-ide-gtk2/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - Last GTK+ version dependency package
+
+lazarus-ide-gtk2-4.0/stable 4.0+dfsg-3+b1 arm64
+  IDE for Free Pascal - GTK+ version
+
+lazarus-ide-qt5/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - Last Qt version dependency package
+
+lazarus-ide-qt5-4.0/stable 4.0+dfsg-3+b1 arm64
+  IDE for Free Pascal - Qt version
+
+lazarus-src/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - LCL source code dependency package
+
+lazarus-src-4.0/stable 4.0+dfsg-3 all
+  IDE for Free Pascal - LCL source code
+
+lbdb/stable 0.56-1 arm64
+  Little Brother's DataBase for the mutt mail reader
+
+lcl/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - LCL dependency package
+
+lcl-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - LCL suite
+
+lcl-gtk2/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - GTK+ backend dependency package
+
+lcl-gtk2-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - GTK+ backend
+
+lcl-nogui/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - no GUI backend dependency package
+
+lcl-nogui-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - no GUI backend
+
+lcl-qt5/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - Qt backend dependency package
+
+lcl-qt5-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - Qt backend
+
+lcl-units/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - backend independent components dependency package
+
+lcl-units-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - backend independent components
+
+lcl-utils/stable 4.0+dfsg-3 all
+  Lazarus Components Library - command line build tools dependency package
+
+lcl-utils-4.0/stable 4.0+dfsg-3+b1 arm64
+  Lazarus Components Library - command line build tools
+
+ledmon/stable 0.97-1.2+b1 arm64
+  Enclosure LED Utilities
+
+leela-zero/stable 0.17-1+b5 arm64
+  Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper
+
+lfortran/stable 0.45.0-1+b3 arm64
+  Modern interactive LLVM-based Fortran compiler
+
+lib2geom-dev/stable 1.4-4 arm64
+  robust computational geometry framework -- development library
+
+lib2geom1.4.0/stable 1.4-4 arm64
+  robust computational geometry framework -- shared library
+
+lib32gphobos-12-dev-amd64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-12-dev-ppc64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-12-dev-s390x-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-12-dev-x32-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-13-dev-amd64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-13-dev-mips64-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-13-dev-mips64el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-13-dev-mips64r6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-13-dev-mips64r6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-13-dev-ppc64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-13-dev-s390x-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-13-dev-x32-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-14-dev-amd64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-14-dev-mips64-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-14-dev-mips64el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-14-dev-mips64r6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-14-dev-mips64r6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-14-dev-ppc64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-14-dev-s390x-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos-14-dev-x32-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (32bit development files)
+
+lib32gphobos3-amd64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos3-ppc64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos3-s390x-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos3-x32-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos4-amd64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos4-mips64-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos4-mips64el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos4-mips64r6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos4-mips64r6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos4-ppc64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos4-s390x-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos4-x32-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos5-amd64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos5-mips64-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos5-mips64el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos5-mips64r6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos5-mips64r6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos5-ppc64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos5-s390x-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+lib32gphobos5-x32-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos-12-dev-i386-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-12-dev-x32-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-13-dev-i386-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-13-dev-mips-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-13-dev-mipsel-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-13-dev-mipsr6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-13-dev-mipsr6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-13-dev-x32-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-14-dev-i386-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-14-dev-mips-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-14-dev-mipsel-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-14-dev-mipsr6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-14-dev-mipsr6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-14-dev-x32-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos3-i386-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos3-powerpc-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos3-x32-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos4-i386-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos4-mips-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos4-mipsel-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos4-mipsr6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos4-mipsr6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos4-powerpc-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos4-x32-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos5-i386-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos5-mips-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos5-mipsel-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos5-mipsr6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos5-mipsr6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos5-powerpc-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos5-x32-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libadplug-2.3.3-0/stable 2.3.3+dfsg-2+b1 arm64
+  free AdLib sound library
+
+libadplug-dev/stable 2.3.3+dfsg-2+b1 arm64
+  free AdLib sound library (development)
+
+liballelecount-perl/stable 4.3.0-3 all
+  Perl interface to NGS copy number algorithms
+
+libamdhip64-5/stable 5.7.1-6+deb13u1 arm64
+  Heterogeneous Interface for Portability - AMD GPUs implementation
+
+libapophenia2-dev/stable 1.0+ds-10 arm64
+  Apophenia Statistical C Library -- development package
+
+libapophenia2t64/stable 1.0+ds-10 arm64
+  Apophenia Statistical C Library -- library package
+
+libargon2-1/stable 0~20190702+dfsg-4+b2 arm64
+  memory-hard hashing function - runtime library
+
+libargon2-dev/stable 0~20190702+dfsg-4+b2 arm64
+  memory-hard hashing function - development files
+
+libargparse-dev/stable 3.2-1 arm64
+  parsing command-line arguments in C++
+
+libargparse4j-java/stable 0.9.0-1 all
+  command-line argument parser for Java based on Python's argparse module
+
+libargs-dev/stable 6.4.1-1 all
+  simple header-only C++ argument parser library
+
+libarm-compute-dev/stable 24.11+dfsg-3 arm64
+  Arm Compute Library - development files
+
+libarm-compute-doc/stable 24.11+dfsg-3 all
+  Arm Compute Library - documentation
+
+libarm-compute43/stable 24.11+dfsg-3 arm64
+  Arm Compute Library
+
+libarmnn-cpuacc-backend33/stable 23.08-5 arm64
+  Arm NN dynamically loadable Neon backend
+
+libarmnn-cpuref-backend33/stable 23.08-5 arm64
+  Arm NN dynamically loadable Reference backend
+
+libarmnn-dev/stable 23.08-5 arm64
+  Inference engine for CPUs, GPUs and NPUs - header files
+
+libarmnn-gpuacc-backend33/stable 23.08-5 arm64
+  Arm NN dynamically loadable CL backend
+
+libarmnn33t64/stable 23.08-5 arm64
+  Inference engine for CPUs, GPUs and NPUs - shared library
+
+libarmnnaclcommon33t64/stable 23.08-5 arm64
+  Arm NN shared library for Arm Compute Library backends
+
+libarmnntfliteparser-dev/stable 23.08-5 arm64
+  Arm NN TensorFlow Lite parser library - header files
+
+libarmnntfliteparser24t64/stable 23.08-5 arm64
+  Arm NN TensorFlow Lite parser library
+
+libasl-dev/stable 0.1.7-4.1+b5 arm64
+  development files for ASL
+
+libasl0t64/stable 0.1.7-4.1+b5 arm64
+  multiphysics simulation software
+
+libatteanx-store-sparql-perl/stable 0.012-2+b1 arm64
+  Attean SPARQL triple store
+
+libaudiomask-dev/stable 1.0-3.1 arm64
+  Audio masking threshold estimation lib headers, docs and examples
+
+libaudiomask1/stable 1.0-3.1 arm64
+  Audio masking threshold estimation library
+
+libauth-yubikey-webclient-perl/stable 4.02-3 all
+  Perl module to authenticate a Yubikey against the Yubico Web API
+
+libauthen-sasl-saslprep-perl/stable 1.100-4 all
+  Stringprep Profile for User Names and Passwords (RFC 4013)
+
+libavahi-client-dev/stable 0.8-16 arm64
+  Development files for the Avahi client library
+
+libavahi-client3/stable,now 0.8-16 arm64 [installed,automatic]
+  Avahi client library
+
+libavahi-common-data/stable,now 0.8-16 arm64 [installed,automatic]
+  Avahi common data files
+
+libavahi-common-dev/stable 0.8-16 arm64
+  Development files for the Avahi common library
+
+libavahi-common3/stable,now 0.8-16 arm64 [installed,automatic]
+  Avahi common library
+
+libavahi-compat-libdnssd-dev/stable 0.8-16 arm64
+  Development headers for the Avahi Apple Bonjour compatibility library
+
+libavahi-compat-libdnssd1/stable 0.8-16 arm64
+  Avahi Apple Bonjour compatibility library
+
+libavahi-core-dev/stable 0.8-16 arm64
+  Development files for Avahi's embeddable mDNS/DNS-SD library
+
+libavahi-core7/stable 0.8-16 arm64
+  Avahi's embeddable mDNS/DNS-SD library
+
+libavahi-glib-dev/stable 0.8-16 arm64
+  Development headers for the Avahi GLib integration library
+
+libavahi-glib1/stable 0.8-16 arm64
+  Avahi GLib integration library
+
+libavahi-gobject-dev/stable 0.8-16 arm64
+  Development headers for the Avahi GObject library
+
+libavahi-gobject0/stable 0.8-16 arm64
+  Avahi GObject library
+
+libavahi-ui-gtk3-0/stable 0.8-16 arm64
+  Avahi GTK+ User interface library for GTK3
+
+libavahi-ui-gtk3-dev/stable 0.8-16 arm64
+  Development headers for the Avahi GTK+ User interface library
+
+libavcodec-extra61/stable 7:7.1.5-0+deb13u1 arm64
+  FFmpeg library with additional de/encoders for audio/video codecs
+
+libavfilter-extra10/stable 7:7.1.5-0+deb13u1 arm64
+  FFmpeg library with extra media filters - runtime files
+
+libavformat-extra61/stable 7:7.1.5-0+deb13u1 arm64
+  FFmpeg library with additional (de)muxers for multimedia containers
+
+libbcm2835-dev/stable 1.75+ds-1 arm64
+  access to GPIO and other IO functions on the Broadcom BCM 2835 chip
+
+libbcpg-java/stable 1.80-3 all
+  Bouncy Castle generators/processors for OpenPGP
+
+libbluetooth-dev/stable 5.82-1.1 arm64
+  Development files for using the BlueZ Linux Bluetooth library
+
+libbluetooth3/stable 5.82-1.1 arm64
+  Library to use the BlueZ Linux Bluetooth stack
+
+libclblast-dev/stable 1.6.3-1+b1 arm64
+  Tuned OpenCL BLAS library (development files)
+
+libclblast1/stable 1.6.3-1+b1 arm64
+  Tuned OpenCL BLAS library
+
+libclc-17/stable 1:17.0.6-22 all
+  OpenCL C language implementation - platform support
+
+libclc-18/stable 1:18.1.8-18 all
+  OpenCL C language implementation - platform support
+
+libclc-19/stable 1:19.1.7-3 all
+  OpenCL C language implementation - platform support
+
+libclfft-dev/stable 2.12.2-5+b2 arm64
+  development files for clFFT
+
+libclfft-doc/stable 2.12.2-5 all
+  documentation for clFFT
+
+libclfft2/stable 2.12.2-5+b2 arm64
+  OpenCL FFT library
+
+libclucene-contribs1t64/stable 2.3.3.4+dfsg-1.2+b1 arm64
+  language specific text analyzers (runtime)
+
+libclucene-core1t64/stable 2.3.3.4+dfsg-1.2+b1 arm64
+  core library for full-featured text search engine (runtime)
+
+libclucene-dev/stable 2.3.3.4+dfsg-1.2+b1 arm64
+  library for full-featured text search engine (development)
+
+libcolt-free-java/stable 1.2.0+dfsg-8 all
+  scalable scientific and technical computing in Java
+
+libcolt-free-java-doc/stable 1.2.0+dfsg-8 all
+  scalable scientific and technical computing in Java (doc)
+
+libconvert-ascii-armour-perl/stable 1.4-3 all
+  module to convert binary into ASCII-armoured messages
+
+libcpan-checksums-perl/stable 2.14-2 all
+  Perl module to write a CHECKSUMS file for a directory as on CPAN
+
+libcpgplot0/stable 1.5.0-2 arm64
+  CPGPLOT replacement shared lib based on giza
+
+libcpuinfo-dev/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (header file)
+
+libcpuinfo0/stable 0.0~git20250327.39ea79a-1 arm64
+  CPU INFOrmation library (shared object)
+
+libcryptgps-ocaml-dev/stable 0.2.1-13+b3 arm64
+  OCaml implementation of symmetric cryptographic algorithms: Blowfish, DES, 3DES
+
+libcryptui-dev/stable 3.12.2-8+b2 arm64
+  UI library for OpenPGP prompts (development)
+
+libcryptui-doc/stable 3.12.2-8 all
+  UI library for OpenPGP prompts (documentation)
+
+libcryptui0a/stable 3.12.2-8+b2 arm64
+  UI library for OpenPGP prompts
+
+libcu++-dev/stable 2.3.2-2 all
+  NVIDIA C++ Standard Library
+
+libdebuginfod-common/stable 0.192-4 all
+  configuration to enable the Debian debug info server
+
+libdnnl-dev/stable 3.7.2+ds-2 arm64
+  oneAPI Deep Neural Network Library (oneDNN) (dev)
+
+libdnnl3.6/stable 3.7.2+ds-2 arm64
+  oneAPI Deep Neural Network Library (oneDNN) (lib)
+
+libdrm-amdgpu1/stable,now 2.4.124-2 arm64 [installed,automatic]
+  Userspace interface to amdgpu-specific kernel DRM services -- runtime
+
+libeasyloggingpp-dev/stable 9.97.1+dfsg-1 all
+  single-header logging library for C++ applications
+
+libeclipse-linuxtools-java/stable 8.1.0+dfsg.1-1 all
+  framework for Eclipse CDT profiling tools (Java libraries)
+
+libeditreadline-dev/stable 3.1-20250104-1 arm64
+  BSD editline and history libraries (shim development files)
+
+libemail-outlook-message-perl/stable 0.921-1 all
+  module for reading Outlook .msg files
+
+libfaiss-dev/stable 1.11.0-3 arm64
+  efficient similarity search and clustering of dense vectors
+
+libffmpeg-nvenc-dev/stable 12.1.14.0-1 all
+  FFmpeg headers for interfacing with NVIDIA's codec APIs
+
+libfxdiv-dev/stable 0.0~git20200417.b408327-4 arm64
+  division via fixed-point multiplication by inverse
+
+libgarmin-dev/stable 0~svn320-6+b2 arm64
+  Garmin image format library (development files)
+
+libgarmin0/stable 0~svn320-6+b2 arm64
+  Garmin image format library (runtime version)
+
+libgcrypt-bin/stable 1.11.0-7+deb13u1 arm64
+  LGPL Crypto library - utility binaries
+
+libgcrypt-mingw-w64-dev/stable 1.11.0-7+deb13u1 all
+  LGPL Crypto library - Windows development
+
+libgcrypt20/stable 1.11.0-7+deb13u1 arm64 [upgradable from: 1.11.0-7]
+  LGPL Crypto library - runtime library
+
+libgcrypt20-dev/stable 1.11.0-7+deb13u1 arm64
+  LGPL Crypto library - development files
+
+libgcrypt20-doc/stable 1.11.0-7+deb13u1 all
+  LGPL Crypto library - documentation
+
+libgeo-gpx-perl/stable 1.11-1 all
+  Perl module for creating and parsing GPX files
+
+libgetopt-argparse-perl/stable 1.0.6-2 all
+  module to parse @ARGV with a richer and more user-friendly API
+
+libgfshare-bin/stable 2.0.0-7 arm64
+  utilities for multi-way secret-sharing
+
+libgfshare-dev/stable 2.0.0-7 arm64
+  library for multi-way secret-sharing (headers)
+
+libgfshare2/stable 2.0.0-7 arm64
+  library for multi-way secret-sharing
+
+libghc-dbus-hslogger-dev/stable 0.1.0.1-5+b2 arm64
+  expose a dbus server to control hslogger
+
+libghc-dbus-hslogger-doc/stable 0.1.0.1-5 all
+  expose a dbus server to control hslogger; documentation
+
+libghc-dbus-hslogger-prof/stable 0.1.0.1-5+b2 arm64
+  expose a dbus server to control hslogger; profiling libraries
+
+libghc-fixed-dev/stable 0.3-4+b1 arm64
+  signed 15.16 precision fixed point arithmetic
+
+libghc-fixed-doc/stable 0.3-4 all
+  signed 15.16 precision fixed point arithmetic; documentation
+
+libghc-fixed-prof/stable 0.3-4+b1 arm64
+  signed 15.16 precision fixed point arithmetic; profiling libraries
+
+libghc-futhark-dev/stable 0.25.27-1+b2 arm64
+  library files for for Futhark programming language
+
+libghc-futhark-doc/stable 0.25.27-1 all
+  library files for for Futhark programming language; documentation
+
+libghc-futhark-prof/stable 0.25.27-1+b2 arm64
+  library files for for Futhark programming language; profiling libraries
+
+libghc-half-dev/stable 0.3.1-3+b1 arm64
+  half-precision floating-point
+
+libghc-half-doc/stable 0.3.1-3 all
+  half-precision floating-point; documentation
+
+libghc-half-prof/stable 0.3.1-3+b1 arm64
+  half-precision floating-point; profiling libraries
+
+libghc-hopenpgp-dev/stable 2.10.1-1 arm64
+  implementation of OpenPGP (RFC4880)
+
+libghc-hopenpgp-doc/stable 2.10.1-1 all
+  implementation of OpenPGP (RFC4880); documentation
+
+libghc-hopenpgp-prof/stable 2.10.1-1 arm64
+  OpenPGP (RFC4880); profiling libraries
+
+libghc-openpgp-asciiarmor-dev/stable 0.1.2-5+b1 arm64
+  OpenPGP (RFC4880) ASCII Armor codec
+
+libghc-openpgp-asciiarmor-doc/stable 0.1.2-5 all
+  OpenPGP (RFC4880) ASCII Armor codec; documentation
+
+libghc-openpgp-asciiarmor-prof/stable 0.1.2-5+b1 arm64
+  OpenPGP (RFC4880) ASCII Armor codec; profiling libraries
+
+libghc-skylighting-core-dev/stable 0.14.3-1 arm64
+  syntax highlighting library
+
+libghc-skylighting-core-doc/stable 0.14.3-1 all
+  syntax highlighting library; documentation
+
+libghc-skylighting-core-prof/stable 0.14.3-1 arm64
+  syntax highlighting library; profiling libraries
+
+libghc-stringprep-dev/stable 1.0.0-14+b2 arm64
+  Implements the "StringPrep" algorithm
+
+libghc-stringprep-doc/stable 1.0.0-14 all
+  Implements the "StringPrep" algorithm; documentation
+
+libghc-stringprep-prof/stable 1.0.0-14+b2 arm64
+  Implements the "StringPrep" algorithm; profiling libraries
+
+libgiza0/stable 1.5.0-2 arm64
+  Lightweight scientific plotting library (shared library)
+
+libgloo-dev/stable 0.0~git20231202.5354032-3+b2 arm64
+  Collective communications library (development files)
+
+libgloo0/stable 0.0~git20231202.5354032-3+b2 arm64
+  Collective communications library (shared object)
+
+libgnatprj-dev/stable 2025.0.0-4 arm64
+  support for programs processing GNAT projects (development)
+
+libgnatprj12/stable 2025.0.0-4 arm64
+  support for programs processing GNAT projects (runtime)
+
+libgnupg-perl/stable 0.19-5 all
+  interface to GnuPG 1.4 using its coprocess interface
+
+libgnuradio-fosphor3.9.0/stable 3.9~git20240323.74d54fc-1+b10 arm64
+  gnuradio fosphor block (GPU spectrum display) (library)
+
+libgoby-io-java/stable 3.3.1+dfsg2-11 all
+  IO API for goby
+
+libgoogle-perftools-dev/stable 2.16-1 arm64
+  libraries for CPU and heap analysis, plus an efficient thread-caching malloc
+
+libgoogle-perftools4t64/stable 2.16-1 arm64
+  libraries for CPU and heap analysis, plus an efficient thread-caching malloc
+
+libgpars-groovy-java/stable 1.2.1-11 all
+  open-source concurrency library for Groovy
+
+libgpaste-2/stable 45.3-1 arm64
+  Clipboard management system for GNOME - library
+
+libgpaste-2-common/stable 45.3-1 all
+  Clipboard management system for GNOME - shared files
+
+libgpaste-2-dev/stable 45.3-1 arm64
+  Clipboard management system for GNOME - development files
+
+libgpg-error-dev/stable 1.51-4 arm64
+  GnuPG development runtime library (developer tools)
+
+libgpg-error-l10n/stable 1.51-4 all
+  library of error values and messages in GnuPG (localization files)
+
+libgpg-error-mingw-w64-dev/stable 1.51-4 all
+  library of error values and messages in GnuPG (Windows development)
+
+libgpg-error0/stable,now 1.51-4 arm64 [installed,automatic]
+  GnuPG development runtime library
+
+libgpgme-dev/stable 1.24.2-3 arm64
+  GPGME - GnuPG Made Easy (development files)
+
+libgpgme11t64/stable,now 1.24.2-3 arm64 [installed,automatic]
+  GPGME - GnuPG Made Easy (library)
+
+libgpgmepp-dev/stable 1.24.2-3 arm64
+  C++ wrapper library for GPGME (development files)
+
+libgpgmepp-doc/stable 1.24.2-3 all
+  C++ and Qt bindings for GPGME (documentation for developers)
+
+libgpgmepp6t64/stable,now 1.24.2-3 arm64 [installed,automatic]
+  C++ wrapper library for GPGME
+
+libgphobos-12-dev/stable 12.4.0-5 arm64
+  Phobos D standard library
+
+libgphobos-12-dev-amd64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-12-dev-arm64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-12-dev-armel-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-12-dev-armhf-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-12-dev-hppa-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-12-dev-i386-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-12-dev-ppc64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-12-dev-ppc64el-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-12-dev-riscv64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-12-dev-s390x-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-12-dev-x32-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev/stable 13.3.0-16 arm64
+  Phobos D standard library
+
+libgphobos-13-dev-amd64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-arm64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-armel-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-armhf-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-hppa-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-i386-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-mips-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-mips64-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-mips64el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-mips64r6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-mips64r6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-mipsel-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-mipsr6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-mipsr6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-ppc64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-ppc64el-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-riscv64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-s390x-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-x32-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev/stable 14.2.0-19 arm64
+  Phobos D standard library
+
+libgphobos-14-dev-amd64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-arm64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-armel-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-armhf-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-hppa-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-i386-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-loong64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-mips-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-mips64-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-mips64el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-mips64r6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-mips64r6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-mipsel-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-mipsr6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-mipsr6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-ppc64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-ppc64el-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-riscv64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-s390x-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-x32-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos-dev/stable 14.2.0-1 arm64
+  Phobos D standard library
+
+libgphobos3/stable 12.4.0-5 arm64
+  Phobos D standard library (runtime library)
+
+libgphobos3-amd64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos3-arm64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos3-armel-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos3-armhf-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos3-hppa-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos3-i386-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos3-powerpc-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos3-ppc64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos3-ppc64el-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos3-riscv64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos3-s390x-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos3-x32-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4/stable 13.3.0-16 arm64
+  Phobos D standard library (runtime library)
+
+libgphobos4-amd64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-arm64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-armel-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-armhf-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-hppa-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-i386-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-mips-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-mips64-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-mips64el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-mips64r6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-mips64r6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-mipsel-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-mipsr6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-mipsr6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-powerpc-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-ppc64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-ppc64el-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-riscv64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-s390x-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-x32-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5/stable 14.2.0-19 arm64
+  Phobos D standard library (runtime library)
+
+libgphobos5-amd64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-arm64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-armel-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-armhf-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-hppa-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-i386-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-loong64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-mips-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-mips64-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-mips64el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-mips64r6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-mips64r6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-mipsel-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-mipsr6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-mipsr6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-powerpc-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-ppc64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-ppc64el-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-riscv64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-s390x-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-x32-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libgphoto2-6t64/stable 2.5.31-4 arm64
+  gphoto2 digital camera library
+
+libgphoto2-dev/stable 2.5.31-4 arm64
+  gphoto2 digital camera library (development files)
+
+libgphoto2-dev-doc/stable 2.5.31-4 all
+  gphoto2 digital camera library (development documentation)
+
+libgphoto2-l10n/stable 2.5.31-4 all
+  gphoto2 digital camera library - localized messages
+
+libgphoto2-port12t64/stable 2.5.31-4 arm64
+  gphoto2 digital camera port library
+
+libgpiod-dev/stable 2.2.1-2+deb13u1 arm64
+  C library for interacting with Linux GPIO device - static libraries and headers
+
+libgpiod-doc/stable 2.2.1-2+deb13u1 all
+  C library for interacting with Linux GPIO device - library documentation
+
+libgpiod3/stable 2.2.1-2+deb13u1 arm64
+  C library for interacting with Linux GPIO device - shared libraries
+
+libgpm-dev/stable 1.20.7-11+b2 arm64
+  General Purpose Mouse - development files
+
+libgpm2/stable,now 1.20.7-11+b2 arm64 [installed,automatic]
+  General Purpose Mouse - shared library
+
+libgpod-common/stable 0.8.3-22+b1 arm64
+  common files for libgpod
+
+libgpod-dev/stable 0.8.3-22+b1 arm64
+  development files for libgpod
+
+libgpod-doc/stable 0.8.3-22 all
+  documentation for libgpod
+
+libgpod4t64/stable 0.8.3-22+b1 arm64
+  library to read and write songs and artwork to an iPod
+
+libgportugol-dev/stable 1.1-8+b1 arm64
+  Development files for the G-Portugol library
+
+libgportugol0/stable 1.1-8+b1 arm64
+  G-Portugol library
+
+libgppcscconnectionplugin1/stable 2.4.0+dfsg-3 arm64
+  PC/SC connection plugin for GlobalPlatform Library
+
+libgprofng0/stable,now 2.44-3 arm64 [installed,automatic]
+  GNU Next Generation profiler (runtime library)
+
+libgprofng0-dbg/stable 2.44-3 arm64
+  GNU Next Generation profiler (debug symbols)
+
+libgps-dev/stable 3.25-5+deb13u1 arm64
+  Global Positioning System - development files
+
+libgps-point-perl/stable 0.20-5 all
+  module providing an object interface for a GPS point
+
+libgps30t64/stable 3.25-5+deb13u1 arm64
+  Global Positioning System - library
+
+libgs-common/stable,now 10.05.1~dfsg-1+deb13u1 all [installed,automatic]
+  interpreter for the PostScript language and for PDF - ICC profiles
+
+libgs-dev/stable 10.05.1~dfsg-1+deb13u1 arm64
+  interpreter for the PostScript language and for PDF - Development Files
+
+libgs10/stable,now 10.05.1~dfsg-1+deb13u1 arm64 [installed,automatic]
+  interpreter for the PostScript language and for PDF - Library
+
+libgs10-common/stable,now 10.05.1~dfsg-1+deb13u1 all [installed,automatic]
+  interpreter for the PostScript language and for PDF - common files
+
+libgtp-dev/stable 1.13.0-2 arm64
+  Development files for libgtp
+
+libgtp11/stable 1.13.0-2 arm64
+  library implementing the GTP protocol between SGSN and GGSN
+
+libhalide19-0/stable 19.0.0-6 arm64
+  fast, portable computation on images and tensors
+
+libhipblas-dev/stable 5.5.1-4+b1 arm64
+  portable interface for GPU BLAS - headers
+
+libhipblas-doc/stable 5.5.1-4 all
+  portable interface for GPU BLAS - documentation
+
+libhipblas0/stable 5.5.1-4+b1 arm64
+  portable interface for GPU BLAS - library
+
+libhipblas0-tests/stable 5.5.1-4+b1 arm64
+  portable interface for GPU BLAS - tests
+
+libhipcub-dev/stable 5.7.1-3 all
+  portable interface for GPU parallel primitives - headers
+
+libhipcub-tests/stable 5.7.1-3 arm64
+  portable interface for GPU parallel primitives - tests
+
+libhipfft-dev/stable 6.1.2-3+b1 arm64
+  portable interface for Fast Fourier Transforms on the GPU - headers
+
+libhipfft-doc/stable 6.1.2-3 all
+  portable interface for Fast Fourier Transforms on the GPU - documentation
+
+libhipfft0/stable 6.1.2-3+b1 arm64
+  portable interface for Fast Fourier Transforms on the GPU - library
+
+libhipfft0-tests/stable 6.1.2-3+b1 arm64
+  portable interface for Fast Fourier Transforms on the GPU - tests
+
+libhipi-perl/stable 0.93-1 arm64
+  Raspberry Pi GPIO Perl Modules
+
+libhiprand1-tests/stable 5.7.1-6 arm64
+  wrapper library to port from cuRAND applications to HIP - tests
+
+libhipsolver-dev/stable 5.5.1-8 arm64
+  portable interface for GPU LAPACK routines - headers
+
+libhipsolver-doc/stable 5.5.1-8 all
+  portable interface for GPU LAPACK routines - documentation
+
+libhipsolver0/stable 5.5.1-8 arm64
+  portable interface for GPU LAPACK routines - library
+
+libhipsolver0-tests/stable 5.5.1-8 arm64
+  portable interface for GPU LAPACK routines - tests
+
+libhipsparse-dev/stable 5.7.1-1+b2 arm64
+  portable interface for sparse linear algebra on the GPU - headers
+
+libhipsparse-doc/stable 5.7.1-1 all
+  portable interface for sparse linear algebra on the GPU - documentation
+
+libhipsparse0/stable 5.7.1-1+b2 arm64
+  portable interface for sparse linear algebra on the GPU - library
+
+libhipsparse0-tests/stable 5.7.1-1+b2 arm64
+  portable interface for sparse linear algebra on the GPU - tests
+
+libhmsbeagle-dev/stable 4.0.1+dfsg-3 arm64
+  High-performance lib for Bayesian and Maximum Likelihood phylogenetics (devel)
+
+libhmsbeagle-java/stable 4.0.1+dfsg-3 arm64
+  High-performance lib for Bayesian and Maximum Likelihood phylogenetics (java)
+
+libhmsbeagle1v5/stable 4.0.1+dfsg-3 arm64
+  High-performance lib for Bayesian and Maximum Likelihood phylogenetics
+
+libidn-dev/stable 1.43-1 arm64
+  Development files for GNU Libidn, an IDN library
+
+libidn12/stable,now 1.43-1 arm64 [installed,automatic]
+  GNU Libidn library, implementation of IETF IDN specifications
+
+libinih-dev/stable 59-1 arm64
+  simple .INI file parser (development files)
+
+libinih1/stable,now 59-1 arm64 [installed,automatic]
+  simple .INI file parser
+
+libinireader0/stable,now 59-1 arm64 [installed,automatic]
+  simple .INI file parser for C++
+
+libjaxp1.3-java/stable 1.3.05-6 all
+  Java XML parser and transformer APIs (DOM, SAX, JAXP, TrAX)
+
+libjlibeps-java/stable 0.1.ds3-7 all
+  Java library to create EPS images
+
+libjs-jquery-ui-theme-eggplant/stable 1.12.1+dfsg-1.1 all
+  Eggplant theme for jQuery UI
+
+libjxmpp-java/stable 1.0.1-4 all
+  base library for XMPP based instant messaging and presence
+
+liblfortran-dev/stable 0.45.0-1+b3 arm64
+  flang library - Development package.
+
+liblfortran-runtime0/stable 0.45.0-1+b3 arm64
+  Runtime libraries for the lfortran compiler
+
+libmad-ocaml/stable 0.5.3-1+b3 arm64
+  OCaml bindings for the MAD library (Runtime library)
+
+libmad-ocaml-dev/stable 0.5.3-1+b3 arm64
+  OCaml bindings for the MAD library (Development package)
+
+libmagpie-0-0/stable 0.9.4-3 arm64
+  window manager library from the magpie window manager
+
+libmagpie-0-dev/stable 0.9.4-3 arm64
+  Development files for the magpie window manager
+
+libmagpie-perl/stable 1.163200-4 all
+  RESTful Web Framework for Perl5
+
+libmagplus3v5/stable 4.16.0+really4.15.5-1 arm64
+  ECMWF meteorological plotting software library
+
+libmail-gnupg-perl/stable 0.23-5 all
+  Perl module for processing email with GPG
+
+libmaliit-glib-dev/stable 2.3.0-5+b1 arm64
+  Maliit Input Method Framework - GLib Development Headers
+
+libmaliit-glib2/stable 2.3.0-5+b1 arm64
+  Maliit Input Method Framework - GLib Bindings
+
+libmaliit-plugins2/stable 2.3.0-5+b1 arm64
+  Maliit Input Method Framework - Plugin Library
+
+libmdc-dev/stable 0.25.1-gtk3+dfsg-1 arm64
+  Medical Image (DICOM, ECAT, ...) conversion tool (development)
+
+libmdc3t64/stable 0.25.1-gtk3+dfsg-1 arm64
+  Medical Image (DICOM, ECAT, ...) conversion tool (library)
+
+libmeep-dev/stable 1.29.0-2 arm64
+  development library for using meep
+
+libmeep-mpi-default-dev/stable 1.29.0-2 arm64
+  development library for using parallel version of meep
+
+libmeep-mpi-default33/stable 1.29.0-2 arm64
+  library for using parallel version of meep
+
+libmeep33/stable 1.29.0-2 arm64
+  library for using meep
+
+libmeshoptimizer-dev/stable 0.22+dfsg-1 arm64
+  Mesh optimizing library for 3D object rendering - development headers
+
+libmeshoptimizer2d/stable 0.22+dfsg-1 arm64
+  Mesh optimizing library for 3D object rendering
+
+libmhash-dev/stable 0.9.9.9-10 arm64
+  Library for cryptographic hashing and message authentication
+
+libmhash2/stable 0.9.9.9-10 arm64
+  Library for cryptographic hashing and message authentication
+
+libmicroprofile-dev/stable 4.0+dfsg-4+b2 arm64
+  embeddable CPU/GPU profiler - development
+
+libmicroprofile4/stable 4.0+dfsg-4+b2 arm64
+  embeddable CPU/GPU profiler
+
+libmirage-dev/stable 3.2.10-1 arm64
+  CD-ROM image access library development files
+
+libmirage-doc/stable 3.2.10-1 all
+  Reference manual for libMirage
+
+libmirage11/stable 3.2.10-1 arm64
+  CD-ROM image access library
+
+libmovit-dev/stable 1.7.1-1+b2 arm64
+  GPU video filter library - development files
+
+libmovit8/stable 1.7.1-1+b2 arm64
+  GPU video filter library
+
+libmpack-dev/stable 1.0.5-4+b2 arm64
+  small binary serialization/RPC library (development files)
+
+libmpack0/stable 1.0.5-4+b2 arm64
+  small binary serialization/RPC library
+
+libmrpt-vision-lgpl-dev/stable 1:2.14.7+ds-1+b3 arm64
+  Mobile Robot Programming Toolkit - vision-lgpl development package
+
+libmrpt-vision-lgpl2.14/stable 1:2.14.7+ds-1+b3 arm64
+  Mobile Robot Programming Toolkit - vision-lgpl library
+
+libmsgpack-c-dev/stable 6.0.1-3+b1 arm64
+  binary-based efficient object serialization library (development files)
+
+libmsgpack-c-doc/stable 6.0.1-3 all
+  binary-based efficient object serialization library (docs)
+
+libmsgpack-c2/stable 6.0.1-3+b1 arm64
+  binary-based efficient object serialization library
+
+libmsgpack-cxx-dev/stable 7.0.0-1+b1 arm64
+  binary-based efficient object serialization library (development files)
+
+libmsgpack-cxx-doc/stable 7.0.0-1 all
+  binary-based efficient object serialization library (docs)
+
+libmsgpack-dev/stable 6.0.1-3 all
+  transitional dummy package
+
+libmsgpack-java/stable 0.9.6-1 all
+  MessagePack for Java
+
+libmsgpuck-dev/stable 1.0.3-1.2 arm64
+  MsgPack serialization library in a self-contained header file
+
+libmygpo-qt-dev/stable 1.1.0-4.1+b2 arm64
+  Development headers for the mygpo-qt library
+
+libmygpo-qt5-1/stable 1.1.0-4.1+b2 arm64
+  mygpo-qt library package
+
+libn32gphobos-13-dev-mips-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-13-dev-mips64-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-13-dev-mips64el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-13-dev-mips64r6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-13-dev-mips64r6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-13-dev-mipsel-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-13-dev-mipsr6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-13-dev-mipsr6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-14-dev-mips-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-14-dev-mips64-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-14-dev-mips64el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-14-dev-mips64r6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-14-dev-mips64r6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-14-dev-mipsel-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-14-dev-mipsr6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos-14-dev-mipsr6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (n32 development files)
+
+libn32gphobos4-mips-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos4-mips64-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos4-mips64el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos4-mips64r6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos4-mips64r6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos4-mipsel-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos4-mipsr6-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos4-mipsr6el-cross/stable 13.3.0-12cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos5-mips-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos5-mips64-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos5-mips64el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos5-mips64r6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos5-mips64r6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos5-mipsel-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos5-mipsr6-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libn32gphobos5-mipsr6el-cross/stable 14.2.0-13cross1 all
+  Phobos D standard library (runtime library)
+
+libndpi-bin/stable 4.2-2.1+b3 arm64
+  extensible deep packet inspection library - ndpiReader
+
+libndpi-dev/stable 4.2-2.1+b3 arm64
+  extensible deep packet inspection library - development files
+
+libndpi-wireshark/stable 4.2-2.1+b3 arm64
+  extensible deep packet inspection library - wireshark dissector
+
+libndpi4.2t64/stable 4.2-2.1+b3 arm64
+  extensible deep packet inspection library - shared library
+
+libnet-gpsd3-perl/stable 0.19-2 all
+  Perl interface to the gpsd server daemon protocol version 3 (JSON)
+
+libnet-idn-nameprep-perl/stable 1.102+dfsg-3 all
+  stringprep profile for Internationalized Domain Names (RFC 3491)
+
+libnews-article-perl/stable 1.27-12 all
+  Perl modules for manipulating Usenet articles
+
+libnexstar-dev/stable 0.15-2 arm64
+  Celestron/SkyWatcher telescope control library development files
+
+libnexstar0t64/stable 0.15-2 arm64
+  Celestron/SkyWatcher telescope control shared library
+
+libnippy-clojure/stable 3.1.3-3 all
+  High-performance serialization library for Clojure
+
+libns3-dev/stable 3.43-2 arm64
+  Static and header files of ns-3
+
+libns3.43/stable 3.43-2 arm64
+  shared libraries of ns-3
+
+liboam-dev/stable 6.1.2-1 arm64
+  Datacenter flavor of a GPU system-management API headers
+
+liboam1/stable 6.1.2-1 arm64
+  Datacenter flavor of a GPU system-management API
+
+libofono-qt-dev/stable 1.30-2+b2 arm64
+  Qt oFono library (development files)
+
+libofono-qt-doc/stable 1.30-2 all
+  Qt oFono library API documentation
+
+libofono-qt1/stable 1.30-2+b2 arm64
+  Qt oFono library
+
+liboggplay-dev/stable 0.3.0-3 arm64
+  Library for playing OGG multimedia (development files)
+
+liboggplay2/stable 0.3.0-3 arm64
+  Library for playing OGG multimedia
+
+libopencore-amrnb-dev/stable 0.1.6-1+b2 arm64
+  Adaptive Multi Rate speech codec - development files
+
+libopencore-amrnb0/stable,now 0.1.6-1+b2 arm64 [installed,automatic]
+  Adaptive Multi Rate speech codec - shared library
+
+libopencore-amrwb-dev/stable 0.1.6-1+b2 arm64
+  Adaptive Multi-Rate - Wideband speech codec - development files
+
+libopencore-amrwb0/stable,now 0.1.6-1+b2 arm64 [installed,automatic]
+  Adaptive Multi-Rate - Wideband speech codec - shared library
+
+libopencv-contrib410/stable 4.10.0+dfsg-5 arm64
+  computer vision contrlib library
+
+libopencv-imgproc-dev/stable 4.10.0+dfsg-5 arm64
+  development files for libopencv-imgproc410
+
+libopencv-imgproc410/stable 4.10.0+dfsg-5 arm64
+  computer vision Image Processing library
+
+libopenimageio-dev/stable 2.5.18.0+dfsg-1+b1 arm64
+  Library for reading and writing images - development
+
+libopenimageio-doc/stable 2.5.18.0+dfsg-1 all
+  Library for reading and writing images - documentation
+
+libopenimageio2.5/stable 2.5.18.0+dfsg-1+b1 arm64
+  Library for reading and writing images - runtime
+
+libopeniscsiusr/stable 2.1.11-1+deb13u2 arm64
+  iSCSI userspace library
+
+libopeniscsiusr-dev/stable 2.1.11-1+deb13u2 all
+  iSCSI userspace library headers
+
+libosd-dev/stable 3.6.0-3 arm64
+  high performance subdivision surface (subdiv) library - development
+
+libosd-doc/stable 3.6.0-3 all
+  high performance subdivision surface (subdiv) library - documentation
+
+libosdcpu3.6.0/stable 3.6.0-3 arm64
+  high performance subdivision surface (subdiv) library - CPU runtime
+
+libosdgpu3.6.0/stable 3.6.0-3 arm64
+  high performance subdivision surface (subdiv) library - GPU runtime
+
+libosmgpsmap-1.0-1/stable 1.2.0-4 arm64
+  GTK+ library to embed OpenStreetMap maps
+
+libosmgpsmap-1.0-dev/stable 1.2.0-4 arm64
+  GTK+ library to embed OpenStreetMap maps - development files
+
+libosmo-ranap-dev/stable 1.7.0+dfsg1-2 arm64
+  Osmocom code for the Iuh interface (RANAP), development
+
+libosmo-ranap7/stable 1.7.0+dfsg1-2 arm64
+  Osmocom code for the Iuh interface (RANAP), library
+
+libosmocoding0/stable 1.11.0-2 arm64
+  Osmo coding library
+
+libosmogb-doc/stable 1.11.0-2 all
+  Documentation for the Osmo GPRS Gb library
+
+libosmogb14/stable 1.11.0-2 arm64
+  Osmo GPRS GB library
+
+libospray-dev/stable 3.2.0-1 arm64
+  OSPRay library development files
+
+libospray3/stable 3.2.0-1 arm64
+  open source, scalable, and portable ray tracing engine library
+
+libotf-bin/stable 0.9.16-4+b2 arm64
+  Library for handling OpenType Font - utilities
+
+libotf-dev/stable 0.9.16-4+b2 arm64
+  Library for handling OpenType Font - development
+
+libotf1/stable 0.9.16-4+b2 arm64
+  Library for handling OpenType Font - runtime
+
+libpam-poldi/stable 0.4.2+git20201120.5d67235-1 arm64
+  PAM module allowing authentication using a OpenPGP smartcard
+
+libpari-dev/stable 2.17.2-1 arm64
+  PARI/GP Computer Algebra System development files
+
+libpari-gmp-tls9/stable 2.17.2-1 arm64
+  PARI/GP Computer Algebra System shared library
+
+libpgp-sign-perl/stable 1.04-1 all
+  Perl module to create detached PGP signatures
+
+libpgpainless-cli-java/stable 1.6.9-1 all
+  Stateless OpenPGP Protocol with PGPainless - runtime library
+
+libpgpainless-cli-java-doc/stable 1.6.9-1 all
+  Stateless OpenPGP Protocol with PGPainless - runtime library - docs
+
+libpgpainless-core-java/stable 1.6.9-1 all
+  Easy to use OpenPGP library
+
+libpgpainless-core-java-doc/stable 1.6.9-1 all
+  Easy to use OpenPGP library - docs
+
+libpgpainless-sop-java/stable 1.6.9-1 all
+  Stateless OpenPGP Protocol with PGPainless - library
+
+libpgpainless-sop-java-doc/stable 1.6.9-1 all
+  Stateless OpenPGP Protocol with PGPainless - library - docs
+
+libpgplot-perl/stable 1:2.35-2 arm64
+  perl interface to the pgplot plotting library
+
+libpgplot0/stable 1.5.0-2 arm64
+  PGPLOT replacement shared lib based on giza
+
+libpgpool-dev/stable 4.6.1-2 arm64
+  pgpool control protocol library - headers
+
+libpgpool2/stable 4.6.1-2 arm64
+  pgpool control protocol library
+
+libpgsbox8/stable 8.4+ds-1 arm64
+  Draw and label curvilinear coordinate grids with pgplot
+
+libpigpiod-if-dev/stable 1.78-1.1+b1 arm64
+  Development headers for client libraries for Raspberry Pi GPIO control
+
+libpigpiod-if1t64/stable 1.78-1.1+b1 arm64
+  Client library for Raspberry Pi GPIO control (deprecated)
+
+libpigpiod-if2-1t64/stable 1.78-1.1+b1 arm64
+  Client library for Raspberry Pi GPIO control
+
+libpixelmed-codec-java/stable 20200328-6 all
+  JPEG selective block redaction codec for pixelmed
+
+libplacebo-dev/stable 7.349.0-3 arm64
+  GPU-accelerated video/image rendering primitives (development files)
+
+libplacebo349/stable 7.349.0-3 arm64
+  GPU-accelerated video/image rendering primitives (shared library)
+
+libplasma-geolocation-interface-dev/stable 4:6.3.4-1 arm64
+  development files for the Plasma geolocation library
+
+libplasma-geolocation-interface6/stable 4:6.3.4-1 arm64
+  Plasma geolocation library
+
+libplumbgpl2-dev/stable 1.0.12-24+b1 arm64
+  Reusable cluster development files -- libplumbgpl2t64
+
+libplumbgpl2t64/stable 1.0.12-24+b1 arm64
+  Reusable cluster libraries -- libplumbgpl2t64
+
+libprecis-java/stable 1.1.0-2 all
+  Java implementation of the PRECIS Framework
+
+libprimus-vk1/stable 1.6.4-4 arm64
+  vulkan layer library for the primus-vk layer
+
+libqca-qt5-2/stable 2.3.10-1 arm64
+  libraries for the Qt Cryptographic Architecture [Qt 5]
+
+libqca-qt5-2-dev/stable 2.3.10-1 arm64
+  development files for the Qt Cryptographic Architecture [Qt 5]
+
+libqca-qt6-2/stable 2.3.10-1 arm64
+  libraries for the Qt Cryptographic Architecture [Qt 6]
+
+libqca-qt6-dev/stable 2.3.10-1 arm64
+  development files for the Qt Cryptographic Architecture [Qt 6]
+
+libqca2-doc/stable 2.3.10-1 all
+  API documentation for the Qt Cryptographic Architecture
+
+libqgpgme-dev/stable 1.24.2-3 arm64
+  Qt bindings for GPGME (development files)
+
+libqgpgme15t64/stable 1.24.2-3 arm64
+  library for GPGME integration with Qt
+
+libqgpgmeqt6-15/stable 1.24.2-3 arm64
+  library for GPGME integration with Qt 6
+
+libqgpgmeqt6-dev/stable 1.24.2-3 arm64
+  Qt 6 bindings for GPGME (development files)
+
+libqgpsmm-dev/stable 3.25-5+deb13u1 arm64
+  Global Positioning System - Qt wrapper for libgps (development)
+
+libqgpsmm30t64/stable 3.25-5+deb13u1 arm64
+  Global Positioning System - Qt wrapper for libgps
+
+libquickcharts-dev/stable 6.13.0-1 arm64
+  Quick Charts - development files
+
+libquickcharts1/stable 6.13.0-1 arm64
+  Quick Charts
+
+libquickchartscontrols1/stable 6.13.0-1 arm64
+  Quick Charts
+
+librandom123-dev/stable 1.14.0+dfsg-6 all
+  parallel random numbers library
+
+librandom123-doc/stable 1.14.0+dfsg-6 all
+  documentation and examples of parallel random numbers library
+
+librccl-dev/stable 5.4.3-3+b1 arm64
+  ROCm Communication Collectives Library - headers
+
+librccl-doc/stable 5.4.3-3 all
+  ROCm Communication Collectives Library - documentation
+
+librccl1/stable 5.4.3-3+b1 arm64
+  ROCm Communication Collectives Library - library
+
+librccl1-tests/stable 5.4.3-3+b1 arm64
+  ROCm Communication Collectives Library - tests
+
+librdkit-dev/stable 202503.1-4 arm64
+  Collection of cheminformatics and machine-learning software (development files)
+
+librdkit1t64/stable 202503.1-4 arm64
+  Collection of cheminformatics and machine-learning software (shared libraries)
+
+libreflectcpp-dev/stable 0.18.0+ds-3 arm64
+  C++20 library for fast (de-)serialization and validation (development files)
+
+libreflectcpp0.18/stable 0.18.0+ds-3 arm64
+  C++20 library for fast (de-)serialization and validation (shared library)
+
+librem5-tweaks/stable 8 all
+  Default configuration settings for the Librem-5
+
+libresample1/stable 0.1.3-8 arm64
+  real-time audio resampling library - shared libraries
+
+libresample1-dev/stable 0.1.3-8 arm64
+  real-time audio resampling library - development files
+
+librg-utils-perl/stable 1.0.43-9 all
+  parsers and format conversion utilities used by (e.g.) profphd
+
+librnp-dev/stable 0.17.1-1+b1 arm64
+  Cross-platform OpenPGP (RFC4880) tools (development files)
+
+librnp0/stable 0.17.1-1+b1 arm64
+  Cross-platform OpenPGP (RFC4880) tools (library)
+
+librocblas-dev/stable 5.5.1+dfsg-7 arm64
+  ROCm library for basic linear algebra - headers
+
+librocblas-doc/stable 5.5.1+dfsg-7 all
+  ROCm library for basic linear algebra - documentation
+
+librocblas0/stable 5.5.1+dfsg-7 arm64
+  ROCm library for basic linear algebra - library
+
+librocblas0-bench/stable 5.5.1+dfsg-7 arm64
+  ROCm library for basic linear algebra - benchmarks
+
+librocblas0-tests/stable 5.5.1+dfsg-7 arm64
+  ROCm library for basic linear algebra - tests
+
+librocblas0-tests-data/stable 5.5.1+dfsg-7 all
+  ROCm library for basic linear algebra - test data
+
+librocfft-dev/stable 6.1.2-1+b1 arm64
+  ROCm library for computing Fast Fourier Transforms - headers
+
+librocfft-doc/stable 6.1.2-1 all
+  ROCm library for computing Fast Fourier Transforms - documentation
+
+librocfft0/stable 6.1.2-1+b1 arm64
+  ROCm library for computing Fast Fourier Transforms - library
+
+librocfft0-tests/stable 6.1.2-1+b1 arm64
+  ROCm library for computing Fast Fourier Transforms - tests
+
+librocm-dbgapi0/stable 5.7.1-2 arm64
+  AMD GPU debugger support - library
+
+librocm-smi-dev/stable 6.1.2-1 arm64
+  ROCm System Management Interface (ROCm SMI) library headers
+
+librocm-smi64-1/stable 6.1.2-1 arm64
+  ROCm System Management Interface (ROCm SMI) library
+
+librocprim-dev/stable 5.7.1-2 all
+  parallel primitives for GPU-accelerated code - headers
+
+librocprim-tests/stable 5.7.1-2+b1 arm64
+  parallel primitives for GPU-accelerated code - tests
+
+librocrand-dev/stable 5.7.1-6 arm64
+  generate pseudo- and quasi-random numbers - headers
+
+librocrand-doc/stable 5.7.1-6 all
+  generate pseudo- and quasi-random numbers - documentation
+
+librocrand1/stable 5.7.1-6 arm64
+  generate pseudo- and quasi-random numbers - library
+
+librocrand1-tests/stable 5.7.1-6 arm64
+  generate pseudo- and quasi-random numbers - test binaries
+
+librocsolver-dev/stable 5.5.1-7 arm64
+  ROCm library for numerical linear algebra - headers
+
+librocsolver-doc/stable 5.5.1-7 all
+  ROCm library for numerical linear algebra - documentation
+
+librocsolver0/stable 5.5.1-7 arm64
+  ROCm library for numerical linear algebra - library
+
+librocsolver0-bench/stable 5.5.1-7 arm64
+  ROCm library for numerical linear algebra - benchmarks
+
+librocsolver0-tests/stable 5.5.1-7 arm64
+  ROCm library for numerical linear algebra - tests
+
+librocsparse-dev/stable 5.7.1-6 arm64
+  ROCm library for sparse linear algebra - headers
+
+librocsparse-doc/stable 5.7.1-6 all
+  ROCm library for sparse linear algebra - documentation
+
+librocsparse0/stable 5.7.1-6 arm64
+  ROCm library for sparse linear algebra - library
+
+librocsparse0-tests/stable 5.7.1-6 arm64
+  ROCm library for sparse linear algebra - tests
+
+librocsparse0-tests-data/stable 5.7.1-6 all
+  ROCm library for sparse linear algebra - test data
+
+librocthrust-dev/stable 5.7.1-3 all
+  ROCm parallel algorithms library - headers
+
+librocthrust-tests/stable 5.7.1-3+b2 arm64
+  ROCm parallel algorithms library - tests
+
+libroctx-dev/stable 5.7.1-1 arm64
+  ROCm library for profiler annotations - headers
+
+libroctx64-4/stable 5.7.1-1 arm64
+  ROCm library for profiler annotations - library
+
+librpm-sequoia-1/stable 1.8.0-2 arm64
+  Provides an implementation of the
+
+librpm-sequoia-dev/stable 1.8.0-2 arm64
+  Provides an implementation of the
+
+librte-argparse25/stable 24.11.4-0+deb13u1 arm64
+  Data Plane Development Kit (librte-argparse runtime library)
+
+librte-gpudev25/stable 24.11.4-0+deb13u1 arm64
+  Data Plane Development Kit (librte-gpudev runtime library)
+
+librte-raw-cnxk-gpio25/stable 24.11.4-0+deb13u1 arm64
+  Data Plane Development Kit (librte-raw-cnxk-gpio runtime library)
+
+librust-argparse-dev/stable 0.2.2-1+b2 arm64
+  Powerful command-line argument parsing library - Rust source code
+
+librust-card-backend-dev/stable 0.2.0-1+b2 arm64
+  Card backend trait, for use with the openpgp-card crate - Rust source code
+
+librust-card-backend-pcsc-dev/stable 0.5.0-1+b2 arm64
+  PCSC card backend, e.g - Rust source code
+
+librust-configparser-dev/stable 3.0.3-3 arm64
+  Simple INI and ini-style configuration parsing utility - Rust source code
+
+librust-gperftools-dev/stable 0.2.0-1+b2 arm64
+  Bindings to google's gperftools - Rust source code
+
+librust-gpg-error-dev/stable 0.6.0-1+b2 arm64
+  Libgpg-error bindings for Rust - Rust source code
+
+librust-gpgme-dev/stable 0.11.0-2 arm64
+  GPGme bindings for Rust - Rust source code
+
+librust-gpgme-sys-dev/stable 0.11.0-3 arm64
+  Raw bindings for gpgme - Rust source code
+
+librust-gpt-dev/stable 3.1.0-1+b3 arm64
+  Pure-Rust library to work with GPT partition tables - Rust source code
+
+librust-gtk-rs-lgpl-docs-dev/stable 0.1.12-2+b2 arm64
+  LGPL-licensed docs for Gtk-rs crates - Rust source code
+
+librust-libgpg-error-sys-dev/stable 0.6.1-2 arm64
+  Raw bindings for libgpg-error - Rust source code
+
+librust-openpgp-card-dev/stable 0.5.0-1 arm64
+  Client implementation for the OpenPGP card specification - Rust source code
+
+librust-openpgp-card-rpgp-dev/stable 0.3.0-1 arm64
+  Companion crate for using openpgp-card with rPGP - Rust source code
+
+librust-openpgp-cert-d-dev/stable 0.3.4-1 arm64
+  Shared OpenPGP Certificate Directory - Rust source code
+
+librust-openpgp-keylist-dev/stable 0.2.0-1+b2 arm64
+  OpenPGP Keylist data structure - Rust source code
+
+librust-pgp-dev/stable 0.15.0-2 arm64
+  OpenPGP implementation in Rust - Rust source code
+
+librust-rpgpie-dev/stable 0.5.4-1 arm64
+  Experimental high level API for rPGP - Rust source code
+
+librust-rpgpie-sop-dev/stable 0.6.4-1 arm64
+  Experimental SOP implementation based on rpgpie - Rust source code
+
+librust-rusttype-dev/stable 0.9.3-5 arm64
+  Pure Rust alternative to libraries like FreeType - Rust source code
+
+librust-sequoia-gpg-agent-dev/stable 0.6.1-1 arm64
+  Interacting with GnuPG's gpg-agent - Rust source code
+
+librust-sequoia-keystore-gpg-agent-dev/stable 0.5.0-1+b1 arm64
+  Gpg-agent backend for Sequoia's private key store - Rust source code
+
+librust-sequoia-keystore-openpgp-card-dev/stable 0.2.0-1 arm64
+  OpenPGP card backend for Sequoia's private key store - Rust source code
+
+librust-sequoia-man-dev/stable 0.3.2-1 arm64
+  Man page generation for Sequoia PGP CLIs - Rust source code
+
+librust-sequoia-net-dev/stable 0.30.0-1 arm64
+  Network services for OpenPGP - Rust source code
+
+librust-sequoia-openpgp-dev/stable 2.0.0-2+deb13u1 arm64
+  OpenPGP data types and associated machinery - Rust source code
+
+librust-sequoia-openpgp-mt-dev/stable 0.2.0-1 arm64
+  Multi-threaded parsing of OpenPGP data - Rust source code
+
+librust-sequoia-sop-dev/stable 0.37.2-1+b3 arm64
+  Stateless OpenPGP Command Line Interface using Sequoia - Rust source code
+
+librust-sequoia-wot-dev/stable 0.14.0-1 arm64
+  Explore the OpenPGP Web of Trust using Sequoia - Rust source code
+
+librust-sop-dev/stable 0.8.2-1 arm64
+  Rust Interface for the Stateless OpenPGP Interface - Rust source code
+
+librust-stringprep-dev/stable 0.1.5-1 arm64
+  The stringprep algorithm - Rust source code
+
+librust-talktosc-dev/stable 0.1.3-2+b2 arm64
+  Talk to smartcards for OpenPGP operations - Rust source code
+
+libsecrecy-dev/stable 0.0.5+ds-4+b1 arm64
+  C++ header only library for random access to encrypted files
+
+libsequoia-octopus-librnp/stable 1.11.1-4+b3 arm64
+  Reimplementation of librnp for Thunderbird by Sequoia
+
+libsocl-1.4-1t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libsoftware-license-orlaterpack-perl/stable 0.10.2-2 all
+  Use GNU licenses with "or later" clause in Software::License
+
+libsop-java-java/stable 7.0.2-1 all
+  Stateless OpenPGP Protocol API and CLI for Java
+
+libsop-java-java-doc/stable 7.0.2-1 all
+  Stateless OpenPGP Protocol API and CLI for Java - docs
+
+libsop-java-picocli-java/stable 7.0.2-1 all
+  Stateless OpenPGP Protocol API and CLI for Java - picocli wrapper
+
+libsop-java-picocli-java-doc/stable 7.0.2-1 all
+  Stateless OpenPGP Protocol API and CLI for Java - picocli wrapper docs
+
+libsrm-dev/stable 0.8.0~2-1 arm64
+  Simple Rendering Manager (development files)
+
+libsrm-examples/stable 0.8.0~2-1 arm64
+  Simple Rendering Manager (examples)
+
+libsrm0/stable 0.8.0~2-1 arm64
+  Simple Rendering Manager (shared library)
+
+libstarpu-1.4-6/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libstarpu-dev/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines - dev
+
+libstarpu-openmp-llvm-1.4-1t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libstarpufft-1.4-1t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libstarpumpi-1.4-3t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libstarpurm-1.4-1t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+libstdgpu-hip-dev/stable 1.3.0+git20220507.32e0517-6+b2 arm64
+  Efficient STL-like Data Structures on the GPU (HIP development headers)
+
+libstdgpu-hip0d/stable 1.3.0+git20220507.32e0517-6+b2 arm64
+  Efficient STL-like Data Structures on the GPU (HIP backend)
+
+libstdgpu-openmp-dev/stable 1.3.0+git20220507.32e0517-6+b2 arm64
+  Efficient STL-like Data Structures on the GPU (OpenMP development headers)
+
+libstdgpu-openmp0t64/stable 1.3.0+git20220507.32e0517-6+b2 arm64
+  Efficient STL-like Data Structures on the GPU (OpenMP CPU backend)
+
+libstringprep-java/stable 2.1-1 all
+  Stringprep (RFC 3454) Java implementation
+
+libstrongswan-extra-plugins/stable 6.0.1-6+deb13u6 arm64
+  strongSwan utility and crypto library (extra plugins)
+
+libsuperlu-dist-dev/stable 8.2.1+dfsg1-5+b1 arm64
+  Highly distributed solution of sparse linear equations
+
+libsuperlu-dist8/stable 8.2.1+dfsg1-5+b1 arm64
+  Highly distributed solution of sparse linear equations
+
+libsvgpp-dev/stable 1.3.0+dfsg1-6 all
+  SVG-framework with parsers for various syntaxes and adapters. Development files
+
+libsvgpp-doc/stable 1.3.0+dfsg1-6 all
+  SVG-framework with parsers for various syntaxes and adapters. Documentation
+
+libtag-c-dev/stable 2.0.2-2 arm64
+  audio meta-data library - development files for C bindings
+
+libtag-c2/stable 2.0.2-2 arm64
+  audio meta-data library - C bindings
+
+libtag-dev/stable 2.0.2-2 arm64
+  audio meta-data library - development files
+
+libtag-doc/stable 2.0.2-2 all
+  audio meta-data library - API documentation
+
+libtag2/stable,now 2.0.2-2 arm64 [installed,automatic]
+  audio meta-data library
+
+libtcmalloc-minimal4t64/stable 2.16-1 arm64
+  efficient thread-caching malloc
+
+libterm-clui-perl/stable 1.76-1 all
+  Perl module offering a Command-Line User Interface
+
+libtexttools-dev/stable 2.1.0-30 arm64
+  Ada library for writing console applications: development
+
+libtexttools-doc/stable 2.1.0-30 all
+  Ada library for writing console applications: documentation
+
+libtexttools12/stable 2.1.0-30 arm64
+  Ada library for writing console applications: shared library
+
+libthread-sigmask-perl/stable 0.004-3+b4 arm64
+  module for thread specific signal masks
+
+libthrust-dev/stable 2.3.2-2 all
+  Thrust - Parallel Algorithms Library
+
+libtorch-dev/stable 2.6.0+dfsg-7 arm64
+  Tensors and Dynamic neural networks in Python (Development Files)
+
+libtorch-test/stable 2.6.0+dfsg-7 arm64
+  Tensors and Dynamic neural networks in Python (Test Binaries)
+
+libtorch2.6/stable 2.6.0+dfsg-7 arm64
+  Tensors and Dynamic neural networks in Python (Shared Objects)
+
+libtsk-dev/stable 4.12.1+dfsg-3 arm64
+  library for forensics analysis (development files)
+
+libtsk19t64/stable 4.12.1+dfsg-3 arm64
+  library for forensics analysis on volume and filesystem data
+
+libufo-bin/stable 0.17.0.22.gc831aec-1 arm64
+  Library for high-performance, GPU-based computing - tools
+
+libufo-data/stable 0.17.0.22.gc831aec-1 all
+  Library for high-performance, GPU-based computing - data
+
+libufo-dev/stable 0.17.0.22.gc831aec-1 arm64
+  Library for high-performance, GPU-based computing - devel
+
+libufo1/stable 0.17.0.22.gc831aec-1 arm64
+  Library for high-performance, GPU-based computing - runtime
+
+libunicode-stringprep-perl/stable 1.105+dfsg-3 all
+  Perl module for preparation of Internationalized Strings (RFC 3454)
+
+libusbauth-configparser-dev/stable 1.0.5-2+b2 arm64
+  Development package of library for USB Firewall including flex/bison parser
+
+libusbauth-configparser1/stable 1.0.5-2+b2 arm64
+  Library for USB Firewall including flex/bison parser
+
+libva-dev/stable 2.22.0-3 arm64
+  Video Acceleration (VA) API for Linux -- development files
+
+libva-drm2/stable,now 2.22.0-3 arm64 [installed,automatic]
+  Video Acceleration (VA) API for Linux -- DRM runtime
+
+libva-glx2/stable 2.22.0-3 arm64
+  Video Acceleration (VA) API for Linux -- GLX runtime
+
+libva-wayland2/stable 2.22.0-3 arm64
+  Video Acceleration (VA) API for Linux -- Wayland runtime
+
+libva-x11-2/stable,now 2.22.0-3 arm64 [installed,automatic]
+  Video Acceleration (VA) API for Linux -- X11 runtime
+
+libva2/stable,now 2.22.0-3 arm64 [installed,automatic]
+  Video Acceleration (VA) API for Linux -- runtime
+
+libvdpau-dev/stable 1.5-3+b1 arm64
+  Video Decode and Presentation API for Unix (development files)
+
+libvdpau-doc/stable 1.5-3 all
+  Video Decode and Presentation API for Unix (documentation)
+
+libvdpau-va-gl1/stable,now 0.4.2-2 arm64 [installed,automatic]
+  VDPAU driver with OpenGL/VAAPI backend
+
+libvdpau1/stable,now 1.5-3+b1 arm64 [installed,automatic]
+  Video Decode and Presentation API for Unix (libraries)
+
+libviennacl-dev/stable 1.7.1+dfsg1-6 all
+  Scientific computing library written in C++ based on OpenCL
+
+libviennacl-doc/stable 1.7.1+dfsg1-6 all
+  ViennaCL API and user documentation
+
+libvirglrenderer-dev/stable 1.1.0-2 arm64
+  virtual GPU for KVM virtualization - headers
+
+libvirglrenderer1/stable 1.1.0-2 arm64
+  virtual GPU for KVM virtualization
+
+libvisa-dev/stable 0.0.20130812-6+b1 arm64
+  Virtual Instrument Software Architecture (development files)
+
+libvisa0/stable 0.0.20130812-6+b1 arm64
+  Virtual Instrument Software Architecture (runtime files)
+
+libvisp-imgproc-dev/stable 3.6.0-5 arm64
+  development files for libvisp-imgproc
+
+libvisp-imgproc3.6t64/stable 3.6.0-5 arm64
+  visual servoing platform imgproc library
+
+libvkfft-dev/stable 1.3.4+ds2-1 all
+  Vulkan/CUDA/HIP/OpenCL Fast Fourier Transform library
+
+libvsgpt-dev/stable 0~20240504-2+b1 arm64
+  GUID Partition Table (GPT) volume system access library -- development files
+
+libvsgpt-utils/stable 0~20240504-2+b1 arm64
+  GUID Partition Table (GPT) volume system access library -- Utilities
+
+libvsgpt1/stable 0~20240504-2+b1 arm64
+  GUID Partition Table (GPT) volume system access library
+
+libvulkan-dev/stable 1.4.309.0-1 arm64
+  Vulkan loader library -- development files
+
+libvulkan1/stable,now 1.4.309.0-1 arm64 [installed,automatic]
+  Vulkan loader library
+
+libweupnp-java/stable 0.1.4-3 all
+  tiny UPnP client Java library
+
+libweupnp-java-doc/stable 0.1.4-3 all
+  tiny UPnP client Java library (documentation)
+
+libwind0t64-heimdal/stable 7.8.git20221117.28daf24+dfsg-9+deb13u1 arm64
+  Heimdal Kerberos - stringprep implementation
+
+libwww-shorten-5gp-perl/stable 1.030-1.1 all
+  Perl library for short URLs using http://5.gp
+
+libx32gphobos-12-dev-amd64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (x32 development files)
+
+libx32gphobos-12-dev-i386-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (x32 development files)
+
+libx32gphobos-13-dev-amd64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (x32 development files)
+
+libx32gphobos-13-dev-i386-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (x32 development files)
+
+libx32gphobos-14-dev-amd64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (x32 development files)
+
+libx32gphobos-14-dev-i386-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (x32 development files)
+
+libx32gphobos3-amd64-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libx32gphobos3-i386-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libx32gphobos4-amd64-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libx32gphobos4-i386-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libx32gphobos5-amd64-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libx32gphobos5-i386-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libxmlada-schema-dev/stable 25.0.0-4 arm64
+  XML/Ada, a full XML suite for Ada programmers (schema)
+
+libxom-java/stable 1.3.9-1 all
+  New XML object model for Java
+
+libxom-java-doc/stable 1.3.9-1 all
+  Documentation for the libxom-java package
+
+libxsettings-client-dev/stable 0.17-12+b1 arm64
+  utility functions for the Xsettings protocol (Development files)
+
+libxsettings-client0/stable 0.17-12+b1 arm64
+  utility functions for the Xsettings protocol (GPE)
+
+libxsettings-dev/stable 0.11-7+b2 arm64
+  Xsettings protocol (development files)
+
+libxsettings0/stable 0.11-7+b2 arm64
+  Xsettings protocol library for GPE
+
+libzvbi-common/stable,now 0.2.44-1 all [installed,automatic]
+  Vertical Blanking Interval decoder (VBI) - common files
+
+libzvbi-dev/stable 0.2.44-1 arm64
+  Vertical Blanking Interval decoder (VBI) - development files
+
+libzvbi-doc/stable 0.2.44-1 all
+  Vertical Blanking Interval decoder (VBI) - documentation files
+
+libzvbi0t64/stable,now 0.2.44-1 arm64 [installed,automatic]
+  Vertical Blanking Interval decoder (VBI) - runtime files
+
+logtools/stable 0.13e+nmu3 arm64
+  Russell's misc tools for managing log files.
+
+lomiri-keyboard/stable 1.0.3-1 arm64
+  Lomiri on-screen keyboard
+
+lomiri-keyboard-data/stable 1.0.3-1 all
+  Lomiri on-screen keyboard data files
+
+lomiri-keyboard-dev/stable 1.0.3-1 all
+  Lomiri on-screen keyboard - development files
+
+lua-argparse/stable 0.7.1-2 all
+  feature-rich command line parser for Lua language
+
+lua-cmsgpack/stable 0.4.0~git20230328.57b1f90-2 arm64
+  MessagePack implementation and bindings for Lua
+
+lua-cmsgpack-dev/stable 0.4.0~git20230328.57b1f90-2 arm64
+  development files for lua-cmsgpack library
+
+lua-mpack/stable 1.0.7-2+b2 arm64
+  libmpack binding for the Lua language
+
+luanti/stable 5.10.0+dfsg-5+deb13u1 arm64
+  Multiplayer infinite-world block sandbox
+
+luanti-data/stable 5.10.0+dfsg-5+deb13u1 all
+  Multiplayer infinite-world block sandbox (data files)
+
+luanti-server/stable 5.10.0+dfsg-5+deb13u1 arm64
+  Multiplayer infinite-world block sandbox (server)
+
+lxde/stable 13.0 all
+  metapackage for LXDE
+
+magicrescue/stable 1.1.10+dfsg-2+b2 arm64
+  recover files by looking for magic bytes
+
+magpie-common/stable 0.9.4-3 all
+  shared files for the magpie window manager
+
+mailscripts/stable 30-2 all
+  collection of scripts for manipulating e-mail on Debian
+
+maliit-framework/stable 2.3.0-5+b1 arm64
+  Maliit Input Method Framework
+
+maliit-framework-dev/stable 2.3.0-5+b1 arm64
+  Maliit Input Method Framework - Development Files
+
+maliit-inputcontext-gtk2/stable 0.99.1+git20151116.72d7576-3+b2 arm64
+  Maliit Inputcontext for GTK+-2 applications
+
+maliit-inputcontext-gtk3/stable 0.99.1+git20151116.72d7576-3+b2 arm64
+  Maliit Inputcontext for GTK+-3 applications
+
+mandos/stable 1.8.19-1 all
+  server giving encrypted passwords to Mandos clients
+
+mandos-client/stable 1.8.19-1 arm64
+  do unattended reboots with an encrypted root file system
+
+mangoapp/stable 0.7.2-2 arm64
+  Application to render MangoHud with gamescope
+
+mangohud/stable 0.7.2-2 arm64
+  Vulkan/OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more
+
+mangohudctl/stable 0.7.2-2 arm64
+  Application to control MangoHud
+
+mcds/stable 1.9-2 arm64
+  Mutt CardDAV search utility
+
+mdetect/stable 0.5.2.6+b1 arm64
+  mouse device autodetection tool
+
+mdevctl/stable 1.4.0-2+b1 arm64
+  Mediated device management utility for Linux
+
+medcon/stable 0.25.1-gtk3+dfsg-1 arm64
+  Medical Image (DICOM, ECAT, ...) conversion tool
+
+meep/stable 1.29.0-2 arm64
+  software package for FDTD simulation
+
+meep-mpi-default/stable 1.29.0-2 arm64
+  software package for FDTD simulation, parallel version
+
+merkaartor/stable 0.20.0+ds-1+b1 arm64
+  map editor for OpenStreetMap.org
+
+metacity-themes/stable 1.0.13 all
+  Themes for the Gtk2 metacity window manager
+
+mew/stable 1:6.8-17 all
+  mail reader supporting PGP/MIME for Emacs
+
+mew-beta/stable 7.0.50~6.8+0.20221129-4 all
+  mail reader supporting PGP/MIME for Emacs (development version)
+
+mew-beta-bin/stable 7.0.50~6.8+0.20221129-4+b2 arm64
+  external commands for Mew (development version)
+
+mew-bin/stable 1:6.8-17+b1 arm64
+  external commands for Mew
+
+mgp/stable 1.13a+upstream20090219-12+b3 arm64
+  MagicPoint — an X11-based presentation tool
+
+microbegps/stable 1.0.0-7 all
+  explorative taxonomic profiling tool for metagenomic data
+
+mirrormagic/stable 3.3.1+dfsg1-1 arm64
+  Shoot around obstacles to collect energy using your beam.
+
+mkgmap/stable 0.0.0+svn4923-2 all
+  Generate Garmin maps from OpenStreetMap data
+
+mkgmapgui/stable 1.1.ds-13 all
+  Graphical User Interface for mkgmap
+
+mkosi/stable 25.3-7 all
+  build Bespoke OS Images
+
+mmake/stable 2.3-10 all
+  Makefile generator for Java programs
+
+mmseqs2/stable 15-6f452+ds-2+b3 arm64
+  ultra fast and sensitive protein search and clustering
+
+mmseqs2-examples/stable 15-6f452+ds-2 all
+  optional resources for the mmseqs2 package
+
+mobian-archive-keyring/stable 20250408.0 all
+  OpenPGP keys for the Mobian package archive
+
+mobile-atlas-creator/stable 2.1.4+dfsg.1-2 all
+  program to create offline atlases for GPS/cell phone applications
+
+monitoring-plugins-contrib/stable 48.20250420 arm64
+  Plugins for nagios compatible monitoring systems
+
+mrtparse/stable 1.6-3 all
+  read and analyze the MRT format data (utilities)
+
+msgp/stable 1.2.5-1+b4 arm64
+  Go code generator for MessagePack
+
+msva-perl/stable 0.9.2-1.1 all
+  Cryptographic identity validation agent (Perl implementation)
+
+mtkbabel/stable 0.8.4-0.3 all
+  Tool for managing i-Blue 747 and compatible GPS data loggers
+
+musescore/stable 2.3.2+dfsg4-16 arm64
+  cross-platform multi-lingual music composition and notation, v2
+
+musescore-common/stable 2.3.2+dfsg4-16 all
+  MuseScore Studio 2 (music composition and notation) shared files
+
+musescore3/stable 3.2.3+dfsg2-19 arm64
+  cross-platform multi-lingual music composition and notation, v3
+
+musescore3-common/stable 3.2.3+dfsg2-19 all
+  MuseScore Studio 3 (music composition and notation) shared files
+
+mutt/stable 2.2.13-1+deb13u1 arm64
+  text-based mailreader supporting MIME, GPG, PGP and threading
+
+nasty/stable 0.6+git20220929.9830b7a-2 arm64
+  tool which helps you to recover your GPG passphrase
+
+navit/stable 0.5.6+dfsg.1-4 arm64
+  Car navigation system with routing engine
+
+navit-data/stable 0.5.6+dfsg.1-4 all
+  Car navigation system with routing engine - data files
+
+navit-graphics-gtk-drawing-area/stable 0.5.6+dfsg.1-4 arm64
+  Car navigation system with routing engine - GTK+ graphic plugin
+
+navit-gui-gtk/stable 0.5.6+dfsg.1-4 arm64
+  Car navigation system with routing engine - GTK+ GUI
+
+navit-gui-internal/stable 0.5.6+dfsg.1-4 arm64
+  Car navigation system with routing engine - internal GUI
+
+neomutt/stable 20250510+dfsg-2 arm64
+  command line mail reader based on Mutt, with added features
+
+neovim/stable 0.10.4-8 arm64
+  heavily refactored vim fork
+
+networking-bagpipe-bgp-agent/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-based VPN - agent
+
+networking-bagpipe-doc/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-based VPN - doc
+
+networking-bgpvpn-doc/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-MPLS VPN Extension - doc
+
+neutron-bgp-dragent/stable 2:26.0.0-3 all
+  OpenStack Neutron Dynamic Routing - Agent
+
+nextepc/stable 0.3.10+nods-4.3 all
+  Evolved Packet Core implementation for LTE (metapackage)
+
+nextepc-core/stable 0.3.10+nods-4.3 arm64
+  Evolved Packet Core for LTE (Shared Files)
+
+nextepc-hss/stable 0.3.10+nods-4.3 arm64
+  Evolved Packet Core - Home Subscriber Server (HSS)
+
+nextepc-mme/stable 0.3.10+nods-4.3 arm64
+  Evolved Packet Core - Mobility Management Entity (MME)
+
+nextepc-pcrf/stable 0.3.10+nods-4.3 arm64
+  Evolved Packet Core - Policy and Charging Rules Function (PCRF)
+
+nextepc-pgw/stable 0.3.10+nods-4.3 arm64
+  Evolved Packet Core - Packet Data Network Gateway (PDN-GW)
+
+nextepc-sgw/stable 0.3.10+nods-4.3 arm64
+  Evolved Packet Core - Serving Gateway (SGW)
+
+nfs-ganesha-gpfs/stable 6.5-5 arm64
+  nfs-ganesha fsal gpfs libraries
+
+ngraph-gtk-addins/stable 6.09.09-1 all
+  addin collection of Ngraph-gtk
+
+ngspice/stable 44.2+ds-1 arm64
+  Spice circuit simulator
+
+ngspice-doc/stable 44.2+ds-1 all
+  Documentation for the NGspice circuit simulator
+
+nmodl/stable 0.6-2+b5 arm64
+  Code generation engine for the NEURON modeling language
+
+node-argparse/stable 2.0.1-2 all
+  CLI arguments parser for node.js
+
+node-openpgp-asmcrypto.js/stable 2.3.3~0-3 all
+  Javascript Cryptographic library with performance in mind
+
+node-openpgp-seek-bzip/stable 1.0.5-3 all
+  Pure-JavaScript Node.JS module for random-access decoding bzip2 data
+
+node-vscode-debugprotocol/stable 1.57.0-2 all
+  VS Code Debug Protocol
+
+ns3/stable 3.43-2 arm64
+  discrete-event network simulator for Internet systems
+
+ns3-doc/stable 3.43-2 all
+  documentation for ns3
+
+ntpsec/stable 1.2.3+dfsg1-8 arm64
+  Network Time Protocol daemon and utility programs
+
+ntpsec-doc/stable 1.2.3+dfsg1-8 all
+  Network Time Protocol documentation
+
+ntpsec-ntpdate/stable 1.2.3+dfsg1-8 arm64
+  client for setting system time from NTP servers
+
+ntpsec-ntpdig/stable 1.2.3+dfsg1-8 arm64
+  ntpdig SNTP client
+
+ntpsec-ntpviz/stable 1.2.3+dfsg1-8 arm64
+  NTP statistics graphing utility
+
+numba-doc/stable 0.61.2+dfsg-1+deb13u1 all
+  native machine code compiler for Python (docs)
+
+nvtop/stable 3.2.0-1 arm64
+  Neat Videocard TOP
+
+obs-studio/stable 30.2.3+dfsg-3 arm64
+  recorder and streamer for live video content
+
+ocl-icd-dev/stable 2.3.3-1 arm64
+  Development files to build an OpenCL ICD
+
+ocl-icd-libopencl1/stable,now 2.3.3-1 arm64 [installed,automatic]
+  Generic OpenCL ICD Loader
+
+ocl-icd-opencl-dev/stable 2.3.3-1 arm64
+  OpenCL development files
+
+octave-instrument-control/stable 0.9.5-1 arm64
+  instrument control for Octave
+
+octave-psychtoolbox-3/stable 3.0.19.14.dfsg1-1 arm64
+  toolbox for vision research -- Octave bindings
+
+octave-stk/stable 2.8.1-3+b1 arm64
+  (not so) Small Toolbox for Kriging
+
+ofono/stable 2.16-5 arm64
+  Mobile telephony stack (daemon)
+
+ofono-dev/stable 2.16-5 all
+  Mobile telephony stack (development files)
+
+ofono-scripts/stable 2.16-5 all
+  Mobile telephony stack (test and maintenance script files)
+
+ohcount/stable 4.0.0-5 arm64
+  Source code line counter
+
+ohcount-doc/stable 4.0.0-5 all
+  Source code line counter - Documentation
+
+onak/stable 0.6.3-1+b3 arm64
+  OpenPGP Key Server
+
+open-iscsi/stable 2.1.11-1+deb13u2 arm64
+  iSCSI initiator tools
+
+openarena/stable 0.8.8+dfsg-8 arm64
+  fast-paced 3D first-person shooter
+
+openarena-server/stable 0.8.8+dfsg-8 arm64
+  server and game logic for the game OpenArena
+
+openbgpd/stable 8.8-1 arm64
+  OpenBSD BGP daemon
+
+opencl-1.2-html-doc/stable 1.0~svn33624-5.1 all
+  OpenCL 1.2 documentation - html pages
+
+opencl-1.2-man-doc/stable 1.0~svn33624-5.1 all
+  OpenCL 1.2 documentation - man pages (experimental)
+
+opencl-c-headers/stable 3.0~2024.10.24-2 all
+  OpenCL (Open Computing Language) C header files
+
+opencl-clhpp-headers/stable 3.0~2024.10.24-2 all
+  C++ headers for OpenCL development
+
+opencl-clhpp-headers-doc/stable 3.0~2024.10.24-2 all
+  documentation for C++ OpenCL headers
+
+opencl-headers/stable 3.0~2024.10.24-2 all
+  OpenCL (Open Computing Language) header files
+
+opencpn/stable 1:5.10.2+dfsg-1 arm64
+  Open Source Chartplotter and Marine GPS Navigation Software
+
+opencpn-data/stable 1:5.10.2+dfsg-1 all
+  Open Source Chartplotter and Marine GPS Navigation Software (data)
+
+openimageio-tools/stable 2.5.18.0+dfsg-1+b1 arm64
+  Library for reading and writing images - command line tools
+
+openoverlayrouter/stable 1.3.0+ds1-4+b1 arm64
+  deploy programmable overlay networks
+
+openpgp-applet/stable 1.1-3 all
+  GNOME applet for OpenPGP text encryption
+
+openssh-known-hosts/stable 0.6.3-1 all
+  download, filter and merge known_hosts for OpenSSH
+
+opensubdiv-tools/stable 3.6.0-3 arm64
+  high performance subdivision surface (subdiv) library - tools
+
+opgpcard/stable 0.3.0-2 all
+  tool to create printable business cards including OpenPGP
+
+osmo-ggsn/stable 1.13.0-2 arm64
+  Osmocom Gateway GPRS Support Node (GGSN)
+
+osmo-gtphub/stable 1.13.0+dfsg1-2 arm64
+  Proxy for GTP traffic between multiple SGSNs and GGSNs
+
+osmo-msc/stable 1.13.0+dfsg1-2 arm64
+  Osmocom's Mobile Switching Center for 2G and 3G mobile networks
+
+osmo-pcu/stable 1.5.1-1 arm64
+  Osmocom GPRS/EDGE Packet Control Unit (PCU)
+
+osmo-sgsn/stable 1.13.0+dfsg1-2 arm64
+  Serving GPRS Support Node for 2G and 3G networks
+
+osmo-trx/stable 1.7.1-1 arm64
+  SDR transceiver that implements Layer 1 of a GSM BTS
+
+ovn-bgp-agent/stable 4.0.0-1 all
+  OpenStack virtual network service - OVN BGP agent
+
+pacpl/stable 6.1.3-1 all
+  multi-purpose audio converter/ripper/tagger script
+
+paperkey/stable 1.6-1+b1 arm64
+  extract just the secret information out of OpenPGP secret keys
+
+pari-doc/stable 2.17.2-1 all
+  PARI/GP Computer Algebra System documentation
+
+pari-elldata/stable 0.20210301-1 all
+  PARI/GP Computer Algebra System elliptic curves (elldata)
+
+pari-galdata/stable 0.20080411-4 all
+  PARI/GP Computer Algebra System Galois resolvents (galdata)
+
+pari-galpol/stable 4.0-2 all
+  PARI/GP Computer Algebra System Galois polynomial database
+
+pari-gp/stable 2.17.2-1 arm64
+  PARI/GP Computer Algebra System binaries
+
+pari-gp2c/stable 0.0.14-1 arm64
+  PARI/GP GP to C compiler
+
+pari-nflistdata/stable 0.20220729-2 all
+  PARI/GP Computer Algebra System Galois polynomial database
+
+pari-seadata/stable 0.20090618-3 all
+  PARI/GP Computer Algebra System modular polynomials (seadata)
+
+parted/stable 3.6-5 arm64
+  disk partition manipulator
+
+partitionmanager/stable 24.12.3-1 arm64
+  file, disk and partition management for KDE
+
+pass/stable 1.7.4-7 all
+  lightweight directory-based password manager
+
+pass-extension-tomb/stable 1.3-4 all
+  lightweight directory-based password manager (tomb extension)
+
+pass-extension-tomb-basic/stable 0.0.1+20170729+7512ad6-4 all
+  lightweight directory-based password manager (tomb extension)
+
+pd-pan/stable 0.1.2-5 all
+  library of stereo panning algorithms for Pd
+
+pd-sigpack/stable 0.46.0-2+b1 arm64
+  signal processing effects library for Pd
+
+perl-debug/stable 5.40.1-6 arm64
+  debug-enabled Perl interpreter
+
+pgpainless-cli/stable 1.6.9-1 all
+  Stateless OpenPGP Protocol with PGPainless - runtime executable
+
+pgpdump/stable 0.36-1+b1 arm64
+  PGP packet visualizer
+
+pgpgpg/stable 0.13-12+b1 arm64
+  Wrapper for using GnuPG in programs designed for PGP
+
+pgpool2/stable 4.6.1-2 arm64
+  connection pool server and replication proxy for PostgreSQL
+
+php-crypt-gpg/stable 1.6.11-1 all
+  PHP PEAR module for encrypting and decrypting with GnuPG
+
+php-gnupg/stable 1.5.2-1 all
+  PHP wrapper around the gpgme library
+
+php-gnupg-all-dev/stable 1.5.2-1 all
+  PHP wrapper around the gpgme library
+
+php-msgpack/stable 1:3.0.0-1 all
+  PHP extension for interfacing with MessagePack
+
+php-msgpack-all-dev/stable 1:3.0.0-1 all
+  PHP extension for interfacing with MessagePack
+
+php8.4-gnupg/stable 1.5.2-1 arm64
+  PHP wrapper around the gpgme library
+
+php8.4-msgpack/stable 1:3.0.0-1 arm64
+  PHP extension for interfacing with MessagePack
+
+pigpio-tools/stable 1.78-1.1+b1 arm64
+  Client tools for Raspberry Pi GPIO control
+
+pinentry-x2go/stable 0.7.5.10-1+b3 arm64
+  OpenPGP (smart)card authentication dialog window for X2Go Client
+
+pius/stable 3.0.0-8 all
+  Tools to help before and after key-signing parties
+
+pkg-rocm-tools/stable 0.8.2 all
+  Utilities for adding ROCm support to packages
+
+pngphoon/stable 1.3-3.1 arm64
+  Creates a png file with the current phase of the moon
+
+postgresql-17-mobilitydb/stable 1.2.0-2 arm64
+  Open source geospatial trajectory data management & analysis platform
+
+postgresql-17-pgpcre/stable 0.20190509-8 arm64
+  Perl Compatible Regular Expressions (PCRE) extension for PostgreSQL
+
+postgresql-17-pgpool2/stable 4.6.1-2 arm64
+  connection pool server and replication proxy for PostgreSQL - modules
+
+postgresql-17-rdkit/stable 202503.1-4 arm64
+  Cheminformatics and machine-learning software (PostgreSQL Cartridge)
+
+primus/stable 0~20150328-19 arm64
+  client-side GPU offloading for NVIDIA Optimus
+
+primus-libs/stable 0~20150328-19 arm64
+  shared libraries for primus
+
+primus-vk/stable 1.6.4-4 all
+  Vulkan layer for GPU offloading
+
+profanity/stable 0.15.0-1 arm64
+  console based XMPP client
+
+profanity-light/stable 0.15.0-1 arm64
+  console based XMPP client, light version
+
+progress-linux-pgp-keys/stable 20250601-1 all
+  Progress Linux - PGP Keys
+
+prometheus-bird-exporter/stable 1.4.2+ds-2 arm64
+  Prometheus exporter for the BIRD routing daemon
+
+prs/stable 0.5.2+dfsg-3 arm64
+  secure, fast and convenient password manager
+
+psensor/stable 1.2.1-3 arm64
+  display graphs for monitoring hardware temperature
+
+psensor-server/stable 1.2.1-3 arm64
+  Psensor server for monitoring hardware sensors remotely
+
+psgml/stable 1.4.0-12.2 all
+  Emacs major mode for editing SGML documents
+
+psi/stable 1.5+dfsg1-2 arm64
+  Qt-based XMPP client
+
+psi-l10n/stable 1.12+real1.5-4 all
+  localization files for Psi
+
+psi-plugins/stable 1.5-2+b2 arm64
+  official plugins for Psi
+
+psi-plus/stable 1.4.1456-2.1 arm64
+  Qt-based XMPP client (basic version)
+
+psi-plus-common/stable 1.4.1456-2.1 all
+  common files for Psi+
+
+psi-plus-plugin-psimedia/stable 1.4.1456-2.1 arm64
+  plugin for Psi+ for audio and video calls
+
+psi-plus-plugins/stable 1.4.1456-2.1 arm64
+  plugins for Psi+
+
+psi-plus-plugins-dev/stable 1.4.1456-2.1 all
+  development files for Psi+ plugins
+
+psi-plus-sounds/stable 1.4.1456-2.1 all
+  sound files for Psi+
+
+psi-plus-webkit/stable 1.4.1456-2.1 arm64
+  Qt-based XMPP client (WebEngine version)
+
+pynx/stable 2025.1-2 all
+  Python tools for Nano-structures Crystallography (Scripts)
+
+python-argon2-doc/stable 21.1.0-3 all
+  Argon2 password hashing library - Python Module Documentation
+
+python-ase-doc/stable 3.24.0-1 all
+  Atomic Simulation Environment (common documentation)
+
+python-bitmath-doc/stable 1.3.3.1-4 all
+  handle file sizes with different prefix notations (Documentation)
+
+python-cyborgclient-doc/stable 2.5.0-2 all
+  Python client for cyborg API - doc
+
+python-dogpile.cache-doc/stable 1.3.3-1 all
+  caching front-end based on the Dogpile lock - doc
+
+python-flask-bcrypt-doc/stable 1.0.1-2 all
+  Flask extension that provides bcrypt hashing utilities (Documentation)
+
+python-gphoto2-doc/stable 2.5.1-1 all
+  Python interface to libgphoto2 (common documentation)
+
+python-gplearn-doc/stable 0.4.2-4 all
+  Documentation for python-gplearn
+
+python-gpyfft-doc/stable 0.7.1-3 all
+  Wrapper for the OpenCL FFT library clFFT (common documentation)
+
+python-ly-doc/stable 0.9.9-3 all
+  Tool and library for manipulating LilyPond files (documentation)
+
+python-mando-doc/stable 0.8.2-1 all
+  command line argument parser for python3 (common documentation)
+
+python-oslo.cache-doc/stable 3.10.1-3 all
+  cache storage for Openstack projects - doc
+
+python-pathvalidate-doc/stable 3.2.3-1 all
+  sanitize/validate filenames/file-paths/etc (Documentation)
+
+python-periphery-doc/stable 2.4.1-1 all
+  Peripheral I/O (Documentation)
+
+python-podcastparser-doc/stable 0.6.10-2 all
+  Simplified, fast RSS parsing library (common documentation)
+
+python-pyeapi-doc/stable 1.0.2-2 all
+  Python API to interact with EOS network devices - docs
+
+python-pynx-doc/stable 2025.1-2 all
+  Python tools for Nano-structures Crystallography (common documentation)
+
+python-vispy-doc/stable 0.14.3-1 all
+  interactive visualization in Python [documentation]
+
+python3-aiocache/stable 0.12.3-2 all
+  multi backend asyncio cache
+
+python3-aioconsole/stable 0.8.1-2 all
+  Asynchronous console and interfaces for asyncio
+
+python3-argcomplete/stable 3.6.2-1 all
+  bash/zsh tab completion for argparse (for Python 3)
+
+python3-argh/stable 0.31.3-1 all
+  simple argparse wrapper (Python 3)
+
+python3-argon2/stable 21.1.0-3 arm64
+  Argon2 password hashing library - Python 3.x Module
+
+python3-argparse-addons/stable 0.12.0-2 all
+  Additional argparse types and actions (Python 3)
+
+python3-argparse-manpage/stable 4.5-2 all
+  Automatically build a manpage from argparse
+
+python3-ase/stable 3.24.0-1 all
+  Atomic Simulation Environment (Python 3)
+
+python3-autocommand/stable 2.2.2-3 all
+  library to generate argparse parsers from function signatures
+
+python3-avahi/stable 0.8-16 arm64
+  Python utility package for Avahi
+
+python3-barman/stable 3.13.3-1 all
+  Backup and Recovery Manager for PostgreSQL - Python modules
+
+python3-bitmath/stable 1.3.3.1-4 all
+  handle file sizes with different prefix notations (Python3 version)
+
+python3-cattr/stable 24.1.2-1 all
+  composable complex class support for attrs and dataclasses
+
+python3-ceph-argparse/stable 18.2.7+ds-1+deb13u1 arm64
+  Python 3 utility libraries for Ceph CLI
+
+python3-circuitbreaker/stable 1.4.0-1 all
+  Python Circuit Breaker pattern implementation
+
+python3-click-option-group/stable 0.5.6-1.1 all
+  Extension for Python click adding option groups (Python 3)
+
+python3-compyle/stable 0.8.1-11 all
+  Execute a subset of Python on HPC platforms
+
+python3-configargparse/stable 1.7-2 all
+  replacement for argparse with config files and environment variables
+
+python3-crccheck/stable 1.3.0-1 all
+  implementation of 170+ CRC algorithms for Python 3
+
+python3-cyborg/stable 14.0.0-3+deb13u1 all
+  OpenStack Acceleration as a Service - Python library
+
+python3-cyborgclient/stable 2.5.0-2 all
+  Python client for cyborg API - Python 3.x
+
+python3-cysignals-pari/stable 1.12.3+ds-1 all
+  interrupt and signal handling for Cython -- Python 3 - PARI/GP
+
+python3-debugpy/stable 1.8.12+ds-1 arm64
+  Implementation of the Debug Adapter Protocol for Python 3
+
+python3-django-dbbackup/stable 4.2.1-1 all
+  Backup and restore commands for Django
+
+python3-dogpile.cache/stable 1.3.3-1 all
+  caching front-end based on the Dogpile lock - Python 3.x
+
+python3-dpkt/stable 1.9.8-2 all
+  Python 3 packet creation / parsing module for basic TCP/IP protocols
+
+python3-exabgp/stable 4.2.25-1 all
+  BGP swiss army knife of networking - Python 3 module
+
+python3-faiss/stable 1.11.0-3 arm64
+  Python 3 module for efficient similarity search and clustering of dense vectors
+
+python3-filetype/stable 1.2.0-1 all
+  Infer file type and MIME type of any file/buffer
+
+python3-flask-bcrypt/stable 1.0.1-2 all
+  Flask extension that provides bcrypt hashing utilities (Python3)
+
+python3-freesas/stable 2024.9.0-3 arm64
+  Python libraries for small angle scattering tools
+
+python3-ftdi/stable 0.56.0-1 arm64
+  user-space driver for popular FTDI devices
+
+python3-ftdi-doc/stable 0.56.0-1 all
+  user-space driver for popular FTDI devices. Documentation
+
+python3-glances-api/stable 0.9.0-1 all
+  Client for interacting with Glances API
+
+python3-gpapi/stable 0.4.4+git20200310-3 all
+  Unofficial Python API for Google Play
+
+python3-gpg/stable 1.24.2-3 arm64
+  Python interface to the GPGME GnuPG encryption library (Python 3)
+
+python3-gphoto2/stable 2.5.1-1+b1 arm64
+  Python interface to libgphoto2 (Python 3)
+
+python3-gpiozero/stable 1.6.2-1+b1 arm64
+  simple interface to everyday GPIO components used with Raspberry Pi (Python 3)
+
+python3-gplearn/stable 0.4.2-4 all
+  Genetic Programming in Python, with a scikit-learn inspired API
+
+python3-gps/stable 3.25-5+deb13u1 arm64
+  Global Positioning System - Python 3 libraries
+
+python3-gpsoauth/stable 0.4.1-4 all
+  Client library for Google Play Services OAuth
+
+python3-gpumodules/stable 3.9.0-1 all
+  adjustment and inspection of AMD GPUs
+
+python3-gpxpy/stable 1.6.2-1 all
+  GPX file parser and GPS track manipulation library (Python 3)
+
+python3-gpyfft/stable 0.7.1-3+b1 arm64
+  Wrapper for the OpenCL FFT library clFFT (Python 3)
+
+python3-hazwaz/stable 0.0.3-1 all
+  write command line scripts
+
+python3-hglib/stable 2.6.2-3 all
+  Python3 library for interfacing with Mercurial's command server
+
+python3-iniparse/stable 0.5.1-1+deb13u1 all
+  access and modify configuration data in INI files (Python 3)
+
+python3-keras-applications/stable 1.0.8+ds-2 all
+  popular models and pre-trained weights for the Keras deep learning framework
+
+python3-keras-preprocessing/stable 1.1.2-1 all
+  data preprocessing module for the Keras deep learning framework
+
+python3-ldap3/stable 2.9.1-2 all
+  Pure Python LDAP client library
+
+python3-libgpiod/stable 2.2.1-2+deb13u1 arm64
+  Python bindings for libgpiod (Python 3)
+
+python3-license-expression/stable 30.4.1-1 all
+  small library to handle license expressions
+
+python3-ly/stable 0.9.9-3 all
+  Tool and library for manipulating LilyPond files (Python 3)
+
+python3-mando/stable 0.8.2-1 all
+  command line argument parser for python3
+
+python3-meep/stable 1.29.0-2 arm64
+  software package for FDTD simulation with Python
+
+python3-meep-mpi-default/stable 1.29.0-2 arm64
+  software package for FDTD simulation with Python
+
+python3-metaconfig/stable 0.1.4a1-8 all
+  Python ConfigParser bootstrapping library (Python3)
+
+python3-mpiplus/stable 0.0.2+ds-1 all
+  Python GPU framework for alchemical free energy calculations (Python 3)
+
+python3-mrtparse/stable 1.6-3 all
+  read and analyze the MRT format data (Python 3.x module)
+
+python3-msgpack/stable 1.0.3-3+b5 arm64
+  Python 3 implementation of MessagePack format
+
+python3-msgpack-numpy/stable 0.4.8-1 all
+  serialize numpy arrays using msgpack
+
+python3-mygpoclient/stable 1.10-1 all
+  Client library for the gpodder.net web service
+
+python3-networking-bagpipe/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-based VPN - Python 3.x
+
+python3-networking-bgpvpn/stable 22.0.0-1 all
+  OpenStack virtual network service - BGP-MPLS VPN Extension - Python 3.x
+
+python3-nmea2/stable 1.19.0-3 all
+  Python library for the NMEA 0183 protocol
+
+python3-ntp/stable 1.2.3+dfsg1-8 arm64
+  Python 3 NTP Helper Classes
+
+python3-numba/stable 0.61.2+dfsg-1+deb13u1 arm64
+  native machine code compiler for Python 3
+
+python3-omemo/stable 1.2.0-1 all
+  Python 3 implementation of the OMEMO protocol
+
+python3-openimageio/stable 2.5.18.0+dfsg-1+b1 arm64
+  Library for reading and writing images - Python bindings
+
+python3-orbit-predictor/stable 1.15.0-3 all
+  Python library to propagate satellite orbits
+
+python3-oslo.cache/stable 3.10.1-3 all
+  cache storage for Openstack projects - Python 3.x
+
+python3-ovn-bgp-agent/stable 4.0.0-1 all
+  OpenStack virtual network service - OVN BGP agent library
+
+python3-parmed/stable 4.3.0+dfsg-2+b1 arm64
+  parameter and topology file editor and molecular mechanical simulator
+
+python3-pathvalidate/stable 3.2.3-1 all
+  sanitize/validate filenames/file-paths/etc (Python3 version)
+
+python3-pbcommand/stable 2.1.1+git20231020.28d1635-1 all
+  common command-line interface for Pacific Biosciences analysis modules
+
+python3-periphery/stable 2.4.1-1 all
+  Peripheral I/O (Python3 version)
+
+python3-pgpdump/stable 1.5-4 all
+  PGP packet parser library (Python 3)
+
+python3-pgpy/stable 0.6.0-1.4 all
+  OpenPGP (Pretty Good Privacy) RFC 4880 implementation in Python 3
+
+python3-pgpy-doc/stable 0.6.0-1.4 all
+  OpenPGP (Pretty Good Privacy) RFC 4880 implementation in Python (documentation)
+
+python3-pigpio/stable 1.78-1.1 all
+  Python module which talks to the pigpio daemon (Python 3)
+
+python3-plac/stable 1.4.3-2 all
+  Smartest command line arguments parser in the world
+
+python3-podcastparser/stable 0.6.10-2 all
+  Simplified, fast RSS parsing library (Python 3)
+
+python3-pyasn/stable 1.6.2-1 arm64
+  very fast IP address to Autonomous System Number lookups
+
+python3-pyct/stable 0.5.0-2 all
+  Python packaging Common Tasks
+
+python3-pydevd/stable 3.3.0+ds-4 arm64
+  Debugger used by debugpy
+
+python3-pyeapi/stable 1.0.2-2 all
+  Python API to interact with EOS network devices - Python 3.x
+
+python3-pyegps/stable 0.2.5-2 all
+  Library for controlling Energenie Power Strips
+
+python3-pynvim/stable 0.5.2-2 all
+  Python3 library for scripting Neovim processes through its msgpack-rpc API
+
+python3-pynx/stable 2025.1-2 arm64
+  Python tools for Nano-structures Crystallography (Python 3)
+
+python3-pyotgw/stable 2.2.2-1 all
+  Library for interfacing with the OpenTherm Gateway
+
+python3-pysequoia/stable 0.1.27-1 arm64
+  Python bindings for Sequoia OpenPGP
+
+python3-pyvisa-py/stable 0.7.2-1 all
+  Backend that implements a large part of the VISA in pure Python 3
+
+python3-pyvisa-sim/stable 0.6.0-3 all
+  Simulated backend for PyVISA implementing TCPIP, GPIB, RS232, and USB resources
+
+python3-qingping-ble/stable 0.10.0-3 all
+  Library for interacting with Qingping BLE devices
+
+python3-rdkit/stable 202503.1-4 arm64
+  Collection of cheminformatics and machine-learning software
+
+python3-renault-api/stable 0.3.1-1 all
+  Python library for interacting with the Renault API
+
+python3-rich-argparse/stable 1.6.0-2 all
+  Rich help formatters for argparse and optparse
+
+python3-rl-renderpm/stable 4.0.3+repack-9 arm64
+  contains the ReportLab accelerator module
+
+python3-rpcq/stable 3.11.0-3 all
+  RPC framework and message specification for Rigetti QCS
+
+python3-rpi.gpio/stable 0.7.1~a4-1.2 arm64
+  Module to control Raspberry Pi GPIO channels (Python 3)
+
+python3-sgp4/stable 2.22-1 arm64
+  Track earth satellite TLE orbits using up-to-date 2010 version of sgp4
+
+python3-shtab/stable 1.7.1-1 all
+  Automagic shell tab completion for Python CLI applications
+
+python3-simple-cdd/stable 0.6.9 all
+  python3 modules for Simple-CDD
+
+python3-songpal/stable 0.16.2-2 all
+  Control Sony devices using the Songpal protocol
+
+python3-sop/stable 0.5.1-2 all
+  Framework for implementing the Stateless OpenPGP CLI in Python
+
+python3-sphinx-argparse/stable 0.5.2-1 all
+  Sphinx extension for argparse commands and options (Python 3)
+
+python3-sphinx-argparse-cli/stable 1.19.0-1 all
+  Sphinx extension to render CLI arguments defined by the argparse module
+
+python3-sphinxcontrib.autoprogram/stable 0.1.9-1 all
+  automated documentation of CLI programs for Sphinx (Python 3)
+
+python3-sphinxext-opengraph/stable 0.7.5-1 all
+  Sphinx Extension to enable OGP support
+
+python3-srsly/stable 2.5.1-1+b1 arm64
+  modern high-performance serialization utilities for Python3
+
+python3-suntime/stable 1.2.5-5 all
+  Simple sunset and sunrise time calculation Python library (Python 3)
+
+python3-tagpy/stable 2025.1-1+b1 arm64
+  Python 3 module for manipulating tags in music files
+
+python3-text-unidecode/stable 1.3-1 all
+  most basic Python port of the Text::Unidecode Perl library (Python3 version)
+
+python3-tifffile/stable 20250330-1 all
+  Read and write image data from and to TIFF files
+
+python3-torch/stable 2.6.0+dfsg-7 arm64
+  Tensors and Dynamic neural networks in Python (Python Interface)
+
+python3-torch-cluster/stable 1.6.3-2 arm64
+  PyTorch extension library of optimized graph cluster algorithms (Python 3)
+
+python3-torchaudio/stable 2.6.0-1 arm64
+  Data manipulation and transformation for audio signal processing
+
+python3-u-msgpack/stable 2.8.0-2 all
+  Python3 MessagePack serializer and deserializer
+
+python3-vispy/stable 0.14.3-1 arm64
+  interactive visualization in Python 3
+
+python3-vsgpt/stable 0~20240504-2+b1 arm64
+  GUID Partition Table (GPT) volume system access library -- Python 3 bindings
+
+python3-wilderness/stable 0.1.10-1 all
+  Light wrapper around argparse for creating command line applications
+
+python3-ykman/stable 5.6.1+repack1-1 all
+  Python 3 library for configuring a YubiKey
+
+python3-zigpy/stable 0.80.1-2 all
+  Python Zigbee stack
+
+python3-zigpy-deconz/stable 0.25.0-1 all
+  Communication library for deCONZ-based Zigbee devices
+
+python3-zigpy-xbee/stable 0.21.0-1 all
+  Python library to interface with XBee radios using the zigpy library
+
+python3-zigpy-zigate/stable 0.13.2-3 all
+  Zigbee communication library for ZiGate-based devices
+
+python3-zigpy-znp/stable 0.13.1+dfsg-2 all
+  Library for interacting with TI ZNP radios in Zigbee networks
+
+pytrainer/stable 2.2.1-6 all
+  desktop application for logging sport activities
+
+qca-qt5-2-utils/stable 2.3.10-1 arm64
+  command line tool for the Qt Cryptographic Architecture [Qt 5]
+
+qca-qt6-utils/stable 2.3.10-1 arm64
+  command line tool for the Qt Cryptographic Architecture [Qt 6]
+
+qfitsview/stable 4.3+dfsg-1 arm64
+  FITS file viewer based on DPUSER
+
+qgis-server-landingpage/stable 3.40.6+dfsg-1 arm64
+  QGIS server providing various OGC services (landing page)
+
+qgis3-survex-import/stable 1.3-1 all
+  QGIS3 plugin to read survex 3d files, for cave surveying
+
+qmapshack/stable 1.17.1-1+b5 arm64
+  GPS mapping (GeoTiff and vector) and GPSr management
+
+qml-module-org-kde-quickcharts/stable 5.116.0-1 arm64
+  Quick Charts
+
+qml6-module-org-kde-quickcharts/stable 6.13.0-1 arm64
+  Quick Charts - QML module
+
+qrisk2/stable 0.1.20150729-7 arm64
+  cardiovascular disease risk calculator
+
+qtpass/stable 1.4.0-3 arm64
+  GUI for password manager pass
+
+quickroute-gps/stable 2.5-1 arm64
+  GPS analysis software for getting your route on the map
+
+qutemol/stable 0.4.1~cvs20081111-15+b5 arm64
+  interactive visualization of macromolecules
+
+r-cran-aplpack/stable 1.3.5-1 all
+  Another Plot PACKage: stem.leaf, bagplot, faces, spin3R and others
+
+r-cran-argparse/stable 2.2.5+dfsg-1 all
+  GNU R command line parser for optional and positional arguments
+
+r-cran-argparser/stable 0.7.2-2 all
+  GNU R command-line argument parser
+
+r-cran-broom/stable 1.0.7+dfsg-1 all
+  convert statistical analysis objects into tidy data frames with GNU R
+
+r-cran-cowplot/stable 1.1.3+dfsg-1 all
+  GNU R streamlined plot theme and plot annotations for 'ggplot2'
+
+r-cran-egg/stable 0.4.5-3 all
+  GNU R extensions for 'ggplot2': custom geom, custom themes, plot
+
+r-cran-ggalluvial/stable 0.12.5-2 all
+  GNU R alluvial plots in 'ggplot2'
+
+r-cran-ggally/stable 2.2.1-1 all
+  GNU R extension to r-cran-ggplot2
+
+r-cran-gganimate/stable 1.0.9-1 all
+  GNU R grammar of animated graphics
+
+r-cran-ggdendro/stable 0.2.0+dfsg-1 all
+  GNU R create dendrograms and tree diagrams using 'ggplot2'
+
+r-cran-ggeffects/stable 2.2.1+dfsg-1 all
+  GNU R create tidy data frames of marginal effects for 'ggplot'
+
+r-cran-ggforce/stable 0.4.2-1+b1 arm64
+  accelerating GNU R ggplot2
+
+r-cran-ggfortify/stable 0.4.17+dfsg-1 all
+  GNU R data visualization tools for statistical analysis results
+
+r-cran-ggplot.multistats/stable 1.0.1-1 all
+  GNU R multiple summary statistics for binned stats/geometries
+
+r-cran-ggplot2/stable 3.5.1+dfsg-1 all
+  implementation of the Grammar of Graphics
+
+r-cran-ggpubr/stable 0.6.0-1 all
+  GNU R ggplot2 based publication ready plots
+
+r-cran-ggraph/stable 2.2.1+dfsg-1 arm64
+  GNU R implementation of grammar of graphics for graphs and networks
+
+r-cran-ggrastr/stable 1.0.2-1 all
+  Bioconductor rasterize layers for 'ggplot2'
+
+r-cran-ggrepel/stable 0.9.6-1 arm64
+  auto-position non-overlapping text labels in plots
+
+r-cran-ggridges/stable 0.5.6-1 all
+  Ridgeline Plots in 'ggplot2'
+
+r-cran-ggsci/stable 3.2.0-1 all
+  Scientific Journal and Sci-Fi Themed Color Palettes
+
+r-cran-ggseqlogo/stable 0.2-1 all
+  GNU R ggplot2 extension for publication-ready sequence logos
+
+r-cran-ggsignif/stable 0.6.4-1 all
+  GNU R significance brackets for ggplot2
+
+r-cran-ggstats/stable 0.7.0-2 all
+  GNU R extension to 'ggplot2' for plotting stats
+
+r-cran-ggtext/stable 0.1.2-1 all
+  improved text rendering support for 'ggplot2'
+
+r-cran-ggthemes/stable 5.1.0-1 all
+  extra themes, scales and geoms for r-cran-ggplot2
+
+r-cran-ggvis/stable 0.4.9+dfsg-1 all
+  GNU R interactive grammar of graphics
+
+r-cran-gparotation/stable 2024.3-1-1 all
+  GNU R GPA factor rotation
+
+r-cran-gplots/stable 3.2.0-1 all
+  GNU R package with tools for plotting data by Greg Warnes et al
+
+r-cran-gprofiler2/stable 0.2.3+dfsg-1 all
+  Interface to the 'g:Profiler' Toolset
+
+r-cran-gregmisc/stable 2.1.5-4 all
+  GNU R package with miscellaneous functions by Greg Warnes et al
+
+r-cran-interp/stable 1.1-6-1+b1 arm64
+  GNU R interpolation methods
+
+r-cran-lazyeval/stable 0.2.2-1+b2 arm64
+  GNU R lazy (non-standard) evaluation
+
+r-cran-patchwork/stable 1.3.0-1 all
+  GNU R the composer of plots
+
+r-cran-plotly/stable 4.10.4+dfsg-3 all
+  create interactive web graphics via 'plotly.js' in GNU R
+
+r-cran-rcdklibs/stable 2.9+dfsg-1 all
+  Chemistry Development Kit (CDK) libraries packaged for GNU R
+
+r-cran-rcpparmadillo/stable 14.4.2-1-1 arm64
+  GNU R package for Armadillo C++ linear algebra library
+
+r-cran-reshape/stable 0.8.9-1 all
+  Flexibly reshape data
+
+r-cran-reshape2/stable 1.4.4-2+b1 arm64
+  Flexibly reshape data: a reboot of the reshape package
+
+r-cran-rmpfr/stable 1.0-0-2 arm64
+  R MPFR - Multiple Precision Floating-Point Reliable
+
+r-cran-rtdists/stable 0.11-5-1+b1 arm64
+  GNU R response time distributions
+
+r-cran-survminer/stable 0.5.0+dfsg-2 all
+  Drawing Survival Curves using 'ggplot2'
+
+r-cran-tgp/stable 2.4-23-1 arm64
+  GNU R Bayesian treed Gaussian process models
+
+r-cran-thematic/stable 0.1.6-1 all
+  unified and automatic theming for GNU R
+
+r-cran-tidytext/stable 0.4.2-1 all
+  GNU R text mining using 'dplyr', 'ggplot2', and other tidy tools
+
+r-cran-uroot/stable 2.1-3-1 all
+  GNU R unit root tests for seasonal time series
+
+r-other-chbutils/stable 0.1+git20171026.a226cee-2 arm64
+  GNU R utilities from Harvard School of Public Health Bioinformatics
+
+radeontop/stable 1.4-2+b1 arm64
+  Utility to show Radeon GPU utilization
+
+rasterview/stable 1.8-1+b2 arm64
+  CUPS/PWG/Apple raster file viewer
+
+rbdoom3bfg/stable 1.4.0+dfsg-5 arm64
+  Doom3 BFG edition game engine
+
+reform2-lpc-dkms/stable 1.71-2+deb13u1 all
+  dkms driver sources for Reform 2 LPC11U24
+
+relion/stable 3.1.3-4+b1 arm64
+  toolkit for 3D reconstructions in cryo-electron microscopy
+
+relion-gui/stable 3.1.3-4+b1 arm64
+  toolkit for 3D reconstructions in cryo-electron microscopy (gui apps)
+
+reportbug/stable 13.2.0 all
+  reports bugs in the Debian distribution
+
+reportbug-gtk/stable 13.2.0 all
+  reports bugs in the Debian distribution (GTK+ UI)
+
+ricks-amdgpu-utils/stable 3.9.0-1 all
+  transitional package
+
+rickslab-gpu-utils/stable 3.9.0-1 all
+  AMD GPU performance adjustment and monitoring
+
+rlpr/stable 2.06-2+b1 arm64
+  utility for lpd printing without using /etc/printcap
+
+rnp/stable 0.17.1-1+b1 arm64
+  Cross-platform OpenPGP (RFC4880) tools (command-line tool)
+
+rocm-opencl-icd/stable 5.7.1-6+deb13u1 arm64
+  ROCm implementation of OpenCL API - ICD runtime
+
+rocm-podman-support/stable 0.8.2 all
+  Utilities for working with ROCm inside podman containers
+
+rocm-qemu-support/stable 0.8.2 all
+  Utilities for working with ROCm inside QEMU VMs
+
+rpacket/stable 0.1.4-1+b3 arm64
+  Low-level OpenPGP packet operations based on rPGP
+
+rpi.gpio-common/stable 0.7.1~a4-1.2 arm64
+  Module to control Raspberry Pi GPIO channels (common files)
+
+rsop/stable 0.6.4-1 arm64
+  Stateless OpenPGP (SOP) CLI tool based on rPGP and rpgpie
+
+rsopv/stable 0.6.4-1 arm64
+  Stateless OpenPGP Verification-only (SOPV) CLI (rpgp and rpgpie)
+
+rsplib-fgp-cfgfiles/stable 3.4.4-1.1 all
+  RSerPool Fractal Generator Service example input files
+
+ruby-cbor/stable 0.5.9.8-1+b2 arm64
+  CBOR, Concise Binary Object Representation
+
+ruby-gpgme/stable 2.0.23-1+b5 arm64
+  Ruby GPGME binding
+
+ruby-mail-gpg/stable 0.4.4-1 all
+  GPG/MIME encryption plugin for the Ruby Mail Library
+
+ruby-msgpack/stable 1.7.2-1.1+b2 arm64
+  Ruby library for MessagePack
+
+ruby-pgplot/stable 0.2.0-5 arm64
+  Ruby interface to the PGPLOT graphics library
+
+ruby-rack-parser/stable 0.7.0-3 all
+  Rack Middleware for parsing post body data
+
+ruby-ruby-openai/stable 3.7.0-2.1 all
+  use the OpenAI API with Ruby
+
+ruby-stackprof/stable 0.2.26-3+b2 arm64
+  sampling callstack-profiler for ruby 2.2+
+
+s3dosm/stable 0.2.2.1-7 arm64
+  gps card application for s3d
+
+satellite-gtk/stable 0.9.0-1 all
+  Adaptive GTK application which displays GNSS data
+
+scdaemon/stable 2.4.7-21+deb13u1+b4 arm64
+  GNU privacy guard - smart card support
+
+scute/stable 1:1.7.0+git20240826+8331f37-1 arm64
+  OpenPGP smartcard plugin for Mozilla Network Security Services
+
+seahorse-nautilus/stable 3.11.92+git20230129.d59dc92f-2 arm64
+  Nautilus extension for Seahorse integration
+
+seccure/stable 0.5-2+b1 arm64
+  tools for using algorithms based on elliptic curve cryptography (ECC)
+
+sequoia-chameleon-gnupg/stable 0.13.1-3 all
+  Sequoia's GnuPG CLI tools (metapackage)
+
+shishi/stable 1.0.3-5+b1 arm64
+  Command line client for the Shishi Kerberos v5 implementation
+
+signify-openbsd/stable 32-1.1+b1 arm64
+  Lightweight cryptographic signing and verifying tool
+
+signing-party/stable 2.12-1 arm64
+  Various OpenPGP related tools
+
+sigrok-firmware-fx2lafw/stable 0.1.7-3 all
+  Firmware for Cypress FX2(LP) based logic analyzers
+
+sleuthkit/stable 4.12.1+dfsg-3 arm64
+  tools for forensics analysis on volume and filesystem data
+
+slurm-wlm-rsmi-plugin/stable 24.11.5-4 arm64
+  Slurm RSMI plugin
+
+slurm-wlm-rsmi-plugin-dev/stable 24.11.5-4 arm64
+  Slurm RSMI plugin development files
+
+sopv-doc/stable 1.1.1-1 all
+  OpenPGP verification manuals and examples
+
+sopv-gpgv/stable 0.1.4-1 all
+  Stateless OpenPGP CLI Verification-only Subset backed by gpgv
+
+splash/stable 3.11.2-1 arm64
+  Visualisation tool for Smoothed Particle Hydrodynamics simulation
+
+sq/stable 1.3.1-2+b2 arm64
+  OpenPGP command-line tool from Sequoia
+
+sqop/stable 0.37.2-1+b3 arm64
+  Stateless OpenPGP Command Line Interface using Sequoia
+
+sqopv/stable 0.37.2-1+b3 arm64
+  Stateless OpenPGP Verification-only Command Line Interface using Sequoia
+
+squid-langpack/stable 20220130-1 all
+  Localized error pages for Squid
+
+sqv/stable,now 1.3.0-3+b2 arm64 [installed]
+  OpenPGP signature verification program from Sequoia
+
+starpu-examples/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines - exs
+
+starpu-tools/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines - tools
+
+statcvs/stable 1:0.7.0.dfsg-11 all
+  CVS Repository statistic analysis tool, written in Java
+
+stayrtr/stable 0.6.2-1+deb13u1 arm64
+  RPKI to Router server
+
+stm32flash/stable 0.7-1+b1 arm64
+  STM32 chip flashing utility using a serial bootloader
+
+stymulator/stable 0.21a~dfsg-4 arm64
+  Curses based player and converter for the YM chiptune format
+
+surf-alggeo/stable 1.0.6+ds-7+b1 arm64
+  visualization of real algebraic geometry
+
+surf-alggeo-doc/stable 1.0.6+ds-7 all
+  visualization of real algebraic geometry -- manual
+
+surf-alggeo-nox/stable 1.0.6+ds-7+b1 arm64
+  visualization of real algebraic geometry -- no X support
+
+suricata/stable 1:7.0.10-1+deb13u4 arm64
+  Next Generation Intrusion Detection and Prevention Tool
+
+svgpart/stable 4:25.04.0-1 arm64
+  KDE SVG KPart
+
+svxlink-gpio/stable 24.02-5 all
+  GPIO control scripts SvxLink amateur radio server
+
+switcheroo-control/stable 2.6-3+b1 arm64
+  D-Bus service to check the availability of dual-GPU
+
+t50/stable 5.8.7b-1+b1 arm64
+  Multi-protocol packet injector tool
+
+tandem-mass/stable 1:201702011-1 arm64
+  mass spectrometry software for protein identification
+
+tao-json-dev/stable 1.0.0~beta14+really0.0+git20200604.f357d72-1 all
+  multifunctional and zero-dependency C++ header-only JSON library
+
+tao-json-examples/stable 1.0.0~beta14+really0.0+git20200604.f357d72-1 all
+  multifunctional and zero-dependency C++ header-only JSON library (examples)
+
+tcl-trf/stable 2.1.4-dfsg3-8 arm64
+  Tcl data transformations - runtime library
+
+tcl-trf-dev/stable 2.1.4-dfsg3-8 arm64
+  Tcl data transformations - development files
+
+tcl-trf-doc/stable 2.1.4-dfsg3-8 all
+  Tcl data transformations - documentation
+
+tcllib/stable 2.0+dfsg-4 all
+  Standard Tcl Library
+
+tcpdump/stable 4.99.5-2 arm64
+  command-line network traffic analyzer
+
+tetraproc/stable 0.9.2-1+b2 arm64
+  Tetrahedral Microphone Processor for Ambisonic Recording
+
+texlive-fonts-extra/stable 2024.20250309-2 all
+  TeX Live: Additional fonts
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+texlive-music/stable 2024.20250309-2 all
+  TeX Live: Music packages
+
+texlive-pictures/stable 2024.20250309-1 all
+  TeX Live: Graphics, pictures, diagrams
+
+texlive-science/stable 2024.20250309-2 all
+  TeX Live: Mathematics, natural sciences, computer science packages
+
+texmacs/stable 1:2.1.4+ds-3 arm64
+  WYSIWYG scientific text editor using TeX fonts
+
+texmacs-base/stable 1:2.1.4+ds-3 all
+  WYSIWYG scientific text editor using TeX fonts -- base
+
+texmacs-bin/stable 1:2.1.4+ds-3 arm64
+  WYSIWYG scientific text editor using TeX fonts -- binaries
+
+texmacs-doc/stable 1:2.1.4+ds-3 all
+  WYSIWYG scientific text editor using TeX fonts -- documentation
+
+texmacs-texmf/stable 1:2.1.4+ds-3 all
+  WYSIWYG scientific text editor using TeX fonts -- TeXMF
+
+tiny-dnn/stable 1.0.0a3+ds-5 all
+  header only deep learning framework in C++
+
+tiny-dnn-doc/stable 1.0.0a3+ds-5 all
+  header only deep learning framework in C++ -- documentation
+
+topal/stable 84-1+b2 arm64
+  Glue between the Alpine email client and GnuPG cryptography
+
+totalopenstation/stable 0.5.3-1 all
+  download and process data from total station devices
+
+tpm2daemon/stable 2.4.7-21+deb13u1+b4 arm64
+  GNU privacy guard - TPM2 support
+
+triehash/stable 0.3-3 all
+  Generates perfect hash functions as native machine code
+
+twine/stable 6.1.0-1 all
+  utility for interacting with PyPI
+
+ubuntu-keyring/stable 2023.11.28.1-0.2 all
+  all GnuPG keys used by Ubuntu Project
+
+ufo-core-doc/stable 0.17.0.22.gc831aec-1 all
+  Library for high-performance, GPU-based computing - documentation
+
+ufo-filters/stable 0.17.0.76.g691aa0e+dfsg1-2 arm64
+  Set of plugins for ufo-core - runtime
+
+ufo-filters-data/stable 0.17.0.76.g691aa0e+dfsg1-2 all
+  Library for high-performance, GPU-based computing - data
+
+ufo-filters-doc/stable 0.17.0.76.g691aa0e+dfsg1-2 all
+  Library for high-performance, GPU-based computing - documentation
+
+upx-ucl/stable 4.2.4-1.1 arm64
+  efficient live-compressor for executables
+
+uwsgi-core/stable 2.0.28-9 arm64
+  fast, self-healing application container server (core)
+
+vainfo/stable 2.22.0+ds1-2 arm64
+  Video Acceleration (VA) API for Linux -- info program
+
+vboot-utils/stable 0~R106-15054.B+dfsg-0.1 arm64
+  Chrome OS verified u-boot utilities
+
+vdpau-driver-all/stable,now 1.5-3+b1 arm64 [installed,automatic]
+  Video Decode and Presentation API for Unix (driver metapackage)
+
+vdpauinfo/stable 1.5-3+b1 arm64
+  Video Decode and Presentation API for Unix (vdpauinfo utility)
+
+viking/stable 1.10-4+b1 arm64
+  GPS data editor, analyzer and viewer
+
+vim-scripts/stable 20210124.4 all
+  plugins for vim, adding bells and whistles
+
+virgl-server/stable 1.1.0-2 arm64
+  virtual GPU for KVM virtualization - vtest server used
+
+virtualgps/stable 1.1.1-3 all
+  Virtual GPS simulates GPS receiver
+
+virtualjaguar/stable 2.1.3+final-1 arm64
+  Cross-platform Atari Jaguar emulator
+
+vish/stable 0.0.20130812-1+b1 arm64
+  Commandline interface for Virtual Instrument Software Architecture
+
+visualboyadvance/stable 1.8.0.dfsg-6 arm64
+  full featured Game Boy Advance emulator
+
+vokoscreen-ng/stable 4.4.0-1 arm64
+  easy to use screencast creator
+
+winff/stable 1.6.4+dfsg-3 all
+  graphical video and audio batch converter using ffmpeg or avconv
+
+winff-data/stable 1.6.4+dfsg-3 all
+  winff data files
+
+winff-doc/stable 1.6.4+dfsg-3 all
+  winff documentation
+
+winff-qt/stable 1.6.4+dfsg-3 arm64
+  Qt variant of winff
+
+wsclean/stable 3.6-1 arm64
+  Fast generic widefield interferometric imager
+
+wsclean-dev/stable 3.6-1 arm64
+  Fast generic widefield interferometric imager (development files)
+
+x11proto-dev/stable 2024.1-1 all
+  X11 extension protocols and auxiliary headers
+
+x2goserver-xsession/stable 4.1.0.6-1.1 all
+  X2Go Server (Xsession runner)
+
+xastir/stable 2.2.0-1+b3 arm64
+  X Amateur Station Tracking and Information Reporting
+
+xastir-data/stable 2.2.0-1 all
+  X Amateur Station Tracking and Information Reporting
+
+xeus-gp/stable 0.1.0-1 arm64
+  Native jupyter kernel for GP
+
+xmacro/stable 0.3pre-20000911-10+b2 arm64
+  Record / Play keystrokes and mouse movements in X displays
+
+xmedcon/stable 0.25.1-gtk3+dfsg-1 arm64
+  Medical Image (DICOM, ECAT, ...) conversion tool (GUI)
+
+xmppc/stable 0.1.0-2+b3 arm64
+  XMPP Command Line Client
+
+xmrig/stable 6.22.2+dfsg-2 arm64
+  High performance, open source CPU/GPU miner and RandomX benchmark
+
+xournalpp/stable 1.2.6-1 arm64
+  Xournal++ - Open source hand note-taking program
+
+xracer/stable 0.96.9.1-13 arm64
+  Futuristic racing game
+
+xracer-tools/stable 0.96.9.1-13 all
+  Futuristic racing game - developer tools
+
+xserver-xorg-video-amdgpu/stable 23.0.0-1+b2 arm64
+  X.Org X server -- AMDGPU display driver
+
+yt-dlp/stable 2025.04.30-1 all
+  downloader of videos from YouTube and other sites
+
+yubikey-manager/stable 5.6.1+repack1-1 all
+  Python library and command line tool for configuring a YubiKey
+
+zutty/stable 0.16.2.20241020+dfsg1-1 arm64
+  Efficient full-featured X11 terminal emulator
+

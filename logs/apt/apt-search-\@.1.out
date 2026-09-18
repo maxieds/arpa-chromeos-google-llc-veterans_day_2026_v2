@@ -1,0 +1,935 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+airspy/stable 1.0.10-3+b3 arm64
+  Tiny and efficient software defined radio receiver - utilities
+
+ansilove/stable 4.2.0-2+b1 arm64
+  ANSI and ASCII art to PNG converter
+
+any2fasta/stable 0.4.2-2 all
+  convert various sequence formats to FASTA
+
+any2fasta-examples/stable 0.4.2-2 all
+  convert various sequence formats to FASTA (example data)
+
+apt-config-icons-hidpi/stable 1.0.5-1 all
+  APT configuration snippet to enable HiDPI icon downloads
+
+apt-config-icons-large-hidpi/stable 1.0.5-1 all
+  APT configuration snippet to enable large HiDPI icon downloads
+
+atop/stable 2.11.1-3 arm64
+  Monitor for system resources and process activity
+
+autodock-getdata/stable 4.2.6-9 all
+  instructions for getData to collect compounds
+
+autoproject/stable 0.20-15 all
+  create a skeleton source package for a new program
+
+boinc-screensaver/stable 8.0.4+dfsg-1 arm64
+  screen saver auto-controlling volunteer computing
+
+cfingerd/stable 1.4.3-8 arm64
+  configurable finger daemon
+
+courier-faxmail/stable 1.4.1-3+deb13u2 arm64
+  Courier mail server - Fax<->mail gateway
+
+devscripts/stable 2.25.15+deb13u1 all
+  scripts to make the life of a Debian Package maintainer easier
+
+dh-dist-zilla/stable 1.4.1 all
+  debhelper add-on to call dzil build and clean up after the build
+
+dpo-tools/stable 1.6-1 all
+  set of scripts that can aid in the translation of podebconf files
+
+elpa-dpkg-dev-el/stable 37.19 all
+  Emacs helpers specific to Debian development
+
+elpa-ebib/stable 2.49.1-1 all
+  BibTeX database manager for Emacs
+
+elpa-magit-annex/stable 1.9.0-2 all
+  git-annex subcommands for magit
+
+elpa-ox-texinfo+/stable 2.3.2-2 all
+  Extensions for Org's Texinfo exporter
+
+elpa-parsebib/stable 6.7-1 all
+  Emacs Lisp library for parsing .bib files
+
+emptty/stable 0.13.0-1+b6 arm64
+  text-based display manager for starting graphical sessions
+
+exim4/stable 4.98.2-1+deb13u3 all
+  metapackage to ease Exim MTA (v4) installation
+
+exim4-base/stable 4.98.2-1+deb13u3 arm64
+  support files for all Exim MTA (v4) packages
+
+exim4-config/stable 4.98.2-1+deb13u3 all
+  configuration for the Exim MTA (v4)
+
+exim4-daemon-heavy/stable 4.98.2-1+deb13u3 arm64
+  Exim MTA (v4) daemon with extended features, including exiscan-acl
+
+exim4-daemon-light/stable 4.98.2-1+deb13u3 arm64
+  lightweight Exim MTA (v4) daemon
+
+exim4-dev/stable 4.98.2-1+deb13u3 arm64
+  header files for the Exim MTA (v4) packages
+
+exim4-doc-html/stable 4.98-1 all
+  documentation for the Exim MTA (v4) in html format
+
+exim4-doc-info/stable 4.98-1 all
+  documentation for the Exim MTA (v4) in info format
+
+fontcustom/stable 2.0.0+ds4-6 all
+  custom icon webfonts from the comfort of the command line
+
+fonts-arphic-ukai/stable 0.2.20080216.2-5 all
+  "AR PL UKai" Chinese Unicode TrueType font collection Kaiti style
+
+fonts-arphic-uming/stable 0.2.20080216.2-11 all
+  "AR PL UMing" Chinese Unicode TrueType font collection Mingti style
+
+goda/stable 0.5.7-1 arm64
+  Go Dependency Analysis toolkit
+
+golang-github-bep-helpers-dev/stable 0.4.0-2 all
+  Go utils package with a less burdened name by @bep
+
+golang-github-guptarohit-asciigraph-dev/stable 0.4.1-4 all
+  Make lightweight ASCII line graph in CLI apps with no other dependencies
+
+golang-github-invopop-jsonschema-dev/stable 0.13.0-2 all
+  Generate JSON Schemas from Go types (library)
+
+golang-github-koofr-go-koofrclient-dev/stable 0.0~git20190724.8e5366d-2 all
+  Go Koofr client
+
+golang-github-marekm4-color-extractor-dev/stable 1.2.1-1 all
+  simple image color extractor written in Go
+
+golang-github-matryer-try-dev/stable 1+git20161228.6.9ac251b-4 all
+  Simple idiomatic retry package for Go
+
+golang-github-muesli-crunchy-dev/stable 0.4.0-2 all
+  finds common flaws in passwords
+
+golang-github-muesli-sasquatch-dev/stable 0.0~git20210519.30aff9d-2 all
+  simple data encryption library for Go
+
+golang-github-openpubkey-opkssh-dev/stable 0.4.0-1 all
+  OpenPubkey SSH tools for OpenID SSH logins (library)
+
+golang-github-suapapa-go-eddystone-dev/stable 1.3.1-1 all
+  golang library for supporting Eddystone
+
+golang-github-victoriametrics-metricsql-dev/stable 0.84.3+ds1-1 all
+  standalone PromQL and MetricsQL parser (library)
+
+golang-github-yuin-goldmark-dev/stable 1.7.4-1 all
+  CommonMark compliant and extensible Markdown parser written in Go
+
+gtkterm/stable 1.3.1-1+b1 arm64
+  simple GTK+ serial port terminal
+
+haskell-clash-ghc-utils/stable 1.8.1-4 arm64
+  Clash: functional hardware descr. language - GHC frontend
+
+haskell-clash-lib-utils/stable 1.8.1-2+b4 arm64
+  Functional hardware description language - library
+
+hwinfo/stable 21.82-1.1+b2 arm64
+  Hardware identification system
+
+ibrazilian/stable 3.0~beta4-25 all
+  Brazilian Portuguese dictionary for ispell
+
+iczech/stable 20040229-9 arm64
+  Czech dictionary for ispell
+
+imagej/stable 1.54g-1 all
+  Image processing program with a focus on microscopy images
+
+iogerman/stable 1:2-39 all
+  Traditional German orthography dictionary for ispell
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+jo/stable 1.9-2 arm64
+  command-line processor to output JSON from a shell
+
+jzip/stable 210r20001005d-5 arm64
+  Text mode interpreter for Z-Code adventures
+
+libaeonbits-owner-java/stable 1.0.12+ds-3 all
+  API to handle application configuration through Java properties file
+
+libairspy-dev/stable 1.0.10-3+b3 arm64
+  Tiny and efficient software defined radio receiver - development
+
+libairspy0/stable 1.0.10-3+b3 arm64
+  Tiny and efficient software defined radio receiver - library
+
+libannotation-indexer-java/stable 1.17-1 all
+  Indexing and validation of Java annotations
+
+libapiguardian-java/stable 1.1.2-1 all
+  Level of stability annotation for frameworks or applications
+
+libasa-perl/stable 1.04-3 all
+  Perl module for expanding a class or object's list of base classes
+
+libauthen-krb5-simple-perl/stable 0.43-3+b4 arm64
+  Perl module for authentication using Kerberos 5
+
+libcarp-fix-1-25-perl/stable 1.000001-4 all
+  Perl module to smooth over incompatible changes in Carp 1.25
+
+libclass-accessor-lite-perl/stable 0.08-3 all
+  minimalistic variant of Class::Accessor
+
+libclone-pp-perl/stable 1.08-2 all
+  module to recursively copy Perl datatypes
+
+libcss-squish-perl/stable 0.10-1 all
+  module to compact many CSS files into one big file
+
+libdevel-argnames-perl/stable 0.03-3 all
+  module providing access to subroutine variable names
+
+libdevel-backtrace-perl/stable 0.12-3 all
+  Object-oriented backtrace
+
+libdigest-md5-file-perl/stable 0.08-1.1 all
+  Perl extension for getting MD5 sums for files and urls
+
+libdist-zilla-plugin-bootstrap-lib-perl/stable 1.001002-2 all
+  minimal boot-strapping for Dist::Zilla plugins
+
+libdist-zilla-role-pluginbundle-pluginremover-perl/stable 0.105-1 all
+  Dist::Zilla plugin to add '-remove' functionality to a bundle
+
+libemail-valid-loose-perl/stable 0.05-5 all
+  Email::Valid which allows dot immediately before at mark
+
+libexception-class-trycatch-perl/stable 1.13-2 all
+  syntactic try/catch sugar for use with Exception::Class
+
+libexporter-easy-perl/stable 0.18-3 all
+  perl module to take the drudgery out of Exporting symbols
+
+libexporter-lite-perl/stable 0.09-2 all
+  lightweight subset of Exporter
+
+libextutils-makemaker-dist-zilla-develop-perl/stable 0.03-3 all
+  Perl module creating bare-bones Makefile.PL files for use with dzil
+
+libfile-chdir-perl/stable 0.1008-1.2 all
+  more sensible way to change directories
+
+libfile-find-wanted-perl/stable 1.00-1.1 all
+  more obvious wrapper around File::Find
+
+libfile-findlib-perl/stable 0.001004-3 all
+  module to find and use a file/dir from a directory above your script file
+
+libfile-sharedir-par-perl/stable 0.06-3 all
+  module for handling shared data in PAR archives
+
+libfile-spec-native-perl/stable 1.004-2 all
+  module for using native OS implementation of File::Spec from a subclass
+
+libgetopt-argparse-perl/stable 1.0.6-2 all
+  module to parse @ARGV with a richer and more user-friendly API
+
+libgetopt-argvfile-perl/stable 1.11-5 all
+  Perl module for reading script options and parameters from files
+
+libghc-aeson-extra-dev/stable 0.5.1.3-1+b1 arm64
+  Extra goodies for aeson
+
+libghc-aeson-extra-doc/stable 0.5.1.3-1 all
+  Extra goodies for aeson; documentation
+
+libghc-aeson-extra-prof/stable 0.5.1.3-1+b1 arm64
+  Extra goodies for aeson; profiling libraries
+
+libghc-attoparsec-aeson-dev/stable 2.1.0.0-3+b1 arm64
+  Parsing of aeson's Value with attoparsec
+
+libghc-attoparsec-aeson-doc/stable 2.1.0.0-3 all
+  Parsing of aeson's Value with attoparsec; documentation
+
+libghc-attoparsec-aeson-prof/stable 2.1.0.0-3+b1 arm64
+  Parsing of aeson's Value with attoparsec; profiling libraries
+
+libghc-binary-search-dev/stable 2.0.0-2 arm64
+  Binary and exponential searches
+
+libghc-binary-search-doc/stable 2.0.0-2 all
+  Binary and exponential searches; documentation
+
+libghc-binary-search-prof/stable 2.0.0-2 arm64
+  Binary and exponential searches; profiling libraries
+
+libghc-bitwise-dev/stable 1.0.0.1-4+b1 arm64
+  fast multi-dimensional unboxed bit packed Bool arrays
+
+libghc-bitwise-doc/stable 1.0.0.1-4 all
+  fast multi-dimensional unboxed bit packed Bool arrays; documentation
+
+libghc-bitwise-prof/stable 1.0.0.1-4+b1 arm64
+  fast multi-dimensional unboxed bit packed Bool arrays; profiling libraries
+
+libghc-clash-ghc-dev/stable 1.8.1-4 arm64
+  Clash: functional hardware descr. language - GHC frontend
+
+libghc-clash-ghc-doc/stable 1.8.1-4 all
+  Clash: functional hardware descr. language - GHC frontend; documentation
+
+libghc-clash-ghc-prof/stable 1.8.1-4 arm64
+  Clash: functional hardware descr. language - GHC frontend; profiling libraries
+
+libghc-clash-lib-dev/stable 1.8.1-2+b4 arm64
+  Functional hardware description language - library
+
+libghc-clash-lib-doc/stable 1.8.1-2 all
+  Functional hardware description language - library; documentation
+
+libghc-clash-lib-prof/stable 1.8.1-2+b4 arm64
+  Functional hardware description language - library; profiling libraries
+
+libghc-clash-prelude-dev/stable 1.8.1-2+b2 arm64
+  Functional hardware description language - Prelude library
+
+libghc-clash-prelude-doc/stable 1.8.1-2 all
+  Functional hardware description language - Prelude library; documentation
+
+libghc-clash-prelude-prof/stable 1.8.1-2+b2 arm64
+  Functional hardware description language - Prelude library; profiling libraries
+
+libghc-concurrent-extra-dev/stable 0.7.0.12-4+b1 arm64
+  Extra concurrency primitives
+
+libghc-concurrent-extra-doc/stable 0.7.0.12-4 all
+  Extra concurrency primitives; documentation
+
+libghc-concurrent-extra-prof/stable 0.7.0.12-4+b1 arm64
+  Extra concurrency primitives; profiling libraries
+
+libghc-cond-dev/stable 0.5.1-1+b1 arm64
+  conditional and boolean operators with monadic variants
+
+libghc-cond-doc/stable 0.5.1-1 all
+  conditional and boolean operators with monadic variants (docs)
+
+libghc-cond-prof/stable 0.5.1-1+b1 arm64
+  conditional and boolean operators with monadic variants (prof)
+
+libghc-ghc-typelits-natnormalise-dev/stable 0.7.10-1+b2 arm64
+  GHC typechecker plugin for types of kind GHC.TypeLits.Nat
+
+libghc-ghc-typelits-natnormalise-doc/stable 0.7.10-1 all
+  GHC typechecker plugin for types of kind GHC.TypeLits.Nat; documentation
+
+libghc-ghc-typelits-natnormalise-prof/stable 0.7.10-1+b2 arm64
+  GHC typechecker plugin for types of kind GHC.TypeLits.Nat; profiling libraries
+
+libghc-hexpat-dev/stable 0.20.13-2 arm64
+  XML parser/formatter based on expat
+
+libghc-hexpat-doc/stable 0.20.13-2 all
+  XML parser/formatter based on expat; documentation
+
+libghc-hexpat-prof/stable 0.20.13-2 arm64
+  XML parser/formatter based on expat; profiling libraries
+
+libghc-hspec-attoparsec-dev/stable 0.1.0.2-10+b1 arm64
+  utility functions for testing your attoparsec parsers with hspec
+
+libghc-hspec-attoparsec-doc/stable 0.1.0.2-10 all
+  utility functions for testing your attoparsec parsers with hspec; documentation
+
+libghc-hspec-attoparsec-prof/stable 0.1.0.2-10+b1 arm64
+  utility functions for testing your attoparsec parsers with hspec; profiling libraries
+
+libghc-hsyaml-dev/stable 0.2.1.4-2 arm64
+  pure Haskell YAML 1.2 processor - libraries
+
+libghc-iso8601-time-dev/stable 0.1.5-6+b1 arm64
+  convert to/from the ISO 8601 time format
+
+libghc-iso8601-time-doc/stable 0.1.5-6 all
+  convert to/from the ISO 8601 time format; documentation
+
+libghc-iso8601-time-prof/stable 0.1.5-6+b1 arm64
+  convert to/from the ISO 8601 time format; profiling libraries
+
+libghc-kvitable-dev/stable 1.0.3.0-1+b1 arm64
+  Key/Value Indexed Table container and formatting library
+
+libghc-kvitable-doc/stable 1.0.3.0-1 all
+  Key/Value Indexed Table container and formatting library; documentation
+
+libghc-kvitable-prof/stable 1.0.3.0-1+b1 arm64
+  Key/Value Indexed Table container and formatting library; profiling libraries
+
+libghc-monad-logger-dev/stable 0.3.40-2+b1 arm64
+  a class of monads which can log messages
+
+libghc-monad-logger-doc/stable 0.3.40-2 all
+  a class of monads which can log messages; documentation
+
+libghc-monad-logger-prof/stable 0.3.40-2+b1 arm64
+  a class of monads which can log messages; profiling libraries
+
+libghc-persistent-postgresql-dev/stable 2.13.6.2-1+b1 arm64
+  backend for the persistent library using PostgreSQL
+
+libghc-persistent-postgresql-doc/stable 2.13.6.2-1 all
+  backend for the persistent library using PostgreSQL; documentation
+
+libghc-persistent-postgresql-prof/stable 2.13.6.2-1+b1 arm64
+  backend for the persistent library using PostgreSQL; profiling libraries
+
+libghc-postgresql-libpq-dev/stable 0.10.0.0-1+b1 arm64
+  low-level binding to libpq
+
+libghc-postgresql-libpq-doc/stable 0.10.0.0-1 all
+  low-level binding to libpq; documentation
+
+libghc-postgresql-libpq-prof/stable 0.10.0.0-1+b1 arm64
+  low-level binding to libpq; profiling libraries
+
+libghc-quickcheck-instances-dev/stable 0.3.30-2+b1 arm64
+  common QuickCheck instances
+
+libghc-quickcheck-instances-doc/stable 0.3.30-2 all
+  common QuickCheck instances; documentation
+
+libghc-quickcheck-instances-prof/stable 0.3.30-2+b1 arm64
+  common QuickCheck instances; profiling libraries
+
+libghc-reinterpret-cast-dev/stable 0.1.0-5+b1 arm64
+  Memory reinterpretation casts for Float/Double/Word32/Word64
+
+libghc-reinterpret-cast-doc/stable 0.1.0-5 all
+  Memory reinterpretation casts for Float/Double/Word32/Word64; documentation
+
+libghc-reinterpret-cast-prof/stable 0.1.0-5+b1 arm64
+  Memory reinterpretation casts for Float/Double/Word32/Word64; profiling libraries
+
+libghc-snap-server-dev/stable 1.1.2.1-2+b1 arm64
+  iteratee-based, epoll-enabled web server for the Snap Framework
+
+libghc-snap-server-doc/stable 1.1.2.1-2 all
+  iteratee-based, epoll-enabled web server for the Snap Framework; documentation
+
+libghc-snap-server-prof/stable 1.1.2.1-2+b1 arm64
+  iteratee-based, epoll-enabled web server for the Snap Framework; profiling lib
+
+libghc-stringsearch-dev/stable 0.3.6.6-13+b1 arm64
+  Fast searching, splitting and replacing of ByteStrings
+
+libghc-stringsearch-doc/stable 0.3.6.6-13 all
+  Fast searching, splitting and replacing of ByteStrings; documentation
+
+libghc-stringsearch-prof/stable 0.3.6.6-13+b1 arm64
+  Fast searching, splitting and replacing of ByteStrings; profiling libraries
+
+libghc-swish-dev/stable 0.10.10.0-1+b1 arm64
+  semantic web toolkit - libraries
+
+libghc-swish-doc/stable 0.10.10.0-1 all
+  semantic web toolkit - library documentation
+
+libghc-swish-prof/stable 0.10.10.0-1+b1 arm64
+  semantic web toolkit - profiling libraries
+
+libghc-unicode-collation-dev/stable 0.1.3.6-1+b1 arm64
+  Haskell implementation of the Unicode Collation Algorithm
+
+libghc-unicode-collation-doc/stable 0.1.3.6-1 all
+  Haskell implementation of the Unicode Collation Algorithm; documentation
+
+libghc-unicode-collation-prof/stable 0.1.3.6-1+b1 arm64
+  Haskell implementation of the Unicode Collation Algorithm; profiling libraries
+
+libghc-unix-time-dev/stable 0.4.15-1+b1 arm64
+  Unix time parser/formatter and utilities
+
+libghc-unix-time-doc/stable 0.4.15-1 all
+  Unix time parser/formatter and utilities; documentation
+
+libghc-unix-time-prof/stable 0.4.15-1+b1 arm64
+  Unix time parser/formatter and utilities; profiling libraries
+
+libghc-versions-dev/stable 6.0.7-2+b1 arm64
+  Types and parsers for software version numbers.
+
+libghc-versions-doc/stable 6.0.7-2 all
+  Types and parsers for software version numbers.; documentation
+
+libghc-versions-prof/stable 6.0.7-2+b1 arm64
+  Types and parsers for software version numbers.; profiling libraries
+
+libguice-java/stable 5.1.0-1 all
+  lightweight dependency injection framework for Java 5 and above
+
+libhash-safekeys-perl/stable 0.04-1+b3 arm64
+  Perl module to get hash contents without resetting each iterator
+
+libimporter-perl/stable 0.026-2 all
+  alternative but compatible interface to modules that export symbols
+
+libjackson2-modules-java8-java/stable 2.14.2+ds2-3 all
+  Jackson support modules for Java 8
+
+libjavatuples-java/stable 1.2-2 all
+  Java library for tuples in Java.
+
+libjcabi-aspects-java/stable 0.22.6-1 all
+  Collection of AOP/AspectJ Java Aspects
+
+libjs-cssrelpreload/stable 3.1.0+dfsg+~cs3.1.3-1 all
+  JavaScript to load CSS asynchronously
+
+libjs-spin.js/stable 1.2.8+dfsg2-1.1 all
+  animated CSS3 loading spinner
+
+libjunit5-system-exit-java/stable 1.1.2-5 all
+  JUnit5 Extension to help write tests that call System.exit()
+
+liblexical-var-perl/stable 0.010-1+b3 arm64
+  Perl module for using static variables without namespace pollution
+
+liblib-abs-perl/stable 0.95-2 all
+  module to make relative path absolute to caller
+
+liblib-relative-perl/stable 1.002-1 all
+  module to add paths relative to the current file to @INC
+
+liblocal-lib-perl/stable 2.000029-1 all
+  module to use a local path for Perl modules
+
+libmath-base85-perl/stable 0.5+dfsg-2 all
+  Perl extension for base 85 numbers, as referenced by RFC 1924
+
+libmath-bezier-perl/stable 0.01-4 all
+  Perl module for the solution of Bezier Curves
+
+libmessage-passing-filter-regexp-perl/stable 0.05-5 all
+  regexp capture filter For Message::Passing
+
+libmodule-find-perl/stable 0.17-1 all
+  module to find and use installed Perl modules
+
+libmodule-path-perl/stable 0.19-3 all
+  module to get the full path to a locally installed Perl module
+
+libmodule-reader-perl/stable 0.003003-4 all
+  module to find and read perl modules like perl does
+
+libmodule-want-perl/stable 0.6-5 all
+  module to check @INC only once for wanted modules
+
+libmojolicious-plugin-templatetoolkit-perl/stable 0.006-2 all
+  Template Toolkit renderer plugin for Mojolicious
+
+libmultidimensional-perl/stable 0.014-2+b4 arm64
+  Perl pragma to disable multidimensional array emulation
+
+libnet-nslookup-perl/stable 2.04-4 all
+  simple DNS lookup module for perl
+
+libnfsidmap-dev/stable 1:2.8.3-1 arm64
+  header files and docs for libnfsidmap
+
+libnfsidmap1/stable 1:2.8.3-1 arm64
+  NFS idmapping library
+
+libpackage-constants-perl/stable 0.06-3 all
+  module to list constants defined in a package
+
+libperl-critic-policy-plicease-prohibitarrayassignaref-perl/stable 100.00-2 all
+  Perl::Critic policy about not assigning an anonymous arrayref to an array
+
+libperl6-export-perl/stable 0.009-3 all
+  implementation of the Perl 6 'is export(...)' trait
+
+libppx-cold-ocaml/stable 0.17.0-1+b7 arm64
+  provide the @cold annotation for OCaml (runtime files)
+
+libppx-cold-ocaml-dev/stable 0.17.0-1+b7 arm64
+  provide the @cold annotation for OCaml (dev files)
+
+libppx-yojson-conv-ocaml/stable 0.17.0-3+b2 arm64
+  [@@deriving] plugin to generate Yojson conversion functions (runtime)
+
+libppx-yojson-conv-ocaml-dev/stable 0.17.0-3+b2 arm64
+  [@@deriving] plugin to generate Yojson conversion functions (dev files)
+
+libprobe-perl-perl/stable 0.03-3 all
+  module to obtain information about the currently running Perl interpreter
+
+librust-enum-to-u8-slice-derive-dev/stable 0.2.0-1+b2 arm64
+  Simple fork of enum_to_str_derive (by @DCjanus), convert enum to u8 slice ref - Rust source code
+
+libscalar-listify-perl/stable 0.03-4 all
+  module that produces an array/arrayref from a scalar value or array ref
+
+libsort-key-top-perl/stable 0.08-4+b6 arm64
+  Perl module to select and sort top n elements of a list
+
+libspi-java/stable 0.2.7-1 all
+  Simplifies usage of Java Service Provider Interface
+
+libsub-exporter-progressive-perl/stable,now 0.001013-3 all [installed,automatic]
+  module for using Sub::Exporter only if needed
+
+libtest-exception-lessclever-perl/stable 0.009-4 all
+  simplified Test::Exception alternative
+
+libtest-indistdir-perl/stable 1.112071-1.1 all
+  test environment setup for development with IDE
+
+libtest-reporter-perl/stable 1.62-2 all
+  Perl module to send test results to cpan-testers@perl.org
+
+libtestng7-java/stable 7.5-2 all
+  testing framework for Java
+
+libtext-german-perl/stable 0.06-5 all
+  German grundform reduction
+
+libthrowable-perl/stable 1.001-2 all
+  role for classes that can be thrown
+
+libtrycatch-perl/stable 1.003002-6 arm64
+  first class try catch semantics for Perl
+
+libutf8-all-perl/stable 0.024-3 all
+  Perl pragma to turn on UTF-8 everywhere
+
+libvendorlib-perl/stable 0.12-4 all
+  pragma to enforce only core and vendor libraries are used
+
+libwoff-dev/stable 1.0.2-2+b2 arm64
+  library for converting fonts to WOFF 2.0 - development files
+
+libwoff1/stable 1.0.2-2+b2 arm64
+  library for converting fonts to WOFF 2.0
+
+libwww-finger-perl/stable 0.105-2 all
+  get useful data from e-mail addresses
+
+libxml-struct-perl/stable 0.27-1 all
+  represent XML as data structure preserving element order
+
+madonctl/stable 3.0.2+ds1-1+b4 arm64
+  CLI client for the Mastodon social network API
+
+man2html/stable 1.6g-16+b2 arm64
+  browse man pages in your web browser
+
+montage-gridtools/stable 6.1+dfsg-1+b1 arm64
+  Create files to run montage on the grid
+
+node-addressparser/stable 1.0.1+repack-4 all
+  Node.js library to parse e-mail addresses
+
+node-babel-helper-define-polyfill-provider/stable 0.3.3~0~20220913+ds1-1 all
+  node-babel helper for polyfills
+
+node-babel-plugin-add-module-exports/stable 1.0.4+dfsg1~cs5.8.0-4 all
+  Babel plugin for default module.exports like babel version 5
+
+node-babel7-runtime/stable 7.20.15+ds1+~cs214.269.168-8 all
+  Babel modular runtime helpers
+
+node-babel7-standalone/stable 7.20.15+ds1+~cs214.269.168-8 all
+  Standalone build of Babel for use in browsers and other non-Node.js environments
+
+node-blueprintjs-core/stable 4.17.8~git20230417213433.6dab069+ds1-3 all
+  core set of Blueprint, a React UI toolkit
+
+node-caller/stable 1.1.0+~1.0.0-2 all
+  @substack's caller.js as a module
+
+node-codemirror-state/stable 6.2.0-2 all
+  Node.js module that implements the editor state for libjs-codemirror
+
+node-decko/stable 1.2.0-7 all
+  useful Javascript decorators
+
+node-fast-json-stable-stringify/stable 2.1.0-2 all
+  Deterministic JSON.stringify()
+
+node-fbjs/stable 3.0.5-1 all
+  collection of utility libraries used by other Facebook JS projects
+
+node-has-to-string-tag-x/stable 1.4.1+dfsg-3 all
+  Tests if ES6 @@toStringTag is supported
+
+node-hoek/stable 10.0.1+~cs12.0.0-1 all
+  General purpose node utilities for hapi ecosystem
+
+node-isurl/stable 4.0.2+~1.0.2-1 all
+  Checks whether a value is a WHATWG URL
+
+node-juggle-resize-observer/stable 3.4.0+ds1-2 all
+  Minimal JavaScript library which polyfills the ResizeObserver API
+
+node-mdn-browser-compat-data/stable 5.5.28+~4.8.0-2 all
+  Compatibility data for Web technologies
+
+node-rollup-pluginutils/stable 5.0.2~ds+~2.8.2-1 all
+  Base functionality for rollup plugins
+
+node-sinclair-typebox/stable 0.24.44-3 all
+  JSON Schema Type Builder with Static Type Resolution for TypeScript
+
+node-three-stl-loader/stable 1.0.6-4 all
+  @aleeper's three.js stl-loader as a node module
+
+node-type-detect/stable 4.0.8-4 all
+  Improved typeof detection for node.js and the browser
+
+node-uglify-save-license/stable 0.4.1-2 all
+  License detector for UglifyJS
+
+node-webassemblyjs/stable 1.11.4+dfsg+~cs10.11.17-2 all
+  Toolchain for WebAssembly
+
+openjade/stable 1.4devel1-23.3 arm64
+  Implementation of the DSSSL language
+
+opkssh/stable 0.4.0-1+b2 arm64
+  OpenPubkey SSH tools for OpenID SSH logins (program)
+
+pasdoc/stable 0.16.0-2+b1 arm64
+  documentation tool for Pascal source code
+
+postgresql-17-jsquery/stable 1.2-2 arm64
+  PostgreSQL JSON query language with GIN indexing support
+
+postgresql-17-prefix/stable 1.2.10-3 arm64
+  Prefix Range module for PostgreSQL
+
+powerline-go/stable 1.25-2+b2 arm64
+  Powerline style prompt for your shell: Bash, ZSH and Fish
+
+pumpa/stable 0.9.3-1+b5 arm64
+  simple desktop client for pump.io, the distributed social network
+
+python-async-property-doc/stable 0.2.2-2 all
+  decorator for async properties (Documentation)
+
+python-flask-doc/stable 3.1.1-1 all
+  micro web framework based on Werkzeug and Jinja2 - documentation
+
+python-macholib-doc/stable 1.16.3+ds-2 all
+  module for Mach-O header analysis and editing (API documentation)
+
+python-morris-doc/stable 1.2-4 all
+  documentation for the Python morris module
+
+python-public-doc/stable 4.1.0-2 all
+  @public decorator for adding names to _all_(common documentation)
+
+python-pytest-trio-doc/stable 0.8.0-3 all
+  Pytest plugin for trio (Documentation)
+
+python3-aiocache/stable 0.12.3-2 all
+  multi backend asyncio cache
+
+python3-aioxmlrpc/stable 0.9.1-1 all
+  XML-RPC for asyncio
+
+python3-alabaster/stable 0.7.16-0.1 all
+  Configurable sidebar-enabled Sphinx theme (Python 3)
+
+python3-async-property/stable 0.2.2-2 all
+  decorator for async properties (Python3 version)
+
+python3-borgstore/stable 0.3.0-2 all
+  Simple key/value store implementation in Python
+
+python3-dacite/stable 1.9.2-2 all
+  Simple creation of data classes from dictionaries
+
+python3-deprecated/stable 1.2.18-1 all
+  Python decorator for old classes, functions or methods
+
+python3-dicteval/stable 0.0.6-7 all
+  Library to evaluate expressions in dict/json objects
+
+python3-django-libsass/stable 0.9-2 all
+  django-compressor filter using libsass (Python3 version)
+
+python3-echo/stable 0.9.0-1 all
+  Callback Properties in Python
+
+python3-email-validator/stable 2.2.0-1 all
+  Robust email address syntax and deliverability validation library (Python 3)
+
+python3-empy/stable 3.3.4-2 all
+  templating system for Python (Python 3)
+
+python3-enum-tools/stable 0.12.0-3 all
+  tools to expand Python's enum module
+
+python3-flaky/stable 3.8.1-2 all
+  Plugin for py.test that automatically reruns flaky tests
+
+python3-flasgger/stable 0.9.7.2~dev2+dfsg-4 all
+  Extract swagger specs from your flask project
+
+python3-flask/stable 3.1.1-1 all
+  micro web framework based on Werkzeug and Jinja2 - Python 3.x
+
+python3-macholib/stable 1.16.3+ds-2 all
+  module for Mach-O header analysis and editing (Python 3 interface)
+
+python3-memoized-property/stable 1.0.3-2 all
+  decorator to avoid redundant computation
+
+python3-morris/stable 1.2-4 all
+  announcement (signal/event) system for Python 3
+
+python3-nxtomomill/stable 1.1.0-4 all
+  Tools for the NeXus NXtomo format
+
+python3-obsub/stable 0.2.1-2 all
+  Python 3.x module that implements the observer pattern via a decorator
+
+python3-os-apply-config/stable 13.1.0-3 all
+  Creates config files out of cloud metadata
+
+python3-overrides/stable 7.7.0-2 all
+  Python decorator to verify that expected overrides are maintained
+
+python3-parameterized/stable 0.9.0-2 all
+  parameterized testing for Python 3
+
+python3-parse-stages/stable 0.1.9-1 all
+  Parse a mini-language for selecting objects by tag or name
+
+python3-parso/stable 0.8.4-1 all
+  Python parser that supports error recovery - Python 3.X
+
+python3-public/stable 4.1.0-2 all
+  @public decorator for adding names to __all__
+
+python3-py-serializable/stable 2.0.0-2 all
+  Library for {de,}serializing Python classes to and from JSON and XML
+
+python3-pytest-lazy-fixtures/stable 1.1.2-1 all
+  pytest plugin to use fixtures in @pytest.mark.parametrize
+
+python3-pytest-tornasync/stable 0.6.0.post2-2 all
+  pytest plugin for testing Tornado apps using native coroutine tests
+
+python3-pytest-trio/stable 0.8.0-3 all
+  Pytest plugin for trio (Python3 version)
+
+python3-spyder-line-profiler/stable 0.4.1-1 all
+  line profiling plugin for the Spyder IDE
+
+python3-typeguard/stable 4.4.2-1 all
+  Run-time type checker for Python
+
+r-bioc-qusage/stable 2.40.0-2 all
+  qusage: Quantitative Set Analysis for Gene Expression
+
+r-cran-bitops/stable 1.0-9-1 arm64
+  GNU R package implementing bitwise operations
+
+scim-m17n/stable 0.2.3-6+b2 arm64
+  M17N Input Method Engine for SCIM
+
+smifb2-dkms/stable 2.4.1-1 all
+  SiliconMotion SM750/SM768 Graphics PCI-E DRM Driver
+
+sshcommand/stable 0~20160110.1~2795f65-1.1 all
+  turn SSH into a thin client specifically for your command
+
+swish/stable 0.10.10.0-1+b1 arm64
+  semantic web toolkit - tools
+
+testng/stable 6.9.12-4 all
+  testing framework for Java
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+trscripts/stable 1.18+nmu3 all
+  Scripts for reencoding text files and BDF-fonts
+
+ucspi-tcp/stable 1:0.88-13 arm64
+  command-line tools for building TCP client-server applications
+
+ucspi-tcp-ipv6/stable 1:0.88-13 arm64
+  command-line tools for building TCP client-server applications (IPv6)
+
+vrfy/stable 990522-11+b1 arm64
+  verify electronic mail addresses
+
+wmitime/stable 0.5-3+b1 arm64
+  clock dock app showing time and internet time
+
+woff2/stable 1.0.2-2+b2 arm64
+  utilities for converting fonts to WOFF 2.0
+
+wogerman/stable 1:2-39 all
+  Traditional German wordlist
+
+xfaces/stable 3.3-30.2 arm64
+  Displays an image for each piece of mail in your mailbox
+
+xfonts-bolkhov-75dpi/stable 1.1.20001007-10 all
+  75 dpi Unicode Cyrillic fonts for X (Cyr-RFX collection)
+
+xfonts-bolkhov-cp1251-75dpi/stable 1.1.20001007-10 all
+  75 dpi CP1251 encoded Cyrillic fonts for X (Cyr-RFX collection)
+
+xfonts-bolkhov-cp1251-misc/stable 1.1.20001007-10 all
+  Character-cell CP1251 encoded Cyrillic fonts for X (Cyr-RFX collection)
+
+xfonts-bolkhov-isocyr-75dpi/stable 1.1.20001007-10 all
+  75 dpi ISO 8859-5 encoded Cyrillic fonts for X (Cyr-RFX collection)
+
+xfonts-bolkhov-isocyr-misc/stable 1.1.20001007-10 all
+  Character-cell ISO-8859-5 encoded Cyrillic fonts for X (Cyr-RFX collection)
+
+xfonts-bolkhov-koi8r-75dpi/stable 1.1.20001007-10 all
+  75 dpi KOI8-R encoded Cyrillic fonts for X (Cyr-RFX collection)
+
+xfonts-bolkhov-koi8r-misc/stable 1.1.20001007-10 all
+  Character-cell KOI8-R encoded Cyrillic fonts for X (Cyr-RFX collection)
+
+xfonts-bolkhov-koi8u-75dpi/stable 1.1.20001007-10 all
+  75 dpi KOI8-U encoded Cyrillic fonts for X (Cyr-RFX collection)
+
+xfonts-bolkhov-koi8u-misc/stable 1.1.20001007-10 all
+  Character-cell KOI8-U encoded Cyrillic fonts for X (Cyr-RFX collection)
+
+xfonts-bolkhov-misc/stable 1.1.20001007-10 all
+  Character-cell Unicode Cyrillic fonts for X (Cyr-RFX collection)
+
+yarnpkg/stable 4.1.0+dfsg-1 all
+  Fast, reliable, and secure dependency management
+
+ykls/stable 1.3.4-2+b22 arm64
+  Utility for listing connected Yubikeys
+

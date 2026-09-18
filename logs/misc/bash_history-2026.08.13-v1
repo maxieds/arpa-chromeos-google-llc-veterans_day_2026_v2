@@ -1,0 +1,75 @@
+sudo apt-get update
+sudo apt-get install git-all firefox-esr gimp
+git --version
+git config --global user.name "Dr. Maxie Dion Schmidt"
+git config --global user.email "maxieds@gmail.com"
+sudo apt search avrdudu
+sudo apt search avrdude
+sudo apt search dfuprog
+sudo apt search dfu
+sudo apt-get install avrdude dfu-programmer dfu-util
+sudo apt search elinks
+sudo apt-get install elinks
+sudo apt search avr
+sudo apt-get install gcc-avr
+sudo apt search lsusb
+sudo apt search libnfc
+sudo apt-get install usbutils libnfc-bin
+sudo apt search libfreefare
+sudo apt-get install libfreefare-bin
+sudo apt search python2.7\
+sudo apt search python2.7
+sudo apt search python
+sudo apt search minicom
+sudo apt-get install minicom
+sudo apt search gcc
+sudo apt-get install gcc-12-locales
+man -k locales
+sudo find / -iname '*locale*'
+sudo find / -iname '*locale*' | less
+less /usr/lib/aarch64-linux-gnu/gimp/3.0/extensions/org.gimp.extension.goat-exercises/locale/zh_TW/LC_MESSAGES/org.gimp.extension.goat-exercises.mo 
+strings /usr/lib/aarch64-linux-gnu/gimp/3.0/extensions/org.gimp.extension.goat-exercises/locale/zh_TW/LC_MESSAGES/org.gimp.extension.goat-exercises.mo 
+strings /usr/lib/aarch64-linux-gnu/gimp/3.0/extensions/org.gimp.extension.goat-exercises/locale/zh_TW/LC_MESSAGES/org.gimp.extension.goat-exercises.mo | less
+cd ../../
+mkdir XBoxDev
+cd XBoxDev/
+git clone http://github.com/XboxDev/cromwell.git
+mv ~/Downloads/Cromwell\ * ../
+ls
+git clone https://github.com/XboxDev/xbox-linux.git
+cd ..
+mkdir iceman1001
+mkdir saved-docs
+cd iceman1001/
+git clone https://github.com/iceman1001/ChameleonMini-rebooted.git
+cd ..
+mkdir sfnet-xbox-linux-group
+mkdir archiveorg-cromwell && mv Cromwell\ *.zip archiveorg-cromwell/
+ls
+rm ~/Downloads/* sfnet-xbox-linux-group/
+ls ~/Downloads/
+pwd
+mkdir ChameleonMini/{emsec,RFIDResearchGroup}
+mkdir -p ChameleonMini/{emsec,RFIDResearchGroup}
+cd ChameleonMini/emsec/
+git clone http://github.com/emsec/ChameleonMini.git
+ls
+cd ../RFIDResearchGroup/
+git clone http://github.com/RFIDResearchGroup/ChameleonMini.git
+cd ..
+git clone http://github.com/maxieds/ChameleonBLE.git
+git clone http://github.com/maxieds/ChameleonBLEAPI.git
+la
+ls
+cd emsec
+ls
+cd ChameleonMini/
+ls
+ls Dumps/
+ls Firmware/Atmel\ DFU\ Bootloader/
+cd Firmware/Atmel\ DFU\ Bootloader/
+ls
+less ASF-License.txt 
+less GenerateBootloader.bat 
+cd ..
+firefox

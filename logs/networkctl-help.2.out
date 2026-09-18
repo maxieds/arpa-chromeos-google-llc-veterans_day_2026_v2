@@ -1,0 +1,42 @@
+networkctl [OPTIONS...] COMMAND
+
+Query and control the networking subsystem.
+
+Commands:
+  list [PATTERN...]      List links
+  status [PATTERN...]    Show link status
+  lldp [PATTERN...]      Show LLDP neighbors
+  label                  Show current address label entries in the kernel
+  delete DEVICES...      Delete virtual netdevs
+  up DEVICES...          Bring devices up
+  down DEVICES...        Bring devices down
+  renew DEVICES...       Renew dynamic configurations
+  forcerenew DEVICES...  Trigger DHCP reconfiguration of all connected clients
+  reconfigure DEVICES... Reconfigure interfaces
+  reload                 Reload .network and .netdev files
+  edit FILES|DEVICES...  Edit network configuration files
+  cat [FILES|DEVICES...] Show network configuration files
+  mask FILES...          Mask network configuration files
+  unmask FILES...        Unmask network configuration files
+  persistent-storage BOOL
+                         Notify systemd-networkd if persistent storage is ready
+
+Options:
+  -h --help              Show this help
+     --version           Show package version
+     --no-pager          Do not pipe output into a pager
+     --no-legend         Do not show the headers and footers
+     --no-ask-password   Do not prompt for password
+  -a --all               Show status for all links
+  -s --stats             Show detailed link statistics
+  -l --full              Do not ellipsize output
+  -n --lines=INTEGER     Number of journal entries to show
+     --json=pretty|short|off
+                         Generate JSON output
+     --no-reload         Do not reload systemd-networkd or systemd-udevd
+                         after editing network config
+     --drop-in=NAME      Edit specified drop-in instead of main config file
+     --runtime           Edit runtime config files
+     --stdin             Read new contents of edited file from stdin
+
+See the networkctl(1) man page for details.

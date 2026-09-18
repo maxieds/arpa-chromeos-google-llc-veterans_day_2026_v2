@@ -1,0 +1,47 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+bwm-ng/stable 0.6.3-2+b2 arm64
+  small and simple console-based bandwidth monitor
+
+dropwatch/stable 1.5.4-4 arm64
+  tool for detecting and diagnosing dropped network packets
+
+gnome-nettool/stable 42.0-2.1 arm64
+  network information tool for GNOME
+
+golang-github-aelsabbahy-gonetstat-dev/stable 0.0~git20160428.0.edf89f7-4 all
+  Netstat implementation in Go
+
+golang-github-mwitkow-go-conntrack-dev/stable 0.0~git20190716.2f06839-4 all
+  Go middleware for net.Conn tracking
+
+libparse-netstat-perl/stable 0.150-1 all
+  module to parse the output of the "netstat" command
+
+lua-proctitle/stable 0.1-1 arm64
+  set process name from Lua
+
+net-tools/stable 2.10-1.3 arm64
+  NET-3 networking toolkit
+
+netstat-nat/stable 2a-1 arm64
+  List/filter ongoing connections with NAT-specific decoding
+
+nicstat/stable 1.95+git20150820.3c2407d-1 arm64
+  print network traffic statistics
+
+qnetstatview/stable 1.5.8-2+b2 arm64
+  Shows detailed listings of all TCP and UDP endpoints
+
+unhide/stable 20240510-2 arm64
+  forensic tool to find hidden processes and ports
+
+unhide-gui/stable 20240510-2 arm64
+  graphical user interface for unhide
+
+whichman/stable 2.4-10+b2 arm64
+  Fault tolerant search utilities: whichman, ftff, ftwhich
+

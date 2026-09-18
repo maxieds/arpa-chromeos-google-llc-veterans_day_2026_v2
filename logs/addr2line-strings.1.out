@@ -1,0 +1,188 @@
+;kvZ
+/lib/ld-linux-aarch64.so.1
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable
+__libc_start_main
+__cxa_finalize
+abort
+setlocale
+bindtextdomain
+xmalloc_set_program_name
+bfd_set_error_program_name
+_sch_istable
+stat
+fopen
+fseek
+ftell
+xmalloc
+fread
+ferror
+strlen
+free
+xrealloc
+memmove
+memcpy
+fclose
+xstrdup
+bfd_init
+bfd_set_default_target
+optarg
+getopt_long
+stderr
+strchr
+optind
+bfd_openr
+bfd_check_format
+bfd_check_format_matches
+bfd_scan_vma
+stdout
+bfd_map_over_sections
+fflush
+stdin
+fgets
+bfd_close
+strrchr
+putchar
+xexit
+dcgettext
+puts
+cplus_demangle_name_to_style
+cplus_demangle_set_style
+bfd_fprintf_vma
+__errno_location
+strerror
+bfd_get_error
+bfd_errmsg
+bfd_get_section_by_name
+_sch_toupper
+strcmp
+__isoc23_strtoul
+fputc
+bfd_demangle
+vfprintf
+bfd_target_list
+libbfd-2.44-system.so
+libc.so.6
+GLIBC_2.33
+GLIBC_2.34
+GLIBC_2.38
+GLIBC_2.17
+T$ @
+77l}}
+@q 2
+ @qAN
+@z`)
+zax`907
+@#@9
+@9 G
+`/@9
+7`+@9b+@
+4b?@
+`7@9`
+!X`x`
+4`'@9
+0@9@:
+@3@9`&
+6`3@9`
+R!`	
+zbxb
+TZx{
+a.out
+/usr/share/locale
+binutils
+%s: error: too many @-files encountered
+%s: error: @-file refers to a directory
+$`"\
+fatal error: libbfd ABI mismatch
+aarch64-unknown-linux-gnu
+can't set BFD default target to `%s': %s
+unknown demangling style `%s'
+(GNU Binutils for Debian) 2.44
+addr2line
+GNU %s %s
+Copyright (C) 2025 Free Software Foundation, Inc.
+This program is free software; you may redistribute it under the terms of
+the GNU General Public License version 3 or (at your option) any later version.
+This program has absolutely no warranty.
+ab:Ce:rRsfHhij:pVv
+'%s': No such file
+Warning: could not locate '%s'.  reason: %s
+Warning: '%s' is a directory
+Warning: '%s' is not an ordinary file
+Warning: '%s' has negative size, probably it is too large
+%s: cannot get addresses from archive
+%s: Matching formats:
+%s: cannot find section %s
+??:0
+ at 
+%u (discriminator %u)
+ (inlined by) 
+cause of error unknown
+%s: %s: %s
+%s: %s
+%s: 
+Usage: %s [option(s)] [addr(s)]
+ Convert addresses into line number/file name pairs.
+ If no addresses are specified on the command line, they will be read from stdin
+ The options are:
+  @<file>                Read options from <file>
+  -a --addresses         Show addresses
+  -b --target=<bfdname>  Set the binary file format
+  -e --exe=<executable>  Set the input file name (default is a.out)
+  -i --inlines           Unwind inlined functions
+  -j --section=<name>    Read section-relative offsets instead of addresses
+  -p --pretty-print      Make the output easier to read for humans
+  -s --basenames         Strip directory names
+  -f --functions         Show function names
+  -C --demangle[=style]  Demangle function names
+  -R --recurse-limit     Enable a limit on recursion whilst demangling.  [Default]
+  -r --no-recurse-limit  Disable a limit on recursion whilst demangling
+  -h --help              Display this information
+  -v --version           Display the program's version
+Supported targets:
+%s: supported targets:
+Report bugs to %s
+<https://sourceware.org/bugzilla/>
+addresses
+basenames
+demangle
+functions
+inlines
+pretty-print
+recurse-limit
+recursion-limit
+no-recurse-limit
+no-recursion-limit
+section
+target
+help
+version
+{"type":"deb","os":"debian","name":"binutils","version":"2.44-3","architecture":"arm64"}
+/usr/lib/debug/.dwz/aarch64-linux-gnu/binutils-aarch64-linux-gnu.debug
+.shstrtab
+.note.gnu.build-id
+.interp
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.note.ABI-tag
+.note.package
+.init_array
+.fini_array
+.dynamic
+.got
+.got.plt
+.data
+.bss
+.gnu_debugaltlink

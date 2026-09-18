@@ -1,0 +1,83 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+fence-agents-apc/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - APC over telnet/ssh agent
+
+fence-agents-apc-snmp/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - APC over SNMP agent
+
+fence-agents-cdu/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Sentry Switch CDU agent
+
+fence-agents-cyberpower-ssh/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - CyberPower agent
+
+fence-agents-eaton-snmp/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Eaton SNMP agent
+
+fence-agents-eaton-ssh/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Eaton SSH agent
+
+fence-agents-ilo-ssh/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - HP iLO over SSH agent
+
+fence-agents-ipdu/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - IBM iPDU agent
+
+fence-agents-lindy-pdu/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Lindy PDU agent
+
+fence-agents-netio/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Koukaam NETIO-230B agent
+
+fence-agents-raritan/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Raritan Dominion PX agent
+
+fence-agents-raritan-px3/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Raritan Dominion PX2/PX3 agent
+
+fence-agents-rsb/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - Fujitsu-Siemens RSB agent
+
+librenaissance-dev/stable 0.9.0-6 arm64
+  GNUstep GUI Framework - development files
+
+pd-ableton-link/stable 0.6~ds0-7+b1 arm64
+  integration of Ableton Link into Pure Data
+
+pd-chaos/stable 0.2-9+b1 arm64
+  Pd library for calculating various chaotic attractors
+
+pd-jmmmp/stable 0.61-2 all
+  collection of Pd GUI objects for musical performance
+
+pd-mjlib/stable 0.2.0-2+b1 arm64
+  library of Pd objects for composing music
+
+pipenightdreams/stable 0.10.0-15+b1 arm64
+  connect pipes to get the water flowing from inlet to outlet
+
+pipenightdreams-data/stable 0.10.0-15 all
+  connect pipes to get the water flowing from inlet to outlet (data files)
+
+python3-broadlink/stable 0.19.0-1 all
+  Python API for controlling Broadlink devices
+
+python3-homewizard-energy/stable 9.2.0-1 all
+  Library to communicate with HomeWizard Energy devices
+
+python3-pyvesync/stable 2.1.18-1 all
+  Library to manage VeSync compatible smart home devices
+
+python3-raritan-json-rpc/stable 4.3.0+ds-1 all
+  Python 3 library for the Raritan Xerus™ JSON-RPC interface
+
+renaissance-dev-tools/stable 0.9.0-6 arm64
+  GNUstep GUI Framework - development tools (applications)
+
+sispmctl/stable 4.12-1+b1 arm64
+  Control Gembird SIS-PM programmable power outlet strips
+

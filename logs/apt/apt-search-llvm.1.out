@@ -1,0 +1,524 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+autofdo/stable 0.19-3+b2 arm64
+  AutoFDO Profile Toolchain
+
+bpftrace/stable 0.23.2-1 arm64
+  high-level tracing language for Linux eBPF
+
+cargo-binutils/stable 0.3.6-2+b1 arm64
+  Proxy for LLVM tools like llvm-nm, llvm-objdump and llvm-size
+
+clang/stable 1:19.0-63 arm64
+  C, C++ and Objective-C compiler (LLVM based), clang binary
+
+clang-17/stable 1:17.0.6-22+b2 arm64
+  C, C++ and Objective-C compiler
+
+clang-17-doc/stable 1:17.0.6-22 all
+  C, C++ and Objective-C compiler - Documentation
+
+clang-17-examples/stable 1:17.0.6-22 all
+  Clang examples
+
+clang-18/stable 1:18.1.8-18+b1 arm64
+  C, C++ and Objective-C compiler
+
+clang-18-doc/stable 1:18.1.8-18 all
+  C, C++ and Objective-C compiler - Documentation
+
+clang-18-examples/stable 1:18.1.8-18 all
+  Clang examples
+
+clang-19/stable 1:19.1.7-3+b1 arm64
+  C, C++ and Objective-C compiler
+
+clang-19-doc/stable 1:19.1.7-3 all
+  C, C++ and Objective-C compiler - Documentation
+
+clang-19-examples/stable 1:19.1.7-3 all
+  Clang examples
+
+clang-tools/stable 1:19.0-63 arm64
+  clang-based tools
+
+clang-tools-17/stable 1:17.0.6-22+b2 arm64
+  clang-based tools for C/C++ developments
+
+clang-tools-18/stable 1:18.1.8-18+b1 arm64
+  clang-based tools for C/C++ developments
+
+clang-tools-19/stable 1:19.1.7-3+b1 arm64
+  clang-based tools for C/C++ developments
+
+diffoscope/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories
+
+diffoscope-minimal/stable 297+deb13u1 all
+  in-depth visual diff tool for files, archives and directories (minimal package)
+
+emscripten/stable 3.1.69+dfsg-3 all
+  LLVM-to-JavaScript Compiler
+
+emscripten-doc/stable 3.1.69+dfsg-3 all
+  LLVM-to-JavaScript Compiler (documentation)
+
+filecheck/stable 0.0.24+dfsg-2 all
+  Attempt to reimplement LLVM's FileCheck using Python
+
+ghdl/stable 5.0.1+dfsg-1+b1 arm64
+  VHDL compiler/simulator
+
+ghdl-llvm/stable 5.0.1+dfsg-1+b1 arm64
+  VHDL compiler/simulator (LLVM backend)
+
+ldc/stable 1:1.40.0-5 arm64
+  LLVM D Compiler
+
+lfortran/stable 0.45.0-1+b3 arm64
+  Modern interactive LLVM-based Fortran compiler
+
+libamd-comgr-dev/stable 6.0+git20231212.4510c28+dfsg-3+b2 arm64
+  ROCm code object manager - development package
+
+libamd-comgr2/stable 6.0+git20231212.4510c28+dfsg-3+b2 arm64
+  ROCm code object manager
+
+libc++-17-dev/stable 1:17.0.6-22+b2 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-17-dev-wasm32/stable 1:17.0.6-22 all
+  LLVM C++ Standard library (WASI)
+
+libc++-18-dev/stable 1:18.1.8-18+b1 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-18-dev-wasm32/stable 1:18.1.8-18 all
+  LLVM C++ Standard library (WASI)
+
+libc++-19-dev/stable 1:19.1.7-3+b1 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-19-dev-wasm32/stable 1:19.1.7-3 all
+  LLVM C++ Standard library (WASI)
+
+libc++-dev/stable 1:19.0-63 arm64
+  LLVM C++ Standard library (development files)
+
+libc++-dev-wasm32/stable 1:19.0-63 arm64
+  LLVM C++ Standard library (WASI)
+
+libc++1/stable 1:19.0-63 arm64
+  LLVM C++ Standard library
+
+libc++1-17t64/stable 1:17.0.6-22+b2 arm64
+  LLVM C++ Standard library
+
+libc++1-18/stable 1:18.1.8-18+b1 arm64
+  LLVM C++ Standard library
+
+libc++1-19/stable 1:19.1.7-3+b1 arm64
+  LLVM C++ Standard library
+
+libc++abi-17-dev/stable 1:17.0.6-22+b2 arm64
+  LLVM low level support for a standard C++ library (development files)
+
+libc++abi-17-dev-wasm32/stable 1:17.0.6-22 all
+  LLVM low level support for a standard C++ library (WASI)
+
+libc++abi-18-dev/stable 1:18.1.8-18+b1 arm64
+  LLVM low level support for a standard C++ library (development files)
+
+libc++abi-18-dev-wasm32/stable 1:18.1.8-18 all
+  LLVM low level support for a standard C++ library (WASI)
+
+libc++abi-19-dev/stable 1:19.1.7-3+b1 arm64
+  LLVM low level support for a standard C++ library (development files)
+
+libc++abi-19-dev-wasm32/stable 1:19.1.7-3 all
+  LLVM low level support for a standard C++ library (WASI)
+
+libc++abi-dev/stable 1:19.0-63 arm64
+  LLVM low level support for a standard C++ library (development files)
+
+libc++abi1/stable 1:19.0-63 arm64
+  LLVM low level support for a standard C++ library
+
+libc++abi1-17t64/stable 1:17.0.6-22+b2 arm64
+  LLVM low level support for a standard C++ library
+
+libc++abi1-18/stable 1:18.1.8-18+b1 arm64
+  LLVM low level support for a standard C++ library
+
+libc++abi1-19/stable 1:19.1.7-3+b1 arm64
+  LLVM low level support for a standard C++ library
+
+libclang-17-dev/stable 1:17.0.6-22+b2 arm64
+  Clang library - Development package
+
+libclang-18-dev/stable 1:18.1.8-18+b1 arm64
+  Clang library - Development package
+
+libclang-19-dev/stable 1:19.1.7-3+b1 arm64
+  Clang library - Development package
+
+libclang-common-17-dev/stable 1:17.0.6-22+b2 arm64
+  Clang library - Common development package
+
+libclang-common-18-dev/stable 1:18.1.8-18+b1 arm64
+  Clang library - Common development package
+
+libclang-common-19-dev/stable 1:19.1.7-3+b1 arm64
+  Clang library - Common development package
+
+libclang-cpp-dev/stable 1:19.0-63 arm64
+  C++ interface to the clang library
+
+libclang-cpp17-dev/stable 1:17.0.6-22+b2 arm64
+  C++ interface to the Clang library
+
+libclang-cpp17t64/stable 1:17.0.6-22+b2 arm64
+  C++ interface to the Clang library
+
+libclang-cpp18/stable 1:18.1.8-18+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp18-dev/stable 1:18.1.8-18+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp19/stable 1:19.1.7-3+b1 arm64
+  C++ interface to the Clang library
+
+libclang-cpp19-dev/stable 1:19.1.7-3+b1 arm64
+  C++ interface to the Clang library
+
+libclang-dev/stable 1:19.0-63 arm64
+  clang library - Development package
+
+libclang-perl/stable 0.09-6+b7 arm64
+  Perl bindings to the Clang compiler's indexing interface
+
+libclang1/stable 1:19.0-63 arm64
+  C, C++ and Objective-C compiler (LLVM based)
+
+libclang1-17t64/stable 1:17.0.6-22+b2 arm64
+  C interface to the Clang library
+
+libclang1-18/stable 1:18.1.8-18+b1 arm64
+  C interface to the Clang library
+
+libclang1-19/stable 1:19.1.7-3+b1 arm64
+  C interface to the Clang library
+
+libcode-tidyall-plugin-clangformat-perl/stable 0.0.2-2 all
+  module to run clang-format using Code::TidyAll
+
+libfuzzer-17-dev/stable 1:17.0.6-22+b2 arm64
+  Library for coverage-guided fuzz testing
+
+libfuzzer-18-dev/stable 1:18.1.8-18+b1 arm64
+  Library for coverage-guided fuzz testing
+
+libfuzzer-19-dev/stable 1:19.1.7-3+b1 arm64
+  Library for coverage-guided fuzz testing
+
+liblfortran-dev/stable 0.45.0-1+b3 arm64
+  flang library - Development package.
+
+liblfortran-runtime0/stable 0.45.0-1+b3 arm64
+  Runtime libraries for the lfortran compiler
+
+liblld-17/stable 1:17.0.6-22+b2 arm64
+  LLVM-based linker, library
+
+liblld-17-dev/stable 1:17.0.6-22+b2 arm64
+  LLVM-based linker, header files
+
+liblld-18/stable 1:18.1.8-18+b1 arm64
+  LLVM-based linker, library
+
+liblld-18-dev/stable 1:18.1.8-18+b1 arm64
+  LLVM-based linker, header files
+
+liblld-19/stable 1:19.1.7-3+b1 arm64
+  LLVM-based linker, library
+
+liblld-19-dev/stable 1:19.1.7-3+b1 arm64
+  LLVM-based linker, header files
+
+liblld-dev/stable 1:19.0-63 arm64
+  LLVM-based linker, library
+
+liblldb-17-dev/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger, header files
+
+liblldb-17t64/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger, library
+
+liblldb-18/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger, library
+
+liblldb-18-dev/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger, header files
+
+liblldb-19/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger, library
+
+liblldb-19-dev/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger, header files
+
+liblldb-dev/stable 1:19.0-63 arm64
+  Next generation, high-performance debugger, header files
+
+libllvm-17-ocaml-dev/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies, OCaml bindings
+
+libllvm-18-ocaml-dev/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies, OCaml bindings
+
+libllvm-19-ocaml-dev/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies, OCaml bindings
+
+libllvm-ocaml-dev/stable 1:19.0-63 arm64
+  Modular compiler and toolchain technologies, bindings for OCaml
+
+libllvm17t64/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies, runtime library
+
+libllvm18/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies, runtime library
+
+libllvm19/stable,now 1:19.1.7-3+b1 arm64 [installed,automatic]
+  Modular compiler and toolchain technologies, runtime library
+
+libllvmlibc-18-dev/stable 1:18.1.8-18+b1 arm64
+  LLVM C Library - dev package
+
+libllvmlibc-19-dev/stable 1:19.1.7-3+b1 arm64
+  LLVM C Library - dev package
+
+libllvmspirvlib-17-dev/stable 17.0.11-1 arm64
+  bi-directional translator for LLVM/SPIRV -- development files
+
+libllvmspirvlib-18-dev/stable 18.1.11-1 arm64
+  bi-directional translator for LLVM/SPIRV -- development files
+
+libllvmspirvlib-19-dev/stable 19.1.6-1 arm64
+  bi-directional translator for LLVM/SPIRV -- development files
+
+libllvmspirvlib17/stable 17.0.11-1 arm64
+  bi-directional translator for LLVM/SPIRV -- shared library
+
+libllvmspirvlib18.1/stable 18.1.11-1 arm64
+  bi-directional translator for LLVM/SPIRV -- shared library
+
+libllvmspirvlib19.1/stable 19.1.6-1 arm64
+  bi-directional translator for LLVM/SPIRV -- shared library
+
+libomp-17-dev/stable 1:17.0.6-22+b2 arm64
+  LLVM OpenMP runtime - dev package
+
+libomp-17-doc/stable 1:17.0.6-22 all
+  LLVM OpenMP runtime - Documentation
+
+libomp-18-dev/stable 1:18.1.8-18+b1 arm64
+  LLVM OpenMP runtime - dev package
+
+libomp-18-doc/stable 1:18.1.8-18 all
+  LLVM OpenMP runtime - Documentation
+
+libomp-19-dev/stable 1:19.1.7-3+b1 arm64
+  LLVM OpenMP runtime - dev package
+
+libomp-19-doc/stable 1:19.1.7-3 all
+  LLVM OpenMP runtime - Documentation
+
+libomp-dev/stable 1:19.0-63 arm64
+  LLVM OpenMP runtime - dev package
+
+libomp5/stable 1:19.0-63 arm64
+  LLVM OpenMP runtime
+
+libomp5-17t64/stable 1:17.0.6-22+b2 arm64
+  LLVM OpenMP runtime
+
+libomp5-18/stable 1:18.1.8-18+b1 arm64
+  LLVM OpenMP runtime
+
+libomp5-19/stable 1:19.1.7-3+b1 arm64
+  LLVM OpenMP runtime
+
+libphobos2-ldc-shared-dev/stable 1:1.40.0-5 arm64
+  LLVM D Compiler - Standard and runtime libraries, imports
+
+libphobos2-ldc-shared110/stable 1:1.40.0-5 arm64
+  LLVM D Compiler - Standard and runtime libraries
+
+librust-cargo-binutils-dev/stable 0.3.6-2+b1 arm64
+  Proxy for LLVM tools like llvm-nm, llvm-objdump and llvm-size - Rust source code
+
+librust-llvm-bitcode-dev/stable 0.1.2-1+b2 arm64
+  LLVM Bitcode parser in Rust - Rust source code
+
+libstarpu-openmp-llvm-1.4-1t64/stable 1.4.7+dfsg-2 arm64
+  Task scheduler for heterogeneous multicore machines
+
+lld/stable 1:19.0-63 arm64
+  LLVM-based linker
+
+lld-17/stable 1:17.0.6-22+b2 arm64
+  LLVM-based linker
+
+lld-18/stable 1:18.1.8-18+b1 arm64
+  LLVM-based linker
+
+lld-19/stable 1:19.1.7-3+b1 arm64
+  LLVM-based linker
+
+lldb/stable 1:19.0-63 arm64
+  Next generation, high-performance debugger
+
+lldb-17/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger
+
+lldb-18/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger
+
+lldb-19/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger
+
+llvm/stable 1:19.0-63 arm64
+  Modular compiler and toolchain technologies
+
+llvm-17/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies
+
+llvm-17-dev/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies, libraries and headers
+
+llvm-17-doc/stable 1:17.0.6-22 all
+  Modular compiler and toolchain technologies, documentation
+
+llvm-17-examples/stable 1:17.0.6-22 all
+  Modular compiler and toolchain technologies, examples
+
+llvm-17-linker-tools/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies - Plugins
+
+llvm-17-runtime/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies, IR interpreter
+
+llvm-17-tools/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies, tools
+
+llvm-18/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies
+
+llvm-18-dev/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies, libraries and headers
+
+llvm-18-doc/stable 1:18.1.8-18 all
+  Modular compiler and toolchain technologies, documentation
+
+llvm-18-examples/stable 1:18.1.8-18 all
+  Modular compiler and toolchain technologies, examples
+
+llvm-18-linker-tools/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies - Plugins
+
+llvm-18-runtime/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies, IR interpreter
+
+llvm-18-tools/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies, tools
+
+llvm-19/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies
+
+llvm-19-dev/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies, libraries and headers
+
+llvm-19-doc/stable 1:19.1.7-3 all
+  Modular compiler and toolchain technologies, documentation
+
+llvm-19-examples/stable 1:19.1.7-3 all
+  Modular compiler and toolchain technologies, examples
+
+llvm-19-linker-tools/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies - Plugins
+
+llvm-19-runtime/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies, IR interpreter
+
+llvm-19-tools/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies, tools
+
+llvm-dev/stable 1:19.0-63 arm64
+  Modular compiler and toolchain technologies, libraries and headers
+
+llvm-runtime/stable 1:19.0-63 arm64
+  Modular compiler and toolchain technologies, bytecode interpreter
+
+llvm-spirv-17/stable 17.0.11-1 arm64
+  bi-directional translator for LLVM/SPIRV
+
+llvm-spirv-18/stable 18.1.11-1 arm64
+  bi-directional translator for LLVM/SPIRV
+
+llvm-spirv-19/stable 19.1.6-1 arm64
+  bi-directional translator for LLVM/SPIRV
+
+llvmlite-doc/stable 0.44.0-1 all
+  LLVM Python binding for writing JIT compilers (docs)
+
+mold/stable 2.37.1+dfsg-1 arm64
+  Drop-in linker
+
+numba-doc/stable 0.61.2+dfsg-1+deb13u1 all
+  native machine code compiler for Python (docs)
+
+python3-clang/stable 1:19.0-63 arm64
+  Clang Python Bindings
+
+python3-clang-17/stable 1:17.0.6-22+b2 arm64
+  Clang Python Bindings
+
+python3-clang-18/stable 1:18.1.8-18+b1 arm64
+  Clang Python Bindings
+
+python3-clang-19/stable 1:19.1.7-3+b1 arm64
+  Clang Python Bindings
+
+python3-filecheck/stable 0.0.24+dfsg-2 all
+  Attempt to reimplement LLVM's FileCheck using Python
+
+python3-lldb/stable 1:19.0-63 arm64
+  Next generation, high-performance debugger, python lib
+
+python3-lldb-17/stable 1:17.0.6-22+b2 arm64
+  Next generation, high-performance debugger, python3 lib
+
+python3-lldb-18/stable 1:18.1.8-18+b1 arm64
+  Next generation, high-performance debugger, python3 lib
+
+python3-lldb-19/stable 1:19.1.7-3+b1 arm64
+  Next generation, high-performance debugger, python3 lib
+
+python3-llvmlite/stable 0.44.0-1 arm64
+  LLVM Python 3 binding for writing JIT compilers
+
+python3-numba/stable 0.61.2+dfsg-1+deb13u1 arm64
+  native machine code compiler for Python 3
+
+rtags/stable 2.38-12+b2 arm64
+  C/C++ client/server indexer with integration for Emacs
+
+rust-llvm/stable 1.85.0+dfsg3-1 arm64
+  Rust LLVM integration
+
+vim-syntastic/stable 3.10.0-3 all
+  Syntax checking hacks for vim
+

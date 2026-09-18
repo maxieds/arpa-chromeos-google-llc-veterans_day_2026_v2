@@ -1,0 +1,25 @@
+Usage: POST [-options] <url>...
+    -m <method>   use method for the request (default is 'POST')
+    -f            make request even if POST believes method is illegal
+    -b <base>     Use the specified URL as base
+    -t <timeout>  Set timeout value
+    -i <time>     Set the If-Modified-Since header on the request
+    -c <conttype> use this content-type for POST, PUT, PATCH
+    -a            Use text mode for content I/O
+    -p <proxyurl> use this as a proxy
+    -P            don't load proxy settings from environment
+    -H <header>   send this HTTP header (you can specify several)
+    -C <username>:<password>
+                  provide credentials for basic authentication
+
+    -u            Display method and URL before any response
+    -U            Display request headers (implies -u)
+    -s            Display response status code
+    -S            Display response status chain (implies -u)
+    -e            Display response headers (implies -s)
+    -E            Display whole chain of headers (implies -S and -U)
+    -d            Do not display content
+    -o <format>   Process HTML content in various ways
+
+    -v            Show program version
+    -h            Print this message

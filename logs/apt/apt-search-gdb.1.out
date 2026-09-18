@@ -1,0 +1,296 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+algol68g/stable 3.1.2-1+b1 arm64
+  Implementation of Algol 68 as defined by the Revised Report
+
+avarice/stable 2.14+svn427-2 arm64
+  use GDB with Atmel AVR debuggers
+
+cgdb/stable 0.8.0-3+b1 arm64
+  curses-based interface to the GNU Debugger (GDB)
+
+chiark-scripts/stable 8.0.1 all
+  chiark system administration scripts
+
+clisp-module-gdbm/stable 1:2.49.20241228.gitc3ec11b-2 arm64
+  GNU CLISP module that adds an interface to GNU DBM
+
+cmake-extras/stable 1.8-1 all
+  Extra CMake utility modules
+
+codeblocks/stable 25.03+dfsg-2 arm64
+  Code::Blocks integrated development environment (IDE)
+
+codeblocks-dev/stable 25.03+dfsg-2 arm64
+  Code::Blocks development files (SDK)
+
+codelite/stable 17.0.0+dfsg-4 arm64
+  Powerful and lightweight IDE
+
+codelite-plugins/stable 17.0.0+dfsg-4 arm64
+  Powerful and lightweight IDE - plugins
+
+courier-authlib-userdb/stable 0.72.4-1 arm64
+  userdb support for the Courier authentication library
+
+crash/stable 8.0.6-1 arm64
+  kernel debugging utility, allowing gdb like syntax
+
+cupt-dbg/stable 2.10.4+nmu2+b2 arm64
+  flexible package manager -- debugging symbols
+
+ddd/stable 1:3.3.12-5.4+b2 arm64
+  Data Display Debugger, a graphical debugger frontend
+
+docbook-xsl-ns/stable 1.79.2+dfsg-7 all
+  stylesheets for processing DocBook 5 XML to various output formats
+
+drkonqi/stable 6.3.4-1 arm64
+  Crash handler for Qt applications
+
+elpa-dape/stable 0.24.1-1 all
+  Debug Adapter Protocol for Emacs
+
+fp-units-db/stable 3.2.2+dfsg-46 arm64
+  Free Pascal - database-library units dependency package
+
+fp-units-db-3.2.2/stable 3.2.2+dfsg-46 arm64
+  Free Pascal - database-library units
+
+gauche-gdbm/stable 0.9.15-p2+20241205-4 arm64
+  gdbm binding for Gauche
+
+gdb/stable 16.3-1 arm64
+  GNU Debugger
+
+gdb-avr/stable 15.1-1+b3 arm64
+  GNU Debugger for avr
+
+gdb-bpf/stable 16.3-1+2+b1 arm64
+  Cross-debugger for the bpf target
+
+gdb-mingw-w64/stable 16.3-1+13.2+b2 arm64
+  Cross-debugger for Win32 and Win64 using MinGW-w64
+
+gdb-mingw-w64-target/stable 16.1-1+13.2 all
+  Cross-debugger server for Win32 and Win64 using MinGW-w64
+
+gdb-minimal/stable 16.3-1 all
+  GNU Debugger (minimal version - dummy transitional package)
+
+gdb-multiarch/stable 16.3-1 arm64
+  GNU Debugger (with support for multiple architectures)
+
+gdb-source/stable 16.3-1 all
+  GNU Debugger (source)
+
+gdbm-l10n/stable 1.24-2 all
+  GNU dbm database routines (translation files) 
+
+gdbmtool/stable 1.24-2 arm64
+  GNU dbm database routines (command line tools) 
+
+gdbserver/stable 16.3-1 arm64
+  GNU Debugger (remote server)
+
+geany-plugin-scope/stable 2.0-6+b1 arm64
+  graphical GDB front-end for Geany
+
+golang-github-gmazoyer-peeringdb-dev/stable 0.0~git20180219.dd23298-3 all
+  PeeringDB API package for Go
+
+graphicsmagick-dbg/stable 1.4+really1.3.45+hg17696-1 arm64
+  format-independent image processing - debugging symbols
+
+grub-efi-arm64-dbg/stable 2.12-9+deb13u2 arm64
+  GRand Unified Bootloader, version 2 (ARM64 UEFI debug files)
+
+kdesdk-scripts/stable 4:25.04.0-1 all
+  scripts and data files for development
+
+libapache-directory-jdbm-java/stable 2.0.0~M2-3 all
+  ApacheDS JDBM Implementation
+
+libapache2-mod-ldap-userdir-dbg/stable 1.1.19-2.1+b5 arm64
+  Debugging symbols for mod_ldap_userdir
+
+libcc1-0/stable,now 14.2.0-19 arm64 [installed,automatic]
+  GCC cc1 plugin for GDB
+
+libcodeblocks0t64/stable 25.03+dfsg-2 arm64
+  Code::Blocks shared library
+
+libdbus-glib-1-2/stable 0.114-1 arm64
+  deprecated library for D-Bus IPC
+
+libdbus-glib-1-dev/stable 0.114-1 arm64
+  deprecated library for D-Bus IPC (development files)
+
+libdbus-glib-1-dev-bin/stable 0.114-1 arm64
+  deprecated library for D-Bus IPC (development tools)
+
+libdbus-glib-1-doc/stable 0.114-1 all
+  deprecated library for D-Bus IPC (API documentation)
+
+libdebuginfod-common/stable 0.192-4 all
+  configuration to enable the Debian debug info server
+
+libdevel-gdb-perl/stable 2.02-6 all
+  module to open and communicate with a gdb session
+
+libgdbm-compat-dev/stable 1.24-2 arm64
+  GNU dbm database routines (legacy support development files) 
+
+libgdbm-compat4t64/stable,now 1.24-2 arm64 [installed,automatic]
+  GNU dbm database routines (legacy support runtime version) 
+
+libgdbm-dev/stable 1.24-2 arm64
+  GNU dbm database routines (development files) 
+
+libgdbm6t64/stable,now 1.24-2 arm64 [installed,automatic]
+  GNU dbm database routines (runtime version) 
+
+libgdbuspp-dev/stable 3-2 arm64
+  GDbus++ Development Headers
+
+libgdbuspp3/stable 3-2 arm64
+  Simple C++ based interface to implement D-Bus
+
+libgio-2.0-dev-bin/stable 2.84.4-3~deb13u3 arm64
+  Development utilities for GLib, GObject and GIO libraries
+
+libglib2.0-bin/stable,now 2.84.4-3~deb13u3 arm64 [installed,automatic]
+  Programs for the GLib library
+
+libqdbm-java/stable 1.8.78-13+b3 arm64
+  QDBM Database Libraries for Java
+
+libqdbm-perl/stable 1.8.78-13+b3 arm64
+  QDBM Database Libraries for Perl
+
+libqdbm14t64/stable 1.8.78-13+b3 arm64
+  QDBM Database Libraries without GDBM wrapper[runtime]
+
+libtdb-dev/stable 2:1.4.13+samba4.22.10+dfsg-0+deb13u1 arm64
+  Trivial Database - development files
+
+libtdb1/stable 2:1.4.13+samba4.22.10+dfsg-0+deb13u1 arm64
+  Trivial Database - shared library
+
+libtokyocabinet-dev/stable 1.4.48-15.1+b1 arm64
+  Tokyo Cabinet Database Libraries [development]
+
+libtokyocabinet9t64/stable 1.4.48-15.1+b1 arm64
+  Tokyo Cabinet Database Libraries [runtime]
+
+libwgdb-dev/stable 0.7.3+git211004+dfsg-1+b2 arm64
+  lightweight NoSQL database library, development files
+
+libwgdb0/stable 0.7.3+git211004+dfsg-1+b2 arm64
+  lightweight NoSQL database library, shared library
+
+libwxsmithlib-dev/stable 25.03+dfsg-2 arm64
+  wxSmith development files (Code::Blocks plugin for RAD GUI editing)
+
+libwxsmithlib0t64/stable 25.03+dfsg-2 arm64
+  wxSmith shared library (Code::Blocks plugin for RAD GUI editing)
+
+libxqdbm3t64/stable 1.8.78-13+b3 arm64
+  QDBM Database Libraries for C++ [runtime]
+
+lmicdiusb/stable 3:0.1.3-1+b1 arm64
+  Remote GDB socket over USB for Stellaris Launchpad ICDI
+
+lx-gdb/stable 1.03-16+b3 arm64
+  Dump and load databases from HP 100LX/200LX palmtops
+
+mspdebug/stable 0.25-1 arm64
+  debugging tool for MSP430 microcontrollers
+
+openocd/stable 0.12.0-3+b2 arm64
+  Open on-chip JTAG/SWD debug solution for embedded target devices
+
+pahole/stable 1.30-1 arm64
+  set of advanced DWARF utilities
+
+perdition/stable 2.2-3.4+b2 arm64
+  POP3 and IMAP4 Proxy server
+
+pgdbf/stable 0.6.3+git20180121.4e84775-1 arm64
+  converter of XBase / FoxPro tables to PostgreSQL
+
+pike8.0-gdbm/stable 8.0.1956-1 arm64
+  Gdbm module for Pike
+
+postfix-mongodb/stable 3.10.11-0+deb13u1 arm64
+  MongoDB map support for Postfix
+
+python3-gdbm/stable 3.13.5-1 arm64
+  GNU dbm database support for Python 3.x
+
+python3-gdbm-dbg/stable 3.13.5-1 arm64
+  GNU dbm database support for Python 3.x (debug extension)
+
+python3-pako/stable 0.3.1-2.1 all
+  Universal package manager library (Python 3)
+
+python3-tdb/stable 2:1.4.13+samba4.22.10+dfsg-0+deb13u1 arm64
+  Python3 bindings for TDB
+
+python3-virt-firmware/stable 24.11-2 all
+  Tools for manipulating edk2 (ovmf/qemu-efi) firmware images
+
+python3.13-gdbm/stable 3.13.5-2+deb13u3 arm64
+  GNU dbm database support for Python (v3.13)
+
+qdbm-util/stable 1.8.78-13+b3 arm64
+  QDBM Database Utilities
+
+r-bioc-stringdb/stable 2.18.0-2 all
+  Search Tool for the Retrieval of Interacting proteins database
+
+rr/stable 5.9.0-3 arm64
+  application execution recorder, player and debugger
+
+ruby-dbm/stable 1.1.0-2+b5 arm64
+  wrapper for the UNIX-style Database Manager Library
+
+ruby-qdbm/stable 1.8.78-13+b3 arm64
+  QDBM Database Libraries for Ruby
+
+ruby-tokyocabinet/stable 1.31-7+b2 arm64
+  Ruby Binding of Tokyo Cabinet Database
+
+rust-gdb/stable 1.85.0+dfsg3-1 all
+  Rust debugger (gdb)
+
+seergdb/stable 2.5+git20250220+ds-1 arm64
+  gui frontend to gdb
+
+simulavr/stable 1.0.0+git20160221.e53413b-3+b1 arm64
+  Atmel AVR simulator
+
+slang-gdbm/stable 1.7.1-14+b2 arm64
+  access to GDBM databases from S-Lang
+
+tdb-tools/stable 2:1.4.13+samba4.22.10+dfsg-0+deb13u1 arm64
+  Trivial Database - bundled binaries
+
+tokyocabinet-bin/stable 1.4.48-15.1+b1 arm64
+  Tokyo Cabinet Database Utilities
+
+tokyocabinet-doc/stable 1.4.48-15.1 all
+  Tokyo Cabinet Database Documentation
+
+visualboyadvance/stable 1.8.0.dfsg-6 arm64
+  full featured Game Boy Advance emulator
+
+voltron/stable 0.1.7+git20200109-4 all
+  Hacky debugger UI for hackers
+
+wireless-regdb/stable 2026.05.30-1~deb13u1 all
+  wireless regulatory database for Linux
+

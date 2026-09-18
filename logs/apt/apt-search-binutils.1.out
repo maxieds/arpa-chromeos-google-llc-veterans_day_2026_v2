@@ -1,0 +1,356 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+binutils/stable,now 2.44-3 arm64 [installed,automatic]
+  GNU assembler, linker and binary utilities
+
+binutils-aarch64-linux-gnu/stable,now 2.44-3 arm64 [installed,automatic]
+  GNU binary utilities, for aarch64-linux-gnu target
+
+binutils-aarch64-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for aarch64-linux-gnu target (debug symbols)
+
+binutils-alpha-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for alpha-linux-gnu target
+
+binutils-alpha-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for alpha-linux-gnu target (debug symbols)
+
+binutils-arc-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for arc-linux-gnu target
+
+binutils-arc-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for arc-linux-gnu target (debug symbols)
+
+binutils-arm-linux-gnueabi/stable 2.44-3 arm64
+  GNU binary utilities, for arm-linux-gnueabi target
+
+binutils-arm-linux-gnueabi-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for arm-linux-gnueabi target (debug symbols)
+
+binutils-arm-linux-gnueabihf/stable 2.44-3 arm64
+  GNU binary utilities, for arm-linux-gnueabihf target
+
+binutils-arm-linux-gnueabihf-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for arm-linux-gnueabihf target (debug symbols)
+
+binutils-arm-none-eabi/stable 2.44-3+23+b2 arm64
+  GNU assembler, linker and binary utilities for ARM Cortex-R/M processors
+
+binutils-avr/stable,now 2.43.50.20250108-1 arm64 [installed,automatic]
+  Binary utilities supporting Atmel's AVR targets
+
+binutils-bpf/stable 2.44-3+3 arm64
+  GNU binary utilities for bpf
+
+binutils-common/stable,now 2.44-3 arm64 [installed,automatic]
+  Common files for the GNU assembler, linker and binary utilities
+
+binutils-dbg/stable 2.44-3 arm64
+  GNU assembler, linker and binary utilities(debug symbols)
+
+binutils-dev/stable 2.44-3 arm64
+  GNU binary utilities (BFD development files)
+
+binutils-doc/stable 2.44-3 all
+  Documentation for the GNU assembler, linker and binary utilities
+
+binutils-for-build/stable 2.44-3 all
+  GNU assembler, linker and binary utilities for the build architecture
+
+binutils-for-host/stable 2.44-3 arm64
+  GNU assembler, linker and binary utilities for the host architecture
+
+binutils-gold/stable 2.44-2 arm64
+  gold ELF linker (deprecated)
+
+binutils-gold-aarch64-linux-gnu/stable 2.44-2 arm64
+  gold ELF linker for the aarch64-linux-gnu target (deprecated)
+
+binutils-gold-aarch64-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for aarch64-linux-gnu target (debug symbols)
+
+binutils-gold-arm-linux-gnueabi/stable 2.44-2 arm64
+  gold ELF linker for the arm-linux-gnueabi target (deprecated)
+
+binutils-gold-arm-linux-gnueabi-dbg/stable 2.44-2 arm64
+  gold ELF linker, for arm-linux-gnueabi target (debug symbols)
+
+binutils-gold-arm-linux-gnueabihf/stable 2.44-2 arm64
+  gold ELF linker for the arm-linux-gnueabihf target (deprecated)
+
+binutils-gold-arm-linux-gnueabihf-dbg/stable 2.44-2 arm64
+  gold ELF linker, for arm-linux-gnueabihf target (debug symbols)
+
+binutils-gold-i686-linux-gnu/stable 2.44-2 arm64
+  gold ELF linker for the i686-linux-gnu target (deprecated)
+
+binutils-gold-i686-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for i686-linux-gnu target (debug symbols)
+
+binutils-gold-powerpc-linux-gnu/stable 2.44-2 arm64
+  gold ELF linker for the powerpc-linux-gnu target (deprecated)
+
+binutils-gold-powerpc-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for powerpc-linux-gnu target (debug symbols)
+
+binutils-gold-powerpc64le-linux-gnu/stable 2.44-2 arm64
+  gold ELF linker for the powerpc64le-linux-gnu target (deprecated)
+
+binutils-gold-powerpc64le-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for powerpc64le-linux-gnu target (debug symbols)
+
+binutils-gold-s390x-linux-gnu/stable 2.44-2 arm64
+  gold ELF linker for the s390x-linux-gnu target (deprecated)
+
+binutils-gold-s390x-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for s390x-linux-gnu target (debug symbols)
+
+binutils-gold-sparc-linux-gnu/stable 2.44-2 arm64
+  gold ELF linker for the sparc-linux-gnu target (deprecated)
+
+binutils-gold-sparc-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for sparc-linux-gnu target (debug symbols)
+
+binutils-gold-sparc64-linux-gnu/stable 2.44-2 arm64
+  gold ELF linker for the sparc64-linux-gnu target (deprecated)
+
+binutils-gold-sparc64-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for sparc64-linux-gnu target (debug symbols)
+
+binutils-gold-x86-64-linux-gnu/stable 2.44-2 arm64
+  gold ELF linker for the x86-64-linux-gnu target (deprecated)
+
+binutils-gold-x86-64-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for x86-64-linux-gnu target (debug symbols)
+
+binutils-gold-x86-64-linux-gnux32/stable 2.44-2 arm64
+  gold ELF linker for the x86-64-linux-gnux32 target (deprecated)
+
+binutils-gold-x86-64-linux-gnux32-dbg/stable 2.44-2 arm64
+  gold ELF linker, for x86-64-linux-gnux32 target (debug symbols)
+
+binutils-h8300-hms/stable 2.16.1-13 arm64
+  GNU binary utilities, for h8300-hitachi-coff target
+
+binutils-hppa-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for hppa-linux-gnu target
+
+binutils-hppa-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for hppa-linux-gnu target (debug symbols)
+
+binutils-i686-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for i686-linux-gnu target
+
+binutils-i686-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for i686-linux-gnu target (debug symbols)
+
+binutils-loongarch64-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for loongarch64-linux-gnu target
+
+binutils-loongarch64-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for loongarch64-linux-gnu target (debug symbols)
+
+binutils-m68hc1x/stable 1:2.44+3.5.3+b1 arm64
+  GNU binary utilities for Motorola's 68HC11/12 targets
+
+binutils-m68k-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for m68k-linux-gnu target
+
+binutils-m68k-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for m68k-linux-gnu target (debug symbols)
+
+binutils-mingw-w64/stable 2.43.1-5+12 all
+  Cross-binutils for Win32 and Win64 using MinGW-w64
+
+binutils-mingw-w64-i686/stable 2.44-3+12+b1 arm64
+  Cross-binutils for Win32 (x86) using MinGW-w64
+
+binutils-mingw-w64-ucrt64/stable 2.44-3+12+b1 arm64
+  Cross-binutils for UCRT Win64 (x64) using MinGW-w64
+
+binutils-mingw-w64-x86-64/stable 2.44-3+12+b1 arm64
+  Cross-binutils for Win64 (x64) using MinGW-w64
+
+binutils-mips-linux-gnu/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips-linux-gnu target
+
+binutils-mips-linux-gnu-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips-linux-gnu target (debug symbols)
+
+binutils-mips64-linux-gnuabi64/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64-linux-gnuabi64 target
+
+binutils-mips64-linux-gnuabi64-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64-linux-gnuabi64 target (debug symbols)
+
+binutils-mips64-linux-gnuabin32/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64-linux-gnuabin32 target
+
+binutils-mips64-linux-gnuabin32-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64-linux-gnuabin32 target (debug symbols)
+
+binutils-mips64el-linux-gnuabi64/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64el-linux-gnuabi64 target
+
+binutils-mips64el-linux-gnuabi64-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64el-linux-gnuabi64 target (debug symbols)
+
+binutils-mips64el-linux-gnuabin32/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64el-linux-gnuabin32 target
+
+binutils-mips64el-linux-gnuabin32-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mips64el-linux-gnuabin32 target (debug symbols)
+
+binutils-mipsel-linux-gnu/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsel-linux-gnu target
+
+binutils-mipsel-linux-gnu-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsel-linux-gnu target (debug symbols)
+
+binutils-mipsisa32r6-linux-gnu/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa32r6-linux-gnu target
+
+binutils-mipsisa32r6-linux-gnu-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa32r6-linux-gnu target (debug symbols)
+
+binutils-mipsisa32r6el-linux-gnu/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa32r6el-linux-gnu target
+
+binutils-mipsisa32r6el-linux-gnu-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa32r6el-linux-gnu target (debug symbols)
+
+binutils-mipsisa64r6-linux-gnuabi64/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6-linux-gnuabi64 target
+
+binutils-mipsisa64r6-linux-gnuabi64-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6-linux-gnuabi64 target (debug symbols)
+
+binutils-mipsisa64r6-linux-gnuabin32/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6-linux-gnuabin32 target
+
+binutils-mipsisa64r6-linux-gnuabin32-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6-linux-gnuabin32 target (debug symbols)
+
+binutils-mipsisa64r6el-linux-gnuabi64/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6el-linux-gnuabi64 target
+
+binutils-mipsisa64r6el-linux-gnuabi64-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6el-linux-gnuabi64 target (debug symbols)
+
+binutils-mipsisa64r6el-linux-gnuabin32/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6el-linux-gnuabin32 target
+
+binutils-mipsisa64r6el-linux-gnuabin32-dbg/stable 2.44-3cross1+nmu1+b1 arm64
+  GNU binary utilities, for mipsisa64r6el-linux-gnuabin32 target (debug symbols)
+
+binutils-multiarch/stable 2.44-3 arm64
+  Binary utilities that support multi-arch targets
+
+binutils-multiarch-dbg/stable 2.44-3 arm64
+  Binary utilities that support multi-arch targets (debug symbols)
+
+binutils-multiarch-dev/stable 2.44-3 arm64
+  GNU binary utilities that support multi-arch targets (BFD development files)
+
+binutils-or1k-elf/stable 2.44-3+1.0.13+b1 arm64
+  GNU binary utilities for the Open RISC 1000 processors
+
+binutils-powerpc-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for powerpc-linux-gnu target
+
+binutils-powerpc-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for powerpc-linux-gnu target (debug symbols)
+
+binutils-powerpc64le-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for powerpc64le-linux-gnu target
+
+binutils-powerpc64le-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for powerpc64le-linux-gnu target (debug symbols)
+
+binutils-riscv64-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for riscv64-linux-gnu target
+
+binutils-riscv64-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for riscv64-linux-gnu target (debug symbols)
+
+binutils-riscv64-unknown-elf/stable 2.44-3+7+b1 arm64
+  GNU assembler, linker and binary utilities for Risc-V processors
+
+binutils-s390x-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for s390x-linux-gnu target
+
+binutils-s390x-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for s390x-linux-gnu target (debug symbols)
+
+binutils-sh-elf/stable 2.44+3+b1 arm64
+  GNU binary utilities for embedded SuperH devices
+
+binutils-sh4-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for sh4-linux-gnu target
+
+binutils-sh4-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for sh4-linux-gnu target (debug symbols)
+
+binutils-source/stable 2.44-3 all
+  GNU assembler, linker and binary utilities (source)
+
+binutils-sparc-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for sparc-linux-gnu target
+
+binutils-sparc-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for sparc-linux-gnu target (debug symbols)
+
+binutils-sparc64-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for sparc64-linux-gnu target
+
+binutils-sparc64-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for sparc64-linux-gnu target (debug symbols)
+
+binutils-x86-64-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for x86-64-linux-gnu target
+
+binutils-x86-64-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for x86-64-linux-gnu target (debug symbols)
+
+binutils-x86-64-linux-gnux32/stable 2.44-3 arm64
+  GNU binary utilities, for x86-64-linux-gnux32 target
+
+binutils-x86-64-linux-gnux32-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for x86-64-linux-gnux32 target (debug symbols)
+
+binutils-xtensa-lx106/stable 2.44-3+6+b2 arm64
+  GNU binary utilities, for Xtensa lx106 core
+
+binutils-z80/stable 2.44-3+5+b1 arm64
+  GNU binary utilities for the z80-unknown-coff target
+
+cargo-binutils/stable 0.3.6-2+b1 arm64
+  Proxy for LLVM tools like llvm-nm, llvm-objdump and llvm-size
+
+faucc/stable 20180503-1.1+b1 arm64
+  C compiler generating Intel code for 16bit/32bit CPUs
+
+forensics-extra/stable 2.58 all
+  Forensics Environment - extra console components (metapackage)
+
+golang-github-google-pprof-dev/stable 0.0~git20211008.947d60d-1 all
+  pprof is a tool for visualization and analysis of profiling data
+
+hobbit-plugins/stable 20230301 all
+  plugins for the Xymon network monitor
+
+libbinutils/stable,now 2.44-3 arm64 [installed,automatic]
+  GNU binary utilities (private shared library)
+
+libbinutils-dbg/stable 2.44-3 arm64
+  GNU binary utilities (private shared library, debug symbols)
+
+librust-cargo-binutils-dev/stable 0.3.6-2+b1 arm64
+  Proxy for LLVM tools like llvm-nm, llvm-objdump and llvm-size - Rust source code
+
+pax/stable 1:20240817-1 arm64
+  Portable Archive Interchange (cpio, pax, tar)
+

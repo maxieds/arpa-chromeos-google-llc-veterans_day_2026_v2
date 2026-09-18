@@ -1,0 +1,128 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+asn/stable 0.78.0-1 all
+  network OSINT CLI ASN, RPKI, BGP, Geo, Recon, Trace
+
+batctl/stable 2025.0-2 arm64
+  B.A.T.M.A.N. advanced control and management tool
+
+dnsdiag/stable 2.6.0-1 all
+  DNS request auditing toolset
+
+dublin-traceroute/stable 0.4.2-3+b1 arm64
+  NAT-aware multipath tracerouting tool
+
+firewalk/stable 5.0-5+b2 arm64
+  active reconnaissance network security tool
+
+gnome-nettool/stable 42.0-2.1 arm64
+  network information tool for GNOME
+
+hipercontracer/stable 1.6.10-1+b1 arm64
+  Command-line programs for HiPerConTracer
+
+hipercontracer-trigger/stable 1.6.10-1+b1 arm64
+  Triggered HiPerConTracer service
+
+hp-search-mac/stable 0.1.5.2 all
+  Search for a MAC address on HP switches
+
+hping3/stable 3.a2.ds2-10.1 arm64
+  Active Network Smashing Tool
+
+inetutils-traceroute/stable 2:2.6-3+deb13u3 arm64
+  trace the IPv4 route to another host
+
+iputils-tracepath/stable 3:20240905-3 arm64
+  Tools to trace the network path to a remote host
+
+irssi-scripts/stable 20231031 all
+  collection of scripts for irssi
+
+lft/stable 3.91-2+b1 arm64
+  layer-four traceroute
+
+libdublintraceroute-dev/stable 0.4.2-3+b1 arm64
+  NAT-aware multipath tracerouting tool (dev)
+
+libdublintraceroute0/stable 0.4.2-3+b1 arm64
+  NAT-aware multipath tracerouting tool (library)
+
+libhipercontracer-dev/stable 1.6.10-1+b1 arm64
+  Development files for HiPerConTracer API library
+
+libhipercontracer1/stable 1.6.10-1+b1 arm64
+  API library of HiPerConTracer
+
+libnet-rawip-perl/stable 0.25-4+b2 arm64
+  Perl interface to lowlevel TCP/IP
+
+libnet-traceroute-perl/stable 1.15-3 all
+  traceroute(1) functionality in perl
+
+libnet-traceroute-pureperl-perl/stable 0.10-4 all
+  traceroute(1) functionality in perl via raw sockets
+
+libnet1/stable 1.3+dfsg-2 arm64
+  library for the construction and handling of network packets
+
+libnet1-dev/stable 1.3+dfsg-2 arm64
+  development files for libnet
+
+libnet1-doc/stable 1.3+dfsg-2 all
+  developers documentation files for libnet
+
+libscamperfile0-dev/stable 20211212-1.2+b1 arm64
+  development headers for scamper's binary dump file access library
+
+libscamperfile0t64/stable 20211212-1.2+b1 arm64
+  file access library for scamper's binary dump format
+
+mtr/stable 0.95-1.1+b2 arm64
+  Full screen ncurses and X11 traceroute tool
+
+mtr-tiny/stable 0.95-1.1+b2 arm64
+  Full screen ncurses traceroute tool
+
+ndisc6/stable 1.0.7-1+b1 arm64
+  IPv6 diagnostic tools
+
+netselect/stable 0.3.ds1-31 arm64
+  speed tester for choosing a fast network server
+
+netsniff-ng/stable 0.6.9-1 arm64
+  Linux network packet sniffer toolkit
+
+netwox/stable 5.39.0+dfsg-0.1 arm64
+  networking utilities
+
+netwox-doc/stable 5.39.0+dfsg-0.1 all
+  documentation for netwox toolbox
+
+python3-icmplib/stable 2.1.1-3 all
+  forge ICMP packets and make your own ping and traceroute
+
+ripe-atlas-tools/stable 3.1.0-0.1 all
+  command-line interface for RIPE Atlas
+
+ripe-atlas-tools-doc/stable 3.1.0-0.1 all
+  command-line interface for RIPE Atlas (documentation)
+
+scamper/stable 20211212-1.2+b1 arm64
+  parallel Internet measurement utility
+
+tcptraceroute/stable 1.5beta7+debian-4.2 arm64
+  traceroute implementation using TCP packets
+
+traceroute/stable 1:2.1.6-1 arm64
+  Traces the route taken by packets over an IPv4/IPv6 network
+
+trippy/stable 0.12.2+dfsg-1 arm64
+  TUI network diagnostic tool
+
+vpcs/stable 0.5b2-2.2+b1 arm64
+  virtual PC simulator for Dynamips
+

@@ -1,0 +1,317 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+ament-cmake/stable 2.7.2-2 all
+  CMake build system for ROS 2 ament packages
+
+ament-cmake-clang-format/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (clang_format)
+
+ament-cmake-clang-tidy/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (clang_tidy)
+
+ament-cmake-copyright/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (copyright checks)
+
+ament-cmake-core/stable 2.7.2-2 all
+  CMake build system for ROS 2 ament packages (Core functionality)
+
+ament-cmake-cppcheck/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (cppcheck)
+
+ament-cmake-cpplint/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (cpplint)
+
+ament-cmake-flake8/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (flake8)
+
+ament-cmake-googletest/stable 2.7.2-2 arm64
+  CMake build system for ROS 2 ament packages (Googletest extension)
+
+ament-cmake-lint-cmake/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (CMake linter)
+
+ament-cmake-mypy/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (mypy)
+
+ament-cmake-pep257/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (pydocstyle PEP-257 validator)
+
+ament-cmake-pycodestyle/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (pycodestyle PEP-8 validator)
+
+ament-cmake-pyflakes/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (pyflakes)
+
+ament-cmake-pytest/stable 2.7.2-2 all
+  CMake build system for ROS 2 ament packages (Pytest extension)
+
+ament-cmake-python/stable 2.7.2-2 all
+  CMake build system for ROS 2 ament packages (Python extension)
+
+ament-cmake-ros/stable 0.13.1-2 all
+  CMake build system for ROS 2 ament packages (ROS extension)
+
+ament-cmake-uncrustify/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (uncrustify)
+
+ament-cmake-xmllint/stable 0.19.1-1 all
+  CMake build system for ROS 2 ament packages (xmllint)
+
+bear/stable 3.1.6-1 arm64
+  generate compilation database for Clang tooling
+
+catkin/stable 0.8.10-17 all
+  Low-level build system macros and infrastructure for Robot OS
+
+catkin-lint/stable 1.6.25-1 all
+  Check Robot OS catkin packages for common errors
+
+cmake/stable 3.31.6-2 arm64
+  cross-platform, open-source make system
+
+cmake-curses-gui/stable 3.31.6-2 arm64
+  curses based user interface for CMake (ccmake)
+
+cmake-data/stable 3.31.6-2 all
+  CMake data files (modules, templates and documentation)
+
+cmake-doc/stable 3.31.6-2 all
+  extended documentation in various formats for CMake
+
+cmake-extras/stable 1.8-1 all
+  Extra CMake utility modules
+
+cmake-fedora/stable 2.9.3-0.1 all
+  Set of scripts and cmake modules that simplify the release process
+
+cmake-format/stable 0.6.13-6 all
+  source code formatter for cmake listfiles
+
+cmake-qt-gui/stable 3.31.6-2 arm64
+  Qt based user interface for CMake (cmake-gui)
+
+corrosion/stable 0.5.0-1 arm64
+  Tool for integrating rust with an existing CMake project
+
+cross-config/stable 2.6.20 all
+  autotools support for cross-compilation
+
+debmake-doc/stable 1.22-1 all
+  Guide for Debian Maintainers
+
+dh-cmake/stable 0.6.2 all
+  Debhelper programs for CMake projects
+
+ecbuild/stable 3.10.0-1 all
+  Build system for ECMWF software
+
+elpa-cmake-mode/stable 4.0.1+ds-1 all
+  Emacs major mode for editing CMake sources
+
+elpa-format-all/stable 0.6.0-2 all
+  Auto-format C, C++, JS, Python, Ruby and 50 other languages
+
+elpa-yasnippet-snippets/stable 1.1+dfsg-2 all
+  Andrea Crotti's official YASnippet snippets
+
+emscripten/stable 3.1.69+dfsg-3 all
+  LLVM-to-JavaScript Compiler
+
+extra-cmake-modules/stable 6.13.0-1 arm64
+  Extra modules and scripts for CMake
+
+extra-cmake-modules-doc/stable 6.13.0-1 all
+  Extra modules and scripts for CMake - documentation
+
+flatbuffers-compiler-dev/stable 23.5.26+dfsg-4 arm64
+  efficient cross platform serialization library - cmake files
+
+fp-utils/stable 3.2.2+dfsg-46 all
+  Free Pascal - utilities dependency package
+
+fp-utils-3.2.2/stable 3.2.2+dfsg-46 arm64
+  Free Pascal - utilities
+
+icmake/stable 13.02.00-1 arm64
+  Intelligent C-like MAKEr, or the ICce MAKE utility
+
+kdevelop-pg-qt/stable 2.4.0-1 arm64
+  LL(1) parser generator based on Qt
+
+libccd-dev/stable 2.1-2+b2 arm64
+  Library for collision detection between convex shapes - dev files
+
+libconsole-bridge-dev/stable 1.0.1+dfsg2-3+b2 arm64
+  console bridge - development files
+
+libconsole-bridge1.0/stable 1.0.1+dfsg2-3+b2 arm64
+  console bridge - library
+
+libdbusmenu-qt5-dev/stable 0.9.3+16.04.20160218-3+b1 arm64
+  Qt implementation of the DBusMenu protocol (development)
+
+libdlrestrictions-dev/stable 0.18.12 arm64
+  development files for the DLRestrictions library
+
+libear/stable 3.1.6-1 arm64
+  generate compilation database for Clang tooling (wrapper library)
+
+libecpint-dev/stable 1.0.7-4+b1 arm64
+  Effective Core Potentials integration library (development files)
+
+libgg-dev/stable 2.0.7-3 arm64
+  Computing gaussians on a grid (development files)
+
+libkf5auth-dev-bin/stable 5.116.0-1 arm64
+  Abstraction to system policy and authentication features
+
+libkf6auth-dev-bin/stable 6.13.0-1 arm64
+  Abstraction to system policy and authentication features
+
+libktorrent-dev/stable 25.04.0-2 arm64
+  development files for the KTorrent Library
+
+libleatherman-dev/stable 1.12.1+dfsg-1.3+b3 arm64
+  collection of C++ and CMake utility libraries - development files
+
+libleatherman1.12.1t64/stable 1.12.1+dfsg-1.3+b3 arm64
+  collection of C++ and CMake utility libraries - shared libraries
+
+libmarc-file-marcmaker-perl/stable 0.05-4 all
+  work with MARCMaker/MARCBreaker records
+
+libmartchus-c++utilities-dev/stable 5.28.0-1 arm64
+  useful C++ classes and routines used by Martchus' applications (headers)
+
+libmartchus-c++utilities5t64/stable 5.28.0-1 arm64
+  useful C++ classes and routines used by Martchus' applications
+
+libmrpt-common-dev/stable 1:2.14.7+ds-1 all
+  Mobile Robot Programming Toolkit - common development files
+
+liboaknut-dev/stable 1.2.2+git20240301.94c726c-2 arm64
+  C++20 assembler for AArch64
+
+libosrf-testing-tools-cpp-dev/stable 2.2.0+ds-1+b2 arm64
+  OSRF testing tools for ROS 2 (development files)
+
+libperformance-test-fixture-dev/stable 0.3.1-1+b3 arm64
+  Performance test fixture for ROS 2 benchmarks (development headers)
+
+librcpputils-dev/stable 2.13.2-1 arm64
+  C++ Utilities for ROS 2 (development headers)
+
+librcutils-dev/stable 6.9.4-1 arm64
+  C Utilities and Data Structures for ROS 2 (development headers)
+
+libresample1/stable 0.1.3-8 arm64
+  real-time audio resampling library - shared libraries
+
+libresample1-dev/stable 0.1.3-8 arm64
+  real-time audio resampling library - development files
+
+librkcommon1/stable 1.14.2-1 arm64
+  Intel RenderKit common C++/CMake infrastructure
+
+librosidl-runtime-c-cpp-dev/stable 3.3.1-1+b2 arm64
+  ROS 2 IDL support (C/C++ runtime library headers)
+
+librosidl-typesupport-interface-dev/stable 3.3.1-1 all
+  ROS 2 IDL support (typesupport interface headers)
+
+librosidl-typesupport-introspection-c-cpp-dev/stable 3.3.1-1+b2 arm64
+  ROS 2 IDL support (C/C++ type introspection headers)
+
+librust-cmake-dev/stable 0.1.45-1+b2 arm64
+  Build dependency for running `cmake` to build a native library - Rust source code
+
+libtd-shim/stable 1.8.38~git20241021.d321984+dfsg-4 arm64
+  telegram database library (version-independent CMake shim)
+
+liburdfdom-dev/stable 4.0.0-3+b1 arm64
+  URDF DOM - development files
+
+pd.build-cmake-module/stable 0.1.1~ds1-5 all
+  Pure Data CMake Module
+
+psi-plus-plugins-dev/stable 1.4.1456-2.1 all
+  development files for Psi+ plugins
+
+python3-ament-cmake-google-benchmark/stable 2.7.2-2 arm64
+  Python 3 module for Google Benchmark in ROS 2 ament packages
+
+python3-ament-cmake-test/stable 2.7.2-2 all
+  Python 3 module for tests in ROS 2 ament packages
+
+python3-ament-lint-cmake/stable 0.19.1-1 all
+  Python 3 module for linting CMake files in ROS 2 ament packages
+
+python3-catkin/stable 0.8.10-17 all
+  Python 3 modules for the ROS build system
+
+python3-catkin-pkg/stable 1.0.0-2 all
+  Low-level build system macros for Robot OS -- Python 3 module
+
+python3-cmake-build-extension/stable 0.6.1-2 all
+  Setuptools extension to build and package CMake projects
+
+python3-colcon-cmake/stable 0.2.29-1 all
+  collective construction meta build tool - CMake extension
+
+python3-glad/stable 2.0.2-0.1 all
+  GL/GLES/EGL/GLX/WGL Loader-Generator (Python 3)
+
+python3-project-generator/stable 0.12.0-2 all
+  project generators for various embedded tools (IDE)
+
+python3-scikit-build-core/stable 0.11.1-3 all
+  Python package build systems and CMake integration (Python 3)
+
+python3-skbuild/stable 0.18.1-2 all
+  improved build system generator for Python C/C++/Fortran/Cython extensions
+
+python3-sphinxcontrib.moderncmakedomain/stable 3.29.0-1 all
+  Sphinx domain for Modern CMake (Python 3)
+
+rocm-cmake/stable 6.3.2-1 all
+  AMD ROCm CMake modules
+
+ros-cmake-modules/stable 0.5.0-3 all
+  Robot OS CMake Modules
+
+ros-message-generation/stable 0.4.1-6 all
+  Generates build-time messaging dependencies for Robot OS packages
+
+ros-message-runtime/stable 0.4.13-6 arm64
+  Generates runtime messaging dependencies for Robot OS package
+
+ros-mk/stable 1.15.8-7 all
+  Robot OS make file helpers
+
+rosidl-cmake/stable 3.3.1-1 all
+  CMake module for ROS 2 IDL support
+
+rpavlik-cmake-modules/stable 0.0~git20231201.03239c6-1.1 all
+  Rylie's CMake Modules Collection
+
+uranium-tools/stable 5.0.0-7 all
+  application framework for Cura (development tools)
+
+vim-syntastic/stable 3.10.0-3 all
+  Syntax checking hacks for vim
+
+xeus-dev/stable 5.1.1-0.1 arm64
+  C++ Implementation of the Jupyter Kernel protocol (headers)
+
+xeus-zmq-dev/stable 3.1.0-0.3 arm64
+  ZeroMQ middleware for xeus (headers)
+
+xmake/stable 2.9.9+ds-1 arm64
+  cross-platform build utility based on Lua
+
+xmake-data/stable 2.9.9+ds-1 all
+  Data for xmake
+

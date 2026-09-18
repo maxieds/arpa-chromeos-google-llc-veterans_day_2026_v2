@@ -1,0 +1,58 @@
+zipdetails [OPTIONS] file
+
+Display details about the internal structure of a Zip file.
+
+OPTIONS
+
+  General Options
+     -h, --help
+            Display help
+     --redact
+            Hide filename and payload data in the output
+     --scan
+            Enable pessimistic scanning mode.
+            Blindly scan the file looking for zip headers
+            Expect false-positives.
+     --utc
+            Display date/time fields in UTC. Default is local time
+     -v
+            Enable verbose mode -- output more stuff
+     --version
+            Print zipdetails version number
+            This is version 4.004
+     --walk
+            Enable optimistic scanning mode.
+            Blindly scan the file looking for zip headers
+            Expect false-positives.
+
+  Filename/Comment Encoding
+    --encoding e
+            Use encoding "e" when reading filename/comments from the zip file
+            Uses system encoding ('utf-8-strict') by default
+    --no-encoding
+            Disable filename & comment encoding. Default disabled.
+    --output-encoding e
+            Use encoding "e" when writing filename/comments to the display
+            Uses system encoding ('utf-8-strict') by default
+    --debug-encoding
+            Display eatra info when a filename/comment encoding has changed
+    --language-encoding, --no-language-encoding
+            Enable/disable support for the zip file "Language Encoding" flag.
+            When this flag is set in a zip file the filename/comment is assumed
+            to be encoded in UTF8.
+            Default is enabled
+
+  Message Control
+     --messages, --no-messages
+            Enable/disable all info/warning/error messages. Default enabled.
+     --exit-bitmask, --no-exit-bitmask
+            Enable/disable exit status bitmask for messages. Default disabled.
+            Bitmask values are
+                Info    1
+                Warning 2
+                Error   4
+
+Copyright (c) 2011-2024 Paul Marquess. All rights reserved.
+
+This program is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself.

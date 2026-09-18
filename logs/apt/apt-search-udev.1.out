@@ -1,0 +1,236 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+adb/stable 1:34.0.5-12 arm64
+  Android Debug Bridge
+
+amazon-ec2-net-utils/stable 2.4.1-2 all
+  utilities for managing network interfaces in Amazon EC2
+
+amazon-ec2-utils/stable 2.1.0-1.1 all
+  Utilities to manage Amazon EC2 instance storage
+
+android-udev-rules/stable 0~20250314+ds-5 all
+  udev rules for Android tools
+
+azure-vm-utils/stable 0.6.0-2 arm64
+  Core utilities and configuration for Linux VMs on Azure
+
+bcache-tools/stable 1.0.8-5+b1 arm64
+  bcache userspace tools
+
+bilibop-rules/stable 0.6.5 all
+  device management rules for OS running from external media
+
+bilibop-udev/stable 0.6.5 all
+  minimal udev rule for Debian GNU/Linux running from external media
+
+brightness-udev/stable 0.5.1-3.1 all
+  Control backlight brightness - udev rules
+
+chiark-utils-bin/stable 8.0.1 arm64
+  chiark system administration utilities
+
+cros-pipe-config/stable 0.1.0 all
+  PipeWire helper for ChromiumOS integration
+
+cros-wayland/stable,now 0.11 all [installed]
+  Wayland extras for virtwl in Chromium OS
+
+dahdi-linux/stable 1:3.1.0+git20230717~dfsg-10.1 all
+  DAHDI telephony interface - Linux userspace parts
+
+dracut/stable 106-6 all
+  Initramfs generator using udev
+
+dracut-core/stable 106-6 arm64
+  dracut is an event driven initramfs infrastructure (core tools)
+
+driverctl/stable 0.115-2 all
+  Device driver control utility for Linux
+
+elpa-yasnippet-snippets/stable 1.1+dfsg-2 all
+  Andrea Crotti's official YASnippet snippets
+
+fastboot/stable 1:34.0.5-12 arm64
+  Android fastboot tool
+
+gir1.2-gudev-1.0/stable 238-6 arm64
+  libgudev-1.0 introspection data
+
+golang-debian-vasudev-gospake2-dev/stable 0.2.1-2 all
+  Go SPAKE2 Implementation (library)
+
+golang-gir-gudev-1.0-dev/stable 2.2.0-1 all
+  gudev-1.0 go bindings (library)
+
+golang-github-jochenvg-go-udev-dev/stable 0.0~git20240801.b65ed64-1 all
+  Go bindings for libudev (library)
+
+input-remapper-daemon/stable 2.1.1-1+deb13u1 all
+  Input device button mapping tool (daemon)
+
+interception-tools/stable 0.6.8-3+b5 arm64
+  minimal composable infrastructure on top of libudev and libevdev
+
+interception-tools-compat/stable 0.6.8-3 all
+  minimal composable infrastructure on top of libudev and libevdev
+
+kodi-peripheral-xarcade/stable 21.0.2-2 arm64
+  X-Arcade Tankstick driver for Kodi
+
+ledger-wallets-udev/stable 0.3+nmu1 all
+  udev rules for Ledger wallets
+
+libconvert-uulib-perl/stable 1:1.8+dfsg-2 arm64
+  Perl interface to the uulib library (a.k.a. uudeview/uuenview)
+
+libeeze-bin/stable 1.28.1-1 arm64
+  EFL udev device manipulation - utilities
+
+libeeze1/stable 1.28.1-1 arm64
+  EFL udev device manipulation
+
+libgmobile-common/stable 0.3.1-1 all
+  common files for the gmobile library
+
+libgnome-desktop-4-2t64/stable 44.3-3 arm64
+  Utility library for the GNOME desktop - runtime files
+
+libgpod-common/stable 0.8.3-22+b1 arm64
+  common files for libgpod
+
+libgudev-1.0-0/stable,now 238-6 arm64 [installed,automatic]
+  GObject-based wrapper library for libudev
+
+libgudev-1.0-dev/stable 238-6 arm64
+  libgudev-1.0 development files
+
+libinput-bin/stable 1.28.1-1+deb13u1 arm64 [upgradable from: 1.28.1-1]
+  input device management and event handling library - udev quirks
+
+libirecovery-common/stable 1.2.1-1 all
+  Common files for libirecovery
+
+libmtp-common/stable 1.1.22-1 all
+  Media Transfer Protocol (MTP) common files
+
+libmtp-runtime/stable 1.1.22-1 arm64
+  Media Transfer Protocol (MTP) runtime tools
+
+librem5-tweaks/stable 8 all
+  Default configuration settings for the Librem-5
+
+librte-gpudev25/stable 24.11.4-0+deb13u1 arm64
+  Data Plane Development Kit (librte-gpudev runtime library)
+
+librust-libudev-dev/stable 0.3.0-1+b3 arm64
+  Rust wrapper for libudev - Rust source code
+
+librust-libudev-sys-dev/stable 0.1.4-1+b2 arm64
+  FFI bindings to libudev - Rust source code
+
+librust-udev-dev/stable 0.9.1-1 arm64
+  Libudev bindings for Rust - Rust source code
+
+librust-udevrs-dev/stable 0.3.0-4 arm64
+  Pure Rust implementation of the user-land udev library - Rust source code
+
+libu2f-udev/stable 1.1.10-3.2 all
+  Universal 2nd Factor (U2F) — transitional package
+
+libudev-dev/stable 257.13-1~deb13u1 arm64
+  libudev development files
+
+libudev0/stable 200-1+b2 arm64
+  compatibility wrapper for libudev version 0
+
+libudev1/stable,now 257.13-1~deb13u1 arm64 [installed]
+  libudev shared library
+
+libyubikey-udev/stable 1.20.0-5 all
+  udev rules for unprivileged access to YubiKeys
+
+limesuite-udev/stable 23.11.0+dfsg-3 all
+  Lime Suite - USB rules for udev
+
+ludevit/stable 9.2-1.1 all
+  converter from standard Slovak into the L. Štúr version
+
+media-player-info/stable 26-1 all
+  Media player identification files
+
+pcmciautils/stable 018-18 arm64
+  PCMCIA utilities for Linux 2.6
+
+python3-pyudev/stable 0.24.3-1 all
+  Python3 bindings for libudev
+
+python3-usbmonitor/stable 1.23-2 all
+  Library to simplify USB device monitoring
+
+reform-tools/stable 1.71-2+deb13u1 all
+  MNT System Tools for MNT Reform and MNT Pocket Reform
+
+rpi.gpio-common/stable 0.7.1~a4-1.2 arm64
+  Module to control Raspberry Pi GPIO channels (common files)
+
+scanbd/stable 1.5.1-7+b2 arm64
+  Scanner button daemon
+
+sg3-utils-udev/stable 1.48-2 all
+  utilities for devices using the SCSI command set (udev rules)
+
+spacefm/stable 1.0.6-9 arm64
+  Multi-panel tabbed file manager
+
+steam-devices/stable 1:1.0.0.83~ds-3 all
+  Device support for Steam-related hardware
+
+stlink-tools/stable 1.8.0-1.1 arm64
+  OpenSource ST-Link tools replacement.
+
+system-config-printer-udev/stable 1.5.18-4 arm64
+  Utilities to detect and configure printers automatically
+
+systemd-dev/stable 257.13-1~deb13u1 all
+  systemd development files
+
+tillitis-tkey-udev/stable 1.0.0+ds-4 all
+  Tillitis TKey udev rule
+
+tpm-udev/stable,now 0.6+nmu1 all [installed,automatic]
+  udev rules for TPM modules
+
+trezor/stable 0.13.10-2 all
+  utilities for communicating with TREZOR Bitcoin HW wallet
+
+triggerhappy/stable 0.5.0-1.1+b4 arm64
+  global hotkey daemon for Linux
+
+udev/stable,now 257.13-1~deb13u1 arm64 [installed]
+  /dev/ and hotplug management daemon
+
+udevil/stable 0.4.4-4 arm64
+  Alternative storage media interface
+
+usbmuxd/stable 1.1.1-6+deb13u1 arm64
+  USB multiplexor daemon for iPhone and iPod Touch devices
+
+uudeview/stable 0.5.20+20250228-1 arm64
+  Smart multi-file multi-part decoder (command line)
+
+x2gothinclient-smartcardrules/stable 1.5.0.1-10.2 all
+  UDEV rules for smartcard readers
+
+x2gothinclient-usbmount/stable 1.5.0.1-10.2 all
+  clientside usb mass-storage device mounting
+
+xinput-calibrator/stable 0.8.0-1 arm64
+  Generic touchscreen calibration program for X.Org
+
+xr-hardware/stable 1.1.1-1 all
+  udev rules files for normal user access to XR input devices
+

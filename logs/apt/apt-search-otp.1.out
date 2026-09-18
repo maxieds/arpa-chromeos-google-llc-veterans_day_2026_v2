@@ -1,0 +1,1238 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+baloo6/stable 6.13.0-1 arm64
+  framework for file search and metadata management
+
+biometric-auth/stable 0.9.72-1 arm64
+  Biometric Authentication Service
+
+blackbox-terminal/stable 0.14.0-5 arm64
+  BlackBox Terminal Emulator
+
+blosxom/stable 2.1.2-2.2 all
+  light, feature-packed weblog app with plugin extensibility
+
+bootp/stable 2.4.3-21.1 arm64
+  server for the bootp protocol with DHCP support
+
+bootparamd/stable 0.17-14 arm64
+  Boot parameter server
+
+bootpc/stable 0.64-10 arm64
+  Client to connect to a boot protocol (bootp) server
+
+bowtie/stable 1.3.1-3+b2 arm64
+  Ultrafast memory-efficient short read aligner
+
+bowtie-examples/stable 1.3.1-3 all
+  Examples for bowtie, the ultrafast memory-efficient short read aligner
+
+bowtie2/stable 2.5.4-1+b2 arm64
+  ultrafast memory-efficient short read aligner
+
+bowtie2-examples/stable 2.5.4-1 all
+  Examples for bowtie2
+
+can-utils/stable 2023.03-1+b2 arm64
+  SocketCAN userspace utilities and tools
+
+conmon/stable 2.1.12-4 arm64
+  OCI container runtime monitor
+
+cotp/stable 1.9.2-1+b3 arm64
+  Trustworthy, encrypted, command-line TOTP/HOTP authenticator app with import functionality.
+
+courier-imap/stable 5.2.11+1.4.1-3+deb13u2 arm64
+  Courier mail server - IMAP server
+
+cpanminus/stable 1.7048-1 all
+  script to get, unpack, build and install modules from CPAN
+
+darkstat/stable 3.0.721-2 arm64
+  network traffic analyzer
+
+dav-text/stable 0.9.0-3+b1 arm64
+  minimalist ncurses-based text editor
+
+dhcp-helper/stable 1.2-3.3 arm64
+  A DHCP relay agent
+
+dhcp-probe/stable 1.3.1-1 arm64
+  network DHCP or BootP server discover
+
+dillo/stable 3.0.5-7.1 arm64
+  Small and fast web browser
+
+dnsmasq/stable 2.91-1+deb13u1 all
+  Small caching DNS proxy and DHCP/TFTP server - system daemon
+
+driverctl/stable 0.115-2 all
+  Device driver control utility for Linux
+
+duktape/stable 2.7.0-2+b2 arm64
+  embeddable Javascript engine
+
+duktape-dev/stable 2.7.0-2+b2 arm64
+  embeddable Javascript engine, development files
+
+ejabberd-mod-shcommands/stable 0.2025.01.11~dfsg0-2+deb13u2 arm64
+  ejabberd module to execute shell commands via XMPP (dangerous!)
+
+elixir-nimble-parsec/stable 1.4.2-1 arm64
+  simple and fast library for text-based parser combinators
+
+elpa-fsm/stable 0.2.1-5 all
+  state machine library
+
+ephoto/stable 1.6.0-1+b2 arm64
+  Comprehensive Image Viewer Using EFL
+
+erlang/stable 1:27.3.4.1+dfsg-1+deb13u2 all
+  Concurrent, real-time, distributed functional language
+
+erlang-asn1/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP modules for ASN.1 support
+
+erlang-base/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP virtual machine and base applications
+
+erlang-bbmustache/stable 1.12.2-1 arm64
+  Binary pattern match Based Mustache template engine for Erlang/OTP
+
+erlang-cf/stable 0.3.1-1+b1 arm64
+  Erlang/OTP library for termial colour printing
+
+erlang-common-test/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP application for automated testing
+
+erlang-crypto/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP cryptographic modules
+
+erlang-debugger/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP application for debugging and testing
+
+erlang-dev/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP development libraries and headers
+
+erlang-dialyzer/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP discrepancy analyzer application
+
+erlang-diameter/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP implementation of RFC 6733 protocol
+
+erlang-doc/stable 1:27.3.4.1+dfsg-1+deb13u2 all
+  Erlang/OTP HTML documentation
+
+erlang-edoc/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP module for generating documentation
+
+erlang-eldap/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP LDAP library
+
+erlang-et/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP event tracer application
+
+erlang-eunit/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP module for unit testing
+
+erlang-examples/stable 1:27.3.4.1+dfsg-1+deb13u2 all
+  Erlang/OTP application examples
+
+erlang-ftp/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP FTP client
+
+erlang-inets/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP Internet clients and servers
+
+erlang-luerl/stable 1:1.2.3-1+b1 arm64
+  implementation of Lua in Erlang
+
+erlang-megaco/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP implementation of Megaco/H.248 protocol
+
+erlang-mnesia/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP distributed relational/object hybrid database
+
+erlang-mode/stable 1:27.3.4.1+dfsg-1+deb13u2 all
+  Erlang major editing mode for Emacs
+
+erlang-nox/stable 1:27.3.4.1+dfsg-1+deb13u2 all
+  Erlang/OTP applications that don't require X Window System
+
+erlang-observer/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP application for investigating distributed systems
+
+erlang-odbc/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP interface to SQL databases
+
+erlang-os-mon/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP operating system monitor
+
+erlang-p1-acme/stable 1.0.25-1 arm64
+  ACME client library for Erlang
+
+erlang-p1-cache-tab/stable 1.0.31-2 arm64
+  in-memory cache application for Erlang / Elixir apps
+
+erlang-p1-mqtree/stable 1.0.17-2 arm64
+  index tree for MQTT topic filters
+
+erlang-p1-mysql/stable 1.0.25-1 arm64
+  pure Erlang MySQL driver
+
+erlang-p1-pam/stable 1.0.14-3 arm64
+  pam authentication and accounting management for Erlang
+
+erlang-p1-pgsql/stable 1.1.31-1 arm64
+  Pure Erlang PostgreSQL driver
+
+erlang-p1-sip/stable 1.0.56-1 arm64
+  SIP library for Erlang
+
+erlang-p1-stringprep/stable 1.0.30-2 arm64
+  erlang interface to stringprep
+
+erlang-p1-stun/stable 1.2.15-1 arm64
+  STUN library for Erlang
+
+erlang-p1-utils/stable 1.0.26-2 arm64
+  set of small Erlang libraries
+
+erlang-p1-xml/stable 1.1.55-1 arm64
+  XML utilities for Erlang
+
+erlang-p1-xmpp/stable 1.9.4-1 arm64
+  Erlang/Elixir XMPP parsing and serialization library
+
+erlang-p1-yaml/stable 1.0.37-2 arm64
+  erlang wrapper for libyaml C library
+
+erlang-p1-yconf/stable 1.0.17-1 arm64
+  YAML configuration processor
+
+erlang-p1-zlib/stable 1.0.13-2 arm64
+  erlang interface to zlib
+
+erlang-parsetools/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP parsing tools
+
+erlang-public-key/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP public key infrastructure
+
+erlang-reltool/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP release management tool
+
+erlang-runtime-tools/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP runtime tracing/debugging tools
+
+erlang-snmp/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP SNMP applications
+
+erlang-src/stable 1:27.3.4.1+dfsg-1+deb13u2 all
+  Erlang/OTP applications sources
+
+erlang-ssh/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP implementation of SSH protocol
+
+erlang-ssl/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP implementation of SSL
+
+erlang-syntax-tools/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP modules for handling abstract Erlang syntax trees
+
+erlang-tftp/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP TFTP client and server
+
+erlang-tools/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP various tools
+
+erlang-wx/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP bindings to wxWidgets
+
+erlang-x11/stable 1:27.3.4.1+dfsg-1+deb13u2 all
+  Erlang/OTP applications that require X Window System
+
+erlang-xmerl/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP XML tools
+
+esptool/stable 4.7.0+dfsg-0.1 all
+  create and flash firmware files to ESP8266 and ESP32 chips
+
+flamerobin/stable 0.9.13.ds.2-2 arm64
+  graphical database administration tool for Firebird DBMS
+
+fluidr3mono-gm-soundfont/stable 2.315-7 all
+  Fluid (R3) Mono GM SoundFont from MuseScore 2.1 (lossy)
+
+flvmeta/stable 1.2.2-1 arm64
+  Metadata injector for FLV video files
+
+fml-asm/stable 0.1+git20221215.85f159e-1 arm64
+  tool for assembling Illumina short reads in small regions
+
+fonts-wqy-microhei/stable 0.2.0-beta-4 all
+  Sans-serif style CJK font derived from Droid
+
+fvwm-icons/stable 20070101-7 all
+  icon *.xpm files from fvwm development site
+
+fvwm3/stable 1.1.2+ds-1 arm64
+  F(?) Virtual Window Manager
+
+fxload/stable 0.0.20081013-3 arm64
+  Firmware download to EZ-USB devices
+
+glewlwyd/stable 2.7.6+ds-3 arm64
+  Experimental Single-Sign-On server with multiple factor authentication
+
+glewlwyd-common/stable 2.7.6+ds-3 all
+  Experimental Single-Sign-On server - common files
+
+gnome-authenticator/stable 4.6.2-6 arm64
+  TOTP authentication app for the GNOME Desktop
+
+gnome-pass-search-provider/stable 1.4.0-1 all
+  GNOME Shell search provider for the pass password manager
+
+golang-github-julienschmidt-httprouter-dev/stable 1.3.0-2 all
+  High performance HTTP request router for Go that scales well
+
+golang-github-pquerna-otp-dev/stable 1.5.0+really1.3.0-1 all
+  Google Authenticator compatible one time passwords for Go
+
+golang-github-xlzd-gotp-dev/stable 0.0~git20181030.c8557ba-3 all
+  Golang OTP (One-Time Password) Library
+
+gradle-completion/stable 1.3.1-1.1 all
+  Bash and Zsh completion support for Gradle
+
+grub-ipxe/stable 1.21.1+git20250501.dad20602+dfsg-1 arm64
+  Network booting using iPXE
+
+integrit/stable 4.1-7+b13 arm64
+  file integrity verification program
+
+ipxe/stable 1.21.1+git20250501.dad20602+dfsg-1 all
+  PXE boot firmware
+
+ipxe-qemu/stable 1.21.1+git20250501.dad20602+dfsg-1 all
+  PXE boot firmware - ROM images for qemu
+
+isc-dhcp-client/stable 4.4.3-P1-8 arm64
+  DHCP client for automatically obtaining an IP address (deprecated)
+
+isc-dhcp-client-ddns/stable 4.4.3-P1-8 arm64
+  Dynamic DNS (DDNS) enabled DHCP client (deprecated)
+
+isc-dhcp-relay/stable 4.4.3-P1-8 arm64
+  ISC DHCP relay daemon (deprecated)
+
+isc-dhcp-server/stable 4.4.3-P1-8 arm64
+  ISC DHCP server for automatic IP address assignment (deprecated)
+
+isc-dhcp-server-ldap/stable 4.4.3-P1-8 arm64
+  DHCP server that uses LDAP as its backend (deprecated)
+
+jameica-h2database/stable 1.4.199-1 all
+  H2 Database Engine (jameica version)
+
+jimsh/stable 0.83-2 arm64
+  small-footprint implementation of Tcl named Jim
+
+jsxgraph/stable 1.10.1+dfsg1-1 all
+  Interactive Geometry with JavaScript
+
+kanshi/stable 1.5.1-2+b1 arm64
+  Define output profiles that are automatically enabled and disabled on hotplug
+
+keysmith/stable 25.04.0-1 arm64
+  OTP client for Plasma Mobile and Desktop
+
+kicad/stable 9.0.2+dfsg-1 arm64
+  Electronic schematic and PCB design software
+
+kicad-doc-de/stable 9.0.2+dfsg-1 all
+  Kicad help files (German)
+
+kicad-doc-en/stable 9.0.2+dfsg-1 all
+  Kicad help files (English)
+
+kicad-doc-es/stable 9.0.2+dfsg-1 all
+  Kicad help files (Spanish)
+
+kicad-doc-fr/stable 9.0.2+dfsg-1 all
+  Kicad help files (French)
+
+kicad-doc-it/stable 9.0.2+dfsg-1 all
+  Kicad help files (Italian)
+
+kicad-doc-ja/stable 9.0.2+dfsg-1 all
+  Kicad help files (Japanese)
+
+kicad-doc-pl/stable 9.0.2+dfsg-1 all
+  Kicad help files (Polish)
+
+kicad-doc-ru/stable 9.0.2+dfsg-1 all
+  Kicad help files (Russian)
+
+kicad-doc-zh/stable 9.0.2+dfsg-1 all
+  Kicad help files (Chinese)
+
+kicad-footprints/stable 9.0.2-1 all
+  Footprint symbols for KiCad's Pcbnew
+
+kicad-libraries/stable 9.0.2+dfsg-1 all
+  Virtual package providing common used libraries by kicad
+
+kicad-packages3d/stable 9.0.2-1 all
+  3D models for 3D viewer in KiCad's Pcbnew and Footprint Editor
+
+krb5-otp/stable 1.21.3-5+deb13u1 arm64
+  OTP plugin for MIT Kerberos
+
+kscreen/stable 4:6.3.6-1 arm64
+  KDE monitor hotplug and screen handling
+
+lemonbar/stable 1.5-1 arm64
+  lightweight bar based on XCB
+
+lf/stable 34+ds-2+b1 arm64
+  terminal file manager written in Go
+
+libacexml-8.0.2/stable 8.0.2+dfsg-2 arm64
+  ACE SAX based XML parsing library
+
+libanyevent-yubico-perl/stable 0.9.3-2 all
+  Perl module for validating YubiKey OTPs in AnyEvent applications
+
+libart-2.0-2/stable 2.3.21-4+b2 arm64
+  Library of functions for 2D graphics - runtime files
+
+libart-2.0-dev/stable 2.3.21-4+b2 arm64
+  Library of functions for 2D graphics - development files
+
+libauth-googleauth-perl/stable 1.07-1 all
+  Google Authenticator TOTP Abstraction
+
+libauthen-oath-perl/stable 2.0.1-2 all
+  Perl module for OATH One Time Passwords
+
+libbearssl-dev/stable 0.6+dfsg.1-4 arm64
+  BearSSL - development files
+
+libbearssl0/stable 0.6+dfsg.1-4 arm64
+  BearSSL - shared libraries
+
+libbpf-tools/stable 0.31.0+ds-7 arm64
+  tools for BPF Compiler Collection based on libbpf (BTF and CO-RE)
+
+libcbor0.10/stable,now 0.10.2-2 arm64 [installed,automatic]
+  library for parsing and generating CBOR (RFC 7049)
+
+libclass-accessor-classy-perl/stable 0.9.1-4 all
+  Perl module providing minimalist, fast accessors
+
+libconfig++-dev/stable 1.7.3-2 arm64
+  parsing/manipulation of structured config files (C++ development)
+
+libconfig-dev/stable 1.7.3-2 arm64
+  parsing/manipulation of structured config files (development)
+
+libcotp-dev/stable 3.1.0-1 arm64
+  C library that generates TOTP and HOTP (development)
+
+libcotp3/stable 3.1.0-1 arm64
+  C library that generates TOTP and HOTP
+
+libderby-java/stable 10.14.2.0-3 all
+  Apache Derby Database Engine and Embedded JDBC Driver
+
+libduktape207/stable,now 2.7.0-2+b2 arm64 [installed,automatic]
+  embeddable Javascript engine, library
+
+libevhtp0t64/stable 1.2.18-2.1+b2 arm64
+  Libevent based HTTP API
+
+libexecs-embedded1/stable 1.4-2+b2 arm64
+  C library for commands execution - low memory footprint
+
+libezmorph-java/stable 1.0.6-4 all
+  Java library for transforming an Object to another Object
+
+libfastutil-java/stable 8.5.15+dfsg-1 all
+  Java API providing type-specific maps, sets, lists and queues
+
+libfastutil-java-doc/stable 8.5.15+dfsg-1 all
+  API documentation for libfastutil-java
+
+libghc-emojis-dev/stable 0.1.4.1-1+b1 arm64
+  Conversion between emoji characters and their names
+
+libghc-emojis-doc/stable 0.1.4.1-1 all
+  Conversion between emoji characters and their names; documentation
+
+libghc-emojis-prof/stable 0.1.4.1-1+b1 arm64
+  Conversion between emoji characters and their names; profiling libraries
+
+libghc-hsyaml-dev/stable 0.2.1.4-2 arm64
+  pure Haskell YAML 1.2 processor - libraries
+
+libghc-hsyaml-doc/stable 0.2.1.4-2 all
+  pure Haskell YAML 1.2 parser - library documentation
+
+libghc-hsyaml-prof/stable 0.2.1.4-2 arm64
+  pure Haskell YAML 1.2 processor - profiling libraries
+
+libghc-text-short-dev/stable 0.1.6-1+b1 arm64
+  memory-efficient representation of Unicode text strings
+
+libghc-text-short-doc/stable 0.1.6-1 all
+  memory-efficient representation of Unicode text strings; documentation
+
+libghc-text-short-prof/stable 0.1.6-1+b1 arm64
+  memory-efficient representation of Unicode text strings; profiling libraries
+
+libgossip-java/stable 1.8-3 all
+  Small and fast logging provider for SLF4J
+
+libgral-java/stable 0.11-2 all
+  Java library for displaying plots (graphs, diagrams, and charts)
+
+libh2-java/stable 2.2.220-1 all
+  H2 Database Engine
+
+libhttpcore-java/stable 4.4.16-1 all
+  set of low level HTTP transport components for Java
+
+libhttpcore5-java/stable 5.2.2-1 all
+  set of low level HTTP transport components for Java
+
+libistack-commons-java/stable 3.0.6-5 all
+  Common code for some Glassfish projects
+
+libjim-dev/stable 0.83-2 arm64
+  small-footprint implementation of Tcl - development files
+
+libjim0.83/stable 0.83-2 arm64
+  small-footprint implementation of Tcl - shared library
+
+libjs-expect.js/stable 0.3.1+dfsg+~0.3.29-2 all
+  behavior driven test assertions - JavaScript library
+
+libjs-iscroll/stable 5.2.0+dfsg1-2 all
+  High performance, small footprint JavaScript scroller
+
+libjs-spin.js/stable 1.2.8+dfsg2-1.1 all
+  animated CSS3 loading spinner
+
+libjsmn-dev/stable 1.1.0-2 all
+  header-only JSON library
+
+libjsonparser-dev/stable 1.1.0-2+b2 arm64
+  Very low footprint JSON parser written in portable ANSI C - development headers
+
+libjsonparser1.1/stable 1.1.0-2+b2 arm64
+  Very low footprint JSON parser written in portable ANSI C
+
+libkf6baloo-dev/stable 6.13.0-1 arm64
+  framework for file search and metadata management - development files
+
+libkf6baloo-doc/stable 6.13.0-1 all
+  framework for file search and metadata management - developer documentation
+
+libkf6baloo6/stable 6.13.0-1 arm64
+  framework for file search and metadata management - shared library
+
+libkf6balooengine6/stable 6.13.0-1 arm64
+  framework for file search and metadata management - internal library
+
+liblcms2-2/stable,now 2.16-2+deb13u2 arm64 [installed,automatic]
+  Little CMS 2 color management library
+
+liblcms2-dev/stable 2.16-2+deb13u2 arm64
+  Little CMS 2 color management library development headers
+
+liblcms2-utils/stable 2.16-2+deb13u2 arm64
+  Little CMS 2 color management library (utilities)
+
+liblog-any-perl/stable 1.717-1 all
+  Perl module to log messages safely and efficiently
+
+liblz4-java/stable 1.8.0-4 all
+  LZ4 compression for Java
+
+liblz4-jni/stable 1.8.0-4+b1 arm64
+  LZ4 compression for Java (JNI library)
+
+libminini-dev/stable 1.5+ds-1 arm64
+  minimal INI file parser - development headers
+
+libminini1t64/stable 1.5+ds-1 arm64
+  minimal INI file parser
+
+libminiupnpc-dev/stable 2.2.8-2+b2 arm64
+  UPnP IGD client lightweight library development files
+
+libminiupnpc18/stable 2.2.8-2+b2 arm64
+  UPnP IGD client lightweight library
+
+libmjson-java/stable 1.4.0-3 all
+  lean JSON Library for Java with a compact API
+
+libnet-inet6glue-perl/stable 0.604-1 all
+  glue module to make perl modules IPv6 ready
+
+libnss-tls/stable 1.1-3+b3 arm64
+  NSS module for encrypted DNS name resolution
+
+liboath-dev/stable 2.6.12-1 arm64
+  Development files for the OATH Toolkit Liboath library
+
+liboath0t64/stable 2.6.12-1 arm64
+  OATH Toolkit Liboath library
+
+libotp0t64-heimdal/stable 7.8.git20221117.28daf24+dfsg-9+deb13u1 arm64
+  Heimdal Kerberos - OTP support library
+
+libotpw-dev/stable 1.5-3+b2 arm64
+  OTPW library development files and documentation
+
+libpam-barada/stable 0.5.3-1 arm64
+  PAM module to provide two-factor authentication based on HOTP
+
+libpam-google-authenticator/stable 20191231-2.1+b1 arm64
+  Two-step verification
+
+libpam-oath/stable 2.6.12-1 arm64
+  OATH Toolkit libpam_oath PAM module
+
+libpam-otpw/stable 1.5-3+b2 arm64
+  Use OTPW for PAM authentication
+
+libpam-yubico/stable 2.27-1+b2 arm64
+  two-factor password and YubiKey OTP PAM module
+
+libpass-otp-perl/stable 1.801-1 all
+  Perl implementation of HOTP / TOTP algorithms
+
+libpdf-create-perl/stable 1.46-3 all
+  Perl module to create PDF files
+
+libproc-fastspawn-perl/stable 1.2-2+b4 arm64
+  module to fork+exec, or spawn, a subprocess as quickly as possible
+
+libpskc-dev/stable 2.6.12-1 arm64
+  Development files for the OATH Toolkit Libpskc library
+
+libpskc0t64/stable 2.6.12-1 arm64
+  OATH Toolkit Libpskc library
+
+librapidxml-dev/stable 1.13-3 all
+  fast XML DOM-style parser in C++ (development files)
+
+libre-dev/stable 2.0.1-3 arm64
+  generic library for real-time communications (development files)
+
+libre1/stable 2.0.1-3 arm64
+  generic library for real-time communications with async IO support
+
+libre2-11/stable 20240702-3+b1 arm64
+  efficient, principled regular expression library
+
+libre2-dev/stable 20240702-3+b1 arm64
+  efficient, principled regular expression library, development kit
+
+librem-dev/stable 1.0.0-3 arm64
+  library for real-time audio and video processing (development)
+
+librem1/stable 1.0.0-3 arm64
+  toolkit library for real-time audio and video processing
+
+librnd4-cloud/stable 4.3.2-1 arm64
+  Networking plugins for accessing remote resources.
+
+librust-totp-lite-dev/stable 2.0.1-1+b2 arm64
+  Simple, correct TOTP library - Rust source code
+
+librust-totp-rs-dev/stable 5.5.1-1 arm64
+  RFC-compliant TOTP implementation with ease of use as a goal and additionnal QoL features - Rust source code
+
+libsane-hpaio/stable 3.22.10+dfsg0-8.1 arm64
+  HP SANE backend for multi-function peripherals
+
+libsasl2-2/stable,now 2.1.28+dfsg1-9 arm64 [installed,automatic]
+  Cyrus SASL - authentication abstraction library
+
+libsasl2-modules-otp/stable 2.1.28+dfsg1-9 arm64
+  Cyrus SASL - pluggable authentication modules (OTP)
+
+libslow5-0t64/stable 0.7.0+dfsg-3+b6 arm64
+  library for reading & writing SLOW5 files
+
+libslow5-dev/stable 0.7.0+dfsg-3+b6 arm64
+  header and static library for reading & writing SLOW5 files
+
+libsqlcipher-dev/stable 4.6.1-2 arm64
+  SQLCipher development files
+
+libsqlcipher1/stable 4.6.1-2 arm64
+  SQLCipher shared library
+
+libstoken-dev/stable 0.92-1.1+b2 arm64
+  Software Token for cryptographic authentication - development files
+
+libstoken1t64/stable 0.92-1.1+b2 arm64
+  Software Token for cryptographic authentication - shared library
+
+libsystemd-shared/stable,now 257.13-1~deb13u1 arm64 [installed,automatic]
+  systemd shared private library
+
+libtinycbor-dev/stable 0.6.1-1 arm64
+  Concise Binary Object Representation (CBOR) library (development files)
+
+libtinycbor0.6/stable 0.6.1-1 arm64
+  Concise Binary Object Representation (CBOR) library
+
+libuecc0/stable 7-6 arm64
+  very small Elliptic Curve Cryptography library
+
+libulfius-dev/stable 2.7.15-2.2+b2 arm64
+  Web Framework for REST Applications in C - development
+
+libulfius2.7t64/stable 2.7.15-2.2+b2 arm64
+  Web Framework for REST Applications in C
+
+libunittest++-dev/stable 2.0.0-3+b2 arm64
+  unit testing framework for c++, static library and headers
+
+libunittest++2/stable 2.0.0-3+b2 arm64
+  unit testing framework for c++, runtime library
+
+libvalidate-yubikey-perl/stable 0.03-2 all
+  module to validate Yubikey OTPs
+
+libxcb-composite0/stable 1.17.0-2+b1 arm64
+  X C Binding, composite extension
+
+libxcb-composite0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, composite extension, development files
+
+libxcb-damage0/stable 1.17.0-2+b1 arm64
+  X C Binding, damage extension
+
+libxcb-damage0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, damage extension, development files
+
+libxcb-doc/stable 1.17.0-2 all
+  X C Binding, development documentation
+
+libxcb-dpms0/stable 1.17.0-2+b1 arm64
+  X C Binding, dpms extension
+
+libxcb-dpms0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, dpms extension, development files
+
+libxcb-dri2-0/stable 1.17.0-2+b1 arm64
+  X C Binding, dri2 extension
+
+libxcb-dri2-0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, dri2 extension, development files
+
+libxcb-dri3-0/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, dri3 extension
+
+libxcb-dri3-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, dri3 extension, development files
+
+libxcb-glx0/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, glx extension
+
+libxcb-glx0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, glx extension, development files
+
+libxcb-present-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, present extension, development files
+
+libxcb-present0/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, present extension
+
+libxcb-randr0/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, randr extension
+
+libxcb-randr0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, randr extension, development files
+
+libxcb-record0/stable 1.17.0-2+b1 arm64
+  X C Binding, record extension
+
+libxcb-record0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, record extension, development files
+
+libxcb-render0/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, render extension
+
+libxcb-render0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, render extension, development files
+
+libxcb-res0/stable 1.17.0-2+b1 arm64
+  X C Binding, res extension
+
+libxcb-res0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, res extension, development files
+
+libxcb-screensaver0/stable 1.17.0-2+b1 arm64
+  X C Binding, screensaver extension
+
+libxcb-screensaver0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, screensaver extension, development files
+
+libxcb-shape0/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, shape extension
+
+libxcb-shape0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, shape extension, development files
+
+libxcb-shm0/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, shm extension
+
+libxcb-shm0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, shm extension, development files
+
+libxcb-sync-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, sync extension, development files
+
+libxcb-sync1/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, sync extension
+
+libxcb-xf86dri0/stable 1.17.0-2+b1 arm64
+  X C Binding, xf86dri extension
+
+libxcb-xf86dri0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, xf86dri extension, development files
+
+libxcb-xfixes0/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, xfixes extension
+
+libxcb-xfixes0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, xfixes extension, development files
+
+libxcb-xinerama0/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, xinerama extension
+
+libxcb-xinerama0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, xinerama extension, development files
+
+libxcb-xinput-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, xinput extension, development files
+
+libxcb-xinput0/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, xinput extension
+
+libxcb-xkb-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, XKEYBOARD extension, development files
+
+libxcb-xkb1/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding, XKEYBOARD extension
+
+libxcb-xtest0/stable 1.17.0-2+b1 arm64
+  X C Binding, xtest extension
+
+libxcb-xtest0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, xtest extension, development files
+
+libxcb-xv0/stable 1.17.0-2+b1 arm64
+  X C Binding, xv extension
+
+libxcb-xv0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, xv extension, development files
+
+libxcb-xvmc0/stable 1.17.0-2+b1 arm64
+  X C Binding, xvmc extension
+
+libxcb-xvmc0-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, xvmc extension, development files
+
+libxcb1/stable,now 1.17.0-2+b1 arm64 [installed,automatic]
+  X C Binding
+
+libxcb1-dev/stable 1.17.0-2+b1 arm64
+  X C Binding, development files
+
+libxi-dev/stable 2:1.8.2-1 arm64
+  X11 Input extension library (development headers)
+
+libxi6/stable,now 2:1.8.2-1 arm64 [installed,automatic]
+  X11 Input extension library
+
+libxstream-java/stable 1.4.21-1 all
+  Java library to serialize objects to XML and back again
+
+libyadifa-dev/stable 3.0.2-3 all
+  development libraries and header files for YADIFA
+
+libyascreen-dev/stable 2.06-1 arm64
+  Yet Another Screen Library (lib(n)curses alternative)
+
+libyascreen0/stable 2.06-1 arm64
+  Yet Another Screen Library - development files
+
+libykclient-dev/stable 2.15-5 arm64
+  Yubikey client library development files
+
+libykclient3/stable 2.15-5 arm64
+  Yubikey client library runtime
+
+libykpers-1-1/stable 1.20.0-5 arm64
+  Library for personalization of YubiKey OTP tokens
+
+libykpers-1-dev/stable 1.20.0-5 arm64
+  Development files for the YubiKey OTP personalization library
+
+libyubikey-dev/stable 1.13-6+b1 arm64
+  Yubikey OTP library development files
+
+libyubikey0/stable 1.13-6+b1 arm64
+  Yubikey OTP handling library runtime
+
+libzim9/stable 9.2.3-1.1+b1 arm64
+  library implementation of ZIM specifications
+
+lighttpd/stable 1.4.79-2 arm64
+  fast webserver with minimal memory footprint
+
+merecat/stable 2.31+git20220513+ds-5+b1 arm64
+  Embedded web server
+
+miniupnpc/stable 2.2.8-2+b2 arm64
+  UPnP IGD client lightweight library client
+
+miwm/stable 1.1-9+b1 arm64
+  minimalist window manager with virtual workspaces
+
+mtd-utils/stable 1:2.3.0-1 arm64
+  Memory Technology Device Utilities
+
+musescore-general-soundfont/stable 0.2.1-1 all
+  General SoundFont from MuseScore (HQ version, lossy)
+
+musescore-general-soundfont-lossless/stable 0.2.1-1 all
+  General SoundFont from MuseScore (uncompressed)
+
+musescore-general-soundfont-small/stable 0.2.1-1 all
+  General SoundFont from MuseScore (lossy)
+
+mysqltuner/stable 2.6.0-1 all
+  high-performance MySQL tuning script
+
+ncmpc/stable 0.52-1 arm64
+  ncurses-based audio player
+
+netscript-2.4/stable 5.5.5+nmu3 all
+  Linux 2.4/2.6/3.x router/firewall/VM host network config system.
+
+netsurf-common/stable 3.11-2 all
+  small web browser with CSS support common files
+
+netsurf-fb/stable 3.11-2+b1 arm64
+  small web browser with CSS support for framebuffers
+
+netsurf-gtk/stable 3.11-2+b1 arm64
+  small web browser with CSS support for GTK
+
+nitrokey-authenticator/stable 1.2.4-2+b3 arm64
+  TOTP authenticator app that's using Nitrokey Pro2 and/or LibremKey
+
+node-d3-queue/stable 3.0.7-13 all
+  Evaluate asynchronous tasks with configurable concurrency
+
+node-expect.js/stable 0.3.1+dfsg+~0.3.29-2 all
+  behavior driven test assertions - Node.js module
+
+node-fast-json-patch/stable 3.1.1+ds-3 all
+  Node.js implementation of JSON-Patch
+
+node-hash-sum/stable 2.0.0+~1.0.0-1 all
+  Blazing fast unique hash generator
+
+node-iscroll/stable 5.2.0+dfsg1-2 all
+  High performance, small footprint JavaScript scroller  NodeJS module
+
+node-ua-parser-js/stable 0.8.1+ds+~0.7.36-3 all
+  Lightweight JavaScript-based user-agent string parser
+
+node-uuid/stable 8.3.2+~8.3.4-1 all
+  simple and fast RFC4122 UUID generation - Node.js module
+
+nqp/stable 2024.09+dfsg-5 arm64
+  Not Quite Perl compiler
+
+nqp-data/stable 2024.09+dfsg-5 all
+  Data files for NQP compiler
+
+nss-tlsd/stable 1.1-3+b3 arm64
+  encrypted DNS name resolution daemon
+
+numberstation/stable 1.4.0-2 all
+  TOTP Authenticator application
+
+nuntius/stable 0.2.0-5+b4 arm64
+  share notifications from Android phone or tablet via Bluetooth or LAN
+
+oathtool/stable 2.6.12-1 arm64
+  OATH Toolkit oathtool command line tool
+
+ofxstatement-plugins/stable 20210310+nmu2 all
+  set of plugins for ofxstatement
+
+otp/stable 1:1.2.2-5+b1 arm64
+  Generator for One Time Pads or Passwords
+
+otpclient/stable 4.0.2-1 arm64
+  Simple GTK+ software to generate OTPs (TOTP and HOTP)
+
+otpclient-cli/stable 4.0.2-1 arm64
+  command-line for OTPClient
+
+otpw-bin/stable 1.5-3+b2 arm64
+  OTPW programs for generating OTPW lists
+
+pass-extension-otp/stable 1.2.0-10 all
+  transitional package
+
+pass-otp/stable 1.2.0-10 all
+  pass extension for managing one-time-password tokens
+
+pcb-rnd/stable 3.1.6-1 arm64
+  Standard installation of pcb-rnd
+
+pcb-rnd-cloud/stable 3.1.6-1 arm64
+  Networking plugins.
+
+pcb-rnd-import-net/stable 3.1.6-1 arm64
+  Netlist/schematics import plugins.
+
+pcb-rnd-io-standard/stable 3.1.6-1 arm64
+  Commonly used non-native board and footprint file formats
+
+pd-lyonpotpourri/stable 3.0.2-1 arm64
+  potpourri of Pd objects for synthesizing with audio
+
+php-dapphp-radius/stable 2.5.8-3 all
+  pure PHP RADIUS client based on the SysCo/al implementation
+
+picocom/stable 3.1-4+b1 arm64
+  minimal dumb-terminal emulation program
+
+postgresql-17-pllua/stable 1:2.0.12-5 arm64
+  Lua procedural language for PostgreSQL 17
+
+proftpd-mod-autohost/stable 0.6-2+b5 arm64
+  ProFTPD module mod_autohost
+
+pskctool/stable 2.6.12-1 arm64
+  OATH Toolkit pskctool command line tool
+
+python-django-otp-doc/stable 1.5.4-1 all
+  pluggable framework for two-factor authentication (Documentation)
+
+python-pskc-doc/stable 1.3-2 all
+  Python module for handling PSKC files (Documentation)
+
+python-pydotplus-doc/stable 2.0.2-5 all
+  interface to Graphviz's Dot language - doc
+
+python-qwt-doc/stable 0.12.7-3 all
+  Pure Python implementation of Qwt - Documentation
+
+python-yubico-tools/stable 1.3.3-3 all
+  Tools for Yubico YubiKeys
+
+python3-cdlclient/stable 0.10.1-2 all
+  Simple client for DataLab
+
+python3-csa/stable 0.1.12-1.3 arm64
+  Connection-Set Algebra (CSA) implemented in Python
+
+python3-cykhash/stable 2.0.0-3+b4 arm64
+  cython wrapper for khash-sets/maps, efficient implementation of isin and unique
+
+python3-django-otp/stable 1.5.4-1 all
+  pluggable framework for two-factor authentication (Python3 version)
+
+python3-django-otp-yubikey/stable 1.0.0.post1-1.1 all
+  Django-otp plugin that verifies YubiKey OTP tokens
+
+python3-fluent-logger/stable 0.11.1-1 all
+  Structured logger for Fluentd - Python
+
+python3-miniupnpc/stable 2.2.8-2+b2 arm64
+  UPnP IGD client lightweight library Python 3 bindings
+
+python3-onetimepass/stable 1.0.1-2 all
+  Module for generating and validating HOTP and TOTP tokens
+
+python3-paho-mqtt/stable 2.1.0-1 all
+  MQTT client class (Python 3)
+
+python3-plotpy/stable 2.7.0-1+b2 arm64
+  Curve and image plotting tools for Python/Qt applications
+
+python3-pskc/stable 1.3-2 all
+  Python module for handling PSKC files (Python 3)
+
+python3-pydotplus/stable 2.0.2-5 all
+  interface to Graphviz's Dot language - Python 3.x
+
+python3-pyotp/stable 2.9.0-2 all
+  Python One Time Password Library
+
+python3-qwt/stable 0.12.7-3 all
+  Pure Python implementation of Qwt - Python 3
+
+python3-re2/stable 20240702-3+b1 arm64
+  efficient, principled regular expression library, Python bindings
+
+python3-slow5/stable 0.7.0+dfsg-3+b6 arm64
+  Python3 modul for reading & writing SLOW5 files
+
+python3-sphinx-inline-tabs/stable 2023.4.21-1 all
+  Add inline tabbed content to your Sphinx documentation
+
+python3-undetected-chromedriver/stable 3.5.5-2 all
+  Custom selenium chromedriver
+
+python3-xcbgen/stable 1.17.0-1 all
+  X C Binding - protocol binding generator (Python 3)
+
+python3-xmltodict/stable 0.13.0-1.1~deb13u1 all
+  Makes working with XML feel like you are working with JSON (Python 3)
+
+python3-xsar/stable 2025.03.07-1 all
+  Python xarray reader to use Level-1 GRD Synthetic Aperture Radar products
+
+python3-yubiotp/stable 1.0.0.post1-2 all
+  Low-level implementation of the YubiKey OTP algorithm in Python
+
+qml6-module-org-kde-baloo/stable 6.13.0-1 arm64
+  framework for file search and metadata management - QML module
+
+r-bioc-progeny/stable 1.28.0+ds-2 all
+  activity inference from gene expression
+
+r-cran-plotrix/stable 3.8-4-1 all
+  GNU R package providing various plotting functions
+
+radsecproxy/stable 1.11.2-1 arm64
+  RADIUS protocol proxy supporting RadSec
+
+rebar/stable 2.6.4-7 arm64
+  Sophisticated build-tool for Erlang projects that follows OTP principles
+
+rebar3/stable 3.24.0-1 all
+  Erlang tool to create, develop, and release Erlang libraries and applications
+
+ruby-aggregate/stable 0.2.4-1 all
+  Ruby class for accumulating aggregate statistics
+
+ruby-erubi/stable 1.12.0-1 all
+  Small ERB Implementation
+
+ruby-mini-magick/stable 5.2.0-1 all
+  wrapper for ImageMagick with a small memory footprint
+
+ruby-rotp/stable 6.2.0-2 all
+  Ruby library for generating and verifying one time passwords
+
+ruby-rpatricia/stable 1.0.1-2+b6 arm64
+  efficient IPv4/IPv6 prefix storage and lookup for Ruby
+
+seaview/stable 1:5.0.5-3 arm64
+  Multiplatform interface for sequence alignment and phylogeny
+
+simple-whip-server/stable 0.0~git20240308-1 all
+  simple WHIP server using Janus as backend
+
+snmpsim/stable 0.4.5-1.1 all
+  SNMP agent simulator
+
+sqlcipher/stable 4.6.1-2 arm64
+  Command line interface for SQLCipher
+
+starlink-registry-java/stable 1.2+2024.08.05-1 all
+  Starlink IVOA registry access
+
+starman/stable 0.4018-0+deb13u1 all
+  high-performance preforking PSGI/Plack web server
+
+stoken/stable 0.92-1.1+b2 arm64
+  Software Token for cryptographic authentication
+
+tcllib/stable 2.0+dfsg-4 all
+  Standard Tcl Library
+
+texlive-latex-extra/stable 2024.20250309-2 all
+  TeX Live: LaTeX additional packages
+
+tinycbor-utils/stable 0.6.1-1 arm64
+  Concise Binary Object Representation (CBOR) library (utilities)
+
+tinyscheme/stable 1.42.svn.2020.06.04-2+b1 arm64
+  Very small scheme implementation
+
+tippecanoe/stable 2.53.0-1+b1 arm64
+  build vector tilesets from large collections of GeoJSON features
+
+tlslookup/stable 1.1-3+b3 arm64
+  utility like nslookup(1), but uses libnss_tls.so instead of DNS
+
+triggerhappy/stable 0.5.0-1.1+b4 arm64
+  global hotkey daemon for Linux
+
+ublock-origin-doc/stable 1.67.0+dfsg-1~deb13u1 all
+  lightweight and efficient ads, malware, trackers blocker (docs)
+
+udev/stable,now 257.13-1~deb13u1 arm64 [installed]
+  /dev/ and hotplug management daemon
+
+uhub/stable 0.4.1-3.3 arm64
+  High performance Advanced Direct Connect p2p hub
+
+vim-vimerl/stable 1.4.1+git20120509.89111c7-2.1 all
+  Erlang plugin for Vim
+
+webext-ublock-origin-chromium/stable 1.67.0+dfsg-1~deb13u1 all
+  lightweight and efficient ads, malware, trackers blocker (Chromium)
+
+webext-ublock-origin-firefox/stable 1.67.0+dfsg-1~deb13u1 all
+  lightweight and efficient ads, malware, trackers blocker (Firefox)
+
+xcb-proto/stable 1.17.0-1 all
+  X C Binding - protocol descriptions
+
+xdot/stable 1.4-1 all
+  interactive viewer for Graphviz dot files
+
+xlassie/stable 1.8-23 arm64
+  Dockable mail notifier w/ message count & POP3/APOP/IMAP support
+
+yadifa/stable 3.0.2-3 arm64
+  Internet Domain Name Server
+
+yaku-ns/stable 0.2-4 arm64
+  small footprint, trivial to configure, DNS server
+
+yapet/stable 2.6-2+b1 arm64
+  Yet Another Password Encryption Tool
+
+yubikey-personalization/stable 1.20.0-5 arm64
+  Personalization tool for Yubikey OTP tokens
+
+yubioath-desktop/stable 5.1.0-4 arm64
+  Graphical interface for displaying OATH codes with a Yubikey
+
+yubiserver/stable 0.6-3.2+b2 arm64
+  Yubikey OTP and HOTP/OATH Validation Server
+

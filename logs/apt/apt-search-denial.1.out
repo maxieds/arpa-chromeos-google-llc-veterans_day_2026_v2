@@ -1,0 +1,50 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+apparmor-notify/stable 4.1.0-1 all
+  AppArmor notification system
+
+argus-client/stable 1:5.0.2+git20250321.41f65e2-2 arm64
+  IP network transaction auditing tool
+
+argus-server/stable 2:5.0.2-3 arm64
+  IP network transaction auditing tool
+
+fastnetmon/stable 1.2.9-0+deb13u1 arm64
+  fast DDoS analyzer with sflow/netflow/mirror support (community edition)
+
+libghc-resolv-dev/stable 0.2.0.2-2+b1 arm64
+  Domain Name Service (DNS) lookup via libresolv
+
+libghc-resolv-doc/stable 0.2.0.2-2 all
+  Domain Name Service (DNS) lookup via libresolv; documentation
+
+libghc-resolv-prof/stable 0.2.0.2-2+b1 arm64
+  Domain Name Service (DNS) lookup via libresolv; profiling libraries
+
+mdk3/stable 6.0-9 arm64
+  Wireless attack tool for IEEE 802.11 networks
+
+node-re2/stable 1.21.4+~cs2.13.13-2+b2 arm64
+  Node.js bindings for RE2, a fast and safe regular expression engine
+
+python-uvicorn-doc/stable 0.32.0-3 all
+  ASGI server implementation, using uvloop and httptools (Documentation)
+
+python3-uvicorn/stable 0.32.0-3 all
+  ASGI server implementation, using uvloop and httptools (Python3 version)
+
+slowhttptest/stable 1.9.0-1+b2 arm64
+  application layer Denial of Service attacks simulation tool
+
+slowloris/stable 0.2.6+git20230430.890f72d-2 all
+  Security testing tool for web servers
+
+thc-ipv6/stable 3.8-1+b3 arm64
+  The Hacker Choice's IPv6 Attack Toolkit
+
+uvicorn/stable 0.32.0-3 all
+  ASGI server implementation, using uvloop and httptools
+

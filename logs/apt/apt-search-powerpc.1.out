@@ -1,0 +1,662 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+arch-test/stable 0.22-1 all
+  detect architectures supported by your machine/kernel
+
+binutils-gold-powerpc-linux-gnu/stable 2.44-2 arm64
+  gold ELF linker for the powerpc-linux-gnu target (deprecated)
+
+binutils-gold-powerpc-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for powerpc-linux-gnu target (debug symbols)
+
+binutils-gold-powerpc64le-linux-gnu/stable 2.44-2 arm64
+  gold ELF linker for the powerpc64le-linux-gnu target (deprecated)
+
+binutils-gold-powerpc64le-linux-gnu-dbg/stable 2.44-2 arm64
+  gold ELF linker, for powerpc64le-linux-gnu target (debug symbols)
+
+binutils-powerpc-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for powerpc-linux-gnu target
+
+binutils-powerpc-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for powerpc-linux-gnu target (debug symbols)
+
+binutils-powerpc64le-linux-gnu/stable 2.44-3 arm64
+  GNU binary utilities, for powerpc64le-linux-gnu target
+
+binutils-powerpc64le-linux-gnu-dbg/stable 2.44-3 arm64
+  GNU binary utilities, for powerpc64le-linux-gnu target (debug symbols)
+
+cpp-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C preprocessor
+
+cpp-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for powerpc-linux-gnu
+
+cpp-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C preprocessor for powerpc64le-linux-gnu
+
+cpp-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for powerpc-linux-gnu
+
+cpp-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C preprocessor for powerpc64le-linux-gnu
+
+cpp-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the powerpc architecture
+
+cpp-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C preprocessor (cpp) for the ppc64el architecture
+
+crossbuild-essential-powerpc/stable 12.12 all
+  Informational list of cross-build-essential packages
+
+dietlibc-dev/stable 0.34~cvs20160606-18 arm64
+  diet libc - a libc optimized for small size
+
+dietlibc-doc/stable 0.34~cvs20160606-18 all
+  diet libc documentation - a libc optimized for small size
+
+edac-utils/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+g++-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C++ compiler (cross compiler for ppc64el architecture)
+
+g++-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C++ compiler (multilib support) (cross compiler for powerpc architecture)
+
+g++-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C++ compiler for powerpc-linux-gnu architecture
+
+g++-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C++ compiler for powerpc64le-linux-gnu architecture
+
+g++-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C++ compiler (multilib support) (cross compiler for powerpc architecture)
+
+g++-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C++ compiler for powerpc-linux-gnu architecture
+
+g++-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C++ compiler for powerpc64le-linux-gnu architecture
+
+g++-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C++ compiler for the powerpc architecture
+
+g++-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C++ compiler for the powerpc architecture
+
+g++-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C++ compiler for the ppc64el architecture
+
+gcc-12-plugin-dev-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU C compiler (cross compiler for ppc64el architecture)
+
+gcc-12-powerpc64le-linux-gnu-base/stable 12.4.0-5cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for powerpc architecture)
+
+gcc-13-plugin-dev-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-plugin-dev-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the powerpc-linux-gnu architecture
+
+gcc-13-powerpc-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU C compiler for the powerpc64le-linux-gnu architecture
+
+gcc-13-powerpc64le-linux-gnu-base/stable 13.3.0-16cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler (multilib support) (cross compiler for powerpc architecture)
+
+gcc-14-plugin-dev-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-plugin-dev-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  Files for GNU GCC plugin development.
+
+gcc-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the powerpc-linux-gnu architecture
+
+gcc-14-powerpc-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU C compiler for the powerpc64le-linux-gnu architecture
+
+gcc-14-powerpc64le-linux-gnu-base/stable 14.2.0-19cross1 arm64
+  GCC, the GNU Compiler Collection (base package)
+
+gcc-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the powerpc architecture
+
+gcc-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the powerpc architecture
+
+gcc-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU C compiler for the ppc64el architecture
+
+gccgo-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Go compiler
+
+gccgo-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for powerpc architecture)
+
+gccgo-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the powerpc-linux-gnu architecture
+
+gccgo-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Go compiler for the powerpc64le-linux-gnu architecture
+
+gccgo-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler (multilib support) (cross compiler for powerpc architecture)
+
+gccgo-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the powerpc-linux-gnu architecture
+
+gccgo-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Go compiler for the powerpc64le-linux-gnu architecture
+
+gccgo-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the powerpc architecture
+
+gccgo-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the powerpc architecture
+
+gccgo-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  Go compiler (based on GCC) for the ppc64el architecture
+
+gdc-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU D compiler (version 2) (cross compiler for ppc64el architecture)
+
+gdc-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for powerpc architecture)
+
+gdc-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the powerpc-linux-gnu architecture
+
+gdc-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU D compiler (version 2) for the powerpc64le-linux-gnu architecture
+
+gdc-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2, multilib support) (cross compiler for powerpc architecture)
+
+gdc-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the powerpc-linux-gnu architecture
+
+gdc-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU D compiler (version 2) for the powerpc64le-linux-gnu architecture
+
+gdc-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the powerpc architecture
+
+gdc-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the powerpc architecture
+
+gdc-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU D compiler (based on GCC) for the ppc64el architecture
+
+gfortran-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Fortran compiler
+
+gfortran-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for powerpc architecture)
+
+gfortran-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the powerpc-linux-gnu architecture
+
+gfortran-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Fortran compiler for the powerpc64le-linux-gnu architecture
+
+gfortran-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler (multilib support) (cross compiler for powerpc architecture)
+
+gfortran-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the powerpc-linux-gnu architecture
+
+gfortran-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Fortran compiler for the powerpc64le-linux-gnu architecture
+
+gfortran-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the powerpc architecture
+
+gfortran-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the powerpc architecture
+
+gfortran-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Fortran 95 compiler for the ppc64el architecture
+
+gm2-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Modula-2 compiler (cross compiler for ppc64el architecture)
+
+gm2-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Modula-2 compiler for the powerpc64le-linux-gnu architecture
+
+gm2-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Modula-2 compiler for the powerpc64le-linux-gnu architecture
+
+gm2-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Modula-2 compiler (based on GCC) for the ppc64el architecture
+
+gnat-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Ada compiler
+
+gnat-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the powerpc-linux-gnu architecture
+
+gnat-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Ada compiler for the powerpc64le-linux-gnu architecture
+
+gnat-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the powerpc-linux-gnu architecture
+
+gnat-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Ada compiler for the powerpc64le-linux-gnu architecture
+
+gobjc++-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C++ compiler
+
+gobjc++-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the powerpc-linux-gnu architecture
+
+gobjc++-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C++ compiler for the powerpc64le-linux-gnu architecture
+
+gobjc++-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler (multilib support)
+
+gobjc++-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the powerpc-linux-gnu architecture
+
+gobjc++-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C++ compiler for the powerpc64le-linux-gnu architecture
+
+gobjc++-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the powerpc architecture
+
+gobjc++-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the powerpc architecture
+
+gobjc++-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C++ compiler for the ppc64el architecture
+
+gobjc-12-powerpc64le-linux-gnu/stable 12.4.0-5cross1 arm64
+  GNU Objective-C compiler
+
+gobjc-13-multilib-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for powerpc architecture)
+
+gobjc-13-powerpc-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the powerpc-linux-gnu architecture
+
+gobjc-13-powerpc64le-linux-gnu/stable 13.3.0-16cross1 arm64
+  GNU Objective-C compiler for the powerpc64le-linux-gnu architecture
+
+gobjc-14-multilib-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler (multilib support) (cross compiler for powerpc architecture)
+
+gobjc-14-powerpc-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the powerpc-linux-gnu architecture
+
+gobjc-14-powerpc64le-linux-gnu/stable 14.2.0-19cross1 arm64
+  GNU Objective-C compiler for the powerpc64le-linux-gnu architecture
+
+gobjc-multilib-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the powerpc architecture
+
+gobjc-powerpc-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the powerpc architecture
+
+gobjc-powerpc64le-linux-gnu/stable 4:14.2.0-1 arm64
+  GNU Objective-C compiler for the ppc64el architecture
+
+gxemul/stable 0.7.0+dfsg-2 arm64
+  machine emulator for multiple architectures
+
+ht/stable 2.1.0+repack1-5+b1 arm64
+  Viewer/editor/analyser (mostly) for executables
+
+installation-guide-ppc64el/stable 20250803+deb13u1 all
+  Debian installation guide for powerpc
+
+lib64asan8-powerpc-cross/stable 14.2.0-19cross1 all
+  AddressSanitizer -- a fast memory error detector (64bit)
+
+lib64atomic1-powerpc-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions (64bit)
+
+lib64gcc-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC support library (64bit development files)
+
+lib64gcc-s1-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC support library (powerpc) (64bit)
+
+lib64gfortran-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Fortran applications (64bit development files)
+
+lib64gfortran-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Fortran applications (64bit development files)
+
+lib64gfortran-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Fortran applications (64bit development files)
+
+lib64gfortran5-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Fortran applications (64bit)
+
+lib64go-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Go applications (64bit development files)
+
+lib64go-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Go applications (64bit development files)
+
+lib64go-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Go applications (64bit development files)
+
+lib64go21-powerpc-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Go applications (64bit)
+
+lib64go22-powerpc-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Go applications (64bit)
+
+lib64go23-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Go applications (64bit)
+
+lib64gomp1-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library (64bit)
+
+lib64gphobos-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (64bit development files)
+
+lib64gphobos3-powerpc-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos4-powerpc-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+lib64gphobos5-powerpc-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+lib64objc-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Objective-C applications (64bit development files)
+
+lib64objc-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Objective-C applications (64bit development files)
+
+lib64objc-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Objective-C applications (64bit development files)
+
+lib64objc4-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Objective-C applications (64bit)
+
+lib64stdc++-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  GNU Standard C++ Library v3 (development files) (powerpc)
+
+lib64stdc++-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  GNU Standard C++ Library v3 (development files) (powerpc)
+
+lib64stdc++-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  GNU Standard C++ Library v3 (development files) (powerpc)
+
+lib64stdc++6-powerpc-cross/stable 14.2.0-19cross1 all
+  GNU Standard C++ Library v3 (powerpc) (64bit)
+
+lib64ubsan1-powerpc-cross/stable 14.2.0-19cross1 all
+  UBSan -- undefined behaviour sanitizer (64bit)
+
+libasan8-powerpc-cross/stable 14.2.0-19cross1 all
+  AddressSanitizer -- a fast memory error detector
+
+libatomic1-powerpc-cross/stable 14.2.0-19cross1 all
+  support library providing __atomic built-in functions
+
+libc6-dev-powerpc-cross/stable 2.41-11cross1 all
+  GNU C Library: Development Libraries and Header Files (for cross-compiling)
+
+libc6-dev-powerpc-ppc64-cross/stable 2.41-11cross1 all
+  GNU C Library: 32bit powerpc development libraries for ppc64 (for cross-compiling)
+
+libc6-dev-ppc64-powerpc-cross/stable 2.41-11cross1 all
+  GNU C Library: 64bit Development Libraries for PowerPC64 (for cross-compiling)
+
+libc6-powerpc-cross/stable 2.41-11cross1 all
+  GNU C Library: Shared libraries (for cross-compiling)
+
+libc6-powerpc-ppc64-cross/stable 2.41-11cross1 all
+  GNU C Library: 32bit powerpc shared libraries for ppc64 (for cross-compiling)
+
+libc6-ppc64-powerpc-cross/stable 2.41-11cross1 all
+  GNU C Library: 64bit Shared libraries for PowerPC64 (for cross-compiling)
+
+libedac-dev/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+libedac1/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+libedac1-dbg/stable 0.18+git16-g8fdc1d4-2 arm64
+  report kernel-detected PCI and ECC RAM errors
+
+libfec-dev/stable 1.0-26-gc5d935f-1+b3 arm64
+  forward error correction (FEC) algorithms - header files
+
+libfec0/stable 1.0-26-gc5d935f-1+b3 arm64
+  forward error correction (FEC) algorithms
+
+libgcc-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  GCC support library (development files)
+
+libgcc-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  GCC support library (development files)
+
+libgcc-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC support library (development files)
+
+libgcc-s1-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC support library (powerpc)
+
+libgfortran-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Fortran applications (development files)
+
+libgfortran-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Fortran applications (development files)
+
+libgfortran-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Fortran applications (development files)
+
+libgfortran5-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Fortran applications
+
+libgnat-12-powerpc-cross/stable 12.4.0-5cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-13-powerpc-cross/stable 13.3.0-16cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgnat-14-powerpc-cross/stable 14.2.0-19cross1 all
+  runtime for applications compiled with GNAT (shared library)
+
+libgo-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Go applications (development files)
+
+libgo-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Go applications (development files)
+
+libgo-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Go applications (development files)
+
+libgo21-powerpc-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Go applications
+
+libgo22-powerpc-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Go applications
+
+libgo23-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Go applications
+
+libgomp1-powerpc-cross/stable 14.2.0-19cross1 all
+  GCC OpenMP (GOMP) support library
+
+libgphobos-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library
+
+libgphobos-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library
+
+libgphobos-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library
+
+libgphobos3-powerpc-cross/stable 12.4.0-5cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos4-powerpc-cross/stable 13.3.0-16cross1 all
+  Phobos D standard library (runtime library)
+
+libgphobos5-powerpc-cross/stable 14.2.0-19cross1 all
+  Phobos D standard library (runtime library)
+
+libhalide19-0/stable 19.0.0-6 arm64
+  fast, portable computation on images and tensors
+
+libobjc-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  Runtime library for GNU Objective-C applications (development files)
+
+libobjc-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  Runtime library for GNU Objective-C applications (development files)
+
+libobjc-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Objective-C applications (development files)
+
+libobjc4-powerpc-cross/stable 14.2.0-19cross1 all
+  Runtime library for GNU Objective-C applications
+
+libsquish-dev/stable 1.15-3+b2 arm64
+  DXT texture compression library - development files
+
+libsquish0/stable 1.15-3+b2 arm64
+  DXT texture compression library
+
+libstdc++-12-dev-powerpc-cross/stable 12.4.0-5cross1 all
+  GNU Standard C++ Library v3 (development files) (powerpc)
+
+libstdc++-12-pic-powerpc-cross/stable 12.4.0-5cross1 all
+  GNU Standard C++ Library v3 (shared library subset kit) (powerpc)
+
+libstdc++-13-dev-powerpc-cross/stable 13.3.0-16cross1 all
+  GNU Standard C++ Library v3 (development files) (powerpc)
+
+libstdc++-13-pic-powerpc-cross/stable 13.3.0-16cross1 all
+  GNU Standard C++ Library v3 (shared library subset kit) (powerpc)
+
+libstdc++-14-dev-powerpc-cross/stable 14.2.0-19cross1 all
+  GNU Standard C++ Library v3 (development files) (powerpc)
+
+libstdc++-14-pic-powerpc-cross/stable 14.2.0-19cross1 all
+  GNU Standard C++ Library v3 (shared library subset kit) (powerpc)
+
+libstdc++6-powerpc-cross/stable 14.2.0-19cross1 all
+  GNU Standard C++ Library v3 (powerpc)
+
+libubsan1-powerpc-cross/stable 14.2.0-19cross1 all
+  UBSan -- undefined behaviour sanitizer (runtime)
+
+libxvidcore-dev/stable 2:1.3.7-1+b2 arm64
+  Open source MPEG-4 video codec (development)
+
+libxvidcore4/stable,now 2:1.3.7-1+b2 arm64 [installed,automatic]
+  Open source MPEG-4 video codec (library)
+
+linux-libc-dev-powerpc-cross/stable 6.12.38-1cross1 all
+  Linux Kernel Headers for development (for cross-compiling)
+
+llvm-17/stable 1:17.0.6-22+b2 arm64
+  Modular compiler and toolchain technologies
+
+llvm-18/stable 1:18.1.8-18+b1 arm64
+  Modular compiler and toolchain technologies
+
+llvm-19/stable 1:19.1.7-3+b1 arm64
+  Modular compiler and toolchain technologies
+
+lshw/stable 02.19.git.2021.06.19.996aaad9c7-2.1 arm64
+  information about hardware configuration
+
+lshw-gtk/stable 02.19.git.2021.06.19.996aaad9c7-2.1 arm64
+  graphical information about hardware configuration
+
+mate-sensors-applet/stable 1.26.0-1+deb13u1 arm64
+  Display readings from hardware sensors in your MATE panel
+
+mono-runtime/stable 6.12.0.199+dfsg-6 arm64
+  Mono runtime - default version
+
+mono-runtime-common/stable 6.12.0.199+dfsg-6 arm64
+  Mono runtime - common files
+
+mono-runtime-sgen/stable 6.12.0.199+dfsg-6 arm64
+  Mono runtime - Using SGen garbage collector
+
+qemu-block-extra/stable 1:10.0.11+ds-0+deb13u1 arm64
+  extra block backend modules for qemu-system and qemu-utils
+
+qemu-guest-agent/stable 1:10.0.11+ds-0+deb13u1 arm64
+  Guest-side qemu-system agent
+
+qemu-system/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries
+
+qemu-system-common/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (common files)
+
+qemu-system-misc/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (miscellaneous)
+
+qemu-system-ppc/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU full system emulation binaries (ppc)
+
+qemu-user/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU user mode emulation (static binaries)
+
+qemu-user-binfmt/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU user mode binfmt registration for qemu-user
+
+qemu-utils/stable 1:10.0.11+ds-0+deb13u1 arm64
+  QEMU utilities
+
+read-edid/stable 3.0.2-1.1+b1 arm64
+  hardware information-gathering tool for VESA PnP monitors
+
+veccore-dev/stable 0.8.1+ds1-1+b1 arm64
+  simple abstraction layer on top of other vectorization libraries
+

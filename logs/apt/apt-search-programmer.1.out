@@ -1,0 +1,2369 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+antlr/stable 2.7.7+dfsg-14 all
+  language tool for constructing recognizers, compilers etc
+
+antlr3/stable 3.5.3-2 all
+  language tool for constructing recognizers, compilers etc
+
+asl-doc/stable 0.1.7-4.1 all
+  documentation for ASL
+
+asl-tools/stable 0.1.7-4.1+b5 arm64
+  command-line tools for ASL
+
+avrp/stable 1.0beta3-8 arm64
+  Programmer for Atmel AVR microcontrollers
+
+bash-completion/stable,now 1:2.16.0-7 all [installed]
+  programmable completion for the bash shell
+
+bashacks/stable 1.5+git20241128.a8d16fc-1 all
+  collection of useful bash scripts for programmers
+
+bashacks-doc/stable 1.5+git20241128.a8d16fc-1 all
+  collection of useful bash scripts for programmers — documentation
+
+bluefish/stable 2.2.17-1 arm64
+  advanced Gtk+ text editor for web and software development
+
+bluefish-data/stable 2.2.17-1 all
+  advanced Gtk+ text editor (data)
+
+bluefish-plugins/stable 2.2.17-1 arm64
+  advanced Gtk+ text editor (plugins)
+
+cgvg/stable 1.6.3-1 all
+  command-line source browsing tool
+
+checkstyle/stable 8.36.1-1 all
+  checks Java source against a coding standard
+
+checkstyle-doc/stable 8.36.1-1 all
+  Documentation for Checkstyle
+
+cl-launch/stable 4.1.4-1.1 all
+  uniform frontend to running Common Lisp code from the shell
+
+cl-roscpp-msg/stable 1.17.0+ds-2 all
+  Header for roscpp messages, LISP
+
+cl-speech-dispatcher/stable 0.12.0-5 all
+  Common Lisp interface to Speech Dispatcher
+
+cl-who/stable 20171130-1.1 all
+  Yet another Lisp markup language
+
+coccinelle/stable 1.3.0.deb-1+b2 arm64
+  semantic patching tool for C
+
+cwebx/stable 3.52-4 arm64
+  C/C++ literate programming system (Marc van Leeuwen's version)
+
+cycfx2prog/stable 0.47-1.3 arm64
+  Cypress EZ-USB FX2 (LP) programmer
+
+dbuskit-dev-tools/stable 0.1.1-13 arm64
+  GNUstep framework that interfaces with D-Bus (tools)
+
+dbuskit-doc/stable 0.1.1-13 all
+  GNUstep framework that interfaces with D-Bus (documentation)
+
+dfu-programmer/stable,now 0.6.1-1+b3 arm64 [installed]
+  device firmware update (DFU) based USB programmer for Atmel chips
+
+dfu-util/stable,now 0.11-3 arm64 [installed]
+  Device firmware update (DFU) USB programmer
+
+efte/stable 1.1-4+b1 arm64
+  Advanced lightweight configurable editor
+
+elfkickers/stable 0+git20240221+ds-5 arm64
+  collection of programs that access and manipulate ELF files
+
+elpa-buttercup/stable 1.37-1 all
+  behaviour-driven testing for Emacs Lisp packages
+
+elpa-let-alist/stable 1.0.6-3 all
+  let-bind values of an assoc-list by their names in Emacs Lisp
+
+flashrom/stable 1.4.0-3 arm64
+  Identify, read, write, erase, and verify BIOS/ROM/flash chips
+
+fonts-fantasque-sans/stable 1.8.0+git20220316+dfsg-2 all
+  monospaced font variant for programmers
+
+fonts-inconsolata/stable 001.010-6 all
+  monospace font for pretty code listings and for the terminal
+
+fte/stable 0.50.2b6-20110708-7 arm64
+  Text editor for programmers - base package
+
+fte-console/stable 0.50.2b6-20110708-7 arm64
+  Text editor for programmers - console edition, no I18N support
+
+fte-docs/stable 0.50.2b6-20110708-7 all
+  Documentation and examples for the FTE editor
+
+fte-terminal/stable 0.50.2b6-20110708-7 arm64
+  Text editor for programmers - version for terminals
+
+fte-xwindow/stable 0.50.2b6-20110708-7 arm64
+  Text editor for programmers - X Window System edition with I18N support
+
+funnelweb/stable 3.2-6 arm64
+  literate-programming tool
+
+fuzz/stable 0.6-19.1+b1 arm64
+  stress-test programs by giving them random input
+
+gauche/stable 0.9.15-p2+20241205-4 arm64
+  Scheme script engine
+
+gauche-dev/stable 0.9.15-p2+20241205-4 arm64
+  Development files for Gauche
+
+gauche-doc/stable 0.9.15-p2+20241205-4 all
+  Reference manual of Gauche
+
+gauche-gdbm/stable 0.9.15-p2+20241205-4 arm64
+  gdbm binding for Gauche
+
+gauche-zlib/stable 0.9.15-p2+20241205-4 arm64
+  zlib binding for Gauche
+
+gccgo-go/stable 2:1.24~2 arm64
+  Go programming language -- gccgo
+
+gdb/stable 16.3-1 arm64
+  GNU Debugger
+
+gdb-avr/stable 15.1-1+b3 arm64
+  GNU Debugger for avr
+
+gdb-minimal/stable 16.3-1 all
+  GNU Debugger (minimal version - dummy transitional package)
+
+gdb-multiarch/stable 16.3-1 arm64
+  GNU Debugger (with support for multiple architectures)
+
+gdb-source/stable 16.3-1 all
+  GNU Debugger (source)
+
+gdbm-l10n/stable 1.24-2 all
+  GNU dbm database routines (translation files) 
+
+gdbmtool/stable 1.24-2 arm64
+  GNU dbm database routines (command line tools) 
+
+gdbserver/stable 16.3-1 arm64
+  GNU Debugger (remote server)
+
+gir1.2-xkl-1.0/stable 5.4-5+b2 arm64
+  X Keyboard Extension high-level API - introspection data
+
+glogg/stable 1.1.4-1.4 arm64
+  Smart interactive log explorer using Qt
+
+gnat/stable 14.1 all
+  GNU Ada compiler
+
+golang/stable 2:1.24~2 arm64
+  Go programming language compiler - metapackage
+
+golang-1.24/stable 1.24.4-1 all
+  Go programming language compiler - metapackage
+
+golang-1.24-doc/stable 1.24.4-1 all
+  Go programming language - documentation
+
+golang-1.24-go/stable 1.24.4-1 arm64
+  Go programming language compiler, linker, compiled stdlib
+
+golang-1.24-src/stable 1.24.4-1 all
+  Go programming language - source files
+
+golang-any/stable 2:1.24~2 arm64
+  Go programming language -- gccgo on "non-Go" platforms
+
+golang-doc/stable 2:1.24~2 all
+  Go programming language - documentation
+
+golang-github-lpabon-godbc-dev/stable 1.0+git20140613.1.9577782-1.1 all
+  Design-by-contract library for Go
+
+golang-github-miekg-dns-dev/stable 1.1.64-1 all
+  DNS protocol library for Go
+
+golang-github-nsf-termbox-go-dev/stable 0.0~git20160914-3 all
+  pure Go implementation of termbox library
+
+golang-github-pkg-errors-dev/stable 0.9.1-3 all
+  Simple error handling primitives for Go
+
+golang-github-vividcortex-godaemon-dev/stable 0.0~git20210427.f8c5ec7-2 all
+  Daemonize Go applications deviously
+
+golang-go/stable 2:1.24~2 arm64
+  Go programming language compiler, linker, compiled stdlib
+
+golang-go4-dev/stable 0.0~git20230225.2148625-1 all
+  go4 collection of packages
+
+golang-src/stable 2:1.24~2 all
+  Go programming language - source files
+
+grass-dev-doc/stable 8.4.1-1 all
+  GRASS GIS Programmers' Manual
+
+gsl-bin/stable 2.8+dfsg-5 arm64
+  GNU Scientific Library (GSL) -- binary package
+
+gtkmm-documentation/stable 4.12.0-1 all
+  Documentation of C++ wrappers for GLib/GTK
+
+guile-avahi/stable 0.4.1-3 arm64
+  guile bindings for avahi
+
+hello/stable 2.10-5 arm64
+  example package based on GNU hello
+
+hexedit/stable 1.6-2 arm64
+  viewer and editor in hexadecimal or ASCII for files or devices
+
+imsprog/stable 1.5.2-1 arm64
+  Linux chip programmer for CH341a devices
+
+ispc/stable 1.26.0-1 arm64
+  Intel Implicit SPMD Program Compiler
+
+jed/stable 1:0.99.20~pre.189+dfsg-1 arm64
+  editor for programmers (textmode version)
+
+jedit/stable 5.5.0+dfsg-2 all
+  Plugin-based editor for programmers
+
+jsonlint/stable 1.11.0-2 all
+  validating parser of JSON data structures
+
+junit/stable 3.8.2-10 all
+  Automated testing framework for Java
+
+keyboards-rg/stable 0.3+nmu2 all
+  Various keyboard layouts for X-window and linux console
+
+kodi/stable 2:21.2+dfsg-4 arm64
+  Open Source Home Theatre (executable binaries)
+
+kodi-addons-dev-common/stable 2:21.2+dfsg-4 all
+  Open Source Home Theatre (architecture-independent addon development package)
+
+kodi-audiodecoder-fluidsynth/stable 20.2.1+ds1-5 arm64
+  Fluidsynth audio decoder for Kodi
+
+kodi-audiodecoder-sidplay/stable 21.0.2+ds-1 arm64
+  SidPlay audio decoder for Kodi
+
+kodi-audioencoder-flac/stable 21.0.2+ds-1+b1 arm64
+  FLAC audio encoder add-on for Kodi
+
+kodi-audioencoder-lame/stable 21.0.2+ds-1 arm64
+  LAME (mp3) audio encoder add-on for Kodi
+
+kodi-audioencoder-vorbis/stable 21.0.2+ds-1 arm64
+  Vorbis audio encoder add-on for Kodi
+
+kodi-audioencoder-wav/stable 21.0.2-1 arm64
+  WAV audio encoder add-on for Kodi
+
+kodi-bin/stable 2:21.2+dfsg-4 arm64
+  Open Source Home Theatre (architecture-dependent files)
+
+kodi-data/stable 2:21.2+dfsg-4 all
+  Open Source Home Theatre (arch-independent data package)
+
+kodi-eventclients-common/stable 2:21.2+dfsg-4 all
+  Open Source Home Theatre (Event Client Common package)
+
+kodi-eventclients-dev/stable 2:21.2+dfsg-4 arm64
+  Open Source Home Theatre (Event Client virtual dev package)
+
+kodi-eventclients-dev-common/stable 2:21.2+dfsg-4 all
+  Open Source Home Theatre (Event Client common dev package)
+
+kodi-eventclients-kodi-send/stable 2:21.2+dfsg-4 arm64
+  Open Source Home Theatre (Event Client Kodi-SEND package)
+
+kodi-eventclients-ps3/stable 2:21.2+dfsg-4 arm64
+  Open Source Home Theatre (Event Client PS3 package)
+
+kodi-eventclients-python/stable 2:21.2+dfsg-4 arm64
+  Open Source Home Theatre (Event Client Python package)
+
+kodi-eventclients-wiiremote/stable 2:21.2+dfsg-4 arm64
+  Open Source Home Theatre (Event Client WII Remote support package)
+
+kodi-eventclients-zeroconf/stable 2:21.2+dfsg-4 arm64
+  Open Source Home Theatre (Event Client ZeroConf script package)
+
+kodi-imagedecoder-heif/stable 21.0.2+ds-1+b1 arm64
+  HEIF image decoder for Kodi
+
+kodi-imagedecoder-raw/stable 21.0.2+ds-1 arm64
+  RAW image decoder for Kodi
+
+kodi-peripheral-xarcade/stable 21.0.2-2 arm64
+  X-Arcade Tankstick driver for Kodi
+
+kodi-pvr-dvblink/stable 21.1.3+ds-1+b1 arm64
+  DVBLink PVR Client for Kodi
+
+kodi-pvr-dvbviewer/stable 21.1.3+ds-1 arm64
+  DVBViewer Kodi PVR Addon
+
+kodi-pvr-octonet/stable 21.0.1+ds-3 arm64
+  Digital Devices Octopus NET PVR for Kodi
+
+kodi-pvr-sledovanitv-cz/stable 21.3.0+ds-4 arm64
+  sledovanitv.cz PVR for Kodi
+
+kodi-pvr-stalker/stable 21.1.3+ds-1 arm64
+  Stalker Middleware PVR client addon for Kodi
+
+kodi-pvr-teleboy/stable 21.0.0+ds1-3 arm64
+  Teleboy PVR for Kodi
+
+kodi-pvr-vbox/stable 21.1.5-1+b1 arm64
+  VBox Home TV Gateway addon for Kodi
+
+kodi-pvr-waipu/stable 21.10.1+ds-1 arm64
+  waipu PVR for Kodi
+
+kodi-pvr-zattoo/stable 21.0.4+ds-3 arm64
+  Zattoo PVR for Kodi
+
+kodi-repository-kodi/stable 2:21.2+dfsg-4 all
+  Open Source Home Theatre (official addons repository feed)
+
+kodi-screensaver-asteroids/stable 21.0.2+ds-1 arm64
+  Asteroids screensaver for Kodi
+
+kodi-screensaver-biogenesis/stable 21.0.2-1 arm64
+  BioGenesis screensaver for Kodi
+
+kodi-screensaver-greynetic/stable 21.0.2+ds-1 arm64
+  Greynetic screensaver for Kodi
+
+kodi-screensaver-pingpong/stable 21.0.2+ds-1 arm64
+  Pingpong screensaver for Kodi
+
+kodi-screensaver-pyro/stable 21.0.2-1 arm64
+  Pyro screensaver for Kodi
+
+kodi-screensaver-shadertoy/stable 21.0.2+ds-1 arm64
+  Shadertoy screensaver for Kodi
+
+kodi-tools-texturepacker/stable 2:21.2+dfsg-4 arm64
+  Open Source Home Theatre (TexturePacker skin development tool)
+
+kodi-visualization-fishbmc/stable 21.0.2+ds-1 arm64
+  Fishbmc audio visualization addon for Kodi
+
+kodi-visualization-pictureit/stable 21.0.2+ds-1 arm64
+  pictureit visualizer for Kodi
+
+kodi-visualization-shadertoy/stable 21.0.2+ds-1 arm64
+  Shadertoy audio visualization for Kodi
+
+kodi-visualization-shadertoy-data/stable 21.0.2+ds-1 all
+  Shadertoy audio visualization for Kodi (common data)
+
+kodi-visualization-spectrum/stable 21.0.2+ds-1 arm64
+  Spectrum visualizer addon for Kodi
+
+kodi-visualization-waveform/stable 21.0.2+ds-1 arm64
+  Waveform audio visualization addon for Kodi
+
+libace-perl/stable 1.92-12+b2 arm64
+  Object-Oriented Access to ACEDB Databases
+
+libadasockets-dev/stable 1.14-3 arm64
+  bindings for socket services in Ada: development files
+
+libadasockets-doc/stable 1.14-3 all
+  bindings for socket services in Ada: documentation
+
+libapache2-mod-parser3/stable 3.5.1-2 arm64
+  Parser 3, HTML-embedded scripting language (Apache2 module)
+
+libarpack++2-dev/stable 2.3-10+b4 arm64
+  Object-oriented version of the ARPACK package (development)
+
+libarpack++2c2a/stable 2.3-10+b4 arm64
+  Object-oriented version of the ARPACK package (runtime)
+
+libasl-dev/stable 0.1.7-4.1+b5 arm64
+  development files for ASL
+
+libasl0t64/stable 0.1.7-4.1+b5 arm64
+  multiphysics simulation software
+
+libatkmm-1.6-1v5/stable 2.28.4-1+b2 arm64
+  C++ wrappers for ATK accessibility toolkit (shared libraries)
+
+libatkmm-1.6-dev/stable 2.28.4-1+b2 arm64
+  C++ wrappers for ATK accessibility toolkit (development files)
+
+libatkmm-1.6-doc/stable 2.28.4-1 all
+  C++ wrappers for ATK accessibility toolkit (documentation)
+
+libatteanx-store-sparql-perl/stable 0.012-2+b1 arm64
+  Attean SPARQL triple store
+
+libboost-coroutine-dev/stable 1.83.0.2+b2 arm64
+  provides a sort of cooperative multitasking on a single thread (default version)
+
+libboost-coroutine1.83-dev/stable 1.83.0-4.2 arm64
+  provides a sort of cooperative multitasking on a single thread
+
+libboost-coroutine1.83.0/stable 1.83.0-4.2 arm64
+  provides a sort of cooperative multitasking on a single thread
+
+libboost-coroutine1.88-dev/stable 1.88.0-1 arm64
+  provides a sort of cooperative multitasking on a single thread
+
+libboost-coroutine1.88.0/stable 1.88.0-1 arm64
+  provides a sort of cooperative multitasking on a single thread
+
+libbox2d-dev/stable 2.4.1-3+b3 arm64
+  2D physics engine - development files
+
+libbox2d-doc/stable 2.4.1-3 all
+  2D physics engine - documentation
+
+libbox2d2/stable 2.4.1-3+b3 arm64
+  2D physics engine
+
+libbpp-core-dev/stable 2.4.1-13+b1 arm64
+  Bio++ Core library development files
+
+libbpp-core4t64/stable 2.4.1-13+b1 arm64
+  Bio++ Core library
+
+libbpp-phyl-dev/stable 2.4.1-11+b2 arm64
+  Bio++ Phylogenetic library development files
+
+libbpp-phyl-omics-dev/stable 2.4.1-7+b1 arm64
+  Bio++ Phylogenetics library: genomics components (development files)
+
+libbpp-phyl-omics3t64/stable 2.4.1-7+b1 arm64
+  Bio++ Phylogenetics library: genomics components
+
+libbpp-phyl12t64/stable 2.4.1-11+b2 arm64
+  Bio++ Phylogenetic library
+
+libbpp-popgen-dev/stable 2.4.1-11+b2 arm64
+  Bio++ Population Genetics library development files
+
+libbpp-popgen8t64/stable 2.4.1-11+b2 arm64
+  Bio++ Population Genetics library
+
+libbpp-qt-dev/stable 2.4.1-12+b1 arm64
+  Bio++ Qt Graphic classes library development files
+
+libbpp-qt2t64/stable 2.4.1-12+b1 arm64
+  Bio++ Qt Graphic classes library
+
+libbpp-seq-dev/stable 2.4.1-13 arm64
+  Bio++ Sequence library development files
+
+libbpp-seq-omics-dev/stable 2.4.1-12 arm64
+  Bio++ Sequence library: genomics components (development files)
+
+libbpp-seq-omics3t64/stable 2.4.1-12 arm64
+  Bio++ Sequence library: genomics components
+
+libbpp-seq12t64/stable 2.4.1-13 arm64
+  Bio++ Sequence library
+
+libcarp-assert-more-perl/stable 2.9.0-1 all
+  set of convenient assertions easier to use than libcarp-assert-perl
+
+libcatmandu-fix-cmd-perl/stable 0.0201-2 all
+  Catmandu module that pipes data to be 'fixed' through an external process
+
+libccfits-dev/stable 2.7+dfsg-1 arm64
+  static library for I/O with FITS format data files
+
+libccfits-doc/stable 2.7+dfsg-1 all
+  documentation for CCfits
+
+libccfits0v5/stable 2.7+dfsg-1 arm64
+  shared library for I/O with FITS format data files
+
+libccp4-data/stable 8.0.0-4 all
+  CCP4 core functionality - common files
+
+libccp4-dev/stable 8.0.0-4 arm64
+  CCP4 core functionality - development files
+
+libccp4c0t64/stable 8.0.0-4 arm64
+  CCP4 core functionality - C runtime
+
+libccp4f0t64/stable 8.0.0-4 arm64
+  CCP4 core functionality - fortran runtime
+
+libcctz-dev/stable 2.4+dfsg1-2 arm64
+  Library for computing dates, times and time zones, development files
+
+libcctz-doc/stable 2.4+dfsg1-2 all
+  Library for computing dates, times and time zones, documentation
+
+libcctz2.4/stable 2.4+dfsg1-2 arm64
+  Library for computing dates, times and time zones, shared library
+
+libcfitsio-bin/stable 4.6.2-2 arm64
+  CFITSIO based utilities
+
+libcfitsio-dev/stable 4.6.2-2 arm64
+  library for I/O with FITS format data files (development files)
+
+libcfitsio-doc/stable 4.6.2-2 all
+  documentation for CFITSIO
+
+libcfitsio10t64/stable,now 4.6.2-2 arm64 [installed,automatic]
+  shared library for I/O with FITS format data files
+
+libcgi-application-plugin-captcha-perl/stable 0.04-4 all
+  module providing CAPTCHA support in CGI::Application
+
+libcommons-net-java/stable 3.9.0-1 all
+  Apache Commons Net - Java client API for basic Internet protocols
+
+libcry-ocaml-dev/stable 1.0.3-3+b3 arm64
+  MP3/Ogg Vorbis broadcast OCaml module
+
+libcunit1/stable 2.1-3-dfsg-2.7+b1 arm64
+  Unit Testing Library for C
+
+libcunit1-dev/stable 2.1-3-dfsg-2.7+b1 arm64
+  Unit Testing Library for C -- development files
+
+libcunit1-doc/stable 2.1-3-dfsg-2.7 all
+  Unit Testing Library for C -- documentation
+
+libcunit1-ncurses/stable 2.1-3-dfsg-2.7+b1 arm64
+  Unit Testing Library for C (ncurses)
+
+libcunit1-ncurses-dev/stable 2.1-3-dfsg-2.7+b1 arm64
+  Unit Testing Library for C (ncurses) -- development files
+
+libdata-dumper-simple-perl/stable 0.11-7 all
+  Easily dump variables together with their names (Data::Dumper-like)
+
+libdata-hexdumper-perl/stable 3.0001-1.1 all
+  module for formatting binary data in a human-readable way
+
+libdbi-dev/stable 0.9.0-6.1+b1 arm64
+  DB Independent Abstraction Layer for C  -- development files
+
+libdbi-doc/stable 0.9.0-6.1 all
+  DB Independent Abstraction Layer for C  -- documentation
+
+libdbi1t64/stable 0.9.0-6.1+b1 arm64
+  DB Independent Abstraction Layer for C -- shared library
+
+libdbuskit-dev/stable 0.1.1-13 arm64
+  GNUstep framework that interfaces with D-Bus (development files)
+
+libdbuskit0/stable 0.1.1-13 arm64
+  GNUstep framework that interfaces with D-Bus (runtime library)
+
+libdebug0/stable 0.5.3-8+b1 arm64
+  Memory leak detection system and logging library
+
+libdebug0-dev/stable 0.5.3-8+b1 arm64
+  Development files for the debug library
+
+libdevil-dev/stable 1.7.8-12+b1 arm64
+  Cross-platform image loading and manipulation toolkit
+
+libdevil1c2/stable 1.7.8-12+b1 arm64
+  Cross-platform image loading and manipulation toolkit
+
+libdigest-elf-perl/stable 1.42-2+b4 arm64
+  Perl extension for ElfHash
+
+libdigest-sha-perl/stable 6.04-1+b3 arm64
+  Perl extension for SHA-1/224/256/384/512, SHA-512/224 and SHA-512/256
+
+libdigest-sha3-perl/stable 1.05-1+b4 arm64
+  Perl extension for SHA-3
+
+libdssi-ocaml/stable 0.1.5-3+b4 arm64
+  OCaml interface to DSSI plugins -- runtime files
+
+libdssi-ocaml-dev/stable 0.1.5-3+b4 arm64
+  OCaml interface to DSSI plugins -- developpement files
+
+libdt-utils-dev/stable 2021.03.0+ds-3+b1 arm64
+  Device tree related library (development files)
+
+libdt-utils5t64/stable 2021.03.0+ds-3+b1 arm64
+  Device tree related library
+
+libdynaloader-functions-perl/stable,now 0.004-2 all [installed,automatic]
+  deconstructed dynamic C library loading
+
+libencode-perl/stable 3.21-1+b2 arm64
+  module providing interfaces between Perl's strings and the system
+
+libequinox-app-java/stable 1.6.300+eclipse4.29-2 all
+  Eclipse Equinox Application Container
+
+libequinox-bidi-java/stable 1.4.300+eclipse4.29-2 all
+  Eclipse Equinox Bidirectional Text Support
+
+libequinox-cm-java/stable 1.5.200+eclipse4.29-2 all
+  Eclipse Equinox Configuration Admin
+
+libequinox-common-java/stable 3.18.100+eclipse4.29-2 all
+  Eclipse Equinox Common Utility Bundle
+
+libequinox-concurrent-java/stable 1.2.100+eclipse4.29-2 all
+  Eclipse Equinox Concurrent API
+
+libequinox-console-java/stable 1.4.500+eclipse4.29-2 all
+  Eclipse Equinox Console plug-in
+
+libequinox-coordinator-java/stable 1.5.200+eclipse4.29-2 all
+  Eclipse Equinox Coordinator
+
+libequinox-device-java/stable 1.1.400+eclipse4.29-2 all
+  Eclipse Equinox Device Access Service
+
+libequinox-event-java/stable 1.6.200+eclipse4.29-2 all
+  Eclipse Equinox Event Admin
+
+libequinox-http-jetty-java/stable 3.8.300+eclipse4.29-2 all
+  Eclipse Equinox Jetty HTTP Service
+
+libequinox-http-registry-java/stable 1.3.300+eclipse4.29-2 all
+  Eclipse Equinox HTTP Registry
+
+libequinox-http-servlet-java/stable 1.7.400+eclipse4.29-2 all
+  Eclipse Equinox HTTP Services Servlet
+
+libequinox-http-servletbridge-java/stable 1.2.200+eclipse4.29-2 all
+  Eclipse Equinox Servletbridge HTTP Service
+
+libequinox-jsp-jasper-java/stable 1.1.700+eclipse4.29-2 all
+  Eclipse Equinox Jasper Jsp Support Bundle
+
+libequinox-jsp-jasper-registry-java/stable 1.2.100+eclipse4.29-2 all
+  Eclipse Equinox Jasper Jsp Registry Support Plug-in
+
+libequinox-metatype-java/stable 1.6.300+eclipse4.29-2 all
+  Eclipse Equinox Meta Type
+
+libequinox-preferences-java/stable 3.10.300+eclipse4.29-2 all
+  Eclipse Preferences Mechanism
+
+libequinox-region-java/stable 1.5.300+eclipse4.29-2 all
+  Eclipse Equinox Region
+
+libequinox-registry-java/stable 3.11.300+eclipse4.29-2 all
+  Eclipse Extension Registry Support
+
+libequinox-security-java/stable 1.4.0+eclipse4.29-2 all
+  Eclipse Equinox Java Authentication and Authorization Service (JAAS)
+
+libequinox-security-ui-java/stable 1.4.0+eclipse4.29-2 all
+  Equinox Security Default UI
+
+libequinox-servletbridge-java/stable 1.6.300+eclipse4.29-2 all
+  Eclipse Equinox Servletbridge
+
+libequinox-transforms-hook-java/stable 1.3.300+eclipse4.29-2 all
+  Eclipse Equinox Transformer Hook Framework Extension
+
+libequinox-transforms-xslt-java/stable 1.2.300+eclipse4.29-2 all
+  Eclipse Equinox Transforms XSLT
+
+libequinox-useradmin-java/stable 1.2.400+eclipse4.29-2 all
+  Eclipse Equinox User Admin Service
+
+libequinox-weaving-caching-java/stable 1.2.300+eclipse4.29-2 all
+  Eclipse Equinox Weaving Caching
+
+libequinox-weaving-hook-java/stable 1.3.200+eclipse4.29-2 all
+  Eclipse Equinox Weaving Hook
+
+libexception-class-perl/stable,now 1.45-1 all [installed,automatic]
+  module that allows you to declare real exception classes in Perl
+
+libextlib-ocaml-dev/stable 1.8.0-2+b2 arm64
+  extended standard library for OCaml
+
+libfaad-ocaml/stable 0.5.1-5+b4 arm64
+  OCaml interface to the faad library -- runtime files
+
+libfaad-ocaml-dev/stable 0.5.1-5+b4 arm64
+  OCaml interface to the faad library -- development files
+
+libfinal-dev/stable 0.9.1-1 arm64
+  Developer's library for the final cut widget toolkit
+
+libfinal-examples/stable 0.9.1-1 all
+  Test and example programs for the final cut widget toolkit
+
+libfinal0/stable 0.9.1-1 arm64
+  Shared library for the final cut widget toolkit
+
+libfips203-dev/stable 0.4.3-2 arm64
+  Library for FIPS 203 (ML-KEM) - development files
+
+libflac-ocaml/stable 1.0.0-1+b2 arm64
+  OCaml interface to the flac library -- runtime files
+
+libflac-ocaml-dev/stable 1.0.0-1+b2 arm64
+  OCaml interface to the flac library -- development files
+
+libfreemarker-java/stable 2.3.32-2.1 all
+  template engine written in Java
+
+libfrei0r-ocaml/stable 0.1.2-3+b4 arm64
+  OCaml interface to the frei0r API -- runtime files
+
+libfrei0r-ocaml-dev/stable 0.1.2-3+b4 arm64
+  OCaml interface to the frei0r API -- developpement files
+
+libftp-dev/stable 4.0-1-4+b2 arm64
+  Library of callable ftp routines (development)
+
+libftp4/stable 4.0-1-4+b2 arm64
+  Library of callable ftp routines
+
+libgavl-ocaml/stable 0.1.6-2+b4 arm64
+  OCaml interface to the gavl library
+
+libgavl-ocaml-dev/stable 0.1.6-2+b4 arm64
+  OCaml interface to the gavl library
+
+libgd-ocaml/stable 1.0~alpha5.git20220521.bb52fb2-2+b3 arm64
+  OCaml interface to the GD library -- runtime files
+
+libgd-ocaml-dev/stable 1.0~alpha5.git20220521.bb52fb2-2+b3 arm64
+  OCaml interface to the GD library -- development files
+
+libgdbm-compat-dev/stable 1.24-2 arm64
+  GNU dbm database routines (legacy support development files) 
+
+libgdbm-compat4t64/stable,now 1.24-2 arm64 [installed,automatic]
+  GNU dbm database routines (legacy support runtime version) 
+
+libgdbm-dev/stable 1.24-2 arm64
+  GNU dbm database routines (development files) 
+
+libgdbm6t64/stable,now 1.24-2 arm64 [installed,automatic]
+  GNU dbm database routines (runtime version) 
+
+libgetopt-java/stable 1.0.14+dfsg-6 all
+  GNU getopt - Java port
+
+libgetopt-ocaml-dev/stable 0.0.20230213-1+b4 arm64
+  command line parsing library for OCaml
+
+libghc-abstract-deque-dev/stable 0.3-13+b1 arm64
+  abstract, parameterized interface to mutable Deques
+
+libghc-abstract-deque-doc/stable 0.3-13 all
+  abstract, parameterized interface to mutable Deques; documentation
+
+libghc-abstract-deque-prof/stable 0.3-13+b1 arm64
+  abstract, parameterized interface to mutable Deques; profiling libraries
+
+libghc-hslogger-dev/stable 1.3.1.1+dfsg-1 arm64
+  logging framework for Haskell
+
+libghc-hslogger-doc/stable 1.3.1.1+dfsg-1 all
+  logging framework for Haskell; documentation
+
+libghc-hslogger-prof/stable 1.3.1.1+dfsg-1 arm64
+  logging framework for Haskell; profiling libraries
+
+libghc-missingh-dev/stable 1.6.0.1-2+b1 arm64
+  Library of utility functions for Haskell
+
+libghc-missingh-doc/stable 1.6.0.1-2 all
+  Documentation for Haskell utility library
+
+libghc-missingh-prof/stable 1.6.0.1-2+b1 arm64
+  Library of utility functions for Haskell, profiling libraries
+
+libghc-postgresql-libpq-dev/stable 0.10.0.0-1+b1 arm64
+  low-level binding to libpq
+
+libghc-postgresql-libpq-doc/stable 0.10.0.0-1 all
+  low-level binding to libpq; documentation
+
+libghc-postgresql-libpq-prof/stable 0.10.0.0-1+b1 arm64
+  low-level binding to libpq; profiling libraries
+
+libghc-quickcheck2-dev/stable 2.14.3-2+b1 arm64
+  Haskell automatic testing library for GHC
+
+libghc-quickcheck2-doc/stable 2.14.3-2 all
+  Haskell automatic testing library for GHC; documentation
+
+libghc-quickcheck2-prof/stable 2.14.3-2+b1 arm64
+  Haskell automatic testing library for GHC; profiling libraries
+
+libghc-safe-dev/stable 0.3.21-1+b1 arm64
+  GHC Library for safe (pattern match free) functions
+
+libghc-safe-doc/stable 0.3.21-1 all
+  Documentation for safe library for (pattern match free) functions; documentation
+
+libghc-safe-prof/stable 0.3.21-1+b1 arm64
+  Profiling library for safe (pattern match free) functions; profiling libraries
+
+libghc-singletons-dev/stable 3.0.3-1+b1 arm64
+  Haskell framework for generating singleton types
+
+libghc-singletons-doc/stable 3.0.3-1 all
+  Haskell framework for generating singleton types; documentation
+
+libghc-singletons-prof/stable 3.0.3-1+b1 arm64
+  Haskell framework for generating singleton types; profiling libraries
+
+libgmime-3.0-dev/stable 3.2.15+dfsg-1 arm64
+  MIME message parser and creator library - development files
+
+libgmp10/stable,now 2:6.3.0+dfsg-3 arm64 [installed]
+  Multiprecision arithmetic library
+
+libgmpada-dev/stable 1.6-4 arm64
+  Ada binding to the GNU MultiPrecision library: development
+
+libgmpada9/stable 1.6-4 arm64
+  Ada binding to the GNU MultiPrecision library: shared library
+
+libgmpxx4ldbl/stable 2:6.3.0+dfsg-3 arm64
+  Multiprecision arithmetic library (C++ bindings)
+
+libgo-perl/stable 0.15-10 all
+  perl modules for GO and other OBO ontologies
+
+libgsl-dbg/stable 2.8+dfsg-5 arm64
+  GNU Scientific Library (GSL) -- debug symbols package
+
+libgsl-dev/stable 2.8+dfsg-5 arm64
+  GNU Scientific Library (GSL) -- development package
+
+libgsl28/stable 2.8+dfsg-5 arm64
+  GNU Scientific Library (GSL) -- library package
+
+libgslcblas0/stable 2.8+dfsg-5 arm64
+  GNU Scientific Library (GSL) -- blas library package
+
+libgstreamer-ocaml/stable 0.3.1-4+b5 arm64
+  OCaml interface to the GStreamer library -- runtime files
+
+libgstreamer-ocaml-dev/stable 0.3.1-4+b5 arm64
+  OCaml interface to the GStreamer library -- development files
+
+libgtkada-bin/stable 24.0.0-5 arm64
+  Ada binding for the GTK+ GUI (development utilities)
+
+libgtkada-dev/stable 24.0.0-5 arm64
+  Ada binding for the GTK+ GUI (development files)
+
+libgtkada-doc/stable 24.0.0-5 all
+  Ada binding for the GTK+ GUI (documentation)
+
+libgtkada23/stable 24.0.0-5 arm64
+  Ada binding for the GTK+ GUI (dynamic library)
+
+libgtkmm-2.4-1t64/stable 1:2.24.5-6 arm64
+  C++ wrappers for GTK+ 2 (shared libraries)
+
+libgtkmm-2.4-dev/stable 1:2.24.5-6 arm64
+  C++ wrappers for GTK+ 2 (development files)
+
+libgtkmm-2.4-doc/stable 1:2.24.5-6 all
+  C++ wrappers for GTK+ 2 (documentation)
+
+libgtkmm-3.0-1t64/stable 3.24.10-1 arm64
+  C++ wrappers for GTK+ (shared libraries)
+
+libgtkmm-3.0-dev/stable 3.24.10-1 arm64
+  C++ wrappers for GTK+ (development files)
+
+libgtkmm-3.0-doc/stable 3.24.10-1 all
+  C++ wrappers for GTK+ (documentation)
+
+libgtkmm-4.0-0/stable 4.18.0-1 arm64
+  C++ wrappers for GTK4 (shared libraries)
+
+libgtkmm-4.0-dev/stable 4.18.0-1 arm64
+  C++ wrappers for GTK4 (development files)
+
+libgtkmm-4.0-doc/stable 4.18.0-1 all
+  C++ wrappers for GTK4 (documentation)
+
+libhtml-template-perl/stable 2.97-2 all
+  module for using HTML templates with Perl
+
+libid3-3.8.3-dev/stable 3.8.3-18+b3 arm64
+  ID3 Tag Library: Development Libraries and Header Files
+
+libid3-doc/stable 3.8.3-18 all
+  ID3 Tag Library: Documentation
+
+libidn2-doc/stable 2.3.8-2 all
+  Internationalized domain names (IDNA2008/TR46) documentation
+
+libiscwt-java-doc/stable 5.5.20131203+dfsg-1 all
+  Javadoc API description for isCWT
+
+libisfreetype-java-doc/stable 5.3.20100629-4 all
+  Javadoc API description for isFreeType
+
+libisnativec-java-doc/stable 5.6.20131203+dfsg-1 all
+  Javadoc API description for isNativeC
+
+libispcrt-dev/stable 1.26.0-1 arm64
+  Intel Implicit SPMD Program Compiler runtime library development files
+
+libispcrt1/stable 1.26.0-1 arm64
+  Intel Implicit SPMD Program Compiler runtime library
+
+libiterator-simple-perl/stable 0.07-3 all
+  simple iterators and utilities
+
+libjargs-java/stable 1.0.0-5 all
+  Command-line argument parsing for Java
+
+libjaylink-dev/stable 0.4.0-1 arm64
+  library for interacting with J-Link programmers (development files)
+
+libjaylink0/stable 0.4.0-1 arm64
+  library for interacting with J-Link programmers
+
+libjdom1-java/stable 1.1.3-3 all
+  lightweight and fast library using XML
+
+libjdom1-java-doc/stable 1.1.3-3 all
+  lightweight and fast library using XML - documentation
+
+libjdom2-intellij-java/stable 2.0.6+git20180529-3 all
+  lightweight and fast XML DOM library (IntelliJ version)
+
+libjdom2-java/stable 2.0.6.1-1 all
+  lightweight and fast library using XML
+
+libjets3t-java/stable 0.8.1+dfsg-5 all
+  Java interface to Amazon S3 and CloudFront services
+
+libjfugue-java/stable 4.0.3-5 all
+  Java API for music programming
+
+libjgromacs-java/stable 1.0-2 all
+  library for molecular dynamics trajectory analysis
+
+libjgromacs-java-doc/stable 1.0-2 all
+  library for molecular dynamics trajectory analysis (documentation)
+
+libjlapack-java/stable 0.8~dfsg-6 all
+  LAPACK numerical subroutines translated from their Fortran 77 source
+
+libjlha-java/stable 0.0.20050504-11 all
+  LHA compress/decompress library for Java
+
+libjs-fuzzaldrin-plus/stable 0.6.0+dfsg+~0.6.2-3 all
+  fuzzy search / highlight for programmer's text editor (browser)
+
+libjson-java/stable 3.1.0+dfsg-2 all
+  library for transforming Java objects and XML to JSON and back again
+
+libjts-java-doc/stable 1.20.0+ds-2 all
+  Documentation for the JTS Topology Suite
+
+libkf5i18n-data/stable 5.116.0-1 all
+  Advanced internationalization framework.
+
+libkf5i18n-dev/stable 5.116.0-1 arm64
+  Advanced internationalization framework.
+
+libkf5i18n-doc/stable 5.116.0-1 all
+  Advanced internationalization framework (documentation)
+
+libkf5i18n5/stable 5.116.0-1 arm64
+  Advanced internationalization framework.
+
+libkf5i18nlocaledata5/stable 5.116.0-1 arm64
+  Advanced internationalization framework (locale data)
+
+libkf6i18n-data/stable 6.13.0-1 all
+  Advanced internationalization framework (architecture-independent data)
+
+libkf6i18n-dev/stable 6.13.0-1 arm64
+  Advanced internationalization framework (development files)
+
+libkf6i18n-doc/stable 6.13.0-1 all
+  Advanced internationalization framework (documentation)
+
+libkf6i18n6/stable 6.13.0-1 arm64
+  Advanced internationalization framework
+
+libkf6i18nlocaledata6/stable 6.13.0-1 arm64
+  Advanced internationalization framework (locale data)
+
+libkf6i18nqml6/stable 6.13.0-1 arm64
+  Advanced internationalization framework (QML bindings)
+
+libladspa-ocaml/stable 0.2.2-3+b4 arm64
+  OCaml bindings for LADSPA -- runtime files
+
+libladspa-ocaml-dev/stable 0.2.2-3+b4 arm64
+  OCaml bindings for LADSPA -- development files
+
+liblasi-dev/stable 1.1.3-2.1+b1 arm64
+  development files and documentation for the LASi library
+
+liblasi0t64/stable 1.1.3-2.1+b1 arm64
+  creation of PostScript documents containing Unicode symbols
+
+liblo-ocaml/stable 0.2.0.git20240724.0b43bdf-1+b2 arm64
+  OCaml interface to the lo library -- runtime files
+
+liblo-ocaml-dev/stable 0.2.0.git20240724.0b43bdf-1+b2 arm64
+  OCaml interface to the lo library -- development files
+
+liblog4j1.2-java/stable 1.2.17-11 all
+  Logging library for java
+
+liblog4net-cil-dev/stable 1.2.10+dfsg-9 all
+  highly configurable logging API for the CLI
+
+liblog4net1.2-cil/stable 1.2.10+dfsg-9 all
+  highly configurable logging API for the CLI
+
+libltdl-dev/stable 2.5.4-4 arm64
+  System independent dlopen wrapper for GNU libtool (headers)
+
+libltdl7/stable,now 2.5.4-4 arm64 [installed,automatic]
+  System independent dlopen wrapper for GNU libtool
+
+liblv2dynparam1-dev/stable 2-7.1+b1 arm64
+  lv2dynparam is a LV2 plugin interface extension
+
+libmadness-dev/stable 0.10.1+git20200818.eee5fd9f-3 arm64
+  Numerical Environment for Scientific Simulation (development files)
+
+libmagickcore-7-arch-config/stable 8:7.1.1.43+dfsg1-1+deb13u10 arm64
+  low-level image manipulation library - architecture header files
+
+libmagickcore-7-headers/stable 8:7.1.1.43+dfsg1-1+deb13u10 all
+  low-level image manipulation library - header files
+
+libmagickcore-7.q16-10/stable 8:7.1.1.43+dfsg1-1+deb13u10 arm64
+  low-level image manipulation library -- quantum depth Q16
+
+libmagickcore-7.q16-dev/stable 8:7.1.1.43+dfsg1-1+deb13u10 arm64
+  low-level image manipulation library - development files (Q16)
+
+libmagickcore-7.q16hdri-10/stable 8:7.1.1.43+dfsg1-1+deb13u10 arm64
+  low-level image manipulation library -- quantum depth Q16HDRI
+
+libmagickcore-7.q16hdri-dev/stable 8:7.1.1.43+dfsg1-1+deb13u10 arm64
+  low-level image manipulation library - development files (Q16HDRI)
+
+libmaloc-dev/stable 1.5-2+b3 arm64
+  Object-oriented Abstraction Layer for C (development files)
+
+libmath-gsl-perl/stable 0.45-2+b1 arm64
+  interface to the GNU Scientific Library using SWIG
+
+libmawk-dev/stable 1.0.4-4 all
+  embeddable mawk lib
+
+libmawk1t64/stable 1.0.4-4 arm64
+  embeddable mawk lib
+
+libminini-dev/stable 1.5+ds-1 arm64
+  minimal INI file parser - development headers
+
+libminini1t64/stable 1.5+ds-1 arm64
+  minimal INI file parser
+
+libmnl-dev/stable 1.0.5-3 arm64
+  minimalistic Netlink communication library (devel)
+
+libmnl0/stable,now 1.0.5-3 arm64 [installed,automatic]
+  minimalistic Netlink communication library
+
+libmp3lame-ocaml/stable 0.3.7-3+b4 arm64
+  OCaml interface to the lame library -- runtime files
+
+libmp3lame-ocaml-dev/stable 0.3.7-3+b4 arm64
+  OCaml interface to the lame library -- development files
+
+libncursesada-dev/stable 6.3.20211021-13 arm64
+  Ada binding to the ncurses text interface library: development
+
+libncursesada6.2.4/stable 6.3.20211021-13 arm64
+  Ada binding to the ncurses text interface library: shared library
+
+libnekohtml-java/stable 1.9.22.noko2-0.1 all
+  NekoHTML - HTML parser for Java
+
+libnekohtml-java-doc/stable 1.9.22.noko2-0.1 all
+  NekoHTML - HTML parser for Java (Documentation)
+
+libnet-dns-perl/stable,now 1.50-1 all [installed,automatic]
+  module to perform DNS queries
+
+libnexus-dev/stable 4.4.3-7 arm64
+  NeXus scientific data file format - development libraries
+
+libnexus-java/stable 4.4.3-7 all
+  NeXus scientific data file format - java libraries
+
+libnexus-jni/stable 4.4.3-7 arm64
+  NeXus scientific data file format - JNI library
+
+libnexus1/stable 4.4.3-7 arm64
+  NeXus scientific data file format - runtime libraries
+
+libnng-dev/stable 1.10.1-2 arm64
+  Lightweight Messaging Library - development
+
+libnng-doc/stable 1.10.1-2 all
+  Lightweight Messaging Library - HTML documentation
+
+libnng1/stable 1.10.1-2 arm64
+  Lightweight Messaging Library - shared library
+
+libnoise-dev/stable 1.0.0+repack-3+b1 arm64
+  Portable, coherent noise-generating library for C++
+
+libnoise0/stable 1.0.0+repack-3+b1 arm64
+  Portable, coherent noise-generating library for C++
+
+libobus-ocaml/stable 1.2.5-1+b9 arm64
+  pure OCaml implementation of D-Bus (runtime)
+
+libobus-ocaml-bin/stable 1.2.5-1+b9 arm64
+  pure OCaml implementation of D-Bus (command-line tools)
+
+libobus-ocaml-dev/stable 1.2.5-1+b9 arm64
+  pure OCaml implementation of D-Bus (development files)
+
+libopenoffice-oodoc-perl/stable 2.125-4 all
+  module for working with Open Document Format files
+
+libopenthreads-dev/stable 3.6.5+dfsg1-9 arm64
+  Object-Oriented (OO) thread interface for C++, development files
+
+libopenthreads21/stable 3.6.5+dfsg1-9 arm64
+  Object-Oriented (OO) thread interface for C++, shared libs
+
+libopus-ocaml/stable 1.0.0-1+b2 arm64
+  OCaml interface to the opus library -- runtime files
+
+libopus-ocaml-dev/stable 1.0.0-1+b2 arm64
+  OCaml interface to the opus library -- development files
+
+libpegex-perl/stable 0.75-2 all
+  Acmeist PEG Parser Framework
+
+libphysfs-dev/stable 3.0.2-6+b2 arm64
+  filesystem abstraction library for game programmers (development headers)
+
+libphysfs1/stable 3.0.2-6+b2 arm64
+  filesystem abstraction library for game programmers
+
+libpiccolo-java/stable 1.2-1.1 all
+  toolkit for development of 2D structured graphics
+
+libprismatic-schema-clojure/stable 1.2.0-6 all
+  Clojure(Script) library for declarative data description and validation
+
+libpulse-ocaml/stable 0.1.5-3+b4 arm64
+  OCaml interface to the PulseAudio sound server
+
+libpulse-ocaml-dev/stable 0.1.5-3+b4 arm64
+  OCaml interface to the pulseaudio library
+
+libpurple0t64/stable 2.14.14-1 arm64
+  multi-protocol instant messaging library
+
+libqwtplot3d-doc/stable 0.2.7+svn191+gcc7-3 all
+  3D plotting library based on Qt/OpenGL (documentation)
+
+libqwtplot3d-qt5-0/stable 0.2.7+svn191+gcc7-3+b4 arm64
+  3D plotting library based on Qt5/OpenGL (runtime)
+
+libqwtplot3d-qt5-dev/stable 0.2.7+svn191+gcc7-3+b4 arm64
+  3D plotting library based on Qt5/OpenGL (development)
+
+libraw1394-doc/stable 2.1.2-2 all
+  Reference manual and documentation about libraw1394
+
+librinci-perl/stable 1.1.104-1 all
+  module that provides a language-neutral metadata for your code
+
+libroscpp-dev/stable 1.17.0+ds-2+b5 arm64
+  Robot OS development files for libroscpp
+
+libroscpp-msg-dev/stable 1.17.0+ds-2+b5 arm64
+  Robot OS header for roscpp messages
+
+libroscpp4t64/stable 1.17.0+ds-2+b5 arm64
+  Robot OS client library
+
+libsamplerate-ocaml/stable 0.1.6-3+b4 arm64
+  OCaml interface to the samplerate library
+
+libsamplerate-ocaml-dev/stable 0.1.6-3+b4 arm64
+  OCaml interface to the samplerate library
+
+libscythestat-dev/stable 1.0.3-2 all
+  header files for Scythe statistics library
+
+libshell-posix-select-perl/stable 0.09-1 all
+  POSIX Shell's "select" loop for Perl
+
+libshine-ocaml/stable 0.2.3-3+b4 arm64
+  OCaml interface to the shine library -- runtime files
+
+libshine-ocaml-dev/stable 0.2.3-3+b4 arm64
+  OCaml interface to the shine library -- development files
+
+libshout-dev/stable 2.4.6-1+b3 arm64
+  MP3/Ogg Vorbis broadcast streaming library (development)
+
+libsimtkmolmodel-dev/stable 3.1.0-4.1+b3 arm64
+  C++ API for creating molecular models for SimTK (development files)
+
+libsimtkmolmodel-plugins/stable 3.1.0-4.1+b3 arm64
+  Plugins for C++ API for creating molecular models for SimTK
+
+libsimtkmolmodel3.1t64/stable 3.1.0-4.1+b3 arm64
+  C++ API for creating molecular models for SimTK
+
+libskypat3t64/stable 3.2.0-1 arm64
+  C++ performance analyzing and testing framework - shared libraries
+
+libslang2/stable,now 2.3.3-5+b2 arm64 [installed,automatic]
+  S-Lang programming library - runtime version
+
+libslang2-dev/stable 2.3.3-5+b2 arm64
+  S-Lang programming library, development version
+
+libslang2-modules/stable 2.3.3-5+b2 arm64
+  Shared modules for S-Lang language
+
+libsmi2-dev/stable 0.4.8+dfsg2-17+b1 arm64
+  library to access SMI MIB information - development files
+
+libsmi2t64/stable 0.4.8+dfsg2-17+b1 arm64
+  library to access SMI MIB information
+
+libsoqt520-dev/stable 1.6.3+ds1-2 arm64
+  Qt5 GUI component toolkit for Inventor - development
+
+libsoqt620-dev/stable 1.6.3+ds1-2 arm64
+  Qt6 GUI component toolkit for Inventor - development
+
+libspeechd-dev/stable 0.12.0-5 arm64
+  Speech Dispatcher: Development libraries and header files
+
+libspeechd-module0/stable 0.12.0-5 arm64
+  Speech Dispatcher: Shared libraries for modules
+
+libspeechd2/stable 0.12.0-5 arm64
+  Speech Dispatcher: Shared libraries
+
+libspeex-ocaml/stable 1.0.0-1+b2 arm64
+  OCaml interface to the speex library -- runtime files
+
+libspeex-ocaml-dev/stable 1.0.0-1+b2 arm64
+  OCaml interface to the speex library -- development files
+
+libspi-java/stable 0.2.7-1 all
+  Simplifies usage of Java Service Provider Interface
+
+libssh-4/stable 0.11.2-1+deb13u1 arm64
+  tiny C SSH library (OpenSSL flavor)
+
+libssh-dev/stable 0.11.2-1+deb13u1 arm64
+  tiny C SSH library - Development files (OpenSSL flavor)
+
+libssh-doc/stable 0.11.2-1+deb13u1 all
+  tiny C SSH library - Documentation files
+
+libsub-override-perl/stable 0.12-1 all
+  Perl module used to temporarily override subroutines
+
+libsub-strictdecl-perl/stable 0.005-2+b5 arm64
+  module to detect undeclared subroutines in compilation
+
+libsvgsalamander-java/stable 1.1.4-1 all
+  SVG engine for Java
+
+libswe-doc/stable 2.10.03-3.1 all
+  Swiss Ephemeris C library (documentation).
+
+libtermbox-dev/stable 1.1.2+dfsg-7 arm64
+  Library for writing text-based user interfaces (dev)
+
+libtermbox1/stable 1.1.2+dfsg-7 arm64
+  Library for writing text-based user interfaces (lib)
+
+libtesseract-dev/stable 5.5.0-1+b1 arm64
+  Development files for the tesseract command line OCR tool
+
+libtesseract5/stable 5.5.0-1+b1 arm64
+  Tesseract OCR library
+
+libtest-filename-perl/stable 0.03-2 all
+  portable filename comparison
+
+libtest-number-delta-perl/stable 1.06-4 all
+  module to compare the difference between numbers against a given tolerance
+
+libtest-weaken-perl/stable 3.022000-2 all
+  Perl module to test that freed memory objects were actually freed
+
+libtheora-ocaml/stable 1.0.0-1+b2 arm64
+  OCaml interface to the theora library -- runtime files
+
+libtheora-ocaml-dev/stable 1.0.0-1+b2 arm64
+  OCaml interface to the theora library -- development files
+
+libthrust-dev/stable 2.3.2-2 all
+  Thrust - Parallel Algorithms Library
+
+libtie-simple-perl/stable 1.04-4 all
+  simple way to tie Perl variables
+
+libtse3-0.3.1t64/stable 0.3.1-7+b1 arm64
+  portable MIDI sequencer engine in C++
+
+libtse3-dev/stable 0.3.1-7+b1 arm64
+  portable MIDI sequencer engine in C++ - development files
+
+libunac1/stable 1.8.0-10+b3 arm64
+  unac programming library - runtime version
+
+libunac1-dev/stable 1.8.0-10+b3 arm64
+  C programmer's library that removes accents from a string
+
+libuniversal-can-perl/stable 1.20140328-3 all
+  safer version of UNIVERSAL::can
+
+liburjtag-dev/stable 2024.03.24-1+b1 arm64
+  JTAG programmer for various flash parts and boards - devel
+
+liburjtag-o-dev/stable 2021.03-5 arm64
+  JTAG programmer for various flash parts and boards - devel
+
+liburjtag-o0/stable 2021.03-5 arm64
+  JTAG programmer for various flash parts and boards - library
+
+liburjtag0/stable 2024.03.24-1+b1 arm64
+  JTAG programmer for various flash parts and boards - library
+
+libvi-quickfix-perl/stable 1.135-3 all
+  Perl support for vim's QuickFix mode
+
+libvips-doc/stable 8.16.1-1+deb13u1 all
+  image processing system good for very large ones (doc)
+
+libvncclient1/stable 0.9.15+dfsg-1+deb13u2 arm64
+  API to write one's own VNC server - client library
+
+libvncserver-dev/stable 0.9.15+dfsg-1+deb13u2 arm64
+  API to write one's own VNC server - development files
+
+libvncserver1/stable 0.9.15+dfsg-1+deb13u2 arm64
+  API to write one's own VNC server
+
+libvoaacenc-ocaml/stable 0.1.1-2+b4 arm64
+  OCaml interface to the vo-aacenc library -- runtime files
+
+libvoaacenc-ocaml-dev/stable 0.1.1-2+b4 arm64
+  OCaml interface to the vo-aacenc library -- developpement files
+
+libvtkgdcm-9.1t64/stable 3.0.24-5+b3 arm64
+  Grassroots DICOM VTK runtime libraries
+
+libxklavier16/stable 5.4-5+b2 arm64
+  X Keyboard Extension high-level API
+
+libxml-filter-buffertext-perl/stable 1.01-7 all
+  Perl module for putting all characters into a single event
+
+libxml-libxml-perl/stable 2.0207+dfsg+really+2.0134-5+deb13u1 arm64
+  Perl interface to the libxml2 library
+
+libxml-nodefilter-perl/stable 0.01-8 all
+  Perl module for a generic node-filter class for DOM traversal
+
+libxml-sax-perl/stable 1.02+dfsg-4 all
+  Perl module for using and building Perl SAX2 XML processors
+
+libxmlada-doc/stable 25.0.0-4 all
+  XML/Ada, a full XML suite for Ada programmers (documentation)
+
+libxmlada-dom-dev/stable 25.0.0-4 arm64
+  XML/Ada, a full XML suite for Ada programmers (dom)
+
+libxmlada-dom9/stable 25.0.0-4 arm64
+  XML/Ada, a full XML suite for Ada programmers (dom runtime)
+
+libxmlada-input-dev/stable 25.0.0-4 arm64
+  XML/Ada, a full XML suite for Ada programmers (input sources)
+
+libxmlada-input8/stable 25.0.0-4 arm64
+  XML/Ada, a full XML suite for Ada programmers (input sources runtime)
+
+libxmlada-sax-dev/stable 25.0.0-4 arm64
+  XML/Ada, a full XML suite for Ada programmers (sax)
+
+libxmlada-sax8/stable 25.0.0-4 arm64
+  XML/Ada, a full XML suite for Ada programmers (sax runtime)
+
+libxmlada-schema-dev/stable 25.0.0-4 arm64
+  XML/Ada, a full XML suite for Ada programmers (schema)
+
+libxmlada-schema8/stable 25.0.0-4 arm64
+  XML/Ada, a full XML suite for Ada programmers (schema runtime)
+
+libxmlada-unicode-dev/stable 25.0.0-4 arm64
+  XML/Ada, a full XML suite for Ada programmers (unicode)
+
+libxmlada-unicode8/stable 25.0.0-4 arm64
+  XML/Ada, a full XML suite for Ada programmers (unicode runtime)
+
+libxmlm-ocaml-dev/stable 1.4.0-1+b4 arm64
+  OCaml xml manipulation module
+
+libxpa-dev/stable 2.1.20-3 arm64
+  Seamless communication between Unix programs (development files)
+
+libxpa1/stable 2.1.20-3 arm64
+  Seamless communication between Unix programs (shared library)
+
+libzimg-dev/stable 3.0.5+ds1-1+b2 arm64
+  scaling, colorspace, depth conversion library (development files)
+
+libzimg2/stable 3.0.5+ds1-1+b2 arm64
+  scaling, colorspace, depth conversion library (shared library)
+
+limnoria/stable 2025.5.3-1 all
+  robust and user-friendly Python IRC bot
+
+lpe/stable 1.2.8-2.1+b1 arm64
+  Lightweight Programmer's Editor
+
+lua-ansicolors/stable 1.0.2-3 all
+  simple Lua function for printing to the console in color
+
+m16c-flash/stable 0.1-1.4+b1 arm64
+  Flash programmer for Renesas M16C and R8C microcontrollers
+
+meson/stable 1.7.0-1 all
+  high-productivity build system
+
+mh-book/stable 200605-2.3 all
+  MH & nmh: Email for Users & Programmers online book
+
+moarvm/stable 2024.09+dfsg-5 arm64
+  virtual machine for Rakudo Perl 6 and NQP
+
+moarvm-dev/stable 2024.09+dfsg-5 arm64
+  development files for moarvm
+
+mspdebug/stable 0.25-1 arm64
+  debugging tool for MSP430 microcontrollers
+
+nbc/stable 1.2.1.r4+dfsg-14 arm64
+  C compiler for LEGO Mindstorms NXT bricks
+
+netpipes/stable 4.2-8+b3 arm64
+  manipulate BSD TCP/IP stream sockets
+
+nexus-tools/stable 4.4.3-7 arm64
+  NeXus scientific data file format - applications
+
+nlinline-dev/stable 0.2.2-1 all
+  inline library for networking configuration (via netlink)
+
+nng-utils/stable 1.10.1-2 arm64
+  Lightweight Messaging Library - utility
+
+node-assertive/stable 5.0.5-1 all
+  assertion library, designed for coffee-script
+
+node-eslint-plugin-flowtype/stable 2.25.0-4 all
+  flow type linting rules for ESLint
+
+node-fuzzaldrin-plus/stable 0.6.0+dfsg+~0.6.2-3 all
+  Fuzzy filtering and string scoring - compatible with fuzzaldrin
+
+node-ramda/stable 0.28.0+dfsg+~cs9.34.18-2 all
+  practical functional library for JavaScript programmers
+
+node-stack-utils/stable 2.0.6+~2.0.1-1 all
+  Captures and cleans stack traces
+
+node-winston/stable 3.8.2-1 all
+  Logger for just about everything (for Nodejs)
+
+noweb/stable 2.13-2 arm64
+  WEB-like literate-programming tool
+
+ocamlmakefile/stable 6.39.2-2 all
+  general makefile for the Objective Caml programming language
+
+openocd/stable 0.12.0-3+b2 arm64
+  Open on-chip JTAG/SWD debug solution for embedded target devices
+
+opt/stable 3.19-3+b1 arm64
+  Options Parsing Tool library
+
+parser3/stable 3.5.1-2 all
+  Parser 3, HTML-embedded scripting language (metapackage)
+
+parser3-cgi/stable 3.5.1-2 arm64
+  Parser 3, HTML-embedded scripting language (CGI binary)
+
+parser3-common/stable 3.5.1-2 all
+  Common files for packages built from the Parser 3 source
+
+parser3-dev/stable 3.5.1-2 all
+  Files for Parser 3 module development
+
+parser3-mysql/stable 10.9-1 arm64
+  MySQL driver for Parser 3
+
+pd-purepd/stable 0.1.1-6 all
+  library of standard objects re-implemented using Pd-vanilla
+
+plm/stable 2.9.2-1.1 all
+  Programming exerciser in Java, Python, Scala and others
+
+plover/stable 4.0.0~rc5-0.1 all
+  free stenography engine and typing tool
+
+pnc/stable 0.9.4-3+b3 arm64
+  libphonenumber command-line wrapper, and GNU AWK extension
+
+pod2pdf/stable 0.42-5.2 all
+  Plain Old Documentation to Portable Document Format converter
+
+ponyprog/stable 3.1.4+ds-1 arm64
+  Serial device programmer
+
+postgresql-17-pgpcre/stable 0.20190509-8 arm64
+  Perl Compatible Regular Expressions (PCRE) extension for PostgreSQL
+
+pyjoke/stable 0.5.0-4 all
+  Command line utility to make programmer jokes
+
+pyp/stable 3.0.9-1 all
+  sed/awk-like tool with Python language
+
+python-anyqt-doc/stable 0.2.0-4 all
+  PyQt/PySide compatibility layer for Qt4/Qt5/Qt6.
+
+python-bs4-doc/stable 4.13.4-2 all
+  error-tolerant HTML parser for Python - documentation
+
+python-configobj-doc/stable 5.0.9-1 all
+  simple but powerful config file reader and writer (documentation)
+
+python-guizero-doc/stable 1.6.0+ds-1 all
+  module to allow quick and easy GUI creation (documentation)
+
+python-h5py-doc/stable 3.13.0-1 all
+  documentation for h5py
+
+python-lmfit-doc/stable 1.3.3-4 all
+  Least-Squares Minimization with Constraints (Documentation)
+
+python-nxs-doc/stable 4.4.1-7 all
+  NeXus scientific data file format - documentation
+
+python-parted-doc/stable 3.13.0-1 all
+  Python 3 interface for libparted (common documentation)
+
+python-psycopg2-doc/stable 2.9.10-1 all
+  Python module for PostgreSQL (documentation package)
+
+python-ptk-doc/stable 1.3.8+dfsg-3 all
+  parser for Python with support for asynchronous input (documentation)
+
+python-pydispatch-doc/stable 2.0.7-1 all
+  documentation for python3-pydispatch
+
+python-pyment-doc/stable 0.3.4+ds-4 all
+  Python implementation of  PYMENT (common documentation)
+
+python-pytestqt-doc/stable 4.4.0-1 all
+  documentation for pytest-qt
+
+python-whoosh-doc/stable 2.7.4+git6-g9134ad92-10 all
+  full-text indexing, search, and spell checking library (doc)
+
+python3-anyqt/stable 0.2.0-4 all
+  PyQt/PySide compatibility layer for Qt4/Qt5/Qt6.
+
+python3-automat/stable 25.4.16-1 all
+  Self-service finite-state machines for the programmer on the go
+
+python3-bs4/stable 4.13.4-2 all
+  error-tolerant HTML parser for Python 3
+
+python3-cheetah/stable 3.4.0-1+b1 arm64
+  text-based template engine and Python code generator (Python 3)
+
+python3-clap/stable 0.14.0-3 all
+  command line arguments parser
+
+python3-configobj/stable 5.0.9-1 all
+  simple but powerful config file reader and writer for Python 3
+
+python3-construct-classes/stable 0.1.2-5 all
+  Python module for parsing and packing data classes
+
+python3-decorator/stable 5.2.1-2 all
+  simplify usage of Python decorators by programmers
+
+python3-easygui/stable 0.98.1-4 all
+  module for very simple, very easy GUI programming in Python3
+
+python3-fips203/stable 0.4.3-2 arm64
+  FIPS 203 (ML-KEM) - Python module
+
+python3-guizero/stable 1.6.0+ds-1 all
+  module to allow quick and easy GUI creation (Python 3)
+
+python3-h5py/stable 3.13.0-1 all
+  general-purpose Python interface to hdf5
+
+python3-h5py-mpi/stable 3.13.0-1+b1 arm64
+  general-purpose Python interface to hdf5 (Python 3 MPI)
+
+python3-h5py-serial/stable 3.13.0-1+b1 arm64
+  general-purpose Python interface to hdf5 (Python 3 serial)
+
+python3-junos-eznc/stable 2.7.3-1 all
+  Junos 'EZ' automation for non-programmers (Python 3)
+
+python3-lmfit/stable 1.3.3-4 all
+  Least-Squares Minimization with Constraints (Python 3)
+
+python3-mesonpy/stable 0.17.1-1 all
+  Meson PEP 517 Python build backend
+
+python3-minimock/stable 1.2.8-4 all
+  simple library for Python mock objects
+
+python3-netifaces/stable 0.11.0-2+b6 arm64
+  portable network interface information - Python 3.x
+
+python3-nxs/stable 4.4.1-7 all
+  NeXus scientific data file format - Python 3 binding
+
+python3-odf/stable 1.4.2-4 all
+  Python3 API to manipulate OpenDocument files
+
+python3-parted/stable 3.13.0-1+b4 arm64
+  Python 3 interface for libparted
+
+python3-plac/stable 1.4.3-2 all
+  Smartest command line arguments parser in the world
+
+python3-psycopg2/stable 2.9.10-1+b1 arm64
+  Python 3 module for PostgreSQL
+
+python3-psycopg2cffi/stable 2.9.0-1 arm64
+  implementation of the psycopg2 module using cffi
+
+python3-ptk/stable 1.3.8+dfsg-3 all
+  parser for Python 3 with support for asynchronous input
+
+python3-pydispatch/stable 2.0.7-1 all
+  Python 3 signal dispatching mechanism
+
+python3-pyjokes/stable 0.5.0-4 all
+  One line jokes for programmers (Python 3)
+
+python3-pyknon/stable 1.2-7 all
+  Simple Python music library
+
+python3-pyment/stable 0.3.4+ds-4 all
+  Generate/convert the docstrings from code signature
+
+python3-pytestqt/stable 4.4.0-1 all
+  pytest plugin for Qt application testing (Python 3)
+
+python3-q/stable 2.6-1.2 all
+  Quick-and-dirty Python 3 debugging output for tired programmers
+
+python3-roscpp-msg/stable 1.17.0+ds-2 all
+  Header for roscpp messages, Python 3
+
+python3-rospy/stable 1.17.0+ds-2+b5 arm64
+  Python 3 client library for Robot OS
+
+python3-speechd/stable 0.12.0-5 all
+  Python interface to Speech Dispatcher
+
+python3-suds/stable 1.2.0-2 all
+  Lightweight SOAP client for Python - Python 3.x
+
+python3-termbox/stable 1.1.2+dfsg-7 arm64
+  Library for writing text-based user interfaces (Python)
+
+python3-whoosh/stable 2.7.4+git6-g9134ad92-10 all
+  pure-Python full-text indexing, search, and spell checking library (Python 3)
+
+python3-wxmplot/stable 0.9.58-1 all
+  wxPython plotting widgets using matplotlib (Python 3)
+
+pyzo/stable 4.15.0-3 all
+  interactive editor for scientific Python
+
+pyzo-doc/stable 4.15.0-3 all
+  documentation for Pyzo
+
+qml-module-org-kde-i18n-localedata/stable 5.116.0-1 arm64
+  Advanced internationalization framework (locale data QML module)
+
+qml6-module-org-kde-i18n-localedata/stable 6.13.0-1 arm64
+  Advanced internationalization framework (locale data QML module)
+
+r-cran-collapse/stable 2.1.0-1 arm64
+  GNU R advanced and fast data transformation
+
+r-cran-iterators/stable 1.0.14-1 all
+  GNU R iterator support for vectors, lists and other containers
+
+r-cran-stringi/stable 1.8.4-1+b1 arm64
+  GNU R character string processing facilities
+
+r-cran-yaml/stable 2.3.10-1 arm64
+  Methods to convert R data to YAML and back
+
+racc/stable 1.8.1-1 all
+  Ruby LALR parser generator
+
+ragel/stable 6.10-5 arm64
+  compiles finite state machines into code in various languages
+
+re2c/stable 4.1-1 arm64
+  lexer generator for C, C++, Go, Java, Python, Rust, and others
+
+ros-roscpp-msg/stable 1.17.0+ds-2 all
+  Robot OS definitions of roscpp messages
+
+ruby-bindata/stable 2.4.14-1 all
+  declarative way to read and write binary file formats
+
+ruby-certificate-authority/stable 1.1.0-1 all
+  tool to manage the core functions outlined in RFC-3280 for PKI
+
+ruby-escape/stable 0.2-5.1 all
+  HTML/URI/shell escaping utilities for Ruby
+
+ruby-proxifier/stable 1.0.3-1.1 all
+  add support for HTTP or SOCKS proxies
+
+ruby-trollop/stable 2.0-2.1 all
+  command-line argument processing library
+
+s51dude/stable 0.3.1-1.1+b3 arm64
+  In-System Programmer for 8051 MCUs using usbtiny
+
+slsh/stable 2.3.3-5+b2 arm64
+  Interpreter for S-Lang language
+
+speech-dispatcher/stable 0.12.0-5 arm64
+  Common interface to speech synthesizers
+
+speech-dispatcher-audio-plugins/stable 0.12.0-5 arm64
+  Speech Dispatcher: Audio output plugins
+
+speech-dispatcher-cicero/stable 0.12.0-5 arm64
+  Speech Dispatcher: Cicero output module
+
+speech-dispatcher-doc-cs/stable 0.12.0-5 all
+  Speech Dispatcher documentation in Czech
+
+speech-dispatcher-espeak/stable 0.12.0-5 arm64
+  Speech Dispatcher: Espeak output module
+
+speech-dispatcher-espeak-ng/stable 0.12.0-5 arm64
+  Speech Dispatcher: Espeak-ng output module
+
+speech-dispatcher-festival/stable 0.12.0-5 arm64
+  Festival support for Speech Dispatcher
+
+speech-dispatcher-flite/stable 0.12.0-5 arm64
+  Speech Dispatcher: Flite output module
+
+speech-dispatcher-openjtalk/stable 0.12.0-5 arm64
+  Speech Dispatcher: Espeak-ng output module
+
+starlink-table-java/stable 4.3.2-1 all
+  Starlink Tables Infrastructure Library
+
+starlink-table-java-doc/stable 4.3.2-1 all
+  Starlink Tables Infrastructure Library (documentation)
+
+stress/stable 1.0.7-1+b1 arm64
+  tool to impose load on and stress test a computer system
+
+supercat/stable 0.5.7-1+b1 arm64
+  program that colorizes text for terminals and HTML
+
+tcl-xpa/stable 2.1.20-3 arm64
+  Seamless communication between Unix programs (Tcl interface)
+
+tesseract-ocr/stable 5.5.0-1+b1 arm64
+  Tesseract command line OCR tool
+
+tesseract-ocr-afr/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Afrikaans
+
+tesseract-ocr-amh/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Amharic
+
+tesseract-ocr-ara/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Arabic
+
+tesseract-ocr-asm/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Assamese
+
+tesseract-ocr-aze/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Azerbaijani
+
+tesseract-ocr-aze-cyrl/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Azerbaijani (Cyrillic)
+
+tesseract-ocr-bel/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Belarusian
+
+tesseract-ocr-ben/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Bengali
+
+tesseract-ocr-bod/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Tibetan Standard
+
+tesseract-ocr-bos/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Bosnian
+
+tesseract-ocr-bre/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Breton
+
+tesseract-ocr-bul/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Bulgarian
+
+tesseract-ocr-cat/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Catalan
+
+tesseract-ocr-ceb/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Cebuano
+
+tesseract-ocr-ces/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Czech
+
+tesseract-ocr-chi-sim/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Chinese - Simplified
+
+tesseract-ocr-chi-sim-vert/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Chinese - Simplified (vertical)
+
+tesseract-ocr-chi-tra/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Chinese - Traditional
+
+tesseract-ocr-chi-tra-vert/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Chinese - Traditional (vertical)
+
+tesseract-ocr-chr/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Cherokee
+
+tesseract-ocr-cos/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Corsican
+
+tesseract-ocr-cym/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Welsh
+
+tesseract-ocr-dan/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Danish
+
+tesseract-ocr-deu/stable 1:4.1.0-2 all
+  tesseract-ocr language files for German
+
+tesseract-ocr-div/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Divehi
+
+tesseract-ocr-dzo/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Dzongkha
+
+tesseract-ocr-ell/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Greek
+
+tesseract-ocr-eng/stable 1:4.1.0-2 all
+  tesseract-ocr language files for English
+
+tesseract-ocr-enm/stable 1:4.1.0-2 all
+  tesseract-ocr language files for English, Middle (1100-1500)
+
+tesseract-ocr-epo/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Esperanto
+
+tesseract-ocr-est/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Estonian
+
+tesseract-ocr-eus/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Basque
+
+tesseract-ocr-fao/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Faroese
+
+tesseract-ocr-fas/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Persian
+
+tesseract-ocr-fil/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Filipino
+
+tesseract-ocr-fin/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Finnish
+
+tesseract-ocr-fra/stable 1:4.1.0-2 all
+  tesseract-ocr language files for French
+
+tesseract-ocr-frk/stable 1:4.1.0-2 all
+  tesseract-ocr language files for German (Fraktur)
+
+tesseract-ocr-frm/stable 1:4.1.0-2 all
+  tesseract-ocr language files for French, Middle (ca.1400-1600)
+
+tesseract-ocr-fry/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Frisian (Western)
+
+tesseract-ocr-gla/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Gaelic (Scots)
+
+tesseract-ocr-gle/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Irish
+
+tesseract-ocr-glg/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Galician
+
+tesseract-ocr-grc/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Greek, Ancient (to 1453)
+
+tesseract-ocr-guj/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Gujarati
+
+tesseract-ocr-hat/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Haitian
+
+tesseract-ocr-heb/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Hebrew
+
+tesseract-ocr-hin/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Hindi
+
+tesseract-ocr-hrv/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Croatian
+
+tesseract-ocr-hun/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Hungarian
+
+tesseract-ocr-hye/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Armenian
+
+tesseract-ocr-iku/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Inuktitut
+
+tesseract-ocr-ind/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Indonesian
+
+tesseract-ocr-isl/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Icelandic
+
+tesseract-ocr-ita/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Italian
+
+tesseract-ocr-ita-old/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Italian - Old
+
+tesseract-ocr-jav/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Javanese
+
+tesseract-ocr-jpn/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Japanese
+
+tesseract-ocr-jpn-vert/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Japanese (vertical)
+
+tesseract-ocr-kan/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Kannada
+
+tesseract-ocr-kat/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Georgian
+
+tesseract-ocr-kat-old/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Old Georgian
+
+tesseract-ocr-kaz/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Kazakh
+
+tesseract-ocr-khm/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Khmer
+
+tesseract-ocr-kir/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Kyrgyz
+
+tesseract-ocr-kmr/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Kurmanji (Latin)
+
+tesseract-ocr-kor/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Korean
+
+tesseract-ocr-kor-vert/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Korean (vertical)
+
+tesseract-ocr-lao/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Lao
+
+tesseract-ocr-lat/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Latin
+
+tesseract-ocr-lav/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Latvian
+
+tesseract-ocr-lit/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Lithuanian
+
+tesseract-ocr-ltz/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Luxembourgish
+
+tesseract-ocr-mal/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Malayalam
+
+tesseract-ocr-mar/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Marathi
+
+tesseract-ocr-mkd/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Macedonian
+
+tesseract-ocr-mlt/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Maltese
+
+tesseract-ocr-mon/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Mongolian
+
+tesseract-ocr-mri/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Maori
+
+tesseract-ocr-msa/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Malay
+
+tesseract-ocr-mya/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Burmese
+
+tesseract-ocr-nep/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Nepali
+
+tesseract-ocr-nld/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Dutch
+
+tesseract-ocr-nor/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Norwegian
+
+tesseract-ocr-oci/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Occitan (post 1500)
+
+tesseract-ocr-ori/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Oriya
+
+tesseract-ocr-osd/stable 1:4.1.0-2 all
+  tesseract-ocr language files for script and orientation
+
+tesseract-ocr-pan/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Punjabi
+
+tesseract-ocr-pol/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Polish
+
+tesseract-ocr-por/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Portuguese
+
+tesseract-ocr-pus/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Pashto
+
+tesseract-ocr-que/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Quechua
+
+tesseract-ocr-ron/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Romanian
+
+tesseract-ocr-rus/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Russian
+
+tesseract-ocr-san/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Sanskrit
+
+tesseract-ocr-script-arab/stable 1:4.1.0-2 all
+  tesseract-ocr data for Arabic script
+
+tesseract-ocr-script-armn/stable 1:4.1.0-2 all
+  tesseract-ocr data for Armenian script
+
+tesseract-ocr-script-beng/stable 1:4.1.0-2 all
+  tesseract-ocr data for Bengali script
+
+tesseract-ocr-script-cans/stable 1:4.1.0-2 all
+  tesseract-ocr data for Canadian Aboriginal script
+
+tesseract-ocr-script-cher/stable 1:4.1.0-2 all
+  tesseract-ocr data for Cherokee script
+
+tesseract-ocr-script-cyrl/stable 1:4.1.0-2 all
+  tesseract-ocr data for Cyrillic script
+
+tesseract-ocr-script-deva/stable 1:4.1.0-2 all
+  tesseract-ocr data for Devanagari script
+
+tesseract-ocr-script-ethi/stable 1:4.1.0-2 all
+  tesseract-ocr data for Ethiopic script
+
+tesseract-ocr-script-frak/stable 1:4.1.0-2 all
+  tesseract-ocr data for Fraktur script
+
+tesseract-ocr-script-geor/stable 1:4.1.0-2 all
+  tesseract-ocr data for Georgian script
+
+tesseract-ocr-script-grek/stable 1:4.1.0-2 all
+  tesseract-ocr data for Greek script
+
+tesseract-ocr-script-gujr/stable 1:4.1.0-2 all
+  tesseract-ocr data for Gujarati script
+
+tesseract-ocr-script-guru/stable 1:4.1.0-2 all
+  tesseract-ocr data for Gurmukhi script
+
+tesseract-ocr-script-hang/stable 1:4.1.0-2 all
+  tesseract-ocr data for Hangul script
+
+tesseract-ocr-script-hang-vert/stable 1:4.1.0-2 all
+  tesseract-ocr data for Hangul (vertical) script
+
+tesseract-ocr-script-hans/stable 1:4.1.0-2 all
+  tesseract-ocr data for Han - Simplified script
+
+tesseract-ocr-script-hans-vert/stable 1:4.1.0-2 all
+  tesseract-ocr data for Han - Simplified (vertical) script
+
+tesseract-ocr-script-hant/stable 1:4.1.0-2 all
+  tesseract-ocr data for Han - Traditional script
+
+tesseract-ocr-script-hant-vert/stable 1:4.1.0-2 all
+  tesseract-ocr data for Han - Traditional (vertical) script
+
+tesseract-ocr-script-hebr/stable 1:4.1.0-2 all
+  tesseract-ocr data for Hebrew script
+
+tesseract-ocr-script-jpan/stable 1:4.1.0-2 all
+  tesseract-ocr data for Japanese script
+
+tesseract-ocr-script-jpan-vert/stable 1:4.1.0-2 all
+  tesseract-ocr data for Japanese (vertical) script
+
+tesseract-ocr-script-khmr/stable 1:4.1.0-2 all
+  tesseract-ocr data for Khmer script
+
+tesseract-ocr-script-knda/stable 1:4.1.0-2 all
+  tesseract-ocr data for Kannada script
+
+tesseract-ocr-script-laoo/stable 1:4.1.0-2 all
+  tesseract-ocr data for Lao script
+
+tesseract-ocr-script-latn/stable 1:4.1.0-2 all
+  tesseract-ocr data for Latin script
+
+tesseract-ocr-script-mlym/stable 1:4.1.0-2 all
+  tesseract-ocr data for Malayalam script
+
+tesseract-ocr-script-mymr/stable 1:4.1.0-2 all
+  tesseract-ocr data for Myanmar script
+
+tesseract-ocr-script-orya/stable 1:4.1.0-2 all
+  tesseract-ocr data for Oriya (Odia) script
+
+tesseract-ocr-script-sinh/stable 1:4.1.0-2 all
+  tesseract-ocr data for Sinhala script
+
+tesseract-ocr-script-syrc/stable 1:4.1.0-2 all
+  tesseract-ocr data for Syriac script
+
+tesseract-ocr-script-taml/stable 1:4.1.0-2 all
+  tesseract-ocr data for Tamil script
+
+tesseract-ocr-script-telu/stable 1:4.1.0-2 all
+  tesseract-ocr data for Telugu script
+
+tesseract-ocr-script-thaa/stable 1:4.1.0-2 all
+  tesseract-ocr data for Thaana script
+
+tesseract-ocr-script-thai/stable 1:4.1.0-2 all
+  tesseract-ocr data for Thai script
+
+tesseract-ocr-script-tibt/stable 1:4.1.0-2 all
+  tesseract-ocr data for Tibetan script
+
+tesseract-ocr-script-viet/stable 1:4.1.0-2 all
+  tesseract-ocr data for Vietnamese script
+
+tesseract-ocr-sin/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Sinhala
+
+tesseract-ocr-slk/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Slovakian
+
+tesseract-ocr-slv/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Slovenian
+
+tesseract-ocr-snd/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Sindhi
+
+tesseract-ocr-spa/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Spanish
+
+tesseract-ocr-spa-old/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Spanish, Castilian - Old
+
+tesseract-ocr-sqi/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Albanian
+
+tesseract-ocr-srp/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Serbian
+
+tesseract-ocr-srp-latn/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Serbian (Latin)
+
+tesseract-ocr-sun/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Sundanese
+
+tesseract-ocr-swa/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Swahili
+
+tesseract-ocr-swe/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Swedish
+
+tesseract-ocr-syr/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Syriac
+
+tesseract-ocr-tam/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Tamil
+
+tesseract-ocr-tat/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Tatar
+
+tesseract-ocr-tel/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Telugu
+
+tesseract-ocr-tgk/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Tajik
+
+tesseract-ocr-tha/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Thai
+
+tesseract-ocr-tir/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Tigrinya
+
+tesseract-ocr-ton/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Tonga
+
+tesseract-ocr-tur/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Turkish
+
+tesseract-ocr-uig/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Uyghur
+
+tesseract-ocr-ukr/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Ukrainian
+
+tesseract-ocr-urd/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Urdu
+
+tesseract-ocr-uzb/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Uzbek
+
+tesseract-ocr-uzb-cyrl/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Uzbek (Cyrillic)
+
+tesseract-ocr-vie/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Vietnamese
+
+tesseract-ocr-yid/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Yiddish
+
+tesseract-ocr-yor/stable 1:4.1.0-2 all
+  tesseract-ocr language files for Yoruba
+
+texlive-extra-utils/stable 2024.20250309-2 all
+  TeX Live: TeX auxiliary programs
+
+texlive-lang-french/stable 2024.20250309-1 all
+  TeX Live: French
+
+texlive-luatex/stable 2024.20250309-1 all
+  TeX Live: LuaTeX packages
+
+tk-html1/stable 1.04-3 arm64
+  Tk HTML widget
+
+txt2man/stable 1.7.1-5 all
+  convert flat ASCII text to manpage format
+
+uisp/stable 20050207-4.5+b2 arm64
+  Micro In-System Programmer for Atmel's AVR MCUs
+
+urjtag/stable 2021.03-5 arm64
+  JTAG programmer for various flash parts and boards - binary tools
+
+velocity/stable 1.7-7 all
+  Java-based template engine for web application
+
+vite/stable 1.4-1 arm64
+  Efficient visual trace explorer
+
+whiff/stable 0.008-2 all
+  helper to find the first executable of a series of alternatives
+
+xjed/stable 1:0.99.20~pre.189+dfsg-1 arm64
+  editor for programmers (x11 version)
+
+xpa-tools/stable 2.1.20-3 arm64
+  Tools for seamless communication between Unix programs
+
+xwelltris/stable 1.0.1-18+b1 arm64
+  3D Tetris like popular game similar to Welltris
+
+xwpe/stable 1.5.30a-4+b1 arm64
+  Programming environment and editor for console and X11
+

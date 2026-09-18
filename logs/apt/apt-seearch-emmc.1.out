@@ -1,0 +1,41 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+f2fs-tools/stable 1.16.0-1.1+b1 arm64
+  Tools for Flash-Friendly File System
+
+libf2fs-dev/stable 1.16.0-1.1+b1 arm64
+  Core library for Flash-Friendly File System - Development files
+
+libf2fs-format-dev/stable 1.16.0-1.1+b1 arm64
+  Format library for Flash-Friendly File System - Development files
+
+libswupdate-dev/stable 2024.12.1+dfsg-3+deb13u2 arm64
+  Development files for swupdate framework
+
+libswupdate0.1/stable 2024.12.1+dfsg-3+deb13u2 arm64
+  Library for controlling the swupdate framework
+
+lua-swupdate/stable 2024.12.1+dfsg-3+deb13u2 arm64
+  swupdate bindings for the Lua language
+
+mmc-utils/stable 0+git20240329.f757f413-1+b1 arm64
+  Userspace tools for MMC/SD devices
+
+swupdate/stable 2024.12.1+dfsg-3+deb13u2 arm64
+  Software update framework for embedded systems
+
+swupdate-doc/stable 2024.12.1+dfsg-3+deb13u2 all
+  Documentation for swupdate framework
+
+swupdate-www/stable 2024.12.1+dfsg-3+deb13u2 all
+  Web Application for swupdate
+
+u-boot-sunxi/stable 2025.01-3 arm64
+  A boot loader for sunxi systems
+
+uuu/stable 1.5.201-1+b1 arm64
+  Freescale/NXP I.MX Chip image deploy tools
+

@@ -1,0 +1,2813 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+aasvg/stable 0.3.2-1 all
+  Convert ASCII art diagrams into SVG
+
+atftpd/stable 0.8.0-8 arm64
+  advanced TFTP server
+
+atm-tools/stable 1:2.5.1-7 arm64
+  Base programs for ATM in Linux, the net-tools for ATM
+
+avahi-autoipd/stable 0.8-16 arm64
+  Avahi IPv4LL network address configuration daemon
+
+ax25-apps/stable 0.0.8-rc5+git20230513+afc4a5f-3 arm64
+  AX.25 ham radio applications
+
+b3270/stable 4.3ga10-5 arm64
+  Backend tool for telnet sessions to IBM mainframes
+
+babeld/stable 1.13.1+ds-1 arm64
+  loop-free distance-vector routing protocol
+
+basez/stable 1.6.2-3+b1 arm64
+  base 16/32/64 encode/decode data to standard output
+
+bellesip-data/stable 5.3.105+dfsg-4 all
+  SIP stack from the Linphone team
+
+bind9-dnsutils/stable 1:9.20.23-1~deb13u1 arm64
+  Clients provided with BIND 9
+
+bluez-hcidump/stable 5.82-1.1 arm64
+  Analyses Bluetooth HCI packets
+
+br2684ctl/stable 1:2.5.1-7 arm64
+  Utility for configuring RFC 2684 ATM/Ethernet bridging
+
+c3270/stable 4.3ga10-5 arm64
+  Curses program for telnet sessions to IBM mainframes
+
+ca-certificates/stable,now 20250419 all [installed]
+  Common CA certificates
+
+cddl/stable 0.9.5-1 arm64
+  tool for verifying conformance of CDDL definitions
+
+centreon-plugins/stable 0.0~20250303+dfsg-1 all
+  Collection of Nagios plugins to monitor OS, services and network devices
+
+chezdav/stable 3.0-9+b2 arm64
+  simple tool to share a directory with WebDAV
+
+cl-abnf/stable 20200229.gitba1fbb1-1 all
+  Common Lisp ABNF parser generator
+
+cl-chipz/stable 20230418.git6f80368-1 all
+  decompress DEFLATE and BZIP2 data in Common Lisp
+
+cl-chunga/stable 20240918.git5cd13fe-1 all
+  Portable chunked streams for Common Lisp
+
+cl-puri/stable 1:1.5.7.2-1 all
+  Common Lisp Portable URI Library
+
+cl-rfc2388/stable 20130720+dfsg-1.1 all
+  implementation of RFC 2388 in Common Lisp
+
+cl-salza2/stable 2.0.9-1.1 all
+  Create compressed data from Common Lisp
+
+cl-uuid/stable 20130813-1.1 all
+  Common Lisp librabry for generation of UUIDs as described by RFC 4122
+
+clatd/stable 2.1.0-2+deb13u1 all
+  464XLAT (CLAT) and SIIT-DC (ER) network architecture support
+
+claws-mail-feeds-reader/stable 4.3.1-1 arm64
+  Feeds (RSS/Atom/RDF) reader plugin for Claws Mail
+
+coturn/stable 4.6.1-2+b2 arm64
+  TURN and STUN server for VoIP
+
+courier-filter-perl/stable 0.200+ds-6 all
+  purely Perl-based mail filter framework for the Courier MTA
+
+cyclades-serial-client/stable 0.95 arm64
+  Network Serial port client software for Cyclades terminal servers
+
+cyrus-sasl2-doc/stable 2.1.28+dfsg1-9 all
+  Cyrus SASL - documentation
+
+dataurl/stable 0.0~git20191104.d1553a7-1.1+b17 arm64
+  Data URL Schemes in Golang (program)
+
+dico/stable 2.12-3 arm64
+  RFC 2229 compliant dictionary client
+
+dico-dev/stable 2.12-3 arm64
+  RFC 2229 compliant modular dictionary server (development files)
+
+dico-doc/stable 2.12-3 all
+  RFC 2229 compliant modular dictionary server (documentation)
+
+dico-module-greek-kbd/stable 2.12-3 arm64
+  RFC 2229 compliant modular dictionary server (Greek transliteration module)
+
+dico-module-guile/stable 2.12-3 arm64
+  RFC 2229 compliant modular dictionary server (Guile module)
+
+dico-module-mediawiki/stable 2.12-3 all
+  RFC 2229 compliant modular dictionary server (mediawiki module)
+
+dico-module-python/stable 2.12-3 arm64
+  RFC 2229 compliant modular dictionary server (Python module)
+
+dico-module-wordnet/stable 2.12-3 arm64
+  RFC 2229 compliant modular dictionary server (WordNet module)
+
+dicod/stable 2.12-3 arm64
+  RFC 2229 compliant modular dictionary server
+
+dicoweb/stable 2.12-3 all
+  RFC 2229 compliant modular dictionary server (web interface)
+
+dict-gcide/stable 0.48.5+nmu4 all
+  Comprehensive English Dictionary
+
+dictem/stable 1.0.4-4.2 all
+  Dict client for emacs
+
+dkimpy-milter/stable 1.2.3-3 all
+  DomainKeys Identified Mail (DKIM) milter in Python
+
+dnsmap/stable 0.36-4 arm64
+  DNS domain name brute forcing tool
+
+elpa-srv/stable 0.2-3 all
+  RFC2782 (SRV record) client for emacs
+
+erlang-diameter/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP implementation of RFC 6733 protocol
+
+erlang-idna/stable 6.1.1-5+b1 arm64
+  pure Erlang IDNA implementation that follows RFC 5891
+
+erlang-jose/stable 1.11.10-1+b1 arm64
+  JSON Object Signing and Encryption (JOSE) for Erlang
+
+erlang-p1-acme/stable 1.0.25-1 arm64
+  ACME client library for Erlang
+
+erlang-p1-oauth2/stable 0.6.14-2 arm64
+  Erlang library for server side implementation of OAuth2
+
+erlang-public-key/stable 1:27.3.4.1+dfsg-1+deb13u2 arm64
+  Erlang/OTP public key infrastructure
+
+erlang-uuid/stable 0.5.2-1 arm64
+  UUID generator for Erlang
+
+exabgp/stable 4.2.25-1 all
+  BGP swiss army knife of networking
+
+exip/stable 0.1.0-2+b15 arm64
+  get your external ip from multiple services (program)
+
+fingerd/stable 0.17-17+b1 arm64
+  remote user information server
+
+flim/stable 1:1.14.9+0.20230205-1 all
+  library about internet message for emacsen
+
+foxeye/stable 0.12.1-5.1 arm64
+  Universal modular network agent - binary package
+
+ftp-proxy/stable 1.9.2.4-11+b1 arm64
+  application level proxy for the FTP protocol
+
+ftp.app/stable 0.6-3+b2 arm64
+  File transfer protocol application for GNUstep
+
+gir1.2-ical-3.0/stable 3.0.20-1+b1 arm64
+  iCalendar library implementation in C (GObject Introspection)
+
+gir1.2-langtag-0.6/stable 0.6.7-1+b2 arm64
+  library to access tags for identifying languages - introspection
+
+gnupg/stable,now 2.4.7-21+deb13u1 all [installed,automatic]
+  GNU privacy guard - a free PGP replacement
+
+gnupg-agent/stable 2.4.7-21+deb13u1 all
+  GNU privacy guard - cryptographic agent (dummy transitional package)
+
+gnupg-l10n/stable,now 2.4.7-21+deb13u1 all [installed,automatic]
+  GNU privacy guard - localization files
+
+gnupg1/stable 1.4.23-3 arm64
+  GNU privacy guard - a PGP implementation (deprecated "classic" version)
+
+gnupg1-l10n/stable 1.4.23-3 all
+  GNU privacy guard "classic" - localization files (deprecated)
+
+gnupg2/stable 2.4.7-21+deb13u1 all
+  GNU privacy guard - a free PGP replacement (dummy transitional package)
+
+golang-github-aead-chacha20-dev/stable 0.0~git20180709.8b13a72-5 all
+  ChaCha20 and XChaCha20 stream ciphers go library
+
+golang-github-beevik-ntp-dev/stable 0.3.0-4 all
+  simple NTP client for Go (library)
+
+golang-github-bgp-stayrtr-dev/stable 0.6.2-1+deb13u1 all
+  RPKI to router protocol library
+
+golang-github-c-robinson-iplib-dev/stable 1.0.3-3 all
+  library for working with IP addresses and networks in Go
+
+golang-github-ccding-go-stun-dev/stable 0.1.3-1 all
+  implementation of the STUN client (RFC 3489 and RFC 5389)
+
+golang-github-davecgh-go-xdr-dev/stable 0.0~git20161123.e6a2ba0-2 all
+  Pure Go XDR standard (RFC 4506) implementation
+
+golang-github-davidmytton-url-verifier-dev/stable 1.0.0-2 all
+  Go library for URL validation and verification (library)
+
+golang-github-digitalocean-go-libvirt-dev/stable 0.0~git20250317.13bf9b4-1 all
+  Pure Go interface for interacting with libvirt (library)
+
+golang-github-digitorus-pkcs7-dev/stable 0.0~git20230818.3a137a8-3 all
+  Go PKCS#7/CMS library
+
+golang-github-digitorus-timestamp-dev/stable 0.0~git20231217.220c5c2-2 all
+  Time-Stamp Protocol (TSP/RFC3161) Go library
+
+golang-github-dpotapov-go-spnego-dev/stable 0.0~git20190506.c2c6091-2 all
+  Golang library to make HTTP calls with Kerberos authentication
+
+golang-github-eggsampler-acme-dev/stable 3.6.1-2 all
+  Go client library implementation for ACME v2 (RFC8555) (library)
+
+golang-github-emersion-go-imap-dev/stable 1.2.1-1 all
+  Go IMAP library for clients and servers
+
+golang-github-emersion-go-imap-idle-dev/stable 0.0~git20201224.6f42b90-2 all
+  IDLE extension for go-imap (library)
+
+golang-github-emersion-go-imap-uidplus-dev/stable 0.0~git20200503.e75854c-2 all
+  UIDPLUS extension for go-imap (library)
+
+golang-github-emersion-go-message-dev/stable 0.17.0-1 all
+  Streaming Go library for the Internet Message Format and mail
+
+golang-github-emersion-go-msgauth-dev/stable 0.6.6-2 all
+  Go library and tools for DKIM, DMARC and Authentication-Results (library)
+
+golang-github-emersion-go-smtp-dev/stable 0.21.2-1 all
+  ESMTP client & server library written in Go (library)
+
+golang-github-emersion-go-vcard-dev/stable 0.0~git20230815.8fda7d2-2 all
+  Go library to parse and format vCard (library)
+
+golang-github-evanphx-json-patch-dev/stable 5.7.0-1 all
+  Go library to apply RFC6902 patches and create and apply RFC7386 patches
+
+golang-github-fxamacker-cbor-dev/stable 2.8.0-1 all
+  CBOR codec implementing RFCs 7049 & 8949 (library)
+
+golang-github-glendc-go-external-ip-dev/stable 0.1.0-2 all
+  get your external ip from multiple services (library)
+
+golang-github-go-jose-go-jose-dev/stable 4.0.5-1 all
+  Implementation of JOSE standards (JWE, JWS, JWT) in Go (library)
+
+golang-github-go-jose-go-jose.v3-dev/stable 3.0.3-6 all
+  Implementation of JOSE standards (JWE, JWS, JWT) in Go (library)
+
+golang-github-gobwas-httphead-dev/stable 0.1.0-3 all
+  Tiny HTTP header value parsing lib (library)
+
+golang-github-gofrs-uuid-dev/stable 5.3.2-1 all
+  UUID library for Golang
+
+golang-github-gomodule-oauth1-dev/stable 0.0~git20181215.9a59ed3-2 all
+  OAuth 1.0 client package for Go
+
+golang-github-google-trillian-dev/stable 1.6.1-1 all
+  transparent scalable and cryptographically verifiable data store (library)
+
+golang-github-google-uuid-dev/stable 1.6.0-1 all
+  generates and inspects UUIDs based on RFC 4122
+
+golang-github-gorilla-handlers-dev/stable 1.5.2-1 all
+  collection of useful handlers for Go's net/http package
+
+golang-github-gorilla-websocket-dev/stable 1.5.3-1 all
+  Go package implementing the WebSocket protocol
+
+golang-github-gowebpki-jcs-dev/stable 1.0.1-3 all
+  JSON canonicalization scheme library based on RFC 8785 (Go library)
+
+golang-github-gregjones-httpcache-dev/stable 0.0~git20180305.9cad4c3-1.1 all
+  Transport for http.Client that will cache responses
+
+golang-github-influxdata-go-syslog-dev/stable 2.0.1-1 all
+  Go parser for syslog messages
+
+golang-github-insomniacslk-dhcp-dev/stable 0.0~git20220915.043f172-2 all
+  DHCPv6 and DHCPv4 packet library, client and server written in Go (library)
+
+golang-github-jamesruan-go-rfc1924-dev/stable 0.0~git20170108.2767ca7-2 all
+  RFC1924 base85 encoding (library)
+
+golang-github-jimstudt-http-authentication-dev/stable 0.0~git20140401.3eca13d-1.1 all
+  Go implementation of RFC 2617 HTTP Authentication
+
+golang-github-jlaffaye-ftp-dev/stable 0.2.0-1 all
+  FTP client package for Go
+
+golang-github-jtacoma-uritemplates-dev/stable 1.0.0-2 all
+  URI Templates (RFC 6570) implemented in Go
+
+golang-github-juju-persistent-cookiejar-dev/stable 1.0.0-1 all
+  fork of net/http/cookiejar that allows serialisation of cookies (library)
+
+golang-github-katalix-go-l2tp-dev/stable 0.1.8-1 all
+  Go library for building L2TP applications on Linux systems (library)
+
+golang-github-leodido-go-urn-dev/stable 1.2.1-3 all
+  Go parser for Uniform Resource Names
+
+golang-github-mdlayher-arp-dev/stable 0.0~git20220512.6706a29-1 all
+  Go module for the ARP protocol
+
+golang-github-mdlayher-dhcp6-dev/stable 0.0~git20190311.2a67805-2 all
+  implements a DHCPv6 server, as described in RFC 3315 (library)
+
+golang-github-mdlayher-ndp-dev/stable 1.1.0-1 all
+  Golang implementation of the Neighbor Discovery Protocol (library)
+
+golang-github-mdlayher-netx-dev/stable 0.0~git20230430.7e21880-1 all
+  Collection of small Go networking packages (library)
+
+golang-github-mholt-acmez-dev/stable 0.1.3-2 all
+  Premier ACME client library for Go (library)
+
+golang-github-miekg-mmark-dev/stable 1.3.6+dfsg-3 all
+  Markdown processor in Go geared for the IETF (Go library)
+
+golang-github-minio-colorjson-dev/stable 1.0.8-2 all
+  Colorized json encoding and decoding (library)
+
+golang-github-miscreant-miscreant.go-dev/stable 0.0~git20200214.26d3763-3 all
+  misuse-resistant encryption library
+
+golang-github-mitchellh-go-vnc-dev/stable 0.0~git20150629.723ed98-2 all
+  VNC client and server library for Go
+
+golang-github-mitchellh-pointerstructure-dev/stable 1.2.1-1 all
+  Addressing and modifying values in Go structures using a string syntax
+
+golang-github-mmarkdown-mmark-dev/stable 2.2.25+dfsg1-2 all
+  powerful markdown processor in Go geared towards the IETF (library)
+
+golang-github-muhlemmer-httpforwarded-dev/stable 0.1.0-2 all
+  Library for parsing the HTTP Forwarded header (RFC-7239)
+
+golang-github-munnerz-goautoneg-dev/stable 0.0~git20191010.a7dc8b6-2 all
+  golang functions for HTTP Content-Type autonegotiation (library)
+
+golang-github-nebulouslabs-merkletree-dev/stable 0.0~git20170901.0.8482d02-1.1 all
+  Go package for working with Merkle trees
+
+golang-github-notaryproject-tspclient-go-dev/stable 0.2.0-2 all
+  Implementation of the Time-Stamp Protocol client (library)
+
+golang-github-nu7hatch-gouuid-dev/stable 0.0~git20131221.0.179d4d0-5 all
+  pure Go UUID implementation as specified in RFC 4122
+
+golang-github-opennota-urlesc-dev/stable 0.0~git20160726.0.5bd2802-1.1 all
+  Proper URL escaping as per RFC3986 for Go
+
+golang-github-openprinting-goipp-dev/stable 1.0.0-2 all
+  IPP core protocol in pure Go Library (RFC 8010)
+
+golang-github-ovn-org-libovsdb-dev/stable 0.7.0-1 all
+  OVSDB Client Library
+
+golang-github-pborman-uuid-dev/stable 1.2.0-2 all
+  Go bindings to work with UUIDs
+
+golang-github-peterhellberg-link-dev/stable 1.0.0-6 all
+  Go package for parsing link headers
+
+golang-github-pin-tftp-dev/stable 3.1.0-1 all
+  TFTP server and client library for Golang (library)
+
+golang-github-pion-dtls.v2-dev/stable 2.2.6-1 all
+  DTLS 1.2 Server/Client implementation for Go
+
+golang-github-pion-rtcp-dev/stable 1.2.10-1 all
+  Go implementation of RTCP (library)
+
+golang-github-pion-rtp-dev/stable 1.7.13-1 all
+  Go implementation of RTP (library)
+
+golang-github-pion-stun-dev/stable 0.6.1-1 all
+  Go implementation of STUN
+
+golang-github-pquerna-cachecontrol-dev/stable 0.0~git20171018.0dec1b3-2 all
+  HTTP Cache-Control Parser and Interpretation
+
+golang-github-protonmail-go-srp-dev/stable 0.0.7+ds-2 all
+  Golang implementation of the SRP protocol (library)
+
+golang-github-protonmail-gopenpgp-dev/stable 2.8.1-1 all
+  high-level OpenPGP library built on top of golang crypto library
+
+golang-github-protonmail-gopenpgp-v3-dev/stable 3.2.0-1 all
+  high-level OpenPGP library built on top of golang crypto library
+
+golang-github-puerkitobio-purell-dev/stable 1.1.1-1 all
+  tiny Go library to normalize URLs
+
+golang-github-rclone-ftp-dev/stable 1.0.0-220913-160-1 all
+  FTP client package for Go (library)
+
+golang-github-relvacode-iso8601-dev/stable 1.3.0-2 all
+  fast ISO8601 date parser for Go (library)
+
+golang-github-satori-go.uuid-dev/stable 1.2.0-3 all
+  Go package for creating and parsing UUID
+
+golang-github-segmentio-ksuid-dev/stable 1.0.4-2 all
+  K-Sortable Globally Unique IDs (Go library)
+
+golang-github-sigstore-timestamp-authority-dev/stable 1.2.3-2 all
+  Sigstore RFC3161 Timestamp Authority (Go library)
+
+golang-github-socketplane-libovsdb-dev/stable 0.1+git20160503.9.d4b9e7a53548-2.1 all
+  OVSDB client library written in Go
+
+golang-github-stefanberger-go-pkcs11uri-dev/stable 0.0~git20201008.78d3cae-2 all
+  Golang pkcs11 URI library (library)
+
+golang-github-teambition-rrule-go-dev/stable 1.8.1-2 all
+  Go library for working with recurrence rules for calendar dates. (library)
+
+golang-github-tent-http-link-go-dev/stable 0.0~git20130702.0.ac974c6-6 all
+  HTTP Link parsing in Go
+
+golang-github-toorop-go-dkim-dev/stable 0.0~git20250226.9025cce-1 all
+  DKIM package for golang (library)
+
+golang-github-twinj-uuid-dev/stable 0.10.0+git20160909.96.7bbe408-7 all
+  RFC 4122 and DCE 1.1 compliant UUIDs in Go
+
+golang-github-veraison-go-cose-dev/stable 1.2.1-2 all
+  go library for CBOR Object Signing and Encryption (COSE) (library)
+
+golang-github-vincent-petithory-dataurl-dev/stable 0.0~git20191104.d1553a7-1.1 all
+  Data URL Schemes in Golang (library)
+
+golang-github-xdg-go-pbkdf2-dev/stable 1.0.0-3 all
+  PBKDF2 key generation (library)
+
+golang-github-xdg-go-scram-dev/stable 1.1.2-1 all
+  RFC-5802 SCRAM in Go (library)
+
+golang-github-xdg-go-stringprep-dev/stable 1.0.4-1 all
+  RFC-3454 stringprep and RFC-4013 SASLprep in Go (library)
+
+golang-github-xlzd-gotp-dev/stable 0.0~git20181030.c8557ba-3 all
+  Golang OTP (One-Time Password) Library
+
+golang-github-youmark-pkcs8-dev/stable 1.1-3 all
+  Go package to parse and convert private keys in PKCS#8 format (library)
+
+golang-github-zmap-zlint-dev/stable 3.6.2-4 all
+  X.509 Certificate Linter focused on Web PKI standards (library)
+
+golang-golang-x-net-dev/stable 1:0.27.0-2 all
+  Supplementary Go networking libraries
+
+golang-gopkg-hlandau-acmeapi.v2-dev/stable 2.0.2-1 all
+  ACME v2 (RFC 8555) client library for Go
+
+golang-gopkg-square-go-jose.v1-dev/stable 1.1.2-4 all
+  Javascript Object Signing and Encryption (JOSE) for Go
+
+golang-nhooyr-websocket-dev/stable 1.8.12-4 all
+  Minimal and idiomatic WebSocket library for Go (library)
+
+golang-webpki-org-jsoncanonicalizer-dev/stable 1.0.1-3 all
+  Golang library for a JCS (RFC 8785) compliant JSON canonicalizer
+
+gosop/stable 1.1.0-3+b1 arm64
+  Stateless CLI for GopenPGP
+
+gost-crypto-dkms/stable 0.3.5-1.1 all
+  Linux kernel modules implementing GOST cryptography
+
+gpg/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed]
+  GNU Privacy Guard -- minimalist public key operations
+
+gpg-agent/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - cryptographic agent
+
+gpg-wks-client/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - Web Key Service client
+
+gpg-wks-server/stable 2.4.7-21+deb13u1+b4 arm64
+  GNU privacy guard - Web Key Service server
+
+gpgsm/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - S/MIME version
+
+gpgv-static/stable 2.4.7-21+deb13u1+b4 arm64
+  minimal signature verification tool (static build)
+
+grfcodec/stable 6.1.0-1+b1 arm64
+  suite of programs to modify Transport Tycoon Deluxe's GRF files
+
+guile-json/stable 4.7.3-3 arm64
+  JSON module for Guile
+
+hash-slinger/stable 3.1-1.2 arm64
+  tools to generate special DNS records
+
+haskell-lazy-csv-utils/stable 0.5.1-7+b1 arm64
+  efficient lazy parsers for CSV (comma-separated values)
+
+hddemux/stable 0.5-1.1+b1 arm64
+  HTTP/1.x and DNS demultiplexer
+
+hpsockd/stable 0.17+x-0.1 arm64
+  HP SOCKS server
+
+ietf2bibtex/stable 2.0.2-1 all
+  Create BibTeX entry for IETF document (RFC or Internet Draft)
+
+imaprowl/stable 1.2.1-1.3 all
+  IMAP new mail notification utility for iPhone using Prowl Public API
+
+interimap/stable 0.5.8-1 all
+  Fast bidirectional synchronization for QRESYNC-capable IMAP servers
+
+intltool-debian/stable 0.35.0+20060710.6 all
+  Help i18n of RFC822 compliant config files
+
+isatapd/stable 0.9.7-5+b3 arm64
+  creates and maintains an ISATAP client tunnel (RFC 5214)
+
+iscsiuio/stable 2.1.11-1+deb13u2 arm64
+  iSCSI offloading daemon for QLogic devices
+
+jool-dkms/stable 4.1.13-1.1 all
+  kernel-based SIIT and NAT64 (IP/ICMP translation)
+
+jose/stable 14-2 arm64
+  C implementation of Javascript Object Signing and Encryption standards
+
+jose-util/stable 4.0.5-1+b3 arm64
+  Implementation of JOSE standards (JWE, JWS, JWT) in Go (program)
+
+kamailio/stable 6.0.1-1+deb13u1 arm64
+  very fast, dynamic and configurable SIP server
+
+kamailio-autheph-modules/stable 6.0.1-1+deb13u1 arm64
+  authentication using ephemeral credentials for the Kamailio SIP server
+
+kamailio-berkeley-bin/stable 6.0.1-1+deb13u1 arm64
+  Berkeley database module for Kamailio - helper program
+
+kamailio-berkeley-modules/stable 6.0.1-1+deb13u1 arm64
+  Berkeley database module for the Kamailio SIP server
+
+kamailio-cnxcc-modules/stable 6.0.1-1+deb13u1 arm64
+  cnxcc modules for the Kamailio SIP server
+
+kamailio-cpl-modules/stable 6.0.1-1+deb13u1 arm64
+  CPL module (CPL interpreter engine) for the Kamailio SIP server
+
+kamailio-erlang-modules/stable 6.0.1-1+deb13u1 arm64
+  Erlang modules for the Kamailio SIP server
+
+kamailio-extra-modules/stable 6.0.1-1+deb13u1 arm64
+  Extra modules for the Kamailio SIP Server
+
+kamailio-geoip2-modules/stable 6.0.1-1+deb13u1 arm64
+  geoip2 module for the Kamailio SIP Server
+
+kamailio-ims-modules/stable 6.0.1-1+deb13u1 arm64
+  IMS module for the Kamailio SIP server
+
+kamailio-json-modules/stable 6.0.1-1+deb13u1 arm64
+  Json parser and Json-RPC modules for the Kamailio SIP server
+
+kamailio-kafka-modules/stable 6.0.1-1+deb13u1 arm64
+  Kafka module for the Kamailio SIP server
+
+kamailio-kazoo-modules/stable 6.0.1-1+deb13u1 arm64
+  kazoo modules for the Kamailio SIP server
+
+kamailio-ldap-modules/stable 6.0.1-1+deb13u1 arm64
+  LDAP modules for the Kamailio SIP server
+
+kamailio-lua-modules/stable 6.0.1-1+deb13u1 arm64
+  app_lua module for Kamailio Lua support
+
+kamailio-lwsc-modules/stable 6.0.1-1+deb13u1 arm64
+  Libwebsockets module for the Kamailio SIP server
+
+kamailio-memcached-modules/stable 6.0.1-1+deb13u1 arm64
+  interface to the memcached server, for the Kamailio SIP server
+
+kamailio-microhttpd-modules/stable 6.0.1-1+deb13u1 arm64
+  Microhttpd module for the Kamailio SIP server
+
+kamailio-mongodb-modules/stable 6.0.1-1+deb13u1 arm64
+  mongodb modules for the Kamailio SIP server
+
+kamailio-mqtt-modules/stable 6.0.1-1+deb13u1 arm64
+  MQTT modules for the Kamailio SIP Server
+
+kamailio-mysql-modules/stable 6.0.1-1+deb13u1 arm64
+  MySQL database connectivity module for Kamailio
+
+kamailio-nats-modules/stable 6.0.1-1+deb13u1 arm64
+  Nats module for the Kamailio SIP server
+
+kamailio-outbound-modules/stable 6.0.1-1+deb13u1 arm64
+  SIP Outbound module for the Kamailio SIP server
+
+kamailio-perl-modules/stable 6.0.1-1+deb13u1 arm64
+  Perl extensions and database driver for the Kamailio SIP server
+
+kamailio-phonenum-modules/stable 6.0.1-1+deb13u1 arm64
+  phonenum modules for the Kamailio SIP server
+
+kamailio-postgres-modules/stable 6.0.1-1+deb13u1 arm64
+  PostgreSQL database connectivity module for the Kamailio SIP server
+
+kamailio-presence-modules/stable 6.0.1-1+deb13u1 arm64
+  SIP presence modules for Kamailio
+
+kamailio-python3-modules/stable 6.0.1-1+deb13u1 arm64
+  app_python3 module for the Kamailio SIP server
+
+kamailio-rabbitmq-modules/stable 6.0.1-1+deb13u1 arm64
+  RabbitMQ and AMQP integration modules for the Kamailio SIP server
+
+kamailio-radius-modules/stable 6.0.1-1+deb13u1 arm64
+  RADIUS modules for the Kamailio SIP server
+
+kamailio-redis-modules/stable 6.0.1-1+deb13u1 arm64
+  Redis database connectivity module for the Kamailio SIP server
+
+kamailio-ruby-modules/stable 6.0.1-1+deb13u1 arm64
+  app_ruby module for Kamailio Ruby support
+
+kamailio-sctp-modules/stable 6.0.1-1+deb13u1 arm64
+  SCTP SIP transport module for the Kamailio SIP server
+
+kamailio-secsipid-modules/stable 6.0.1-1+deb13u1 arm64
+  secsipid module for the Kamailio SIP server
+
+kamailio-snmpstats-modules/stable 6.0.1-1+deb13u1 arm64
+  SNMP AgentX subagent module for the Kamailio SIP server
+
+kamailio-sqlite-modules/stable 6.0.1-1+deb13u1 arm64
+  SQLite database connectivity module for the Kamailio SIP server
+
+kamailio-systemd-modules/stable 6.0.1-1+deb13u1 arm64
+  systemd logging modules for the Kamailio SIP server
+
+kamailio-tls-modules/stable 6.0.1-1+deb13u1 arm64
+  TLS support for the Kamailio SIP server (authentication, transport)
+
+kamailio-tls-wolfssl-modules/stable 6.0.1-1+deb13u1 arm64
+  TLS support for the Kamailio SIP server (authentication, transport)
+
+kamailio-unixodbc-modules/stable 6.0.1-1+deb13u1 arm64
+  unixODBC database connectivity module for the Kamailio SIP server
+
+kamailio-utils-modules/stable 6.0.1-1+deb13u1 arm64
+  Utility functions for the Kamailio SIP server
+
+kamailio-websocket-modules/stable 6.0.1-1+deb13u1 arm64
+  WebSocket module for the Kamailio SIP server
+
+kamailio-xml-modules/stable 6.0.1-1+deb13u1 arm64
+  XML based extensions for Kamailio's Management Interface
+
+kamailio-xmpp-modules/stable 6.0.1-1+deb13u1 arm64
+  XMPP gateway module for the Kamailio SIP server
+
+kde-zeroconf/stable 4:25.04.0-1 arm64
+  zeroconf plugins and kio slaves for KDE
+
+keepalived/stable 1:2.3.3-1 arm64
+  Failover and monitoring daemon for LVS clusters
+
+knot-dnsutils/stable 3.4.6-2 arm64
+  Clients provided with Knot DNS (kdig, knsupdate, kxdpgun)
+
+krb5-otp/stable 1.21.3-5+deb13u1 arm64
+  OTP plugin for MIT Kerberos
+
+ksuid/stable 1.0.4-2+b17 arm64
+  K-Sortable Globally Unique IDs (program)
+
+kuvert/stable 2.2.6+b1 arm64
+  wrapper that encrypts or signs outgoing mail
+
+l2tpns/stable 2.4.1-3 arm64
+  layer 2 tunnelling protocol network server (LNS)
+
+ldnsutils/stable 1.8.4-2+b1 arm64
+  ldns library for DNS programming - tools (includes drill tool)
+
+libapache-mime4j-java/stable 0.8.12-1 all
+  MIME and RFC822 parser for Java
+
+libapache2-mod-auth-gssapi/stable 1.6.4-3+b2 arm64
+  GSSAPI Authentication module for Apache2
+
+libapache2-mod-encoding/stable 20040616-9 arm64
+  Apache2 module for non-ascii filename interoperability
+
+libatombus-perl/stable 1.0405-7 all
+  AtomPub server for messaging
+
+libatompub-perl/stable 0.3.7-6 all
+  implementation of Atom Publishing Protocol
+
+libauth-googleauth-perl/stable 1.07-1 all
+  Google Authenticator TOTP Abstraction
+
+libauthen-oath-perl/stable 2.0.1-2 all
+  Perl module for OATH One Time Passwords
+
+libauthen-sasl-saslprep-perl/stable 1.100-4 all
+  Stringprep Profile for User Names and Passwords (RFC 4013)
+
+libauthen-scram-perl/stable 0.011-2 all
+  Salted Challenge Response Authentication Mechanism (RFC 5802)
+
+libavc1394-dev/stable 0.5.4-5+b2 arm64
+  control IEEE 1394 audio/video devices (development files)
+
+libavc1394-tools/stable 0.5.4-5+b2 arm64
+  control IEEE 1394 audio/video devices (utilities)
+
+libbase64-ocaml/stable 3.5.1-2+b4 arm64
+  Base64 encoding and decoding OCaml library (runtime files)
+
+libbase64-ocaml-dev/stable 3.5.1-2+b4 arm64
+  Base64 encoding and decoding OCaml library (dev files)
+
+libbcmail-java/stable 1.80-3 all
+  Bouncy Castle generators/processors for S/MIME and CMS
+
+libbcpg-java/stable 1.80-3 all
+  Bouncy Castle generators/processors for OpenPGP
+
+libbellesip-dev/stable 5.3.105+dfsg-4 arm64
+  SIP stack from the Linphone team (development files)
+
+libbellesip3/stable 5.3.105+dfsg-4 arm64
+  SIP stack from the Linphone team
+
+libbindex-java/stable 2.2+svn101-4 all
+  OSGi BIndex reader
+
+libboost-url-dev/stable 1.83.0.2+b2 arm64
+  C++ library that implements "URL" (default version)
+
+libboost-url1.83-dev/stable 1.83.0-4.2 arm64
+  C++ library that implements "URL"
+
+libboost-url1.83.0/stable 1.83.0-4.2 arm64
+  C++ library that implements "URL"
+
+libboost-url1.88-dev/stable 1.88.0-1 arm64
+  C++ library that implements "URL"
+
+libboost-url1.88.0/stable 1.88.0-1 arm64
+  C++ library that implements "URL"
+
+libcbor-dev/stable 0.10.2-2 arm64
+  library for parsing and generating CBOR (RFC 7049) (development headers)
+
+libcbor-doc/stable 0.10.2-2 all
+  library for parsing and generating CBOR (RFC 7049) (documentation)
+
+libcbor0.10/stable,now 0.10.2-2 arm64 [installed,automatic]
+  library for parsing and generating CBOR (RFC 7049)
+
+libccrtp-dev/stable 2.0.9-4.1+b1 arm64
+  Common C++ class framework for RTP packets - development files
+
+libcgi-cookie-splitter-perl/stable 0.05-3 all
+  module for splitting big cookies into smaller ones
+
+libcgi-tiny-perl/stable 1.003-1 all
+  module providing a modern interface to write CGI scripts
+
+libcgi-untaint-email-perl/stable 0.03-4 all
+  input handler for CGI::Untaint to validate an email address
+
+libcharon-extra-plugins/stable 6.0.1-6+deb13u6 arm64
+  strongSwan charon library (extra plugins)
+
+libcoap3-dev/stable 4.3.4-1.1+deb13u3 arm64
+  C-Implementation of CoAP - development files API version 3
+
+libcoap3-doc/stable 4.3.4-1.1+deb13u3 all
+  C-Implementation of CoAP - HTML based documentation files for API v3
+
+libcoap3t64/stable 4.3.4-1.1+deb13u3 arm64
+  C-Implementation of CoAP - libraries API version 3
+
+libcommons-csv-java/stable 1.9.0-1 all
+  Library for reading and writing CSV files
+
+libcommons-fileupload-java/stable 1.5-1.1 all
+  File upload capability to your servlets and web applications
+
+libcommons-fileupload-java-doc/stable 1.5-1.1 all
+  Javadoc API documentation for Commons FileUploads
+
+libconvert-ytext-perl/stable 0.2-3 all
+  Perl module to quote strings suitably for RFC2822 local parts
+
+libcotp-dev/stable 3.1.0-1 arm64
+  C library that generates TOTP and HOTP (development)
+
+libcotp3/stable 3.1.0-1 arm64
+  C library that generates TOTP and HOTP
+
+libcpp-jwt-dev/stable 1.4+ds-5 all
+  JSON Web Token library for C++
+
+libcpprspserver-dev/stable 3.4.4-1.1+b2 arm64
+  headers of the C++ RSerPool client/server API library
+
+libcpprspserver3t64/stable 3.4.4-1.1+b2 arm64
+  C++ RSerPool client/server API library
+
+libcrypt-hcesha-perl/stable 0.75-3 all
+  Perl extension for one way hash chaining encryption using SHA
+
+libcrypt-jwt-perl/stable 0.037-1 all
+  JSON Web Token support for Perl
+
+libcrypt-saltedhash-perl/stable 0.09-3 all
+  module for handling salted hashes
+
+libdata-ical-perl/stable 0.24+dfsg-2 all
+  Perl module for manipulating iCalendar (RFC2445) files
+
+libdata-url-java/stable 1.0.1-2 all
+  Support for data URLs according to RFC 2397
+
+libdata-uuid-mt-perl/stable 1.001-2 all
+  fast random UUID generator using the Mersenne Twister algorithm
+
+libdata-uuid-perl/stable 1.227-1+b1 arm64
+  globally/universally unique identifiers (GUIDs/UUIDs)
+
+libdata-validate-email-perl/stable 0.06-2 all
+  validator for email addresses written in Perl
+
+libdatetime-event-ical-perl/stable 0.13-2 all
+  Perl DateTime extension for computing RFC2445 recurrences
+
+libdatetime-format-ical-perl/stable 0.09-3 all
+  Perl module to parse and format iCal datetime and duration strings
+
+libdatetime-format-mail-perl/stable 0.4030-3 all
+  module to convert between DateTime and RFC2822/822 formats
+
+libdatetime-format-rfc3339-perl/stable 1.10.0-1 all
+  module to parse and format RFC3339 datetime strings
+
+libdico2t64/stable 2.12-3 arm64
+  RFC 2229 compliant modular dictionary server (shared library)
+
+libdigest-hmac-perl/stable,now 1.05+dfsg-1 all [installed,automatic]
+  module for creating standard message integrity checks
+
+libdigest-md2-perl/stable 2.04+dfsg-2+b4 arm64
+  MD2 Message Digest for Perl
+
+libdigest-md4-perl/stable 1.9+dfsg-3+b5 arm64
+  MD4 Message Digest for Perl
+
+libdomain-name-ocaml/stable 0.4.1-1+b1 arm64
+  RFC 1035 Internet domain names (runtime)
+
+libdomain-name-ocaml-dev/stable 0.4.1-1+b1 arm64
+  RFC 1035 Internet domain names (dev)
+
+libdpkg-perl/stable 1.22.22 all
+  Dpkg perl modules
+
+libdublincore-record-perl/stable 0.03-4 all
+  Container for Dublin Core metadata elements
+
+libemail-address-list-perl/stable 0.06-2 all
+  RFC close address list parsing
+
+libemail-address-perl/stable 1.913-1 all
+  Perl module for RFC 2822 address parsing and creation
+
+libemail-address-xs-perl/stable 1.05-1+b4 arm64
+  Perl library for RFC 5322 address/group parsing and formatting
+
+libemail-date-format-perl/stable 1.008-1 all
+  Module to generate RFC-2822-valid date strings
+
+libemail-date-perl/stable 1.104-4 all
+  Perl module for correct formatting of dates in emails
+
+libemail-find-perl/stable 0.10-dfsg-4 all
+  module to find RFC 822 email addresses in plain text
+
+libemail-mime-contenttype-perl/stable 1.028-1 all
+  Perl module to parse a MIME Content-Type header
+
+libemail-simple-perl/stable 2.218-1 all
+  module to parse RFC2822 headers and message format
+
+libemail-valid-loose-perl/stable 0.05-5 all
+  Email::Valid which allows dot immediately before at mark
+
+libencode-imaputf7-perl/stable 1.07-1 all
+  modification of UTF-7 encoding for IMAP
+
+libest3/stable 3.2.0+ds-1.1 arm64
+  Enrollment over Secure Transport (EST), library
+
+libfelix-gogo-command-java/stable 0.14.0-3 all
+  Apache Felix Gogo Command bundle
+
+libfelix-gogo-command-java-doc/stable 0.14.0-3 all
+  Documentation for Apache Felix Gogo Command bundle
+
+libfelix-gogo-runtime-java/stable 0.16.2-2 all
+  Apache Felix Gogo Runtime bundle
+
+libfelix-gogo-runtime-java-doc/stable 0.16.2-2 all
+  Documentation for Apache Felix Gogo Runtime bundle
+
+libfelix-gogo-shell-java/stable 0.12.0-2 all
+  Apache Felix Gogo Shell bundle
+
+libfelix-gogo-shell-java-doc/stable 0.12.0-2 all
+  Documentation for Apache Felix Gogo Shell bundle
+
+libfixbuf-dev/stable 2.4.1+ds-3 arm64
+  Implementation of the IPFIX protocol - development headers
+
+libfixbuf-doc/stable 2.4.1+ds-3 all
+  Implementation of the IPFIX protocol - documentation
+
+libfixbuf-tools/stable 2.4.1+ds-3 arm64
+  Implementation of the IPFIX protocol - tools
+
+libfixbuf9t64/stable 2.4.1+ds-3 arm64
+  Implementation of the IPFIX protocol - shared library
+
+libftp-dev/stable 4.0-1-4+b2 arm64
+  Library of callable ftp routines (development)
+
+libgcrypt-bin/stable 1.11.0-7+deb13u1 arm64
+  LGPL Crypto library - utility binaries
+
+libgcrypt-mingw-w64-dev/stable 1.11.0-7+deb13u1 all
+  LGPL Crypto library - Windows development
+
+libgcrypt20/stable 1.11.0-7+deb13u1 arm64 [upgradable from: 1.11.0-7]
+  LGPL Crypto library - runtime library
+
+libgcrypt20-dev/stable 1.11.0-7+deb13u1 arm64
+  LGPL Crypto library - development files
+
+libgcrypt20-doc/stable 1.11.0-7+deb13u1 all
+  LGPL Crypto library - documentation
+
+libghc-cborg-dev/stable 0.2.10.0-1+b1 arm64
+  Concise Binary Object Representation
+
+libghc-cborg-doc/stable 0.2.10.0-1 all
+  Concise Binary Object Representation; documentation
+
+libghc-cborg-json-dev/stable 0.2.6.0-1+b1 arm64
+  encoding JSON as CBOR
+
+libghc-cborg-json-doc/stable 0.2.6.0-1 all
+  encoding JSON as CBOR; documentation
+
+libghc-cborg-json-prof/stable 0.2.6.0-1+b1 arm64
+  encoding JSON as CBOR; profiling libraries
+
+libghc-cborg-prof/stable 0.2.10.0-1+b1 arm64
+  Concise Binary Object Representation; profiling libraries
+
+libghc-crypton-x509-dev/stable 1.7.7-1+b1 arm64
+  X509 reader and writer
+
+libghc-crypton-x509-doc/stable 1.7.7-1 all
+  X509 reader and writer; documentation
+
+libghc-crypton-x509-prof/stable 1.7.7-1+b1 arm64
+  X509 reader and writer; profiling libraries
+
+libghc-crypton-x509-validation-dev/stable 1.6.12-3+b1 arm64
+  X.509 certificate and CRL validation
+
+libghc-crypton-x509-validation-doc/stable 1.6.12-3 all
+  X.509 certificate and CRL validation; documentation
+
+libghc-crypton-x509-validation-prof/stable 1.6.12-3+b1 arm64
+  X.509 certificate and CRL validation; profiling libraries
+
+libghc-csv-dev/stable 0.1.2-18+b1 arm64
+  CSV loader and dumper
+
+libghc-csv-doc/stable 0.1.2-18 all
+  CSV loader and dumper; documentation
+
+libghc-csv-prof/stable 0.1.2-18+b1 arm64
+  CSV loader and dumper; profiling libraries
+
+libghc-dav-dev/stable 1.3.4-4+b2 arm64
+  RFC 4918 WebDAV support
+
+libghc-dav-doc/stable 1.3.4-4 all
+  RFC 4918 WebDAV support; documentation
+
+libghc-dav-prof/stable 1.3.4-4+b2 arm64
+  RFC 4918 WebDAV support; profiling libraries
+
+libghc-email-validate-dev/stable 2.3.2.21-1 arm64
+  validate an email address string against RFC 5322
+
+libghc-email-validate-doc/stable 2.3.2.21-1 all
+  validate an email address string against RFC 5322; documentation
+
+libghc-email-validate-prof/stable 2.3.2.21-1 arm64
+  validate an email address string against RFC 5322; profiling libraries
+
+libghc-hopenpgp-dev/stable 2.10.1-1 arm64
+  implementation of OpenPGP (RFC4880)
+
+libghc-hopenpgp-doc/stable 2.10.1-1 all
+  implementation of OpenPGP (RFC4880); documentation
+
+libghc-hopenpgp-prof/stable 2.10.1-1 arm64
+  OpenPGP (RFC4880); profiling libraries
+
+libghc-hsemail-dev/stable 2.2.2-1+b1 arm64
+  Haskell parser for emails and SMTP conversations
+
+libghc-hsemail-doc/stable 2.2.2-1 all
+  Haskell parser for emails and SMTP conversations; documentation
+
+libghc-hsemail-prof/stable 2.2.2-1+b1 arm64
+  Haskell parser for emails and SMTP conversations; profiling libraries
+
+libghc-http-link-header-dev/stable 1.2.1-3+b1 arm64
+  parser/writer for RFC 5988's HTTP Link header
+
+libghc-http-link-header-doc/stable 1.2.1-3 all
+  parser/writer for RFC 5988's HTTP Link header; documentation
+
+libghc-http-link-header-prof/stable 1.2.1-3+b1 arm64
+  parser/writer for RFC 5988's HTTP Link header; profiling libraries
+
+libghc-lazy-csv-dev/stable 0.5.1-7+b1 arm64
+  efficient lazy parsers for CSV (comma-separated values)
+
+libghc-lazy-csv-doc/stable 0.5.1-7 all
+  efficient lazy parsers for CSV (comma-separated values); documentation
+
+libghc-lazy-csv-prof/stable 0.5.1-7+b1 arm64
+  efficient lazy parsers for CSV (comma-separated values); profiling libraries
+
+libghc-multipart-dev/stable 0.2.1-3+b1 arm64
+  HTTP multipart support
+
+libghc-multipart-doc/stable 0.2.1-3 all
+  HTTP multipart support; documentation
+
+libghc-multipart-prof/stable 0.2.1-3+b1 arm64
+  HTTP multipart support; profiling libraries
+
+libghc-openpgp-asciiarmor-dev/stable 0.1.2-5+b1 arm64
+  OpenPGP (RFC4880) ASCII Armor codec
+
+libghc-openpgp-asciiarmor-doc/stable 0.1.2-5 all
+  OpenPGP (RFC4880) ASCII Armor codec; documentation
+
+libghc-openpgp-asciiarmor-prof/stable 0.1.2-5+b1 arm64
+  OpenPGP (RFC4880) ASCII Armor codec; profiling libraries
+
+libghc-pem-dev/stable 0.2.4-6+b1 arm64
+  Privacy Enhanced Mail (PEM) format reader and writer
+
+libghc-pem-doc/stable 0.2.4-6 all
+  Privacy Enhanced Mail (PEM) format reader and writer; documentation
+
+libghc-pem-prof/stable 0.2.4-6+b1 arm64
+  Privacy Enhanced Mail (PEM) format reader and writer; profiling libraries
+
+libghc-resolv-dev/stable 0.2.0.2-2+b1 arm64
+  Domain Name Service (DNS) lookup via libresolv
+
+libghc-resolv-doc/stable 0.2.0.2-2 all
+  Domain Name Service (DNS) lookup via libresolv; documentation
+
+libghc-resolv-prof/stable 0.2.0.2-2+b1 arm64
+  Domain Name Service (DNS) lookup via libresolv; profiling libraries
+
+libghc-rfc5051-dev/stable 0.2-4+b1 arm64
+  simple unicode collation as per RFC5051
+
+libghc-rfc5051-doc/stable 0.2-4 all
+  simple unicode collation as per RFC5051; documentation
+
+libghc-rfc5051-prof/stable 0.2-4+b1 arm64
+  simple unicode collation as per RFC5051; profiling libraries
+
+libghc-rsa-dev/stable 2.4.1-4+b1 arm64
+  implementation of RSA, using the padding schemes of PKCS#1 v2.1.
+
+libghc-rsa-doc/stable 2.4.1-4 all
+  implementation of RSA, using padding schemes of PKCS#1 v2.1.; documentation
+
+libghc-rsa-prof/stable 2.4.1-4+b1 arm64
+  implementation of RSA, using padding schemes of PKCS#1; profiling libraries
+
+libghc-serialise-dev/stable 0.2.6.1-1+b1 arm64
+  binary serialisation library for Haskell values
+
+libghc-serialise-doc/stable 0.2.6.1-1 all
+  binary serialisation library for Haskell values; documentation
+
+libghc-serialise-prof/stable 0.2.6.1-1+b1 arm64
+  binary serialisation library for Haskell values; profiling libraries
+
+libghc-sha-dev/stable 1.6.4.4-6+b1 arm64
+  Haskell SHA suite of message digest functions
+
+libghc-sha-doc/stable 1.6.4.4-6 all
+  Haskell SHA suite of message digest functions; documentation
+
+libghc-sha-prof/stable 1.6.4.4-6+b1 arm64
+  Haskell SHA suite of message digest functions; profiling libraries
+
+libghc-stringprep-dev/stable 1.0.0-14+b2 arm64
+  Implements the "StringPrep" algorithm
+
+libghc-stringprep-doc/stable 1.0.0-14 all
+  Implements the "StringPrep" algorithm; documentation
+
+libghc-stringprep-prof/stable 1.0.0-14+b2 arm64
+  Implements the "StringPrep" algorithm; profiling libraries
+
+libghc-uri-bytestring-dev/stable 0.3.3.1-3+b1 arm64
+  Haskell URI parsing as ByteStrings
+
+libghc-uri-bytestring-doc/stable 0.3.3.1-3 all
+  Haskell URI parsing as ByteStrings; documentation
+
+libghc-uri-bytestring-prof/stable 0.3.3.1-3+b1 arm64
+  Haskell URI parsing as ByteStrings; profiling libraries
+
+libghc-x509-dev/stable 1.7.7-3 arm64
+  X.509 reader and writer
+
+libghc-x509-doc/stable 1.7.7-3 all
+  X.509 reader and writer; documentation
+
+libghc-x509-prof/stable 1.7.7-3 arm64
+  X.509 reader and writer; profiling libraries
+
+libghc-x509-validation-dev/stable 1.6.12-3+b1 arm64
+  X.509 certificate and CRL validation
+
+libghc-x509-validation-doc/stable 1.6.12-3 all
+  X.509 certificate and CRL validation; documentation
+
+libghc-x509-validation-prof/stable 1.6.12-3+b1 arm64
+  X.509 certificate and CRL validation; profiling libraries
+
+libgssapi-perl/stable 0.28-4+b5 arm64
+  Perl extension providing access to the GSSAPIv2 library
+
+libhttp-cookiejar-perl/stable 0.014-2 all
+  minimalist HTTP user agent cookie jar
+
+libhttp-cookies-perl/stable,now 6.11-1 all [installed,automatic]
+  HTTP cookie jars
+
+libhttp-link-parser-perl/stable 0.200-2 all
+  parse HTTP Link headers
+
+libhttp-link-perl/stable 0.001-3 all
+  RFC 5988 web linking
+
+libhttp-multipartparser-perl/stable 0.02-3 all
+  HTTP multipart MIME parser
+
+libi18n-acceptlanguage-perl/stable 1.04-6 all
+  module to matches language preference to available languages
+
+libical-dev/stable 3.0.20-1+b1 arm64
+  iCalendar library implementation in C (development)
+
+libical-doc/stable 3.0.20-1 all
+  iCalendar library implementation in C (documentation)
+
+libical-parser-perl/stable 1.21-4 all
+  module to parse iCalendar files into a data structure
+
+libical3t64/stable 3.0.20-1+b1 arm64
+  iCalendar library implementation in C (runtime)
+
+libident-bin/stable 0.32-4+b2 arm64
+  simple RFC1413 client library (utilities)
+
+libident-dev/stable 0.32-4+b2 arm64
+  simple RFC1413 client library (development files)
+
+libident0/stable 0.32-4+b2 arm64
+  simple RFC1413 client library (shared library)
+
+libimap-admin-perl/stable 1.6.8-2 all
+  Perl module for administrating IMAP servers
+
+libinih-dev/stable 59-1 arm64
+  simple .INI file parser (development files)
+
+libinih1/stable,now 59-1 arm64 [installed,automatic]
+  simple .INI file parser
+
+libinireader0/stable,now 59-1 arm64 [installed,automatic]
+  simple .INI file parser for C++
+
+libircclient-dev/stable 1.10-1 arm64
+  development files for libircclient
+
+libircclient1/stable 1.10-1 arm64
+  C library to create IRC clients
+
+libirclib-java/stable 2.0.0~alpha3-1 all
+  Java implementation of the IRC protocol
+
+libiri-perl/stable 0.013-1 all
+  Handle Internationalized Resource Identifiers in Perl
+
+libisns-dev/stable 0.101-1+b1 arm64
+  Internet Storage Name Service - development files
+
+libisns0t64/stable 0.101-1+b1 arm64
+  Internet Storage Name Service - shared libraries
+
+libjackson2-dataformat-cbor/stable 2.7.8-5.1 all
+  Jackson data format module for RfC7049 Concise Binary Object Representation
+
+libjs-jshash/stable 2.2-5 all
+  calculate secure hash algorithms in JavaScript
+
+libjson-perl/stable,now 4.10000-1 all [installed,automatic]
+  module for manipulating JSON-formatted data
+
+libjson-pointer-perl/stable 0.07-2 all
+  Perl implementation of JSON Pointer (RFC6901)
+
+libjson-pp-perl/stable 4.16000-2 all
+  module for manipulating JSON-formatted data (Pure Perl)
+
+libjson-simple-java/stable 2.3.0-2 all
+  Simple, lightweight and efficient JSON toolkit for Java
+
+libjson-xs-perl/stable,now 4.040-1~deb13u1 arm64 [installed,automatic]
+  module for manipulating JSON-formatted data (C/XS-accelerated)
+
+libjwt-dev/stable 1.17.2-1 arm64
+  C library to handle JWT (JSON Web Token) - development
+
+libjwt-gnutls-dev/stable 1.17.2-1 arm64
+  Development files for libjwt - GnuTLS flavour
+
+libjwt-gnutls2/stable 1.17.2-1 arm64
+  C library to handle JWT (JSON Web Token) - GnuTLS flavour
+
+libjwt2/stable 1.17.2-1 arm64
+  C library to handle JWT (JSON Web Token)
+
+libjzlib-java/stable 1.1.3-3 all
+  Java Zlib implementation
+
+libkpim6kmanagesieve6/stable 4:24.12.3-1 arm64
+  Sieve remote script management support for kdepim, library
+
+libkpim6ksieve6/stable 4:24.12.3-1 arm64
+  Sieve mail filtering language support for kdepim, library
+
+libkpim6ksieveui6/stable 4:24.12.3-1 arm64
+  Sieve mail filtering language support for kdepim, GUI library
+
+libksieve-data/stable 4:24.12.3-1 all
+  Sieve mail filtering language support for kdepim, data files
+
+libksieve-dev/stable 4:24.12.3-1 arm64
+  Sieve mail filtering language support for kdepim, development files
+
+liblangtag-common/stable 0.6.7-1 all
+  library to access tags for identifying languages -- data
+
+liblangtag-dev/stable 0.6.7-1+b2 arm64
+  library to access tags for identifying languages -- development
+
+liblangtag-doc/stable 0.6.7-1 all
+  library to access tags for identifying languages -- documentation
+
+liblangtag-gobject0/stable 0.6.7-1+b2 arm64
+  library to access tags for identifying languages
+
+liblangtag1/stable 0.6.7-1+b2 arm64
+  library to access tags for identifying languages
+
+liblcrq-dev/stable 0.2.3-1 arm64
+  librecast RaptorQ library (development)
+
+liblcrq0.0/stable 0.2.3-1 arm64
+  librecast RaptorQ library (runtime)
+
+libldaptive-java/stable 2.1.2-1 all
+  simple, extensible Java API for interacting with LDAP servers
+
+libldns-dev/stable 1.8.4-2+b1 arm64
+  ldns library for DNS programming - development files
+
+libldns3t64/stable 1.8.4-2+b1 arm64
+  ldns library for DNS programming - shared library
+
+liblodepng-dev/stable 0.0~git20250402.c45ed79-2 arm64
+  PNG encoder and decoder in C and C++, without dependencies (development files)
+
+liblodepng0.1/stable 0.0~git20250402.c45ed79-2 arm64
+  PNG encoder and decoder in C and C++, without dependencies (shared library)
+
+libmail-authenticationresults-perl/stable 2.20231031-1 all
+  object oriented Authentication-Results headers
+
+libmail-dkim-perl/stable 1.20240923-1 all
+  module to cryptographically identify the sender of email
+
+libmail-field-received-perl/stable 0.26-1.1 all
+  mostly RFC822-compliant parser of Received headers
+
+libmail-imapclient-perl/stable 3.43-1 all
+  Perl library for manipulating IMAP mail stores
+
+libmail-listdetector-perl/stable 1.04+dfsg-2 all
+  module for detecting mailing list messages
+
+libmail-message-perl/stable 3.017-1 all
+  generic class representing mail messages (perl library)
+
+libmail-rbl-perl/stable 1.10-3 all
+  Perl extension to access RBL-style host verification services
+
+libmail-rfc822-address-perl/stable 0.4-3 all
+  Perl extension for validating email addresses
+
+libmail-spf-perl/stable 3.20250505-1 all
+  Perl implementation of Sender Policy Framework and Sender ID
+
+libmath-base85-perl/stable 0.5+dfsg-2 all
+  Perl extension for base 85 numbers, as referenced by RFC 1924
+
+libmhash-dev/stable 0.9.9.9-10 arm64
+  Library for cryptographic hashing and message authentication
+
+libmhash2/stable 0.9.9.9-10 arm64
+  Library for cryptographic hashing and message authentication
+
+libmime-base32-perl/stable 1.303-3 all
+  Base32 encoder/decoder
+
+libmime-ecoencode-perl/stable 0.95-3 all
+  MIME encoding (economical)
+
+libmime-encwords-perl/stable 1.015.0-1 all
+  Perl interface to deal with RFC 2047 encoded words
+
+libmojo-jwt-perl/stable 1.01-1 all
+  JSON Web Token the Mojo way
+
+libneon27t64/stable 0.34.2-1 arm64
+  HTTP and WebDAV client library
+
+libneon27t64-gnutls/stable 0.34.2-1 arm64
+  HTTP and WebDAV client library (GnuTLS enabled)
+
+libnet-bluetooth-perl/stable 0.41-4+b3 arm64
+  Perl interface to Bluetooth libraries
+
+libnet-dhcp-perl/stable 0.696+dfsg-3 all
+  Perl interface for handling DHCP packets
+
+libnet-dhcpv6-duid-parser-perl/stable 1.01-4 all
+  OO interface to parse DHCPv6 Unique Identifiers
+
+libnet-dict-perl/stable 2.22-2 all
+  client API for accessing dictionary servers (RFC 2229)
+
+libnet-dns-sec-perl/stable,now 1.26-1+b1 arm64 [installed,automatic]
+  DNSSEC extension to NET::DNS
+
+libnet-epp-perl/stable 0.28-1 all
+  module implementing the Extensible Provisioning Protocol
+
+libnet-http-perl/stable,now 6.23-1 all [installed,automatic]
+  module providing low-level HTTP connection client
+
+libnet-ident-perl/stable 1.25-3 all
+  Perl module to lookup the username on the remote end of a TCP/IP connection
+
+libnet-idn-nameprep-perl/stable 1.102+dfsg-3 all
+  stringprep profile for Internationalized Domain Names (RFC 3491)
+
+libnet-ipv6addr-perl/stable 1.02-1 all
+  module to validate/manipulate IPv6 addresses
+
+libnet-ldap-filterbuilder-perl/stable 1.200002-4 all
+  module to build LDAP filter statements
+
+libnet-ldns-perl/stable 0.75-7+b4 arm64
+  Perl wrapper for the ldns DNS library
+
+libnet-libidn-perl/stable 0.12.ds-5 arm64
+  Perl bindings for GNU Libidn
+
+libnet-ntp-perl/stable 1.5-3 all
+  Perl module to query NTP servers
+
+libnet-oauth2-authorizationserver-perl/stable 0.28-2 all
+  implementation of an OAuth2 Authorization Server
+
+libnet-ph-perl/stable 2.21-10 all
+  Perl module for accessing Ph servers
+
+libnet-radius-perl/stable 2.103+dfsg-1.1 all
+  distribution of modules interfacing to the RADIUS protocol
+
+libnet-sieve-script-perl/stable 0.09-2 all
+  module to parse and write sieve scripts
+
+libnet-smtp-server-perl/stable 1.1-7 all
+  native Perl SMTP Server implementation for Perl
+
+libnet-syslogd-perl/stable 0.16-2 all
+  Perl implementation of Syslog Listener
+
+libnet-tftp-perl/stable 0.1901-3 all
+  Perl module for accessing TFTP servers
+
+libnet-tftpd-perl/stable 0.10-3 all
+  Perl extension for Trivial File Transfer Protocol Server
+
+libnet-xwhois-perl/stable 0.90-6 all
+  Whois Client Interface for Perl5
+
+libnetconf2-4/stable 3.7.1-1 arm64
+  library for IETF NETCONF protocol
+
+libnginx-mod-http-auth-spnego/stable 1.1.3-1 arm64
+  SPNEGO authentication module for Nginx
+
+libnginx-mod-http-srcache-filter/stable 0.33-4 arm64
+  Transparent caching layer for Nginx
+
+libnginx-mod-http-uploadprogress/stable 1:0.9.4-2 arm64
+  Upload progress system for Nginx
+
+libnoggit-java/stable 0.8-1 all
+  Fast streaming JSON parser for Java
+
+liboath-dev/stable 2.6.12-1 arm64
+  Development files for the OATH Toolkit Liboath library
+
+liboath0t64/stable 2.6.12-1 arm64
+  OATH Toolkit Liboath library
+
+libopendkim11/stable 2.11.0~beta2-9.1+b1 arm64
+  DomainKeys Identified Mail (DKIM) library
+
+libopeniscsiusr/stable 2.1.11-1+deb13u2 arm64
+  iSCSI userspace library
+
+libopeniscsiusr-dev/stable 2.1.11-1+deb13u2 all
+  iSCSI userspace library headers
+
+libortp-dev/stable 1:5.3.105-1 arm64
+  Development files for the ortp RTP library
+
+libortp-doc/stable 1:5.3.105-1 all
+  oRTP API documentation
+
+libortp16/stable 1:5.3.105-1 arm64
+  Real-time Transport Protocol (RTP) stack
+
+libosip2-15t64/stable 5.3.1-1.1+b1 arm64
+  Session Initiation Protocol (SIP) library
+
+libosip2-dev/stable 5.3.1-1.1+b1 arm64
+  development files for the SIP library
+
+libosmo-sigtran-dev/stable 2.1.0-3 arm64
+  Development headers for the Osmocom SIGTRAN library
+
+libosmo-sigtran-doc/stable 2.1.0-3 all
+  Documentation for the Osmocom SIGTRAN library
+
+libosmo-sigtran11/stable 2.1.0-3 arm64
+  Osmocom SIGTRAN library (SCCP, SUA, M3UA and more)
+
+libosmocore-utils/stable 1.11.0-2 arm64
+  Utilities for gsm
+
+libossp-uuid-dev/stable 1.6.4-1 arm64
+  OSSP uuid ISO-C and C++ - headers and static libraries
+
+libossp-uuid-perl/stable 1.6.4-1 arm64
+  perl OSSP::UUID - OSSP uuid Perl Binding
+
+libossp-uuid16/stable 1.6.4-1 arm64
+  OSSP uuid ISO-C and C++ - shared library
+
+libpam-barada/stable 0.5.3-1 arm64
+  PAM module to provide two-factor authentication based on HOTP
+
+libpam-google-authenticator/stable 20191231-2.1+b1 arm64
+  Two-step verification
+
+libpam-oath/stable 2.6.12-1 arm64
+  OATH Toolkit libpam_oath PAM module
+
+libparse-mime-perl/stable 1.006-2 all
+  module to parse mime-types, match against media ranges
+
+libpass-otp-perl/stable 1.801-1 all
+  Perl implementation of HOTP / TOTP algorithms
+
+libpbkdf2-tiny-perl/stable 0.005-4 all
+  Minimalist PBKDF2 (RFC 2898) with HMAC-SHA1 or HMAC-SHA2
+
+libpgm-5.3-0t64/stable 5.3.128~dfsg-2.1+b1 arm64
+  OpenPGM shared library
+
+libpgm-dev/stable 5.3.128~dfsg-2.1+b1 arm64
+  OpenPGM development files
+
+libphodav-3.0-0/stable 3.0-9+b2 arm64
+  WebDAV server implementation using libsoup
+
+libphodav-3.0-common/stable 3.0-9 all
+  WebDAV server implementation using libsoup (common files)
+
+libphodav-3.0-dev/stable 3.0-9+b2 arm64
+  WebDAV server implementation using libsoup (development files)
+
+libprecis-java/stable 1.1.0-2 all
+  Java implementation of the PRECIS Framework
+
+libprotocol-http2-perl/stable 1.11-1 all
+  HTTP/2 protocol implementation with client and server libraries
+
+libpskc-dev/stable 2.6.12-1 arm64
+  Development files for the OATH Toolkit Libpskc library
+
+libpskc0t64/stable 2.6.12-1 arm64
+  OATH Toolkit Libpskc library
+
+libptime-ocaml/stable 1.2.0-2+b2 arm64
+  POSIX time for OCaml (runtime)
+
+libptime-ocaml-dev/stable 1.2.0-2+b2 arm64
+  POSIX time for OCaml (development)
+
+libradsec-dev/stable 0.0.5-5.1+b2 arm64
+  RADIUS library with RADSEC support
+
+libradsec0t64/stable 0.0.5-5.1+b2 arm64
+  RADIUS library supporting RADSEC
+
+libre-dev/stable 2.0.1-3 arm64
+  generic library for real-time communications (development files)
+
+libre1/stable 2.0.1-3 arm64
+  generic library for real-time communications with async IO support
+
+librecode3/stable 3.7.15-1 arm64
+  Shared library on which recode is based
+
+libregexp-common-email-address-perl/stable 1.01-6 all
+  Regexp::Common extension for matching e-mail addresses
+
+libregexp-ipv6-perl/stable 0.03-3 all
+  Regular expression for IPv6 addresses
+
+libreswan/stable 5.2-2.2 arm64
+  Internet Key Exchange daemon
+
+libring-basic-authentication-clojure/stable 1.1.0-2 all
+  ring middleware to enforce basic authentication
+
+libring-headers-clojure/stable 0.3.0-2 all
+  Ring middleware for common response headers
+
+librnp-dev/stable 0.17.1-1+b1 arm64
+  Cross-platform OpenPGP (RFC4880) tools (development files)
+
+librnp0/stable 0.17.1-1+b1 arm64
+  Cross-platform OpenPGP (RFC4880) tools (library)
+
+librsplib-dev/stable 3.4.4-1.1+b2 arm64
+  headers of the RSerPool client/server API library rsplib
+
+librsplib3t64/stable 3.4.4-1.1+b2 arm64
+  RSerPool client/server API library for session management
+
+librust-aes-kw-dev/stable 0.2.1-1+b2 arm64
+  AES Key Wrap (KW) and Key Wrap with Padding (KWP) modes - Rust source code
+
+librust-aes-siv-dev/stable 0.7.0-1+b3 arm64
+  Pure Rust implementation of the AES-SIV Misuse-Resistant Authenticated Encryption Cipher (RFC 5297) with optional architecture-specific hardware acceleration - Rust source code
+
+librust-base16ct-dev/stable 0.2.0-1+b2 arm64
+  Pure Rust implementation of Base16 a.k.a hexadecimal (RFC 4648) which avoids any usages of data-dependent branches/LUTs and thereby provides portable "best effort" constant-time operation and embedded-friendly no_std support - Rust source code
+
+librust-base64ct-dev/stable 1.6.0-1+b2 arm64
+  Pure Rust implementation of Base64 (RFC 4648) which avoids any usages of data-dependent branches/LUTs and thereby provides portable "best effort" constant-time operation and embedded-friendly no_std support - Rust source code
+
+librust-blake2-rfc-dev/stable 0.2.18-5 arm64
+  Pure Rust implementation of BLAKE2 based on RFC 7693 - Rust source code
+
+librust-chacha20-dev/stable 0.9.1-1+b3 arm64
+  ChaCha20 stream cipher (RFC 8439) in pure Rust - Rust source code
+
+librust-chacha20poly1305-dev/stable 0.10.1-1+b3 arm64
+  ChaCha20Poly1305 Authenticated Encryption (RFC 8439) in pure Rust - Rust source code
+
+librust-chunked-transfer-dev/stable 1.4.0-1+b2 arm64
+  Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) - Rust source code
+
+librust-crc24-dev/stable 0.1.6-1+b2 arm64
+  CRC-24 implementation (IETF RFC2440-compatible) - Rust source code
+
+librust-ecdsa-dev/stable 0.16.9-1 arm64
+  Pure Rust implementation of the Elliptic Curve Digital Signature Algorithm (ECDSA) as specified in FIPS 186-4 (Digital Signature Standard), providing RFC6979 deterministic signatures as well as support for added entropy - Rust source code
+
+librust-email-address-dev/stable 0.2.4-1+b2 arm64
+  Provides a RFC-compliant `EmailAddress` newtype - Rust source code
+
+librust-escape8259-dev/stable 0.5.3-1+b2 arm64
+  RFC8259-compliant string escaping and un-escaping - Rust source code
+
+librust-net2-dev/stable 0.2.39-1 arm64
+  Extensions to the standard library's networking types as proposed in RFC 1158 - Rust source code
+
+librust-ocb3-dev/stable 0.1.0-2 arm64
+  Offset Codebook Mode v3 (OCB3) AEAD mode - Rust source code
+
+librust-oxilangtag-dev/stable 0.1.5-4 all
+  language tag normalization and validation - Rust source code
+
+librust-oxiri-dev/stable 0.2.11-2 all
+  validation and relative resolution of IRIs - Rust source code
+
+librust-pem-rfc7468-dev/stable 0.7.0-1+b2 arm64
+  PEM Encoding for keys and certificates - Rust source code
+
+librust-pgp-dev/stable 0.15.0-2 arm64
+  OpenPGP implementation in Rust - Rust source code
+
+librust-picky-asn1-x509-dev/stable 0.10.0-2 arm64
+  ASN1 types defined by X.509 related RFCs - Rust source code
+
+librust-pkcs1-dev/stable 0.7.5-1+b3 arm64
+  Pure Rust implementation of Public-Key Cryptography Standards (PKCS) #1: RSA Cryptography Specifications Version 2.2 (RFC 8017) - Rust source code
+
+librust-pkcs5-dev/stable 0.7.1-1+b3 arm64
+  Pure Rust implementation of Public-Key Cryptography Standards (PKCS) #5: Password-Based Cryptography Specification Version 2.1 (RFC 8018) - Rust source code
+
+librust-pkcs8-dev/stable 0.10.2+ds-12 all
+  pure Rust implementation of PKCS#8 - Rust source code
+
+librust-ptr-meta-dev/stable 0.3.0-1+b1 arm64
+  Radioactive stabilization of the ptr_meta rfc - Rust source code
+
+librust-rfc2047-decoder-dev/stable 1.0.6-1 arm64
+  Decoding RFC 2047 MIME Message Headers - Rust source code
+
+librust-rfc2047-dev/stable 0.1.1-1+b2 arm64
+  Simple encoder for RFC2047 encoded words - Rust source code
+
+librust-rfc6979-dev/stable 0.4.0-1+b3 arm64
+  Pure Rust implementation of RFC6979: Deterministic Usage of the Digital Signature Algorithm (DSA) and Elliptic Curve Digital Signature Algorithm (ECDSA) - Rust source code
+
+librust-rfc822-like-dev/stable 0.2.3-1 arm64
+  RFC822-like encoding used in control files implemented for serde - Rust source code
+
+librust-rfc822-sanitizer-dev/stable 0.3.3-2+b2 arm64
+  Rfc822/2822 sanitizer/normalizer - Rust source code
+
+librust-soketto-dev/stable 0.8.1-3 all
+  websocket protocol implementation
+
+librust-spki-dev/stable 0.7.3-1 arm64
+  X.509 Subject Public Key Info (RFC5280) - Rust source code
+
+librust-stun-codec-dev/stable 0.3.5-1 arm64
+  Encoders and decoders for STUN (RFC 5389) and its extensions - Rust source code
+
+librust-totp-rs-dev/stable 5.5.1-1 arm64
+  RFC-compliant TOTP implementation with ease of use as a goal and additionnal QoL features - Rust source code
+
+librust-x25519-dalek-dev/stable 2.0.1+4.1.3+20240618+dfsg-9 all
+  X25519 elliptic curve Diffie-Hellman key exchange - Rust source code
+
+librust-x509-parser-dev/stable 0.17.0-4.1 all
+  parser for the X.509 v3 format - Rust source code
+
+libsasl2-2/stable,now 2.1.28+dfsg1-9 arm64 [installed,automatic]
+  Cyrus SASL - authentication abstraction library
+
+libsasl2-dev/stable 2.1.28+dfsg1-9 arm64
+  Cyrus SASL - development files for authentication abstraction library
+
+libsasl2-modules/stable 2.1.28+dfsg1-9 arm64
+  Cyrus SASL - pluggable authentication modules
+
+libsasl2-modules-db/stable,now 2.1.28+dfsg1-9 arm64 [installed,automatic]
+  Cyrus SASL - pluggable authentication modules (DB)
+
+libsasl2-modules-gssapi-heimdal/stable 2.1.28+dfsg1-9 arm64
+  Pluggable Authentication Modules for SASL (GSSAPI)
+
+libsasl2-modules-gssapi-mit/stable 2.1.28+dfsg1-9 arm64
+  Cyrus SASL - pluggable authentication modules (GSSAPI)
+
+libsasl2-modules-ldap/stable 2.1.28+dfsg1-9 arm64
+  Cyrus SASL - pluggable authentication modules (LDAP)
+
+libsasl2-modules-otp/stable 2.1.28+dfsg1-9 arm64
+  Cyrus SASL - pluggable authentication modules (OTP)
+
+libsasl2-modules-sql/stable 2.1.28+dfsg1-9 arm64
+  Cyrus SASL - pluggable authentication modules (SQL)
+
+libscram-java/stable 3.1-1 all
+  Salted Challenge Response Authentication Mechanism
+
+libsctp-dev/stable 1.0.21+dfsg-1 arm64
+  user-space access to Linux kernel SCTP - development files
+
+libsctp1/stable 1.0.21+dfsg-1 arm64
+  user-space access to Linux kernel SCTP - shared library
+
+libsecp256k1-2/stable 0.5.0-2+b1 arm64
+  library for EC operations on curve secp256k1
+
+libsecp256k1-dev/stable 0.5.0-2+b1 arm64
+  library for EC operations on curve secp256k1 - development headers
+
+libsecsipid-dev/stable 1.3.2-2.1+b8 arm64
+  Secure SIP Identity Extensions - C headers files
+
+libsecsipid1t64/stable 1.3.2-2.1+b8 arm64
+  Secure SIP Identity Extensions - library
+
+libsmi2-dev/stable 0.4.8+dfsg2-17+b1 arm64
+  library to access SMI MIB information - development files
+
+libsmi2t64/stable 0.4.8+dfsg2-17+b1 arm64
+  library to access SMI MIB information
+
+libsocket-getaddrinfo-perl/stable 0.22-6 all
+  module implementing getaddrinfo and getnameinfo
+
+libsofia-sip-ua-dev/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1+b2 arm64
+  Sofia-SIP library development files
+
+libsofia-sip-ua-glib-dev/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1+b2 arm64
+  Sofia-SIP library glib/gobject interface development files
+
+libsofia-sip-ua-glib3t64/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1+b2 arm64
+  Sofia-SIP library glib/gobject interfaces runtime
+
+libsofia-sip-ua0t64/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1+b2 arm64
+  Sofia-SIP library runtime
+
+libsrtp2-1/stable 2.7.0-3 arm64
+  Secure RTP (SRTP) and UST Reference Implementations - shared library
+
+libsrtp2-dev/stable 2.7.0-3 arm64
+  Secure RTP (SRTP) and UST Reference Implementations - development files
+
+libsrtp2-docs/stable 2.7.0-3 all
+  Secure RTP (SRTP) and UST Reference Implementations - documentation
+
+libstringprep-java/stable 2.1-1 all
+  Stringprep (RFC 3454) Java implementation
+
+libstrongswan/stable 6.0.1-6+deb13u6 arm64
+  strongSwan utility and crypto library
+
+libtaningia-dev/stable 0.2.2-2.1 arm64
+  Development files for lib taningia
+
+libtaningia0t64/stable 0.2.2-2.1 arm64
+  Taningia is a generic communication library based on XMPP
+
+libtext-bibtex-validate-perl/stable 0.3.0-1 all
+  validator for BibTeX format
+
+libtext-header-perl/stable 1.03+pristine-2 all
+  RFC 822/2068 header and unheader functions
+
+libtext-vcard-perl/stable 3.09-2 all
+  module to parse, edit and create multiple vCards
+
+libtext-vfile-asdata-perl/stable 0.08-2 all
+  generic perl module to read and write vfile files
+
+libtie-ical-perl/stable 0.15-4 all
+  module for tieing iCal files to Perl hashes
+
+libtlsrpt0/stable 0.5.0rc1-2 arm64
+  library to implement TLSRPT reporting into an MTA (shared lib)
+
+libtlsrpt0-dev/stable 0.5.0rc1-2 arm64
+  library to implement TLSRPT reporting into an MTA (dev files)
+
+libunicode-map8-perl/stable 0.13+dfsg-5+b5 arm64
+  module to map 8bit character sets to Unicode
+
+libunicode-stringprep-perl/stable 1.105+dfsg-3 all
+  Perl module for preparation of Internationalized Strings (RFC 3454)
+
+liburi-escape-xs-perl/stable 0.14-2+b4 arm64
+  drop-in XS replacement for URI::Escape
+
+liburi-normalize-perl/stable 0.002-2 all
+  Perl module to normalize URI paths
+
+liburi-ocaml/stable 4.4.0-1+b6 arm64
+  RFC3986 URI/URL parsing library in OCaml (runtime)
+
+liburi-ocaml-dev/stable 4.4.0-1+b6 arm64
+  RFC3986 URI/URL parsing library in OCaml (dev)
+
+liburi-perl/stable,now 5.30-1 all [installed,automatic]
+  module to manipulate and access URI strings
+
+liburiparser-doc/stable 0.9.8+dfsg-2 all
+  documentation files for uriparser
+
+liburiparser1/stable 0.9.8+dfsg-2 arm64
+  URI parsing library compliant with RFC 3986
+
+libuuid-perl/stable 0.37-1 arm64
+  Universally Unique Identifier library for Perl
+
+libuuid-urandom-perl/stable 0.001-2 all
+  Perl module to provide UUIDs based on /dev/urandom
+
+libuuid1/stable,now 2.41-5 arm64 [installed]
+  Universally Unique ID library
+
+libuuidm-ocaml-dev/stable 0.9.10-1+b1 arm64
+  Universally unique identifiers for OCaml
+
+libvbr2/stable 2.11.0~beta2-9.1+b1 arm64
+  Vouch By Reference (VBR) library
+
+libvmime-dev/stable 0.9.2-9 arm64
+  C++ mail library (development files)
+
+libvmime1-doc/stable 0.9.2-9 all
+  C++ mail library (API documentation)
+
+libvmime1t64/stable 0.9.2-9 arm64
+  C++ mail library (runtime library)
+
+libwebsocketpp-dev/stable 0.8.2-4+b1 arm64
+  C++/Boost Asio based websocket client/server library. Dev package
+
+libwebsocketpp-doc/stable 0.8.2-4 all
+  C++/Boost Asio based websocket client/server library. Doc package
+
+libwslay-dev/stable 1.1.1-4+b2 arm64
+  WebSocket library written in C. Development files
+
+libwslay-doc/stable 1.1.1-4 all
+  WebSocket library written in C. Documentation
+
+libwslay1/stable 1.1.1-4+b2 arm64
+  WebSocket library written in C. Shared library
+
+libwww-finger-perl/stable 0.105-2 all
+  get useful data from e-mail addresses
+
+libwww-oauth-perl/stable 1.002-1 all
+  portable OAuth 1.0 authentication module
+
+libx500-dn-perl/stable 0.29-6 all
+  Perl parser and formatter for RFC 2253 style DN strings
+
+libx509-ocaml/stable 1.0.5-1+b9 arm64
+  X.509 PKI purely in OCaml (runtime)
+
+libx509-ocaml-dev/stable 1.0.5-1+b9 arm64
+  X.509 PKI purely in OCaml (dev)
+
+libyang-dev/stable 3.12.2-1 arm64
+  parser toolkit for IETF YANG data modeling language (development)
+
+libyang3/stable 3.12.2-1 arm64
+  parser toolkit for IETF YANG data modeling language (library)
+
+libyang3-tools/stable 3.12.2-1 arm64
+  parser toolkit for IETF YANG data modeling language (tools)
+
+libyyjson-dev/stable 0.10.0+ds-1+b1 arm64
+  high performance JSON library written in ANSI C (development files)
+
+libyyjson-doc/stable 0.10.0+ds-1 all
+  high performance JSON library written in ANSI C (documentation)
+
+libyyjson0/stable 0.10.0+ds-1+b1 arm64
+  high performance JSON library written in ANSI C
+
+lighttpd-mod-webdav/stable 1.4.79-2 arm64
+  WebDAV module for lighttpd
+
+lksctp-tools/stable 1.0.21+dfsg-1 arm64
+  user-space access to Linux kernel SCTP - commandline tools
+
+lodepng-utils/stable 0.0~git20250402.c45ed79-2 arm64
+  PNG encoder and decoder in C and C++, without dependencies (utility)
+
+mailutils-imap4d/stable 1:3.19-1 arm64
+  GNU mailutils-based IMAP4 Daemon
+
+microcom/stable 2023.09.0-1+b2 arm64
+  minimalistic terminal program
+
+miredo/stable 1.2.6-7.2+b1 arm64
+  Teredo IPv6 tunneling through NATs
+
+mirrorbits/stable 0.6.1-1~deb13u1 arm64
+  geographical download redirector
+
+miscfiles/stable 1.5+dfsg-5 all
+  Dictionaries and other interesting files
+
+mlmmj/stable 1.5.2-1 arm64
+  mail server independent mailing list manager
+
+mmark/stable 2.2.25+dfsg1-2 arm64
+  powerful markdown processor in Go geared towards the IETF (program)
+
+mrtparse/stable 1.6-3 all
+  read and analyze the MRT format data (utilities)
+
+mutt/stable 2.2.13-1+deb13u1 arm64
+  text-based mailreader supporting MIME, GPG, PGP and threading
+
+nagios-check-xmppng/stable 0.3.3-1 all
+  monitoring plugin to check XMPP servers
+
+nd/stable 0.8.2-8.1+b1 arm64
+  small command line interface to WebDAV servers
+
+ndppd/stable 0.2.5-6+b1 arm64
+  daemon that proxies IPv6 NDP messages
+
+netconfd/stable 2.14-1 arm64
+  NETCONF (RFC6241) agent
+
+netmate/stable 0.2.0-12+b2 arm64
+  netdude clone that shows pcap dump lines in network header style
+
+node-auth-header/stable 1.0.0~1.1.0+~cs15.1.20180823-3 all
+  parse HTTP auth/authz headers - Node.js library
+
+node-base64url/stable 3.0.1-9 all
+  conversion to and from base64url
+
+node-cbor/stable 8.1.0+dfsg+~cs5.2.1-3 all
+  Node.js modules to encode and parse data in CBOR data format
+
+node-content-disposition/stable 0.5.4-2 all
+  Create and parse Content-Disposition header - Node.js module
+
+node-content-type/stable 1.0.5-1 all
+  Create and parse HTTP Content-Type header
+
+node-cookie/stable 0.7.1+~0.6.0-1 all
+  Basic cookie parser and serializer module for Node.js
+
+node-isurl/stable 4.0.2+~1.0.2-1 all
+  Checks whether a value is a WHATWG URL
+
+node-jose/stable 4.11.4-1 all
+  JOSE library without dependencies
+
+node-jose-browser-runtime/stable 4.11.4-1 all
+  JOSE library without dependencies (browser runtime)
+
+node-media-typer/stable 1.1.0-2 all
+  RFC 6838 media type parser and formatter - Node.js module
+
+node-oauth-sign/stable 0.9.0-4 all
+  OAuth 1 signing module for Node.js
+
+node-punycode/stable 2.3.1+~2.1.4-1 all
+  Nodejs robust Punycode converter fully RFC compliant
+
+node-sntp/stable 4.0.0-2 all
+  SNTP client
+
+node-static/stable 0.7.11+~0.7.7-1 all
+  RFC2616 compliant HTTP static-file server module with caching
+
+node-strict-uri-encode/stable 2.0.0+~2.0.0-1 all
+  stricter URI encode adhering to RFC 3986
+
+node-tough-cookie/stable 4.1.4+~4.0.5-2 all
+  RFC6265 Cookies and Cookie Jar for node.js
+
+node-uri-js/stable 4.4.0+dfsg-8 all
+  URI/IRI parsing/validating/resolving library
+
+node-uuid/stable 8.3.2+~8.3.4-1 all
+  simple and fast RFC4122 UUID generation - Node.js module
+
+node-webfinger/stable 0.4.2-2 all
+  Client library for Host Meta (RFC 6415) and Webfinger
+
+node-websocket/stable 1.0.35+~cs11.0.30-1+b1 arm64
+  WebSocket implementation for NodeJS
+
+node-ws/stable 8.18.1+~cs14.18.2-1 all
+  RFC-6455 WebSocket implementation module for Node.js
+
+nsca-ng-server/stable 1.6-7+b2 arm64
+  Monitoring command acceptor
+
+ntpstat/stable 0.0.0.1-2 arm64
+  show network time protocol (ntp) status
+
+oathtool/stable 2.6.12-1 arm64
+  OATH Toolkit oathtool command line tool
+
+oidentd/stable 3.1.0-1+b1 arm64
+  replacement ident daemon
+
+open-iscsi/stable 2.1.11-1+deb13u2 arm64
+  iSCSI initiator tools
+
+open-isns-discoveryd/stable 0.101-1+b1 arm64
+  Internet Storage Name Service - iSNS discovery daemon
+
+open-isns-server/stable 0.101-1+b1 arm64
+  Internet Storage Name Service - iSNS server
+
+open-isns-utils/stable 0.101-1+b1 arm64
+  Internet Storage Name Service - client utilities
+
+osslsigncode/stable 2.9-2 arm64
+  Authenticode signing tool
+
+pebble/stable 2.6.0+ds1-1+b7 arm64
+  ACME (RFC 8555) test-only server
+
+php-constant-time/stable 3.0.0-3 all
+  Constant-time Implementations of RFC 4648 Encoding (Base-64, Base-32, Base-16)
+
+php-email-validator/stable 4.0.4-1 all
+  A library for validating emails against several RFCs
+
+php-lcobucci-jwt/stable 5.5.0-1 all
+  A simple library to work with JSON Web Token and JSON Web Signature
+
+php-league-uri-interfaces/stable 7.5.1-6 all
+  Common interfaces and classes for URI representation and interaction
+
+php-mail/stable 2.0.0-0.1 all
+  Class that provides multiple interfaces for sending emails
+
+php-mail-mime/stable 1.10.12-2 all
+  PHP PEAR module for creating MIME messages
+
+php-mailparse/stable 3.1.8-1 all
+  Email message manipulation for PHP
+
+php-mailparse-all-dev/stable 3.1.8-1 all
+  Email message manipulation for PHP
+
+php-net-smtp/stable 1.12.1-2 all
+  PHP PEAR module implementing SMTP protocol
+
+php-psr-log/stable 3.0.2-2 all
+  common interface for logging libraries
+
+php-ramsey-uuid/stable 4.7.6-1 all
+  RFC 4122 universally unique identifier (UUID) generator for PHP
+
+php-twig-html-extra/stable 3.27.0-0+deb13u1 all
+  A Twig extension for HTML
+
+php8.4-mailparse/stable 3.1.8-1 arm64
+  Email message manipulation for PHP
+
+poc-streamer/stable 0.4.2-7+b1 arm64
+  MP3/Ogg multicast/HTTP streamer and MP3 cutting tool
+
+postfix-mta-sts-resolver/stable 1.5.0-1 all
+  Daemon providing MTA-STS map to Postfix
+
+postfix-policyd-spf-perl/stable 2.011-2 all
+  Simple Postfix policy server for RFC 4408/7208 SPF checking
+
+postfix-policyd-spf-python/stable 3.1.0-2 all
+  Postfix policy server for SPF checking
+
+postgresql-17-pg-rrule/stable 0.2.0+git20211101.d7d10f2-3 arm64
+  RRULE data type for PostgreSQL
+
+pr3287/stable 4.3ga10-5 arm64
+  IBM 3287 printer emulation for telnet sessions to IBM mainframes
+
+prosody-modules/stable 0.0~hg20250402.f315edc39f3d+dfsg-2 all
+  Selection of community modules for Prosody
+
+pskc-utils/stable 1.3-2 all
+  Utilities for handling PSKC files
+
+pskctool/stable 2.6.12-1 arm64
+  OATH Toolkit pskctool command line tool
+
+pullimap/stable 0.5.8-1 all
+  Pull mails from an IMAP mailbox and deliver them via SMTP or LMTP
+
+put-dns/stable 0.0.2-7 all
+  allows simplification of external DNS records
+
+pygopherd/stable 3.0.1-2 all
+  Modular Multiprotocol Gopher/HTTP/WAP Server
+
+pyspf-milter/stable 3.1.0-2 all
+  Modern milter for SPF checking
+
+python-aiocoap-doc/stable 0.4.14-1 all
+  Python implementation of CoAP (doc)
+
+python-cbor2-doc/stable 5.6.5-1 all
+  Python implementation of CBOR (common documentation)
+
+python-certbot-dns-rfc2136-doc/stable 4.0.0-1 all
+  Documentation for the RFC 2136 DNS plugin for Certbot
+
+python-django-oauth-toolkit-doc/stable 3.0.1-1 all
+  OAuth2 capabilities for Django projects (Documentation)
+
+python-django-recurrence-doc/stable 1.12.1-1 all
+  Django utility wrapping dateutil.rrule (documentation)
+
+python-flufl.bounce-doc/stable 4.0-6 all
+  email bounce detectors (common documentation)
+
+python-josepy-doc/stable 2.0.0-1 all
+  JOSE implementation for Python - Documentation
+
+python-jsonrpc-doc/stable 1.13.0-5 all
+  documentation for json-rpc
+
+python-ovsdbapp-doc/stable 2.11.0-2 all
+  library for creating OVSDB applications - doc
+
+python-pskc-doc/stable 1.3-2 all
+  Python module for handling PSKC files (Documentation)
+
+python-pyftpdlib-doc/stable 2.0.1-1 all
+  documentation for Python FTP server library
+
+python-pylibsrtp-doc/stable 0.12.0-1 all
+  Python wrapper around libsrtp (documentation)
+
+python-requests-oauthlib-doc/stable 1.3.1-1 all
+  module providing OAuthlib auth support for requests (Common Documentation)
+
+python-w3lib-doc/stable 2.3.1-1 all
+  Collection of web-related functions (documentation package)
+
+python-ws4py-doc/stable 0.5.1+dfsg1-4 all
+  WebSocket library (docs)
+
+python-wsproto-doc/stable 1.2.0-1 all
+  WebSockets state-machine based protocol implementation (Documentation)
+
+python3-aio-geojson-client/stable 0.20-2 all
+  async GeoJSON client library
+
+python3-aio-geojson-generic-client/stable 0.4-2 all
+  generic async GeoJSON client library
+
+python3-aiocoap/stable 0.4.14-1 all
+  Python implementation of CoAP
+
+python3-aioice/stable 0.10.1-1 all
+  implementation of ICE
+
+python3-aioimaplib/stable 2.0.1-1 all
+  Asynchronous IMAP4rev1 client library using Python asyncio
+
+python3-aioquic/stable 1.2.0-1+b1 arm64
+  Python implementation of QUIC and HTTP/3
+
+python3-aiosasl/stable 0.5.0-1 all
+  Protocol-agnostic SASL library for use with asyncio
+
+python3-authres/stable 1.2.0-4 all
+  RFC 8601 Authentication Results Header manipulation for Python3
+
+python3-caldav/stable 1.3.9-1 all
+  CalDAV (RFC4791) client library for Python 3
+
+python3-canonicaljson/stable 2.0.0-3 all
+  canonical JSON implementation for Python 3
+
+python3-cbor/stable 1.0.0-1.2+b6 arm64
+  Python3 Implementation of RFC 7049. Concise Binary Object Representation (CBOR)
+
+python3-cbor2/stable 5.6.5-1 arm64
+  Implements Concise Binary Object Representation (Python 3)
+
+python3-certbot-dns-rfc2136/stable 4.0.0-1 all
+  RFC 2136 DNS plugin for Certbot
+
+python3-ciso8601/stable 2.3.2-1 arm64
+  fast ISO8601 date time parser for Python written in C
+
+python3-cookies/stable 2.2.1-5 all
+  Python 3 RFC 6265-compliant cookie parser and renderer
+
+python3-dateutil/stable 2.9.0-4 all
+  powerful extensions to the standard Python 3 datetime module
+
+python3-debian/stable 1.0.1 all
+  Python 3 modules to work with Debian-related data formats
+
+python3-dicoclient/stable 2.12-3 all
+  RFC 2229 compliant dictionary client module and shell
+
+python3-django-oauth-toolkit/stable 3.0.1-1 all
+  OAuth2 capabilities for Django projects (Python3 version)
+
+python3-django-recurrence/stable 1.12.1-1 all
+  Django utility wrapping dateutil.rrule (Python3 version)
+
+python3-exabgp/stable 4.2.25-1 all
+  BGP swiss army knife of networking - Python 3 module
+
+python3-flufl.bounce/stable 4.0-6 all
+  email bounce detectors (Python 3)
+
+python3-fqdn/stable 1.5.1-2 all
+  Python library to validate fully qualified domain names (FQDNs)
+
+python3-gssapi/stable 1.9.0-1+b2 arm64
+  Python 3 interface to GSSAPI
+
+python3-h11/stable 0.14.0-1.1 all
+  Pure-Python, bring-your-own-I/O implementation of HTTP/1.1 (Python 3)
+
+python3-headerparser/stable 0.5.1-1 all
+  Parse key-value pairs in RFC 822 style headers
+
+python3-headerparser-doc/stable 0.5.1-1 all
+  Parse key-value pairs in RFC 822 style headers - documentation
+
+python3-hishel/stable 0.1.2-1 all
+  Persistent cache implementation for httpx and httpcore
+
+python3-hyperlink/stable 21.0.0-6 all
+  Immutable, Pythonic, correct URLs.
+
+python3-ical/stable 9.0.0-2 all
+  iCalendar implementation (rfc 2445)
+
+python3-icalendar/stable 6.0.1-2 all
+  parser/generator of iCalendar files for use with Python3
+
+python3-idna/stable 3.10-1+deb13u1 all
+  Python IDNA2008 (RFC 5891) handling (Python 3)
+
+python3-josepy/stable 2.0.0-1 all
+  JOSE implementation for Python 3.x
+
+python3-joserfc/stable 1.1.0-1 all
+  Python library for JSON Object Signing and Encryption (JOSE)
+
+python3-jsonpatch/stable 1.32-5 all
+  library to apply JSON patches - Python 3.x
+
+python3-jsonrpc/stable 1.13.0-5 all
+  Python implementation of JSON-RPC 1.0 and 2.0 (Python 3)
+
+python3-kerberos/stable 1.1.14-3.1+b12 arm64
+  GSSAPI interface module - Python 3.x
+
+python3-ldap3/stable 2.9.1-2 all
+  Pure Python LDAP client library
+
+python3-ldns/stable 1.8.4-2+b1 arm64
+  ldns library for DNS programming - Python3 bindings
+
+python3-libtrace/stable 1.6+git20180219-1.2 arm64
+  Python 3 bindings for the libtrace API
+
+python3-mimeparse/stable 2.0.0-2 all
+  Parse mime-types and quality parameters - Python 3.x
+
+python3-mrtparse/stable 1.6-3 all
+  read and analyze the MRT format data (Python 3.x module)
+
+python3-multipart/stable 1.2.1-2+deb13u1 all
+  Python multipart/form-data parser
+
+python3-oauthlib/stable 3.2.2-3 all
+  generic, spec-compliant implementation of OAuth for Python3
+
+python3-ocspbuilder/stable 0.10.2-3 all
+  library for generating OCSP requests and responses (Python3 version)
+
+python3-orjson/stable 3.10.7-2+b1 arm64
+  JSON parsing Python library
+
+python3-ovsdbapp/stable 2.11.0-2 all
+  library for creating OVSDB applications - Python 3.x
+
+python3-pgpdump/stable 1.5-4 all
+  PGP packet parser library (Python 3)
+
+python3-pgpy/stable 0.6.0-1.4 all
+  OpenPGP (Pretty Good Privacy) RFC 4880 implementation in Python 3
+
+python3-pgpy-doc/stable 0.6.0-1.4 all
+  OpenPGP (Pretty Good Privacy) RFC 4880 implementation in Python (documentation)
+
+python3-precis-i18n/stable 1.1.1-2 all
+  internationalized usernames and passwords
+
+python3-prefixdate/stable 0.4.1-2 all
+  Prefix date parser
+
+python3-priority/stable 2.0.0-1 all
+  pure-Python implementation of the HTTP/2 priority tree (Python 3)
+
+python3-pskc/stable 1.3-2 all
+  Python module for handling PSKC files (Python 3)
+
+python3-purl/stable 1.6-1 all
+  URL interrogation and manipulation (Python3 version)
+
+python3-pyagentx/stable 0.4.1-8 all
+  AgentX package to extend SNMP with pure Python
+
+python3-pydle/stable 0.9.4-4 all
+  compact, flexible and standards-abiding IRC library for Python
+
+python3-pyftpdlib/stable 2.0.1-1 all
+  Python FTP server library (Python 3)
+
+python3-pylibsrtp/stable 0.12.0-1 arm64
+  Python wrapper around libsrtp
+
+python3-requests-oauthlib/stable 1.3.1-1 all
+  module providing OAuthlib auth support for requests (Python 3)
+
+python3-rfc3161ng/stable 2.1.3-1 all
+  Implementation of trusted timestamping client
+
+python3-rfc3339/stable 2.0.1-1 all
+  parser and generator of RFC 3339-compliant timestamps (Python 3)
+
+python3-rfc3339-validator/stable 0.1.4-2 all
+  RFC 3339 validator (Python library)
+
+python3-rfc3986/stable 2.0.0-3 all
+  validating URI references per RFC 3986 - Python 3.x
+
+python3-rfc3986-validator/stable 0.1.1-2 all
+  RFC 3986 validator (Python library)
+
+python3-rfc3987/stable 1.3.8-3 all
+  Parsing and validation of URIs (RFC 3986) and IRIs (RFC 3987)
+
+python3-rfc6555/stable 0.0~git20190913.1a181b4-3 all
+  Happy Eyeballs Algorithm described in RFC 6555 using Python
+
+python3-rfc8785/stable 0.1.4-2 all
+  Pure-Python JSON Canonicalization Scheme (Python library)
+
+python3-service-identity/stable 24.2.0-1 all
+  Service identity verification for pyOpenSSL (Python 3 module)
+
+python3-sievelib/stable 1.4.2-1 all
+  Client-side Sieve and Managesieve library (Python3 version)
+
+python3-sigmavirus24-urltemplate/stable 4.1.1-2 all
+  Simple Python library to deal with URI Templates - Python 3.x
+
+python3-spf/stable 2.0.14-5 all
+  sender policy framework (SPF) module for Python 3
+
+python3-stdnum/stable 1.20-3 all
+  Python module to handle standardized numbers and codes (Python3 version)
+
+python3-strict-rfc3339/stable 0.7-2 all
+  Python library to validate, parse and generate RFC3339 time strings
+
+python3-unpaddedbase64/stable 2.1.0-2 all
+  unpadded Base64 implementation in Python 3
+
+python3-uritemplate/stable 4.1.1-3 all
+  implementation of RFC6570 - Python 3.x
+
+python3-uritools/stable 4.0.3-1 all
+  RFC 3986 compliant replacement for urlparse
+
+python3-w3lib/stable 2.3.1-1 all
+  Collection of web-related functions (Python 3)
+
+python3-websocket/stable 1.8.0-2 all
+  WebSocket client library - Python 3.x
+
+python3-websockets/stable 15.0.1-1 arm64
+  implementation of the WebSocket Protocol (RFC 6455)
+
+python3-ws4py/stable 0.5.1+dfsg1-4 all
+  WebSocket library
+
+python3-wsproto/stable 1.2.0-1 all
+  WebSockets state-machine based protocol implementation (Python3)
+
+python3-x-wr-timezone/stable 1.0.1-1 all
+  Python module to handle non-standard X-WR-TIMEZONE icalendar property (Python 3)
+
+python3-xstatic-angular-uuid/stable 0.0.4.0-4 all
+  Angular UUID XStatic support
+
+qprint/stable 1.1.dfsg.2-2.3 arm64
+  encoder and decoder for quoted-printable encoding
+
+qprint-doc/stable 1.1.dfsg.2-2.3 all
+  qprint quoted-printable encoder/decoder (documentation)
+
+r-cran-base64url/stable 1.4-2+b2 arm64
+  GNU R fast and URL-safe Base64 encoder and decoder
+
+raku-log/stable 0.3.1-6 arm64
+  interface for logging mechanisms
+
+raku-uri/stable 0.3.7-3 arm64
+  URI handler for Raku
+
+rapidjson-dev/stable 1.1.0+dfsg2-7.4 all
+  fast JSON parser/generator for C++ with SAX/DOM style API
+
+rbldns/stable 1:1.05-22 arm64
+  real time blackhole list server
+
+rdate/stable 1:1.11-3+b1 arm64
+  sets the system's date from a remote host with network time protocol
+
+rdnssd/stable 1.0.7-1+b1 arm64
+  IPv6 recursive DNS server discovery daemon
+
+recode/stable 3.7.15-1 arm64
+  Character set conversion utility
+
+remotetea/stable 1.0.7-3.1 all
+  Sun ONC/RPC support for Java
+
+rfcdiff/stable 1.45-1.1 all
+  compares two internet draft files and outputs the difference
+
+riece/stable 9.0.0-11 all
+  IRC client for Emacs
+
+rnp/stable 0.17.1-1+b1 arm64
+  Cross-platform OpenPGP (RFC4880) tools (command-line tool)
+
+roundcube-plugin-authres-status/stable 0.7.0+dfsg-1 all
+  authres_status plugin for Roundcube Webmail
+
+rsplib-all/stable 3.4.4-1.1+b2 arm64
+  RSerPool implementation RSPLIB
+
+rsplib-doc/stable 3.4.4-1.1 all
+  documentation of the RSerPool implementation RSPLIB
+
+rsplib-fgp-cfgfiles/stable 3.4.4-1.1 all
+  RSerPool Fractal Generator Service example input files
+
+rsplib-registrar/stable 3.4.4-1.1+b2 arm64
+  RSerPool Registrar service
+
+rsplib-services/stable 3.4.4-1.1+b2 arm64
+  RSerPool example services
+
+rsplib-tools/stable 3.4.4-1.1+b2 arm64
+  RSerPool test tools
+
+rsyslog-openssl/stable 8.2504.0-1 arm64
+  TLS/DTLS protocol support for rsyslog (OpenSSL)
+
+ruby-addressable/stable 2.8.7-2 all
+  alternative URI implementation for Ruby
+
+ruby-aes-key-wrap/stable 1.1.0-1 all
+  Ruby implementation of AES Key Wrap
+
+ruby-attr-required/stable 1.0.0-2.1 all
+  attr_required and attr_optional support for Ruby
+
+ruby-base32/stable 0.3.4-1 all
+  Ruby extension for base32 encoding and decoding
+
+ruby-certificate-authority/stable 1.1.0-1 all
+  tool to manage the core functions outlined in RFC-3280 for PKI
+
+ruby-cose/stable 1.3.1-1 all
+  RFC 8152 CBOR Object Signing and Encryption (COSE)
+
+ruby-data-uri/stable 0.1.0-2 all
+  URI::Data class for parsing RFC2397 data URIs
+
+ruby-ed25519/stable 1.4.0+ds-1 arm64
+  efficient digital signature library providing the Ed25519 algorithm
+
+ruby-hana/stable 1.3.7-1 all
+  Implementation of JSON Patch and JSON Pointer RFC
+
+ruby-hkdf/stable 1.0.0-2 all
+  HMAC-based Key Derivation Function
+
+ruby-hmac/stable 0.4.0-6 all
+  Ruby interface for HMAC algorithm
+
+ruby-http-cookie/stable 1.0.5-1 all
+  Ruby library to handle HTTP Cookies based on RFC 6265
+
+ruby-httpauth/stable 0.2.1+gh-1.1 all
+  Ruby library for the HTTP authentication protocol (RFC 2617)
+
+ruby-kramdown-rfc2629/stable 1.7.14-1 all
+  generate XML2RFC XML from Markdown
+
+ruby-mime/stable 0.4.4-2 all
+  MIME library for Ruby
+
+ruby-net-http-digest-auth/stable 1.4.1-1 all
+  RFC 2617 Digest Access Authentication implementation
+
+ruby-net-irc/stable 0.0.9-3.1 all
+  Ruby IRC library (Client, Server and many IRC gateways to webservice)
+
+ruby-net-ntp/stable 2.1.3-4 all
+  NTP client for ruby
+
+ruby-protocol-hpack/stable 1.4.2-2 all
+  compresssor and decompressor for HTTP 2.0 HPACK
+
+ruby-rotp/stable 6.2.0-2 all
+  Ruby library for generating and verifying one time passwords
+
+ruby-sasl/stable 0.0.3.3-2.1 all
+  SASL client library for Ruby
+
+ruby-uri-template/stable 0.7.0-2 all
+  templating system for URIs
+
+ruby-uuid/stable 2.3.9-4 all
+  UUID generator for Ruby
+
+ruby-uuidtools/stable 2.2.0-1 all
+  UUIDs generation library for Ruby
+
+ruby-uuidtools-doc/stable 2.2.0-1 all
+  UUIDs generation library for Ruby - documentation
+
+s3270/stable 4.3ga10-5 arm64
+  Program for scripted telnet sessions to IBM mainframes
+
+sasl2-bin/stable 2.1.28+dfsg1-9 arm64
+  Cyrus SASL - administration programs for SASL users database
+
+scdaemon/stable 2.4.7-21+deb13u1+b4 arm64
+  GNU privacy guard - smart card support
+
+secsipidx/stable 1.3.2-2.1+b8 arm64
+  Secure SIP Identity Extensions - IETF STIR and SHAKEN
+
+sinntp/stable 1.6-6 all
+  tiny non-interactive NNTP client
+
+smistrip/stable 0.4.8+dfsg2-17 all
+  extract MIB from text files like RFC
+
+sofia-sip-bin/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1+b2 arm64
+  Sofia-SIP library utilities
+
+sofia-sip-doc/stable 1.12.11+20110422.1+1e14eea~dfsg-6.1 all
+  Sofia-SIP library documentation
+
+spf-tools-perl/stable 3.20250505-1 all
+  SPF tools (spfquery, spfd) based on the Mail::SPF Perl module
+
+spice-webdavd/stable 3.0-9+b2 arm64
+  daemon to proxy WebDAV request to the Spice virtio channel
+
+srain/stable 1.7.0-1+b1 arm64
+  graphical IRC client based on GTK+
+
+sredird/stable 2.2.2-0.2 arm64
+  RFC 2217 compliant Telnet serial port redirector
+
+stayrtr/stable 0.6.2-1+deb13u1 arm64
+  RPKI to Router server
+
+stun-client/stable 0.97~dfsg-3+b1 arm64
+  Test client for STUN
+
+stun-server/stable 0.97~dfsg-3+b1 arm64
+  Server daemon for STUN
+
+sugarplum/stable 0.9.10-18.1 all
+  automated and intelligent spam trap/cache-poisoner
+
+syslog-ng/stable 4.8.1-5+deb13u1 all
+  Enhanced system logging daemon (metapackage)
+
+syslog-ng-core/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (core)
+
+syslog-ng-dbg/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (debug symbols)
+
+syslog-ng-dev/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (development files)
+
+syslog-ng-mod-add-contextual-data/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (add-contextual-data plugin)
+
+syslog-ng-mod-amqp/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (AMQP plugin)
+
+syslog-ng-mod-examples/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (example plugins)
+
+syslog-ng-mod-geoip2/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (GeoIP2 plugin)
+
+syslog-ng-mod-graphite/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (graphite plugin)
+
+syslog-ng-mod-http/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (HTTP destination)
+
+syslog-ng-mod-mongodb/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (MongoDB plugin)
+
+syslog-ng-mod-python/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (Python plugin)
+
+syslog-ng-mod-rdkafka/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (Kafka destination, based on librdkafka)
+
+syslog-ng-mod-redis/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (Redis plugin)
+
+syslog-ng-mod-riemann/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (Riemann destination)
+
+syslog-ng-mod-slog/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (secure logging plugin)
+
+syslog-ng-mod-snmp/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (SNMP plugin)
+
+syslog-ng-mod-sql/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (SQL plugin)
+
+syslog-ng-mod-stardate/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (stardate plugin)
+
+syslog-ng-mod-stomp/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (STOMP plugin)
+
+syslog-ng-mod-xml-parser/stable 4.8.1-5+deb13u1 arm64
+  Enhanced system logging daemon (xml parser plugin)
+
+syslog-ng-scl/stable 4.8.1-5+deb13u1 all
+  Enhanced system logging daemon (scl files)
+
+systemd-netlogd/stable 1.4.4-1 arm64
+  journal message forwarder
+
+tcl3270/stable 4.3ga10-5 arm64
+  Program for Tcl-scripted telnet sessions to IBM mainframes
+
+tcllib/stable 2.0+dfsg-4 all
+  Standard Tcl Library
+
+topal/stable 84-1+b2 arm64
+  Glue between the Alpine email client and GnuPG cryptography
+
+tpm2daemon/stable 2.4.7-21+deb13u1+b4 arm64
+  GNU privacy guard - TPM2 support
+
+trippy/stable 0.12.2+dfsg-1 arm64
+  TUI network diagnostic tool
+
+uacme/stable 1.7.6-1 arm64
+  Lightweight client for the RFC8555 ACMEv2 protocol
+
+udhcpc/stable 1:1.37.0-6 all
+  Provides the busybox DHCP client implementation
+
+udhcpd/stable 1:1.37.0-6 all
+  Provides the busybox DHCP server implementation
+
+uim-viqr/stable 1:1.9.6-1 all
+  Universal Input Method - Vietnamese Quoted-Readable support metapackage
+
+unbound-anchor/stable 1.22.0-2+deb13u3 arm64
+  utility to securely fetch the root DNS trust anchor
+
+uuid/stable 1.6.4-1 arm64
+  Universally Unique Identifier Command-Line Tool
+
+uuid-dev/stable 2.41-5 arm64
+  Universally Unique ID library - headers and static libraries
+
+uuid-runtime/stable 2.41-5 arm64
+  runtime components for the Universally Unique ID library
+
+validns/stable 0.8+git20230810.a7e6b4f-2 arm64
+  high performance DNS/DNSSEC zone validator
+
+vrfy/stable 990522-11+b1 arm64
+  verify electronic mail addresses
+
+whois/stable 5.6.3 arm64
+  intelligent WHOIS client
+
+wl/stable 2.15.9+0.20210131-2 all
+  mail/news reader supporting IMAP for emacsen
+
+wl-beta/stable 2.15.9+0.20230120-1 all
+  mail/news reader supporting IMAP for emacsen (development version)
+
+wrapsrv/stable 1.0.0-2 arm64
+  DNS SRV record command line wrapper
+
+x11-apps/stable 7.7+11+b2 arm64
+  X applications
+
+x3270/stable 4.3ga10-5 arm64
+  X11 program for telnet sessions to IBM mainframes
+
+xandikos/stable 0.2.12-1 all
+  Git-backed CalDAV/CardDAV server
+
+xdelta3/stable 3.0.11-dfsg-1.2+b1 arm64
+  Diff utility which works with binary files
+
+xfce4-dict/stable 0.8.8-1 arm64
+  Dictionary plugin for Xfce4 panel
+
+xl2tpd/stable 1.3.18-1+b2 arm64
+  layer 2 tunneling protocol implementation
+
+zlint/stable 3.6.2-4 arm64
+  X.509 Certificate Linter focused on Web PKI standards (program)
+

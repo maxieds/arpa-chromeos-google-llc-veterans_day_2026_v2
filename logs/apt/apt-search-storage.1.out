@@ -1,0 +1,3287 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+akonadi-backend-mysql/stable 4:24.12.3-2~deb13u1 all
+  MySQL storage backend for Akonadi
+
+akonadi-backend-postgresql/stable 4:24.12.3-2~deb13u1 all
+  PostgreSQL storage backend for Akonadi
+
+akonadi-backend-sqlite/stable 4:24.12.3-2~deb13u1 all
+  SQLite storage backend for Akonadi
+
+akonadi-server/stable 4:24.12.3-2~deb13u1 arm64
+  Akonadi PIM storage service
+
+amazon-ec2-utils/stable 2.1.0-1.1 all
+  Utilities to manage Amazon EC2 instance storage
+
+aoetools/stable 36-6+b2 arm64
+  tools to assist in using ATA over Ethernet
+
+arduino-core-avr/stable 1.8.7+dfsg-1~deb13u1 all
+  Arduino Core for AVR microcontroller
+
+argon2/stable 0~20190702+dfsg-4+b2 arm64
+  memory-hard hashing function - utility
+
+audiolink/stable 0.05-4 all
+  makes managing and searching for music easier
+
+avro-bin/stable 1.12.0-3 arm64
+  Apache Avro C utilities (avro-c)
+
+ayatana-indicator-datetime/stable 25.4.0-2 arm64
+  Ayatana Indicator providing clock and calendar
+
+backblaze-b2/stable 3.19.1-4 all
+  Command Line Tool for Backblaze B2
+
+backuppc/stable 4.4.0-11 arm64
+  high-performance, enterprise-grade system for backing up PCs
+
+bacula/stable 15.0.3-3 all
+  network backup service - metapackage
+
+bacula-bscan/stable 15.0.3-3 arm64
+  network backup service - bscan tool
+
+bacula-director-mysql/stable 15.0.3-3 all
+  network backup service - MySQL storage for Director
+
+bacula-director-pgsql/stable 15.0.3-3 all
+  network backup service - PostgreSQL storage for Director
+
+bacula-director-sqlite3/stable 15.0.3-3 all
+  network backup service - SQLite 3 storage for Director
+
+bacula-sd/stable 15.0.3-3 arm64
+  network backup service - storage daemon
+
+bacula-server/stable 15.0.3-3 all
+  network backup service - server metapackage
+
+badger/stable 2.2007.2-4+b7 arm64
+  Fast key-value DB in Go.
+
+barbican-api/stable 1:20.0.0-3 all
+  OpenStack Key Management Service - API Server
+
+barbican-common/stable 1:20.0.0-3 all
+  OpenStack Key Management Service - common files
+
+barbican-doc/stable 1:20.0.0-3 all
+  OpenStack Key Management Service - doc
+
+barbican-keystone-listener/stable 1:20.0.0-3 all
+  OpenStack Key Management Service - Keystone Listener
+
+barbican-worker/stable 1:20.0.0-3 all
+  OpenStack Key Management Service - Worker Node
+
+bcal/stable 2.4-2+b2 arm64
+  Command-line utility for storage conversions and calculations
+
+bitmath/stable 1.3.3.1-4 all
+  handle file sizes with different prefix notations
+
+blktrace/stable 1.3.0-0.2 arm64
+  utilities for block layer IO tracing
+
+btrfsd/stable 0.2.2-1+b1 arm64
+  Tiny Btrfs maintenance daemon
+
+cantata/stable 2.5.0.ds1-4 arm64
+  Qt client for the music player daemon (MPD)
+
+carbon-c-relay/stable 3.7.3-2+b5 arm64
+  Carbon-compatible graphite line mode relay
+
+casync/stable 2+20201210-2+b3 arm64
+  content addressable data synchronizer
+
+cbootimage/stable 1.8-1+b1 arm64
+  Tools to dump and generate boot config table on Tegra devices
+
+cedar-backup3/stable 3.9.2-1 all
+  local and remote backups to CD/DVD media or Amazon S3 storage
+
+cedar-backup3-doc/stable 3.9.2-1 all
+  local and remote backups to CD/DVD media or Amazon S3 storage (documentation)
+
+centreon-plugins/stable 0.0~20250303+dfsg-1 all
+  Collection of Nagios plugins to monitor OS, services and network devices
+
+ceph/stable 18.2.7+ds-1+deb13u1 arm64
+  distributed storage and file system
+
+ceph-base/stable 18.2.7+ds-1+deb13u1 arm64
+  common ceph daemon libraries and management tools
+
+ceph-base-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-base
+
+ceph-common/stable 18.2.7+ds-1+deb13u1 arm64
+  common utilities to mount and interact with a ceph storage cluster
+
+ceph-common-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-common
+
+ceph-grafana-dashboards/stable 18.2.7+ds-1+deb13u1 all
+  grafana dashboards for the ceph dashboard
+
+ceph-immutable-object-cache/stable 18.2.7+ds-1+deb13u1 arm64
+  Ceph daemon for immutable object cache
+
+ceph-immutable-object-cache-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-immutable-object-cache
+
+ceph-mds/stable 18.2.7+ds-1+deb13u1 arm64
+  metadata server for the ceph distributed file system
+
+ceph-mds-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-mds
+
+ceph-mgr/stable 18.2.7+ds-1+deb13u1 arm64
+  manager for the ceph distributed file system
+
+ceph-mgr-cephadm/stable 18.2.7+ds-1+deb13u1 all
+  cephadm orchestrator module for ceph-mgr
+
+ceph-mgr-dashboard/stable 18.2.7+ds-1+deb13u1 all
+  dashboard plugin for ceph-mgr
+
+ceph-mgr-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-mgr
+
+ceph-mgr-k8sevents/stable 18.2.7+ds-1+deb13u1 all
+  kubernetes events plugin for ceph-mgr
+
+ceph-mgr-modules-core/stable 18.2.7+ds-1+deb13u1 all
+  ceph manager modules which are always enabled
+
+ceph-mgr-rook/stable 18.2.7+ds-1+deb13u1 all
+  rook plugin for ceph-mgr
+
+ceph-mon/stable 18.2.7+ds-1+deb13u1 arm64
+  monitor server for the ceph storage system
+
+ceph-mon-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-mon
+
+ceph-osd/stable 18.2.7+ds-1+deb13u1 arm64
+  OSD server for the ceph storage system
+
+ceph-osd-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for ceph-osd
+
+ceph-prometheus-alerts/stable 18.2.7+ds-1+deb13u1 all
+  prometheus alerts for the ceph dashboard
+
+ceph-resource-agents/stable 18.2.7+ds-1+deb13u1 all
+  OCF-compliant resource agents for Ceph
+
+ceph-test-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  Ceph test and benchmarking tools - ceph-test debug
+
+ceph-volume/stable 18.2.7+ds-1+deb13u1 all
+  tool to facilidate OSD deployment
+
+cephadm/stable 18.2.7+ds-1+deb13u1 arm64
+  utility to bootstrap ceph daemons with systemd and containers
+
+cephfs-mirror/stable 18.2.7+ds-1+deb13u1 arm64
+  Ceph is a massively scalable, open-source, distributed
+
+cephfs-mirror-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for cephfs-mirror
+
+cephfs-shell/stable 18.2.7+ds-1+deb13u1 all
+  interactive shell for the Ceph distributed file system
+
+cephfs-top/stable 18.2.7+ds-1+deb13u1 all
+  top like utility for Ceph filesystem
+
+certmonger/stable 0.79.20-2 arm64
+  D-Bus -based service to simplify interaction with certificate authorities
+
+cgns-convert/stable 3.4.0-5+b2 arm64
+  CFD General Notation System - Conversion tools
+
+ciborium/stable 1.0.2-2 arm64
+  Lomiri external storage devices manager
+
+cinder-api/stable 2:26.0.0-2 all
+  OpenStack block storage system - API server
+
+cinder-backup/stable 2:26.0.0-2 all
+  OpenStack block storage system - Backup server
+
+cinder-common/stable 2:26.0.0-2 all
+  OpenStack block storage system - common files
+
+cinder-doc/stable 2:26.0.0-2 all
+  OpenStack block storage system - doc
+
+cinder-scheduler/stable 2:26.0.0-2 all
+  OpenStack block storage system - Scheduler server
+
+cinder-volume/stable 2:26.0.0-2 all
+  OpenStack block storage system - Volume server
+
+cisco7crack/stable 0.0~git20121221.f1c21dd-3+b1 arm64
+  Crypt and decrypt the cisco type 7 passwords
+
+cl-zs3/stable 1.3.1-1.1 all
+  Amazon S3 and CloudFront from Common Lisp
+
+claws-mail/stable 4.3.1-1 arm64
+  Fast, lightweight and user-friendly GTK based email client
+
+clementine/stable 1.4.1+git27-g658f34ec4+dfsg-3 arm64
+  modern music player and library organizer
+
+clevis-udisks2/stable 20-1+b1 arm64
+  UDisks2/Storaged integration for clevis
+
+cloud-enum/stable 0.7-3 all
+  Multi-cloud open source intelligence tool
+
+cloudkitty-api/stable 22.0.0-2 all
+  OpenStack Rating as a Service - API server
+
+cloudkitty-common/stable 22.0.0-2 all
+  OpenStack Rating as a Service - common files
+
+cloudkitty-doc/stable 22.0.0-2 all
+  OpenStack Rating as a Service - Documentation
+
+cloudkitty-processor/stable 22.0.0-2 all
+  OpenStack Rating as a Service - processor
+
+cockpit-storaged/stable 337-1+deb13u1 all
+  Cockpit user interface for storage
+
+collectd-core/stable 5.12.0-26 arm64
+  statistics collection and monitoring daemon (core system)
+
+console-setup-mini/stable 1.242~deb13u1 all
+  console font and keymap setup program - reduced version for Linux
+
+containerd/stable 1.7.24~ds1-6+deb13u1 arm64
+  open and reliable container runtime
+
+containers-storage/stable 1.57.2+ds1-1+b2 arm64
+  CLI tools for handling how containers are stored on disk
+
+coop-computing-tools/stable 1:7.14.5-1+b2 arm64
+  cooperative computing tools
+
+cosign/stable 2.5.0-2+b4 arm64
+  Code signing/transparency for containers and binaries (program)
+
+courier-mta/stable 1.4.1-3+deb13u2 arm64
+  Courier mail server - ESMTP daemon
+
+ctn/stable 3.2.0~dfsg-8+b2 arm64
+  Central Test Node, a DICOM implementation for medical imaging
+
+ctn-dev/stable 3.2.0~dfsg-8+b2 arm64
+  Development files for Central Test Node, a DICOM implementation
+
+cups-x2go/stable 3.0.1.4-2 all
+  Virtual X2Go printer for CUPS
+
+cxl/stable 81-1 arm64
+  provisioning for CXL device memory
+
+dbus-system-bus-common/stable,now 1.16.2-2 all [installed,automatic]
+  simple interprocess messaging system (system bus configuration)
+
+dcap/stable 2.47.14-2+b1 arm64
+  Client Tools for dCache
+
+dcap-dev/stable 2.47.14-2+b1 arm64
+  Client Development Files for dCache
+
+dcmtk/stable 3.6.9-5+deb13u2 arm64
+  OFFIS DICOM toolkit command line utilities
+
+dcmtk-data/stable 3.6.9-5+deb13u2 all
+  OFFIS DICOM toolkit data files
+
+dcmtk-doc/stable 3.6.9-5+deb13u2 all
+  OFFIS DICOM toolkit documentation
+
+dconf-cli/stable,now 0.40.0-5 arm64 [installed,automatic]
+  simple configuration storage system - utilities
+
+dconf-editor/stable 45.0.1-2+b1 arm64
+  simple configuration storage system - graphical editor
+
+dconf-gsettings-backend/stable,now 0.40.0-5 arm64 [installed,automatic]
+  simple configuration storage system - GSettings back-end
+
+dconf-service/stable,now 0.40.0-5 arm64 [installed,automatic]
+  simple configuration storage system - D-Bus service
+
+ddpt/stable 0.97-2+b1 arm64
+  Copies disks, partitions and files.
+
+designate-central/stable 1:20.0.0-2 all
+  OpenStack DNS as a Service - central daemon
+
+dirvish/stable 1.2.1-2.1 all
+  Filesystem based backup system using rsync
+
+diskscan/stable 0.21-1+b1 arm64
+  scan storage media for bad or near failure sectors
+
+distrobox/stable 1.8.1.2-1 all
+  Another tool for containerized command line environments on Linux
+
+docker-registry/stable 2.8.3+ds1-2+b8 arm64
+  Docker toolset to pack, ship, store, and deliver content
+
+draco/stable 1.5.6+dfsg-3+b3 arm64
+  Encoder and decoder for 3D geometric meshes and point clouds
+
+duc/stable 1.4.5-1+b2 arm64
+  high-performance disk usage analyzer
+
+duc-nox/stable 1.4.5-1+b2 arm64
+  high-performance disk usage analyzer (without X support)
+
+dump/stable 0.4b49-2 arm64
+  backup and restore for ext2/3/4 filesystems
+
+dvbackup/stable 1:0.0.4-11 arm64
+  backup tool using MiniDV camcorders
+
+e2fsprogs/stable,now 1.47.2-3+b11 arm64 [installed]
+  ext2/ext3/ext4 file system utilities
+
+edfbrowser/stable 2.12+dfsg-1 arm64
+  viewer for biosignal storage files such as bdf and edf
+
+ejabberd/stable 24.12-3+deb13u2 arm64
+  extensible realtime platform (XMPP server + MQTT broker + SIP service)
+
+eject/stable 2.41-5 arm64
+  ejects CDs and operates CD-Changers under Linux
+
+electrum/stable 4.5.8+ds-6 all
+  Easy to use Bitcoin client
+
+enterprise-certificate-proxy-signer/stable 0.3.6-1+b2 arm64
+  signer for Google Proxies for Enterprise Certificates (program)
+
+ergochat/stable 2.15.0+ds1-4 arm64
+  Modern IRC server (daemon/ircd) written in Go
+
+erofs-utils/stable 1.8.6-1 arm64
+  Utilities for EROFS File System
+
+erofsfuse/stable 1.8.6-1 arm64
+  FUSE Mount Utility for EROFS File System
+
+f2fs-tools/stable 1.16.0-1.1+b1 arm64
+  Tools for Flash-Friendly File System
+
+fai-setup-storage/stable 6.4.3 all
+  automatically prepare storage devices
+
+fence-agents-ack-manual/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - manual ack agent
+
+fence-agents-sbd/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - STONITH Block Device agent
+
+fence-agents-scsi/stable 4.16.0-3 all
+  Fence Agents for Red Hat Cluster - SCSI-3 reservation agent
+
+field3d-doc/stable 1.7.3-5 all
+  documentation for Field3D
+
+field3d-tools/stable 1.7.3-5 arm64
+  command-line tools for Field3D
+
+filespooler/stable 1.2.3-1+b8 arm64
+  Sequential, distributed, POSIX-style job queue processing
+
+flashbench/stable 62-1.1 arm64
+  identify flash storage properties
+
+frugen/stable 2.1-3 arm64
+  Universal IPMI FRU Information generator / editor
+
+gdf-tools/stable 0.1.3-11.1+b2 arm64
+  IO library for the GDF -- helper tools
+
+gf-complete-tools/stable 1.0.2+2017.04.10.git.ea75cdf-9.1+b1 arm64
+  Galois Field Arithmetic - tools
+
+gfal2-plugin-dcap/stable 2.23.2-1 arm64
+  Provides dcap support for gfal2
+
+gfal2-plugin-http/stable 2.23.2-1 arm64
+  Provides HTTP and DAV support for gfal2
+
+gfarm-client/stable 2.7.20+dfsg-1.2+b1 arm64
+  Gfarm file system clients
+
+gfarm-doc/stable 2.7.20+dfsg-1.2 all
+  Gfarm file system documentation
+
+gfarm2fs/stable 1.2.16-1+b2 arm64
+  FUSE program to mount the Gfarm file system
+
+gfmd/stable 2.7.20+dfsg-1.2+b1 arm64
+  Gfarm file system metadata server
+
+gfs2-utils/stable 3.6.1-1 arm64
+  Global File System 2 - filesystem tools
+
+gfsd/stable 2.7.20+dfsg-1.2+b1 arm64
+  Gfarm file system daemon
+
+gir1.2-cloudproviders-0.3.0/stable 0.3.6-2 arm64
+  cloud provider library - introspection data
+
+gir1.2-udisks-2.0/stable 2.10.1-12.1+deb13u1 arm64
+  GObject based library to access udisks2 - introspection data
+
+gir1.2-xfconf-0/stable 4.20.0-1 arm64
+  utilities for managing settings in Xfce - introspection support
+
+git-annex/stable 10.20250416-2 arm64
+  manage files with git, without checking their contents into git
+
+git-annex-remote-rclone/stable 0.8-1 all
+  rclone-based git annex special remote
+
+git-lfs/stable 3.6.1-1+deb13u1 arm64
+  Git Large File Support
+
+git-remote-gcrypt/stable 1.5-1 all
+  encrypted git repositories
+
+glue-schema/stable 2.1.0-1 all
+  LDAP schema files for the GLUE 1.3 and GLUE 2.0 Schema
+
+glusterfs-cli/stable 11.1-6 arm64
+  clustered file-system (cli package)
+
+glusterfs-client/stable 11.1-6 arm64
+  clustered file-system (client package)
+
+glusterfs-common/stable 11.1-6 arm64
+  GlusterFS common libraries and translator modules
+
+glusterfs-server/stable 11.1-6 arm64
+  clustered file-system (server package)
+
+gmtp/stable 1.3.11-3.1+b4 arm64
+  simple file transfer program for MTP based devices
+
+gnokii-smsd/stable 0.6.31+dfsg-6+b1 arm64
+  SMS Daemon for mobile phones
+
+gnokii-smsd-mysql/stable 0.6.31+dfsg-6+b1 arm64
+  SMSD plugin for MySQL storage backend
+
+gnokii-smsd-pgsql/stable 0.6.31+dfsg-6+b1 arm64
+  SMSD plugin for PostgreSQL storage backend
+
+gnupg/stable,now 2.4.7-21+deb13u1 all [installed,automatic]
+  GNU privacy guard - a free PGP replacement
+
+gnupg-agent/stable 2.4.7-21+deb13u1 all
+  GNU privacy guard - cryptographic agent (dummy transitional package)
+
+gnupg-l10n/stable,now 2.4.7-21+deb13u1 all [installed,automatic]
+  GNU privacy guard - localization files
+
+gnupg-utils/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - utility programs
+
+gnupg1/stable 1.4.23-3 arm64
+  GNU privacy guard - a PGP implementation (deprecated "classic" version)
+
+gnupg1-l10n/stable 1.4.23-3 all
+  GNU privacy guard "classic" - localization files (deprecated)
+
+gnupg2/stable 2.4.7-21+deb13u1 all
+  GNU privacy guard - a free PGP replacement (dummy transitional package)
+
+go-git/stable 5.14.0-1+b3 arm64
+  highly extensible Git implementation in pure Go (command line)
+
+go-mtpfs/stable 1.0.0+git20200111.42254b1-1+b15 arm64
+  Mount MTP devices over FUSE
+
+goiardi/stable 0.11.10-2+b11 arm64
+  Chef server written in Go
+
+goiardi-doc/stable 0.11.10-2 all
+  Documentation for Goiardi
+
+golang-entgo-ent-dev/stable 0.11.3-5 all
+  entity framework for Go
+
+golang-github-abbot-go-http-auth-dev/stable 0.4.0-6 all
+  Basic and Digest HTTP Authentication for golang http
+
+golang-github-aliyun-aliyun-oss-go-sdk-dev/stable 1.5.0+dfsg1-2 all
+  Alibaba Cloud OSS SDK for Go
+
+golang-github-apptainer-container-key-client-dev/stable 0.8.0-1 all
+  Go client for Apptainer key storage and retrieval using HKP (library)
+
+golang-github-awnumar-memguard-dev/stable 0.22.5-2 all
+  secure enclave for storage of sensitive information (library)
+
+golang-github-azure-azure-storage-blob-go-dev/stable 0.15.0-1 all
+  Microsoft Azure Blob Storage Library for Go
+
+golang-github-backblaze-blazer-dev/stable 0.6.1-4 all
+  Go library for Backblaze's B2
+
+golang-github-caddyserver-certmagic-dev/stable 0.17.2-2 all
+  Go library for automatic HTTPS using Let's Encrypt
+
+golang-github-cloudflare-go-metrics-dev/stable 0.0~git20151117.0.6a9aea3-4 all
+  Cloudflare's fork of Go port of Coda Hale's Metrics library
+
+golang-github-containerd-containerd-dev/stable 1.7.24~ds1-6+deb13u1 all
+  open and reliable container runtime (development files)
+
+golang-github-containers-storage-dev/stable 1.57.2+ds1-1 all
+  Go library for handling how containers are stored on disk
+
+golang-github-ctdk-goiardi-dev/stable 0.11.10-2 all
+  Golang library to interact with a chef server
+
+golang-github-denverdino-aliyungo-dev/stable 0.0~git20180921.13fa8aa-4 all
+  Go SDK for Aliyun (Alibaba Cloud)
+
+golang-github-dgraph-io-badger-dev/stable 2.2007.2-4 all
+  Fast key-value DB in Go - development files for embedding.
+
+golang-github-docker-distribution-dev/stable 2.8.3+ds1-2 all
+  Docker toolset to pack, ship, store, and deliver content (source)
+
+golang-github-filosottile-b2-dev/stable 0.0~git20170207.b197f7a-1.1 all
+  efficient, idiomatic Go library for Backblaze B2 Cloud Storage
+
+golang-github-git-lfs-git-lfs-dev/stable 3.6.1-1+deb13u1 all
+  Git Large File Support (library)
+
+golang-github-globocom-go-buffer-dev/stable 2.0.0-2 all
+  Asynchronous data buffer for Go applications (library)
+
+golang-github-go-git-go-billy-dev/stable 5.5.0-1 all
+  missing interface filesystem abstraction for Go
+
+golang-github-go-git-go-git-dev/stable 5.14.0-1 all
+  highly extensible Git implementation in pure Go
+
+golang-github-golang-leveldb-dev/stable 0.0~git20161231.0.3435554-3 all
+  Implementation of the LevelDB key/value database in Go
+
+golang-github-google-trillian-dev/stable 1.6.1-1 all
+  transparent scalable and cryptographically verifiable data store (library)
+
+golang-github-googleapis-enterprise-certificate-proxy-dev/stable 0.3.6-1 all
+  Google Proxies for Enterprise Certificates (library)
+
+golang-github-gophercloud-gophercloud-dev/stable 1.4.0-1 all
+  OpenStack SDK for Go
+
+golang-github-intel-goresctrl-dev/stable 0.3.0-2 all
+  Go library for managing resctrl filesystem
+
+golang-github-jacobsa-gcloud-dev/stable 0.0~git20150709-3 all
+  convenience wrapper around google cloud platform APIs
+
+golang-github-joyent-gosign-dev/stable 0.0~git20161114.9abcee2-3 all
+  Go HTTP signing library for Joyent's Triton and Manta
+
+golang-github-jtolds-gls-dev/stable 4.20.0-2 all
+  Goroutine local storage
+
+golang-github-minio-madmin-go-dev/stable 3.0.104-1 all
+  client SDK providing APIs to manage MinIO services (library)
+
+golang-github-minio-minio-go-dev/stable 6.0.53-1 all
+  Go library for Amazon S3 compatible cloud storage
+
+golang-github-minio-minio-go-v7-dev/stable 7.0.89-1 all
+  Go library for Amazon S3 compatible cloud storage
+
+golang-github-ncw-swift-dev/stable 1.0.53-3 all
+  Go language interface to Swift / Openstack / Rackspace cloud files
+
+golang-github-ncw-swift-v2-dev/stable 2.0.1-1.1 all
+  Go language interface to Swift
+
+golang-github-nebulouslabs-bolt-dev/stable 1.0+git20170823.0.a22e934-1.1 all
+  low-level key/value database for Go
+
+golang-github-peterbourgon-diskv-dev/stable 3.0.0-2 all
+  disk-backed key-value store
+
+golang-github-pzhin-go-sophia-dev/stable 0.0~git20191015.afcd224-1+b8 arm64
+  Golang binding for the Sophia database
+
+golang-github-quobyte-api-dev/stable 0.0~git20160913.0.bf713b5-1.1 all
+  Quobyte API client for Go
+
+golang-github-rclone-rclone-dev/stable 1.60.1+dfsg-4 all
+  go source code of rclone
+
+golang-github-rickb777-date-dev/stable 1.20.1-1 all
+  Go package for working with dates (library)
+
+golang-github-schachmat-ingo-dev/stable 0.0~git20170403.a4bdc07-2 all
+  persistent storage for flags in go (library)
+
+golang-github-sigstore-cosign-dev/stable 2.5.0-2 all
+  Code signing/transparency for containers and binaries (library)
+
+golang-github-sigstore-rekor-dev/stable 1.3.9-1 all
+  Software Supply Chain Transparency Log (library)
+
+golang-github-syndtr-goleveldb-dev/stable 0.0~git20200815.5c35d60-2 all
+  LevelDB key/value database in Go
+
+golang-github-t3rm1n4l-go-mega-dev/stable 0.0~git20230228.a01a2cd-2 all
+  Client library in go for mega.co.nz storage service (library)
+
+golang-github-tombuildsstuff-giovanni-dev/stable 0.20.0-1 all
+  alternative Azure Storage SDK for Go
+
+golang-github-valyala-gozstd-dev/stable 1.21.2+ds1-1 all
+  go wrapper for zstd (library)
+
+golang-github-xordataexchange-crypt/stable 0.0.2+git20170626.21.b2862e3-4+b8 arm64
+  Store/retrieve encrypted configs from etcd or Consul (CLI tool)
+
+golang-github-xordataexchange-crypt-dev/stable 0.0.2+git20170626.21.b2862e3-4 all
+  Store/retrieve encrypted configs from etcd or Consul (Go library)
+
+golang-gitlab-gitlab-org-gitaly-dev/stable 16.11.6+ds1-4 all
+  Gitaly golang module
+
+golang-gocloud-dev/stable 0.26.0-1 all
+  Go Cloud Development Kit (Go CDK) for open cloud development in Go
+
+golang-gopkg-src-d-go-billy.v4-dev/stable 4.3.2-1 all
+  Missing interface filesystem abstraction for Go
+
+golang-gopkg-src-d-go-git.v4-dev/stable 4.11.0-3 all
+  highly extensible Git implementation in pure Go
+
+golang-pault-go-blobstore-dev/stable 0.0~git20180314.d6d187c-1.1 all
+  de-duplicating storage abstraction
+
+google-guest-agent/stable 20211116.00-7+b3 arm64
+  Guest Agent for Google Compute Engine
+
+gpg/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed]
+  GNU Privacy Guard -- minimalist public key operations
+
+gpg-agent/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - cryptographic agent
+
+gpg-wks-client/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - Web Key Service client
+
+gpg-wks-server/stable 2.4.7-21+deb13u1+b4 arm64
+  GNU privacy guard - Web Key Service server
+
+gpgconf/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - core configuration utilities
+
+gpgsm/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - S/MIME version
+
+gpgv/stable,now 2.4.7-21+deb13u1+b4 arm64 [installed,automatic]
+  GNU privacy guard - signature verification tool
+
+gpgv-static/stable 2.4.7-21+deb13u1+b4 arm64
+  minimal signature verification tool (static build)
+
+gpgv-win32/stable 2.4.7-21+deb13u1 all
+  GNU privacy guard - signature verification tool (win32 build)
+
+gpgv1/stable 1.4.23-3 arm64
+  GNU privacy guard - signature verification tool (deprecated "classic" version)
+
+gphoto2/stable 2.5.28-3 arm64
+  digital camera command-line client
+
+gphotofs/stable 0.5-6+b3 arm64
+  filesystem to mount digital cameras
+
+graphite-carbon/stable 1.1.10-2 all
+  backend data caching and persistence daemon for Graphite
+
+graphite-web/stable 1.1.10-8 all
+  Enterprise Scalable Realtime Graphing
+
+groonga-normalizer-mysql/stable 1.2.6-1 arm64
+  MySQL derived normalizer for Groonga
+
+guerillabackup/stable 0.5.0-1.1 all
+  resilient, distributed backup and archiving solution
+
+hdf5-plugin-lzf/stable 3.13.0-1+b1 arm64
+  hdf5 plugin to lzf compression library
+
+isal/stable 2.31.1-1.1 arm64
+  Intel(R) Intelligent Storage Acceleration Library - tools
+
+jets3t/stable 0.8.1+dfsg-5 all
+  graphical and command-line tools for Amazon S3 and CloudFront
+
+jmtpfs/stable 0.5-4+b2 arm64
+  FUSE based filesystem for accessing MTP devices
+
+kamailio-cpl-modules/stable 6.0.1-1+deb13u1 arm64
+  CPL module (CPL interpreter engine) for the Kamailio SIP server
+
+kamailio-ldap-modules/stable 6.0.1-1+deb13u1 arm64
+  LDAP modules for the Kamailio SIP server
+
+kcollectd/stable 0.12.2-1 arm64
+  simple collectd graphing front-end for KDE
+
+kdf/stable 4:25.04.0-1 arm64
+  disk information utility
+
+keepassxc-full/stable 2.7.10+dfsg1-1 arm64
+  Cross Platform Password Manager
+
+keepassxc-minimal/stable 2.7.10+dfsg1-1 arm64
+  Cross Platform Password Manager
+
+kraken2/stable 2.1.3-1+b1 arm64
+  taxonomic classification system using exact k-mer matches
+
+krb5-kdc-ldap/stable 1.21.3-5+deb13u1 arm64
+  MIT Kerberos key server (KDC) LDAP plugin
+
+kup-backup/stable 0.10.0-1+b1 arm64
+  backup tool for KDE's Plasma desktop
+
+kwallet6/stable 6.13.0-1 arm64
+  safe desktop-wide storage for passwords - kwalletd daemon
+
+kxc/stable 0.17-1 arm64
+  Key exchange daemon -- client
+
+kxd/stable 0.17-1 arm64
+  Key exchange daemon
+
+kxgencert/stable 0.17-1 arm64
+  Key exchange daemon -- certificate generator
+
+ledmon/stable 0.97-1.2+b1 arm64
+  Enclosure LED Utilities
+
+leveldb-doc/stable 1.23-5 all
+  LevelDB documentation
+
+libactivemq-protobuf-java/stable 1.1-8 all
+  ActiveMQ Protocol Buffers Maven plugin
+
+libafterimage-dev/stable 2.2.12-18 arm64
+  imaging library designed for AfterStep - development files
+
+libafterimage0t64/stable 2.2.12-18 arm64
+  imaging library designed for AfterStep - runtime files
+
+libakonadi-data/stable 4:24.12.3-2~deb13u1 all
+  Akonadi arch independent data
+
+libakonadiserver-dev/stable 4:24.12.3-2~deb13u1 arm64
+  development files for the Akonadi PIM storage service
+
+libamazon-s3-perl/stable 0.65-1 all
+  portable client interface to Amazon Simple Storage System (S3)
+
+libapache-session-memcached-perl/stable 0.03-3 all
+  Perl module for storing persistent data using memcached
+
+libargon2-1/stable 0~20190702+dfsg-4+b2 arm64
+  memory-hard hashing function - runtime library
+
+libargon2-dev/stable 0~20190702+dfsg-4+b2 arm64
+  memory-hard hashing function - development files
+
+libarpack2-dev/stable 3.9.1-6 arm64
+  Fortran77 subroutines to solve large scale eigenvalue problems (development)
+
+libarpack2t64/stable 3.9.1-6 arm64
+  Fortran77 subroutines to solve large scale eigenvalue problems
+
+libarpack64-2/stable 3.9.1-6 arm64
+  Fortran77 subroutines to solve large scale eigenvalue problems
+
+libarpack64-2-dev/stable 3.9.1-6 arm64
+  Fortran77 subroutines to solve large scale eigenvalue problems (development)
+
+libatteanx-store-ldf-perl/stable 0.04-3 all
+  Linked Data Fragment RDF store
+
+libattribute-storage-perl/stable 0.12-1+b1 arm64
+  declare and retrieve named attributes about CODE
+
+libavro-dev/stable 1.12.0-3 arm64
+  Apache Avro C static library and headers (avro-c)
+
+libavro24/stable 1.12.0-3 arm64
+  Apache Avro C shared library (avro-c)
+
+libbde-dev/stable 20240502-1+b1 arm64
+  BitLocker Drive Encryption access library -- development files
+
+libbde-utils/stable 20240502-1+b1 arm64
+  Tools to access the BitLocker Drive Encryption format.
+
+libbde1t64/stable 20240502-1+b1 arm64
+  BitLocker Drive Encryption access library
+
+libbio-db-gff-perl/stable 1.7.4-1 all
+  Storage and retrieval of sequence annotation data
+
+libbio-db-seqfeature-perl/stable 1.7.5-1 all
+  Normalized feature for use with Bio::DB::SeqFeature::Store
+
+libbiometric0/stable 0.9.72-1 arm64
+  Biometric Identification library
+
+libbiosoup-dev/stable 0.11.0-3 all
+  C++ header-only support library for bioinformatics tools
+
+libblockdev3/stable 3.3.0-2.1 arm64
+  Library for manipulating block devices
+
+libblocksruntime0/stable 0.4.1-1.1+b1 arm64
+  Blocks Runtime library
+
+libbytesize1/stable 2.11-2 arm64
+  library for common operations with sizes in bytes
+
+libcatalyst-authentication-store-dbix-class-perl/stable 0.1506-5 all
+  Catalyst authentication storage via DBIx::Class
+
+libcatalyst-authentication-store-htpasswd-perl/stable 1.006-3 all
+  Authen::Htpasswd based user storage/authentication
+
+libcatalyst-plugin-session-perl/stable 0.43-1 all
+  generic Session plugin for Catalyst
+
+libcatalyst-plugin-session-store-dbi-perl/stable 0.16-3 all
+  DBI session storage plugin for Catalyst
+
+libcatalyst-plugin-session-store-dbic-perl/stable 0.14-4 all
+  DBIx::Class-based session storage plugin for Catalyst
+
+libcatalyst-plugin-session-store-delegate-perl/stable 0.06-4 all
+  delegated Catalyst session storage helper
+
+libcatalyst-plugin-session-store-fastmmap-perl/stable 0.16-3 all
+  Catalyst session storage plugin backed by Cache::FastMMap
+
+libcatalyst-plugin-session-store-file-perl/stable 0.18-3 all
+  File storage backend for Catalyst session data
+
+libcatalyst-plugin-session-store-redis-perl/stable 0.901-1 all
+  Redis Session store for Catalyst
+
+libcatmandu-atom-perl/stable 0.05-2 all
+  modules for handling Atom feeds within the Catmandu framework
+
+libcatmandu-exporter-table-perl/stable 0.3.0-3 all
+  Catmandu modules for exporting data in tabular MultiMarkdown format
+
+libcatmandu-filestore-perl/stable 1.16-3 all
+  modules to make files persistent within the Catmandu framework
+
+libcatmandu-fix-cmd-perl/stable 0.0201-2 all
+  Catmandu module that pipes data to be 'fixed' through an external process
+
+libcatmandu-fix-datahub-perl/stable 0.03-2 all
+  Catmandu utility functions and generic fixes for the Datahub project
+
+libcatmandu-html-perl/stable 0.02+dfsg-2 all
+  Modules for handling HTML data within the Catmandu framework
+
+libcatmandu-i18n-perl/stable 0.01-2 all
+  modules for handling text localisation within the Catmandu framework
+
+libcatmandu-identifier-perl/stable 0.15-2 all
+  namespace for handling identifiers within the Catmandu framework
+
+libcatmandu-importer-getjson-perl/stable 0.52-2 all
+  load JSON-encoded data from a server using a GET HTTP request
+
+libcatmandu-inspire-perl/stable 0.300-2 all
+  modules for working with Inspire data within the Catmandu framework
+
+libcatmandu-ldap-perl/stable 0.0105-2 all
+  modules for working with LDAP directories within the Catmandu framework
+
+libcatmandu-mab2-perl/stable 0.24-2 all
+  modules for working with MAB2 data within the Catmandu framework
+
+libcatmandu-marc-perl/stable 1.320-1 all
+  modules for working with MARC data within the Catmandu framework
+
+libcatmandu-markdown-perl/stable 0.011-2 all
+  modules for handling markdown data within the Catmandu framework
+
+libcatmandu-mediawiki-perl/stable 0.021-2 all
+  Catmandu modules for interfacing with MediaWiki
+
+libcatmandu-mendeley-perl/stable 0.01-2 all
+  modules wrapping the Mendeley API within the Catmandu framework
+
+libcatmandu-mods-perl/stable 0.31-3 all
+  modules for working with MODS data within the Catmandu framework
+
+libcatmandu-oai-perl/stable 0.21-1 all
+  modules for working with OAI repositories within the Catmandu framework
+
+libcatmandu-perl/stable 1.2024-1 all
+  metadata toolkit
+
+libcatmandu-plos-perl/stable 0.01-2 all
+  modules for working with PLoS data within the Catmandu framework
+
+libcatmandu-pubmed-perl/stable 0.01-2 all
+  modules for working with PubMed data within the Catmandu framework
+
+libcatmandu-pure-perl/stable 0.05-2 all
+  Catmandu modules for working with data from Pure
+
+libcatmandu-rdf-perl/stable 0.32-3 all
+  modules for handling RDF data within the Catmandu framework
+
+libcatmandu-ris-perl/stable 0.13-2 all
+  modules for handling RIS data within the Catmandu framework
+
+libcatmandu-solr-perl/stable 0.0304-2 all
+  Catmandu modules for working with SOLR endpoints
+
+libcatmandu-sru-perl/stable 0.43.0-2 all
+  modules for working with SRU data within the Catmandu framework
+
+libcatmandu-stat-perl/stable 0.13-2 all
+  Catmandu modules for working with statistical data
+
+libcatmandu-store-mongodb-perl/stable 0.0806-1 all
+  searchable store backed by MongoDB
+
+libcatmandu-template-perl/stable 0.14-1 all
+  modules for working with templates within the Catmandu framework
+
+libcatmandu-viaf-perl/stable 0.05-2 all
+  Catmandu modules for retrieving items from VIAF authority files
+
+libcatmandu-wikidata-perl/stable 0.06-3 all
+  import from Wikidata for processing with Catmandu
+
+libcatmandu-xls-perl/stable 0.10-1 all
+  modules for working with Excel files within the Catmandu framework
+
+libcatmandu-xml-perl/stable 0.17-1 all
+  modules for handling XML data within the Catmandu framework
+
+libcatmandu-xsd-perl/stable 0.05-3 all
+  modules for handling XML data with XSD compilation
+
+libcatmandu-z3950-perl/stable 0.06-2 all
+  Catmandu module for working with Z3950 data
+
+libcatmandu-zotero-perl/stable 0.07-2 all
+  Catmandu modules for working with Zotero web
+
+libcephfs-java/stable 18.2.7+ds-1+deb13u1 all
+  Java library for the Ceph File System
+
+libcephfs-jni/stable 18.2.7+ds-1+deb13u1 arm64
+  Java Native Interface library for CephFS Java bindings
+
+libcephfs2-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for libcephfs2
+
+libcgi-application-plugin-formstate-perl/stable 0.12-3 all
+  plugin to store form state without hidden fields
+
+libcgi-application-plugin-ratelimit-perl/stable 1.0-4 all
+  Perl module for limiting the runmode call rate per user
+
+libcgns-dev/stable 3.4.0-5+b2 arm64
+  CFD General Notation System library (dev files)
+
+libcgns3.4/stable 3.4.0-5+b2 arm64
+  CFD General Notation System library
+
+libchi-perl/stable 0.61-1 all
+  Unified Cache Handling Interface
+
+libchm-bin/stable 2:0.40a-8.1 arm64
+  library for dealing with Microsoft CHM files (test programs)
+
+libchm-dev/stable 2:0.40a-8.1 arm64
+  library for dealing with Microsoft CHM files (development)
+
+libchm1/stable 2:0.40a-8.1 arm64
+  library for dealing with Microsoft CHM files
+
+libcifti-dev/stable 1.6.0-2.1+b2 arm64
+  development files for CiftiLib
+
+libcifti-doc/stable 1.6.0-2.1 all
+  documentation for CiftiLib
+
+libcifti0t64/stable 1.6.0-2.1+b2 arm64
+  library for manipulating CIFTI files
+
+libclass-type-enum-perl/stable 0.014-2 all
+  module to build enum-like classes
+
+libcloudproviders-dev/stable 0.3.6-2 arm64
+  cloud provider library - development files
+
+libcloudproviders-doc/stable 0.3.6-2 all
+  cloud provider library - documentation
+
+libcloudproviders0/stable,now 0.3.6-2 arm64 [installed,automatic]
+  cloud provider library
+
+libcmph-dev/stable 2.0.2-3.1+b2 arm64
+  C Minimal Perfect Hashing Library development files
+
+libcmph-tools/stable 2.0.2-3.1+b2 arm64
+  C Minimal Perfect Hashing Library command line utilities
+
+libcmph0t64/stable 2.0.2-3.1+b2 arm64
+  C Minimal Perfect Hashing Library
+
+libcoda-dev/stable 2.25.5-1 arm64
+  Development files for the CODA framework for Earth sciences
+
+libcoda-java/stable 2.25.5-1 all
+  Java interface for Common Data Access Framework
+
+libcoda-jni/stable 2.25.5-1 arm64
+  Java Native interface for Common Data Access Framework
+
+libcoda16/stable 2.25.5-1 arm64
+  Library for the Common Data Access framework for Earth science
+
+libcowsql-dev/stable 1.15.8-1 arm64
+  Embeddable, replicated and fault tolerant SQL engine - development files
+
+libcowsql0/stable 1.15.8-1 arm64
+  Embeddable, replicated and fault tolerant SQL engine - shared library
+
+libcrypt-argon2-perl/stable 0.030-1 arm64
+  Perl interface to the Argon2 key derivation functions
+
+libcub-dev/stable 2.3.2-2 all
+  reusable software components for the CUDA programming model
+
+libdancer-plugin-catmandu-oai-perl/stable 0.0508-3 all
+  OAI-PMH provider backed by a searchable Catmandu::Store
+
+libdancer-session-cookie-perl/stable 0.30-4 all
+  encrypted cookie-based session backend for Dancer
+
+libdancer2-perl/stable 1.1.2+dfsg-1 all
+  lightweight yet powerful web application framework
+
+libdancer2-session-cookie-perl/stable 0.009-2 all
+  Dancer 2 session storage in secure cookies
+
+libdatabase-dumptruck-perl/stable 1.2-4 all
+  document-oriented interface to a SQLite database
+
+libdb-je-java/stable 3.3.98-3 all
+  Oracle Berkeley Database Java Edition
+
+libdbi-perl/stable,now 1.647-1+deb13u1 arm64 [installed,automatic]
+  Perl Database Interface (DBI)
+
+libdbix-class-inflatecolumn-fs-perl/stable 0.01007-1.1 all
+  Inflate/deflate columns to Path::Class::File objects
+
+libdbix-fulltextsearch-perl/stable 0.73-12 all
+  Indexing documents with MySQL as storage
+
+libdbix-sequence-perl/stable 1.5-4 all
+  simple SQL92 ID generator
+
+libdcap1t64/stable 2.47.14-2+b1 arm64
+  Client Libraries for dCache
+
+libdcmtk-dev/stable 3.6.9-5+deb13u2 arm64
+  OFFIS DICOM toolkit development libraries and headers
+
+libdcmtk19/stable 3.6.9-5+deb13u2 arm64
+  OFFIS DICOM toolkit runtime libraries
+
+libdconf-dev/stable 0.40.0-5 arm64
+  simple configuration storage system - development files
+
+libdconf-doc/stable 0.40.0-5 all
+  simple configuration storage system - documentation
+
+libdconf1/stable,now 0.40.0-5 arm64 [installed,automatic]
+  simple configuration storage system - runtime library
+
+libdhash-dev/stable 0.6.2-3 arm64
+  Development files for libdhash
+
+libdhash1t64/stable 0.6.2-3 arm64
+  Dynamic hash table
+
+libdirectory-scratch-perl/stable 0.18-3 all
+  easy-to-use self-cleaning scratch space
+
+libdraco-dev/stable 1.5.6+dfsg-3+b3 arm64
+  Library for compressing 3D geometric meshes and point clouds (headers)
+
+libdraco8/stable 1.5.6+dfsg-3+b3 arm64
+  Library for compressing 3D geometric meshes and point clouds
+
+libequihash-dev/stable 1.0.10-2 arm64
+  memory-hard Proof-of-Work with fast verification - C development files
+
+libequihash0/stable 1.0.10-2 arm64
+  memory-hard Proof-of-Work with fast verification - C library
+
+libesedb-dev/stable 20240420-1 arm64
+  Extensible Storage Engine DB access library -- development files
+
+libesedb-utils/stable 20240420-1 arm64
+  Extensible Storage Engine DB access library -- Utilities
+
+libesedb1t64/stable 20240420-1 arm64
+  Extensible Storage Engine DB access library
+
+libetpan-dev/stable 1.9.4-6 arm64
+  mail handling library - development files
+
+libetpan-doc/stable 1.9.4-6 all
+  mail handling library - API documentation
+
+libetpan20t64/stable 1.9.4-6 arm64
+  mail handling library
+
+libf2fs-dev/stable 1.16.0-1.1+b1 arm64
+  Core library for Flash-Friendly File System - Development files
+
+libf2fs-format-dev/stable 1.16.0-1.1+b1 arm64
+  Format library for Flash-Friendly File System - Development files
+
+libfield3d-dev/stable 1.7.3-5 arm64
+  development files for Field3D
+
+libfield3d1.7t64/stable 1.7.3-5 arm64
+  library for storing voxel data on disk and in memory
+
+libfits-java/stable 1.21.0-1 all
+  Java library for the I/O handling of FITS files
+
+libfits-java-doc/stable 1.21.0-1 all
+  Java library for the I/O handling of FITS files (javadoc)
+
+libfreezethaw-perl/stable 0.5001-3 all
+  module to serialize and deserialize Perl data structures
+
+libfrozen-dev/stable 1.2.0-2 all
+  library for immutable and fixed-size containers
+
+libfru-dev/stable 2.1-3 arm64
+  Universal IPMI FRU Information generator / editor library (development files)
+
+libfru-doc/stable 2.1-3 all
+  Universal IPMI FRU Information generator / editor library (documentation)
+
+libfru2/stable 2.1-3 arm64
+  Universal IPMI FRU Information generator / editor library
+
+libfvde-dev/stable 20240502-1+b1 arm64
+  FileVault Drive Encryption access library -- development files
+
+libfvde-utils/stable 20240502-1+b1 arm64
+  FileVault Drive Encryption access library -- Utilities
+
+libfvde1t64/stable 20240502-1+b1 arm64
+  FileVault Drive Encryption access library
+
+libgc-dev/stable 1:8.2.8-1 arm64
+  conservative garbage collector for C (development)
+
+libgc1/stable 1:8.2.8-1 arm64
+  conservative garbage collector for C and C++
+
+libgdf-dev/stable 0.1.3-11.1+b2 arm64
+  IO library for the GDF -- development library
+
+libgdf0t64/stable 0.1.3-11.1+b2 arm64
+  IO library for the GDF (general dataformat for biosignals)
+
+libgf-complete-dev/stable 1.0.2+2017.04.10.git.ea75cdf-9.1+b1 arm64
+  Galois Field Arithmetic - development files
+
+libgf-complete1t64/stable 1.0.2+2017.04.10.git.ea75cdf-9.1+b1 arm64
+  Galois Field Arithmetic - shared library
+
+libgfal-srm-ifce1t64/stable 1.24.7-1+b1 arm64
+  SRM client side library
+
+libgfapi0/stable 11.1-6 arm64
+  GlusterFS gfapi shared library
+
+libgfarm-dev/stable 2.7.20+dfsg-1.2+b1 arm64
+  Gfarm file system development files
+
+libgfarm1t64/stable 2.7.20+dfsg-1.2+b1 arm64
+  Gfarm file system runtime library
+
+libgfchangelog0/stable 11.1-6 arm64
+  GlusterFS gfchangelog shared library
+
+libgfrpc0/stable 11.1-6 arm64
+  GlusterFS libgfrpc shared library
+
+libgfxdr0/stable 11.1-6 arm64
+  GlusterFS libgfxdr shared library
+
+libghc-aws-dev/stable 0.24.1-2+b1 arm64
+  Amazon Web Services for Haskell
+
+libghc-aws-doc/stable 0.24.1-2 all
+  Amazon Web Services for Haskell; documentation
+
+libghc-aws-prof/stable 0.24.1-2+b1 arm64
+  Amazon Web Services for Haskell; profiling libraries
+
+libghc-casa-client-dev/stable 0.0.2-2+b1 arm64
+  client for Casa
+
+libghc-casa-client-doc/stable 0.0.2-2 all
+  client for Casa; documentation
+
+libghc-casa-client-prof/stable 0.0.2-2+b1 arm64
+  client for Casa; profiling libraries
+
+libghc-casa-types-dev/stable 0.0.2-3+b1 arm64
+  types for Casa
+
+libghc-casa-types-doc/stable 0.0.2-3 all
+  types for Casa; documentation
+
+libghc-casa-types-prof/stable 0.0.2-3+b1 arm64
+  types for Casa; profiling libraries
+
+libghc-crypton-x509-store-dev/stable 1.6.9-3+b1 arm64
+  X.509 collection access and storage methods
+
+libghc-crypton-x509-store-doc/stable 1.6.9-3 all
+  X.509 collection access and storage methods; documentation
+
+libghc-crypton-x509-store-prof/stable 1.6.9-3+b1 arm64
+  X.509 collection access and storage methods; profiling libraries
+
+libghc-crypton-x509-system-dev/stable 1.6.7-3+b1 arm64
+  Handle per-operating-system X.509 accessors and storage
+
+libghc-crypton-x509-system-doc/stable 1.6.7-3 all
+  Handle per-operating-system X.509 accessors and storage; documentation
+
+libghc-crypton-x509-system-prof/stable 1.6.7-3+b1 arm64
+  Handle per-operating-system X.509 accessors and storage; profiling libraries
+
+libghc-happstack-server-dev/stable 7.8.0.2-3+b1 arm64
+  Happstack web framework, HTTP server
+
+libghc-happstack-server-doc/stable 7.8.0.2-3 all
+  Happstack web framework, HTTP server; documentation
+
+libghc-happstack-server-prof/stable 7.8.0.2-3+b1 arm64
+  Happstack web framework, HTTP server; profiling libraries
+
+libghc-hdf5-dev/stable 1.8.14-2 arm64
+  Haskell interface to the HDF5 scientific data storage library.
+
+libghc-hdf5-doc/stable 1.8.14-2 all
+  Haskell interface to the HDF5 scientific data storage library.; documentation
+
+libghc-hdf5-prof/stable 1.8.14-2 arm64
+  Haskell interface to the HDF5 scientific data storage library.; profiling libraries
+
+libghc-io-storage-dev/stable 0.3-17+b1 arm64
+  key-value store in the IO monad
+
+libghc-io-storage-doc/stable 0.3-17 all
+  key-value store in the IO monad; documentation
+
+libghc-io-storage-prof/stable 0.3-17+b1 arm64
+  key-value store in the IO monad; profiling libraries
+
+libghc-persistent-dev/stable 2.14.6.3-1+b1 arm64
+  type-safe, non-relational, multi-backend persistence
+
+libghc-persistent-doc/stable 2.14.6.3-1 all
+  type-safe, non-relational, multi-backend persistence; documentation
+
+libghc-persistent-prof/stable 2.14.6.3-1+b1 arm64
+  type-safe, non-relational, multi-backend persistence; profiling libraries
+
+libghc-pwstore-fast-dev/stable 2.4.4-13+b1 arm64
+  secure password storage
+
+libghc-pwstore-fast-doc/stable 2.4.4-13 all
+  secure password storage; documentation
+
+libghc-pwstore-fast-prof/stable 2.4.4-13+b1 arm64
+  secure password storage; profiling libraries
+
+libghc-serialise-dev/stable 0.2.6.1-1+b1 arm64
+  binary serialisation library for Haskell values
+
+libghc-serialise-doc/stable 0.2.6.1-1 all
+  binary serialisation library for Haskell values; documentation
+
+libghc-serialise-prof/stable 0.2.6.1-1+b1 arm64
+  binary serialisation library for Haskell values; profiling libraries
+
+libghc-vault-dev/stable 0.3.1.5-4+b1 arm64
+  typed, persistent store for values of arbitrary types
+
+libghc-vault-doc/stable 0.3.1.5-4 all
+  typed, persistent store for values of arbitrary types; documentation
+
+libghc-vault-prof/stable 0.3.1.5-4+b1 arm64
+  typed, persistent store for values of arbitrary types; profiling libraries
+
+libghc-x509-store-dev/stable 1.6.9-3 arm64
+  X.509 collection access and storage methods
+
+libghc-x509-store-doc/stable 1.6.9-3 all
+  X.509 collection access and storage methods; documentation
+
+libghc-x509-store-prof/stable 1.6.9-3 arm64
+  X.509 collection access and storage methods; profiling libraries
+
+libghc-x509-system-dev/stable 1.6.7-3 arm64
+  per-operating-system X.509 accessors and storage
+
+libghc-x509-system-doc/stable 1.6.7-3 all
+  per-operating-system X.509 accessors and storage; documentation
+
+libghc-x509-system-prof/stable 1.6.7-3 arm64
+  per-operating-system X.509 accessors and storage; profiling libraries
+
+libglusterfs-dev/stable 11.1-6 arm64
+  Development files for GlusterFS libraries
+
+libglusterfs0/stable 11.1-6 arm64
+  GlusterFS shared library
+
+libgnatcoll-cpp-dev/stable 25.0.0-2+b1 arm64
+  Ada binding to C++ standard library functions
+
+libgnatcoll-cpp1/stable 25.0.0-2+b1 arm64
+  Ada binding to C++ standard library functions (runtime)
+
+libgnatcoll-dev/stable 24.1.20230921-6+b1 arm64
+  GNATColl, general purpose Ada library
+
+libgnatcoll-doc/stable 24.1.20230921-6 all
+  GNATColl, general purpose Ada library (documentation)
+
+libgnatcoll-gmp-dev/stable 25.0.0-2+b1 arm64
+  Ada binding for GMP big numbers (development)
+
+libgnatcoll-gmp21/stable 25.0.0-2+b1 arm64
+  Ada binding for GMP big numbers (runtime)
+
+libgnatcoll-iconv-dev/stable 25.0.0-2+b1 arm64
+  Ada binding for Iconv character encoding conversions (development)
+
+libgnatcoll-iconv21/stable 25.0.0-2+b1 arm64
+  Ada binding for Iconv character encoding conversions (runtime)
+
+libgnatcoll-lzma-dev/stable 25.0.0-2+b1 arm64
+  Ada binding for LZMA compression (development)
+
+libgnatcoll-lzma3/stable 25.0.0-2+b1 arm64
+  Ada binding for LZMA compression (runtime)
+
+libgnatcoll-omp-dev/stable 25.0.0-2+b1 arm64
+  Ada binding for OpenMP parallelism (development)
+
+libgnatcoll-omp2/stable 25.0.0-2+b1 arm64
+  Ada binding for OpenMP parallelism (runtime)
+
+libgnatcoll-python3-2/stable 25.0.0-2+b1 arm64
+  Ada binding to the Python3 language (runtime)
+
+libgnatcoll-python3-dev/stable 25.0.0-2+b1 arm64
+  Ada binding to the Python3 language (development)
+
+libgnatcoll-readline-dev/stable 25.0.0-2+b1 arm64
+  Ada binding for ReadLine input history (development)
+
+libgnatcoll-readline21/stable 25.0.0-2+b1 arm64
+  Ada binding for ReadLine input history (runtime)
+
+libgnatcoll-syslog-dev/stable 25.0.0-2+b1 arm64
+  Ada binding for syslog journals (development)
+
+libgnatcoll-syslog4/stable 25.0.0-2+b1 arm64
+  Ada binding for syslog journals (runtime)
+
+libgnatcoll-zlib-dev/stable 25.0.0-2+b1 arm64
+  Ada binding for Zlib compression (development)
+
+libgnatcoll-zlib3/stable 25.0.0-2+b1 arm64
+  Ada binding for Zlib compression (runtime)
+
+libgnatcoll22/stable 24.1.20230921-6+b1 arm64
+  GNATColl, general purpose Ada library (runtime)
+
+libgoogle-api-services-drive-java/stable 1.32.1-2 all
+  Google Drive API Client Library for Java
+
+libgphoto2-6t64/stable 2.5.31-4 arm64
+  gphoto2 digital camera library
+
+libgphoto2-dev/stable 2.5.31-4 arm64
+  gphoto2 digital camera library (development files)
+
+libgphoto2-dev-doc/stable 2.5.31-4 all
+  gphoto2 digital camera library (development documentation)
+
+libgphoto2-l10n/stable 2.5.31-4 all
+  gphoto2 digital camera library - localized messages
+
+libgphoto2-port12t64/stable 2.5.31-4 arm64
+  gphoto2 digital camera port library
+
+libgridtools-dev/stable 2.3.8-1 arm64
+  Framework for storage and computation on Weather and Climate Grids
+
+libguestfs0t64/stable 1:1.54.1-2+deb13u1 arm64
+  guest disk image management system - shared library
+
+libintervalstorej-java/stable 1.2+dfsg-5 all
+  Java implementation of the Nested Containment List data structure
+
+libisal-dev/stable 2.31.1-1.1 arm64
+  Intel(R) Intelligent Storage Acceleration Library - devel files
+
+libisal2/stable 2.31.1-1.1 arm64
+  Intel(R) Intelligent Storage Acceleration Library - shared library
+
+libisns-dev/stable 0.101-1+b1 arm64
+  Internet Storage Name Service - development files
+
+libisns0t64/stable 0.101-1+b1 arm64
+  Internet Storage Name Service - shared libraries
+
+libjavaewah-java/stable 1.2.3-2 all
+  Compressed variant of the Java bitset class
+
+libjerasure-dev/stable 2.0.0+2017.04.10.git.de1739cc84-2+b3 arm64
+  forward error correction erasure channel library - development files
+
+libjerasure2/stable 2.0.0+2017.04.10.git.de1739cc84-2+b3 arm64
+  forward error correction erasure channel library - shared library
+
+libjets3t-java/stable 0.8.1+dfsg-5 all
+  Java interface to Amazon S3 and CloudFront services
+
+libjs-debug/stable 4.3.4+~cs4.1.7-1 all
+  small debugging utility
+
+libjs-i18next-browser-languagedetector/stable 7.2.0-1 all
+  language detector used in browser environment for i18next - js library
+
+libjs-jquery-metadata/stable 12-4 all
+  jQuery plugin for parsing metadata from elements
+
+libjs-jstorage/stable 0.3.1-1.1 all
+  store data locally with JavaScript
+
+libjs-n3/stable 1.16.3+~1.2.3+~1.10.4-1 all
+  fast asynchronous streaming RDF for JavaScript - browser library
+
+libkf5wallet-data/stable 5.116.0-1 all
+  Secure and unified container for user passwords.
+
+libkf5wallet-dev/stable 5.116.0-1 arm64
+  development files for kwallet-framework
+
+libkf5wallet-doc/stable 5.116.0-1 all
+  Secure and unified container for user passwords.
+
+libkf5wallet5/stable 5.116.0-1 arm64
+  Secure and unified container for user passwords.
+
+libkf6wallet-data/stable 6.13.0-1 all
+  safe desktop-wide storage for passwords - data files
+
+libkf6wallet-dev/stable 6.13.0-1 arm64
+  safe desktop-wide storage for passwords - development files
+
+libkf6wallet-doc/stable 6.13.0-1 all
+  safe desktop-wide storage for passwords - developer documentation
+
+libkf6wallet6/stable 6.13.0-1 arm64
+  safe desktop-wide storage for passwords - shared library
+
+libkf6walletbackend6/stable 6.13.0-1 arm64
+  safe desktop-wide storage for passwords - backend library
+
+libkiokudb-backend-dbi-perl/stable 1.23-3 all
+  DBI backend for KiokuDB
+
+libkpim6akonadiprivate6/stable 4:24.12.3-2~deb13u1 arm64
+  libraries for the Akonadi PIM storage service
+
+libleveldb-dev/stable 1.23-5+b2 arm64
+  fast key-value storage library (development files)
+
+libleveldb1d/stable 1.23-5+b2 arm64
+  fast key-value storage library
+
+liblog-message-perl/stable 0.8-3 all
+  powerful and flexible message logging mechanism
+
+libltc-dev/stable 1.3.2-1+b2 arm64
+  Development files for libltc
+
+libltc-doc/stable 1.3.2-1 all
+  Documentation for libltc
+
+libltc11/stable 1.3.2-1+b2 arm64
+  linear timecode library
+
+libmarisa-dev/stable 0.2.6-19 arm64
+  development files for libmarisa
+
+libmarisa-perl/stable 0.2.6-19 arm64
+  Perl bindings for MARISA
+
+libmarisa0/stable 0.2.6-19 arm64
+  C++ library to provide an implementation of MARISA
+
+libmemoize-memcached-perl/stable 0.04-2 all
+  implementation of Memoize using memcached for storage
+
+libmeshoptimizer-dev/stable 0.22+dfsg-1 arm64
+  Mesh optimizing library for 3D object rendering - development headers
+
+libmeshoptimizer2d/stable 0.22+dfsg-1 arm64
+  Mesh optimizing library for 3D object rendering
+
+libminini-dev/stable 1.5+ds-1 arm64
+  minimal INI file parser - development headers
+
+libminini1t64/stable 1.5+ds-1 arm64
+  minimal INI file parser
+
+libmirage-kv-mem-ocaml/stable 4.0.0-1+b3 arm64
+  in-memory key value store for MirageOS (runtime)
+
+libmirage-kv-mem-ocaml-dev/stable 4.0.0-1+b3 arm64
+  in-memory key value store for MirageOS (dev)
+
+libmixin-extrafields-perl/stable 0.140003-1 all
+  module to add extra stashes of data to objects
+
+libmkcal-qt5-0/stable 0.7.27+dfsg-1 arm64
+  SQlite storage backend for KCalendarCore
+
+libmkcal-qt5-dev/stable 0.7.27+dfsg-1 arm64
+  SQlite storage backend for KCalendarCore development files
+
+libmmmulti-dev/stable 0.1-3 all
+  header only library for mmmulti
+
+libmodule-starter-plugin-simplestore-perl/stable 0.144-1.1 all
+  template storage methods for Module::Starter
+
+libmoosex-insideout-perl/stable 0.106-4 all
+  Moose extension for non-intrusive subclassing
+
+libmoosex-storage-perl/stable 0.53-2 all
+  serialization framework for Moose classes
+
+libmr-tarantool-perl/stable 0.0.24-2 all
+  perl driver for tarantool
+
+libmrpt-serialization-dev/stable 1:2.14.7+ds-1+b3 arm64
+  Mobile Robot Programming Toolkit - serialization development package
+
+libmrpt-serialization2.14/stable 1:2.14.7+ds-1+b3 arm64
+  Mobile Robot Programming Toolkit - serialization library
+
+libnanovdb-dev/stable 10.0.1-2.3+b1 arm64
+  Sparse Volume Processing toolkit - NanoVDB - dev
+
+libnanovdb-tools/stable 10.0.1-2.3+b1 arm64
+  Sparse Volume Processing toolkit - NanoVDB - runtime
+
+libnet-amazon-s3-perl/stable 0.991-1 all
+  Amazon S3 Perl API - Simple Storage Service
+
+libnitrokey-common/stable 3.7-3 all
+  architecture independent files for libnitrokey
+
+libnitrokey-dev/stable 3.7-3+b1 arm64
+  library to communicate with Nitrokey stick devices (development)
+
+libnitrokey3/stable 3.7-3+b1 arm64
+  library to communicate with Nitrokey stick devices
+
+libnss-mysql/stable 1.6.1-2 arm64
+  NSS module for using MySQL/MariaDB as a naming service
+
+libnvme-dev/stable 1.13-2 arm64
+  NVMe management library (development)
+
+libnvme1t64/stable 1.13-2 arm64
+  NVMe management library (library)
+
+libocsipersist-lib-ocaml/stable 2.0.0-1+b10 arm64
+  persistent key/value storage for Ocsigen (support library) (runtime)
+
+libocsipersist-lib-ocaml-dev/stable 2.0.0-1+b10 arm64
+  persistent key/value storage for Ocsigen (support library) (dev)
+
+libocsipersist-ocaml/stable 2.0.0-1+b10 arm64
+  persistent key/value storage for Ocsigen (runtime)
+
+libocsipersist-ocaml-dev/stable 2.0.0-1+b10 arm64
+  persistent key/value storage for Ocsigen (dev)
+
+libocsipersist-pgsql-ocaml/stable 2.0.0-1+b10 arm64
+  persistent key/value storage for Ocsigen using PostgreSQL (runtime)
+
+libocsipersist-pgsql-ocaml-dev/stable 2.0.0-1+b10 arm64
+  persistent key/value storage for Ocsigen using PostgreSQL (dev)
+
+libocsipersist-sqlite-ocaml/stable 2.0.0-1+b10 arm64
+  persistent key/value storage for Ocsigen using SQLite (runtime)
+
+libocsipersist-sqlite-ocaml-dev/stable 2.0.0-1+b10 arm64
+  persistent key/value storage for Ocsigen using SQLite (dev)
+
+libole-storage-lite-perl/stable 0.22-1 all
+  simple class for OLE document interface
+
+libopenfec-dev/stable 1.4.2.11+dfsg-1 arm64
+  Application-Level Forward Erasure Correction codes (development files)
+
+libopenfec1/stable,now 1.4.2.11+dfsg-1 arm64 [installed,automatic]
+  Application-Level Forward Erasure Correction codes (shared library)
+
+libopenhft-chronicle-queue-java/stable 3.6.0-3 all
+  Java library for persisted low latency messaging
+
+libopentelemetry-proto-dev/stable 1.5.0-1 all
+  OpenTelemetry protocol specification and proto files
+
+libopenvdb-dev/stable 10.0.1-2.3+b1 arm64
+  Sparse Volume Processing toolkit - dev
+
+libopenvdb-doc/stable 10.0.1-2.3 all
+  Sparse Volume Processing toolkit - doc
+
+libopenvdb-tools/stable 10.0.1-2.3+b1 arm64
+  Sparse Volume Processing toolkit - runtime
+
+libopenvdb10.0t64/stable 10.0.1-2.3+b1 arm64
+  Sparse Volume Processing toolkit - lib
+
+libosmpbf-dev/stable 1.5.1-1+b1 arm64
+  C headers for OpenStreetMap PBF file format
+
+libosmpbf-java/stable 1.5.1-1 all
+  Java access library for OpenStreetMap PBF file format
+
+libosmpbf1/stable 1.5.1-1+b1 arm64
+  OpenStreetMap PBF file format library
+
+libpapyrus3-dev/stable 3.7.1+dfsg-6 arm64
+  DICOM compatible file format library
+
+libparpack2-dev/stable 3.9.1-6 arm64
+  Parallel subroutines to solve large scale eigenvalue problems (development)
+
+libparpack2t64/stable 3.9.1-6 arm64
+  Parallel subroutines to solve large scale eigenvalue problems
+
+libperlbal-xs-httpheaders-perl/stable 0.20-3+b4 arm64
+  Perlbal extension for processing HTTP headers faster
+
+libpff-dev/stable 20180714-3.1+b3 arm64
+  library to access various ms outlook files formats (development)
+
+libpff1t64/stable 20180714-3.1+b3 arm64
+  library to access various ms outlook files formats
+
+libpmempool1/stable 1.13.1-1.1+b1 arm64
+  Persistent Memory pool management support library
+
+libpmempool1-debug/stable 1.13.1-1.1+b1 arm64
+  Persistent Memory pool management support library — debug build
+
+librados-dev/stable 18.2.7+ds-1+deb13u1 arm64
+  RADOS distributed object store client library (development files)
+
+librados2/stable 18.2.7+ds-1+deb13u1 arm64
+  RADOS distributed object store client library
+
+librados2-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for librados
+
+libradospp-dev/stable 18.2.7+ds-1+deb13u1 arm64
+  RADOS distributed object store client C++ library (development files)
+
+librbd-dev/stable 18.2.7+ds-1+deb13u1 arm64
+  RADOS block device client library (development files)
+
+librbd1/stable 18.2.7+ds-1+deb13u1 arm64
+  RADOS block device client library
+
+librbd1-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for librbd1
+
+librdf-storage-mysql/stable 1.0.17-4+b1 arm64
+  RDF library, MySQL backend
+
+librdf-storage-postgresql/stable 1.0.17-4+b1 arm64
+  RDF library, PostGreSQL backend
+
+librdf-storage-sqlite/stable 1.0.17-4+b1 arm64
+  RDF library, SQLite backend
+
+librdf-storage-virtuoso/stable 1.0.17-4+b1 arm64
+  RDF library, Virtuoso backend
+
+librdf0t64/stable 1.0.17-4+b1 arm64
+  Redland Resource Description Framework (RDF) library
+
+librdf4j-java/stable 3.7.7+ds-1 all
+  extensible framework for RDF and RDF Schema data
+
+librepository-java/stable 1.1.6-4 all
+  abstraction library for accessing hierachic bulk content
+
+librepository-java-doc/stable 1.1.6-4 all
+  abstraction library for accessing hierachic bulk content -- documentation
+
+librgw-dev/stable 18.2.7+ds-1+deb13u1 arm64
+  RADOS client library (development files)
+
+librgw2/stable 18.2.7+ds-1+deb13u1 arm64
+  RADOS Gateway client library
+
+librgw2-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for librbd1
+
+librocksdb-dev/stable 9.10.0-1 arm64
+  persistent Key-Value Store for Flash and RAM Storage (development)
+
+librocksdb9.10/stable 9.10.0-1 arm64
+  persistent Key-Value Store for Flash and RAM Storage
+
+librosbag-storage-dev/stable 1.17.0+ds-2+b5 arm64
+  Development files for librosbag_storage
+
+librosbag-storage4t64/stable 1.17.0+ds-2+b5 arm64
+  Robot OS library for rosbag_storage
+
+librrd-dev/stable 1.7.2-4.2+b5 arm64
+  time-series data storage and display system (development)
+
+librrd8t64/stable 1.7.2-4.2+b5 arm64
+  time-series data storage and display system (runtime library)
+
+librrdp-perl/stable 1.7.2-4.2 all
+  time-series data storage and display system (Perl interface, piped)
+
+librrds-perl/stable 1.7.2-4.2+b5 arm64
+  time-series data storage and display system (Perl interface, shared)
+
+librust-blobby-dev/stable 0.3.1-1+b2 arm64
+  Iterator over simple binary blob storage - Rust source code
+
+librust-bytestring-dev/stable 1.4.0-1+b1 arm64
+  UTF-8 encoded read-only string using `Bytes` as storage - Rust source code
+
+librust-cfb-dev/stable 0.10.0-1 arm64
+  Read/write Compound File Binary (structured storage) files - Rust source code
+
+librust-cookie-store-dev/stable 0.21.1-1 arm64
+  Cookie storage and retrieval - Rust source code
+
+librust-parsec-service-dev/stable 1.4.1-3+b2 arm64
+  Abstraction layer for secure storage and operations - Rust source code
+
+librust-resource-proof-dev/stable 1.0.39-12 all
+  resource proof for decentralised network nodes - Rust source code
+
+librust-scoped-tls-dev/stable 1.0.1-1+b2 arm64
+  Macro for providing scoped access to thread local storage - Rust source code
+
+librust-slab-dev/stable 0.4.9-1 arm64
+  Pre-allocated storage for a uniform data type - Rust source code
+
+librust-smallbitvec-dev/stable 2.5.1-1+b2 arm64
+  Bit vector optimized for size and inline storage - Rust source code
+
+librust-string+bytes-dev/stable 0.2.1-2+b3 arm64
+  UTF-8 string with configurable byte storage - feature "bytes" and 1 more
+
+librust-string-dev/stable 0.2.1-2+b3 arm64
+  UTF-8 string with configurable byte storage - Rust source code
+
+librust-thin-slice-dev/stable 0.1.1-1+b2 arm64
+  Owned slice that packs the slice storage into a single word - Rust source code
+
+librust-thread-local-dev/stable 1.1.4-1+b2 arm64
+  Per-object thread-local storage - Rust source code
+
+librust-usb-disk-probe-dev/stable 0.2.0-1+b2 arm64
+  Provides a stream type which can be used to probe for USB storage devices in the system - Rust source code
+
+libsanlock-client1/stable 3.9.5-1 arm64
+  Shared storage lock manager (client library)
+
+libsanlock-dev/stable 3.9.5-1 arm64
+  Shared storage lock manager (development files)
+
+libsanlock1/stable 3.9.5-1 arm64
+  Shared storage lock manager (shared library)
+
+libscitokens0t64/stable 1.1.3-1 arm64
+  C++ Implementation of the SciTokens Library
+
+libseafile-dev/stable 9.0.13-1 arm64
+  Development files for the Seafile Client
+
+libseafile0t64/stable 9.0.13-1 arm64
+  Shared library for the Seafile Client
+
+libsecrecy-dev/stable 0.0.5+ds-4+b1 arm64
+  C++ header only library for random access to encrypted files
+
+libsession-storage-secure-perl/stable 1.000-1 all
+  module implementing a secure way to encode session data
+
+libslow5-0t64/stable 0.7.0+dfsg-3+b6 arm64
+  library for reading & writing SLOW5 files
+
+libslow5-dev/stable 0.7.0+dfsg-3+b6 arm64
+  header and static library for reading & writing SLOW5 files
+
+libsmdev-dev/stable 20190315-3 arm64
+  storage media device access library -- development files
+
+libsmdev-utils/stable 20190315-3 arm64
+  storage media device access library -- Utilities
+
+libsmdev1t64/stable 20190315-3 arm64
+  storage media device access library
+
+libspatialindex-c8/stable 2.1.0-1 arm64
+  General framework for developing spatial indices - C library
+
+libspatialindex-dev/stable 2.1.0-1 arm64
+  General framework for developing spatial indices - development files
+
+libspatialindex8/stable 2.1.0-1 arm64
+  General framework for developing spatial indices
+
+libspymemcached-java/stable 2.12.3+dfsg-3 all
+  simple, asynchronous, single-threaded memcached client
+
+libsquashfuse-dev/stable 0.5.2-0.2+b2 arm64
+  Development files for libsquashfuse
+
+libsquashfuse0/stable 0.5.2-0.2+b2 arm64
+  FUSE filesystem to mount squashfs archives library
+
+libstatistics-descriptive-perl/stable 3.0801-1 all
+  Perl module for basic descriptive statistical functions
+
+libstatistics-topk-perl/stable 0.02-2 all
+  implementation of the top-k streaming algorithm
+
+libstockpile-clojure/stable 0.0.4-2 all
+  Simple, durable Java queuing library
+
+libstoragedisplay-perl/stable 2.06-1 all
+  Collect and display storages on Linux machines
+
+libstxxl-dev/stable 1.4.1-4.1+b1 arm64
+  Development libraries for STXXL
+
+libstxxl-doc/stable 1.4.1-4.1 all
+  Documentation for STXXL
+
+libstxxl1-bin/stable 1.4.1-4.1+b1 arm64
+  STXXL File creation and benchmark tool
+
+libstxxl1t64/stable 1.4.1-4.1+b1 arm64
+  C++ Standard Template Library for extra large datasets
+
+libswupdate-dev/stable 2024.12.1+dfsg-3+deb13u2 arm64
+  Development files for swupdate framework
+
+libswupdate0.1/stable 2024.12.1+dfsg-3+deb13u2 arm64
+  Library for controlling the swupdate framework
+
+libtcmu2/stable 1.5.4-9+b1 arm64
+  Library that handles the userspace side of the LIO TCM-User backstore
+
+libtree-redblack-perl/stable 0.5-4 all
+  Perl implementation of Red/Black tree, a balanced tree
+
+libudisks2-0/stable 2.10.1-12.1+deb13u1 arm64
+  GObject based library to access udisks2
+
+libudisks2-dev/stable 2.10.1-12.1+deb13u1 arm64
+  GObject based library to access udisks2 - development files
+
+liburi-todisk-perl/stable 1.12-3 all
+  module to provide mapping between URIs and on-disk storage
+
+libuser-identity-perl/stable 1.02-1 all
+  module to manage a person's identities/roles
+
+libvc-dev/stable 012-4+b1 arm64
+  vCard library - development files
+
+libvc0/stable 012-4+b1 arm64
+  vCard (the Electronic Business Card) library
+
+libvirt-daemon-driver-storage/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - storage driver
+
+libvirt-daemon-driver-storage-disk/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - disk storage driver
+
+libvirt-daemon-driver-storage-gluster/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - GlusterFS storage driver
+
+libvirt-daemon-driver-storage-iscsi/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - iSCSI storage driver
+
+libvirt-daemon-driver-storage-iscsi-direct/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - iSCSI (libiscsi) storage driver
+
+libvirt-daemon-driver-storage-logical/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - Logical Volume Manager (LVM) storage driver
+
+libvirt-daemon-driver-storage-mpath/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - multipath (mpath) storage driver
+
+libvirt-daemon-driver-storage-rbd/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - RBD/RADOS/Ceph storage driver
+
+libvirt-daemon-driver-storage-scsi/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - SCSI storage driver
+
+libvirt-daemon-driver-storage-zfs/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - ZFS storage driver
+
+libvirt-daemon-lock/stable 11.3.0-3+deb13u2 arm64
+  virtualization daemon - locking daemon
+
+libvolume-key-dev/stable 0.3.12-9 arm64
+  Library for manipulating storage encryption keys (dev files)
+
+libvolume-key1/stable 0.3.12-9 arm64
+  Library for manipulating storage encryption keys and passphrases
+
+libvshadow-dev/stable 20240504-1+b1 arm64
+  Volume Shadow Snapshot format access library -- development files
+
+libvshadow-utils/stable 20240504-1+b1 arm64
+  Volume Shadow Snapshot format access library -- Utilities
+
+libvshadow1t64/stable 20240504-1+b1 arm64
+  Volume Shadow Snapshot format access library
+
+libwagon-file-java/stable 3.5.3-2 all
+  Artifact transport abstraction used in Maven (file provider)
+
+libwagon-ftp-java/stable 3.5.3-2 all
+  Artifact transport abstraction used in Maven (FTP provider)
+
+libwagon-http-java/stable 3.5.3-2 all
+  Artifact transport abstraction used in Maven (HTTP providers)
+
+libwagon-http-shaded-java/stable 3.5.3-2 all
+  Artifact transport abstraction used in Maven (HTTP providers with dependencies)
+
+libwagon-java/stable 3.5.3-2 all
+  Artifact transport abstraction used in Maven (transitional package)
+
+libwagon-provider-api-java/stable 3.5.3-2 all
+  Artifact transport abstraction used in Maven (Provider API)
+
+libwagon-ssh-java/stable 3.5.3-2 all
+  Artifact transport abstraction used in Maven (SSH providers)
+
+libwiredtiger-java/stable 3.2.1-1 all
+  Java language support for WiredTiger
+
+libx2go-config-perl/stable 4.1.0.6-1.1 all
+  Perl X2Go::Config package
+
+libx2go-log-perl/stable 4.1.0.6-1.1 all
+  Perl X2Go::Log package
+
+libx2go-server-db-perl/stable 4.1.0.6-1.1+b2 arm64
+  Perl X2Go::Server:DB package
+
+libx2go-server-perl/stable 4.1.0.6-1.1 all
+  Perl X2Go::Server package
+
+libx2go-utils-perl/stable 4.1.0.6-1.1 all
+  Perl X2Go::Utils package
+
+libxgks-dev/stable 2.6.1+dfsg.2-17 arm64
+  X11 Graphical Kernel Subsystem, development files
+
+libxgks2t64/stable 2.6.1+dfsg.2-17 arm64
+  X11 Graphical Kernel Subsystem, library.
+
+libxisf-dev/stable 0.2.13-1 arm64
+  Library to load and save XISF images development files
+
+libxisf0/stable 0.2.13-1 arm64
+  Library to load and save XISF images
+
+libxvidcore-dev/stable 2:1.3.7-1+b2 arm64
+  Open source MPEG-4 video codec (development)
+
+libxvidcore4/stable,now 2:1.3.7-1+b2 arm64 [installed,automatic]
+  Open source MPEG-4 video codec (library)
+
+libyaml-appconfig-perl/stable 0.19-3 all
+  module to manage configuration files with YAML
+
+lighter/stable 1.1.3-1 arm64
+  fast and memory-efficient sequencing error corrector
+
+log2ram/stable 1.7.2+ds-1 arm64
+  redirects log file writes into RAM
+
+lomiri-indicator-datetime/stable 25.4.0-2 arm64
+  Lomiri Indicator providing clock and calendar
+
+lua-rrd/stable 1.7.2-4.2+b5 arm64
+  time-series data storage and display system (Lua interfaces)
+
+lua-rrd-dev/stable 1.7.2-4.2+b5 arm64
+  time-series data storage and display system (Lua development)
+
+lua-swupdate/stable 2024.12.1+dfsg-3+deb13u2 arm64
+  swupdate bindings for the Lua language
+
+lvm2-lockd/stable 2.03.31-2 arm64
+  LVM locking daemon
+
+manila-data/stable 1:20.0.0-3 all
+  Manila storage service - Data service
+
+mariadb-plugin-connect/stable 1:11.8.6-0+deb13u1 arm64
+  Connect storage engine for MariaDB server
+
+mariadb-plugin-connect-jdbc/stable 1:11.8.6-0+deb13u1 all
+  Connect storage engine JDBC interface for MariaDB server
+
+mariadb-plugin-mroonga/stable 1:11.8.6-0+deb13u1 arm64
+  Mroonga storage engine for MariaDB server
+
+mariadb-plugin-oqgraph/stable 1:11.8.6-0+deb13u1 arm64
+  OQGraph storage engine for MariaDB server
+
+mariadb-plugin-provider-bzip2/stable 1:11.8.6-0+deb13u1 arm64
+  BZip2 compression support in the server and storage engines
+
+mariadb-plugin-provider-lz4/stable 1:11.8.6-0+deb13u1 arm64
+  LZ4 compression support in the server and storage engines
+
+mariadb-plugin-provider-lzma/stable 1:11.8.6-0+deb13u1 arm64
+  LZMA compression support in the server and storage engines
+
+mariadb-plugin-provider-lzo/stable 1:11.8.6-0+deb13u1 arm64
+  LZO compression support in the server and storage engines
+
+mariadb-plugin-provider-snappy/stable 1:11.8.6-0+deb13u1 arm64
+  Snappy compression support in the server and storage engines
+
+mariadb-plugin-rocksdb/stable 1:11.8.6-0+deb13u1 arm64
+  RocksDB storage engine for MariaDB server
+
+mariadb-plugin-s3/stable 1:11.8.6-0+deb13u1 arm64
+  Amazon S3 archival storage engine for MariaDB
+
+mariadb-plugin-spider/stable 1:11.8.6-0+deb13u1 arm64
+  Spider storage engine for MariaDB server
+
+marisa/stable 0.2.6-19 arm64
+  command line tools for libmarisa
+
+mb2md/stable 3.20-10 all
+  Convert Mbox mailboxes to Maildir format
+
+media-player-info/stable 26-1 all
+  Media player identification files
+
+megatools/stable 1.11.5-1 arm64
+  Command-line client for the Mega cloud storage service
+
+meli/stable 0.8.11+dfsg-1+b1 arm64
+  terminal mail client
+
+mercurial/stable 7.0.1-2 arm64
+  easy-to-use, scalable distributed version control system
+
+mergerfs/stable 2.40.2-5 arm64
+  another FUSE union filesystem
+
+metamonger/stable 0.20210406-7 all
+  Save, diff, and restore filesystem metadata
+
+minio-client/stable 0.0~20250403-3+b3 arm64
+  Simple, fast tool to manage MinIO clusters
+
+mipe/stable 1.1-9 all
+  Tools to store PCR-derived data
+
+mkcal-bin/stable 0.7.27+dfsg-1 arm64
+  SQlite storage backend for KCalendarCore tools
+
+monitoring-plugins-check-smart/stable 6.14.2-1 all
+  nagios compatible check S.M.A.R.T. storage plugin
+
+mwrap/stable 1.1.1-6 arm64
+  Octave/MATLAB mex generator
+
+nextcloud-desktop/stable 3.16.7-1~deb13u1 arm64
+  Nextcloud folder synchronization tool
+
+nextcloud-desktop-cmd/stable 3.16.7-1~deb13u1 arm64
+  folder synchronization with an Nextcloud server - cmd client
+
+nfdump/stable 1.7.5-2+deb13u1 arm64
+  netflow capture daemon
+
+nitrocli/stable 0.2.4-2+b12 arm64
+  command line interface for Nitrokey devices
+
+nncp/stable 8.11.0-4+deb13u1 arm64
+  Secure store-and-forward files, mail, and commands
+
+node-bl/stable 5.1.0-1 all
+  access multiple buffers with Buffer interface - Node.js module
+
+node-file-entry-cache/stable 6.0.1+~3.0.4+~2.0.0+~1.0.0+~2.0.1-1 all
+  Node.js library implementing a simple cache for file metadata
+
+node-flat-cache/stable 3.0.4~6.0.1+~3.0.4+~2.0.0+~1.0.0+~2.0.1-1 all
+  Node.js library implementing a simple persistent key/value storage
+
+node-i18next-browser-languagedetector/stable 7.2.0-1 all
+  language detector used in browser environment for i18next
+
+node-n3/stable 1.16.3+~1.2.3+~1.10.4-1 all
+  fast asynchronous streaming RDF for JavaScript - Node library
+
+node-solid-rest/stable 1.1.3-2 all
+  client-side multi-backend API for Solid requests - nodejs lib
+
+node-winston/stable 3.8.2-1 all
+  Logger for just about everything (for Nodejs)
+
+note/stable 1.3.26-3 all
+  small program managing notes from commandline
+
+notedeln/stable 1.5.4-2 arm64
+  Electronic Lab Notebook called NotedELN
+
+nvme-cli/stable 2.13-2 arm64
+  NVMe management tool
+
+nvme-stas/stable 2.4.1-2 all
+  NVMe Storage Appliance Services (STAS)
+
+octave-gdf/stable 0.1.3-11.1+b2 arm64
+  IO library for the GDF -- Octave interface
+
+ofono/stable 2.16-5 arm64
+  Mobile telephony stack (daemon)
+
+ofono-dev/stable 2.16-5 all
+  Mobile telephony stack (development files)
+
+ofono-scripts/stable 2.16-5 all
+  Mobile telephony stack (test and maintenance script files)
+
+onedrive/stable 2.5.4-1 arm64
+  folder synchronization with OneDrive
+
+open-infrastructure-storage-tools/stable 20190301-lts1-6 all
+  Additional utilities to manage Ceph
+
+open-isns-discoveryd/stable 0.101-1+b1 arm64
+  Internet Storage Name Service - iSNS discovery daemon
+
+open-isns-server/stable 0.101-1+b1 arm64
+  Internet Storage Name Service - iSNS server
+
+open-isns-utils/stable 0.101-1+b1 arm64
+  Internet Storage Name Service - client utilities
+
+openguides/stable 0.84-1.1 all
+  web application for managing a collaboratively-written city guide
+
+openmcdf/stable 1.5.4-3.1 all
+  Structured Storage Explorer
+
+openseachest/stable 24.08.1-1 arm64
+  utilities for operations on SATA/SAS/NVMe/USB storage devices
+
+openstack-clients/stable 0.39 all
+  Metapackage to install all Openstack clients
+
+opentelemetry-cpp/stable 1.19.0-3 arm64
+  OpenTelemetry C++ SDK library
+
+opentelemetry-cpp-dev/stable 1.19.0-3 arm64
+  OpenTelemetry C++ client library
+
+opentelemetry-proto/stable 1.5.0-1 all
+  OpenTelemetry protocol specification and proto files
+
+osmpbf-bin/stable 1.5.1-1+b1 arm64
+  OpenStreetMap PBF file format library - tools
+
+owncloud-client/stable 5.3.2.15463+dfsg-1 arm64
+  folder synchronization with an ownCloud server - GUI
+
+owncloud-client-cmd/stable 5.3.2.15463+dfsg-1 arm64
+  folder synchronization with an ownCloud server - cmd client
+
+parsec-service/stable 1.4.1-3+b2 arm64
+  Abstraction layer for secure storage and operations
+
+pd-lyonpotpourri/stable 3.0.2-1 arm64
+  potpourri of Pd objects for synthesizing with audio
+
+pd-pool/stable 0.2.2+git20210923.1.40cb82e-3+b1 arm64
+  Hierarchical data storage for Pure Data
+
+persistent-cache-cpp-dev/stable 1.0.7-2 arm64
+  Cache of key-value pairs with persistent storage for C++ 11
+
+pff-tools/stable 20180714-3.1+b3 arm64
+  utilities for MS Outlook PAB, PST and OST files
+
+pg-checksums-doc/stable 1.2-2 all
+  Activate/deactivate/verify PostgreSQL data checksums (Documentation)
+
+php-doctrine-annotations/stable 2.0.2-3 all
+  Docblock Annotations Parser - Doctrine component
+
+php-doctrine-cache/stable 2.2.0-6 all
+  cache library - Doctrine component
+
+php-doctrine-collections/stable 2.3.0-1 all
+  Collections Abstraction library - Doctrine component
+
+php-doctrine-common/stable 3.5.0-2 all
+  common extensions for Doctrine
+
+php-doctrine-dbal/stable 4.2.3+dfsg-4 all
+  database abstraction layer for Doctrine
+
+php-doctrine-deprecations/stable 1.1.5-1 all
+  Doctrine Deprecations - Doctrine component
+
+php-doctrine-inflector/stable 2.0.10-4 all
+  string manipulations library - Doctrine component
+
+php-doctrine-lexer/stable 3.0.1-3 all
+  base lexer library - Doctrine component
+
+php-doctrine-orm/stable 3.3.3+dfsg-1 all
+  tool for object-relational mapping
+
+php-doctrine-persistence/stable 4.0.0-6 all
+  Doctrine Persistence abstractions
+
+php-igbinary/stable 3.2.16-4 all
+  igbinary PHP serializer
+
+php-igbinary-all-dev/stable 3.2.16-4 all
+  igbinary PHP serializer
+
+php-laravel-framework/stable 10.48.29+dfsg-1 all
+  web application framework for PHP
+
+php-league-flysystem/stable 3.29.1-2 all
+  filesystem abstraction offering one API to many filesystems
+
+php-matomo-doctrine-cache/stable 1.10.4-2 all
+  cache bundle library - Doctrine component
+
+php-symfony-doctrine-bridge/stable 6.4.41+dfsg-0+deb13u1 all
+  integration for Doctrine with Symfony Components
+
+php8.4-igbinary/stable 3.2.16-4 arm64
+  igbinary PHP serializer
+
+pidgin-gnome-keyring/stable 2.0-3+b1 arm64
+  integrates pidgin (and libpurple) with the system keyring
+
+pinentry-x2go/stable 0.7.5.10-1+b3 arm64
+  OpenPGP (smart)card authentication dialog window for X2Go Client
+
+pmacct/stable 1.7.8-2+b2 arm64
+  promiscuous mode traffic accountant
+
+podman/stable 5.4.2+ds1-2+b2 arm64
+  tool to manage containers and pods
+
+podman-docker/stable 5.4.2+ds1-2+b2 arm64
+  tool to manage containers and pods (Docker CLI)
+
+podman-remote/stable 5.4.2+ds1-2+b2 arm64
+  tool to manage containers and pods (remote CLI)
+
+postgresql-17-age/stable 1.5.0~rc0-3 arm64
+  Graph database optimized for fast analysis and real-time data processing
+
+postgresql-17-pg-checksums/stable 1.2-2 arm64
+  Activate/deactivate/verify PostgreSQL data checksums
+
+postgresql-17-pgmp/stable 1.0.5-3 arm64
+  arbitrary precision integers and rationals for PostgreSQL 17
+
+postgresql-17-toastinfo/stable 1.5-2 arm64
+  Show storage structure of varlena datatypes in PostgreSQL
+
+prometheus/stable 2.53.3+ds1-2 arm64
+  monitoring system and time series database
+
+prosody-modules/stable 0.0~hg20250402.f315edc39f3d+dfsg-2 all
+  Selection of community modules for Prosody
+
+psi-plugins/stable 1.5-2+b2 arm64
+  official plugins for Psi
+
+psi-plus-plugins/stable 1.4.1456-2.1 arm64
+  plugins for Psi+
+
+puppet-module-ceph/stable 3.1.1-3 all
+  Puppet module for Ceph
+
+puppet-terminus-puppetdb/stable 8.4.1-4 all
+  Puppet-integrated catalog and fact storage - Puppet Server terminus
+
+puppetdb/stable 8.4.1-4 all
+  Puppet-integrated catalog and fact storage
+
+puppetdb-doc/stable 8.4.1-4 all
+  Puppet-integrated catalog and fact storage - documentation
+
+pwdsphinx/stable 2.0.3-1 all
+  SPHINX password storage protocol - reference server implementation
+
+pwdsphinx-tools/stable 2.0.3-1 all
+  SPHINX password storage protocol - tools to integrate into an X11 desktop
+
+pyhoca-cli/stable 0.6.1.3-1 all
+  Command line X2Go client written in Python
+
+python-acstore-doc/stable 0~20240407-3 all
+  Attribute Container store access library (common documentation)
+
+python-argon2-doc/stable 21.1.0-3 all
+  Argon2 password hashing library - Python Module Documentation
+
+python-azure-doc/stable 20250603+git-1 all
+  Microsoft Azure SDK for Python - Documentation
+
+python-bitmath-doc/stable 1.3.3.1-4 all
+  handle file sizes with different prefix notations (Documentation)
+
+python-django-storages-doc/stable 1.14.5-1 all
+  storage backends in Django (Documentation)
+
+python-flask-limiter-doc/stable 3.12-1 all
+  Rate-limiting for Flask routes - Documentation
+
+python-h5py-doc/stable 3.13.0-1 all
+  documentation for h5py
+
+python-hdf5storage-doc/stable 0.1.19-4 all
+  documentation for hdf5storage
+
+python-klepto-doc/stable 0.2.6-2 all
+  Persistent caching to memory, disk or database (documentation)
+
+python-limits-doc/stable 4.4.1-3 all
+  Rate limiting utilities for Python - Documentation
+
+python-os-traits-doc/stable 3.4.0-1 all
+  standardized trait strings - doc
+
+python-oslo.cache-doc/stable 3.10.1-3 all
+  cache storage for Openstack projects - doc
+
+python-pdbx-doc/stable 2.0.1-2 all
+  utilities for PDBx/mmCIF storage model (common documentation)
+
+python-secretstorage-doc/stable 3.3.3-3 all
+  Python module for storing secrets - documentation
+
+python-sensor-state-data-doc/stable 2.18.1-1 all
+  Models for storing and converting Sensor Data state (Documentation)
+
+python-sorl-thumbnail-doc/stable 12.10.0-1 all
+  thumbnail support for the Django framework (Documentation)
+
+python-swiftclient-doc/stable 1:4.7.0-2 all
+  Client library for Openstack Swift API - doc
+
+python-x2go-doc/stable 0.6.1.4-1 all
+  Python module providing X2Go client API (documentation)
+
+python3-acstore/stable 0~20240407-3 all
+  Attribute Container store access library (Python 3)
+
+python3-argon2/stable 21.1.0-3 arm64
+  Argon2 password hashing library - Python 3.x Module
+
+python3-azure/stable 20250603+git-1 all
+  Microsoft Azure SDK for Python 3.x
+
+python3-azure-datalake-store/stable 0.0.53-1 all
+  Azure Data Lake Store Filesystem Library for Python
+
+python3-azure-multiapi-storage/stable 1.4.0-1 all
+  Azure Storage Data Plane SDK supporting multiple API versions
+
+python3-azure-storage/stable 20250603+git-1 all
+  Microsoft Azure Storage Library for Python 3.x
+
+python3-b2sdk/stable 2.8.0-1 all
+  Python library to access B2 cloud storage
+
+python3-barbican/stable 1:20.0.0-3 all
+  OpenStack Key Management Service - Python files
+
+python3-bitmath/stable 1.3.3.1-4 all
+  handle file sizes with different prefix notations (Python3 version)
+
+python3-bluetooth-sensor-state-data/stable 1.9.0-3 all
+  Models for storing and converting Bluetooth Sensor State Data
+
+python3-borgstore/stable 0.3.0-2 all
+  Simple key/value store implementation in Python
+
+python3-bytesize/stable 2.11-2 arm64
+  Python 3 bindings for libbytesize
+
+python3-cachey/stable 0.2.1-3 all
+  Caching mindful of computation/storage costs
+
+python3-ceph/stable 18.2.7+ds-1+deb13u1 all
+  Meta-package for all Python 3.x modules for the Ceph libraries
+
+python3-ceph-argparse/stable 18.2.7+ds-1+deb13u1 arm64
+  Python 3 utility libraries for Ceph CLI
+
+python3-ceph-common/stable 18.2.7+ds-1+deb13u1 all
+  Python 3 utility libraries for Ceph
+
+python3-cephfs/stable 18.2.7+ds-1+deb13u1 arm64
+  Python 3 libraries for the Ceph libcephfs library
+
+python3-cinder/stable 2:26.0.0-2 all
+  OpenStack block storage system - Python libraries
+
+python3-cinderclient/stable 1:9.7.0-2 all
+  Python bindings to the OpenStack Volume API - Python 3.x
+
+python3-cloudkitty/stable 22.0.0-2 all
+  OpenStack Rating as a Service - Python library
+
+python3-coda/stable 2.25.5-1 arm64
+  Python3 interface for CODA science formats library
+
+python3-cooler/stable 0.10.3-1 arm64
+  library for a sparse, compressed, binary persistent storage
+
+python3-cooler-examples/stable 0.10.3-1 all
+  library for a sparse, compressed, binary persistent storage (examples)
+
+python3-crc32c/stable 2.7.1-1 arm64
+  python implementation in hardware and software of crc32c
+
+python3-deepdish/stable 0.3.7-4 all
+  Flexible HDF5 saving/loading and other data science tools
+
+python3-dfvfs/stable 20240505-2 all
+  Digital Forensics Virtual File System
+
+python3-dirq/stable 1.8-3 all
+  Disk I/O operation scheduler in Python
+
+python3-django-auditlog/stable 3.1.2-1 all
+  Library for logging changes to Django models
+
+python3-django-dbbackup/stable 4.2.1-1 all
+  Backup and restore commands for Django
+
+python3-django-downloadview/stable 2.4.0-1 all
+  efficient static file serving with Django (Python3 version)
+
+python3-django-dynamic-preferences/stable 1.17.0-1 all
+  Dynamic global and instance settings for your django project
+
+python3-django-haystack-redis/stable 0.0.1-2 all
+  Whoosh storage engine using redis for persistence
+
+python3-django-health-check/stable 3.18.3-1 all
+  Checks for various conditions and provides reports
+
+python3-django-maintenance-mode/stable 0.16.1-2 all
+  show a 503 error page when maintenance-mode is on in Django
+
+python3-django-storages/stable 1.14.5-1 all
+  storage backends in Django (Python3 version)
+
+python3-django-storages-boto3/stable 1.14.5-1 all
+  transitional package
+
+python3-django-storages-dropbox/stable 1.14.5-1 all
+  storage backends in Django (Dropbox)
+
+python3-django-storages-ftp/stable 1.14.5-1 all
+  storage backends in Django (FTP)
+
+python3-django-storages-libcloud/stable 1.14.5-1 all
+  storage backends in Django (Libcloud)
+
+python3-django-storages-s3/stable 1.14.5-1 all
+  storage backends in Django (S3)
+
+python3-django-storages-sftp/stable 1.14.5-1 all
+  storage backends in Django (SFTP)
+
+python3-django-titofisto/stable 1.1.0-1 all
+  Django Time-Token File Storage
+
+python3-dockerpycreds/stable 0.4.0-1.1 all
+  Python3 bindings for the docker credentials store API
+
+python3-dtfabric/stable 20240211-1 all
+  Tooling for data type and structure management - Python 3.x
+
+python3-flask-limiter/stable 3.12-1 all
+  Rate-limiting for Flask routes
+
+python3-gcal-sync/stable 7.0.0-2 all
+  A python library for syncing Google Calendar to local storage
+
+python3-gridfs/stable 4.10.1-6 all
+  Python3 implementation of GridFS for MongoDB
+
+python3-growattserver/stable 1.7.0-1 all
+  Retrieve PV information from the Growatt server
+
+python3-h5py/stable 3.13.0-1 all
+  general-purpose Python interface to hdf5
+
+python3-h5py-mpi/stable 3.13.0-1+b1 arm64
+  general-purpose Python interface to hdf5 (Python 3 MPI)
+
+python3-h5py-serial/stable 3.13.0-1+b1 arm64
+  general-purpose Python interface to hdf5 (Python 3 serial)
+
+python3-hdf5storage/stable 0.1.19-4 all
+  high-level utilities to read from and write to HDF5 (Python 3)
+
+python3-hdmf/stable 3.14.5-1 all
+  Hierarchical Data Modeling Framework
+
+python3-isal/stable 1.7.2-1 arm64
+  faster zlib and gzip compatible (de-)compression using the ISA-L library
+
+python3-jsonpatch/stable 1.32-5 all
+  library to apply JSON patches - Python 3.x
+
+python3-keyring/stable 25.6.0-2 all
+  store and access your passwords safely
+
+python3-keyrings.alt/stable 5.0.2-1 all
+  alternate backend implementations for python3-keyring
+
+python3-klepto/stable 0.2.6-2 all
+  Persistent caching to memory, disk or database
+
+python3-launchpadlib-desktop/stable 2.1.0-1 all
+  Launchpad web services client library with credential storage (Python 3)
+
+python3-libbde/stable 20240502-1+b1 arm64
+  BitLocker Drive Encryption access library -- Python 3 bindings
+
+python3-libcloud/stable 3.8.0+repack-4 all
+  unified Python interface into the cloud (Python3 version)
+
+python3-libesedb/stable 20240420-1 arm64
+  Extensible Storage Engine DB access library -- Python 3 bindings
+
+python3-libfvde/stable 20240502-1+b1 arm64
+  FileVault Drive Encryption access library -- Python 3 bindings
+
+python3-libnvme/stable 1.13-2 arm64
+  NVMe management library (Python)
+
+python3-libsmdev/stable 20190315-3 arm64
+  storage media device access library -- Python 3 bindings
+
+python3-libvshadow/stable 20240504-1+b1 arm64
+  Volume Shadow Snapshot format access library -- Python 3 bindings
+
+python3-limits/stable 4.4.1-3 all
+  Rate limiting utilities for Python
+
+python3-marisa/stable 0.2.6-19 arm64
+  Python3 bindings for MARISA
+
+python3-memoize/stable 1.0.3-3 all
+  Simple Python cache and memoizing module (Python3)
+
+python3-nixio/stable 1.5.4+dfsg-3 all
+  NIX data model implementation in pure Python
+
+python3-nudatus/stable 0.0.5-4 all
+  module to remove comments from Python 3 scripts
+
+python3-numcodecs/stable 0.16.0+ds-1 arm64
+  buffer compression and transformation codecs for Python
+
+python3-olefile/stable,now 0.47-1 all [installed,automatic]
+  Python module to read/write MS OLE2 files
+
+python3-opentelemetry-proto/stable 1.5.0-1 all
+  OpenTelemetry protocol specification and proto files
+
+python3-openvdb/stable 10.0.1-2.3+b1 arm64
+  Sparse Volume Processing toolkit - Python 3 binding
+
+python3-os-traits/stable 3.4.0-1 all
+  standardized trait strings - Python 3.x
+
+python3-oslo.cache/stable 3.10.1-3 all
+  cache storage for Openstack projects - Python 3.x
+
+python3-partd/stable 1.4.2-1 all
+  Appendable key-value storage for Python 3
+
+python3-pdbx/stable 2.0.1-2 all
+  utilities for PDBx/mmCIF storage model (Python 3)
+
+python3-proton-keyring-linux/stable 0.2.0-2 all
+  Proton Technologies keyring plugins for Linux
+
+python3-pyasn/stable 1.6.2-1 arm64
+  very fast IP address to Autonomous System Number lookups
+
+python3-pyeclib/stable 1.6.1-2+b1 arm64
+  interface for implementing erasure codes - Python 3.x
+
+python3-pyequihash/stable 0.2-3 all
+  python bindings for libequihash: memory-hard Proof-of-Work
+
+python3-pykmip/stable 0.10.0-8 all
+  KMIP v1.1 library - Python 3.x
+
+python3-pypff/stable 20180714-3.1+b3 arm64
+  Python 3 bindings for libpff
+
+python3-pyplaato/stable 0.0.19-1 all
+  Asynchronous client for fetching Plaato Airlock and Keg sensor data
+
+python3-python-fullykiosk/stable 0.0.14-2 all
+  Python library for Fully Kiosk Browser's REST API
+
+python3-radix/stable 0.10.0-5+b2 arm64
+  radix tree implementation for storage of IPv4 and IPv6 networks (Python 3)
+
+python3-rados/stable 18.2.7+ds-1+deb13u1 arm64
+  Python 3 libraries for the Ceph librados library
+
+python3-rbd/stable 18.2.7+ds-1+deb13u1 arm64
+  Python 3 libraries for the Ceph librbd library
+
+python3-reedsolo/stable 1.7.0-1+b5 arm64
+  Reed Solomon encoder/decoder library in Python
+
+python3-rgw/stable 18.2.7+ds-1+deb13u1 arm64
+  Python 3 libraries for the Ceph librgw library
+
+python3-rrdtool/stable 1.7.2-4.2+b5 arm64
+  time-series data storage and display system (Python3 interface)
+
+python3-rtree/stable 1.4.0-1 all
+  R-Tree spatial index for Python GIS - Python 3 module
+
+python3-sanlock/stable 3.9.5-1 arm64
+  Python3 bindings to shared storage lock manager
+
+python3-seafile/stable 9.0.13-1 all
+  Python 3 bindings for the Seafile Client
+
+python3-secretstorage/stable 3.3.3-3 all
+  Python module for storing secrets - Python 3.x version
+
+python3-sensor-state-data/stable 2.18.1-1 all
+  Models for storing and converting Sensor Data state
+
+python3-slow5/stable 0.7.0+dfsg-3+b6 arm64
+  Python3 modul for reading & writing SLOW5 files
+
+python3-smart-open/stable 7.1.0-1 all
+  utils for streaming large files
+
+python3-social-auth-core/stable 4.6.1-1 all
+  Core component of the python-social-auth ecosystem (Python3)
+
+python3-sorl-thumbnail/stable 12.10.0-1 all
+  thumbnail support for the Django framework (Python3 version)
+
+python3-sphinxcontrib.websupport/stable 2.0.0-1 all
+  API to integrate Sphinx documentation into Web applications (Python 3)
+
+python3-swift/stable 2.35.1-0+deb13u2 all
+  distributed virtual object store - Python 3 libraries
+
+python3-swiftclient/stable 1:4.7.0-2 all
+  Client library for Openstack Swift API - Python 3.x
+
+python3-synologydsm-api/stable 2.7.1-1 all
+  Asynchronous Python API for Synology DSM
+
+python3-tesla-powerwall/stable 0.5.2-2 all
+  Library for interacting with Tesla Powerwall energy storage systems
+
+python3-textual-fastdatatable/stable 0.12.0-4 all
+  fast implementation of Textual's DataTable widget (Python module)
+
+python3-translate/stable 3.15.1-1 all
+  Toolkit assisting in the localization of software (Python 3)
+
+python3-web-cache/stable 1.1.0-2 all
+  Simple Python key-value storage backed up by sqlite3 database
+
+python3-x2go/stable 0.6.1.4-1 all
+  Python module providing X2Go client API (Python 3)
+
+python3-zake/stable 0.2.2-8 all
+  provides a set of testing utilities for the kazoo library - Python 3.x
+
+python3-zc.lockfile/stable 3.0.post1-1 all
+  Basic inter-process locks for Python 3
+
+qgis/stable 3.40.6+dfsg-1 arm64
+  Geographic Information System (GIS)
+
+qml-module-qtquick-localstorage/stable 5.15.15+dfsg-3 arm64
+  Qt 5 localstorage QML module
+
+qml6-module-qtquick-localstorage/stable 6.8.2+dfsg-7 arm64
+  Qt 6 Quick Local Storage QML module
+
+qtorganizer5-mkcal/stable 0.1.0~git20250424.45906b1-2 arm64
+  QtOrganizer engine for mkCal calendar
+
+quickemu/stable 4.9.7-4 arm64
+  quickly create and run optimised virtual machines
+
+r-bioc-annotationdbi/stable 1.68.0-2 all
+  GNU R Annotation Database Interface for BioConductor
+
+r-bioc-cummerbund/stable 2.48.0-2 all
+  tool for analysis of Cufflinks RNA-Seq output
+
+r-bioc-iranges/stable 2.40.1-3 arm64
+  GNU R low-level containers for storing sets of integer ranges
+
+r-bioc-phyloseq/stable 1.50.0+dfsg-2 all
+  GNU R handling and analysis of high-throughput microbiome census data
+
+r-bioc-rhdf5/stable 2.50.2+dfsg-1 arm64
+  BioConductor HDF5 interface to R
+
+r-bioc-snpstats/stable 1.56.0+dfsg-2 arm64
+  BioConductor SnpMatrix and XSnpMatrix classes and methods
+
+r-bioc-spatialexperiment/stable 1.16.0+ds-2 all
+  S4 Class for Spatially Resolved -omics Data
+
+r-cran-ff/stable 4.5.2+ds-1 arm64
+  Memory-Efficient Fast-Access Storage of Large Data
+
+r-cran-keyring/stable 1.3.2-1+b1 arm64
+  access the system credential store from GNU R
+
+r-cran-r.cache/stable 0.16.0-1 all
+  R package: Fast and Light-Weight Caching of Objects and Results
+
+rados-objclass-dev/stable 18.2.7+ds-1+deb13u1 arm64
+  RADOS object class development kit.
+
+radosgw/stable 18.2.7+ds-1+deb13u1 arm64
+  REST gateway for RADOS distributed object store
+
+radosgw-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for radosgw
+
+rapid-photo-downloader/stable 0.9.36-1.1 all
+  Photo downloader (importer) from cameras, memory cards, other devices
+
+rapiddisk/stable 9.2.0-1 arm64
+  Linux RAM Drive and Caching kernel modules
+
+rapiddisk-dkms/stable 9.2.0-1 all
+  Linux RAM Drive and Caching kernel modules (DKMS)
+
+rapidjson-dev/stable 1.1.0+dfsg2-7.4 all
+  fast JSON parser/generator for C++ with SAX/DOM style API
+
+rbd-fuse-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for rbd-fuse
+
+rbd-mirror/stable 18.2.7+ds-1+deb13u1 arm64
+  Ceph daemon for mirroring RBD images
+
+rbd-mirror-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for rbd-mirror
+
+rbd-nbd/stable 18.2.7+ds-1+deb13u1 arm64
+  NBD-based rbd client for the Ceph distributed file system
+
+rbd-nbd-dbg/stable 18.2.7+ds-1+deb13u1 arm64
+  debugging symbols for rbd-nbd
+
+rclone/stable 1.60.1+dfsg-4 arm64
+  rsync for commercial cloud storage
+
+rclone-browser/stable 1.8.0-6 arm64
+  Simple cross platform GUI for rclone
+
+recoll/stable 1.43.0-1 all
+  Personal full text search package
+
+redfishtool/stable 1.1.5-3 all
+  redfish command-line client
+
+rekor/stable 1.3.9-1+b5 arm64
+  Software Supply Chain Transparency Log (program)
+
+resource-agents/stable 1:4.16.0-3+deb13u2 arm64
+  Cluster Resource Agents
+
+resource-proof/stable 1.0.39-12+b1 arm64
+  resource proof for decentralised network nodes - CLI tool
+
+restic/stable 0.18.0-1+b4 arm64
+  backup program with multiple revisions, encryption and more
+
+rmtfs/stable 1.1-4 arm64
+  Qualcomm Remote Filesystem Service implementation
+
+rocksdb-tools/stable 9.10.0-1 arm64
+  persistent Key-Value Store for Flash and RAM Storage (tools)
+
+rrdtool/stable 1.7.2-4.2+b5 arm64
+  time-series data storage and display system (programs)
+
+rrdtool-tcl/stable 1.7.2-4.2+b5 arm64
+  time-series data storage and display system (Tcl interface)
+
+ruby-activestorage/stable 2:7.2.2.2+dfsg-2~deb13u1 all
+  local and cloud file storage framework (part of Rails)
+
+ruby-aliyun-sdk/stable 0.8.0-3+b4 arm64
+  Aliyun OSS SDK for Ruby
+
+ruby-aws-sdk-s3/stable 1.170.1-1 all
+  AWS SDK for Ruby - Amazon S3
+
+ruby-azure-storage-blob/stable 2.0.0-3 all
+  access and manage Microsoft Azure Storage Blob Services
+
+ruby-azure-storage-common/stable 2.0.1-8 all
+  ruby package that supports service client libraries for azure storage
+
+ruby-fog-local/stable 0.8.0-2 all
+  Module for the 'fog' gem to support local filesystem storage
+
+ruby-git/stable 1.13.1-1 all
+  Ruby interface to the Git revision control system
+
+ruby-gitlab-fog-azure-rm/stable 1.9.1-1 all
+  Azure Blob Storage with CarrierWave and Fog
+
+ruby-google-apis-storage-v1/stable 0.21.0-2 all
+  Simple REST client for Google Cloud Storage JSON API V1
+
+ruby-instance-storage/stable 2.0.0-2 all
+  Ruby Library for managing class instances with dictionary
+
+ruby-marisa/stable 0.2.6-19 arm64
+  Ruby bindings for MARISA
+
+ruby-ole/stable 1.2.12.2-2 all
+  Ruby library for read/write access for OLE compound documents
+
+ruby-openid/stable 2.9.2debian-4 all
+  Ruby library for verifying and serving OpenID identities
+
+ruby-openstack/stable 2.0.2-2 all
+  OpenStack Ruby API
+
+ruby-request-store/stable 1.5.1-1 all
+  per-request global variable storage for Rack-based web servers
+
+ruby-rpatricia/stable 1.0.1-2+b6 arm64
+  efficient IPv4/IPv6 prefix storage and lookup for Ruby
+
+ruby-rrd/stable 1.7.2-4.2+b5 arm64
+  time-series data storage and display system (Ruby interfaces)
+
+ruby-simple-captcha2/stable 0.5.0-2 all
+  simplest and a robust captcha plugin for rails
+
+s3backer/stable 1.5.4-2+b3 arm64
+  Amazon AWS S3-backed virtual hard disk device
+
+s3ql/stable 5.2.3+dfsg-2 arm64
+  Full-featured file system for online data storage
+
+s3ql-dbg/stable 5.2.3+dfsg-2 arm64
+  Full-featured file system for online data storage (debugging symbols)
+
+s4cmd/stable 2.1.0+ds-3 all
+  Super Amazon S3 command line tool
+
+sanlock/stable 3.9.5-1 arm64
+  Shared storage lock manager
+
+sbd/stable 1.5.2-5 arm64
+  STONITH Block Device daemon
+
+sblim-wbemcli/stable 1.6.3-3+b2 arm64
+  WBEM Command Line Interface for CIMOM access
+
+sccache/stable 0.10.0-4 arm64
+  compiler cache for fast recompilation of C/C++/Rust code
+
+scdaemon/stable 2.4.7-21+deb13u1+b4 arm64
+  GNU privacy guard - smart card support
+
+scolasync/stable 5.6-1 all
+  graphic tool to copy data to or from a set of USB storage media
+
+seafile-cli/stable 9.0.13-1 all
+  Client CLI for the Seafile Client
+
+seafile-daemon/stable 9.0.13-1 arm64
+  Client daemon for the Seafile Client
+
+seafile-gui/stable 9.0.13+ds1-1 arm64
+  Seafile Desktop Client
+
+seahorse/stable 47.0.1-2 arm64
+  GNOME front end for GnuPG
+
+seahorse-daemon/stable 3.12.2-8+b2 arm64
+  Seahorse pass phrase caching agent
+
+signond/stable 8.61+git20231015.c8ad982-7 arm64
+  Single Sign On framework
+
+smartmontools/stable 7.4-3 arm64
+  control and monitor storage systems using S.M.A.R.T.
+
+splint/stable 1:3.1.2+dfsg-5+b2 arm64
+  tool for statically checking C programs for bugs
+
+splint-data/stable 1:3.1.2+dfsg-5 all
+  tool for statically checking C programs for bugs - data files
+
+splint-doc-html/stable 1:3.1.2+dfsg-5 all
+  tool for statically checking C programs for bugs - HTML documentation
+
+squashfuse/stable 0.5.2-0.2+b2 arm64
+  FUSE filesystem to mount squashfs archives
+
+srptools/stable 56.1-1 arm64
+  Tools for Infiniband attached storage (SRP)
+
+starlink-cdf-java/stable 1.0+2025.02.26-1 all
+  CDF table support for Starjava
+
+starlink-cdf-java-doc/stable 1.0+2025.02.26-1 all
+  CDF table support for Starjava (Javadoc)
+
+starlink-table-java/stable 4.3.2-1 all
+  Starlink Tables Infrastructure Library
+
+starlink-table-java-doc/stable 4.3.2-1 all
+  Starlink Tables Infrastructure Library (documentation)
+
+strawberry/stable 1.2.10-2 arm64
+  audio player and music collection organizer
+
+swift/stable 2.35.1-0+deb13u2 all
+  distributed virtual object store - common files
+
+swift-account/stable 2.35.1-0+deb13u2 all
+  distributed virtual object store - account server
+
+swift-bench/stable 2.0.0-1 all
+  benchmarking tool for Swift
+
+swift-container/stable 2.35.1-0+deb13u2 all
+  distributed virtual object store - container server
+
+swift-doc/stable 2.35.1-0+deb13u2 all
+  distributed virtual object store - documentation
+
+swift-drive-audit/stable 2.35.1-0+deb13u2 all
+  distributed virtual object store - drive audit
+
+swift-object/stable 2.35.1-0+deb13u2 all
+  distributed virtual object store - object server
+
+swift-object-expirer/stable 2.35.1-0+deb13u2 all
+  distributed virtual object store - object-expirer
+
+swift-proxy/stable 2.35.1-0+deb13u2 all
+  distributed virtual object store - proxy server
+
+swupdate/stable 2024.12.1+dfsg-3+deb13u2 arm64
+  Software update framework for embedded systems
+
+swupdate-doc/stable 2024.12.1+dfsg-3+deb13u2 all
+  Documentation for swupdate framework
+
+swupdate-www/stable 2024.12.1+dfsg-3+deb13u2 all
+  Web Application for swupdate
+
+tahoe-lafs/stable 1.20.0-6 all
+  Tahoe Least-Authority File Store
+
+tcmu-runner/stable 1.5.4-9+b1 arm64
+  Daemon that handles the userspace side of the LIO TCM-User backstore
+
+tgt/stable 1:1.0.85-1.3 arm64
+  Linux SCSI target user-space daemon and tools
+
+tgt-glusterfs/stable 1:1.0.85-1.3 arm64
+  Linux SCSI target user-space daemon and tools - GlusterFS support
+
+tgt-rbd/stable 1:1.0.85-1.3 arm64
+  Linux SCSI target user-space daemon and tools - RBD support
+
+tpm2daemon/stable 2.4.7-21+deb13u1+b4 arm64
+  GNU privacy guard - TPM2 support
+
+translate-toolkit/stable 3.15.1-1 all
+  Toolkit assisting in the localization of software
+
+translate-toolkit-doc/stable 3.15.1-1 all
+  Toolkit assisting in the localization of software (documentation)
+
+tryton-modules-stock-consignment/stable 7.0.2-1 all
+  Tryton application platform - stock consignment module
+
+tryton-modules-stock-product-location/stable 7.0.2-3 all
+  Tryton application platform - stock product location module
+
+udevil/stable 0.4.4-4 arm64
+  Alternative storage media interface
+
+udisks2/stable 2.10.1-12.1+deb13u1 arm64
+  D-Bus service to access and manipulate storage devices
+
+udisks2-btrfs/stable 2.10.1-12.1+deb13u1 arm64
+  BTRFS support for udisks2
+
+udisks2-doc/stable 2.10.1-12.1+deb13u1 all
+  udisks2 documentation
+
+udisks2-lvm2/stable 2.10.1-12.1+deb13u1 arm64
+  LVM2 support for udisks2
+
+ukui-sidebar/stable 3.1.3-1 arm64
+  parallels toolbox for UKUI
+
+ums2net/stable 0.1.3-3+b2 arm64
+  USB Mass Storage to Network Proxy
+
+usb-modeswitch/stable 2.6.1-4+b2 arm64
+  mode switching tool for controlling "flip flop" USB devices
+
+usb-modeswitch-data/stable 20191128-7 all
+  mode switching data for usb-modeswitch
+
+usbrip/stable 2.2.2+git20221003.5093c84-3 all
+  USB device artifacts tracker
+
+uwsgi-plugin-glusterfs/stable 2.0.28+8+0.0.3 arm64
+  GlusterFS storage plugin for uWSGI
+
+uwsgi-plugin-rados/stable 2.0.28+8+0.0.3 arm64
+  Ceph/RADOS storage plugin for uWSGI
+
+vagrant-libvirt/stable 0.12.2-4 all
+  Vagrant plugin that adds an Libvirt provider to Vagrant
+
+vblade/stable 25-2+b1 arm64
+  virtual AoE blade emulator
+
+vdirsyncer/stable 0.19.3-3 all
+  Synchronize calendars and contacts
+
+vdirsyncer-doc/stable 0.19.3-3 all
+  Synchronize calendars and contacts - documentation
+
+victoria-metrics/stable 1.112.0+ds1-2 arm64
+  fast, cost-effective and scalable time series database
+
+vodovod/stable 1.10-5+b1 arm64
+  puzzle game, you must lead the water to the storage tank
+
+volume-key/stable 0.3.12-9 arm64
+  Utility for manipulating storage encryption keys and passphrases
+
+vorta/stable 0.10.3-1 all
+  Desktop Client for Borg Backup
+
+w1retap-mysql/stable 1.5.5-2 arm64
+  Data logger for 1-Wire weather sensors (MySQL plugin)
+
+w1retap-odbc/stable 1.5.5-2 arm64
+  Data logger for 1-Wire weather sensors (ODBC plugin)
+
+w1retap-pgsql/stable 1.5.5-2 arm64
+  Data logger for 1-Wire weather sensors (PostgreSQL plugin)
+
+w1retap-sqlite/stable 1.5.5-2 arm64
+  Data logger for 1-Wire weather sensors (SQLite plugin)
+
+x2goclient/stable 4.1.2.3-4 arm64
+  X2Go Client application (Qt5)
+
+x2godesktopsharing/stable 3.2.0.0-2+b3 arm64
+  Share X11 desktops with other users via X2Go
+
+x2gokdriveclient/stable 0.0.0.1-2 arm64
+  KDrive graphical client backend for X2Go Client
+
+x2goserver/stable 4.1.0.6-1.1+b2 arm64
+  X2Go Server
+
+x2goserver-common/stable 4.1.0.6-1.1 all
+  X2Go Server (common files)
+
+x2goserver-desktopsharing/stable 4.1.0.6-1.1 all
+  Share X11 desktops with other users via X2Go
+
+x2goserver-extensions/stable 4.1.0.6-1.1 all
+  X2Go Server (extension support)
+
+x2goserver-fmbindings/stable 4.1.0.6-1.1 all
+  X2Go Server (file manager bindings)
+
+x2goserver-printing/stable 4.1.0.6-1.1 all
+  X2Go Server (printing support)
+
+x2goserver-xsession/stable 4.1.0.6-1.1 all
+  X2Go Server (Xsession runner)
+
+x2gothinclient-cdmanager/stable 1.5.0.1-10.2 arm64
+  clientside daemon enabling automatic CD-Rom mounting
+
+x2gothinclient-chroot/stable 1.5.0.1-10.2 all
+  Install X2Go Thin Client chroot (metapackage)
+
+x2gothinclient-common/stable 1.5.0.1-10.2 all
+  X2Go thin client environment (common files)
+
+x2gothinclient-displaymanager/stable 1.5.0.1-10.2 all
+  login daemon starting x2goclient in displaymanager mode
+
+x2gothinclient-management/stable 1.5.0.1-10.2 all
+  Management tools for X2Go Thin Client chroot server
+
+x2gothinclient-minidesktop/stable 1.5.0.1-10.2 all
+  Minimal desktop for X2Go Thin Client chroot (based on MATE)
+
+x2gothinclient-smartcardrules/stable 1.5.0.1-10.2 all
+  UDEV rules for smartcard readers
+
+x2gothinclient-usbmount/stable 1.5.0.1-10.2 all
+  clientside usb mass-storage device mounting
+
+xfconf/stable 4.20.0-1 arm64
+  utilities for managing settings in Xfce
+
+xfconf-gsettings-backend/stable 4.20.0-1 arm64
+  utilities for managing settings in Xfce - gsettings backend
+
+xfsdump/stable 3.2.0-2 arm64
+  Administrative utilities for the XFS filesystem
+
+xiccd/stable 0.4.1-1 arm64
+  X color management daemon
+
+xorriso-dd-target/stable 1.5.6-1.2 all
+  Device evaluator and disk image copier for GNU/Linux
+
+xrootd-ceph-plugins/stable 5.8.1-1 arm64
+  XRootD plugin for interfacing with the Ceph storage platform
+
+xserver-x2gokdrive/stable 0.0.0.3-2 arm64
+  KDrive graphical server backend for X2Go Server
+
+zoem/stable 21-341-1+b1 arm64
+  general-purpose macro/programming language for transforming text
+

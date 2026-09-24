@@ -1,0 +1,1539 @@
+/* This is one of the README files for libgphoto2/camlibs/digigr8. This is an 
+ * integral part of the libgphoto2/camlibs/digigr8 library source code and is 
+ * distributed with that source code under the LGPL license. a copy of which 
+ * license may be seen in the head directory of libgphoto2, in the file 
+ * COPYING.
+ * This file copyright Theodore Kilgore, 01/21/2008.
+ */ 
+CONCERNING 0x2770:0x9050 CAMERAS:
+First, a general remark. The reader is strongly encouraged to read 
+README.905C as well as this file. That file in fact pertains to all of the 
+cameras which are supported by libgphoto2/camlibs/digigr8. All of what it says
+pertains to the 0x2770:0x9050 cameras, too, unless something to the contrary is
+stated below.
+As of 01/20/2008, the only known camera with USB ID string 0x2770:0x9050 is the
+"Disney pix micro," found at KB Toys. Its functionality is very basic. On the 
+package it says the camera is able to take 20 photos, but in fact the number 
+of photos is variable. For, they are all compressed. 
+Since the compression algorithm is the same as that in the 0x905C cameras, this  
+camera is quite usable, for what it is. Resolution for this camera is fixed at 
+352x288 and can not be adjusted. In fact, the only thing on the camera which 
+can be controlled at all, aside from snapping photos one at a time, is to 
+delete photos one at a time or to delete all.  To delete one photo with the 
+delete button on the camera, press the button. To delete all, hold it down 
+longer. To the best of my ability to determine, the camera has no clip option, 
+no delayed-shooting option, and no multi-frame clips intended for AVI images. 
+However, the camera will do software deletion of all photos using the option 
+gphoto2 -D, while for the other cameras supported in camlibs/digigr8 the 
+gphoto2 -D option does nothing at all and is therefore considered as an 
+unsupported operation for those other cameras. However:
+WARNING
+The USB command to delete is the same as the command to shoot a frame 
+(gphoto2 option is --capture-preview). If you shoot a frame with the Disney 
+pix micro, it will delete whatever photos are on the camera !!!
+WARNING
+The camera has kernel support as a webcam, at 320x240 resolution. 
+Use of the camera in webcam mode will delete all photos stored on the 
+camera, too !!!
+WARRANTY?
+	Absolutely not. No warranty. Never. Not responsible for any actual
+	or potential damage or consequences to anyone or to the equipment of
+	anyone for using this program, whether the alleged damage or alleged
+	consequences are claimed to be real, imaginary, direct, collateral,
+	for pain and suffering, or are claimed to be inflicted upon any
+	"third party" who is not the user or installer of the program. The
+	program has been written for my pleasure and to broaden and deepen
+	my knowledge of computer hardware and software. The program has not
+	been written with the immediate expectation of financial gain or
+	profit on my part, nor has it been commissioned for pay. It is
+	presumed that any end-user of this program will have access to the
+	source code of the program and can judge for himself or herself
+	whether he/she wishes to use it or not, or can consult someone with
+	appropriate expertise to make such a judgment. 
+Theodore Kilgore
+01/21/2008, revised 01/22/2008, 01/12/2012
+zsWy
+fzfz
+~{?-9
++X~!
+@=uv
+7E.?
+>M9C
+Q>rFjaN
+\>ho
+F@j<EI
+b@<Z
+STE7
+X<T 
+F Gt
+KbfF
+-J]`7d
+B|6z
+ bB<
+Zd>V%
+"	%J
+t#nNs
+[jj[
+dv34
+R~pI>
+#N=O
+MEYB
+Ag{w
+/* This is one of the README files for libgphoto2/camlibs/digigr8. This is an 
+ * integral part of the libgphoto2/camlibs/digigr8 library source code and is 
+ * distributed with that source code under the LGPL license. a copy of which 
+ * license may be seen in the head directory of libgphoto2, in the file 
+ * COPYING.
+ * This file copyright Theodore Kilgore, 05/10/2009.
+ */ 
+CONCERNING 0x2770:0x9052 CAMERAS
+First, a general remark. The reader is strongly encouraged to read
+README.905C as well as this file. That file in fact pertains to all of the
+cameras which are supported by libgphoto2/camlibs/digigr8. All of what it says
+pertains to the 0x2770:0x9052 cameras, too, unless something to the contrary is
+stated below.
+The only camera known to use the ID 0x2770:0x9052 a Disney Pix Micro camera. It
+seems to be a VGA version of the smaller camera with the same name, which 
+reports itself as 0x2770:0x9050. The new camera has the resolution settings 
+640x480 and 320x240. Both cameras permit deletion of all photos. The same 
+operations are used for that as for the capture of an image to the computer
+(that is, the gphoto2 --capture-preview operation). The user is therefore 
+advised that the --capture-preview operation will also clear the camera's 
+memory and remove all images stored there. 
+The camera also has kernel support for webcam mode. To run the camera as a
+webcam will also delete all still photos stored in the camera.
+For further details please consult the file README.9050.
+Revised 01/12/2012
+}f}E
++Y-|i
+.tv}
+!?_W8J
+i1&;
+7G''G
+=}PdY'p
+Kj"\EJ
+[<O~/;
+!P#6d2
+lC\,J,
+	VEl
+/6m#'
+[Qhy 
+yfk	?
+wvvv
+|{qg
+|ss}{
+j2|u
+=toN
+MkJc
+@??U
+/)/D
+dI~y
+:&1<
+uSR?H
+cXkoy*
+CEd6%Ps
+]%Bg
+pdM 
+%d3$
+hr,<
+zYV)
+e;%P
+23iV
+'[	n
+DY6@X
+SpBF
+48Qm
+OW3Z
+6)]5
+hiX"I
+wqkA
+-MV3
+NdVi
++%F`
+@9E	
+qnn>Q
+_qel
+!4q?
+8<(lb4
+2&2Q
+]iQB
+Ha&Y
+2!>H
+ig_	
+.FKq
+]wC~
+c3op
+w?wY{
+}Uvi_91
+V6xC
+$|NFl
+^S?\
+I|FJw
+@^_t
+sK_X
+/:VU
+dRF(4
+1mjF#
+FqB'
+qzAu
+{v{;
+:r&Z
+;cO%
+7z8F}/
+jkfo
+c}k}
+[K5q
+Q$~s
+{>|~}t
+*~~st
+;o\4
+uW]s
+:KNj
+B+S5
+jq}%
+{9;{{|
+Q85Wm
+[`9J
+Xu^.f
+(a/cM~
+nGXE
+%Y}iq
+6L!r
+m	E4
+*DjB$h"
+y@*`
+vvs{
+	v.;(
+M W%o
+,P;2
+pl2yv
+'h7i
+vGa8
+mr^@l
+?D%9
+/* This is a second README file for libgphoto2/camlibs/digigr8. This README is 
+ * an integral part of the libgphoto2/camlibs/digigr8 library source code and 
+ * is distributed with that source code under the LGPL license. a copy of which 
+ * license may be seen in the head directory of libgphoto2, in the file 
+ * COPYING.
+ * Copyright by Theodore Kilgore, 08/24/07.
+ */ 
+On 08/23/2007, I discovered a new camera with USB ID 0x2770:0x913d. The
+basic functions of this camera are the same as those of the 0x2770:0x905c
+cameras which are the main ones supported in libgphoto2/camlibs/digigr8, but
+there are some small differences. For a complete description and discussion
+of the 0x2770:0x913D camera, therefore, the reader should also read 
+README.905C. Only the basic features and the differences with the 
+previously-supported 0x2770:0x905C cameras are listed here:
+Features of the Suprema Digital Keychain Camera:
+	-- 640x480 and 320x240 resolution settings
+	-- supports gphoto2 --capture-preview option (presumed that the size
+		of the output image can be adjusted in code, default
+`		320x240; see README.905C for details of that.
+	-- apparently does _not_ support multiframe AVI capability, or if so
+		it is not mentioned in the written manual. 
+	-- a setting does exist for shooting three frames with one shutter
+		press, but three only, not more. 
+	-- has a viewfinder and preview window on the back, which is very
+		pretty but presumably eats battery. 
+	-- saves photos in volatile SDRAM, so don't let the batteries die. 
+	-- permits deletion of individual photos on the camera, by pushing
+		some buttons. This feature is not present on the SQ905C 
+		cameras and is a big difference. Because of the way 
+		this deletion is done, the function which counts photos 
+		needed a serious rewrite to accommodate the deletion.
+		It will probably not ever be possible, unfortunately, to
+		support deletion of any photos or images on the camera, by
+		means of software control from the computer.
+	-- webcam functionality. The webcam function is supported by the
+		kernel. This camera library in libgphoto2 supports stillcam
+		functionality.
+As a further note, the gphoto2 --capture-image USB command when used with an
+0x2770:0x913D camera will _not_ delete the images already on the camera. This 
+means one does not have to worry about that happening; it also means that there
+is no way known to implement the gphoto2 -D option for these cameras. 
+On 10/13/07 I discovered that the Sakar Styleshot (Sakar ID no. 28290 or 28292) 
+is also supported, and I have added it to the list of cameras in library.c. 
+Aside from appearance, the main difference between the Styleshot and the 
+Suprema described above is that the Styleshot has an internal rechargeable 
+battery. 
+On 12/23/07 the Sakar Spiderman (no. 92045) has been reported by Martin Laberge 
+<mlsoft@videotron.ca>. THERE IS POTENTIAL NAME CONFUSION WITH THIS CAMERA. The
+Sakar Amazing Spiderman (no. 94044) has in it a JL2005C chip which is currently
+not supported in libgphoto2. Buyer beware! (Update 01/12/2012: Support for 
+all JL2005C cameras has been added to libgphoto2. The buyer need not "beware"
+any longer. However, it seems to remain true that SQ cameras take better than
+average pictures, relative to their low price range.)
+WARRANTY: 
+None. For a more complete discussion of this issue, the reader is referred to 
+README.905C and to the statements of the LGPL license regarding warranty. 
+Theodore Kilgore, 08/24/2007, revised 12/23/2007, 01/21/2008, 
+01/22/2008, 01/12/2012
+/* ADC-65(s) camera driver
+ * Released under the GPL version 2   
+ * Copyright 2001
+ * Benjamin Moos
+ * <benjamin@psnw.com>
+ * http://www.psnw.com/~smokeserpent/code/
+   This driver is for the serial version of the Achiever Digital Camera ADC-65.
+This camera is sold under various brand names, such as the "Easy Shot digit".
+These cameras take 15 photos at 256x256x24. They have an 8Mbit memory. They are
+very cheap, less than $30 at WalMart.
+   The ADC-65 has a very simple syntax. The driver only sends one-byte
+commands.
+Commands
+--------
+       0x30 : Ping the camera
+0x00 - 0x15 : Get a picture
+Responses
+---------
+0x15 0x30 0x00 : Ping response
+0x15 [n] [data]: Picture response.
+                 n = number of photos in memory + 1
+                 data = 64k of data (format not determined yet)
+	The windows software is extremely basic, and only uses these 17 command
+bytes. If any other commands are available, they will have to be found through
+experimentation.
+	Note that there is a "picture zero" which always exists whether or not any
+actual photos have been snapped. This seems most likely to be calibration data
+for the CMOS sensor. I haven't incorporated this data in my driver yet for two
+reasons; 1) I haven't decided on a good way to retain this data between picture
+downloads, and downloading it for each picture is too wasteful 2) We're talking
+about really minor adjustments, compared to the resolution loss we already get
+from converting 256x256x8 R1G2B1 data to 256x256x24 RGB. 
+	I have included the beginnings of some colorspace stuff in the colorspace.h
+and colorspace.c files. Right now all I'm using is the colorspaceRGB data
+structure, but will work on using this do some image enhancement in the future.
+	The hardest part of this project was figuring out the image format and I
+was often led astray by typos and small logic errors while reprogramming that
+portion of the code again and again (and again) due to the number of possible
+perturbations. Two packages were very helpful, netpbm and the Gimp. By using
+rawtopgm (from netpbm) I was able to visually analyze the data. Much better
+than trying to understand hexdumps :) I am inspired to write some kind of tool
+to help with analyzing this sort of data, perhaps interactively testing
+different possible encoding schemes.
+	I have based the skeleton of this driver on the "barbie" camera driver. I
+have also grabbed a lot of ideas from the dimera driver as well. So I am
+indebted to:
+	The Barbie Team
+	---------------
+	Scott Fritzinger <scottf@unr.edu>
+	Andreas Meyer <ahm@spies.com>
+	Pete Zaitcev <zaitcev@metabyte.com>
+	Jeff Laing <jeffl@SPATIALinfo.com>
+	The Dimera3500 Team
+	-------------------
+	Brian Beattie http://www.beattie-home.net
+	Chuck Homic <chuck@vvisions.com>
+	Dan Fandrich <dan@coneharvesters.com>
+	Gregg Berg <gberg@covconn.net>
+How to install this camlib:
+Copy the agfa-cl20 directory to ...../libgphoto2/camlibs
+Then, edit the file configure.in (in the libgphoto2 directory) on lines:
+148, and
+to include "agfa-cl20" in the list of driver names.
+THEN you can run "sh autoconf.sh"
+./configure --prefix=/usr --with-drivers=agfa-cl20
+make
+make install
+uX]s
+N-Tq
+=_xZ
+rk[@ "o
+,48>
+vqS2
+9lM`VXg
+I'Gc
+_-_}
+'cy-
+t`T?
+-uVe
+VGdj
+y;%*
+F]G?
+NV&9
+)fO\
+0?>9
+"+-B
+lZ*o
+\Bq+a
+\}+o
+\N4o1
+x*uP
+\9s#Iv
+Y2dL(
+J Y1
+c	f$
+75(*
+)B7U4\
+i[eZ
+TWOp_
+krr~
+0q}L
+MPzQ_7
+X8k3Z
+"L{.
++lf&Evr
+D6yV
+0 CK
+}w<Px
+J5:Q
+_W]v
+s[M.
+Qw|m
+h|MpI
+z;"@
+L&h0
+yL8(Gv
+&hDI
+VoSe
+ MO/s
+vgG9s
+kR}[
+Z1kJ 
+"vC$T
+0a%1^
+d,u5
+LW%a
+` 6@;
++(fa
+8R!u
+,/B_y
+K&ci
+eWfzXk
+mtxb
+5~R5
+t^v!
+'iP^
+4jgZ
+Vp7qV
+!6n:
+V@}Y
+%3ZY
+, |CxfI
+a>&z
+<2Pk
+4/tM5jNXMGX
+W5:*
+hdZN
+d]zjuX
+2Lsm
+P)\Z
+<9{-
+"\kF
+/7kz
+f]tD
+W)Du]`
+g0?u
+ITM!
+D.O7+
+t;E&
+Wt7t
+e?["C
+#{-[
+tc.c
+:r{m)m
+toZr
+(KYcJ!
+QxZ,
+Rkc*
+Eb*'uey
+:iq^
+lb5%P
+ipGWu
+?&5O
+A2oP*
+tQ+S
+BB7>w#
+8pqZ
+TzSD
+k/%*
+xJNB>
+4^<{
+7{6_
+4O}p~
+xx}?
+zc|z1
+Df4&ZB
+R$EQ+;
+Yafb8
+yfjR
+HMQ4
+FHle
+sq}/.
+;qq~}~7
+tmJH
+T=gz
+\,?x
+8;Z?
+I|IC
+cR|]
+u2<z
+ySGy
+[<zF
+HBbU
+wMIR
+^/%#<
+P*GZ4-P
+f&cJ
+Ls#@NM
+ghUx
+uB1g
+2n@og
+u_YV6
+;3kRc
+B4Z-
+>n3(r/
+'?TI
+%ENg
+k3<Q
+_+[!
+O`m}
+=?PVG
+HFVev
+N?ohg
+rn}_WN
+OF#'
+/* This is the README file for libgphoto2/camlibs/clicksmart310. This README 
+ * is an integral part of the libgphoto2/camlibs/clicksmart310 library source 
+ * code and is distributed with that source code under the LGPL license, a copy 
+ * of which license may be seen in any of the source files in 
+ * libgphoto2/camlibs/clicksmart310, 
+ * or in the head directory of libgphoto2. 
+ */ 
+The Logitech Clicksmart 310 camera is based upon a Sunplus spca50x chip, but 
+its command sequences are quite different from those cameras supported in 
+camlibs/spca50x. Hence, a separate library to support it. 
+The camera will do 352x288 and 176x144 resolution settings. The camera (not
+the driver software) compresses all photos in JPEG format. High-resolution 
+and low-resolution settings use different compression algorithms; not only are
+the low-resolution photos of smaller pixel dimensions, but they are also more
+highly compressed. 
+The hardware supports the following listed actions, all of which are 
+implemented here:
+-- JPEG photo format for both high-resolution and low resolution settings 
+-- download all photos (gphoto2 -P)
+-- download any selected list of photos (gphoto2 -p)
+-- delete all photos on camera
+-- shoot a clip, which is saved by the OEM driver as an AVI file and we 
+save the clip frames here as individual photos. If you want to see a movie
+from them, then try using the ImageMagick function "animate."
+The camera is "dual mode" and can also function as a webcam, supported by the 
+spca50x kernel module. All streaming video and all capture abilities of the 
+camera use isochronous data transmission and thus require support from 
+a kernel module. The hardware will not support the capture options of gphoto2. 
+The user should be aware that access to this camera through gphoto2 will
+fail if attempted with the spca50x kernel module already loaded. In that event 
+the kernel module will already have claimed the camera. Thus, if you have the 
+kernel module please make sure it is not installed. You may need to add 
+spca50x to  /etc/hotplug/blacklist to ensure that the module is not 
+automatically installed when the camera is plugged in.  
+Credits:
+Russell Bell <russell@rickstewart.com> has done extensive testing, and has 
+also participated in the coding. 
+Warranty: None.  
+Theodore Kilgore <kilgota@auburn.edu> 
+01/21/2006
+Olivier Fauchon <olivier@aixmarseille.com>
+Digital Dream Enigma 1.3 Driver 
+-------------------------------
+Compatible hardware 
+-------------------
+- Digital Dream Enigma 1.3
+Thanks 
+------
+- spca50x & blink2 developers for their code. It inspired me a lot.
+- Benoit Papillault for snoopy
+- Irc & mailing list people.
+GSMART 300 DRIVER FOR GPHOTO2
+=============================
+Note :	this camera is also know as "Casio LV-10",
+	under the same vendor and product IDs
+	(Model actually tested)
+This is a very basic camera which enables to take pictures,
+delete last picture or delete all pictures.
+Pictures (JPEG format) can be stored in two sizes : 640x480 or 320x240.
+In fact, this is not exactly true. The pictures are all 640x480,
+but the "smaller" ones are just poor quality, so that it becomes
+decent only after resizing to 320x240.
+Thumbnails are downloadable from the camera in YYUV format
+for "big" pictures ONLY.
+To perform these operations, the Windows driver uses an
+interpolation software which acts as this :
+For lower quality, 640x480 pictures are downloaded, and
+converted to 320x240. In the same way, 80x60 thumbnails
+are generated.
+For higher quality, 80x60 thumbnails are downloaded in YYUV
+and converted to bitmap. Strangely enough, 640x480
+picture are also converted into pictures of the same size
+by the interpolation software, resulting in a disk-size
+about 2 times greater ! (but no visible loss of quality)
+The gsmart300 driver for gphoto just outputs the higher quality
+pictures as they are stored in the camera, as well as bitmap
+thumbnails.
+Lower quality pictures are left 640x480, and no thumbnail
+is provided.
+me Lodewyck
+C*qQ
+v1&nhkS
+u8j7
+cpsn
+6%v3
+LSI(K
+6$`Y
+_Tjn Y
+s|?@
+.pM4F
+Er"=9
+)n%B"
+\mKLR&
+K<J)
+QI>+
+${AK>T
+q7[i
+Lvae
+-P%M
+N]:r}
+")jut
+%wgA
+F'&M
+KBGear JamCam v2 and v3
+This driver is based upon protocol reverse-engineered
+using Portmon and sniffusb under Windows 98.
+For questions/comments, email the library author:
+	Chris Pinkham
+	cpinkham@infi.net
+----------------------------------------------------------------
+TODO List
+---------
+	- Fix downloading of thumbnails from mmc card (serial and usb)
+	- better error checking/handling
+	- optimize code, it's nowhere near theoretical max download speed
+-----------------------------------------------------------------
+Author:
+	Chris Pinkham <cpinkham@infi.net>
+mY]w
+"!	1E
+.]sj
+sSv?
+;ekU
+*{gl
+x$He
+	&d$
+^-/o
+\-X#w
+zu0b\m
+feVR)]
+WOi)w
+gPD;
+6'1?6:
+RX9w/4@V
+K;ob
+Q[#C
+%o!@
+C]~\
+Tff4%
+FX6b*
+T#*J
+UBXa
+#{2ng
+X_I$
+i"vc
+cFz@
+q	xQ*7v
+W&Y'[
+d0E$
+nnO=
+Ytn*M<l  y
+2Dc`
+>& `!<
+,&Mb
+<`GD=
+G4lx
+6zz&
+JKZ_
+l,xd
+sh?>
+EB9{7
+:[ )
+97or
+Wfnmn6
+coH/
+e]&w
+zsqpP
+I9Xm
+6*%l*
+YGyl3
+eT&V
+ITd2
+#vJD
+"}n'
+fr~~4
+~6_f
+qSF1
+vSswq
+5_lG
+V4AL-
+/-~T
+]$ /
+zr^M\
+GigS
+LELE
+(EPzToT
+.`)2
+Rxw\lu 
+=QlS
+*`y9<80
+:\c 
+</!{ 
+7tuli
+8{O*
+%=>Q
+Fd_#P<I
+k41!
+&$o6
+CGP;
+	0OVC(
+Zi5*u
+eTv,
+F5-5
+'Tk!M2{
+cqYZ
+`WyA
+rtG/
+X|:s(
+WME~
+#NDC
+f52{
+JW)~
+	F@T5:
+o0eF
+;UDFm
+uS36
+r\{h
+aOSH
+Wf5k
+@'%Oz
+z6AQ
+JkX9K~
+0fEyC
+&O":3_
+N}c4
+eZ	G=
+2DiJD
+^K`|yr
+jtTwow
+M)"zB6
+QlSH
+24|m
+u]d#
+~OwiA
+R*@(7
+'1)x
+4aHa
+z-c]
+:Wm9~
+%[uF
++"}%
+q*wC
+zf"lr!uE?
+-}RV[
+~teig
+VF&}
+sYu.
+8')P)P)P
+ofy*
+6R!'7
+I)m_
+3<^5}M
+o?	q
+48RmM'
+%3E~	
+Q;i]<8~
+~h+(
+QY&x
+iZ2|
+MUU.L
+E6uGV[v
+\X0KD
+WiYn
+)`]0D&
+LYRio
+\IE `
+$fVzH
+MR+A
+#`NU
+`QS<y
+{yy{u'
+#?dU]
+<VobWA4
+R6$i[
+Y>s/
+.6nE
+EEiG
+P1Ys
+x2#Y
+H#UnF
+.mOh
+'vZw
+H/d?F
+['_	A
+F3=J
+xgDX
+2DtS
+9}cq
+sVPO
+M.Z}
+x6 K5U@8:
+$;&+
+p>Lf
+`J{/
+~/TF<%
+R/Mq
+u]JtE
+'Xtg
+kyg:9
+'9!0
+]	,J
+History
+-------
+This library is heavily based upon the work of Phill Hugo who based his work 
+heavily "on reverse engineering work by Jesper Skov and his Perl script of 
+similar functionality". Additionally, Konica has been very supportive by 
+issuing their own driver explaining the syntax of the commands. Konica even 
+responded to my questions and gave additional hints. Thank you!
+Supported Cameras
+-----------------
+ - HP PhotoSmart C20
+ - HP PhotoSmart C30
+ - HP PhotoSmart C200
+ - Konica Q-EZ
+ - Konica Q-M100
+ - Konica Q-M100V
+ - Konica Q-M200
+Features
+--------
+Lots of them :-) This driver supports all features that the 
+hardware offers except two commands for "testing" (I don't know the 
+syntax of those - could be for updating the camera's software).
+Licence
+-------
+This library is released under the terms of the GNU General Public Licence. 
+Please see the file COPYING for details.
+Reporting Bugs
+--------------
+If you find any, please report them to <gphoto-devel@lists.sourceforge.net>.
+Author
+------
+Lutz M
+ller <lutz@users.sourceforge.net>
+This is the driver for largan lmini camera. 
+It is still untested because I don't have the camera.
+This driver will download pictures from the LG T5100.
+This GSM/camera has Vendor:Product number 0x1004:0x6005.
+Other LG phones may have a similar behaviour (?).
+Here are only addressed camera features.
+For mp3 or videos, you may have a look at http://sf.net/projects/t5100-utils
+Some things which work for me, with various gphoto2 options:
+(TODO: check assumptions made here !!!)
+gphoto2 --summary : will report the total number of pictures. 
+gphoto2 -P : is functional.
+gphoto2 -p x-y : is functional, too, assuming there are at least y pictures in the camera and x <= y.
+gphoto2 --get-all-raw-data ???
+License:
+LGPL (see the head of the libgphoto2 source tree; this camera library is a 
+part of the libgphoto2 project).
+Warranty:
+None.
+Copyright by Guillaume Bedot, 2005.
+^fUw
+{;6w
+Ksr{
+6:.V
+2Y,ks
+~d.l
+IenO''
+Uo2[V
+Qt~u
+LVC3/
+<k4m
+BR/a
+yw0~:x?
+t|(76
+3uTOl
+%PDl
+\Y%U
+EKgPO
+Tq&'H
+]!d>
+ASU]
+EG;`
+"KELZr]
+V`vP
+`Ijg
+O#w>
+tKk<
+~^	g
+]DSK
+ L7#3A2
+ZX8,
+:;B&
+ZVAL ;
+i8D$
+>.0(
+$DuO
+Cs~uu
+KVVc
+?>y7>
+5%_`	
+bACv
+zK{y
+Yw@y
+[l7;
+W_~1?
+7phk
+^.%m
+v,}0
+aCAV%9
++:5I
+/`LB
+VQ-A
+48q5\
+#_hG
+\pLUz"
+PYmD
+,;B-
+B+P:
+`NiD
+};``
+C$y>*V
+X	1s
+'FQh
+b|MK
+JYz0
+1QL}p
+Iv>td
+0<Az]:o
+^o5s
+!/GA#
+Jv<f
+~Ck0
+Tr*SNF
+=%*@
+Z/sv_w
+This is a fresh driver for the Minolta Dimage V camera, which has since been
+discontinued by Minolta. This driver contains no code form my earlier efforts.
+The assistance of Minolta was very helpful in writing this driver; I was given
+a copy of the specification and told that I could "share it with the Linux
+community". I am interpreting this "sharing" as the GNU GPL. Minolta takes no
+responsibility for the information they provided me, which is perfectly fair.
+Please see the file COPYING for more information.
+Copies of the Dimage V transfer specification are available under the
+aforementioned "share" clause; I will mail them globally, and fax them
+anywhere in the US or Canada. A lot of the information is in the code
+itself, but sometimes the real spec is nice so readers can find my bugs.
+Minolta has made it clear that they do not wish to release further protocols,
+and recommend that users of unsupported systems purchase SmartMedia readers
+to transfer images.
+This library is far from complete. There are plenty of places where better
+sanity checking could be done. I will continue to work on it until I buy a
+newer camera ;>
+Notes on specific functions:
+    The capture function takes a picture, downloads it, and then deletes it.
+    This image is always named dv00000.jpg, since that holds with the naming
+    convention for the rest of the pictures, and simultaneously cannot be a
+    valid name for an image retrieved from the camera. Sometimes the deletion
+	of an image will fail after it has been retrieved; since reporting this
+	error would mean the entire capture process failed, I merely print a
+	message indicating which image needs to be deleted. This is, in my
+	opinion, preferable to losing the picture entirely.
+	The camera_init() function attempts to set the camera clock to the current
+	system time. If it fails, the init function can still succeed; I do not
+	believe that failing to set the clock should mean failure to initialize.
+	The same is true of the camera_exit() function.
+	At long last, the preview thumbnails finally work! The strange distortions
+	that were occurring previously have been eliminated, and I have been able
+	to retrieve accurate thumbnails reliably for the last several hundred
+	images. This puts this driver as the first that I know of that handles
+	the Dimage V thumbnail format; there were other programs to connect, but
+	all (including my earlier attempts) just gave up on the retrieved data.
+	More information on the file format can be obtained in the code itself.
+	Deleting all images is now implemented correctly. This beats iterating
+	across all of them, hands down.
+	Here are the pinouts for the serial cable:
+         _____________     /-----\
+         \ 5 4 3 2 1 /    / X X X \
+          \ 9 8 7 6 /     | 2 5 3 |
+           ---------      -| 8 7 |-
+                            -----
+--Gus Hartmann, <gphoto-dimagev@gus-the-cat.org>
+Driver for Mustek MDC 800 cameras by Henning Zabel <henning@uni-paderborn.de>
+The driver supports the rs232 and the USB interface of the
+Mustek MDC800 Digital Camera. It implements all function
+to download pictures, view their thumbnails or delete them.
+It is also possible to take photos with the library.
+In the GUI of this driver you can select some preferences 
+for this.
+On rs232 it is possible to use every supported Baudrate. The
+Baudrate is selectable in the GUI.
+History :
+10.01.2000 The Library was ported to the ne iolib. It uses also
+           the USB Interfave from Johannes Erdfeld. This makes it
+			  unnecessary to have a special Kernelmodul for the 
+			  Mustek.
+			  In camera.h there is added a new entry, so you can select
+			  wether you want to use USB or rs232. This is needed
+			  because the iolib does not support autodetection for this.
+19.11.1999 Autoprobe of the Baudrate when starting (opening) this
+           driver was added. This makes it possible to reopen the
+			  camera after an error, when the camera has been set
+			  to another baudrate than 57k.
+			  Automatic command retry has moved from rs232 to io, now
+			  it also touches usb.
+17.11.1999 Rewrite of the GUI: Some useless Function where deleted.
+           The GUI now uses ComboBoxes.
+			  Added support to select Baudrate of the camera in the GUI.
+07.11.1999 This lib was posted to gphoto, after adapting the GUI
+           from the earlier driver.
+$Id$
+Overview 
+--------
+	This  directory  contains  Panasonic   PV-DC1000  and  PV-DC1580  gPhoto
+	libraries.  In Europe, these models are known as NV-DC1000 and NV-DC1580
+	respectively.  To avoid confusion we simply write DC1000 and DC1580.
+	Both libraries are based on dc1000 utility,  written by Fredrik  Roubert
+	and Galen Brooks.  Despite  similarities in the two protocols  there are
+	two separate libraries, for DC1000 and DC1580 models respectively.
+	From the source code of Michael  McCormack's  Nikon  CoolPix 600 library
+	for  gPhoto1  it  follows  that  DC1580  and  Nikon  CP 600 use the same
+	protocol.  As of 28-th  July,  there are no reports if this Nikon  model
+	works or not with DC1580 library.
+Copyright
+---------
+	Copyright 
+ 2000 Mariusz Zynel <mariusz@mizar.org> (gPhoto port)
+	Copyright 
+ 2000 Fredrik Roubert <roubert@df.lth.se> (idea)
+	Copyright 
+ 1999 Galen Brooks <galen@nine.com> (DC1580 code)
+Changes
+-------	
+	* 18 September, 2001
+		- get rid of gp_port_(new|open|close|free)
+		- adapted to use filesystem provided in core
+	* 5 August, 2000
+		- filename based communication between library and core
+		- abilities accommodated to the new API
+	* 28 July, 2000
+		- added library for DC1000 series
+		- debugging messages revised
+		- new debug and error reporting functions
+		- incremental image downloading support added 
+	* 21 July, 2000
+		- image uploading function added
+		- Nikon CoolPix 600 added as it uses the same protocol 
+		  as DC1580
+	* 15 July, 2000
+		- introduction of Panasonic library in gPhoto2
+To be done
+----------
+	* Test DC1000 model.
+	* Setting the time and date of camera.
+	* Writing manual.
+Contact
+-------
+	* Mariusz Zynel - mariusz@mizar.org,  mariusz@math.uwb.edu.pl
+	* Fredrik Roubert -roubert@df.lth.se
+	* Galen Brooks - galen@nine.com
+References
+----------	
+	* gPhoto web pages:
+		http://www.gphoto.org
+		http://www.gphoto.com
+		http://gphoto.sourceforge.net/
+	* dc1000 web page:
+	 	http://www.df.lth.se/~roubert/dc1000/
+	* Panasonic DC1000 PalmCam communication protocol:
+	 	http://pelletiernet.com/PalmCam/PalmCam-Protocol.html
+Panasonic KXL-600A and KXL-601A a.k.a. "Coolshot"
+This driver is based upon protocol reverse-engineered
+using ComLite32 under Windows 95.
+For questions/comments, email the library author:
+	Chris Pinkham
+	cpinkham@infi.net
+TODO List
+---------
+- file upload capability
+- better error checking ("fixme"s) & recovery
+- modify coolshot_file_count to return GP_ code and take *count as argument
+	Comment by Lutz <lutz@users.sf.net>: Why? Throughout libgphoto2,
+	we say that negative return values are errors. That is, we do
+	CHECK_RESULT (pic_num = count_pictures (camera)); everywhere and let
+	CHECK_RESULT test for a return value < 0.
+Panasonic PV-L859-K/PV-L779-K Palmcorder
+Panasonic introduced image capturing technology
+called PHOTOSHOT for the first time to this series
+of Palmcorders.  Images are stored in JPEG format on
+an internal flashcard and can be transferred to a
+computer through the built-in serial port.  Images
+are saved in one of two resolutions; NORMAL is
+320x240 and FINE is 640x480.  The CCD device which
+captures the images from the lens is only 300K and
+thus produces only low quality pictures.
+Panasonic provided no specifications for the creation
+of this driver (although a request was made).  The
+protocol was reverse engineered using ComLite32 under
+windows while using the bundled Digital PhotoShot
+application.  I hope to include with this driver, in
+the future, a document that outlines the protocol.
+If you have any questions regarding this driver, you
+can contact me at aselkirk@mailandnew.com
+Andrew...
+What is it?
+-----------
+This is a camlib supporting the Intel PC Cam 300 camera and possibly others
+based on the same chip, namely the SunPlus spca500a. It was implemented using
+information obtained by sniffing the usb bus on Windows, disassembling the
+windows driver dll's and some guesswork. 
+It is losely based on the pccam600 camlib and contains some code from that.
+Features
+--------
+It currently supports downloading of images and deleting all files on the
+camera.
+TODO
+____
+- Figure out the avi and wav formats and support them. 
+- Thumbnails? Can the cam do them?
+Authors
+-------
+Till Adam <till@adam-lilienthal.de>
+Miah Gregory <mace@darksilence.net>
+Thanks
+------
+Pedro de Oliviera <falso@rdk.homeip.net> - Testing and feedback
+This software is based upon usbsniffing, and therefore is
+marked EXPERIMENTAL.
+The format of the WAV file is IMA ADPCM (code=0x11) also called DVI ADPCM,
+and can be converted with sox -i inputfile outputfile.	
+The format of the RAW files is unknown so if anyone finds/knows a way 
+to decode it please contact me.
+This driver is imported from the pkremote project.
+http://sf.net/projects/pkremote/
+It uses special SCSI commands tunneled over USB Mass 
+Storage to control the camera.
+i6SF
+*=|zD
+w'lgmp
+astqqqkG
+{9'>
+^XL#
+"DCe
+d$Wh9M
+w66*
+t71]
+14G]
+`EOM
+a80T
+m5xn
+c#[j
+VW8YH
+R`^G
+"#-V
+]c.F
+^#d7i
+P;OR
+jpZeU
+RL\D
+F1~M!
+2-%H
+597pj
+pE^1
+L:xp
+Smal Ultrapocket 
+(fuji @xia slimshot)
+___________________________________________________________________
+This driver is based on packet sniffs of protocol observed under
+Windows 2000, and is known to be incomplete.  Minimal functionality
+is implemented as of the Experimental version.
+RAW images as retrieved from the camera require a not insignificant
+amount of post processing.  Enabling #DO_GAMMA in ultrapocket.h
+helps, but more work is required.
+___________________________________________________________________
+The author takes no responsibility for damage to your camera from
+using this driver.  Use at your own risk.
+___________________________________________________________________
+TODO:
+- Battery status
+- Firmware information
+- Current resolution information
+- Determine what (if anything) the camera passes as image 
+modification parameters (Gamma, etc).
+- At the moment, the Logitech driver stores images as .VGA and .XGA
+not .PPM
+___________________________________________________________________
+Author: Lee Benfield (lee@benf.org)
+Thanks: Vasileios Zografos, Dave Scott, Matthias Scherrer
+This code borrows heavily from the sipix web2 driver available with
+gphoto.  Thanks, guys ;)
+*G$.};
+t|yBg
+^j8P
+)tmp
+uxDg
+O?=|{
+d<KUu
+B<Id<
+x3N_
+ONre
+*Wi<
+5^0<f!
+SrWJ
+#ZKZ
+x24n
+o)OB
+Jvh	
+/2Qs
+vChk8
+".J+E
+M@Yd)
+Wb)o
+ x6O
+]?k4m
+O8JQ
+>3=TP
+lsvq
+B(:-
+-Jn8
+HnRY{v1
+Xy^Ac
+H@t=
+;XhRmW
+ht(:
+A-uS
+OnxR
+*d1`t
+pU%!
+hk-<
+1c?4
+trqz6
+Camera is freshly updated and new.
+- Image download works
+- --summary works
+This directory contains drivers for camerase that use the
+Sound Vision Inc (http://www.soundvisioninc.com)
+"Clarity 2" Chipset.
+The Agfa ePhoto CL18 type cameras are an earlier design known
+as the "1307" which support 640x480 and USB only.
+The Tiger FastFlicks type design is the "V1 Low-Cost Dual Mode VGA 
+Digital Camera" which can do many resolutions, short MOV movies,
+and complact-flash of a sort.
+Sound Vision licences the design to many companys, hence
+the wide variety of brands supported by this driver.
+Sound Vision refuses to release documentation, so this driver is based
+entirely on reverse-engineering USB transactions.
+List of Cameras known to work with this driver:
+   Agfa ePhoto CL18
+   Mustek gSmart 350
+   RCA CDS1005
+   Ixla DualCam 640
+   Argus:DC-2200
+   CoolCam CP086
+   FujiFilm @xia iX-100   (or "Axia ix-100")
+   Media-Tech mt-406
+   Oregon Scientific DShot II
+   Oregon Scientific DShot III
+   Scott APX 30
+   StarCam CP086
+   Tiger Fast Flicks
+Cameras that might work with the proper USB ID's or are unverified to work:
+   Digital Dreams l'elite
+   Eye Q3X Digital
+   Polaroid MP3
+   Pretec DC530
+$1$< 
+r4#i+
+d;t>
+UhdL>
+?;}#.
+.{	T
+-/Mk
+&:/{
+h(r,
+`tdT+E^M
+RLA#
+brd[D?
+;$rr
+DvUC
+Ihb#
+S&XZ@1T;
+\<I1%_OD
+vH=p
+B~0T8
+:el,
+e1=)
+Zx]w
+/>m 
+<6DwK
+O\W6
+Wr?e
+hlJx 8B~
+.jCMk1
+M{;G
+>8`U
+q2pu
+E.Q[M
+ p&7
+34X5
+AzE0q
+p4?U
+EriI
+koo/g
+C| K
+xzv2
+ERdv
+P*\Z
+|S,|V
+|HKK
+"V&>V
+nb7iY
+h*X*l
+{51n
+ua E
+%uSb
+&^QU
+#>ZDr
+53DEW2
+gepfW
+D"$s
+m,.5
+!L]T
+P	,C
+^][\
+1zVj
+W4=:#%
+I0U	Q;{
+Jq dn
+aQ_]
+74d5
+ ipf,`4
+FFG,Z
+36Vd
+w09A
+kyh4:/=R
+vq~t
+b6%iF
+Dj!:hfm
+.'vv}a
+Cst$	
+/oSY
+w_5%
+jP}dz
+__MB
+~oBHi
+/*w8
+s?| n
+m"`j
+7X(. 
+6KuP
+Iz/N3
+6nGc
+RB&~
++=76
+#)wR
+x{Q	2
+|E4z
+M.#!
+HX,L
+s0[,|
+!j0Nz
+ue7R
+%Ne}Zk
+.=fkj
+vWEy
+7\&r=z#!
+dl{c!n
+u5y1
+td r^
+Z!(D
+TLnr
++34a
+vw$n
+2@9Tm
+8f%e
+dijFm
+uxBtp>
+F+!f
+k"7%
+!KlqWc
+pU}Q
+$;:*
+9Z)_
+,VFo 
+6)]|
+QLom
+K4^e
+5#<Fw
+rrv|
+About this driver
+=================
+This driver allows you to upload / download and delete pictures from
+Sitronix st2205 based picture frames. This are small, cheap picture
+frames with a 1.1, 1.5, 1.8 or 2.4 inch display and a USB id of 1403:0001
+st2205 based frames present themselves as a regular usb mass storage device,
+but cannot be used as a normal disk! Communication with the device happens by
+a special protocol which consist of reading / writing sectors of the disk at
+certain magic offsets. This driver uses the special "usbdiskdirect" port
+driver, which allows the direct sector access the camlib for these devices
+needs.
+About the st2205 access protocol
+================================
+The protocol for these devices was reverse engineered by Jeroen Domburg, who
+has created a hack which allows directly displaying an image on them from the
+PC (IOW using these picture frames as a second monitor). See the spritesmods
+wiki: http://picframe.spritesserver.nl/ . Many thanks to Jeroen for this work,
+on which this camlib is based!
+The protocol basically allows raw access to the flash chip on the picture
+frame, for example you need to do separate erase and program commands, and
+as an erase block is larger then what you program in a single program command
+you must make sure to always reprogram the entire range the single erase
+command cleared (and read the entire range before clearing, so you can write
+it back).
+About the st2205 image compression
+==================================
+See README.st2205-compression.
+Wti3dBB|
+yOEf
+U!Mc
+l!R9
+M"g>`Y3
+1$.#
+(P76
+~ILF=A
+bc2L
+Ry&M2
+< #ho
+XDh$
+wpCQ-
+Q$B5I
+XYz2n
+T(R0
+ "	<N
+l>"e
+4ESR
+m$@B
+A$d(
+pv@8
+Mojn
+/2K/_
+[b,Sy/]
+..FE
+g}~@
+$:9Y
+p>5wh?Fa
+ro#o
+3(qq'J\
+3(Qz+
+{vuyO,
+m+bo
+R;yr
+}GEi
+~*uGq
+sqtO
+{>&w
+9e~\
+r]AQ8
+~3Uk
+x9[;
+(fZ6
+{#Gz
+QP0{
+ wZ:'
+wB%i
+BY-`?{<,
+7jS)
+>rUX
+^=9?=}
+ 4xJG1p]
+<,*lo
+S~]^
+m&X+
+W<N"XR"w
+,u;.
+vEv/lG
+JS]<{d
+pNU|
+This is the driver for the toshiba pdr-m11 camera.  It's not the greatest
+camera, but it is enough for me.
+What works:
+I can get a list of filenames, download jpeg thumbnails, and download all files
+What doesn't work:
+Tiff thumbnails don't work.  Deleting a file only works sometimes.
+The camera appears to be a 16bit little-endian processor (based on guesses from the data it sends back.)
+--------SIGNALS--------------------
+-signal-----length-----read/write---------data----------------
+1f40		0	w		(used in init)
+1f30		0	w		(used in init)
+9300		0	w		(sent right before retrieving a picture)
+9b00		0	w		(sent right before retrieving a thumbnail)
+ad00		8	r		30 01 <2picNum> <jpeg/tiff> 00 00 00
+ae00		2	w		01 00		(always follows a b200)
+b200		2	w		<2picNum>	(select a picture)
+b600		10	r		00 00 <number of pictures> 00 ?? ?? ?? ??
+b900		26	r		00 00 <12filename> 20 00 20 00 <4LengthOfPic> 64 46 3f 2e
+ba40		2	r		00 00 (used in delete)
+bf01		2	r		00 00
+d000		4	r		01 30 00 25	(check if camera is ready? (30 and 00 don't change 01 and 25 signal ready)
+e600		14	r		?? ?? ?? ?? ?? ?? ?? <2ThumbSize> ?? ?? ?? ?? ??
+d700		0	w		ping
+d800		0	w		ping (there is a d800 followed by a d701)
+d701		0	w		(ping?)
+About this driver
+=================
+This driver allows you to upload / download and delete pictures from
+Tenx TP6801 based picture frames. This are small, cheap picture frames with a
+1.1, 1.5 or 1.8 inch display. Currently this driver only supports the following
+models:
+Insignia NS-KEYXX10 (0168:3011)
+I would very much like to extend the list of supported models, if you've
+a picture frame which you think is Tenx TP68xx based please drop me a mail
+at hdegoede@redhat.com
+TP6801 based frames present themselves as a usb mass storage cdrom, which
+contains the windows software. Communication with the device happens by
+issuing special (custom) scsi commands. This driver uses the special
+"usbscsi" port driver, which allows sending the custom scsi commands.
+About the TP6801 access protocol
+================================
+Accessing the pictures uses scsi opcodes, in the vendor specific range,
+for accessing the onboard flash memory the following 3 opcodes are used:
+0xc1 Read
+0xc6 Erase Block (64k)
+0xcb Program page (256 bytes)
+Each opcode is followed by the magic sequence 0x11 0x31 0x0f 0x30 0x01 and
+then the number of bytes to read / write (0 for erase block) in 16bit BE
+format, followed by the (start)address for the operation in 24bit BE format.
+The SCB is further padded out with 0-s to 16 bytes.
+There also is an opcode for setting the time of the photo frame, 0xca,
+this opcode is followed by the same magic sequence 0x11 0x31 0x0f 0x30 0x01
+and then 1 byte each for hour, minute, seconds, year (no centuries), month
+and day of month, and again further padding to 16 bytes with 0-s.
+TP6810 memory map
+=================
+All addresses are in hex!
+000000-001dff	Looks font-ish, may be the battery charging icon
+001e00-001e3f	Picture Allocation Table, each byte refers to the location in
+		the picture memory at the same index (multiplied by imagesize).
+		A value between 1 and max-pictures indicates the corresponding
+		location contains picture nr value, 0xfe means it contains a
+		deleted picture, 0xff means it contains pre-erased memory
+		(this allows uploading a new picture without needing an erase).
+001e40-001e7f	Unknown, maybe settings (text color, etc).
+001e80-001ebf	"Tnex TP6801 Image File System Signature" but then reversed
+007c00-007fff	Website url the windows app automatically opens on insert
+008000-00dfff	Font
+010000-19ffff	Pictures in rgb565 format
+1a0000-1a0003	USB vid:pid first pid then vid
+1a0020-1a003f	SCSI model string
+1a0100-1f5fff	ISO img for emulated cdrom, minus first 32k (which is all 0).
+1f6000-1fffff	Power on logo in rgb565 format (same as pictures)
+Hans de Goede <hdegoede@redhat.com>
+13 June 2011

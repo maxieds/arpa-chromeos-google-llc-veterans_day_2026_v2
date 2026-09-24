@@ -1,0 +1,37 @@
+tar: Removing leading `/' from member names
+/opt/google/cros-containers/bin/chunnel
+tar: Removing leading `/' from hard link targets
+/opt/google/cros-containers/bin/chunnel.elf
+/opt/google/cros-containers/bin/core2md
+/opt/google/cros-containers/bin/core2md.elf
+/opt/google/cros-containers/bin/crash_reporter
+/opt/google/cros-containers/bin/crash_reporter.elf
+/opt/google/cros-containers/bin/crostini_metric_reporter
+/opt/google/cros-containers/bin/crostini_metric_reporter.elf
+/opt/google/cros-containers/bin/garcon
+/opt/google/cros-containers/bin/garcon.elf
+/opt/google/cros-containers/bin/guest_service_failure_notifier
+/opt/google/cros-containers/bin/guest_service_failure_notifier.elf
+/opt/google/cros-containers/bin/maitred
+/opt/google/cros-containers/bin/maitred.elf
+/opt/google/cros-containers/bin/notificationd
+/opt/google/cros-containers/bin/notificationd.elf
+/opt/google/cros-containers/bin/port_listener
+/opt/google/cros-containers/bin/port_listener.elf
+/opt/google/cros-containers/bin/sommelier
+/opt/google/cros-containers/bin/sommelier.elf
+/opt/google/cros-containers/bin/upgrade_container
+/opt/google/cros-containers/bin/vmmms_client
+/opt/google/cros-containers/bin/vmmms_client.elf
+/opt/google/cros-containers/bin/vm_syslog
+/opt/google/cros-containers/bin/vm_syslog.elf
+/opt/google/cros-containers/bin/vshd
+/opt/google/cros-containers/bin/vshd.elf
+/opt/google/cros-containers/bin/wayland_demo
+/opt/google/cros-containers/bin/wayland_demo.elf
+/opt/google/cros-containers/bin/x11_demo
+/opt/google/cros-containers/bin/x11_demo.elf
+/opt/google/cros-containers/bin/xkbcomp
+/opt/google/cros-containers/bin/xkbcomp.elf
+/opt/google/cros-containers/bin/Xwayland
+/opt/google/cros-containers/bin/Xwayland.elf

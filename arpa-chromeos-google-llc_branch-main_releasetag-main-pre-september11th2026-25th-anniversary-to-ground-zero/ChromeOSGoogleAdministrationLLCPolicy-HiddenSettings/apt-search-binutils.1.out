@@ -1,0 +1,236 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Sorting...
+Full Text Search...
+binutils/oldstable 2.40-2 arm64
+  GNU assembler, linker and binary utilities
+
+binutils-aarch64-linux-gnu/oldstable 2.40-2 arm64
+  GNU binary utilities, for aarch64-linux-gnu target
+
+binutils-aarch64-linux-gnu-dbg/oldstable 2.40-2 arm64
+  GNU binary utilities, for aarch64-linux-gnu target (debug symbols)
+
+binutils-arc-linux-gnu/oldstable 2.40-2 arm64
+  GNU binary utilities, for arc-linux-gnu target
+
+binutils-arc-linux-gnu-dbg/oldstable 2.40-2 arm64
+  GNU binary utilities, for arc-linux-gnu target (debug symbols)
+
+binutils-arm-linux-gnueabi/oldstable 2.40-2 arm64
+  GNU binary utilities, for arm-linux-gnueabi target
+
+binutils-arm-linux-gnueabi-dbg/oldstable 2.40-2 arm64
+  GNU binary utilities, for arm-linux-gnueabi target (debug symbols)
+
+binutils-arm-linux-gnueabihf/oldstable 2.40-2 arm64
+  GNU binary utilities, for arm-linux-gnueabihf target
+
+binutils-arm-linux-gnueabihf-dbg/oldstable 2.40-2 arm64
+  GNU binary utilities, for arm-linux-gnueabihf target (debug symbols)
+
+binutils-arm-none-eabi/oldstable 2.40-2+18+b1 arm64
+  GNU assembler, linker and binary utilities for ARM Cortex-R/M processors
+
+binutils-avr/oldstable 2.26.20160125+Atmel3.6.2-4 arm64
+  Binary utilities supporting Atmel's AVR targets
+
+binutils-bpf/oldstable 2.40-2+1 arm64
+  GNU binary utilities for bpf
+
+binutils-common/oldstable 2.40-2 arm64
+  Common files for the GNU assembler, linker and binary utilities
+
+binutils-dev/oldstable 2.40-2 arm64
+  GNU binary utilities (BFD development files)
+
+binutils-djgpp/oldstable 2.35.1+dfsg-2 arm64
+  Cross-binutils for DOS using DJGPP
+
+binutils-doc/oldstable 2.40-2 all
+  Documentation for the GNU assembler, linker and binary utilities
+
+binutils-for-build/oldstable 2.40-2 all
+  GNU assembler, linker and binary utilities for the build architecture
+
+binutils-for-host/oldstable 2.40-2 arm64
+  GNU assembler, linker and binary utilities for the host architecture
+
+binutils-h8300-hms/oldstable 2.16.1-10+b2 arm64
+  GNU binary utilities, for h8300-hitachi-coff target
+
+binutils-i686-linux-gnu/oldstable 2.40-2 arm64
+  GNU binary utilities, for i686-linux-gnu target
+
+binutils-i686-linux-gnu-dbg/oldstable 2.40-2 arm64
+  GNU binary utilities, for i686-linux-gnu target (debug symbols)
+
+binutils-m68hc1x/oldstable 1:2.40+3.5.0 arm64
+  GNU binary utilities for Motorola's 68HC11/12 targets
+
+binutils-mingw-w64/oldstable 2.40-2+10.4 all
+  Cross-binutils for Win32 and Win64 using MinGW-w64
+
+binutils-mingw-w64-i686/oldstable 2.40-2+10.4 arm64
+  Cross-binutils for Win32 (x86) using MinGW-w64
+
+binutils-mingw-w64-x86-64/oldstable 2.40-2+10.4 arm64
+  Cross-binutils for Win64 (x64) using MinGW-w64
+
+binutils-mips-linux-gnu/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mips-linux-gnu target
+
+binutils-mips-linux-gnu-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mips-linux-gnu target (debug symbols)
+
+binutils-mips64-linux-gnuabi64/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mips64-linux-gnuabi64 target
+
+binutils-mips64-linux-gnuabi64-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mips64-linux-gnuabi64 target (debug symbols)
+
+binutils-mips64-linux-gnuabin32/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mips64-linux-gnuabin32 target
+
+binutils-mips64-linux-gnuabin32-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mips64-linux-gnuabin32 target (debug symbols)
+
+binutils-mips64el-linux-gnuabi64/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mips64el-linux-gnuabi64 target
+
+binutils-mips64el-linux-gnuabi64-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mips64el-linux-gnuabi64 target (debug symbols)
+
+binutils-mips64el-linux-gnuabin32/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mips64el-linux-gnuabin32 target
+
+binutils-mips64el-linux-gnuabin32-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mips64el-linux-gnuabin32 target (debug symbols)
+
+binutils-mipsel-linux-gnu/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsel-linux-gnu target
+
+binutils-mipsel-linux-gnu-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsel-linux-gnu target (debug symbols)
+
+binutils-mipsisa32r6-linux-gnu/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa32r6-linux-gnu target
+
+binutils-mipsisa32r6-linux-gnu-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa32r6-linux-gnu target (debug symbols)
+
+binutils-mipsisa32r6el-linux-gnu/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa32r6el-linux-gnu target
+
+binutils-mipsisa32r6el-linux-gnu-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa32r6el-linux-gnu target (debug symbols)
+
+binutils-mipsisa64r6-linux-gnuabi64/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa64r6-linux-gnuabi64 target
+
+binutils-mipsisa64r6-linux-gnuabi64-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa64r6-linux-gnuabi64 target (debug symbols)
+
+binutils-mipsisa64r6-linux-gnuabin32/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa64r6-linux-gnuabin32 target
+
+binutils-mipsisa64r6-linux-gnuabin32-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa64r6-linux-gnuabin32 target (debug symbols)
+
+binutils-mipsisa64r6el-linux-gnuabi64/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa64r6el-linux-gnuabi64 target
+
+binutils-mipsisa64r6el-linux-gnuabi64-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa64r6el-linux-gnuabi64 target (debug symbols)
+
+binutils-mipsisa64r6el-linux-gnuabin32/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa64r6el-linux-gnuabin32 target
+
+binutils-mipsisa64r6el-linux-gnuabin32-dbg/oldstable 2.40-2cross2 arm64
+  GNU binary utilities, for mipsisa64r6el-linux-gnuabin32 target (debug symbols)
+
+binutils-multiarch/oldstable 2.40-2 arm64
+  Binary utilities that support multi-arch targets
+
+binutils-multiarch-dbg/oldstable 2.40-2 arm64
+  Binary utilities that support multi-arch targets (debug symbols)
+
+binutils-multiarch-dev/oldstable 2.40-2 arm64
+  GNU binary utilities that support multi-arch targets (BFD development files)
+
+binutils-or1k-elf/oldstable 2.40-2+1.0.7+b1 arm64
+  GNU binary utilities for the Open RISC 1000 processors
+
+binutils-powerpc64le-linux-gnu/oldstable 2.40-2 arm64
+  GNU binary utilities, for powerpc64le-linux-gnu target
+
+binutils-powerpc64le-linux-gnu-dbg/oldstable 2.40-2 arm64
+  GNU binary utilities, for powerpc64le-linux-gnu target (debug symbols)
+
+binutils-riscv64-linux-gnu/oldstable 2.40-2 arm64
+  GNU binary utilities, for riscv64-linux-gnu target
+
+binutils-riscv64-linux-gnu-dbg/oldstable 2.40-2 arm64
+  GNU binary utilities, for riscv64-linux-gnu target (debug symbols)
+
+binutils-riscv64-unknown-elf/oldstable 2.40-2+4+b1 arm64
+  GNU assembler, linker and binary utilities for Risc-V processors
+
+binutils-s390x-linux-gnu/oldstable 2.40-2 arm64
+  GNU binary utilities, for s390x-linux-gnu target
+
+binutils-s390x-linux-gnu-dbg/oldstable 2.40-2 arm64
+  GNU binary utilities, for s390x-linux-gnu target (debug symbols)
+
+binutils-sh-elf/oldstable 2.40+2+b1 arm64
+  GNU binary utilities for embedded SuperH devices
+
+binutils-source/oldstable 2.40-2 all
+  GNU assembler, linker and binary utilities (source)
+
+binutils-x86-64-linux-gnu/oldstable 2.40-2 arm64
+  GNU binary utilities, for x86-64-linux-gnu target
+
+binutils-x86-64-linux-gnu-dbg/oldstable 2.40-2 arm64
+  GNU binary utilities, for x86-64-linux-gnu target (debug symbols)
+
+binutils-x86-64-linux-gnux32/oldstable 2.40-2 arm64
+  GNU binary utilities, for x86-64-linux-gnux32 target
+
+binutils-x86-64-linux-gnux32-dbg/oldstable 2.40-2 arm64
+  GNU binary utilities, for x86-64-linux-gnux32 target (debug symbols)
+
+binutils-xtensa-lx106/oldstable 2.40-2+5+b1 arm64
+  GNU binary utilities, for Xtensa lx106 core
+
+binutils-z80/oldstable 2.40-2+4+b17 arm64
+  GNU binary utilities for the z80-unknown-coff target
+
+cargo-binutils/oldstable 0.3.5-2+b2 arm64
+  Proxy for LLVM tools like llvm-nm, llvm-objdump and llvm-size
+
+faucc/oldstable 20180503-1.1 arm64
+  C compiler generating Intel code for 16bit/32bit CPUs
+
+forensics-extra/oldstable 2.44 all
+  Forensics Environment - extra console components (metapackage)
+
+golang-github-google-pprof-dev/oldstable 0.0~git20211008.947d60d-1 all
+  pprof is a tool for visualization and analysis of profiling data
+
+hobbit-plugins/oldstable 20230301 all
+  plugins for the Xymon network monitor
+
+libbinutils/oldstable 2.40-2 arm64
+  GNU binary utilities (private shared library)
+
+libbinutils-dbg/oldstable 2.40-2 arm64
+  GNU binary utilities (private shared library, debug symbols)
+
+librust-cargo-binutils-dev/oldstable 0.3.5-2+b2 arm64
+  Proxy for LLVM tools like llvm-nm, llvm-objdump and llvm-size - Rust source code
+
+pax/oldstable 1:20201030-1 arm64
+  Portable Archive Interchange (cpio, pax, tar)
+

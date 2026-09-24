@@ -1,0 +1,107 @@
+=== System === 
+
+--- System Info ---
+Snapshot Time: 8/1/26, 11:32:06 AM CDT
+Board Name: rusty
+Marketing Name: 
+CpuModel Name: MediaTek Kompanio 520
+Total Memory (kib): 4194304
+Thread Count:  8
+Cpu Max Clock Speed (kHz):  2050000
+Version: 150.16700.0
+Has Battery: true
+
+--- Battery Charge Status ---
+Battery State: kFull
+Power Source: kAc
+Power Time: 
+Current Now (mA): 0
+Chage Now (mAh): 4322
+
+--- Battery Health ---
+Charge Full Now (mAh): 4322
+Charge Full Design (mAh): 4156
+Cycle Count: 4
+Wear Percentage: 103
+
+--- Memory Usage ---
+Total Memory (kib): 4194304
+Available Memory (kib): 2315240
+Free Memory (kib): 94260
+
+--- Cpu Usage ---
+Usage User (%): 3
+Usage System (%): 3
+Usage Free (%): 93
+Avg Temp (C): 38
+Current scaled frequency (kHz): 774000
+
+
+--- Test Routines --- 
+
+8/1/26, 11:28:56 AM - Memory - Started
+8/1/26, 11:29:11 AM - Inflight Routine Cancelled
+
+=== Networking === 
+
+--- Network Info ---
+
+Name: NoMachineNYToChicago
+Type: WiFi
+State: Online
+Active: True
+MAC Address: 44:FA:66:1F:BB:D7
+Signal Strength: 100
+Frequency: 2442
+SSID: NoMachineNYToChicago
+BSSID: C6:D8:EB:03:79:DB
+Security: PSK (WPA or RSN)
+Gateway: 192.168.155.147
+IP Address: 192.168.155.85
+Name Servers: 192.168.155.147
+Subnet Mask: 255.255.255.0
+
+--- Test Routines --- 
+
+8/1/26, 11:29:11 AM - GatewayCanBePinged - Started
+8/1/26, 11:29:15 AM - GatewayCanBePinged - Passed
+8/1/26, 11:29:15 AM - LanConnectivity - Started
+8/1/26, 11:29:16 AM - LanConnectivity - Passed
+8/1/26, 11:29:16 AM - ArcPing - Started
+8/1/26, 11:29:17 AM - ArcPing - Passed
+8/1/26, 11:29:17 AM - DnsResolverPresent - Started
+8/1/26, 11:29:18 AM - DnsResolverPresent - Passed
+8/1/26, 11:29:18 AM - DnsResolution - Started
+8/1/26, 11:29:19 AM - DnsResolution - Passed
+8/1/26, 11:29:19 AM - DnsLatency - Started
+8/1/26, 11:29:20 AM - DnsLatency - Passed
+8/1/26, 11:29:20 AM - ArcDnsResolution - Started
+8/1/26, 11:29:21 AM - ArcDnsResolution - Passed
+8/1/26, 11:29:21 AM - SignalStrength - Started
+8/1/26, 11:29:22 AM - SignalStrength - Passed
+8/1/26, 11:29:22 AM - CaptivePortal - Started
+8/1/26, 11:29:23 AM - CaptivePortal - Passed
+8/1/26, 11:29:23 AM - HasSecureWiFiConnection - Started
+8/1/26, 11:29:24 AM - HasSecureWiFiConnection - Passed
+8/1/26, 11:29:24 AM - HttpsFirewall - Started
+8/1/26, 11:29:26 AM - HttpsFirewall - Passed
+8/1/26, 11:29:26 AM - HttpFirewall - Started
+8/1/26, 11:29:27 AM - HttpFirewall - Passed
+8/1/26, 11:29:27 AM - HttpsLatency - Started
+8/1/26, 11:29:28 AM - HttpsLatency - Passed
+8/1/26, 11:29:28 AM - ArcHttp - Started
+8/1/26, 11:29:30 AM - ArcHttp - Failed
+8/1/26, 11:29:30 AM - GoogleServicesConnectivity - Started
+8/1/26, 11:29:41 AM - GoogleServicesConnectivity - Passed
+
+--- Network Events ---
+
+8/1/26, 11:29:11 AM - WiFi network [44:FA:66:1F:BB:D7] started in state Online
+
+=== Keyboard === 
+
+8/1/26, 11:31:48 AM - Key press test - cros_ec
+Key code: 29, Scan code: 32
+Key code: 120, Scan code: 18
+Key code: 29, Scan code: 32
+Key code: 15, Scan code: 33

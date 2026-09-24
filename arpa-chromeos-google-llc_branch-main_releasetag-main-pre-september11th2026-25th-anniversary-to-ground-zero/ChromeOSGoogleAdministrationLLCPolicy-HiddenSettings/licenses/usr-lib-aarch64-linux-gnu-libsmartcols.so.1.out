@@ -1,0 +1,2350 @@
+4f	k
+A1$.
+kKGs
+?=ng7
+;vUW
+|llid
+;5p9]
+Ze.	cx{~
+9<Ds
+KV+`
+?jQS
+|5I	 N
+=q#w
+__gmon_start__
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+__cxa_finalize
+scols_new_iter
+calloc
+scols_free_iter
+scols_reset_iter
+scols_iter_get_direction
+scols_new_symbols
+scols_ref_symbols
+scols_unref_symbols
+scols_symbols_set_branch
+strdup
+scols_symbols_set_vertical
+scols_symbols_set_right
+scols_symbols_set_title_padding
+scols_symbols_set_cell_padding
+scols_symbols_set_group_vertical
+scols_symbols_set_group_horizontal
+scols_symbols_set_group_first_member
+scols_symbols_set_group_last_member
+scols_symbols_set_group_middle_member
+scols_symbols_set_group_last_child
+scols_symbols_set_group_middle_child
+scols_copy_symbols
+__assert_fail
+__stack_chk_guard
+stderr
+fwrite
+fputc
+__fprintf_chk
+__stack_chk_fail
+scols_reset_cell
+scols_cell_set_data
+scols_cell_refer_data
+scols_cell_get_data
+scols_cell_set_userdata
+scols_cell_get_userdata
+scols_cmpstr_cells
+strcmp
+scols_cell_set_color
+__ctype_b_loc
+scols_cell_get_color
+scols_cell_set_flags
+scols_cell_get_flags
+scols_cell_get_alignment
+scols_cell_copy_content
+getpid
+__vfprintf_chk
+scols_new_column
+scols_ref_column
+scols_unref_column
+scols_column_set_whint
+scols_column_get_whint
+scols_column_set_flags
+scols_column_set_json_type
+scols_column_get_json_type
+scols_column_get_table
+scols_column_get_flags
+scols_column_get_header
+scols_column_set_name
+scols_column_get_name
+scols_column_get_name_as_shellvar
+strlen
+scols_column_set_color
+scols_copy_column
+scols_column_get_color
+scols_wrapnl_nextchunk
+strchr
+scols_wrapnl_chunksize
+scols_table_is_noencoding
+scols_column_set_cmpfunc
+scols_column_set_wrapfunc
+scols_column_set_safechars
+scols_column_get_safechars
+scols_column_get_width
+scols_column_is_hidden
+scols_column_is_trunc
+scols_column_is_tree
+scols_column_is_right
+scols_column_is_strict_width
+scols_column_is_noextremes
+scols_column_is_wrap
+scols_column_is_customwrap
+scols_new_line
+scols_ref_line
+scols_line_free_cells
+scols_unref_line
+scols_line_alloc_cells
+realloc
+memset
+__errno_location
+memmove
+scols_line_set_userdata
+scols_line_get_userdata
+scols_line_remove_child
+scols_line_add_child
+scols_line_get_parent
+scols_line_has_children
+scols_line_next_child
+scols_line_is_ancestor
+scols_line_set_color
+scols_line_get_color
+scols_line_get_ncells
+scols_line_get_cell
+scols_line_get_column_cell
+scols_line_set_data
+scols_line_set_column_data
+scols_line_get_column_data
+scols_line_refer_data
+scols_line_refer_column_data
+scols_copy_line
+scols_new_table
+stdout
+scols_ref_table
+scols_table_set_name
+scols_table_get_name
+scols_table_get_title
+scols_table_remove_column
+scols_table_remove_columns
+scols_table_next_column
+scols_table_set_columns_iter
+scols_table_get_ncols
+scols_table_get_nlines
+scols_table_set_stream
+scols_table_get_stream
+scols_table_reduce_termwidth
+scols_table_get_column
+scols_table_add_line
+scols_table_remove_line
+scols_table_remove_lines
+scols_unref_table
+scols_table_next_line
+scols_table_add_column
+scols_table_new_column
+scols_table_move_column
+scols_table_new_line
+scols_table_get_line
+scols_table_set_symbols
+scols_table_get_symbols
+scols_table_enable_nolinesep
+scols_table_is_nolinesep
+scols_table_enable_colors
+scols_table_enable_raw
+scols_table_enable_json
+scols_table_enable_export
+scols_table_enable_shellvar
+scols_table_enable_ascii
+scols_table_enable_noheadings
+scols_table_enable_header_repeat
+scols_table_enable_maxout
+scols_table_enable_minout
+scols_table_enable_nowrap
+scols_table_is_nowrap
+scols_table_enable_noencoding
+scols_table_colors_wanted
+scols_table_is_empty
+scols_table_is_ascii
+scols_table_set_default_symbols
+nl_langinfo
+scols_table_is_noheadings
+scols_table_is_header_repeat
+scols_table_is_export
+scols_table_is_shellvar
+scols_table_is_raw
+scols_table_is_json
+scols_table_is_maxout
+scols_table_is_minout
+scols_table_is_tree
+scols_table_set_column_separator
+scols_table_set_line_separator
+scols_copy_table
+scols_table_get_column_separator
+scols_table_get_line_separator
+scols_sort_table
+scols_sort_table_by_tree
+scols_table_set_termforce
+scols_table_get_termforce
+scols_table_set_termwidth
+scols_table_get_termwidth
+scols_table_set_termheight
+scols_table_get_termheight
+fputs
+malloc
+isatty
+scols_table_print_range
+scols_table_print_range_to_string
+open_memstream
+fclose
+scols_print_table
+scols_print_table_to_string
+scols_parse_version_string
+scols_get_library_version
+abort
+scols_table_group_lines
+scols_line_link_group
+scols_init_debug
+getuid
+geteuid
+getgid
+getegid
+strtoul
+strtok_r
+fstat
+read
+lseek
+ioctl
+__open_2
+dcgettext
+warnx
+strcasecmp
+flock
+warn
+program_invocation_short_name
+memcpy
+strrchr
+strncmp
+__snprintf_chk
+fopen
+fgets
+access
+getcwd
+realpath
+pipe
+fork
+waitpid
+nanosleep
+setgid
+setuid
+strtod_l
+setlocale
+strtod
+newlocale
+setenv
+prctl
+secure_getenv
+__explicit_bzero_chk
+mkostemp
+__asprintf_chk
+umask
+fcntl
+getdtablesize
+readdir
+dirfd
+closedir
+mkdir
+sendfile
+readlink
+mbstowcs
+wcswidth
+getpwuid
+getgrgid
+__ctype_tolower_loc
+strncasecmp
+__ctype_get_mb_cur_max
+mbrtowc
+iswprint
+wcwidth
+__sprintf_chk
+wcstombs
+wctomb
+select
+fflush
+strerror
+raise
+strtok
+faccessat
+dup2
+sigaction
+execvp
+getpwnam_r
+getgrnam_r
+getpwuid_r
+gettimeofday
+srandom
+getppid
+getrandom
+syscall
+jrand48
+strtol
+__libc_current_sigrtmax
+__libc_current_sigrtmin
+strtoumax
+localeconv
+errx
+strtoimax
+strtold
+strndup
+__vasprintf_chk
+strspn
+strcspn
+fgetc
+stpcpy
+strtoll
+localtime_r
+mktime
+strptime
+gmtime_r
+strftime
+ttyname
+uname
+__isoc99_sscanf
+qsort
+fstatat
+__isoc99_fscanf
+__sched_cpualloc
+__sched_cpufree
+__vsnprintf_chk
+__openat_2
+fdopen
+fdopendir
+rewinddir
+readlinkat
+__isoc99_vfscanf
+__xpg_basename
+strstr
+strsep
+openat
+fstatfs
+__environ
+__progname
+__cxa_atexit
+libc.so.6
+ld-linux-aarch64.so.1
+libsmartcols.so.1
+SMARTCOLS_2.25
+SMARTCOLS_2.27
+SMARTCOLS_2.28
+SMARTCOLS_2.29
+SMARTCOLS_2.30
+SMARTCOLS_2.31
+SMARTCOLS_2.33
+SMARTCOLS_2.34
+SMARTCOLS_2.35
+SMARTCOLS_2.38
+GLIBC_2.17
+GLIBC_2.25
+GLIBC_2.33
+(7tR
+06"H@
+T $@
+7`"By
+T`R@
+ 7a2@
+TCp@
+ 7t&
+T p@
+T P@
+ 7b6@
+T @@
+ 7t^
+ 7a"By
+ 7a"By
+a"By
+ 7a"By
+ 7a"By
+ 7a"By
+ 7a"By
+ By@
+ 7a"By
+ By@
+ 7a"By
+ 7a"By
+ 7a"By
+T <@
+ 7aZ@
+5`:@
+7a^@
+ 7dN@
+Tb^@
+TaJ@
+b"By
+Tb^@
+T`"By
+TaJ@
+T"x`
+`"By
+7`^@
+Tb^@
+TaJ@
+T"x`
+(7`:@
+Ta6@
+T`>@
+T ,@
+ By@
+Tsj@
+a"By
+7`^@
+hax 
+hbxD
+`"By 
+7`.@
+`"By 
+Ta"By
+7`^@
+ 7x"By
+T`^@
+T`"Bya&@
+`"By@
+Tx"By
+T`^@
+5a:@
+4b~@
+`"By!
+4`N@
+`"By
+p7`.@
+T`"By
+5`"By
+`"By
+`"By
+Ta:@
+Tb"By
+4cJ@
+Tsj@
+"By 
+Tsj@
+# 7a"By
+4`"By`
+`) 7
+`< 7"
+a"By!x
+4aB@
+7A@@
+TaB@
+R!@3
+ 7bN@
+T$$@
+TaB@
+5? @q
+!H`8`
+RAx4
+h&8:
+@ @J?
+$he8
+ @J_
+@ @J?
+R!@8
+R!@8
+ehf8
+qfhi8
+phf8
+fhf8
+qehi8
+Tehf8
+T%h 8
+2(h 8
+?h 8
+ @q!	
+0@9!
+4`2@9
+`2@9
+`2@9
+4`2@9
+T`2@9
+`2@9
+`2@9
+`2@9
+.@8S
+htx 
+ h`x
+ h`x`
+ h`x
+hax`
+j 8a
+?k88
+	(A)
+ @)#
+J8x@)c
+-LA)
+r/TB)
+1\C)
+r20D)
+"8E)
+4@F)
+6dG)
+rAQ!
+DQ!T
+J#8_
+* P@
+bL9!@
+J"h x}
+L@) 
+	*\o
+	Jc|
+Scza
+j"8B
+4tB4
+xax`
+4a~@
+Bhsx
+Bhsx
+0@q@
+ @q@
+h-8C
+h*8C
+h)8D
+h'8D
+K`~@
+!hsx
+Kcza
+)`6@
+H@9b
+/crB9
+7`B@
+arB9!
+`rB9
+5`rB9
+`rB9
+T sC
+7`N@9
+4`N@9
+7`2@
+4`B@
+a+ 7z
+6arB9
+ 7`J@
+R`f@
+T`B@
+5 7t
+5aJ@
+`rB9
+SarB9
+6`rB9
+6arB9
+*arB9
+$@x_
+* tC
+* tC
+AL@9@L
+4AL@9?
+`J@9
+9Cxcx#
+eL@9dL
+4cL@9
+"L@93L
+4 L@9
+#L@9"L
+4!L@9?
+j"83m
+5bj 8
+Ks~@
+Ks~@
+Ks~@
+Ks~@
+L@9?
+H@9a
+eL@9
+4cL@9
+T?	@
+ * !
+T!,M
+libsmartcols/src/symbols.c
+scols_copy_symbols
+[%p]: 
+copy
+CELL
+libsmartcols
+%d: %s: %8s: 
+alloc
+dealloc
+setting flags from 0%x to 0%x
+LINE
+free cells
+alloc %zu cells
+move cells[%zu] -> cells[%zu]
+remove child
+add child
+libsmartcols/src/table.c
+<- done
+LIBSMARTCOLS_DEBUG_PADDING
+INIT
+padding debug: ENABLE
+remove column
+remove all columns
+setting alternative stream
+reduce terminal width: %zu
+add line
+remove line
+remove all lines
+dealloc <-
+add column
+new column name=%s, whint=%g, flags=%d
+move column %zu behind %zu
+remove symbols reference
+set symbols
+ENABLE
+DISABLE
+nolinesep: %s
+colors: %s
+raw: %s
+json: %s
+export: %s
+shellvar: %s
+ascii: %s
+noheading: %s
+header-repeat: %s
+maxout: %s
+minout: %s
+nowrap: %s
+encoding: %s
+setting default symbols
+UTF-8
+sorting table by %zu column
+sorting table by tree
+set terminatl width: %zu
+set terminatl height: %zu
+cells_cmp_wrapper_lines
+cells_cmp_wrapper_children
+scols_table_set_stream
+libsmartcols/src/print.c
+printing groups chart
+step pending data %zu -= %zu
+setting pending data
+ printing empty cell
+\x%02x
+*** data len=%zu > column width=%zu
+printing newline padding
+cl->seqnum <= tb->ncols
+     printing line
+printing pending data
+   printing tree line
+children
+printing title
+title is empty string -- ignore
+printing title done [rc=%d]
+printing header
+	next header: %zu [current=%zu, rc=%d]
+printing range
+----printing-tree-----
+initialize printing
+tree_ascii_art_to_buffer
+set_pending_data
+print_data
+__cell_to_buffer
+print_line
+__scols_print_title
+__scols_print_header
+__scols_print_range
+__scols_print_tree
+strlen_line
+printing
+error -- no columns
+ignore -- no lines
+printing range from API
+printing range to string
+printing to string
+libsmartcols/src/version.c
+ver_string
+2.38.1
+scols_parse_version_string
+trunc
+%s (hidden) ignored
+%15s seq=%zu, width=%zd, hint=%d, avg=%zu, max=%zu, min=%zu, extreme=%s %s
+libsmartcols/src/calculate.c
+-----calculate-(termwidth=%zu)-----
+ non-terminal output
+ min width larger than terminal! [width=%zu, term=%zu]
+ min width reduced to %zu
+ reduce width (extreme columns)
+ enlarge width (extreme columns)
+ enlarge width (max-out)
+ enlarge width (last column)
+ reduce width - #%d stage (current=%zu, wanted=%zu)
+   checking %s (width=%zu, treeart=%zu)
+     reducing (relative with flag)
+     reducing (all with flag)
+     reducing (relative without flag)
+-----final width: %zu (rc=%d)-----
+count_column_width
+GROUP
+fixing member line=%p [%zu/%zu]
+fixing childs
+libsmartcols/src/grouping.c
+(size_t) state < ARRAY_SIZE(grpstates)
+state >= 0
+   group [%p] grpset update [grpset size=%zu]
+    state %s --> %s
+wrong group initialization (%s)
+wrong group termination (%s)
+wrong group member->child order
+   realocate grpset [sz: old=%zu, new=%zu, new_chunks=%d]
+   prepending free space
+failed to locate group or reallocate grpset
+   applying state to grpset
+add member %p
+remove member [%p]
+  grpset update [line: group=%p, parent_group=%p
+   update for active groups
+   <- active groups updated [rc=%d]
+ introduce a new group
+reset groups states
+ reset to NONE
+ zeroize grpset
+failed group lines (no table or member)
+failed group lines (new group, line member of another)
+failed group lines (groups mismatch bwteen member and line
+none
+1st-member
+middle-member
+last-member
+middle-child
+last-child
+continue-members
+continue-children
+group_state_to_string
+ wall line
+ children walk
+<- walk line done [rc=%d]
+last in table
+libsmartcols/src/walk.c
+>> walk start
+ walk group children [pending=%zu]
+ *** ngrpchlds_pending counter invalid
+<< walk end [rc=%d]
+scols_walk_tree
+LIBSMARTCOLS_DEBUG
+%d: %s: don't print memory addresses (SUID executable).
+library debug mask: 0x%04x
+library version: %s
+Available "%s=<name>[,...]|<mask>" debug masks:
+   %-8s [0x%04x] : %s
+info about all subsystems
+buff
+output buffer utils
+table cell utils
+cols utils
+help
+this help
+group
+lines grouping utils
+line
+table line utils
+table utils
+warning: %s is misaligned
+disk
+printer
+processor
+worm
+scanner
+mo-disk
+changer
+comm
+raid
+enclosure
+no-lun
+tape
+LOCK_BLOCK_DEVICE
+nonblock
+unsupported lock mode: %s
+%s: %s: device already locked, waiting to get lock ... 
+%s: device already locked
+%s: failed to get lock
+lib/buffer.c
+ul_buffer_free_data
+ul_buffer_alloc_data
+/dm-
+%s/sys/block/%s/dm/name
+/dev/mapper/%s
+black
+[30m
+blink
+blue
+[34m
+bold
+brown
+[33m
+cyan
+[36m
+darkgray
+[1;30m
+gray
+[37m
+green
+[32m
+halfbright
+lightblue
+[1;34m
+lightcyan
+[1;36m
+lightgray,
+lightgreen
+[1;32m
+lightmagenta
+[1;35m
+lightred
+[1;31m
+magenta
+[35m
+[31m
+reset
+reverse
+yellow
+[1;33m
+white
+[1;37m
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+')uB
+*	5|z
+lEd/
+6 PQ
+pCRF
+Yg:a
+JZJ{.
+#FLR
+_QS}
+BASH_ENV=
+LANG=
+LANGUAGE=
+ENV=
+HOME=
+IFS=
+KRB_CONF=
+LIBPATH=
+MAIL=
+NLSPATH=
+PATH=
+SHELL=
+SHLIB_PATH=
+/tmp/
+TMPDIR
+%s/%s.XXXXXX
+/proc/self/fd
+/proc/self/fd/%d
+lib/fileutils.c
+ssz > 0
+ul_reopen
+\u00%02x
+lib/jsonwrt.c
+fmt->indent > 0
+null
+true
+false
+ul_jsonwrt_close
+FRSX
+LESS
+failed to set the %s environment variable
+waitpid failed (%s)
+sensible-pager
+PAGER
+PATH
+cannot duplicate string
+failed to execute %s
+lib/pwdutils.c
+pwdbuf
+username
+cannot allocate %zu bytes
+grpbuf
+groupname
+xgetpwnam
+xgetgrnam
+xgetpwuid
+/dev/urandom
+/dev/random
+getrandom() function
+min+
+max-
+QUIT
+TRAP
+ABRT
+KILL
+USR1
+SEGV
+USR2
+PIPE
+ALRM
+TERM
+STKFLT
+CHLD
+CONT
+STOP
+TSTP
+TTIN
+TTOU
+XCPU
+XFSZ
+VTALRM
+PROF
+WINCH
+POLL
+KMGTPEZY
+kmgtpezy
+%s: '%s'
+BKMGTPE
+%d%s%02lu
+%d%s
+@lib/strv.c
+strv_split
+strv_remove
+lib/timeutils.c
+usec
+today
+yesterday
+tomorrow
+%y-%m-%d %H:%M:%S
+%Y-%m-%d %H:%M:%S
+%Y-%m-%dT%H:%M:%S
+%y-%m-%d %H:%M
+%Y-%m-%d %H:%M
+%y-%m-%d
+%Y-%m-%d
+%H:%M:%S
+%H:%M
+%Y%m%d%H%M%S
+%4ld-%.2d-%.2d
+format_iso_time: buffer overflow.
+%02d:%02d:%02d
+.%06ld
+,%06ld
+%+03d:%02d
+time %ld is out of range.
+%02d:%02d
+%b%d/%H:%M
+%b%d
+%Y-%b%d
+seconds
+second
+minutes
+minute
+months
+month
+msec
+hours
+hour
+days
+weeks
+week
+years
+year
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+parse_timestamp
+COLUMNS
+LINES
+/dev/
+%d.%d.%d
+loopdev
+sysfs: failed devname to devno
+sysfs: init failed
+scan dir: %s
+ITER
+loop%u
+/dev/loop/
+closing old open fd
+%s%s
+%s name assigned
+LOOPDEV_DEBUG
+initialize context
+/sys/block
+init: disable /sys usage
+init: ignore ioctls
+/dev/loop-control
+init: loop-control detected 
+open %s [%s]: %m
+initialize
+/dev/loop
+de-initialize
+/sys/dev/block/%d:%d
+loop
+reading loop_info64 OK
+reading loop_info64 FAILED
+loop/backing_file
+get_backing_file [%s]
+loop/offset
+get_offset [rc=%d]
+%s does not exist
+%s exist
+failed to use %s device
+scan /proc/partitions
+/proc/partitions
+ %u %*s %*s %128[^
+checking %s
+scanning /sys/block
+check %s
+%s/loop/backing_file
+next
+next: default check
+loop%d
+next: scanning /dev
+queue/logical_block_size
+get_blocksize [rc=%d]
+loop/sizelimit
+get_sizelimit [rc=%d]
+get_encrypt_type [rc=%d]
+get_crypt_name failed
+get_backing_devno [rc=%d]
+get_backing_inode [rc=%d]
+/sys/module/loop/parameters/max_part
+loop/partscan
+loop/autoclear
+loop/dio
+checking %s vs. %s
+set offset=%jd
+set sizelimit=%jd
+set blocksize=%jd
+set flags=%u
+set backing file=%s
+SETUP
+device open: OK
+LOOP_SET_STATUS64 failed: %m
+LOOP_SET_STATUS64: OK
+LOOP_SET_CAPACITY failed: %m
+capacity set
+LOOP_SET_DIRECT_IO failed: %m
+direct io set
+LOOP_SET_BLOCK_SIZE failed: %m
+logical block size set
+device setup requested
+open backing file failed: %m
+backing file open: OK
+closing already open device (mode mismatch)
+LOOP_CONFIGURE failed: %m
+LOOP_CONFIGURE: OK
+LOOP_SET_FD failed: %m
+LOOP_SET_FD: OK
+failed to fstat backing file
+failed to determine device size
+failed to determine expected size
+failed to get loop FD
+failed to determine loopdev size
+expected size misaligned to 512-byte sectors
+warning: loopdev and expected size mismatch (%ju/%ju)
+failed to set loopdev size, size: %ju, expected: %ju
+success [rc=0]
+failed [rc=%d]
+LOOP_CLR_FD failed: %m
+device removed
+/loop%d
+add_device %d
+add_device done [rc=%d]
+find_unused requested
+using loop-control
+find_unused by loop-control [rc=%d]
+using loop scan
+find_unused by scan [rc=%d]
+find_overlap requested
+found %s backed by %s
+failed to get offset for device %s
+failed to get sizelimit for device %s
+overlapping loop device %s (full match)
+overlapping loop device %s
+find_overlap done [rc=%d]
+%zu,
+%zu,%zu,
+%zu-%zu,
+%s/%s
+ULPATH_DEBUG
+ulpath
+lib/path.c
+pc->dir_fd < 0
+new prefix: '%s'
+new dir: '%s'
+(re)set dialect
+pc->dir_path
+opening dir: '%s'
+closing dir
+%s/%s/%s
+access '%s' [no context, rc=%d]
+access: '%s' [rc=%d]
+stat '%s' [no context, rc=%d]
+stat '%s' [rc=%d]
+ [redirected]
+opening '%s' [no context]
+opening '%s'%s
+duplicate dir path
+ reading '%s'
+ fscanf [%s] '%s'
+%d:%d
+ul_path_set_prefix
+ul_path_is_accessible
+ul_path_get_dirfd
+ul_path_close_dirfd
+ulsysfs
+deinit
+queue/
+%s redirected to parent
+ULSYSFS_DEBUG
+new parent
+alloc new sysfs handler
+init sysfs stuff
+%s/start
+%s/partition
+partno (%d) -> devno (%d)
+slaves
+/sys/dev/block/
+/subsystem
+removable
+dm/uuid
+LVM-
+stratis-1-private
+device
+%u:%u:%u:%u
+/sys/class
+%s%s/%s_host/host%d/%s
+%s%s/%s_host/host%d
+/sys/bus/scsi
+%s%s/devices/%d:%d:%d:%d/%s
+%s%s/devices/%d:%d:%d:%d
+%1023[^
+%s/sys/block/%s/hidden
+lib/sysfs.c
+name
+%s/sys/block/%s/%s/dev
+%s/sys/block/%s/dev
+%s/sys/block/%s/device/dev
+partition
+/sys/dev/char/%u:%u
+ieee1394
+pcmcia
+__sysfs_devname_to_devno
+ulprocfs
+/proc/%d/%s
+ULPROCFS_DEBUG
+/proc/%zu
+alloc new procfs handler
+init procfs stuff
+cmdline
+stat
+task
+%s/stat
+zKLd
+zKLd
+b6edd146c9dffd0f3466096bc6ba9bd3c77261.debug
+.shstrtab
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_d
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.tbss
+.init_array
+.fini_array
+.data.rel.ro
+.dynamic
+.got
+.data
+.bss
+.gnu_debuglink
+4f	k
+A1$.
+kKGs
+?=ng7
+;vUW
+|llid
+;5p9]
+Ze.	cx{~
+9<Ds
+KV+`
+?jQS
+|5I	 N
+=q#w
+__gmon_start__
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+__cxa_finalize
+scols_new_iter
+calloc
+scols_free_iter
+scols_reset_iter
+scols_iter_get_direction
+scols_new_symbols
+scols_ref_symbols
+scols_unref_symbols
+scols_symbols_set_branch
+strdup
+scols_symbols_set_vertical
+scols_symbols_set_right
+scols_symbols_set_title_padding
+scols_symbols_set_cell_padding
+scols_symbols_set_group_vertical
+scols_symbols_set_group_horizontal
+scols_symbols_set_group_first_member
+scols_symbols_set_group_last_member
+scols_symbols_set_group_middle_member
+scols_symbols_set_group_last_child
+scols_symbols_set_group_middle_child
+scols_copy_symbols
+__assert_fail
+__stack_chk_guard
+stderr
+fwrite
+fputc
+__fprintf_chk
+__stack_chk_fail
+scols_reset_cell
+scols_cell_set_data
+scols_cell_refer_data
+scols_cell_get_data
+scols_cell_set_userdata
+scols_cell_get_userdata
+scols_cmpstr_cells
+strcmp
+scols_cell_set_color
+__ctype_b_loc
+scols_cell_get_color
+scols_cell_set_flags
+scols_cell_get_flags
+scols_cell_get_alignment
+scols_cell_copy_content
+getpid
+__vfprintf_chk
+scols_new_column
+scols_ref_column
+scols_unref_column
+scols_column_set_whint
+scols_column_get_whint
+scols_column_set_flags
+scols_column_set_json_type
+scols_column_get_json_type
+scols_column_get_table
+scols_column_get_flags
+scols_column_get_header
+scols_column_set_name
+scols_column_get_name
+scols_column_get_name_as_shellvar
+strlen
+scols_column_set_color
+scols_copy_column
+scols_column_get_color
+scols_wrapnl_nextchunk
+strchr
+scols_wrapnl_chunksize
+scols_table_is_noencoding
+scols_column_set_cmpfunc
+scols_column_set_wrapfunc
+scols_column_set_safechars
+scols_column_get_safechars
+scols_column_get_width
+scols_column_is_hidden
+scols_column_is_trunc
+scols_column_is_tree
+scols_column_is_right
+scols_column_is_strict_width
+scols_column_is_noextremes
+scols_column_is_wrap
+scols_column_is_customwrap
+scols_new_line
+scols_ref_line
+scols_line_free_cells
+scols_unref_line
+scols_line_alloc_cells
+realloc
+memset
+__errno_location
+memmove
+scols_line_set_userdata
+scols_line_get_userdata
+scols_line_remove_child
+scols_line_add_child
+scols_line_get_parent
+scols_line_has_children
+scols_line_next_child
+scols_line_is_ancestor
+scols_line_set_color
+scols_line_get_color
+scols_line_get_ncells
+scols_line_get_cell
+scols_line_get_column_cell
+scols_line_set_data
+scols_line_set_column_data
+scols_line_get_column_data
+scols_line_refer_data
+scols_line_refer_column_data
+scols_copy_line
+scols_new_table
+stdout
+scols_ref_table
+scols_table_set_name
+scols_table_get_name
+scols_table_get_title
+scols_table_remove_column
+scols_table_remove_columns
+scols_table_next_column
+scols_table_set_columns_iter
+scols_table_get_ncols
+scols_table_get_nlines
+scols_table_set_stream
+scols_table_get_stream
+scols_table_reduce_termwidth
+scols_table_get_column
+scols_table_add_line
+scols_table_remove_line
+scols_table_remove_lines
+scols_unref_table
+scols_table_next_line
+scols_table_add_column
+scols_table_new_column
+scols_table_move_column
+scols_table_new_line
+scols_table_get_line
+scols_table_set_symbols
+scols_table_get_symbols
+scols_table_enable_nolinesep
+scols_table_is_nolinesep
+scols_table_enable_colors
+scols_table_enable_raw
+scols_table_enable_json
+scols_table_enable_export
+scols_table_enable_shellvar
+scols_table_enable_ascii
+scols_table_enable_noheadings
+scols_table_enable_header_repeat
+scols_table_enable_maxout
+scols_table_enable_minout
+scols_table_enable_nowrap
+scols_table_is_nowrap
+scols_table_enable_noencoding
+scols_table_colors_wanted
+scols_table_is_empty
+scols_table_is_ascii
+scols_table_set_default_symbols
+nl_langinfo
+scols_table_is_noheadings
+scols_table_is_header_repeat
+scols_table_is_export
+scols_table_is_shellvar
+scols_table_is_raw
+scols_table_is_json
+scols_table_is_maxout
+scols_table_is_minout
+scols_table_is_tree
+scols_table_set_column_separator
+scols_table_set_line_separator
+scols_copy_table
+scols_table_get_column_separator
+scols_table_get_line_separator
+scols_sort_table
+scols_sort_table_by_tree
+scols_table_set_termforce
+scols_table_get_termforce
+scols_table_set_termwidth
+scols_table_get_termwidth
+scols_table_set_termheight
+scols_table_get_termheight
+fputs
+malloc
+isatty
+scols_table_print_range
+scols_table_print_range_to_string
+open_memstream
+fclose
+scols_print_table
+scols_print_table_to_string
+scols_parse_version_string
+scols_get_library_version
+abort
+scols_table_group_lines
+scols_line_link_group
+scols_init_debug
+getuid
+geteuid
+getgid
+getegid
+strtoul
+strtok_r
+fstat
+read
+lseek
+ioctl
+__open_2
+dcgettext
+warnx
+strcasecmp
+flock
+warn
+program_invocation_short_name
+memcpy
+strrchr
+strncmp
+__snprintf_chk
+fopen
+fgets
+access
+getcwd
+realpath
+pipe
+fork
+waitpid
+nanosleep
+setgid
+setuid
+strtod_l
+setlocale
+strtod
+newlocale
+setenv
+prctl
+secure_getenv
+__explicit_bzero_chk
+mkostemp
+__asprintf_chk
+umask
+fcntl
+getdtablesize
+readdir
+dirfd
+closedir
+mkdir
+sendfile
+readlink
+mbstowcs
+wcswidth
+getpwuid
+getgrgid
+__ctype_tolower_loc
+strncasecmp
+__ctype_get_mb_cur_max
+mbrtowc
+iswprint
+wcwidth
+__sprintf_chk
+wcstombs
+wctomb
+select
+fflush
+strerror
+raise
+strtok
+faccessat
+dup2
+sigaction
+execvp
+getpwnam_r
+getgrnam_r
+getpwuid_r
+gettimeofday
+srandom
+getppid
+getrandom
+syscall
+jrand48
+strtol
+__libc_current_sigrtmax
+__libc_current_sigrtmin
+strtoumax
+localeconv
+errx
+strtoimax
+strtold
+strndup
+__vasprintf_chk
+strspn
+strcspn
+fgetc
+stpcpy
+strtoll
+localtime_r
+mktime
+strptime
+gmtime_r
+strftime
+ttyname
+uname
+__isoc99_sscanf
+qsort
+fstatat
+__isoc99_fscanf
+__sched_cpualloc
+__sched_cpufree
+__vsnprintf_chk
+__openat_2
+fdopen
+fdopendir
+rewinddir
+readlinkat
+__isoc99_vfscanf
+__xpg_basename
+strstr
+strsep
+openat
+fstatfs
+__environ
+__progname
+__cxa_atexit
+libc.so.6
+ld-linux-aarch64.so.1
+libsmartcols.so.1
+SMARTCOLS_2.25
+SMARTCOLS_2.27
+SMARTCOLS_2.28
+SMARTCOLS_2.29
+SMARTCOLS_2.30
+SMARTCOLS_2.31
+SMARTCOLS_2.33
+SMARTCOLS_2.34
+SMARTCOLS_2.35
+SMARTCOLS_2.38
+GLIBC_2.17
+GLIBC_2.25
+GLIBC_2.33
+(7tR
+06"H@
+T $@
+7`"By
+T`R@
+ 7a2@
+TCp@
+ 7t&
+T p@
+T P@
+ 7b6@
+T @@
+ 7t^
+ 7a"By
+ 7a"By
+a"By
+ 7a"By
+ 7a"By
+ 7a"By
+ 7a"By
+ By@
+ 7a"By
+ By@
+ 7a"By
+ 7a"By
+ 7a"By
+T <@
+ 7aZ@
+5`:@
+7a^@
+ 7dN@
+Tb^@
+TaJ@
+b"By
+Tb^@
+T`"By
+TaJ@
+T"x`
+`"By
+7`^@
+Tb^@
+TaJ@
+T"x`
+(7`:@
+Ta6@
+T`>@
+T ,@
+ By@
+Tsj@
+a"By
+7`^@
+hax 
+hbxD
+`"By 
+7`.@
+`"By 
+Ta"By
+7`^@
+ 7x"By
+T`^@
+T`"Bya&@
+`"By@
+Tx"By
+T`^@
+5a:@
+4b~@
+`"By!
+4`N@
+`"By
+p7`.@
+T`"By
+5`"By
+`"By
+`"By
+Ta:@
+Tb"By
+4cJ@
+Tsj@
+"By 
+Tsj@
+# 7a"By
+4`"By`
+`) 7
+`< 7"
+a"By!x
+4aB@
+7A@@
+TaB@
+R!@3
+ 7bN@
+T$$@
+TaB@
+5? @q
+!H`8`
+RAx4
+h&8:
+@ @J?
+$he8
+ @J_
+@ @J?
+R!@8
+R!@8
+ehf8
+qfhi8
+phf8
+fhf8
+qehi8
+Tehf8
+T%h 8
+2(h 8
+?h 8
+ @q!	
+0@9!
+4`2@9
+`2@9
+`2@9
+4`2@9
+T`2@9
+`2@9
+`2@9
+`2@9
+.@8S
+htx 
+ h`x
+ h`x`
+ h`x
+hax`
+j 8a
+?k88
+	(A)
+ @)#
+J8x@)c
+-LA)
+r/TB)
+1\C)
+r20D)
+"8E)
+4@F)
+6dG)
+rAQ!
+DQ!T
+J#8_
+* P@
+bL9!@
+J"h x}
+L@) 
+	*\o
+	Jc|
+Scza
+j"8B
+4tB4
+xax`
+4a~@
+Bhsx
+Bhsx
+0@q@
+ @q@
+h-8C
+h*8C
+h)8D
+h'8D
+K`~@
+!hsx
+Kcza
+)`6@
+H@9b
+/crB9
+7`B@
+arB9!
+`rB9
+5`rB9
+`rB9
+T sC
+7`N@9
+4`N@9
+7`2@
+4`B@
+a+ 7z
+6arB9
+ 7`J@
+R`f@
+T`B@
+5 7t
+5aJ@
+`rB9
+SarB9
+6`rB9
+6arB9
+*arB9
+$@x_
+* tC
+* tC
+AL@9@L
+4AL@9?
+`J@9
+9Cxcx#
+eL@9dL
+4cL@9
+"L@93L
+4 L@9
+#L@9"L
+4!L@9?
+j"83m
+5bj 8
+Ks~@
+Ks~@
+Ks~@
+Ks~@
+L@9?
+H@9a
+eL@9
+4cL@9
+T?	@
+ * !
+T!,M
+libsmartcols/src/symbols.c
+scols_copy_symbols
+[%p]: 
+copy
+CELL
+libsmartcols
+%d: %s: %8s: 
+alloc
+dealloc
+setting flags from 0%x to 0%x
+LINE
+free cells
+alloc %zu cells
+move cells[%zu] -> cells[%zu]
+remove child
+add child
+libsmartcols/src/table.c
+<- done
+LIBSMARTCOLS_DEBUG_PADDING
+INIT
+padding debug: ENABLE
+remove column
+remove all columns
+setting alternative stream
+reduce terminal width: %zu
+add line
+remove line
+remove all lines
+dealloc <-
+add column
+new column name=%s, whint=%g, flags=%d
+move column %zu behind %zu
+remove symbols reference
+set symbols
+ENABLE
+DISABLE
+nolinesep: %s
+colors: %s
+raw: %s
+json: %s
+export: %s
+shellvar: %s
+ascii: %s
+noheading: %s
+header-repeat: %s
+maxout: %s
+minout: %s
+nowrap: %s
+encoding: %s
+setting default symbols
+UTF-8
+sorting table by %zu column
+sorting table by tree
+set terminatl width: %zu
+set terminatl height: %zu
+cells_cmp_wrapper_lines
+cells_cmp_wrapper_children
+scols_table_set_stream
+libsmartcols/src/print.c
+printing groups chart
+step pending data %zu -= %zu
+setting pending data
+ printing empty cell
+\x%02x
+*** data len=%zu > column width=%zu
+printing newline padding
+cl->seqnum <= tb->ncols
+     printing line
+printing pending data
+   printing tree line
+children
+printing title
+title is empty string -- ignore
+printing title done [rc=%d]
+printing header
+	next header: %zu [current=%zu, rc=%d]
+printing range
+----printing-tree-----
+initialize printing
+tree_ascii_art_to_buffer
+set_pending_data
+print_data
+__cell_to_buffer
+print_line
+__scols_print_title
+__scols_print_header
+__scols_print_range
+__scols_print_tree
+strlen_line
+printing
+error -- no columns
+ignore -- no lines
+printing range from API
+printing range to string
+printing to string
+libsmartcols/src/version.c
+ver_string
+2.38.1
+scols_parse_version_string
+trunc
+%s (hidden) ignored
+%15s seq=%zu, width=%zd, hint=%d, avg=%zu, max=%zu, min=%zu, extreme=%s %s
+libsmartcols/src/calculate.c
+-----calculate-(termwidth=%zu)-----
+ non-terminal output
+ min width larger than terminal! [width=%zu, term=%zu]
+ min width reduced to %zu
+ reduce width (extreme columns)
+ enlarge width (extreme columns)
+ enlarge width (max-out)
+ enlarge width (last column)
+ reduce width - #%d stage (current=%zu, wanted=%zu)
+   checking %s (width=%zu, treeart=%zu)
+     reducing (relative with flag)
+     reducing (all with flag)
+     reducing (relative without flag)
+-----final width: %zu (rc=%d)-----
+count_column_width
+GROUP
+fixing member line=%p [%zu/%zu]
+fixing childs
+libsmartcols/src/grouping.c
+(size_t) state < ARRAY_SIZE(grpstates)
+state >= 0
+   group [%p] grpset update [grpset size=%zu]
+    state %s --> %s
+wrong group initialization (%s)
+wrong group termination (%s)
+wrong group member->child order
+   realocate grpset [sz: old=%zu, new=%zu, new_chunks=%d]
+   prepending free space
+failed to locate group or reallocate grpset
+   applying state to grpset
+add member %p
+remove member [%p]
+  grpset update [line: group=%p, parent_group=%p
+   update for active groups
+   <- active groups updated [rc=%d]
+ introduce a new group
+reset groups states
+ reset to NONE
+ zeroize grpset
+failed group lines (no table or member)
+failed group lines (new group, line member of another)
+failed group lines (groups mismatch bwteen member and line
+none
+1st-member
+middle-member
+last-member
+middle-child
+last-child
+continue-members
+continue-children
+group_state_to_string
+ wall line
+ children walk
+<- walk line done [rc=%d]
+last in table
+libsmartcols/src/walk.c
+>> walk start
+ walk group children [pending=%zu]
+ *** ngrpchlds_pending counter invalid
+<< walk end [rc=%d]
+scols_walk_tree
+LIBSMARTCOLS_DEBUG
+%d: %s: don't print memory addresses (SUID executable).
+library debug mask: 0x%04x
+library version: %s
+Available "%s=<name>[,...]|<mask>" debug masks:
+   %-8s [0x%04x] : %s
+info about all subsystems
+buff
+output buffer utils
+table cell utils
+cols utils
+help
+this help
+group
+lines grouping utils
+line
+table line utils
+table utils
+warning: %s is misaligned
+disk
+printer
+processor
+worm
+scanner
+mo-disk
+changer
+comm
+raid
+enclosure
+no-lun
+tape
+LOCK_BLOCK_DEVICE
+nonblock
+unsupported lock mode: %s
+%s: %s: device already locked, waiting to get lock ... 
+%s: device already locked
+%s: failed to get lock
+lib/buffer.c
+ul_buffer_free_data
+ul_buffer_alloc_data
+/dm-
+%s/sys/block/%s/dm/name
+/dev/mapper/%s
+black
+[30m
+blink
+blue
+[34m
+bold
+brown
+[33m
+cyan
+[36m
+darkgray
+[1;30m
+gray
+[37m
+green
+[32m
+halfbright
+lightblue
+[1;34m
+lightcyan
+[1;36m
+lightgray,
+lightgreen
+[1;32m
+lightmagenta
+[1;35m
+lightred
+[1;31m
+magenta
+[35m
+[31m
+reset
+reverse
+yellow
+[1;33m
+white
+[1;37m
+ n;^
+Qkkbal
+i]Wb
+9a&g
+MGiI
+wn>Jj
+#.zf
++o*7
+')uB
+*	5|z
+lEd/
+6 PQ
+pCRF
+Yg:a
+JZJ{.
+#FLR
+_QS}
+BASH_ENV=
+LANG=
+LANGUAGE=
+ENV=
+HOME=
+IFS=
+KRB_CONF=
+LIBPATH=
+MAIL=
+NLSPATH=
+PATH=
+SHELL=
+SHLIB_PATH=
+/tmp/
+TMPDIR
+%s/%s.XXXXXX
+/proc/self/fd
+/proc/self/fd/%d
+lib/fileutils.c
+ssz > 0
+ul_reopen
+\u00%02x
+lib/jsonwrt.c
+fmt->indent > 0
+null
+true
+false
+ul_jsonwrt_close
+FRSX
+LESS
+failed to set the %s environment variable
+waitpid failed (%s)
+sensible-pager
+PAGER
+PATH
+cannot duplicate string
+failed to execute %s
+lib/pwdutils.c
+pwdbuf
+username
+cannot allocate %zu bytes
+grpbuf
+groupname
+xgetpwnam
+xgetgrnam
+xgetpwuid
+/dev/urandom
+/dev/random
+getrandom() function
+min+
+max-
+QUIT
+TRAP
+ABRT
+KILL
+USR1
+SEGV
+USR2
+PIPE
+ALRM
+TERM
+STKFLT
+CHLD
+CONT
+STOP
+TSTP
+TTIN
+TTOU
+XCPU
+XFSZ
+VTALRM
+PROF
+WINCH
+POLL
+KMGTPEZY
+kmgtpezy
+%s: '%s'
+BKMGTPE
+%d%s%02lu
+%d%s
+@lib/strv.c
+strv_split
+strv_remove
+lib/timeutils.c
+usec
+today
+yesterday
+tomorrow
+%y-%m-%d %H:%M:%S
+%Y-%m-%d %H:%M:%S
+%Y-%m-%dT%H:%M:%S
+%y-%m-%d %H:%M
+%Y-%m-%d %H:%M
+%y-%m-%d
+%Y-%m-%d
+%H:%M:%S
+%H:%M
+%Y%m%d%H%M%S
+%4ld-%.2d-%.2d
+format_iso_time: buffer overflow.
+%02d:%02d:%02d
+.%06ld
+,%06ld
+%+03d:%02d
+time %ld is out of range.
+%02d:%02d
+%b%d/%H:%M
+%b%d
+%Y-%b%d
+seconds
+second
+minutes
+minute
+months
+month
+msec
+hours
+hour
+days
+weeks
+week
+years
+year
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+parse_timestamp
+COLUMNS
+LINES
+/dev/
+%d.%d.%d
+loopdev
+sysfs: failed devname to devno
+sysfs: init failed
+scan dir: %s
+ITER
+loop%u
+/dev/loop/
+closing old open fd
+%s%s
+%s name assigned
+LOOPDEV_DEBUG
+initialize context
+/sys/block
+init: disable /sys usage
+init: ignore ioctls
+/dev/loop-control
+init: loop-control detected 
+open %s [%s]: %m
+initialize
+/dev/loop
+de-initialize
+/sys/dev/block/%d:%d
+loop
+reading loop_info64 OK
+reading loop_info64 FAILED
+loop/backing_file
+get_backing_file [%s]
+loop/offset
+get_offset [rc=%d]
+%s does not exist
+%s exist
+failed to use %s device
+scan /proc/partitions
+/proc/partitions
+ %u %*s %*s %128[^
+checking %s
+scanning /sys/block
+check %s
+%s/loop/backing_file
+next
+next: default check
+loop%d
+next: scanning /dev
+queue/logical_block_size
+get_blocksize [rc=%d]
+loop/sizelimit
+get_sizelimit [rc=%d]
+get_encrypt_type [rc=%d]
+get_crypt_name failed
+get_backing_devno [rc=%d]
+get_backing_inode [rc=%d]
+/sys/module/loop/parameters/max_part
+loop/partscan
+loop/autoclear
+loop/dio
+checking %s vs. %s
+set offset=%jd
+set sizelimit=%jd
+set blocksize=%jd
+set flags=%u
+set backing file=%s
+SETUP
+device open: OK
+LOOP_SET_STATUS64 failed: %m
+LOOP_SET_STATUS64: OK
+LOOP_SET_CAPACITY failed: %m
+capacity set
+LOOP_SET_DIRECT_IO failed: %m
+direct io set
+LOOP_SET_BLOCK_SIZE failed: %m
+logical block size set
+device setup requested
+open backing file failed: %m
+backing file open: OK
+closing already open device (mode mismatch)
+LOOP_CONFIGURE failed: %m
+LOOP_CONFIGURE: OK
+LOOP_SET_FD failed: %m
+LOOP_SET_FD: OK
+failed to fstat backing file
+failed to determine device size
+failed to determine expected size
+failed to get loop FD
+failed to determine loopdev size
+expected size misaligned to 512-byte sectors
+warning: loopdev and expected size mismatch (%ju/%ju)
+failed to set loopdev size, size: %ju, expected: %ju
+success [rc=0]
+failed [rc=%d]
+LOOP_CLR_FD failed: %m
+device removed
+/loop%d
+add_device %d
+add_device done [rc=%d]
+find_unused requested
+using loop-control
+find_unused by loop-control [rc=%d]
+using loop scan
+find_unused by scan [rc=%d]
+find_overlap requested
+found %s backed by %s
+failed to get offset for device %s
+failed to get sizelimit for device %s
+overlapping loop device %s (full match)
+overlapping loop device %s
+find_overlap done [rc=%d]
+%zu,
+%zu,%zu,
+%zu-%zu,
+%s/%s
+ULPATH_DEBUG
+ulpath
+lib/path.c
+pc->dir_fd < 0
+new prefix: '%s'
+new dir: '%s'
+(re)set dialect
+pc->dir_path
+opening dir: '%s'
+closing dir
+%s/%s/%s
+access '%s' [no context, rc=%d]
+access: '%s' [rc=%d]
+stat '%s' [no context, rc=%d]
+stat '%s' [rc=%d]
+ [redirected]
+opening '%s' [no context]
+opening '%s'%s
+duplicate dir path
+ reading '%s'
+ fscanf [%s] '%s'
+%d:%d
+ul_path_set_prefix
+ul_path_is_accessible
+ul_path_get_dirfd
+ul_path_close_dirfd
+ulsysfs
+deinit
+queue/
+%s redirected to parent
+ULSYSFS_DEBUG
+new parent
+alloc new sysfs handler
+init sysfs stuff
+%s/start
+%s/partition
+partno (%d) -> devno (%d)
+slaves
+/sys/dev/block/
+/subsystem
+removable
+dm/uuid
+LVM-
+stratis-1-private
+device
+%u:%u:%u:%u
+/sys/class
+%s%s/%s_host/host%d/%s
+%s%s/%s_host/host%d
+/sys/bus/scsi
+%s%s/devices/%d:%d:%d:%d/%s
+%s%s/devices/%d:%d:%d:%d
+%1023[^
+%s/sys/block/%s/hidden
+lib/sysfs.c
+name
+%s/sys/block/%s/%s/dev
+%s/sys/block/%s/dev
+%s/sys/block/%s/device/dev
+partition
+/sys/dev/char/%u:%u
+ieee1394
+pcmcia
+__sysfs_devname_to_devno
+ulprocfs
+/proc/%d/%s
+ULPROCFS_DEBUG
+/proc/%zu
+alloc new procfs handler
+init procfs stuff
+cmdline
+stat
+task
+%s/stat
+zKLd
+zKLd
+b6edd146c9dffd0f3466096bc6ba9bd3c77261.debug
+.shstrtab
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_d
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.tbss
+.init_array
+.fini_array
+.data.rel.ro
+.dynamic
+.got
+.data
+.bss
+.gnu_debuglink

@@ -1,0 +1,98 @@
+=== System === 
+
+--- System Info ---
+Snapshot Time: 7/25/26, 7:34:33 PM CDT
+Board Name: rusty
+Marketing Name: 
+CpuModel Name: MediaTek Kompanio 520
+Total Memory (kib): 4194304
+Thread Count:  8
+Cpu Max Clock Speed (kHz):  2050000
+Version: 150.16700.0
+Has Battery: true
+
+--- Battery Charge Status ---
+Battery State: kFull
+Power Source: kAc
+Power Time: 
+Current Now (mA): 0
+Chage Now (mAh): 4277
+
+--- Battery Health ---
+Charge Full Now (mAh): 4327
+Charge Full Design (mAh): 4156
+Cycle Count: 3
+Wear Percentage: 104
+
+--- Memory Usage ---
+Total Memory (kib): 4194304
+Available Memory (kib): 768577
+Free Memory (kib): 40936
+
+--- Cpu Usage ---
+Usage User (%): 48
+Usage System (%): 32
+Usage Free (%): 18
+Avg Temp (C): 63
+Current scaled frequency (kHz): 2000000
+
+
+--- Test Routines --- 
+
+No routines of this type were run in the session.
+
+=== Networking === 
+
+--- Network Info ---
+
+Name: BNWiFi
+Type: WiFi
+State: Online
+Active: True
+MAC Address: 44:FA:66:1F:BB:D7
+Signal Strength: 46
+Frequency: 5240
+SSID: BNWiFi
+BSSID: AE:88:91:3A:F8:D0
+Security: None
+Gateway: 192.168.0.1
+IP Address: 192.168.0.24
+Name Servers: 208.67.222.222, 208.67.220.220
+Subnet Mask: 255.255.254.0
+
+--- Test Routines --- 
+
+7/25/26, 7:33:52 PM - GatewayCanBePinged - Started
+7/25/26, 7:33:53 PM - GatewayCanBePinged - Failed
+7/25/26, 7:33:53 PM - LanConnectivity - Started
+7/25/26, 7:33:54 PM - LanConnectivity - Passed
+7/25/26, 7:33:54 PM - ArcPing - Started
+7/25/26, 7:34:05 PM - ArcPing - Failed
+7/25/26, 7:34:05 PM - DnsResolverPresent - Started
+7/25/26, 7:34:06 PM - DnsResolverPresent - Passed
+7/25/26, 7:34:06 PM - DnsResolution - Started
+7/25/26, 7:34:07 PM - DnsResolution - Passed
+7/25/26, 7:34:07 PM - DnsLatency - Started
+7/25/26, 7:34:08 PM - DnsLatency - Passed
+7/25/26, 7:34:08 PM - ArcDnsResolution - Started
+7/25/26, 7:34:09 PM - ArcDnsResolution - Passed
+7/25/26, 7:34:09 PM - SignalStrength - Started
+7/25/26, 7:34:10 PM - SignalStrength - Passed
+7/25/26, 7:34:10 PM - CaptivePortal - Started
+7/25/26, 7:34:11 PM - CaptivePortal - Passed
+7/25/26, 7:34:11 PM - HasSecureWiFiConnection - Started
+7/25/26, 7:34:12 PM - HasSecureWiFiConnection - Failed
+7/25/26, 7:34:12 PM - HttpsFirewall - Started
+7/25/26, 7:34:13 PM - HttpsFirewall - Passed
+7/25/26, 7:34:13 PM - HttpFirewall - Started
+7/25/26, 7:34:14 PM - HttpFirewall - Passed
+7/25/26, 7:34:14 PM - HttpsLatency - Started
+7/25/26, 7:34:15 PM - HttpsLatency - Passed
+7/25/26, 7:34:15 PM - ArcHttp - Started
+7/25/26, 7:34:16 PM - ArcHttp - Passed
+7/25/26, 7:34:16 PM - GoogleServicesConnectivity - Started
+7/25/26, 7:34:22 PM - GoogleServicesConnectivity - Passed
+
+--- Network Events ---
+
+7/25/26, 7:33:52 PM - WiFi network [44:FA:66:1F:BB:D7] started in state Online

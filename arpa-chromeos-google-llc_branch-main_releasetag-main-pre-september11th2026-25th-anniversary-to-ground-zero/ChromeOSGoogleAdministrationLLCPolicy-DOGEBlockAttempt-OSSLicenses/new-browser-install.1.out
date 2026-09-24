@@ -1,0 +1,47 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages were automatically installed and are no longer required:
+  avahi-daemon blender blender-data enchant-2 fig2dev fonts-cantarell
+  fonts-dejavu fonts-dejavu-extra geoclue-2.0 glib-networking
+  glib-networking-common glib-networking-services hunspell-en-us
+  iio-sensor-proxy imagemagick imagemagick-6-common imagemagick-6.q16 inkscape
+  lib2geom1.2.0 libatkmm-1.6-1v5 libavahi-core7 libavahi-glib1
+  libboost-filesystem1.74.0 libboost-iostreams1.74.0 libboost-locale1.74.0
+  libboost-thread1.74.0 libcairomm-1.0-1v5 libcdr-0.1-1 libdaemon0 libdcmtk17
+  libdjvulibre-text libdjvulibre21 libenchant-2-2 libgc1 libglibmm-2.4-1v5
+  libgphoto2-6 libgphoto2-l10n libgphoto2-port12 libgsl27 libgslcblas0
+  libgspell-1-2 libgspell-1-common libgtkmm-3.0-1v5 libhunspell-1.7-0
+  libhyphen0 libimage-magick-perl libimage-magick-q16-perl libjemalloc2
+  libjim0.81 libjs-jquery libjs-jquery-ui libjsoncpp25 libjxr-tools libjxr0
+  liblog4cplus-2.0.5 liblqr-1-0 libmagick++-6.q16-8 libmagickcore-6.q16-6
+  libmagickcore-6.q16-6-extra libmagickwand-6.q16-6 libmbim-glib4
+  libmbim-proxy libmbim-utils libmm-glib0 libnetpbm11 libnotify4 libnss-mdns
+  libopencolorio2.1 libopencv-videoio406 libopenimageio2.4 libopenshot-audio8
+  libopenshot21 libopenvdb10.0 libosdcpu3.5.0 libosdgpu3.5.0
+  libpangomm-1.4-1v5 libpcsclite1 libpotrace0 libproxy1v5 libpugixml1v5
+  libpystring0 libpython3.11 libqmi-glib5 libqmi-proxy libqmi-utils
+  libqrtr-glib0 libqt5designer5 libqt5help5 libqt5positioning5 libqt5sensors5
+  libqt5webchannel5 libqt5webkit5 librevenge-0.0-0 libsigc++-2.0-0v5
+  libsoup-3.0-0 libsoup-3.0-common libsoup2.4-1 libsoup2.4-common libspnav0
+  libvisio-0.1-1 libwmf-bin libwoff1 libwpd-0.10-10 libwpg-0.3-3 libxslt1.1
+  libyaml-cpp0.7 modemmanager netpbm python3-bs4 python3-certifi
+  python3-cffi-backend python3-chardet python3-charset-normalizer
+  python3-cssselect python3-html5lib python3-idna python3-lxml python3-numpy
+  python3-openshot python3-pkg-resources python3-py python3-pyqt5
+  python3-pyqt5.qtsvg python3-pyqt5.qtwebkit python3-pyqt5.sip
+  python3-requests python3-scour python3-six python3-soupsieve python3-urllib3
+  python3-webencodings python3-zmq usb-modeswitch usb-modeswitch-data
+  wpasupplicant
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  libevent-2.1-7
+Suggested packages:
+  fonts-stix | otf-stix fonts-lmodern libcanberra0 pulseaudio
+The following NEW packages will be installed:
+  firefox-esr libevent-2.1-7
+0 upgraded, 2 newly installed, 0 to remove and 54 not upgraded.
+Need to get 69.8 MB of archives.
+After this operation, 265 MB of additional disk space will be used.
+Do you want to continue? [Y/n] Get:1 https://deb.debian.org/debian bookworm/main arm64 libevent-2.1-7 arm64 2.1.12-stable-8 [168 kB]
+Get:2 https://deb.debian.org/debian-security bookworm-security/main arm64 firefox-esr arm64 140.13.0esr-1~deb12u1 [69.7 MB]

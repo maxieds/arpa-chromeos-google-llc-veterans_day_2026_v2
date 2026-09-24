@@ -1,0 +1,95 @@
+=== System === 
+
+--- System Info ---
+Snapshot Time: 8/1/26, 11:53:04 AM CDT
+Board Name: rusty
+Marketing Name: 
+CpuModel Name: MediaTek Kompanio 520
+Total Memory (kib): 4194304
+Thread Count:  8
+Cpu Max Clock Speed (kHz):  2050000
+Version: 150.16700.0
+Has Battery: true
+
+--- Battery Charge Status ---
+Battery State: kFull
+Power Source: kAc
+Power Time: 
+Current Now (mA): 0
+Chage Now (mAh): 4322
+
+--- Battery Health ---
+Charge Full Now (mAh): 4322
+Charge Full Design (mAh): 4156
+Cycle Count: 4
+Wear Percentage: 103
+
+--- Memory Usage ---
+Total Memory (kib): 4194304
+Available Memory (kib): 1535332
+Free Memory (kib): 783068
+
+--- Cpu Usage ---
+Usage User (%): 17
+Usage System (%): 8
+Usage Free (%): 74
+Avg Temp (C): 43
+Current scaled frequency (kHz): 2050000
+
+
+--- Test Routines --- 
+
+8/1/26, 11:28:56 AM - Memory - Started
+8/1/26, 11:29:11 AM - Inflight Routine Cancelled
+8/1/26, 11:32:21 AM - Memory - Started
+8/1/26, 11:49:01 AM - Memory - Passed
+
+=== Networking === 
+
+--- Network Info ---
+
+--- Test Routines --- 
+
+8/1/26, 11:29:11 AM - GatewayCanBePinged - Started
+8/1/26, 11:29:15 AM - GatewayCanBePinged - Passed
+8/1/26, 11:29:15 AM - LanConnectivity - Started
+8/1/26, 11:29:16 AM - LanConnectivity - Passed
+8/1/26, 11:29:16 AM - ArcPing - Started
+8/1/26, 11:29:17 AM - ArcPing - Passed
+8/1/26, 11:29:17 AM - DnsResolverPresent - Started
+8/1/26, 11:29:18 AM - DnsResolverPresent - Passed
+8/1/26, 11:29:18 AM - DnsResolution - Started
+8/1/26, 11:29:19 AM - DnsResolution - Passed
+8/1/26, 11:29:19 AM - DnsLatency - Started
+8/1/26, 11:29:20 AM - DnsLatency - Passed
+8/1/26, 11:29:20 AM - ArcDnsResolution - Started
+8/1/26, 11:29:21 AM - ArcDnsResolution - Passed
+8/1/26, 11:29:21 AM - SignalStrength - Started
+8/1/26, 11:29:22 AM - SignalStrength - Passed
+8/1/26, 11:29:22 AM - CaptivePortal - Started
+8/1/26, 11:29:23 AM - CaptivePortal - Passed
+8/1/26, 11:29:23 AM - HasSecureWiFiConnection - Started
+8/1/26, 11:29:24 AM - HasSecureWiFiConnection - Passed
+8/1/26, 11:29:24 AM - HttpsFirewall - Started
+8/1/26, 11:29:26 AM - HttpsFirewall - Passed
+8/1/26, 11:29:26 AM - HttpFirewall - Started
+8/1/26, 11:29:27 AM - HttpFirewall - Passed
+8/1/26, 11:29:27 AM - HttpsLatency - Started
+8/1/26, 11:29:28 AM - HttpsLatency - Passed
+8/1/26, 11:29:28 AM - ArcHttp - Started
+8/1/26, 11:29:30 AM - ArcHttp - Failed
+8/1/26, 11:29:30 AM - GoogleServicesConnectivity - Started
+8/1/26, 11:29:41 AM - GoogleServicesConnectivity - Passed
+
+--- Network Events ---
+
+8/1/26, 11:29:11 AM - WiFi network [44:FA:66:1F:BB:D7] started in state Online
+8/1/26, 11:32:13 AM - WiFi network [44:FA:66:1F:BB:D7] removed
+
+=== Keyboard === 
+
+8/1/26, 11:31:48 AM - Key press test - cros_ec
+Key code: 29, Scan code: 32
+Key code: 120, Scan code: 18
+Key code: 29, Scan code: 32
+Key code: 15, Scan code: 33

@@ -1,0 +1,5 @@
+2026-09-28T21:58:20.468445Z NOTICE unix_chkpwd[6016]: check pass; user unknown
+2026-09-28T21:58:22.297314Z NOTICE unix_chkpwd[6020]: check pass; user unknown
+2026-09-28T21:58:22.297817Z NOTICE passwd[6015]: pam_unix(passwd:chauthtok): authentication failure; logname= uid=1000 euid=1000 tty= ruser= rhost=  user=chronos
+2026-09-28T22:43:04.078811Z NOTICE unix_chkpwd[11451]: password check failed for user (chronos)
+2026-09-28T22:43:04.079312Z NOTICE login[544]: pam_unix(login:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/pts/3 ruser= rhost=  user=chronos

@@ -1,0 +1,16 @@
+ACTION!="add", GOTO="pfufs_scanner_rules_end"
+ENV{DEVTYPE}!="usb_device", GOTO="pfufs_scanner_rules_end"
+ATTR{idVendor}!="04c5|05ca",GOTO="pfufs_scanner_rules_end"
+LABEL="pfufs_scanner_rules_begin"
+
+# We add below to cover the #fi-8040
+#fi-8040
+ATTR{idVendor}=="05ca", ATTR{idProduct}=="0307", MODE="0664", GROUP="scanner", ENV{libsane_matched}="yes"
+
+#fi-8170
+ATTR{idVendor}=="05ca", ATTR{idProduct}=="03d8", MODE="0664", GROUP="scanner", ENV{libsane_matched}="yes"
+
+#fi-800R
+ATTR{idVendor}=="05ca", ATTR{idProduct}=="03d5", MODE="0664", GROUP="scanner", ENV{libsane_matched}="yes"
+
+LABEL="pfufs_scanner_rules_end"

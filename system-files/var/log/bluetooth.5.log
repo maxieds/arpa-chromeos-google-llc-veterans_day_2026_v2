@@ -1,0 +1,11 @@
+2026-09-16T23:25:32.765289Z INFO btmanagerd[3856]: Setting up unstable Aflags, mode: Auto, use_unstable: false
+2026-09-16T23:25:32.980246Z WARNING btmanagerd[3856]: Set Floss Enabeld=true
+2026-09-16T23:25:33.141466Z WARNING btmanagerd[3856]: Set Floss LL Privacy=false
+2026-09-16T23:25:34.056329Z WARNING btmanagerd[3856]: Presence added: VirtHci0
+2026-09-16T23:25:34.056804Z INFO btmanagerd[3856]: VirtHci0: Action=HciDevicePresence("/sys/devices/platform/soc/11240000.mmc/mmc_host/mmc1/mmc1:0001/mmc1:0001:2", RealHciIndex(0), true), Previous State(Off), Next State(Off)
+2026-09-17T00:08:03.457232Z INFO btmanagerd[4447]: Setting up unstable Aflags, mode: Auto, use_unstable: false
+2026-09-17T00:08:03.465313Z WARNING btmanagerd[4447]: Set Floss Enabeld=true
+2026-09-17T00:08:03.470062Z WARNING btmanagerd[4447]: Set Floss LL Privacy=false
+2026-09-18T01:39:24.089403Z INFO btmanagerd[4385]: Setting up unstable Aflags, mode: Auto, use_unstable: false
+2026-09-18T01:39:24.096063Z WARNING btmanagerd[4385]: Set Floss Enabeld=true
+2026-09-18T01:39:24.100877Z WARNING btmanagerd[4385]: Set Floss LL Privacy=false

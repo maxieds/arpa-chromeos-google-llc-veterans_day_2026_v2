@@ -1,0 +1,78 @@
+version              | Google_Steelix.15194.324.0
+ro bios version      | Google_Steelix.15194.92.0
+Boot switch status:
+  Recovery button: released
+  Developer mode:  selected
+  RO firmware:     protected
+Boot reason (0): developer
+Boot firmware: B
+Active EC code: RW
+Raw log:
+act_fwver               = 0x00010001                     # [RO/int] Active firmware version
+act_kernver             = (error)                        # [RO/int] Active kernel version
+arch                    = arm                            # [RO/str] Platform architecture
+backup_nvram_request    = 1                              # [RW/int] Backup the nvram somewhere at the next boot. Cleared on success.
+battery_cutoff_request  = 0                              # [RW/int] Cut off battery and shutdown on next boot
+block_devmode           = 0                              # [RW/int] Block all use of developer mode
+board_id                = 3                              # [RO/int] Board hardware revision number
+clear_tpm_owner_done    = 1                              # [RW/int] Clear TPM owner done
+clear_tpm_owner_request = 0                              # [RW/int] Clear TPM owner on next boot
+cros_debug              = 1                              # [RO/int] OS should allow debug features
+dbg_reset               = 0                              # [RW/int] Debug reset mode request
+debug_build             = 0                              # [RO/int] OS image built for debug features
+dev_boot_altfw          = 0                              # [RW/int] Enable developer mode alternate bootloader
+dev_boot_signed_only    = 0                              # [RW/int] Enable developer mode boot only from official kernels
+dev_boot_usb            = 1                              # [RW/int] Enable developer mode boot from external disk (USB/SD)
+dev_default_boot        = disk                           # [RW/str] Default boot from disk, altfw or usb
+dev_enable_udc          = 0                              # [RW/int] Enable USB Device Controller
+dev_fastboot_en         = 0                              # [RW/int] Enable fastboot in developer mode
+devsw_boot              = 1                              # [RO/int] Developer switch position at boot
+devsw_cur               = 1                              # [RO/int] Developer switch current position
+diagnostic_request      = 0                              # [RW/int] Request diagnostic rom run on next boot
+disable_dev_request     = 0                              # [RW/int] Disable virtual dev-mode on next boot
+ecfw_act                = RW                             # [RO/str] Active EC firmware
+post_ec_sync_delay      = 0                              # [RW/int] Short delay after EC software sync (persistent, writable, eve only)
+fw_prev_result          = unknown                        # [RO/str] Firmware result of previous boot
+fw_prev_tried           = B                              # [RO/str] Firmware tried on previous boot (A or B)
+fw_result               = unknown                        # [RW/str] Firmware result this boot
+fw_tried                = B                              # [RO/str] Firmware tried this boot (A or B)
+fw_try_count            = 0                              # [RW/int] Number of times to try fw_try_next
+fw_try_next             = B                              # [RW/str] Firmware to try next (A or B)
+fw_vboot2               = 1                              # [RO/int] 1 if firmware was selected by vboot2 or 0 otherwise
+fwid                    = Google_Steelix.15194.324.0     # [RO/str] Active firmware ID
+fwupdate_tries          = 0                              # [RW/int] Times to try OS firmware update (inside kern_nv)
+hwid                    = RUSTY-ZNCE D4B-C3I-E4E-U2A-Q3C-A34 # [RO/str] Hardware ID
+inside_vm               = 0                              # [RO/int] Running in a VM?
+kern_nv                 = 0x0000                         # [RO/int] Non-volatile field for kernel use
+kernel_max_rollforward  = 0xfffffffe                     # [RW/int] Max kernel version to store into TPM
+kernkey_vfy             = hash                           # [RO/str] Type of verification done on kernel keyblock
+loc_idx                 = 0                              # [RW/int] Localization index for firmware screens
+mainfw_act              = B                              # [RO/str] Active main firmware
+mainfw_type             = developer                      # [RO/str] Active main firmware type
+minios_priority         = B                              # [RW/str] miniOS image to try first (A or B)
+nvram_cleared           = 0                              # [RW/int] Have NV settings been lost?  Write 0 to clear
+display_request         = 0                              # [RW/int] Should we initialize the display at boot?
+oem_lock                = 0                              # [RW/int] Device OEM Lock state
+phase_enforcement       = (error)                        # [RO/int] Board should have full security settings applied
+recovery_reason         = 0                              # [RO/int] Recovery mode reason for current boot
+recovery_request        = 0                              # [RW/int] Recovery mode request
+recovery_subcode        = 0                              # [RW/int] Recovery reason subcode
+recoverysw_boot         = 0                              # [RO/int] Recovery switch position at boot
+recoverysw_cur          = (error)                        # [RO/int] Recovery switch current position
+recoverysw_ec_boot      = 0                              # [RO/int] Recovery switch position at EC boot
+ro_fwid                 = Google_Steelix.15194.92.0      # [RO/str] Read-only firmware ID
+tpm_attack              = 0                              # [RW/int] TPM was interrupted since this flag was cleared
+tpm_fwver               = 0x00010001                     # [RO/int] Firmware version stored in TPM
+tpm_kernver             = 0x00010008                     # [RO/int] Kernel version stored in TPM
+tpm_rebooted            = 0                              # [RO/int] TPM requesting repeated reboot
+try_ro_sync             = 0                              # [RO/int] try read only software sync
+vdat_flags              = 0x00008810                     # [RO/int] Flags from VbSharedData
+vdat_lfdebug            = Check A result=0
+Check B result=0
+Firmware index booted=0x01
+Active firmware version=0x00010001
+Firmware version in TPM =0x00010001
+Lowest combined version from firmware=0x00000000
+ # [RO/str] LoadFirmware() debug data (not in print-all)
+wipeout_request         = 0                              # [RW/int] Firmware requested factory reset (wipeout)
+wpsw_cur                = 1                              # [RO/int] Firmware write protect hardware switch current position

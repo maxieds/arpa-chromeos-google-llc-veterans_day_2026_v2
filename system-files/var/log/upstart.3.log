@@ -1,0 +1,8 @@
+2026-09-19T20:56:01.786124Z WARNING kernel: [ 8677.772226] init: ui_stop_waiter main process (21526) killed by TERM signal
+2026-09-19T20:56:01.787081Z WARNING kernel: [ 8677.773882] init: shill_stop_waiter main process (21536) killed by TERM signal
+2026-09-24T22:20:33.294460Z WARNING kernel: [    2.769444] init: lvm-migration-trim main process (529) killed by TERM signal
+2026-09-24T22:20:33.486169Z WARNING kernel: [    4.172735] init: bluetoothd pre-start process (688) terminated with status 1
+2026-09-24T22:20:35.423154Z WARNING kernel: [    6.110099] init: failsafe-delay main process (675) killed by TERM signal
+2026-09-24T22:20:35.456163Z WARNING kernel: [    6.142643] init: secagentd post-start process (1770) terminated with status 2
+2026-09-24T22:20:35.898297Z WARNING kernel: [    6.584671] init: modemfwd main process (1778) terminated with status 69
+2026-09-24T22:20:41.020156Z WARNING kernel: [   11.706474] init: send-boot-elog-metrics main process (3253) terminated with status 1

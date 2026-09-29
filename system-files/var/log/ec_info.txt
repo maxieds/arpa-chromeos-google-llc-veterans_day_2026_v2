@@ -1,0 +1,45 @@
++ ectool --name cros_ec version
+RO version:    steelix_v3.4.111592-ec:f021fd,o
+RW version:    steelix-15194.324.0
+Firmware copy: RW
+Build info:    steelix-15194.324.0 STATIC_VERSION_DATE reproducible@build
+Tool version:  v2.0.31176-b0d8684f0a 2026-05-26 22:25:10 @chromeos-releasempa-builder-us-central1-b-x32-18-bg7b
++ ectool --name cros_pd version
+Unable to establish host communication
+Couldn't find EC
++ true
++ ectool --name cros_fp version
+Unable to establish host communication
+Couldn't find EC
++ true
++ ectool --name cros_scp version
+RO version:    corsola_scp_v2.0.26398-b0a14192
+RO cros fwid:  corsola_scp_15194.319.0
+RW version:    corsola_scp_v2.0.26398-b0a14192
+RW cros fwid:  corsola_scp_15194.319.0
+Firmware copy: RW
+Build info:    corsola_scp_v2.0.26398-b0a14192 private-mt-scp:v0.0.123-3bb7b89 corsola_scp_15194.319.0 2025-05-14 21:06:28 @chromeos-ci-firmware-us-east1-d-x32-0-x44a
+Tool version:  v2.0.31176-b0d8684f0a 2026-05-26 22:25:10 @chromeos-releasempa-builder-us-central1-b-x32-18-bg7b
++ ectool --name cros_ish version
+Unable to establish host communication
+Couldn't find EC
++ true
++ ectool pdchipinfo 0
+vendor_id: 0x7977
+product_id: 0x7447
+device_id: 0xaa
+fw_version: 0x115
+fw_version_dec: 0.0.0.0.0.0.1.21
+min_req_fw_version: 0x115
+fw_update_flags: UNSUPPORTED
+fw_name_str: UNSUPPORTED
+driver_name: UNSUPPORTED
++ ectool pdchipinfo 1
+EC result 2 (ERROR)
++ true
++ ectool pdchipinfo 2
+EC result 3 (INVALID_PARAM)
++ true
++ ectool pdchipinfo 3
+EC result 3 (INVALID_PARAM)
++ true

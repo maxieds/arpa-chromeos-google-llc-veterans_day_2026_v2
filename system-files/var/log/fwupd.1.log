@@ -1,0 +1,163 @@
+2026-09-26T23:11:57.319478Z INFO fwupd[3581]: FuContext            battery level now 54
+2026-09-26T23:51:23.165388Z INFO fwupd[3581]: FuContext            battery level now 53
+2026-09-27T00:30:19.890352Z INFO fwupd[3581]: FuContext            battery level now 52
+2026-09-27T01:18:24.065205Z INFO fwupd[3581]: FuContext            battery level now 51
+2026-09-27T01:54:18.307331Z INFO fwupd[3581]: FuContext            battery level now 50
+2026-09-27T02:31:44.666429Z INFO fwupd[3581]: FuContext            battery level now 49
+2026-09-27T03:12:12.814996Z INFO fwupd[3581]: FuContext            battery level now 48
+2026-09-27T03:53:43.723113Z INFO fwupd[3581]: FuContext            battery level now 47
+2026-09-27T04:23:04.276011Z INFO fwupd[3581]: FuContext            battery level now 46
+2026-09-27T04:57:20.233038Z WARNING fwupdtool-activate[43013]: Idle…: 0%
+2026-09-27T04:57:20.240929Z WARNING fwupdtool-activate[43013]: [31m[1mWARNING[0m: UEFI ESP partition not detected or configured
+2026-09-27T04:57:20.240929Z WARNING fwupdtool-activate[43013]: See https://github.com/fwupd/fwupd/wiki/PluginFlag:esp-not-found for more information.
+2026-09-27T04:57:20.245258Z WARNING fwupdtool-activate[43013]: No firmware to activate
+2026-09-27T04:57:21.624955Z INFO fwupd[3581]: FuMain               Received SIGTERM
+2026-09-27T13:50:06.812275Z INFO fwupd[3711]: FuDebug              verbose to info (on console 0)
+2026-09-27T13:50:06.850956Z INFO fwupd[3711]: FuRemoteList         loading remote from /etc/fwupd/remotes.d/fwupd-peripherals.conf
+2026-09-27T13:50:06.856091Z INFO fwupd[3711]: FuRemoteList         loading remote from /etc/fwupd/remotes.d/lvfs-testing.conf
+2026-09-27T13:50:06.858108Z INFO fwupd[3711]: FuRemoteList         loading remote from /etc/fwupd/remotes.d/lvfs.conf
+2026-09-27T13:50:06.859302Z INFO fwupd[3711]: FuRemoteList         auto-fixing remote lvfs MetadataURI from https://storage.googleapis.com/chromeos-localmirror/lvfs/firmware.xml.xz to https://storage.googleapis.com/chromeos-localmirror/lvfs/firmware.xml.zst
+2026-09-27T13:50:06.862373Z INFO fwupd[3711]: FuRemoteList         loading remote from /etc/fwupd/remotes.d/vendor-directory.conf
+2026-09-27T13:50:06.863527Z INFO fwupd[3711]: FuRemoteList         enabled remotes: fwupd-peripherals[1000], vendor-directory[1000], lvfs[0]
+2026-09-27T13:50:06.875641Z INFO fwupd[3711]: FuEngine             client certificate now exists: nothing to do
+2026-09-27T13:50:06.071167Z INFO fwupd[3711]: FuContext            added udev subsystem watch of hidraw
+2026-09-27T13:50:06.086186Z INFO fwupd[3711]: FuQuirks             loading quirks from /usr/share/fwupd/quirks.d
+2026-09-27T13:50:06.087483Z INFO fwupd[3711]: FuQuirks             loading quirks from /var/lib/fwupd/quirks.d
+2026-09-27T13:50:06.095494Z INFO fwupd[3711]: FuContext            failed to load smbios: SMBIOS tables not found at /sys/firmware/dmi/tables
+2026-09-27T13:50:06.095946Z INFO fwupd[3711]: FuContext            failed to load fdt: failed to parse FDT: Error opening file /sys/firmware/fdt: Permission denied
+2026-09-27T13:50:06.096147Z INFO fwupd[3711]: FuContext            failed to load dmi: no /sys/class/dmi/id
+2026-09-27T13:50:06.106437Z INFO fwupd[3711]: FuContext            Failed to get block devices: failed to call org.freedesktop.UDisks2.Manager.GetBlockDevices(): The name org.freedesktop.UDisks2 was not provided by any .service files
+2026-09-27T13:50:06.107094Z INFO fwupd[3711]: FuContext            added udev subsystem watch of firmware-attributes
+2026-09-27T13:50:06.110032Z INFO fwupd[3711]: FuEngine             loading metadata for remote 'vendor-directory'
+2026-09-27T13:50:06.111409Z INFO fwupd[3711]: FuEngine             ignoring: /usr/share/fwupd/remotes.d/vendor/firmware/README.md
+2026-09-27T13:50:06.113078Z INFO fwupd[3711]: FuEngine             ignoring: Error opening directory "/var/lib/fwupd/local.d": No such file or directory
+2026-09-27T13:50:06.113951Z INFO fwupd[3711]: FuEngine             loading local metadata: /usr/share/fwupd/local.d/fwupd-storage-bkc.xml
+2026-09-27T13:50:06.114961Z INFO fwupd[3711]: FuEngine             loading local metadata: /usr/share/fwupd/local.d/mmc-firmware-bkc.xml
+2026-09-27T13:50:06.232719Z INFO fwupd[3711]: FuEngine             4200 components now in silo
+2026-09-27T13:50:06.790553Z INFO fwupd[3711]: FuContext            added udev subsystem watch of usb
+2026-09-27T13:50:06.790689Z INFO fwupd[3711]: FuContext            added udev subsystem watch of block
+2026-09-27T13:50:06.790716Z INFO fwupd[3711]: FuContext            added udev subsystem watch of block:disk for plugin algoltek_usbcr
+2026-09-27T13:50:06.790860Z INFO fwupd[3711]: FuContext            added udev subsystem watch of i2c
+2026-09-27T13:50:06.793020Z INFO fwupd[3711]: FuContext            added udev subsystem watch of block:partition for plugin android_boot
+2026-09-27T13:50:06.793020Z INFO fwupd[3711]: FuContext            added udev subsystem watch of pci
+2026-09-27T13:50:06.793020Z INFO fwupd[3711]: FuContext            added udev subsystem watch of drm
+2026-09-27T13:50:06.793020Z INFO fwupd[3711]: FuContext            added udev subsystem watch of drm_dp_aux_dev for plugin bnr_dp
+2026-09-27T13:50:06.793858Z INFO fwupd[3711]: FuContext            added udev subsystem watch of i2c-dev
+2026-09-27T13:50:06.794594Z INFO fwupd[3711]: FuContext            added udev subsystem watch of mei
+2026-09-27T13:50:06.796093Z INFO fwupd[3711]: FuContext            added udev subsystem watch of mtd for plugin mtd
+2026-09-27T13:50:06.796204Z INFO fwupd[3711]: FuContext            added udev subsystem watch of nvme for plugin nvme
+2026-09-27T13:50:06.796525Z INFO fwupd[3711]: FuContext            added udev subsystem watch of wwan
+2026-09-27T13:50:06.822371Z INFO fwupd[3711]: FuContext            added udev subsystem watch of video4linux
+2026-09-27T13:50:06.822743Z INFO fwupd[3711]: FuContext            added udev subsystem watch of serio
+2026-09-27T13:50:06.836762Z INFO fwupd[3711]: FuPluginUefiDbx      cannot find default ESP: failed to call org.freedesktop.UDisks2.Manager.GetBlockDevices(): The name org.freedesktop.UDisks2 was not provided by any .service files
+2026-09-27T13:50:06.838077Z INFO fwupd[3711]: FuEngine             plugins disabled: uefi_capsule, fastboot, logitech_scribe, logitech_tap, test, test_ble, uefi_pk
+2026-09-27T13:50:06.838077Z INFO fwupd[3711]: FuPluginList         cannot find plugin 'thunderbolt' requested by 'intel_usb4'
+2026-09-27T13:50:06.838077Z INFO fwupd[3711]: FuPluginList         cannot find plugin 'thunderbolt' requested by 'intel_usb4'
+2026-09-27T13:50:06.838077Z INFO fwupd[3711]: FuPluginList         cannot find plugin 'bios' referenced by 'uefi_esrt'
+2026-09-27T13:50:06.838077Z INFO fwupd[3711]: FuContext            battery threshold now 10
+2026-09-27T13:50:06.839468Z INFO fwupd[3711]: FuEngine             disabling plugin because: failed to startup using dell: firmware updating not supported: no structures with type de
+2026-09-27T13:50:06.839543Z INFO fwupd[3711]: FuEngine             disabling plugin because: failed to startup using hp_bios_cfg: unsupported manufacturer, got (null)
+2026-09-27T13:50:06.839615Z INFO fwupd[3711]: FuEngine             disabling plugin because: failed to startup using lenovo_thinklmi: unsupported manufacturer
+2026-09-27T13:50:07.491291Z INFO fwupd[3711]: FuContext            battery level now 46
+2026-09-27T13:50:07.491291Z INFO fwupd[3711]: FuContext            power state now battery
+2026-09-27T13:50:07.491291Z INFO fwupd[3711]: FuEngine             disabling plugin because: failed to startup using redfish: no username and password specified, and no vendor quirk for 'ipmi-create-user'
+2026-09-27T13:50:07.491291Z INFO fwupd[3711]: FuEngine             disabling plugin because: failed to startup using snap: not run as a snap and no snap FDE
+2026-09-27T13:50:07.491291Z INFO fwupd[3711]: FuEngine             disabling plugin because: failed to startup using uefi_mok: /sys/firmware/efi/mok-variables/HSIStatus does not exist
+2026-09-27T13:50:07.491291Z INFO fwupd[3711]: FuEngine             disabling plugin because: failed to startup using uefi_recovery: kernel efivars support missing: /sys/firmware/efi/efivars
+2026-09-27T13:50:07.491291Z INFO fwupd[3711]: FuEngine             disabling plugin because: failed to startup using uefi_sbat: SecureBoot is not available
+2026-09-27T13:50:07.502350Z INFO fwupd[3711]: FuEngine             disabling plugin because: failed to startup using upower: no owner for org.freedesktop.UPower
+2026-09-27T13:50:07.502774Z INFO fwupd[3711]: FuEngine             disabling plugin because: failed to coldplug using acpi_phat: Failed to open file "/sys/firmware/acpi/tables/PHAT": No such file or directory
+2026-09-27T13:50:07.502950Z INFO fwupd[3711]: FuEngine             disabling plugin because: failed to coldplug using vbe: failed to parse FDT: Error opening file /sys/firmware/fdt: Permission denied
+2026-09-27T13:50:07.503520Z INFO fwupd[3711]: FuEngine             using plugins: algoltek_usb, algoltek_usbcr, amd_kria, analogix, android_boot, asus_hid, ata, aver_hid, bcm57xx, blestech_tp, bnr_dp, ccgx, ccgx_dmc, cfu, corsair, cros_ec, dell_dock, dell_kestrel, dfu, ebitdo, egis_moc, elan_kbd, elanfp, elantp, emmc, ep963x, focal_fp, focal_touch, fpc, framework_qmk, fresco_pd, genesys, genesys_gl32xx, goodix_moc, goodixtp, himax_tp, hpi_cfu, huddly_usb, hughski_colorhug, igsc, ilitek_its, intel_amt, intel_cvs, intel_mchi, intel_mkhi, intel_usb4, jabra, jabra_file, jabra_gnp, kinetic_dp, legion_hid, legion_hid2, lenovo_accessory, lenovo_dock, linux_display, logitech_bulkcontroller, logitech_hidpp, logitech_rallysystem, lxs_touch, mediatek_scaler, mtd, nordic_hid, novatek_ts, nvme, parade_lspcon, parade_usbhub, pixart_rf, pixart_tp, powerd, qc_firehose, qc_s5gen2, qsi_dock, raydium_tp, realtek_mst, rp_pico, rts54hub, scsi, steelseries, sunplus_camera, sunwinon_hid, synaptics_cape, synaptics_cxaudio, synaptics_mst, synaptics_prometheus, synaptics_rmi, synaptics_vmm9, system76_launch, telink_dfu, thelio_io, ti_tps6598x, uefi_db, uefi_dbx, uefi_esrt, uefi_kek, uf2, usi_dock, vli, wacom_raw, wacom_usb, wch_ch341a, wch_ch347, wistron_dock
+2026-09-27T13:50:07.944218Z INFO fwupd[3711]: FuDeviceList         ::added ed0df1fddefb8e54d1b0671d8643447eb6b04d0a [Touchpad]
+2026-09-27T13:50:07.946293Z INFO fwupd[3711]: FuPluginDfu          DFU v1.1
+2026-09-27T13:50:08.044449Z INFO fwupd[3711]: FuDeviceList         ::added d787669ee4a103fe0b361fe31c10ea037c72f27c [EasyCamera]
+2026-09-27T13:50:08.068492Z INFO fwupd[3711]: FuDeviceList         ::added 8bfb526c1d1630d164e7446c7f041f73973ea766 [A3A551]
+2026-09-27T13:50:08.076103Z INFO fwupd[3711]: FuPluginScsi         found ufshci controller at /sys/devices/platform/soc/11230000.mmc
+2026-09-27T13:50:08.121977Z INFO fwupd[3711]: FuPluginScsi         found ufshci controller at /sys/devices/platform/soc/11230000.mmc
+2026-09-27T13:50:08.142932Z INFO fwupd[3711]: FuPluginScsi         found ufshci controller at /sys/devices/platform/soc/11230000.mmc
+2026-09-27T13:50:08.374306Z INFO fwupd[3711]: FuDeviceList         ::added 10feb8f8641be9b4f44d52078baa6338209a53ef [N116BGE-EA2]
+2026-09-27T13:50:08.443376Z INFO fwupd[3711]: FuContext            display-state now connected
+2026-09-27T13:50:08.448576Z INFO fwupd[3711]: FuEngine             resetting update motd timeout
+2026-09-27T13:50:08.455866Z INFO fwupd[3711]: FuMain               fwupd 2.1.2 ready for requests (locale en_US.UTF-8)
+2026-09-27T13:51:12.001910Z INFO fwupd[3711]: FuContext            battery level now 45
+2026-09-27T14:26:06.613594Z INFO fwupd[3711]: FuContext            battery level now 44
+2026-09-27T15:15:40.780635Z INFO fwupd[3711]: FuContext            battery level now 43
+2026-09-27T16:06:17.357111Z INFO fwupd[3711]: FuContext            battery level now 42
+2026-09-27T16:55:53.043759Z INFO fwupd[3711]: FuContext            battery level now 41
+2026-09-27T17:46:29.205404Z INFO fwupd[3711]: FuContext            battery level now 40
+2026-09-27T17:53:45.251719Z WARNING fwupdtool-activate[30093]: Idle…: 0%
+2026-09-27T17:53:45.267144Z WARNING fwupdtool-activate[30093]: [31m[1mWARNING[0m: UEFI ESP partition not detected or configured
+2026-09-27T17:53:45.267144Z WARNING fwupdtool-activate[30093]: See https://github.com/fwupd/fwupd/wiki/PluginFlag:esp-not-found for more information.
+2026-09-27T17:53:45.272879Z WARNING fwupdtool-activate[30093]: No firmware to activate
+2026-09-27T17:53:46.793113Z INFO fwupd[3711]: FuMain               Received SIGTERM
+2026-09-28T21:52:38.404031Z INFO fwupd[3715]: FuDebug              verbose to info (on console 0)
+2026-09-28T21:52:38.417107Z INFO fwupd[3715]: FuRemoteList         loading remote from /etc/fwupd/remotes.d/fwupd-peripherals.conf
+2026-09-28T21:52:38.419753Z INFO fwupd[3715]: FuRemoteList         loading remote from /etc/fwupd/remotes.d/lvfs-testing.conf
+2026-09-28T21:52:38.422049Z INFO fwupd[3715]: FuRemoteList         loading remote from /etc/fwupd/remotes.d/lvfs.conf
+2026-09-28T21:52:38.423118Z INFO fwupd[3715]: FuRemoteList         auto-fixing remote lvfs MetadataURI from https://storage.googleapis.com/chromeos-localmirror/lvfs/firmware.xml.xz to https://storage.googleapis.com/chromeos-localmirror/lvfs/firmware.xml.zst
+2026-09-28T21:52:38.425497Z INFO fwupd[3715]: FuRemoteList         loading remote from /etc/fwupd/remotes.d/vendor-directory.conf
+2026-09-28T21:52:38.426692Z INFO fwupd[3715]: FuRemoteList         enabled remotes: fwupd-peripherals[1000], vendor-directory[1000], lvfs[0]
+2026-09-28T21:52:38.437268Z INFO fwupd[3715]: FuEngine             client certificate now exists: nothing to do
+2026-09-28T21:52:38.458875Z INFO fwupd[3715]: FuContext            added udev subsystem watch of hidraw
+2026-09-28T21:52:38.475482Z INFO fwupd[3715]: FuQuirks             loading quirks from /usr/share/fwupd/quirks.d
+2026-09-28T21:52:38.477166Z INFO fwupd[3715]: FuQuirks             loading quirks from /var/lib/fwupd/quirks.d
+2026-09-28T21:52:38.482860Z INFO fwupd[3715]: FuContext            failed to load smbios: SMBIOS tables not found at /sys/firmware/dmi/tables
+2026-09-28T21:52:38.483129Z INFO fwupd[3715]: FuContext            failed to load fdt: failed to parse FDT: Error opening file /sys/firmware/fdt: Permission denied
+2026-09-28T21:52:38.483259Z INFO fwupd[3715]: FuContext            failed to load dmi: no /sys/class/dmi/id
+2026-09-28T21:52:38.491283Z INFO fwupd[3715]: FuContext            Failed to get block devices: failed to call org.freedesktop.UDisks2.Manager.GetBlockDevices(): The name org.freedesktop.UDisks2 was not provided by any .service files
+2026-09-28T21:52:38.491605Z INFO fwupd[3715]: FuContext            added udev subsystem watch of firmware-attributes
+2026-09-28T21:52:38.492679Z INFO fwupd[3715]: FuEngine             loading metadata for remote 'vendor-directory'
+2026-09-28T21:52:38.493454Z INFO fwupd[3715]: FuEngine             ignoring: /usr/share/fwupd/remotes.d/vendor/firmware/README.md
+2026-09-28T21:52:38.494385Z INFO fwupd[3715]: FuEngine             ignoring: Error opening directory "/var/lib/fwupd/local.d": No such file or directory
+2026-09-28T21:52:38.495084Z INFO fwupd[3715]: FuEngine             loading local metadata: /usr/share/fwupd/local.d/fwupd-storage-bkc.xml
+2026-09-28T21:52:38.495864Z INFO fwupd[3715]: FuEngine             loading local metadata: /usr/share/fwupd/local.d/mmc-firmware-bkc.xml
+2026-09-28T21:52:38.564210Z INFO fwupd[3715]: FuEngine             4200 components now in silo
+2026-09-28T21:52:38.668322Z INFO fwupd[3715]: FuContext            added udev subsystem watch of usb
+2026-09-28T21:52:38.668597Z INFO fwupd[3715]: FuContext            added udev subsystem watch of block
+2026-09-28T21:52:38.668790Z INFO fwupd[3715]: FuContext            added udev subsystem watch of block:disk for plugin algoltek_usbcr
+2026-09-28T21:52:38.669084Z INFO fwupd[3715]: FuContext            added udev subsystem watch of i2c
+2026-09-28T21:52:38.669374Z INFO fwupd[3715]: FuContext            added udev subsystem watch of block:partition for plugin android_boot
+2026-09-28T21:52:38.669872Z INFO fwupd[3715]: FuContext            added udev subsystem watch of pci
+2026-09-28T21:52:38.670151Z INFO fwupd[3715]: FuContext            added udev subsystem watch of drm
+2026-09-28T21:52:38.670667Z INFO fwupd[3715]: FuContext            added udev subsystem watch of drm_dp_aux_dev for plugin bnr_dp
+2026-09-28T21:52:38.671415Z INFO fwupd[3715]: FuContext            added udev subsystem watch of i2c-dev
+2026-09-28T21:52:38.672400Z INFO fwupd[3715]: FuContext            added udev subsystem watch of mei
+2026-09-28T21:52:38.673717Z INFO fwupd[3715]: FuContext            added udev subsystem watch of mtd for plugin mtd
+2026-09-28T21:52:38.673998Z INFO fwupd[3715]: FuContext            added udev subsystem watch of nvme for plugin nvme
+2026-09-28T21:52:38.674490Z INFO fwupd[3715]: FuContext            added udev subsystem watch of wwan
+2026-09-28T21:52:38.678430Z INFO fwupd[3715]: FuContext            added udev subsystem watch of video4linux
+2026-09-28T21:52:38.678982Z INFO fwupd[3715]: FuContext            added udev subsystem watch of serio
+2026-09-28T21:52:38.695176Z INFO fwupd[3715]: FuPluginUefiDbx      cannot find default ESP: failed to call org.freedesktop.UDisks2.Manager.GetBlockDevices(): The name org.freedesktop.UDisks2 was not provided by any .service files
+2026-09-28T21:52:38.696128Z INFO fwupd[3715]: FuEngine             plugins disabled: uefi_capsule, fastboot, logitech_scribe, logitech_tap, test, test_ble, uefi_pk
+2026-09-28T21:52:38.696342Z INFO fwupd[3715]: FuPluginList         cannot find plugin 'thunderbolt' requested by 'intel_usb4'
+2026-09-28T21:52:38.696556Z INFO fwupd[3715]: FuPluginList         cannot find plugin 'thunderbolt' requested by 'intel_usb4'
+2026-09-28T21:52:38.696736Z INFO fwupd[3715]: FuPluginList         cannot find plugin 'bios' referenced by 'uefi_esrt'
+2026-09-28T21:52:38.697090Z INFO fwupd[3715]: FuContext            battery threshold now 10
+2026-09-28T21:52:38.698642Z INFO fwupd[3715]: FuEngine             disabling plugin because: failed to startup using dell: firmware updating not supported: no structures with type de
+2026-09-28T21:52:38.698893Z INFO fwupd[3715]: FuEngine             disabling plugin because: failed to startup using hp_bios_cfg: unsupported manufacturer, got (null)
+2026-09-28T21:52:38.699138Z INFO fwupd[3715]: FuEngine             disabling plugin because: failed to startup using lenovo_thinklmi: unsupported manufacturer
+2026-09-28T21:52:39.106197Z INFO fwupd[3715]: FuContext            battery level now 40
+2026-09-28T21:52:39.106239Z INFO fwupd[3715]: FuContext            power state now battery
+2026-09-28T21:52:39.106500Z INFO fwupd[3715]: FuEngine             disabling plugin because: failed to startup using redfish: no username and password specified, and no vendor quirk for 'ipmi-create-user'
+2026-09-28T21:52:39.106636Z INFO fwupd[3715]: FuEngine             disabling plugin because: failed to startup using snap: not run as a snap and no snap FDE
+2026-09-28T21:52:39.106760Z INFO fwupd[3715]: FuEngine             disabling plugin because: failed to startup using uefi_mok: /sys/firmware/efi/mok-variables/HSIStatus does not exist
+2026-09-28T21:52:39.106820Z INFO fwupd[3715]: FuEngine             disabling plugin because: failed to startup using uefi_recovery: kernel efivars support missing: /sys/firmware/efi/efivars
+2026-09-28T21:52:39.106928Z INFO fwupd[3715]: FuEngine             disabling plugin because: failed to startup using uefi_sbat: SecureBoot is not available
+2026-09-28T21:52:39.111841Z INFO fwupd[3715]: FuEngine             disabling plugin because: failed to startup using upower: no owner for org.freedesktop.UPower
+2026-09-28T21:52:39.113102Z INFO fwupd[3715]: FuEngine             disabling plugin because: failed to coldplug using acpi_phat: Failed to open file "/sys/firmware/acpi/tables/PHAT": No such file or directory
+2026-09-28T21:52:39.113715Z INFO fwupd[3715]: FuEngine             disabling plugin because: failed to coldplug using vbe: failed to parse FDT: Error opening file /sys/firmware/fdt: Permission denied
+2026-09-28T21:52:39.114092Z INFO fwupd[3715]: FuEngine             using plugins: algoltek_usb, algoltek_usbcr, amd_kria, analogix, android_boot, asus_hid, ata, aver_hid, bcm57xx, blestech_tp, bnr_dp, ccgx, ccgx_dmc, cfu, corsair, cros_ec, dell_dock, dell_kestrel, dfu, ebitdo, egis_moc, elan_kbd, elanfp, elantp, emmc, ep963x, focal_fp, focal_touch, fpc, framework_qmk, fresco_pd, genesys, genesys_gl32xx, goodix_moc, goodixtp, himax_tp, hpi_cfu, huddly_usb, hughski_colorhug, igsc, ilitek_its, intel_amt, intel_cvs, intel_mchi, intel_mkhi, intel_usb4, jabra, jabra_file, jabra_gnp, kinetic_dp, legion_hid, legion_hid2, lenovo_accessory, lenovo_dock, linux_display, logitech_bulkcontroller, logitech_hidpp, logitech_rallysystem, lxs_touch, mediatek_scaler, mtd, nordic_hid, novatek_ts, nvme, parade_lspcon, parade_usbhub, pixart_rf, pixart_tp, powerd, qc_firehose, qc_s5gen2, qsi_dock, raydium_tp, realtek_mst, rp_pico, rts54hub, scsi, steelseries, sunplus_camera, sunwinon_hid, synaptics_cape, synaptics_cxaudio, synaptics_mst, synaptics_prometheus, synaptics_rmi, synaptics_vmm9, system76_launch, telink_dfu, thelio_io, ti_tps6598x, uefi_db, uefi_dbx, uefi_esrt, uefi_kek, uf2, usi_dock, vli, wacom_raw, wacom_usb, wch_ch341a, wch_ch347, wistron_dock
+2026-09-28T21:52:39.535660Z INFO fwupd[3715]: FuDeviceList         ::added ed0df1fddefb8e54d1b0671d8643447eb6b04d0a [Touchpad]
+2026-09-28T21:52:39.540201Z INFO fwupd[3715]: FuPluginDfu          DFU v1.1
+2026-09-28T21:52:39.542439Z INFO fwupd[3715]: FuDeviceList         ::added d787669ee4a103fe0b361fe31c10ea037c72f27c [EasyCamera]
+2026-09-28T21:52:39.562403Z INFO fwupd[3715]: FuDeviceList         ::added 8bfb526c1d1630d164e7446c7f041f73973ea766 [A3A551]
+2026-09-28T21:52:39.567668Z INFO fwupd[3715]: FuPluginScsi         found ufshci controller at /sys/devices/platform/soc/11230000.mmc
+2026-09-28T21:52:39.600833Z INFO fwupd[3715]: FuPluginScsi         found ufshci controller at /sys/devices/platform/soc/11230000.mmc
+2026-09-28T21:52:39.624861Z INFO fwupd[3715]: FuPluginScsi         found ufshci controller at /sys/devices/platform/soc/11230000.mmc
+2026-09-28T21:52:40.388282Z INFO fwupd[3715]: FuDeviceList         ::added 10feb8f8641be9b4f44d52078baa6338209a53ef [N116BGE-EA2]
+2026-09-28T21:52:40.432776Z INFO fwupd[3715]: FuContext            display-state now connected
+2026-09-28T21:52:40.442506Z INFO fwupd[3715]: FuEngine             resetting update motd timeout
+2026-09-28T21:52:40.453236Z INFO fwupd[3715]: FuMain               fwupd 2.1.2 ready for requests (locale en_US.UTF-8)
+2026-09-28T21:53:51.743894Z INFO fwupd[3715]: FuPluginScsi         found ufshci controller at /sys/devices/platform/soc/11280000.usb
+2026-09-28T21:53:51.750715Z INFO fwupd[3715]: FuEngine             failed to add device /sys/devices/platform/soc/11280000.usb/usb4/4-1/4-1.2/4-1.2:1.0/host0/target0:0:0/0:0:0:0/block/sda: failed to setup: no value for VEN

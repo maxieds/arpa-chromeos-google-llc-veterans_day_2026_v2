@@ -1,0 +1,150 @@
+[Component Qualification Status]
+{
+ "isCompliant": true,
+ "foundComponentInfos": [
+  {
+   "componentUuid": "rusty_battery_4962_12429",
+   "qualificationStatus": "QUALIFIED",
+   "componentCategory": "battery",
+   "componentFields": {
+    "battery": {
+     "index": 0,
+     "manufacturer": "COSMX",
+     "modelName": "L22X3PG0",
+     "serialNumber": "",
+     "chargeFullDesign": 0,
+     "chargeFull": 0,
+     "chargeNow": 0,
+     "voltageNow": 0,
+     "voltageMinDesign": 0,
+     "cycleCountSmart": 0,
+     "statusSmart": 0,
+     "temperatureSmart": 0,
+     "path": "",
+     "manufactureDateSmart": 0,
+     "technology": "Li-poly",
+     "chemistry": "LiP"
+    }
+   }
+  },
+  {
+   "componentUuid": "rusty_storage_4493_13437",
+   "qualificationStatus": "QUALIFIED",
+   "componentCategory": "storage",
+   "componentFields": {
+    "storage": {
+     "path": "",
+     "sectors": "60620800",
+     "size": "0",
+     "type": "MMC_ASSEMBLY",
+     "mmcManfid": 214,
+     "mmcName": "A3A551",
+     "mmcPrv": 21,
+     "mmcSerial": 606033362,
+     "mmcOemid": 259,
+     "pciVendor": 0,
+     "pciDevice": 0,
+     "pciClass": 0,
+     "ataVendor": "",
+     "ataModel": "",
+     "mmcHwrev": 0,
+     "ufsVendor": "",
+     "ufsModel": "",
+     "mmcHostBusType": "",
+     "mmcHostPciVendorId": "",
+     "mmcHostPciDeviceId": "",
+     "mmcHostPciRevision": "",
+     "mmcHostPciSubsystem": "",
+     "mmcHostPciClass": ""
+    }
+   }
+  },
+  {
+   "componentUuid": "rusty_camera_3899_10852",
+   "qualificationStatus": "QUALIFIED",
+   "componentCategory": "camera",
+   "componentFields": {
+    "camera": {
+     "path": "",
+     "busType": "usb",
+     "usbVendorId": 22918,
+     "usbProductId": 4466,
+     "usbBcdDevice": 5604,
+     "usbRemovable": "UNKNOWN",
+     "mipiName": "",
+     "mipiModuleId": "",
+     "mipiSensorId": "",
+     "mipiVendor": ""
+    }
+   }
+  },
+  {
+   "componentUuid": "rusty_touchpad_3057_10918",
+   "qualificationStatus": "QUALIFIED",
+   "componentCategory": "touchpad",
+   "componentFields": {
+    "touchpad": {
+     "name": "Elan Touchpad",
+     "path": "",
+     "event": "",
+     "bus": 24,
+     "vendor": 1267,
+     "product": 265,
+     "version": 0,
+     "fwVersion": "",
+     "deviceType": "TYPE_TOUCHPAD"
+    }
+   }
+  },
+  {
+   "componentUuid": "rusty_display_panel_3166_10977",
+   "qualificationStatus": "QUALIFIED",
+   "componentCategory": "display_panel",
+   "componentFields": {
+    "displayPanel": {
+     "path": "",
+     "vendor": "CMN",
+     "productId": 4402,
+     "height": 768,
+     "width": 1366
+    }
+   }
+  }
+ ]
+}
+
+[Generic Device Info]
+battery {
+  manufacturer: "COSMX"
+  model_name: "L22X3PG0"
+  technology: "Li-poly"
+  chemistry: "LiP"
+}
+storage {
+  sectors: 60620800
+  type: "MMC_ASSEMBLY"
+  mmc_manfid: 214
+  mmc_name: "A3A551"
+  mmc_prv: 21
+  mmc_serial: 606033362
+  mmc_oemid: 259
+}
+camera {
+  bus_type: "usb"
+  usb_vendor_id: 22918
+  usb_product_id: 4466
+  usb_bcd_device: 22020
+}
+touchpad {
+  name: "Elan Touchpad"
+  bus: 24
+  vendor: 1267
+  product: 265
+  device_type: TYPE_TOUCHPAD
+}
+display_panel {
+  vendor: "CMN"
+  product_id: 4402
+  height: 768
+  width: 1366
+}

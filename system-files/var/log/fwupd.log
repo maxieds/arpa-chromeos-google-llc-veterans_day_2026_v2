@@ -1,0 +1,11 @@
+2026-09-28T22:01:51.217388Z INFO fwupd[3715]: FuContext            battery level now 39
+2026-09-28T22:12:12.701699Z INFO fwupd[3715]: FuPluginScsi         found ufshci controller at /sys/devices/platform/soc/11280000.usb
+2026-09-28T22:12:12.708537Z INFO fwupd[3715]: FuEngine             failed to add device /sys/devices/platform/soc/11280000.usb/usb4/4-1/4-1.2/4-1.2:1.0/host0/target0:0:0/0:0:0:0/block/sda: failed to setup: no value for VEN
+2026-09-28T22:15:01.782210Z INFO fwupd[3715]: FuContext            battery level now 38
+2026-09-28T22:21:06.854885Z INFO fwupd[3715]: FuContext            battery level now 37
+2026-09-28T22:29:12.906537Z INFO fwupd[3715]: FuContext            battery level now 36
+2026-09-28T22:37:18.267108Z INFO fwupd[3715]: FuContext            battery level now 35
+2026-09-28T22:43:22.974812Z INFO fwupd[3715]: FuContext            battery level now 34
+2026-09-28T22:49:57.654010Z INFO fwupd[3715]: FuContext            battery level now 33
+2026-09-28T22:57:33.658622Z INFO fwupd[3715]: FuContext            battery level now 32
+2026-09-28T23:04:08.985580Z INFO fwupd[3715]: FuContext            battery level now 31

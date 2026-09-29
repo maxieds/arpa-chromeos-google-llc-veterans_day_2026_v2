@@ -1,0 +1,7 @@
+start
+device: DT
+keyids: RO 0xc7d40497, RW 0xfba25ca9
+offsets: backup RO at 0, backup RW at 0x4000
+Current versions:
+RO 0.0.62
+RW 0.23.250

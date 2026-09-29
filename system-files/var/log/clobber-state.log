@@ -1,0 +1,51 @@
+2026-08-02T13:06:06.438821Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:302] Factory wipe: 0
+2026-08-02T13:06:06.438882Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:303] Fast wipe: 0
+2026-08-02T13:06:06.438887Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:304] Keepimg: 1
+2026-08-02T13:06:06.438891Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:305] Safe wipe: 0
+2026-08-02T13:06:06.438895Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:306] Rollback wipe: 0
+2026-08-02T13:06:06.438899Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:307] Reason: 
+2026-08-02T13:06:06.438902Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:308] RMA wipe: 0
+2026-08-02T13:06:06.438905Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:309] AD migration wipe: 0
+2026-08-02T13:06:06.438910Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:310] Disable LVM install: 0
+2026-08-02T13:06:06.438914Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:311] Default key migration wipe: 0
+2026-08-02T13:06:06.438917Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:313] Dry run: 0
+2026-08-02T13:06:06.439063Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:636] Beginning clobber-state run
+2026-08-02T13:06:06.439374Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:659] Root disk: /dev/mmcblk0
+2026-08-02T13:06:06.439380Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:660] Root device: /dev/mmcblk0p5
+2026-08-02T13:06:06.443174Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:675] Stateful device: /dev/mmcblk0p1
+2026-08-02T13:06:06.443189Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:677] Inactive root device: /dev/mmcblk0p3
+2026-08-02T13:06:06.443194Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:679] Inactive kernel device: /dev/mmcblk0p2
+2026-08-02T13:06:07.193339Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:375] PreserveFiles found no files to preserve, no tar file created.
+2026-08-02T13:06:07.354088Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:998] No legacy salt file, switching to fast wipe
+2026-08-02T13:06:07.354117Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:196] Unmounting stateful partition
+2026-08-02T13:06:07.363808Z ERROR clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_wipe.cc:100] Unable to stat : No such file or directory (2)
+2026-08-02T13:06:07.363900Z ERROR clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:805] Unable to wipe device 
+2026-08-02T13:06:07.389311Z WARNING clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_lvm.cc:73] Failed to get physical volume.
+2026-08-02T13:06:07.389399Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_wipe.cc:120] Wiping block device /dev/mmcblk0p1 (fast) 
+2026-08-02T13:06:07.389414Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_wipe.cc:122] Number of bytes to write: 4194304
+2026-08-02T13:06:07.390158Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/blkdev_utils/storage_utils.cc:99] DUT is using storage: emmc
+2026-08-02T13:06:07.390201Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/blkdev_utils/storage_device.cc:84] Wiping /dev/mmcblk0p1 from 0 to 4194304 with ioctl BLKSECDISCARD
+2026-08-02T13:06:07.406905Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_wipe.cc:174] Successfully zeroed 4194304 bytes on /dev/mmcblk0p1
+2026-08-02T13:06:09.871667Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:545] Creating file system
+mke2fs 1.47.0 (5-Feb-2023)
+Discarding device blocks:       0/5008384               done                            
+Creating filesystem with 5008384 4k blocks and 1253376 inodes
+Filesystem UUID: 3fc5a777-6d2a-4379-923a-20e88aa8f82a
+Superblock backups stored on blocks: 
+	32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208, 
+	4096000
+
+Allocating group tables:   0/153       done                            
+Writing inode tables:   0/153       done                            
+Creating journal (32768 blocks): done
+Writing superblocks and filesystem accounting information:   0/153       done
+
+2026-08-02T13:06:10.538502Z ERROR clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/encrypted_reboot_vault/encrypted_reboot_vault.cc:171] Invalid vault; purging.
+2026-08-02T13:06:10.538540Z ERROR clobber-state: [../../../../../tmp/portage/chromeos-base/libstorage-0.0.1-r198/work/libstorage-0.0.1/libstorage/platform/dircrypto_util.cc:312] Fscrypt: Invalid directory /mnt/stateful_partition/reboot_vault: No such file or directory (2)
+2026-08-02T13:06:10.538607Z ERROR clobber-state: [../../../../../tmp/portage/chromeos-base/libstorage-0.0.1-r198/work/libstorage-0.0.1/libstorage/platform/dircrypto_util.cc:411] Failed to remove encryption key: Required key not available (126)
+2026-08-02T13:06:10.538627Z WARNING clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/encrypted_reboot_vault/encrypted_reboot_vault.cc:155] Failed to unlink encryption key from keyring.
+E0802 13:06:10.545039     766 vpd.cc:629] At least one of the keys to delete does not exist. Command ignored.
+E0802 13:06:10.552470     767 vpd.cc:629] At least one of the keys to delete does not exist. Command ignored.
+2026-08-02T13:06:10.553171Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:1130] Clobber has already run for 4 seconds
+2026-08-02T13:06:10.553199Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:1137] Forcing a delay of 295 seconds
+2026-08-02T13:11:06.470196Z INFO clobber-state: [../../../../../tmp/portage/chromeos-base/chromeos-init-0.0.26-r5611/work/chromeos-init-0.0.26/init/clobber/clobber_state.cc:946] clobber-state has completed

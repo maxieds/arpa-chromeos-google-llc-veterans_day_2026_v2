@@ -1,0 +1,3 @@
+ENV{OF_COMPATIBLE_0}=="mediatek,mt8186-dsp", PROGRAM=="/usr/bin/cros_config / name", RESULT=="steelix", RUN+="/sbin/modprobe snd_sof_of fw_path=mediatek/sof/steelix tplg_path=mediatek/sof-tplg/steelix"
+ENV{OF_COMPATIBLE_0}=="mediatek,mt8186-dsp", PROGRAM=="/usr/bin/cros_config / name", RESULT=="rusty", RUN+="/sbin/modprobe snd_sof_of fw_path=mediatek/sof/rusty tplg_path=mediatek/sof-tplg/rusty"
+ENV{OF_COMPATIBLE_0}=="mediatek,mt8186-dsp", PROGRAM=="/usr/bin/cros_config / name", RESULT=="magneton", RUN+="/sbin/modprobe snd_sof_of fw_path=mediatek/sof/magneton tplg_path=mediatek/sof-tplg/magneton"

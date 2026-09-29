@@ -1,0 +1,5 @@
+2026-08-10T10:46:18.302385Z WARNING kernel: [    4.969613] init: pre-startup main process (237) terminated with status 73
+2026-08-10T10:46:18.327386Z WARNING kernel: [    5.007144] init: Failed to spawn dbus post-start process: unable to execute: No such file or directory
+2026-08-10T10:46:18.331393Z WARNING kernel: [    5.011261] init: Failed to spawn failsafe-delay main process: unable to execute: No such file or directory
+2026-08-10T10:46:18.388389Z WARNING kernel: [    5.068064] init: patchpanel post-start process (338) terminated with status 1
+2026-08-10T10:46:20.441421Z WARNING kernel: [    7.121223] init: Failed to open system console: No such device

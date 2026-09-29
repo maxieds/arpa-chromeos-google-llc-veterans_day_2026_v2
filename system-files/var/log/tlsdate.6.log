@@ -1,0 +1,622 @@
+2026-09-12T17:18:40.103720Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T17:18:41.107469Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 9 backoff 160
+2026-09-12T17:18:41.113606Z INFO tlsdate[7086]: V: time is currently 1789233521.113263403
+2026-09-12T17:18:41.113795Z INFO tlsdate[7086]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T17:18:41.116873Z INFO tlsdate[7087]: V: using TLSv1_2_client_method()
+2026-09-12T17:18:41.122575Z INFO tlsdate[7087]: V: setting up connection to clients3.google.com:443
+2026-09-12T17:18:41.125095Z ERR tlsdate[7087]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T17:18:41.127280Z ERR tlsdate[7086]: child process failed in SSL handshake
+2026-09-12T17:18:41.128050Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:30 uid:234 status:1 code:1
+2026-09-12T18:07:15.722948Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T18:07:16.726467Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 8 backoff 10
+2026-09-12T18:07:16.730969Z INFO tlsdate[8479]: V: time is currently 1789236436.730793651
+2026-09-12T18:07:16.731070Z INFO tlsdate[8479]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T18:07:16.735340Z INFO tlsdate[8480]: V: using TLSv1_2_client_method()
+2026-09-12T18:07:16.741226Z INFO tlsdate[8480]: V: setting up connection to clients3.google.com:443
+2026-09-12T18:07:16.743342Z ERR tlsdate[8480]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T18:07:16.745515Z ERR tlsdate[8479]: child process failed in SSL handshake
+2026-09-12T18:07:16.746203Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:32 uid:234 status:1 code:1
+2026-09-12T18:07:36.747479Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T18:07:37.750254Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 9 backoff 20
+2026-09-12T18:07:37.755267Z INFO tlsdate[8547]: V: time is currently 1789236457.754955960
+2026-09-12T18:07:37.755294Z INFO tlsdate[8547]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T18:07:37.757775Z INFO tlsdate[8548]: V: using TLSv1_2_client_method()
+2026-09-12T18:07:37.762697Z INFO tlsdate[8548]: V: setting up connection to clients3.google.com:443
+2026-09-12T18:07:37.764949Z ERR tlsdate[8548]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T18:07:37.767044Z ERR tlsdate[8547]: child process failed in SSL handshake
+2026-09-12T18:07:37.767712Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:34 uid:234 status:1 code:1
+2026-09-12T18:08:17.768874Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T18:08:18.771435Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 10 backoff 40
+2026-09-12T18:08:18.777628Z INFO tlsdate[8653]: V: time is currently 1789236498.777324809
+2026-09-12T18:08:18.777990Z INFO tlsdate[8653]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T18:08:18.781149Z INFO tlsdate[8654]: V: using TLSv1_2_client_method()
+2026-09-12T18:08:18.787088Z INFO tlsdate[8654]: V: setting up connection to clients3.google.com:443
+2026-09-12T18:08:18.789546Z ERR tlsdate[8654]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T18:08:18.791693Z ERR tlsdate[8653]: child process failed in SSL handshake
+2026-09-12T18:08:18.792568Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:36 uid:234 status:1 code:1
+2026-09-12T18:09:38.792928Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T18:09:39.796333Z INFO tlsdated[3686]: [event:action_run_tlsdate] tlsdate tried and failed to get the time
+2026-09-12T20:48:45.912148Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T20:48:46.958787Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-12T20:48:46.971970Z INFO tlsdate[26948]: V: time is currently 1789246126.971732536
+2026-09-12T20:48:46.972108Z INFO tlsdate[26948]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T20:48:46.975638Z INFO tlsdate[26949]: V: using TLSv1_2_client_method()
+2026-09-12T20:48:46.982179Z INFO tlsdate[26949]: V: setting up connection to clients3.google.com:443
+2026-09-12T20:48:46.985267Z ERR tlsdate[26949]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T20:48:46.986842Z ERR tlsdate[26948]: child process failed in SSL handshake
+2026-09-12T20:48:46.987559Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:38 uid:234 status:1 code:1
+2026-09-12T21:14:02.369469Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T21:14:03.373439Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-12T21:14:03.379802Z INFO tlsdate[27445]: V: time is currently 1789247643.379486548
+2026-09-12T21:14:03.380169Z INFO tlsdate[27445]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T21:14:03.383439Z INFO tlsdate[27446]: V: using TLSv1_2_client_method()
+2026-09-12T21:14:03.389769Z INFO tlsdate[27446]: V: setting up connection to clients3.google.com:443
+2026-09-12T21:14:03.392456Z ERR tlsdate[27446]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T21:14:03.394593Z ERR tlsdate[27445]: child process failed in SSL handshake
+2026-09-12T21:14:03.395437Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:40 uid:234 status:1 code:1
+2026-09-12T21:14:19.017674Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T21:14:20.021411Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-12T21:14:20.027081Z INFO tlsdate[27488]: V: time is currently 1789247660.26773088
+2026-09-12T21:14:20.027292Z INFO tlsdate[27488]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T21:14:20.030444Z INFO tlsdate[27489]: V: using TLSv1_2_client_method()
+2026-09-12T21:14:20.036835Z INFO tlsdate[27489]: V: setting up connection to clients3.google.com:443
+2026-09-12T21:14:20.039726Z ERR tlsdate[27489]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T21:14:20.041883Z ERR tlsdate[27488]: child process failed in SSL handshake
+2026-09-12T21:14:20.042927Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:42 uid:234 status:1 code:1
+2026-09-12T21:14:40.044563Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T21:14:41.048384Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 2 backoff 20
+2026-09-12T21:14:41.054366Z INFO tlsdate[27574]: V: time is currently 1789247681.54132627
+2026-09-12T21:14:41.054590Z INFO tlsdate[27574]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T21:14:41.057547Z INFO tlsdate[27575]: V: using TLSv1_2_client_method()
+2026-09-12T21:14:41.063773Z INFO tlsdate[27575]: V: setting up connection to clients3.google.com:443
+2026-09-12T21:14:41.066162Z ERR tlsdate[27575]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T21:14:41.068369Z ERR tlsdate[27574]: child process failed in SSL handshake
+2026-09-12T21:14:41.069114Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:44 uid:234 status:1 code:1
+2026-09-12T21:15:21.070096Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T21:15:22.073218Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 3 backoff 40
+2026-09-12T21:15:22.078999Z INFO tlsdate[27596]: V: time is currently 1789247722.78738399
+2026-09-12T21:15:22.079197Z INFO tlsdate[27596]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T21:15:22.082096Z INFO tlsdate[27597]: V: using TLSv1_2_client_method()
+2026-09-12T21:15:22.087999Z INFO tlsdate[27597]: V: setting up connection to clients3.google.com:443
+2026-09-12T21:15:22.090722Z ERR tlsdate[27597]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T21:15:22.093128Z ERR tlsdate[27596]: child process failed in SSL handshake
+2026-09-12T21:15:22.093794Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:46 uid:234 status:1 code:1
+2026-09-12T21:16:42.095327Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T21:16:43.098780Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 4 backoff 80
+2026-09-12T21:16:43.104964Z INFO tlsdate[27813]: V: time is currently 1789247803.104637019
+2026-09-12T21:16:43.105145Z INFO tlsdate[27813]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T21:16:43.108707Z INFO tlsdate[27814]: V: using TLSv1_2_client_method()
+2026-09-12T21:16:43.114740Z INFO tlsdate[27814]: V: setting up connection to clients3.google.com:443
+2026-09-12T21:16:43.117461Z ERR tlsdate[27814]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T21:16:43.119758Z ERR tlsdate[27813]: child process failed in SSL handshake
+2026-09-12T21:16:43.120595Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:48 uid:234 status:1 code:1
+2026-09-12T21:19:23.121253Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T21:19:24.125548Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 5 backoff 160
+2026-09-12T21:19:24.131590Z INFO tlsdate[28039]: V: time is currently 1789247964.131282260
+2026-09-12T21:19:24.131806Z INFO tlsdate[28039]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T21:19:24.134470Z INFO tlsdate[28040]: V: using TLSv1_2_client_method()
+2026-09-12T21:19:24.137516Z INFO tlsdate[28040]: V: setting up connection to clients3.google.com:443
+2026-09-12T21:19:24.138941Z ERR tlsdate[28040]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T21:19:24.140032Z ERR tlsdate[28039]: child process failed in SSL handshake
+2026-09-12T21:19:24.140843Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:50 uid:234 status:1 code:1
+2026-09-12T21:24:44.142400Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T21:24:45.146248Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 6 backoff 320
+2026-09-12T21:24:45.152355Z INFO tlsdate[28656]: V: time is currently 1789248285.152042817
+2026-09-12T21:24:45.152564Z INFO tlsdate[28656]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T21:24:45.155706Z INFO tlsdate[28657]: V: using TLSv1_2_client_method()
+2026-09-12T21:24:45.162001Z INFO tlsdate[28657]: V: setting up connection to clients3.google.com:443
+2026-09-12T21:24:45.164848Z ERR tlsdate[28657]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T21:24:45.167348Z ERR tlsdate[28656]: child process failed in SSL handshake
+2026-09-12T21:24:45.168035Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:52 uid:234 status:1 code:1
+2026-09-12T21:35:25.168889Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T21:35:26.170797Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 7 backoff 640
+2026-09-12T21:35:26.178486Z INFO tlsdate[29781]: V: time is currently 1789248926.178167317
+2026-09-12T21:35:26.178967Z INFO tlsdate[29781]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T21:35:26.182830Z INFO tlsdate[29782]: V: using TLSv1_2_client_method()
+2026-09-12T21:35:26.190073Z INFO tlsdate[29782]: V: setting up connection to clients3.google.com:443
+2026-09-12T21:35:26.192886Z ERR tlsdate[29782]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T21:35:26.195123Z ERR tlsdate[29781]: child process failed in SSL handshake
+2026-09-12T21:35:26.195989Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:54 uid:234 status:1 code:1
+2026-09-12T21:46:06.196736Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T21:46:07.199273Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 8 backoff 640
+2026-09-12T21:46:07.206165Z INFO tlsdate[31016]: V: time is currently 1789249567.205805201
+2026-09-12T21:46:07.206354Z INFO tlsdate[31016]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T21:46:07.209467Z INFO tlsdate[31017]: V: using TLSv1_2_client_method()
+2026-09-12T21:46:07.215620Z INFO tlsdate[31017]: V: setting up connection to clients3.google.com:443
+2026-09-12T21:46:07.218190Z ERR tlsdate[31017]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T21:46:07.220399Z ERR tlsdate[31016]: child process failed in SSL handshake
+2026-09-12T21:46:07.221132Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:56 uid:234 status:1 code:1
+2026-09-12T21:56:47.223105Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T21:56:48.226376Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 9 backoff 640
+2026-09-12T21:56:48.232544Z INFO tlsdate[32255]: V: time is currently 1789250208.232235778
+2026-09-12T21:56:48.232754Z INFO tlsdate[32255]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T21:56:48.235844Z INFO tlsdate[32256]: V: using TLSv1_2_client_method()
+2026-09-12T21:56:48.241952Z INFO tlsdate[32256]: V: setting up connection to clients3.google.com:443
+2026-09-12T21:56:48.244442Z ERR tlsdate[32256]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T21:56:48.246972Z ERR tlsdate[32255]: child process failed in SSL handshake
+2026-09-12T21:56:48.247809Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:58 uid:234 status:1 code:1
+2026-09-12T22:07:28.248929Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T22:07:29.250950Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 10 backoff 640
+2026-09-12T22:07:29.257129Z INFO tlsdate[33373]: V: time is currently 1789250849.256816585
+2026-09-12T22:07:29.257314Z INFO tlsdate[33373]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T22:07:29.260875Z INFO tlsdate[33374]: V: using TLSv1_2_client_method()
+2026-09-12T22:07:29.267082Z INFO tlsdate[33374]: V: setting up connection to clients3.google.com:443
+2026-09-12T22:07:29.269723Z ERR tlsdate[33374]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T22:07:29.272050Z ERR tlsdate[33373]: child process failed in SSL handshake
+2026-09-12T22:07:29.272783Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:60 uid:234 status:1 code:1
+2026-09-12T22:14:03.959469Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T22:14:04.962623Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 10 backoff 10
+2026-09-12T22:14:04.968895Z INFO tlsdate[34160]: V: time is currently 1789251244.968548609
+2026-09-12T22:14:04.969083Z INFO tlsdate[34160]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T22:14:04.972027Z INFO tlsdate[34161]: V: using TLSv1_2_client_method()
+2026-09-12T22:14:04.977769Z INFO tlsdate[34161]: V: setting up connection to clients3.google.com:443
+2026-09-12T22:14:04.980209Z ERR tlsdate[34161]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T22:14:04.982381Z ERR tlsdate[34160]: child process failed in SSL handshake
+2026-09-12T22:14:04.983128Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:62 uid:234 status:1 code:1
+2026-09-12T22:14:24.985239Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T22:14:25.988961Z INFO tlsdated[3686]: [event:action_run_tlsdate] tlsdate tried and failed to get the time
+2026-09-12T23:42:24.851434Z INFO tlsdated[3686]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-12T23:42:24.852144Z INFO tlsdated[3686]: [cros] service org.chromium.NetworkProxyService is missing
+2026-09-12T23:42:24.852154Z INFO tlsdated[3686]: [cros] skipping proxy resolution for now
+2026-09-12T23:42:25.853399Z INFO tlsdated[3686]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-12T23:42:25.860764Z INFO tlsdate[43788]: V: time is currently 1789256545.860534771
+2026-09-12T23:42:25.860905Z INFO tlsdate[43788]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-12T23:42:25.863773Z INFO tlsdate[43789]: V: using TLSv1_2_client_method()
+2026-09-12T23:42:25.869172Z INFO tlsdate[43789]: V: setting up connection to clients3.google.com:443
+2026-09-12T23:42:25.875975Z ERR tlsdate[43789]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-12T23:42:25.876947Z ERR tlsdate[43788]: child process failed in SSL handshake
+2026-09-12T23:42:25.877318Z INFO tlsdated[3686]: [event:handle_child_process_termination] tlsdate reaped => pid:64 uid:234 status:1 code:1
+2026-09-13T00:16:04.688113Z INFO tlsdated[3468]: spawning time setting helper . . .
+2026-09-13T00:16:04.693492Z INFO tlsdated[3468]: disk timestamp available: yes
+2026-09-13T00:16:04.693513Z INFO tlsdated[3468]: initial time sync type: system-clock
+2026-09-13T00:16:04.694301Z INFO tlsdated[3468]: Entering dispatch . . .
+2026-09-13T00:16:04.694333Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T00:16:04.000050Z INFO tlsdated[3482]: tlsdate-setter: system time updated to 1789258564.000000000
+2026-09-13T00:16:04.000564Z INFO tlsdated[3468]: [event:handle_time_setter] time set from the system-clock (1789258564)
+2026-09-13T00:16:04.003429Z INFO tlsdated[3468]: [cros] DBus name acquired successfully
+2026-09-13T00:16:04.003443Z INFO tlsdated[3468]: [cros] DBus name acquired successfully
+2026-09-13T00:16:05.003819Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-13T00:16:05.079553Z INFO tlsdate[3700]: V: time is currently 1789258565.79216461
+2026-09-13T00:16:05.079743Z INFO tlsdate[3700]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T00:16:05.083397Z INFO tlsdate[3701]: V: using TLSv1_2_client_method()
+2026-09-13T00:16:05.089816Z INFO tlsdate[3701]: V: setting up connection to clients3.google.com:443
+2026-09-13T00:16:05.097464Z ERR tlsdate[3701]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T00:16:05.098760Z ERR tlsdate[3700]: child process failed in SSL handshake
+2026-09-13T00:16:05.100328Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:4 uid:234 status:1 code:1
+2026-09-13T00:16:34.953440Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T00:16:35.956527Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-13T00:16:35.961333Z INFO tlsdate[4353]: V: time is currently 1789258595.961053155
+2026-09-13T00:16:35.961356Z INFO tlsdate[4353]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T00:16:35.964312Z INFO tlsdate[4354]: V: using TLSv1_2_client_method()
+2026-09-13T00:16:35.968825Z INFO tlsdate[4354]: V: setting up connection to clients3.google.com:443
+2026-09-13T00:16:35.971325Z ERR tlsdate[4354]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T00:16:35.973152Z ERR tlsdate[4353]: child process failed in SSL handshake
+2026-09-13T00:16:35.973775Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:6 uid:234 status:1 code:1
+2026-09-13T00:16:55.974652Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T00:16:56.977114Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 2 backoff 20
+2026-09-13T00:16:56.981302Z INFO tlsdate[4627]: V: time is currently 1789258616.981052003
+2026-09-13T00:16:56.981497Z INFO tlsdate[4627]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T00:16:56.983792Z INFO tlsdate[4628]: V: using TLSv1_2_client_method()
+2026-09-13T00:16:56.988200Z INFO tlsdate[4628]: V: setting up connection to clients3.google.com:443
+2026-09-13T00:16:56.990530Z ERR tlsdate[4628]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T00:16:56.992348Z ERR tlsdate[4627]: child process failed in SSL handshake
+2026-09-13T00:16:56.992950Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:8 uid:234 status:1 code:1
+2026-09-13T00:17:36.994664Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T00:17:37.998737Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 3 backoff 40
+2026-09-13T00:17:38.004822Z INFO tlsdate[4895]: V: time is currently 1789258658.4517697
+2026-09-13T00:17:38.004995Z INFO tlsdate[4895]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T00:17:38.007830Z INFO tlsdate[4896]: V: using TLSv1_2_client_method()
+2026-09-13T00:17:38.013575Z INFO tlsdate[4896]: V: setting up connection to clients3.google.com:443
+2026-09-13T00:17:38.016185Z ERR tlsdate[4896]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T00:17:38.018531Z ERR tlsdate[4895]: child process failed in SSL handshake
+2026-09-13T00:17:38.019413Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:10 uid:234 status:1 code:1
+2026-09-13T00:18:58.020454Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T00:18:59.024172Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 4 backoff 80
+2026-09-13T00:18:59.030006Z INFO tlsdate[5031]: V: time is currently 1789258739.29723471
+2026-09-13T00:18:59.030200Z INFO tlsdate[5031]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T00:18:59.033311Z INFO tlsdate[5032]: V: using TLSv1_2_client_method()
+2026-09-13T00:18:59.039317Z INFO tlsdate[5032]: V: setting up connection to clients3.google.com:443
+2026-09-13T00:18:59.041774Z ERR tlsdate[5032]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T00:18:59.043949Z ERR tlsdate[5031]: child process failed in SSL handshake
+2026-09-13T00:18:59.044748Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:12 uid:234 status:1 code:1
+2026-09-13T00:21:39.046064Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T00:21:40.048564Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 5 backoff 160
+2026-09-13T00:21:40.054596Z INFO tlsdate[5455]: V: time is currently 1789258900.54271327
+2026-09-13T00:21:40.054776Z INFO tlsdate[5455]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T00:21:40.057859Z INFO tlsdate[5456]: V: using TLSv1_2_client_method()
+2026-09-13T00:21:40.064036Z INFO tlsdate[5456]: V: setting up connection to clients3.google.com:443
+2026-09-13T00:21:40.066563Z ERR tlsdate[5456]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T00:21:40.068754Z ERR tlsdate[5455]: child process failed in SSL handshake
+2026-09-13T00:21:40.069589Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:14 uid:234 status:1 code:1
+2026-09-13T00:27:00.070778Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T00:27:01.074651Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 6 backoff 320
+2026-09-13T00:27:01.080741Z INFO tlsdate[6074]: V: time is currently 1789259221.80440039
+2026-09-13T00:27:01.081107Z INFO tlsdate[6074]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T00:27:01.084240Z INFO tlsdate[6075]: V: using TLSv1_2_client_method()
+2026-09-13T00:27:01.090489Z INFO tlsdate[6075]: V: setting up connection to clients3.google.com:443
+2026-09-13T00:27:01.093341Z ERR tlsdate[6075]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T00:27:01.095460Z ERR tlsdate[6074]: child process failed in SSL handshake
+2026-09-13T00:27:01.096301Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:16 uid:234 status:1 code:1
+2026-09-13T00:37:41.097239Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T00:37:42.100719Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 7 backoff 640
+2026-09-13T00:37:42.106846Z INFO tlsdate[7322]: V: time is currently 1789259862.106557615
+2026-09-13T00:37:42.107036Z INFO tlsdate[7322]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T00:37:42.110157Z INFO tlsdate[7323]: V: using TLSv1_2_client_method()
+2026-09-13T00:37:42.116630Z INFO tlsdate[7323]: V: setting up connection to clients3.google.com:443
+2026-09-13T00:37:42.119169Z ERR tlsdate[7323]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T00:37:42.121589Z ERR tlsdate[7322]: child process failed in SSL handshake
+2026-09-13T00:37:42.122310Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:18 uid:234 status:1 code:1
+2026-09-13T00:48:22.122285Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T00:48:23.125803Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 8 backoff 640
+2026-09-13T00:48:23.131910Z INFO tlsdate[8582]: V: time is currently 1789260503.131621423
+2026-09-13T00:48:23.132107Z INFO tlsdate[8582]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T00:48:23.135007Z INFO tlsdate[8583]: V: using TLSv1_2_client_method()
+2026-09-13T00:48:23.140725Z INFO tlsdate[8583]: V: setting up connection to clients3.google.com:443
+2026-09-13T00:48:23.143180Z ERR tlsdate[8583]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T00:48:23.145367Z ERR tlsdate[8582]: child process failed in SSL handshake
+2026-09-13T00:48:23.146103Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:20 uid:234 status:1 code:1
+2026-09-13T00:59:03.146909Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T00:59:04.151347Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 9 backoff 640
+2026-09-13T00:59:04.157853Z INFO tlsdate[9764]: V: time is currently 1789261144.157536076
+2026-09-13T00:59:04.158210Z INFO tlsdate[9764]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T00:59:04.161171Z INFO tlsdate[9765]: V: using TLSv1_2_client_method()
+2026-09-13T00:59:04.167247Z INFO tlsdate[9765]: V: setting up connection to clients3.google.com:443
+2026-09-13T00:59:04.169783Z ERR tlsdate[9765]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T00:59:04.171934Z ERR tlsdate[9764]: child process failed in SSL handshake
+2026-09-13T00:59:04.173017Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:22 uid:234 status:1 code:1
+2026-09-13T01:09:44.174023Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T01:09:45.177678Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 10 backoff 640
+2026-09-13T01:09:45.183883Z INFO tlsdate[11127]: V: time is currently 1789261785.183467730
+2026-09-13T01:09:45.184059Z INFO tlsdate[11127]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T01:09:45.187138Z INFO tlsdate[11128]: V: using TLSv1_2_client_method()
+2026-09-13T01:09:45.193264Z INFO tlsdate[11128]: V: setting up connection to clients3.google.com:443
+2026-09-13T01:09:45.200982Z ERR tlsdate[11128]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T01:09:45.202707Z ERR tlsdate[11127]: child process failed in SSL handshake
+2026-09-13T01:09:45.203959Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:24 uid:234 status:1 code:1
+2026-09-13T01:20:25.204343Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T01:20:26.206222Z INFO tlsdated[3468]: [event:action_run_tlsdate] tlsdate tried and failed to get the time
+2026-09-13T01:41:00.172462Z INFO tlsdated[3468]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T01:41:00.173317Z INFO tlsdated[3468]: [cros] service org.chromium.NetworkProxyService is missing
+2026-09-13T01:41:00.173347Z INFO tlsdated[3468]: [cros] skipping proxy resolution for now
+2026-09-13T01:41:01.174784Z INFO tlsdated[3468]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-13T01:41:01.178694Z INFO tlsdate[14872]: V: time is currently 1789263661.178329303
+2026-09-13T01:41:01.178798Z INFO tlsdate[14872]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T01:41:01.180464Z INFO tlsdate[14873]: V: using TLSv1_2_client_method()
+2026-09-13T01:41:01.183380Z INFO tlsdate[14873]: V: setting up connection to clients3.google.com:443
+2026-09-13T01:41:01.184809Z ERR tlsdate[14873]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T01:41:01.186012Z ERR tlsdate[14872]: child process failed in SSL handshake
+2026-09-13T01:41:01.186521Z INFO tlsdated[3468]: [event:handle_child_process_termination] tlsdate reaped => pid:26 uid:234 status:1 code:1
+2026-09-13T02:07:18.618796Z INFO tlsdated[3701]: spawning time setting helper . . .
+2026-09-13T02:07:18.622963Z INFO tlsdated[3701]: disk timestamp available: yes
+2026-09-13T02:07:18.623147Z INFO tlsdated[3701]: initial time sync type: system-clock
+2026-09-13T02:07:18.624110Z INFO tlsdated[3701]: Entering dispatch . . .
+2026-09-13T02:07:18.624261Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T02:07:18.000051Z INFO tlsdated[3711]: tlsdate-setter: system time updated to 1789265238.000000000
+2026-09-13T02:07:18.001152Z INFO tlsdated[3701]: [event:handle_time_setter] time set from the system-clock (1789265238)
+2026-09-13T02:07:18.001560Z INFO tlsdated[3701]: [cros] DBus name acquired successfully
+2026-09-13T02:07:18.001734Z INFO tlsdated[3701]: [cros] DBus name acquired successfully
+2026-09-13T02:07:19.002886Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-13T02:07:19.011153Z INFO tlsdate[3761]: V: time is currently 1789265239.10944846
+2026-09-13T02:07:19.011312Z INFO tlsdate[3761]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T02:07:19.013883Z INFO tlsdate[3762]: V: using TLSv1_2_client_method()
+2026-09-13T02:07:19.019068Z INFO tlsdate[3762]: V: setting up connection to clients3.google.com:443
+2026-09-13T02:07:19.024238Z ERR tlsdate[3762]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T02:07:19.025782Z ERR tlsdate[3761]: child process failed in SSL handshake
+2026-09-13T02:07:19.026544Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:4 uid:234 status:1 code:1
+2026-09-13T02:07:39.027354Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T02:07:40.030562Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 2 backoff 20
+2026-09-13T02:07:40.036250Z INFO tlsdate[4260]: V: time is currently 1789265260.35949770
+2026-09-13T02:07:40.036428Z INFO tlsdate[4260]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T02:07:40.039490Z INFO tlsdate[4261]: V: using TLSv1_2_client_method()
+2026-09-13T02:07:40.044466Z INFO tlsdate[4261]: V: setting up connection to clients3.google.com:443
+2026-09-13T02:07:40.046764Z ERR tlsdate[4261]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T02:07:40.049019Z ERR tlsdate[4260]: child process failed in SSL handshake
+2026-09-13T02:07:40.049713Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:6 uid:234 status:1 code:1
+2026-09-13T02:08:06.441121Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T02:08:07.442925Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-13T02:08:07.447053Z INFO tlsdate[4487]: V: time is currently 1789265287.446759926
+2026-09-13T02:08:07.447077Z INFO tlsdate[4487]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T02:08:07.449383Z INFO tlsdate[4488]: V: using TLSv1_2_client_method()
+2026-09-13T02:08:07.453850Z INFO tlsdate[4488]: V: setting up connection to clients3.google.com:443
+2026-09-13T02:08:07.455687Z ERR tlsdate[4488]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T02:08:07.457650Z ERR tlsdate[4487]: child process failed in SSL handshake
+2026-09-13T02:08:07.458200Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:8 uid:234 status:1 code:1
+2026-09-13T02:08:27.458296Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T02:08:28.459906Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 2 backoff 20
+2026-09-13T02:08:28.464143Z INFO tlsdate[4904]: V: time is currently 1789265308.463869773
+2026-09-13T02:08:28.464326Z INFO tlsdate[4904]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T02:08:28.466668Z INFO tlsdate[4905]: V: using TLSv1_2_client_method()
+2026-09-13T02:08:28.471106Z INFO tlsdate[4905]: V: setting up connection to clients3.google.com:443
+2026-09-13T02:08:28.473412Z ERR tlsdate[4905]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T02:08:28.475234Z ERR tlsdate[4904]: child process failed in SSL handshake
+2026-09-13T02:08:28.475733Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:10 uid:234 status:1 code:1
+2026-09-13T02:09:08.476246Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T02:09:09.479888Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 3 backoff 40
+2026-09-13T02:09:09.485703Z INFO tlsdate[4946]: V: time is currently 1789265349.485443698
+2026-09-13T02:09:09.485906Z INFO tlsdate[4946]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T02:09:09.488987Z INFO tlsdate[4947]: V: using TLSv1_2_client_method()
+2026-09-13T02:09:09.495079Z INFO tlsdate[4947]: V: setting up connection to clients3.google.com:443
+2026-09-13T02:09:09.497581Z ERR tlsdate[4947]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T02:09:09.499788Z ERR tlsdate[4946]: child process failed in SSL handshake
+2026-09-13T02:09:09.500554Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:12 uid:234 status:1 code:1
+2026-09-13T02:10:29.501334Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T02:10:30.503860Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 4 backoff 80
+2026-09-13T02:10:30.509513Z INFO tlsdate[5160]: V: time is currently 1789265430.509207165
+2026-09-13T02:10:30.509710Z INFO tlsdate[5160]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T02:10:30.512623Z INFO tlsdate[5161]: V: using TLSv1_2_client_method()
+2026-09-13T02:10:30.518484Z INFO tlsdate[5161]: V: setting up connection to clients3.google.com:443
+2026-09-13T02:10:30.521001Z ERR tlsdate[5161]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T02:10:30.523191Z ERR tlsdate[5160]: child process failed in SSL handshake
+2026-09-13T02:10:30.523890Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:14 uid:234 status:1 code:1
+2026-09-13T02:13:10.524424Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T02:13:11.527502Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 5 backoff 160
+2026-09-13T02:13:11.533809Z INFO tlsdate[5442]: V: time is currently 1789265591.533510559
+2026-09-13T02:13:11.534005Z INFO tlsdate[5442]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T02:13:11.536898Z INFO tlsdate[5443]: V: using TLSv1_2_client_method()
+2026-09-13T02:13:11.543059Z INFO tlsdate[5443]: V: setting up connection to clients3.google.com:443
+2026-09-13T02:13:11.545595Z ERR tlsdate[5443]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T02:13:11.547809Z ERR tlsdate[5442]: child process failed in SSL handshake
+2026-09-13T02:13:11.548570Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:16 uid:234 status:1 code:1
+2026-09-13T02:18:31.549134Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T02:18:32.552145Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 6 backoff 320
+2026-09-13T02:18:32.557837Z INFO tlsdate[6133]: V: time is currently 1789265912.557543809
+2026-09-13T02:18:32.558033Z INFO tlsdate[6133]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T02:18:32.560870Z INFO tlsdate[6134]: V: using TLSv1_2_client_method()
+2026-09-13T02:18:32.567075Z INFO tlsdate[6134]: V: setting up connection to clients3.google.com:443
+2026-09-13T02:18:32.573805Z ERR tlsdate[6134]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T02:18:32.575401Z ERR tlsdate[6133]: child process failed in SSL handshake
+2026-09-13T02:18:32.576037Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:18 uid:234 status:1 code:1
+2026-09-13T02:29:12.577122Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T02:29:13.579309Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 7 backoff 640
+2026-09-13T02:29:13.592326Z INFO tlsdate[7254]: V: time is currently 1789266553.592021078
+2026-09-13T02:29:13.592507Z INFO tlsdate[7254]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T02:29:13.595799Z INFO tlsdate[7255]: V: using TLSv1_2_client_method()
+2026-09-13T02:29:13.601928Z INFO tlsdate[7255]: V: setting up connection to clients3.google.com:443
+2026-09-13T02:29:13.605176Z ERR tlsdate[7255]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T02:29:13.607497Z ERR tlsdate[7254]: child process failed in SSL handshake
+2026-09-13T02:29:13.608512Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:20 uid:234 status:1 code:1
+2026-09-13T02:39:53.608592Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T02:39:54.611169Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 8 backoff 640
+2026-09-13T02:39:54.617206Z INFO tlsdate[8446]: V: time is currently 1789267194.616875578
+2026-09-13T02:39:54.617410Z INFO tlsdate[8446]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T02:39:54.620320Z INFO tlsdate[8447]: V: using TLSv1_2_client_method()
+2026-09-13T02:39:54.626055Z INFO tlsdate[8447]: V: setting up connection to clients3.google.com:443
+2026-09-13T02:39:54.629178Z ERR tlsdate[8447]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T02:39:54.631300Z ERR tlsdate[8446]: child process failed in SSL handshake
+2026-09-13T02:39:54.632065Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:22 uid:234 status:1 code:1
+2026-09-13T02:50:34.633054Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T02:50:35.635233Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 9 backoff 640
+2026-09-13T02:50:35.641159Z INFO tlsdate[9620]: V: time is currently 1789267835.640841539
+2026-09-13T02:50:35.641364Z INFO tlsdate[9620]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T02:50:35.644265Z INFO tlsdate[9621]: V: using TLSv1_2_client_method()
+2026-09-13T02:50:35.649962Z INFO tlsdate[9621]: V: setting up connection to clients3.google.com:443
+2026-09-13T02:50:35.652477Z ERR tlsdate[9621]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T02:50:35.654663Z ERR tlsdate[9620]: child process failed in SSL handshake
+2026-09-13T02:50:35.655405Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:24 uid:234 status:1 code:1
+2026-09-13T03:01:15.657058Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T03:01:16.660514Z INFO tlsdated[3701]: [event:action_run_tlsdate] attempt 10 backoff 640
+2026-09-13T03:01:16.672084Z INFO tlsdate[10765]: V: time is currently 1789268476.671764500
+2026-09-13T03:01:16.672296Z INFO tlsdate[10765]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T03:01:16.675359Z INFO tlsdate[10766]: V: using TLSv1_2_client_method()
+2026-09-13T03:01:16.681586Z INFO tlsdate[10766]: V: setting up connection to clients3.google.com:443
+2026-09-13T03:01:16.684853Z ERR tlsdate[10766]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T03:01:16.686371Z ERR tlsdate[10765]: child process failed in SSL handshake
+2026-09-13T03:01:16.687362Z INFO tlsdated[3701]: [event:handle_child_process_termination] tlsdate reaped => pid:26 uid:234 status:1 code:1
+2026-09-13T03:11:56.688165Z INFO tlsdated[3701]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T03:11:57.692046Z INFO tlsdated[3701]: [event:action_run_tlsdate] tlsdate tried and failed to get the time
+2026-09-13T04:54:39.841949Z INFO tlsdated[3769]: spawning time setting helper . . .
+2026-09-13T04:54:39.845452Z INFO tlsdated[3769]: disk timestamp available: yes
+2026-09-13T04:54:39.845477Z INFO tlsdated[3769]: initial time sync type: system-clock
+2026-09-13T04:54:39.847228Z INFO tlsdated[3769]: Entering dispatch . . .
+2026-09-13T04:54:39.847295Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T04:54:39.000075Z INFO tlsdated[3775]: tlsdate-setter: system time updated to 1789275279.000000000
+2026-09-13T04:54:39.000461Z INFO tlsdated[3769]: [event:handle_time_setter] time set from the system-clock (1789275279)
+2026-09-13T04:54:39.001633Z INFO tlsdated[3769]: [cros] DBus name acquired successfully
+2026-09-13T04:54:39.001656Z INFO tlsdated[3769]: [cros] DBus name acquired successfully
+2026-09-13T04:54:40.005281Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-13T04:54:40.017446Z INFO tlsdate[3835]: V: time is currently 1789275280.17187384
+2026-09-13T04:54:40.017621Z INFO tlsdate[3835]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T04:54:40.021235Z INFO tlsdate[3837]: V: using TLSv1_2_client_method()
+2026-09-13T04:54:40.028171Z INFO tlsdate[3837]: V: setting up connection to clients3.google.com:443
+2026-09-13T04:54:40.032953Z ERR tlsdate[3837]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T04:54:40.035189Z ERR tlsdate[3835]: child process failed in SSL handshake
+2026-09-13T04:54:40.036138Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:4 uid:234 status:1 code:1
+2026-09-13T04:55:01.552953Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T04:55:02.554907Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-13T04:55:02.559442Z INFO tlsdate[4403]: V: time is currently 1789275302.559153078
+2026-09-13T04:55:02.559463Z INFO tlsdate[4403]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T04:55:02.561837Z INFO tlsdate[4404]: V: using TLSv1_2_client_method()
+2026-09-13T04:55:02.566678Z INFO tlsdate[4404]: V: setting up connection to clients3.google.com:443
+2026-09-13T04:55:02.568899Z ERR tlsdate[4404]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T04:55:02.571130Z ERR tlsdate[4403]: child process failed in SSL handshake
+2026-09-13T04:55:02.571756Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:6 uid:234 status:1 code:1
+2026-09-13T04:55:28.106581Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T04:55:29.109717Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-13T04:55:29.114533Z INFO tlsdate[4626]: V: time is currently 1789275329.114238772
+2026-09-13T04:55:29.114555Z INFO tlsdate[4626]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T04:55:29.116994Z INFO tlsdate[4627]: V: using TLSv1_2_client_method()
+2026-09-13T04:55:29.122017Z INFO tlsdate[4627]: V: setting up connection to clients3.google.com:443
+2026-09-13T04:55:29.124187Z ERR tlsdate[4627]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T04:55:29.126102Z ERR tlsdate[4626]: child process failed in SSL handshake
+2026-09-13T04:55:29.126720Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:8 uid:234 status:1 code:1
+2026-09-13T04:55:49.126307Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T04:55:50.127994Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 2 backoff 20
+2026-09-13T04:55:50.132538Z INFO tlsdate[5018]: V: time is currently 1789275350.132252388
+2026-09-13T04:55:50.132698Z INFO tlsdate[5018]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T04:55:50.135028Z INFO tlsdate[5019]: V: using TLSv1_2_client_method()
+2026-09-13T04:55:50.140020Z INFO tlsdate[5019]: V: setting up connection to clients3.google.com:443
+2026-09-13T04:55:50.142437Z ERR tlsdate[5019]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T04:55:50.144223Z ERR tlsdate[5018]: child process failed in SSL handshake
+2026-09-13T04:55:50.144826Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:10 uid:234 status:1 code:1
+2026-09-13T04:56:30.146116Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T04:56:31.148830Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 3 backoff 40
+2026-09-13T04:56:31.155991Z INFO tlsdate[5090]: V: time is currently 1789275391.155676160
+2026-09-13T04:56:31.156262Z INFO tlsdate[5090]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T04:56:31.159753Z INFO tlsdate[5091]: V: using TLSv1_2_client_method()
+2026-09-13T04:56:31.165928Z INFO tlsdate[5091]: V: setting up connection to clients3.google.com:443
+2026-09-13T04:56:31.169114Z ERR tlsdate[5091]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T04:56:31.172134Z ERR tlsdate[5090]: child process failed in SSL handshake
+2026-09-13T04:56:31.173343Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:12 uid:234 status:1 code:1
+2026-09-13T04:57:51.174322Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T04:57:52.178127Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 4 backoff 80
+2026-09-13T04:57:52.184317Z INFO tlsdate[5280]: V: time is currently 1789275472.183999857
+2026-09-13T04:57:52.184499Z INFO tlsdate[5280]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T04:57:52.187833Z INFO tlsdate[5281]: V: using TLSv1_2_client_method()
+2026-09-13T04:57:52.194245Z INFO tlsdate[5281]: V: setting up connection to clients3.google.com:443
+2026-09-13T04:57:52.196996Z ERR tlsdate[5281]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T04:57:52.199575Z ERR tlsdate[5280]: child process failed in SSL handshake
+2026-09-13T04:57:52.200423Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:14 uid:234 status:1 code:1
+2026-09-13T05:00:32.200930Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T05:00:33.202798Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 5 backoff 160
+2026-09-13T05:00:33.208995Z INFO tlsdate[5516]: V: time is currently 1789275633.208603328
+2026-09-13T05:00:33.209168Z INFO tlsdate[5516]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T05:00:33.212277Z INFO tlsdate[5517]: V: using TLSv1_2_client_method()
+2026-09-13T05:00:33.219107Z INFO tlsdate[5517]: V: setting up connection to clients3.google.com:443
+2026-09-13T05:00:33.221840Z ERR tlsdate[5517]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T05:00:33.223964Z ERR tlsdate[5516]: child process failed in SSL handshake
+2026-09-13T05:00:33.224643Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:16 uid:234 status:1 code:1
+2026-09-13T05:05:53.225983Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T05:05:54.228839Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 6 backoff 320
+2026-09-13T05:05:54.235401Z INFO tlsdate[6167]: V: time is currently 1789275954.234732424
+2026-09-13T05:05:54.235576Z INFO tlsdate[6167]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T05:05:54.238579Z INFO tlsdate[6168]: V: using TLSv1_2_client_method()
+2026-09-13T05:05:54.244827Z INFO tlsdate[6168]: V: setting up connection to clients3.google.com:443
+2026-09-13T05:05:54.247503Z ERR tlsdate[6168]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T05:05:54.250002Z ERR tlsdate[6167]: child process failed in SSL handshake
+2026-09-13T05:05:54.250778Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:18 uid:234 status:1 code:1
+2026-09-13T05:16:34.251395Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T05:16:35.254926Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 7 backoff 640
+2026-09-13T05:16:35.261384Z INFO tlsdate[7377]: V: time is currently 1789276595.261092001
+2026-09-13T05:16:35.261562Z INFO tlsdate[7377]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T05:16:35.264407Z INFO tlsdate[7378]: V: using TLSv1_2_client_method()
+2026-09-13T05:16:35.270149Z INFO tlsdate[7378]: V: setting up connection to clients3.google.com:443
+2026-09-13T05:16:35.272641Z ERR tlsdate[7378]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T05:16:35.274873Z ERR tlsdate[7377]: child process failed in SSL handshake
+2026-09-13T05:16:35.275718Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:20 uid:234 status:1 code:1
+2026-09-13T05:27:15.275931Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T05:27:16.279320Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 8 backoff 640
+2026-09-13T05:27:16.285051Z INFO tlsdate[8664]: V: time is currently 1789277236.284742578
+2026-09-13T05:27:16.285231Z INFO tlsdate[8664]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T05:27:16.287210Z INFO tlsdate[8665]: V: using TLSv1_2_client_method()
+2026-09-13T05:27:16.290113Z INFO tlsdate[8665]: V: setting up connection to clients3.google.com:443
+2026-09-13T05:27:16.291618Z ERR tlsdate[8665]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T05:27:16.292624Z ERR tlsdate[8664]: child process failed in SSL handshake
+2026-09-13T05:27:16.293393Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:22 uid:234 status:1 code:1
+2026-09-13T05:37:56.294141Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T05:37:57.296450Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 9 backoff 640
+2026-09-13T05:37:57.302798Z INFO tlsdate[9852]: V: time is currently 1789277877.302479231
+2026-09-13T05:37:57.302975Z INFO tlsdate[9852]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T05:37:57.305948Z INFO tlsdate[9853]: V: using TLSv1_2_client_method()
+2026-09-13T05:37:57.312217Z INFO tlsdate[9853]: V: setting up connection to clients3.google.com:443
+2026-09-13T05:37:57.314908Z ERR tlsdate[9853]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T05:37:57.317787Z ERR tlsdate[9852]: child process failed in SSL handshake
+2026-09-13T05:37:57.318847Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:24 uid:234 status:1 code:1
+2026-09-13T05:48:37.319624Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T05:48:38.323505Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 10 backoff 640
+2026-09-13T05:48:38.329307Z INFO tlsdate[10954]: V: time is currently 1789278518.329006039
+2026-09-13T05:48:38.329489Z INFO tlsdate[10954]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T05:48:38.332455Z INFO tlsdate[10955]: V: using TLSv1_2_client_method()
+2026-09-13T05:48:38.338356Z INFO tlsdate[10955]: V: setting up connection to clients3.google.com:443
+2026-09-13T05:48:38.341317Z ERR tlsdate[10955]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T05:48:38.343574Z ERR tlsdate[10954]: child process failed in SSL handshake
+2026-09-13T05:48:38.344437Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:26 uid:234 status:1 code:1
+2026-09-13T05:59:18.345755Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T05:59:19.349590Z INFO tlsdated[3769]: [event:action_run_tlsdate] tlsdate tried and failed to get the time
+2026-09-13T08:08:30.238603Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T08:08:31.261621Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-13T08:08:31.267333Z INFO tlsdate[26098]: V: time is currently 1789286911.267026076
+2026-09-13T08:08:31.267362Z INFO tlsdate[26098]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T08:08:31.270288Z INFO tlsdate[26099]: V: using TLSv1_2_client_method()
+2026-09-13T08:08:31.276271Z INFO tlsdate[26099]: V: setting up connection to clients3.google.com:443
+2026-09-13T08:08:31.283983Z ERR tlsdate[26099]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T08:08:31.286105Z ERR tlsdate[26098]: child process failed in SSL handshake
+2026-09-13T08:08:31.286719Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:28 uid:234 status:1 code:1
+2026-09-13T08:08:51.287132Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T08:08:52.289089Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 2 backoff 20
+2026-09-13T08:08:52.295592Z INFO tlsdate[26135]: V: time is currently 1789286932.295296385
+2026-09-13T08:08:52.295762Z INFO tlsdate[26135]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T08:08:52.298820Z INFO tlsdate[26136]: V: using TLSv1_2_client_method()
+2026-09-13T08:08:52.304669Z INFO tlsdate[26136]: V: setting up connection to clients3.google.com:443
+2026-09-13T08:08:52.307030Z ERR tlsdate[26136]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T08:08:52.309091Z ERR tlsdate[26135]: child process failed in SSL handshake
+2026-09-13T08:08:52.309703Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:30 uid:234 status:1 code:1
+2026-09-13T08:09:32.311415Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T08:09:33.315295Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 3 backoff 40
+2026-09-13T08:09:33.321437Z INFO tlsdate[26235]: V: time is currently 1789286973.321173926
+2026-09-13T08:09:33.321915Z INFO tlsdate[26235]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T08:09:33.324815Z INFO tlsdate[26236]: V: using TLSv1_2_client_method()
+2026-09-13T08:09:33.330537Z INFO tlsdate[26236]: V: setting up connection to clients3.google.com:443
+2026-09-13T08:09:33.333900Z ERR tlsdate[26236]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T08:09:33.335404Z ERR tlsdate[26235]: child process failed in SSL handshake
+2026-09-13T08:09:33.336235Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:32 uid:234 status:1 code:1
+2026-09-13T08:10:53.337328Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T08:10:54.341068Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 4 backoff 80
+2026-09-13T08:10:54.346878Z INFO tlsdate[26369]: V: time is currently 1789287054.346597777
+2026-09-13T08:10:54.347049Z INFO tlsdate[26369]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T08:10:54.350178Z INFO tlsdate[26370]: V: using TLSv1_2_client_method()
+2026-09-13T08:10:54.356705Z INFO tlsdate[26370]: V: setting up connection to clients3.google.com:443
+2026-09-13T08:10:54.363675Z ERR tlsdate[26370]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T08:10:54.365240Z ERR tlsdate[26369]: child process failed in SSL handshake
+2026-09-13T08:10:54.366186Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:34 uid:234 status:1 code:1
+2026-09-13T08:13:34.366742Z INFO tlsdated[3769]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-13T08:13:35.370536Z INFO tlsdated[3769]: [event:action_run_tlsdate] attempt 5 backoff 160
+2026-09-13T08:13:35.376751Z INFO tlsdate[26701]: V: time is currently 1789287215.376396864
+2026-09-13T08:13:35.377108Z INFO tlsdate[26701]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-13T08:13:35.380279Z INFO tlsdate[26702]: V: using TLSv1_2_client_method()
+2026-09-13T08:13:35.386254Z INFO tlsdate[26702]: V: setting up connection to clients3.google.com:443
+2026-09-13T08:13:35.388760Z ERR tlsdate[26702]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-13T08:13:35.391145Z ERR tlsdate[26701]: child process failed in SSL handshake
+2026-09-13T08:13:35.391957Z INFO tlsdated[3769]: [event:handle_child_process_termination] tlsdate reaped => pid:36 uid:234 status:1 code:1
+2026-09-16T22:03:22.306369Z INFO tlsdated[3697]: spawning time setting helper . . .
+2026-09-16T22:03:22.312361Z INFO tlsdated[3697]: disk timestamp available: yes
+2026-09-16T22:03:22.312457Z INFO tlsdated[3697]: initial time sync type: system-clock
+2026-09-16T22:03:22.313565Z INFO tlsdated[3697]: Entering dispatch . . .
+2026-09-16T22:03:22.313655Z INFO tlsdated[3697]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-16T22:03:22.000040Z INFO tlsdated[3702]: tlsdate-setter: system time updated to 1789596202.000000000
+2026-09-16T22:03:22.000589Z INFO tlsdated[3697]: [event:handle_time_setter] time set from the system-clock (1789596202)
+2026-09-16T22:03:22.001774Z INFO tlsdated[3697]: [cros] DBus name acquired successfully
+2026-09-16T22:03:22.001801Z INFO tlsdated[3697]: [cros] DBus name acquired successfully
+2026-09-16T22:03:23.005076Z INFO tlsdated[3697]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-16T22:03:23.014668Z INFO tlsdate[3756]: V: time is currently 1789596203.14402923
+2026-09-16T22:03:23.014692Z INFO tlsdate[3756]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-16T22:03:23.017774Z INFO tlsdate[3758]: V: using TLSv1_2_client_method()
+2026-09-16T22:03:23.023290Z INFO tlsdate[3758]: V: setting up connection to clients3.google.com:443
+2026-09-16T22:03:23.029972Z ERR tlsdate[3758]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-16T22:03:23.033311Z ERR tlsdate[3756]: child process failed in SSL handshake
+2026-09-16T22:03:23.034083Z INFO tlsdated[3697]: [event:handle_child_process_termination] tlsdate reaped => pid:4 uid:234 status:1 code:1
+2026-09-16T22:03:44.519219Z INFO tlsdated[3697]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-16T22:03:45.521394Z INFO tlsdated[3697]: [event:action_run_tlsdate] attempt 1 backoff 10
+2026-09-16T22:03:45.526402Z INFO tlsdate[4353]: V: time is currently 1789596225.526083309
+2026-09-16T22:03:45.526422Z INFO tlsdate[4353]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-16T22:03:45.528819Z INFO tlsdate[4354]: V: using TLSv1_2_client_method()
+2026-09-16T22:03:45.533245Z INFO tlsdate[4354]: V: setting up connection to clients3.google.com:443
+2026-09-16T22:03:45.535113Z ERR tlsdate[4354]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-16T22:03:45.536948Z ERR tlsdate[4353]: child process failed in SSL handshake
+2026-09-16T22:03:45.537546Z INFO tlsdated[3697]: [event:handle_child_process_termination] tlsdate reaped => pid:6 uid:234 status:1 code:1
+2026-09-16T22:04:05.538786Z INFO tlsdated[3697]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-16T22:04:06.540861Z INFO tlsdated[3697]: [event:action_run_tlsdate] attempt 2 backoff 20
+2026-09-16T22:04:06.545117Z INFO tlsdate[4422]: V: time is currently 1789596246.544853925
+2026-09-16T22:04:06.545318Z INFO tlsdate[4422]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-16T22:04:06.547558Z INFO tlsdate[4423]: V: using TLSv1_2_client_method()
+2026-09-16T22:04:06.551969Z INFO tlsdate[4423]: V: setting up connection to clients3.google.com:443
+2026-09-16T22:04:06.554093Z ERR tlsdate[4423]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-16T22:04:06.555996Z ERR tlsdate[4422]: child process failed in SSL handshake
+2026-09-16T22:04:06.556749Z INFO tlsdated[3697]: [event:handle_child_process_termination] tlsdate reaped => pid:8 uid:234 status:1 code:1
+2026-09-16T22:04:46.557543Z INFO tlsdated[3697]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-16T22:04:47.560577Z INFO tlsdated[3697]: [event:action_run_tlsdate] attempt 3 backoff 40
+2026-09-16T22:04:47.566963Z INFO tlsdate[4888]: V: time is currently 1789596287.566682697
+2026-09-16T22:04:47.567165Z INFO tlsdate[4888]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-16T22:04:47.570332Z INFO tlsdate[4889]: V: using TLSv1_2_client_method()
+2026-09-16T22:04:47.576473Z INFO tlsdate[4889]: V: setting up connection to clients3.google.com:443
+2026-09-16T22:04:47.579147Z ERR tlsdate[4889]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-16T22:04:47.581514Z ERR tlsdate[4888]: child process failed in SSL handshake
+2026-09-16T22:04:47.582281Z INFO tlsdated[3697]: [event:handle_child_process_termination] tlsdate reaped => pid:10 uid:234 status:1 code:1
+2026-09-16T22:06:07.582299Z INFO tlsdated[3697]: [event:action_resolve_proxy] resolving proxy for clients3.google.com:443
+2026-09-16T22:06:08.585131Z INFO tlsdated[3697]: [event:action_run_tlsdate] attempt 4 backoff 80
+2026-09-16T22:06:08.591025Z INFO tlsdate[5057]: V: time is currently 1789596368.590729779
+2026-09-16T22:06:08.591220Z INFO tlsdate[5057]: V: time is greater than RECENT_COMPILE_DATE
+2026-09-16T22:06:08.594333Z INFO tlsdate[5058]: V: using TLSv1_2_client_method()
+2026-09-16T22:06:08.600561Z INFO tlsdate[5058]: V: setting up connection to clients3.google.com:443
+2026-09-16T22:06:08.603351Z ERR tlsdate[5058]: getaddrinfo (clients3.google.com): Name or service not known
+2026-09-16T22:06:08.605453Z ERR tlsdate[5057]: child process failed in SSL handshake
+2026-09-16T22:06:08.606370Z INFO tlsdated[3697]: [event:handle_child_process_termination] tlsdate reaped => pid:12 uid:234 status:1 code:1

@@ -1,0 +1,8 @@
+#  Copyright 2024 The ChromiumOS Authors
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+
+# M.2 modem card reset on net WWAN_RTS_L is connected to 10005000.pinctrl
+# at offset 182
+ ACTION=="add", DEVPATH=="*/10005000.pinctrl/gpiochip*/gpio/*", \
+    RUN+="/lib/udev/chown-usb-modem-gpio.sh \"$sys/$devpath\" \"10005000.pinctrl\" 181 182"

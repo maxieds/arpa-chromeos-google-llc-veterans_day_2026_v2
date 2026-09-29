@@ -1,0 +1,233 @@
+0 | 2026-09-13 00:15:35+0000 | Memory Cache Update | Normal | Success
+1 | 2026-09-13 00:15:36+0000 | System boot | 0
+2 | 2026-09-13 00:15:36+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+3 | 2026-09-13 00:15:40+0000 | System boot | 0
+4 | 2026-09-13 00:15:40+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+5 | 2026-09-13 02:06:41+0000 | System boot | 0
+6 | 2026-09-13 02:06:41+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+7 | 2026-09-13 02:06:43+0000 | System boot | 0
+8 | 2026-09-13 02:06:43+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+9 | 2026-09-13 02:06:43+0000 | EC Event | Keyboard Recovery
+10 | 2026-09-13 02:06:59+0000 | Memory Cache Update | Normal | Success
+11 | 2026-09-13 02:06:59+0000 | System boot | 0
+12 | 2026-09-13 02:06:59+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+13 | 2026-09-13 04:06:42+0000 | System boot | 0
+14 | 2026-09-13 04:06:42+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+15 | 2026-09-13 04:06:42+0000 | EC Event | Keyboard Recovery
+16 | 2026-09-13 04:52:57+0000 | Memory Cache Update | Normal | Success
+17 | 2026-09-13 04:52:58+0000 | System boot | 0
+18 | 2026-09-13 04:52:58+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+19 | 2026-09-13 04:53:09+0000 | System boot | 0
+20 | 2026-09-13 04:53:09+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+21 | 2026-09-13 04:53:09+0000 | EC Event | Keyboard Recovery
+22 | 2026-09-13 04:54:01+0000 | Memory Cache Update | Normal | Success
+23 | 2026-09-13 04:54:01+0000 | System boot | 0
+24 | 2026-09-13 04:54:01+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+25 | 2026-09-13 04:54:17+0000 | System boot | 0
+26 | 2026-09-13 04:54:17+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+27 | 2026-09-13 07:59:03+0000 | Log area cleared | 1028
+28 | 2026-09-13 07:59:03+0000 | Sleep
+29 | 2026-09-13 08:08:30+0000 | Wake
+30 | 2026-09-13 08:16:35+0000 | System boot | 0
+31 | 2026-09-13 08:16:35+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+32 | 2026-09-13 08:16:35+0000 | EC Event | Keyboard Recovery
+33 | 2026-09-13 08:52:14+0000 | System boot | 0
+34 | 2026-09-13 08:52:14+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+35 | 2026-09-13 08:52:14+0000 | EC Event | Keyboard Recovery
+36 | 2026-09-13 08:53:21+0000 | System boot | 0
+37 | 2026-09-13 08:53:21+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+38 | 2026-09-13 08:53:21+0000 | EC Event | Keyboard Recovery
+39 | 2026-09-13 09:00:32+0000 | Memory Cache Update | Normal | Success
+40 | 2026-09-13 09:00:32+0000 | System boot | 0
+41 | 2026-09-13 09:00:32+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+42 | 2026-09-13 09:00:36+0000 | System boot | 0
+43 | 2026-09-13 09:00:36+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+44 | 2026-09-13 09:01:12+0000 | System boot | 0
+45 | 2026-09-13 09:01:12+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+46 | 2026-09-13 19:14:28+0000 | System boot | 0
+47 | 2026-09-13 19:14:28+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+48 | 2026-09-13 19:14:31+0000 | System boot | 0
+49 | 2026-09-13 19:14:31+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+50 | 2026-09-13 19:14:31+0000 | EC Event | Keyboard Recovery
+51 | 2026-09-13 23:45:44+0000 | Memory Cache Update | Normal | Success
+52 | 2026-09-13 23:45:44+0000 | System boot | 0
+53 | 2026-09-13 23:45:44+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+54 | 2026-09-13 23:45:46+0000 | System boot | 0
+55 | 2026-09-13 23:45:46+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+56 | 2026-09-13 23:45:46+0000 | EC Event | Keyboard Recovery
+57 | 2026-09-15 22:47:09+0000 | Memory Cache Update | Normal | Success
+58 | 2026-09-15 22:47:09+0000 | System boot | 0
+59 | 2026-09-15 22:47:09+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+60 | 2026-09-15 22:47:45+0000 | System boot | 0
+61 | 2026-09-15 22:47:45+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+62 | 2026-09-15 22:47:45+0000 | EC Event | Keyboard Recovery
+63 | 2026-09-15 22:52:53+0000 | Memory Cache Update | Normal | Success
+64 | 2026-09-15 22:52:53+0000 | System boot | 0
+65 | 2026-09-15 22:52:53+0000 | Firmware vboot info | boot_mode=Diagnostic | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+66 | 2026-09-15 22:52:53+0000 | Diagnostics Mode | Diagnostics Logs | type=Memory check (full), result=Aborted, time=0m21s | type=Memory check (quick), result=Passed, time=0m5s | type=Storage health info, result=Passed, time=0m0s
+67 | 2026-09-15 22:53:41+0000 | System boot | 0
+68 | 2026-09-15 22:53:41+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+69 | 2026-09-16 22:01:54+0000 | System boot | 0
+70 | 2026-09-16 22:01:54+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+71 | 2026-09-16 22:02:50+0000 | System boot | 0
+72 | 2026-09-16 22:02:50+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+73 | 2026-09-16 22:02:50+0000 | EC Event | Keyboard Recovery
+74 | 2026-09-16 22:03:09+0000 | Memory Cache Update | Normal | Success
+75 | 2026-09-16 22:03:09+0000 | System boot | 0
+76 | 2026-09-16 22:03:09+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+77 | 2026-09-16 22:41:21+0000 | System boot | 0
+78 | 2026-09-16 22:41:21+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+79 | 2026-09-16 22:41:21+0000 | EC Event | Keyboard Recovery
+80 | 2026-09-16 22:45:11+0000 | Memory Cache Update | Normal | Success
+81 | 2026-09-16 22:45:12+0000 | System boot | 0
+82 | 2026-09-16 22:45:12+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+83 | 2026-09-16 23:07:23+0000 | System boot | 0
+84 | 2026-09-16 23:07:23+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+85 | 2026-09-16 23:07:26+0000 | System boot | 0
+86 | 2026-09-16 23:07:26+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+87 | 2026-09-16 23:07:26+0000 | EC Event | Keyboard Recovery
+88 | 2026-09-16 23:19:52+0000 | System boot | 0
+89 | 2026-09-16 23:19:52+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+90 | 2026-09-16 23:19:52+0000 | EC Event | Keyboard Recovery
+91 | 2026-09-16 23:20:13+0000 | System boot | 0
+92 | 2026-09-16 23:20:13+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+93 | 2026-09-16 23:20:13+0000 | EC Event | Keyboard Recovery
+94 | 2026-09-16 23:23:54+0000 | Memory Cache Update | Normal | Success
+95 | 2026-09-16 23:23:54+0000 | System boot | 0
+96 | 2026-09-16 23:23:54+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+97 | 2026-09-16 23:23:56+0000 | System boot | 0
+98 | 2026-09-16 23:23:56+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+99 | 2026-09-16 23:23:56+0000 | EC Event | Keyboard Recovery
+100 | 2026-09-16 23:25:10+0000 | Memory Cache Update | Normal | Success
+101 | 2026-09-16 23:25:10+0000 | System boot | 0
+102 | 2026-09-16 23:25:10+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+103 | 2026-09-16 23:25:14+0000 | System boot | 0
+104 | 2026-09-16 23:25:14+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+105 | 2026-09-16 23:30:28+0000 | System boot | 0
+106 | 2026-09-16 23:30:28+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+107 | 2026-09-16 23:30:28+0000 | EC Event | Keyboard Recovery
+108 | 2026-09-16 23:33:22+0000 | System boot | 0
+109 | 2026-09-16 23:33:22+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+110 | 2026-09-16 23:33:22+0000 | EC Event | Keyboard Recovery
+111 | 2026-09-16 23:37:40+0000 | Memory Cache Update | Normal | Success
+112 | 2026-09-16 23:37:42+0000 | System boot | 0
+113 | 2026-09-16 23:37:42+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+114 | 2026-09-16 23:37:42+0000 | EC Event | Keyboard Recovery
+115 | 2026-09-16 23:43:51+0000 | Memory Cache Update | Normal | Success
+116 | 2026-09-16 23:43:53+0000 | System boot | 0
+117 | 2026-09-16 23:43:53+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+118 | 2026-09-16 23:43:53+0000 | EC Event | Keyboard Recovery
+119 | 2026-09-16 23:46:49+0000 | Memory Cache Update | Normal | Success
+120 | 2026-09-16 23:46:50+0000 | System boot | 0
+121 | 2026-09-16 23:46:50+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+122 | 2026-09-16 23:46:52+0000 | System boot | 0
+123 | 2026-09-16 23:46:52+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+124 | 2026-09-16 23:46:52+0000 | EC Event | Keyboard Recovery
+125 | 2026-09-16 23:49:33+0000 | Memory Cache Update | Normal | Success
+126 | 2026-09-16 23:49:33+0000 | System boot | 0
+127 | 2026-09-16 23:49:33+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+128 | 2026-09-16 23:49:37+0000 | System boot | 0
+129 | 2026-09-16 23:49:37+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+130 | 2026-09-16 23:50:07+0000 | System boot | 0
+131 | 2026-09-16 23:50:07+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+132 | 2026-09-16 23:50:07+0000 | EC Event | Keyboard Recovery
+133 | 2026-09-17 00:06:48+0000 | System boot | 0
+134 | 2026-09-17 00:06:48+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+135 | 2026-09-17 00:06:48+0000 | EC Event | Keyboard Recovery
+136 | 2026-09-17 00:07:11+0000 | Memory Cache Update | Normal | Success
+137 | 2026-09-17 00:07:11+0000 | System boot | 0
+138 | 2026-09-17 00:07:11+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+139 | 2026-09-17 00:50:47+0000 | System boot | 0
+140 | 2026-09-17 00:50:47+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+141 | 2026-09-18 01:17:55+0000 | System boot | 0
+142 | 2026-09-18 01:17:55+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+143 | 2026-09-18 01:17:55+0000 | EC Event | Keyboard Recovery
+144 | 2026-09-18 01:38:25+0000 | Memory Cache Update | Normal | Success
+145 | 2026-09-18 01:38:25+0000 | System boot | 0
+146 | 2026-09-18 01:38:25+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+147 | 2026-09-18 01:38:30+0000 | System boot | 0
+148 | 2026-09-18 01:38:30+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+149 | 2026-09-18 01:48:06+0000 | System boot | 0
+150 | 2026-09-18 01:48:06+0000 | Log area cleared | 1023
+151 | 2026-09-18 01:48:06+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+152 | 2026-09-18 01:48:06+0000 | EC Event | Keyboard Recovery
+153 | 2026-09-18 02:13:14+0000 | Memory Cache Update | Normal | Success
+154 | 2026-09-18 02:13:14+0000 | System boot | 0
+155 | 2026-09-18 02:13:14+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+156 | 2026-09-18 02:13:47+0000 | System boot | 0
+157 | 2026-09-18 02:13:47+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+158 | 2026-09-18 02:14:01+0000 | System boot | 0
+159 | 2026-09-18 02:14:01+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+160 | 2026-09-18 02:14:13+0000 | System boot | 0
+161 | 2026-09-18 02:14:13+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+162 | 2026-09-18 02:14:13+0000 | EC Event | Keyboard Recovery
+163 | 2026-09-18 02:15:04+0000 | Memory Cache Update | Normal | Success
+164 | 2026-09-18 02:15:04+0000 | System boot | 0
+165 | 2026-09-18 02:15:04+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+166 | 2026-09-18 03:38:57+0000 | Sleep
+167 | 2026-09-18 03:39:10+0000 | Wake
+168 | 2026-09-18 03:39:20+0000 | System boot | 0
+169 | 2026-09-18 03:39:20+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+170 | 2026-09-18 03:39:36+0000 | System boot | 0
+171 | 2026-09-18 03:39:36+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+172 | 2026-09-18 03:39:48+0000 | System boot | 0
+173 | 2026-09-18 03:39:48+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+174 | 2026-09-18 03:39:48+0000 | EC Event | Keyboard Recovery
+175 | 2026-09-18 03:40:10+0000 | Memory Cache Update | Normal | Success
+176 | 2026-09-18 03:40:11+0000 | System boot | 0
+177 | 2026-09-18 03:40:11+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+178 | 2026-09-18 03:40:15+0000 | System boot | 0
+179 | 2026-09-18 03:40:15+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+180 | 2026-09-18 04:04:24+0000 | System boot | 0
+181 | 2026-09-18 04:04:24+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+182 | 2026-09-18 04:04:28+0000 | System boot | 0
+183 | 2026-09-18 04:04:28+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+184 | 2026-09-18 05:10:08+0000 | Log area cleared | 1028
+185 | 2026-09-18 05:10:08+0000 | Sleep
+186 | 2026-09-18 05:10:12+0000 | Wake
+187 | 2026-09-18 05:10:22+0000 | Sleep
+188 | 2026-09-18 05:38:05+0000 | Wake
+189 | 2026-09-19 17:03:05+0000 | System boot | 0
+190 | 2026-09-19 17:03:05+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+191 | 2026-09-19 17:03:08+0000 | System boot | 0
+192 | 2026-09-19 17:03:08+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+193 | 2026-09-19 17:03:08+0000 | EC Event | Keyboard Recovery
+194 | 2026-09-19 18:31:19+0000 | Memory Cache Update | Normal | Success
+195 | 2026-09-19 18:31:20+0000 | System boot | 0
+196 | 2026-09-19 18:31:20+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+197 | 2026-09-24 22:17:45+0000 | System boot | 0
+198 | 2026-09-24 22:17:45+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+199 | 2026-09-24 22:18:36+0000 | System boot | 0
+200 | 2026-09-24 22:18:36+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+201 | 2026-09-24 22:18:36+0000 | EC Event | Keyboard Recovery
+202 | 2026-09-24 22:20:07+0000 | Memory Cache Update | Normal | Success
+203 | 2026-09-24 22:20:07+0000 | System boot | 0
+204 | 2026-09-24 22:20:07+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+205 | 2026-09-25 01:54:52+0000 | System boot | 0
+206 | 2026-09-25 01:54:52+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+207 | 2026-09-25 01:54:57+0000 | System boot | 0
+208 | 2026-09-25 01:54:57+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+209 | 2026-09-26 22:45:02+0000 | System boot | 0
+210 | 2026-09-26 22:45:02+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+211 | 2026-09-26 22:45:11+0000 | System boot | 0
+212 | 2026-09-26 22:45:11+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+213 | 2026-09-26 22:45:11+0000 | EC Event | Keyboard Recovery
+214 | 2026-09-26 22:45:46+0000 | Memory Cache Update | Normal | Success
+215 | 2026-09-26 22:45:46+0000 | System boot | 0
+216 | 2026-09-26 22:45:46+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+217 | 2026-09-27 13:49:24+0000 | System boot | 0
+218 | 2026-09-27 13:49:24+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+219 | 2026-09-27 13:49:40+0000 | System boot | 0
+220 | 2026-09-27 13:49:40+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+221 | 2026-09-27 13:49:40+0000 | EC Event | Keyboard Recovery
+222 | 2026-09-27 13:49:48+0000 | Memory Cache Update | Normal | Success
+223 | 2026-09-27 13:49:48+0000 | System boot | 0
+224 | 2026-09-27 13:49:48+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown
+225 | 2026-09-28 21:51:49+0000 | System boot | 0
+226 | 2026-09-28 21:51:49+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Success
+227 | 2026-09-28 21:51:52+0000 | System boot | 0
+228 | 2026-09-28 21:51:52+0000 | Firmware vboot info | boot_mode=Manual recovery | recovery_reason=0x2/0 (Recovery button pressed) | fw_tried=A | fw_try_count=0 | fw_prev_tried=A | fw_prev_result=Unknown
+229 | 2026-09-28 21:51:52+0000 | EC Event | Keyboard Recovery
+230 | 2026-09-28 21:52:20+0000 | Memory Cache Update | Normal | Success
+231 | 2026-09-28 21:52:21+0000 | System boot | 0
+232 | 2026-09-28 21:52:21+0000 | Firmware vboot info | boot_mode=Developer | fw_tried=B | fw_try_count=0 | fw_prev_tried=B | fw_prev_result=Unknown

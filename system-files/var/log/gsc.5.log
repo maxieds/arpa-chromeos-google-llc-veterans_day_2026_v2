@@ -1,0 +1,445 @@
+
+[       0.390] Console is enabled
+[       0.399] RBOX: WP true
+[       0.403] EC_COMM: enabled
+[       0.406] EC_COMM: disabled
+[       0.806] EC_COMM: enabled
+[       0.825] EFS2: boot_mode: TrustedRO -> Verified
+[       0.829] EC_COMM: disabled
+[       1.045] Servo: debouncing -> disconnected
+[       6.468] PLT_RST_L DEASSERTED
+[       6.505] TPM SPI enabled (CS=true)
+[       6.604] Deferring NV write.
+[       6.606] PinWeaver init
+[       6.697] PCR0 updated
+[       6.706] Deferring NV write.
+[      13.309] PLT_RST_L ASSERTED
+[      13.321] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[      13.327] TPM SPI disabled (CS=true)
+[      61.667] RBOX: power button pressed
+[      61.744] RBOX: key-combo ec-reset
+[      61.747] EFS2: boot_mode: Verified -> TrustedRO
+[      61.852] AC: -F
+[      61.854] AC: wait
+[      62.216] PLT_RST_L DEASSERTED
+[      62.219] TPM SPI enabled (CS=true)
+[      62.352] Deferring NV write.
+[      62.356] PinWeaver init
+[      62.381] PCR0 updated
+[      62.520] AC: R-
+[      62.521] RBOX: canceled battery disable
+[      66.408] RBOX: power button released
+[      79.980] PLT_RST_L ASSERTED
+[      79.993] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[      79.999] TPM SPI disabled (CS=true)
+[      80.064] EC_COMM: enabled
+[      80.066] EC_COMM: disabled
+[      80.484] EC_COMM: enabled
+[      80.503] EFS2: boot_mode: TrustedRO -> Verified
+[      80.507] EC_COMM: disabled
+[      80.700] AC: -F
+[      80.774] RBOX: power button pressed
+[      81.104] PLT_RST_L DEASSERTED
+[      81.107] TPM SPI enabled (CS=true)
+[      81.239] Deferring NV write.
+[      81.244] PinWeaver init
+[      81.325] PCR0 updated
+[      81.335] Deferring NV write.
+[      81.353] AC: R-
+[      82.557] Deferring NV write.
+[      83.962] RBOX: power button released
+[      84.197] Idle erase.
+[      85.199] Idle erase.
+[      87.360] TPM SPI write (3d40008): non-zero value 87
+[      90.214] Roll back counter 1
+[      90.216] Kernel booted.
+[      90.322] RBOX: WP true
+[      96.221] Idle erase.
+[     149.562] Wake source: 0x00000001
+[     149.565] Which pin: 0x0200000000000000
+[     154.572] Wake source: 0x00000000
+[     210.540] Wake source: 0x00000001
+[     210.543] Which pin: 0x0200000000000000
+[     271.468] Wake source: 0x00000001
+[     271.471] Which pin: 0x0200000000000000
+[     271.475] Alert[4] = 0x800
+[     332.395] Wake source: 0x00000001
+[     332.398] Which pin: 0x0200000000000000
+[     393.322] Wake source: 0x00000001
+[     393.325] Which pin: 0x0200000000000000
+[     402.148] Wake source: 0x00000001
+[     402.151] Which pin: 0x0200000000000000
+[     454.301] Wake source: 0x00000001
+[     454.304] Which pin: 0x0200000000000000
+[     515.231] Wake source: 0x00000001
+[     515.234] Which pin: 0x0200000000000000
+[     576.163] Wake source: 0x00000001
+[     576.166] Which pin: 0x0200000000000000
+[     576.170] Alert[4] = 0x800
+[     637.098] Wake source: 0x00000001
+[     637.101] Which pin: 0x0200000000000000
+[     637.105] Alert[4] = 0x800
+[     698.038] Wake source: 0x00000001
+[     698.041] Which pin: 0x0200000000000000
+[     709.752] Wake source: 0x00000001
+[     709.755] Which pin: 0x0200000000000000
+[     709.759] Alert[4] = 0x800
+[     759.026] Wake source: 0x00000001
+[     759.029] Which pin: 0x0200000000000000
+[     819.968] Wake source: 0x00000001
+[     819.971] Which pin: 0x0200000000000000
+[     880.910] Wake source: 0x00000001
+[     880.913] Which pin: 0x0200000000000000
+[     880.917] Alert[4] = 0x800
+[     941.852] Wake source: 0x00000001
+[     941.855] Which pin: 0x0200000000000000
+[    1002.794] Wake source: 0x00000001
+[    1002.797] Which pin: 0x0200000000000000
+[    1017.378] Wake source: 0x00000001
+[    1017.381] Which pin: 0x0200000000000000
+[    1063.787] Wake source: 0x00000001
+[    1063.790] Which pin: 0x0200000000000000
+[    1063.794] Alert[4] = 0x800
+[    1124.727] Wake source: 0x00000001
+[    1124.730] Which pin: 0x0200000000000000
+[    1185.667] Wake source: 0x00000001
+[    1185.670] Which pin: 0x0200000000000000
+[    1246.609] Wake source: 0x00000001
+[    1246.612] Which pin: 0x0200000000000000
+[    1307.552] Wake source: 0x00000001
+[    1307.555] Which pin: 0x0200000000000000
+[    1324.992] Wake source: 0x00000001
+[    1324.995] Which pin: 0x0200000000000000
+[    1368.545] Wake source: 0x00000001
+[    1368.548] Which pin: 0x0200000000000000
+[    1368.552] Alert[4] = 0x800
+[    1429.492] Wake source: 0x00000001
+[    1429.495] Which pin: 0x0200000000000000
+[    1490.442] Wake source: 0x00000001
+[    1490.445] Which pin: 0x0200000000000000
+[    1551.392] Wake source: 0x00000001
+[    1551.395] Which pin: 0x0200000000000000
+[    1612.336] Wake source: 0x00000001
+[    1612.339] Which pin: 0x0200000000000000
+[    1632.633] Wake source: 0x00000001
+[    1632.636] Which pin: 0x0200000000000000
+[    1673.330] Wake source: 0x00000001
+[    1673.333] Which pin: 0x0200000000000000
+[    1734.279] Wake source: 0x00000001
+[    1734.282] Which pin: 0x0200000000000000
+[    1795.228] Wake source: 0x00000001
+[    1795.231] Which pin: 0x0200000000000000
+[    1856.178] Wake source: 0x00000001
+[    1856.181] Which pin: 0x0200000000000000
+[    1856.185] Alert[4] = 0x800
+[    1917.128] Wake source: 0x00000001
+[    1917.131] Which pin: 0x0200000000000000
+[    1917.135] Alert[4] = 0x800
+[    1940.279] Wake source: 0x00000001
+[    1940.282] Which pin: 0x0200000000000000
+[    1940.286] Alert[4] = 0x800
+[    1978.128] Wake source: 0x00000001
+[    1978.131] Which pin: 0x0200000000000000
+[    2039.078] Wake source: 0x00000001
+[    2039.081] Which pin: 0x0200000000000000
+[    2100.028] Wake source: 0x00000001
+[    2100.031] Which pin: 0x0200000000000000
+[    2160.975] Wake source: 0x00000001
+[    2160.978] Which pin: 0x0200000000000000
+[    2160.982] Alert[4] = 0x800
+[    2221.925] Wake source: 0x00000001
+[    2221.928] Which pin: 0x0200000000000000
+[    2221.932] Alert[4] = 0x800
+[    2247.938] Wake source: 0x00000001
+[    2247.941] Which pin: 0x0200000000000000
+ 0    242    188
+[       0.106]      0x03    0x01800006      0    242    184
+[       0.111]      0x03    0x0100100a      0    244    188
+[       0.116]      0x03    0x0100100e      0    244    180
+[       0.122]      0x03    0x01001008      0    244    188
+[       0.127]      0x03    0x81000000      0    244    314
+[       0.132]      0x03    0x81000002      0    244    278
+[       0.137]      0x03    0x81000005      0    246    310
+[       0.143]      0x03    0x01800004      0    246    217
+[       0.148] 1568 bytes free in active pages.
+[       0.152] Filesystem init took 86 ms.
+[       0.156] PLT_RST_L ASSERTED
+[       0.159] TPM SPI disabled (CS=true)
+[       0.164] RBOX: deassert EC_RST_L
+[       0.184] Valid CCD config found
+[       0.187] RBOX: WP true
+[       0.189] RBOX: WP true
+[       0.192] AP RO verification result: OK (0xfffff000)
+[       0.209] Key ladder state: Prod
+[       0.230] PLT_RST_L DEASSERTED
+[       0.236] Console is enabled
+[       0.239] RBOX: WP true
+[       0.275] TPM SPI enabled (CS=true)
+[       0.365] Deferring NV write.
+[       0.370] PinWeaver init
+[       0.453] PCR0 updated
+[       0.464] Deferring NV write.
+[       1.048] Servo: debouncing -> disconnected
+[       1.685] Deferring NV write.
+[       2.003] RBOX: power button pressed
+[       2.070] RBOX: key-combo ec-reset
+[       2.085] PLT_RST_L ASSERTED
+[       2.087] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[       2.093] TPM SPI disabled (CS=true)
+[       2.097] PLT_RST_L DEASSERTED
+[       2.100] TPM SPI enabled (CS=true)
+[       2.104] EFS2: boot_mode: Verified -> TrustedRO
+[       2.109] TPM app missed PLT_RST_L event. Handling TPM reset now
+[       2.115] TPM app missed PLT_RST_L event. Handling TPM reset now
+[       2.127] PLT_RST_L ASSERTED
+[       2.139] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[       2.145] TPM SPI disabled (CS=true)
+[       2.444] PLT_RST_L DEASSERTED
+[       2.447] TPM SPI enabled (CS=true)
+[       2.579] Deferring NV write.  0.021] Strap config: Lddd => TPM Bus: SPI; FormFactor: ClamshellInvertedKso
+[       0.028] Reset Type: Wake
+[       0.031] Wake source: 0x00000001
+[       0.034] Which pin: 0x0000000002000000
+[       0.039] USB: Off
+[       0.047] RBOX: WP true
+[       0.047] cryptolib v1 at 0x100c00
+[       0.050] 
+[       0.055] Restoring AP RO verify status
+[       0.057] AP RO: OK
+[       0.059] AP RO verifications took 4 ms.
+[       0.063] TPM SPI initialized
+[       0.073] 22 files found across 6 pages.
+[       0.074] 6436 bytes of data.
+[       0.077] 0 invalid and 4 free pages.
+[       0.081] 0 erases since boot.
+[       0.084] Partition |   File ID   | Bank | Page | Size
+[       0.090]      0x03    0x0100100d      0    240    180
+[       0.095]      0x03    0x01001007      0    241    158
+[       0.100]      0x03    0x0100100a      0    244    188
+[       0.105]      0x03    0x0100100e      0    244    180
+[       0.111]      0x03    0x01001008      0    244    188
+[       0.116]      0x03    0x81000000      0    244    314
+[       0.121]      0x03    0x81000002      0    244    278
+[       0.127]      0x03    0x81000005      0    246    310
+[       0.132]      0x03    0x01800004      0    246    217
+[       0.137]      0x03    0x01800005      0    247    188
+[       0.143]      0x03    0x01800006      0    247    184
+[       0.148] 720 bytes free in active pages.
+[       0.152] Filesystem init took 86 ms.
+[       0.156] PLT_RST_L ASSERTED
+[       0.159] TPM SPI disabled (CS=true)
+[       0.164] RBOX: deassert EC_RST_L
+[       0.184] Valid CCD config found
+[       0.187] RBOX: WP true
+[       0.189] RBOX: WP true
+[       0.192] AP RO verification result: OK (0xfffff000)
+[       0.207] Key ladder state: Prod
+[       0.228] Console is enabled
+[       0.232] PLT_RST_L DEASSERTED
+[       0.238] RBOX: WP true
+[       0.275] TPM SPI enabled (CS=true)
+[       0.367] Deferring NV write.
+[       0.372] PinWeaver init
+[       0.456] PCR0 updated
+[       0.467] Deferring NV write.
+[       1.048] Servo: debouncing -> disconnected
+[       1.470] RBOX: power button pressed
+[       1.511] RBOX: key-combo ec-reset
+[       1.525] PLT_RST_L ASSERTED
+[       1.528] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[       1.533] TPM SPI disabled (CS=true)
+[       1.537] PLT_RST_L DEASSERTED
+[       1.540] TPM SPI enabled (CS=true)
+[       1.544] TPM app missed PLT_RST_L event. Handling TPM reset now
+[       1.550] TPM app missed PLT_RST_L event. Handling TPM reset now
+[       1.556] EFS2: boot_mode: Verified -> TrustedRO
+[       1.568] PLT_RST_L ASSERTED
+[       1.580] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[       1.586] TPM SPI disabled (CS=true)
+[       1.625] AC: -F
+[       1.626] AC: wait
+[       1.871] PLT_RST_L DEASSERTED
+[       1.874] TPM SPI enabled (CS=true)
+[       2.005] Deferring NV write.
+[       2.009] PinWeaver init
+[       2.033] PCR0 updated
+[       2.289] AC: R-
+[       2.291] RBOX: canceled battery disable
+[       5.055] Idle erase.
+[       5.970] RBOX: refresh key released
+[       5.980] RBOX: power button released
+[      14.029] PLT_RST_L ASSERTED
+[      14.041] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[      14.047] TPM SPI disabled (CS=true)
+[      14.112] EC_COMM: enabled
+[      14.114] EC_COMM: disabled
+[      14.532] EC_COMM: enabled
+[      14.541] RBOX: power button pressed
+[      14.561] EFS2: boot_mode: TrustedRO -> Verified
+[      14.565] EC_COMM: disabled
+[      14.759] AC: -F
+[      15.404] AC: R-
+[      15.480] RBOX: power button released
+[      24.449] RBOX: power button pressed
+[      24.696] PLT_RST_L DEASSERTED
+[      24.699] TPM SPI enabled (CS=true)
+[      24.832] Deferring NV write.
+[      24.836] PinWeaver init
+[      24.920] PCR0 updated
+[      24.929] Deferring NV write.
+[      26.145] Deferring NV write.
+[      26.753] RBOX: power button released
+[      28.098] Idle erase.
+[      30.450] TPM SPI write (3d40008): non-zero value 87
+[      33.673] Kernel booted.
+[      33.899] RBOX: WP true
+[      41.124] Idle erase.
+[      42.126] Idle erase.
+[      92.664] Wake source: 0x00000001
+[      92.667] Which pin: 0x0200000000000000
+[     153.597] Wake source: 0x00000001
+[     153.600] Which pin: 0x0200000000000000
+[     214.531] Wake source: 0x00000001
+[     214.534] Which pin: 0x0200000000000000
+[     275.467] Wake source: 0x00000001
+[     275.470] Which pin: 0x0200000000000000
+[     336.404] Wake source: 0x00000001
+[     336.407] Which pin: 0x0200000000000000
+[     336.411] Alert[4] = 0x800
+[     345.203] Wake source: 0x00000001
+[     345.206] Which pin: 0x0200000000000000
+[     397.395] Wake source: 0x00000001
+[     397.398] Which pin: 0x0200000000000000
+[     397.402] Alert[4] = 0x800
+[     458.341] Wake source: 0x00000001
+[     458.344] Which pin: 0x0200000000000000
+[     519.288] Wake source: 0x00000001
+[     519.291] Which pin: 0x0200000000000000
+[     519.295] Alert[4] = 0x800
+[     580.236] Wake source: 0x00000001
+[     580.239] Which pin: 0x0200000000000000
+[     641.190] Wake source: 0x00000001
+[     641.193] Which pin: 0x0200000000000000
+[     652.919] Wake source: 0x00000001
+[     652.922] Which pin: 0x0200000000000000
+[     702.189] Wake source: 0x00000001
+[     702.192] Which pin: 0x0200000000000000
+[     763.179] Wake source: 0x00000001
+[     763.182] Which pin: 0x0200000000000000
+[     824.161] Wake source: 0x00000001
+[     824.164] Which pin: 0x0200000000000000
+[     885.133] Wake source: 0x00000001
+[     885.136] Which pin: 0x0200000000000000
+[     946.104] Wake source: 0x00000001
+[     946.107] Which pin: 0x0200000000000000
+[     960.718] Wake source: 0x00000001
+[     960.721] Which pin: 0x0200000000000000
+[    1007.118] Wake source: 0x00000001
+[    1007.121] Which pin: 0x0200000000000000
+[    1068.080] Wake source: 0x00000001
+[    1068.083] Which pin: 0x0200000000000000
+[    1129.043] Wake source: 0x00000001
+[    1129.046] Which pin: 0x0200000000000000
+[    1190.005] Wake source: 0x00000001
+[    1190.008] Which pin: 0x0200000000000000
+[    1190.012] Alert[4] = 0x800
+[    1250.965] Wake source: 0x00000001
+[    1250.968] Which pin: 0x0200000000000000
+[    1268.436] Wake source: 0x00000001
+[    1268.439] Which pin: 0x0200000000000000
+[    1311.974] Wake source: 0x00000001
+[    1311.977] Which pin: 0x0200000000000000
+[    1372.937] Wake source: 0x00000001
+[    1372.940] Which pin: 0x0200000000000000
+[    1372.944] Alert[4] = 0x800
+[    1433.925] Wake source: 0x00000001
+[    1433.928] Which pin: 0x0200000000000000
+[    1494.929] Wake source: 0x00000001
+[    1494.932] Which pin: 0x0200000000000000
+[    1555.938] Wake source: 0x00000001
+[    1555.941] Which pin: 0x0200000000000000
+[    1576.292] Wake source: 0x00000001
+[    1576.295] Which pin: 0x0200000000000000
+[    1576.299] Alert[4] = 0x800
+[    1616.985] Wake source: 0x00000001
+[    1616.988] Which pin: 0x0200000000000000
+[    1677.991] Wake source: 0x00000001
+[    1677.994] Which pin: 0x0200000000000000
+[    1739.007] Wake source: 0x00000001
+[    1739.010] Which pin: 0x0200000000000000
+[    1800.034] Wake source: 0x00000001
+[    1800.037] Which pin: 0x0200000000000000
+[    1861.074] Wake source: 0x00000001
+[    1861.077] Which pin: 0x0200000000000000
+[    1884.391] Wake source: 0x00000001
+[    1884.394] Which pin: 0x0200000000000000
+[    1884.398] Alert[4] = 0x800
+[    1922.147] Wake source: 0x00000001
+[    1922.150] Which pin: 0x0200000000000000
+[    1983.185] Wake source: 0x00000001
+[    1983.188] Which pin: 0x0200000000000000
+[    2044.221] Wake source: 0x00000001
+[    2044.224] Which pin: 0x0200000000000000
+[    2044.228] Alert[4] = 0x800
+[    2105.267] Wake source: 0x00000001
+[    2105.270] Which pin: 0x0200000000000000
+[    2105.274] Alert[4] = 0x800
+[    2166.326] Wake source: 0x00000001
+[    2166.329] Which pin: 0x0200000000000000
+[    2192.556] Wake source: 0x00000001
+[    2192.559] Which pin: 0x0200000000000000
+[    2192.563] Alert[4] = 0x800
+[    2227.423] Wake source: 0x00000001
+[    2227.426] Which pin: 0x0200000000000000
+[    2227.430] Alert[4] = 0x800
+[    2288.473] Wake source: 0x00000001
+[    2288.476] Which pin: 0x0200000000000000
+[    2349.520] Wake source: 0x00000001
+[    2349.523] Which pin: 0x0200000000000000
+[    2349.527] Alert[4] = 0x800
+[    2410.568] Wake source: 0x00000001
+[    2410.571] Which pin: 0x0200000000000000
+[    2410.575] Alert[4] = 0x800
+[    2471.615] Wake source: 0x00000001
+[    2471.618] Which pin: 0x0200000000000000
+[    2500.715] Wake source: 0x00000001
+[    2500.718] Which pin: 0x0200000000000000[       0.000] Starting D3C1 RO 0.0.62 RW 0.23.250
+[       0.003] ti50_common_mp-15980.B:v0.0.704-fe895966 libtock-rs:v0.0.925-1213708 tock:v0.0.9685-1f9552cfa ms-tpm-20-ref:v0.0.343-b28a970 chrome-bot@chromeos-firmware-mpa-us-east1-d-x32-0-j903 2026-02-05 09:48:49
+[       0.021] Strap config: Lddd => TPM Bus: SPI; FormFactor: ClamshellInvertedKso
+[       0.028] Reset Type: Wake
+[       0.031] Wake source: 0x00000001
+[       0.035] Which pin: 0x0000000002000000
+[       0.039] USB: Off
+[       0.047] RBOX: WP true
+[       0.048] cryptolib v1 at 0x100c00
+[       0.051] 
+[       0.056] Restoring AP RO verify status
+[       0.057] AP RO: OK
+[       0.059] AP RO verifications took 3 ms.
+[       0.064] TPM SPI initialized
+[       0.074] 22 files found across 5 pages.
+[       0.075] 6428 bytes of data.
+[       0.078] 0 invalid and 5 free pages.
+[       0.082] 0 erases since boot.
+[       0.085] Partition |   File ID   | Bank | Page | Size
+[       0.090]      0x03    0x0100100d      0    238    180
+[       0.096]      0x03    0x01800005      0    239    188
+[       0.101]      0x03    0x01800006      0    239    184
+[       0.106]      0x03    0x01001007      0    240    158
+[       0.111]      0x03    0x0100100a      0    244    188
+[       0.117]      0x03    0x0100100e      0    244    180
+[       0.122]      0x03    0x01001008      0    244    188
+[       0.127]      0x03    0x81000000      0    244    314
+[       0.133]      0x03    0x81000002      0    244    278
+[       0.138]      0x03    0x81000005      0    246    310
+[       0.143]      0x03    0x01800004      0    246    217
+[       0.149] 568 bytes free in active pages.
+[       0.153] Filesystem init took 86 ms.
+[       0.157] PLT_RST_L ASSERTED
+[       0.160] TPM SPI disabled (CS=true)
+[       0.164] RBOX: deassert EC_RST_L
+[       0.183] Valid CCD config found
+[       0.186] RBOX: WP true
+[       0.188] RBOX: WP true
+[       0.191] AP RO verification result: OK (0xfffff000)
+[       0.207] Key ladder state:

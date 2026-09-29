@@ -1,0 +1,567 @@
+Running /usr/bin/dev_debug_vboot 
++ date
+Mon Sep 28 16:53:33 CDT 2026
+# DEV_DEBUG_FORCE=()
+# OPT_CLEANUP=(yes)
+# OPT_BIOS=()
+# OPT_FORCE=()
+# OPT_IMAGE=()
+# OPT_KERNEL=()
+# FLAG_SAVE_LOG_FILE=(yes)
++ crossystem --all
+act_fwver               = 0x00010001                     # [RO/int] Active firmware version
+act_kernver             = (error)                        # [RO/int] Active kernel version
+arch                    = arm                            # [RO/str] Platform architecture
+backup_nvram_request    = 1                              # [RW/int] Backup the nvram somewhere at the next boot. Cleared on success.
+battery_cutoff_request  = 0                              # [RW/int] Cut off battery and shutdown on next boot
+block_devmode           = 0                              # [RW/int] Block all use of developer mode
+board_id                = 3                              # [RO/int] Board hardware revision number
+clear_tpm_owner_done    = 1                              # [RW/int] Clear TPM owner done
+clear_tpm_owner_request = 0                              # [RW/int] Clear TPM owner on next boot
+cros_debug              = 1                              # [RO/int] OS should allow debug features
+dbg_reset               = 0                              # [RW/int] Debug reset mode request
+debug_build             = 0                              # [RO/int] OS image built for debug features
+dev_boot_altfw          = 0                              # [RW/int] Enable developer mode alternate bootloader
+dev_boot_signed_only    = 0                              # [RW/int] Enable developer mode boot only from official kernels
+dev_boot_usb            = 1                              # [RW/int] Enable developer mode boot from external disk (USB/SD)
+dev_default_boot        = disk                           # [RW/str] Default boot from disk, altfw or usb
+dev_enable_udc          = 0                              # [RW/int] Enable USB Device Controller
+dev_fastboot_en         = 0                              # [RW/int] Enable fastboot in developer mode
+devsw_boot              = 1                              # [RO/int] Developer switch position at boot
+devsw_cur               = 1                              # [RO/int] Developer switch current position
+diagnostic_request      = 0                              # [RW/int] Request diagnostic rom run on next boot
+disable_dev_request     = 0                              # [RW/int] Disable virtual dev-mode on next boot
+ecfw_act                = RW                             # [RO/str] Active EC firmware
+post_ec_sync_delay      = 0                              # [RW/int] Short delay after EC software sync (persistent, writable, eve only)
+fw_prev_result          = unknown                        # [RO/str] Firmware result of previous boot
+fw_prev_tried           = B                              # [RO/str] Firmware tried on previous boot (A or B)
+fw_result               = success                        # [RW/str] Firmware result this boot
+fw_tried                = B                              # [RO/str] Firmware tried this boot (A or B)
+fw_try_count            = 0                              # [RW/int] Number of times to try fw_try_next
+fw_try_next             = B                              # [RW/str] Firmware to try next (A or B)
+fw_vboot2               = 1                              # [RO/int] 1 if firmware was selected by vboot2 or 0 otherwise
+fwid                    = Google_Steelix.15194.324.0     # [RO/str] Active firmware ID
+fwupdate_tries          = 0                              # [RW/int] Times to try OS firmware update (inside kern_nv)
+hwid                    = RUSTY-ZNCE D4B-C3I-E4E-U2A-Q3C-A34 # [RO/str] Hardware ID
+inside_vm               = 0                              # [RO/int] Running in a VM?
+kern_nv                 = 0x0000                         # [RO/int] Non-volatile field for kernel use
+kernel_max_rollforward  = 0xfffffffe                     # [RW/int] Max kernel version to store into TPM
+kernkey_vfy             = hash                           # [RO/str] Type of verification done on kernel keyblock
+loc_idx                 = 0                              # [RW/int] Localization index for firmware screens
+mainfw_act              = B                              # [RO/str] Active main firmware
+mainfw_type             = developer                      # [RO/str] Active main firmware type
+minios_priority         = B                              # [RW/str] miniOS image to try first (A or B)
+nvram_cleared           = 0                              # [RW/int] Have NV settings been lost?  Write 0 to clear
+display_request         = 0                              # [RW/int] Should we initialize the display at boot?
+oem_lock                = 0                              # [RW/int] Device OEM Lock state
+phase_enforcement       = (error)                        # [RO/int] Board should have full security settings applied
+recovery_reason         = 0                              # [RO/int] Recovery mode reason for current boot
+recovery_request        = 0                              # [RW/int] Recovery mode request
+recovery_subcode        = 0                              # [RW/int] Recovery reason subcode
+recoverysw_boot         = 0                              # [RO/int] Recovery switch position at boot
+recoverysw_cur          = (error)                        # [RO/int] Recovery switch current position
+recoverysw_ec_boot      = 0                              # [RO/int] Recovery switch position at EC boot
+ro_fwid                 = Google_Steelix.15194.92.0      # [RO/str] Read-only firmware ID
+tpm_attack              = 0                              # [RW/int] TPM was interrupted since this flag was cleared
+tpm_fwver               = 0x00010001                     # [RO/int] Firmware version stored in TPM
+tpm_kernver             = 0x00010008                     # [RO/int] Kernel version stored in TPM
+tpm_rebooted            = 0                              # [RO/int] TPM requesting repeated reboot
+try_ro_sync             = 0                              # [RO/int] try read only software sync
+vdat_flags              = 0x00008810                     # [RO/int] Flags from VbSharedData
+vdat_lfdebug            = Check A result=0
+Check B result=0
+Firmware index booted=0x01
+Active firmware version=0x00010001
+Firmware version in TPM =0x00010001
+Lowest combined version from firmware=0x00000000
+ # [RO/str] LoadFirmware() debug data (not in print-all)
+wipeout_request         = 0                              # [RW/int] Firmware requested factory reset (wipeout)
+wpsw_cur                = 1                              # [RO/int] Firmware write protect hardware switch current position
++ rootdev -s
+/dev/mmcblk0p3
++ ls -aCF /root
+./  ../  .force_update_firmware
++ ls -aCF /mnt/stateful_partition
+./   .developer_mode  encrypted/     etc/   lost+found/    unencrypted/
+../  dev_image/       encrypted.key  home/  reboot_vault/  var_overlay/
++ cgpt show /dev/mmcblk0
+       start        size    part  contents
+           0           1          PMBR (Boot GUID: 37FC6341-1125-0F45-B4FF-DB7DA524C69D)
+           1           1          Pri GPT header
+           2          32          Pri GPT table
+    17321984    43036624       1  Label: "STATE"
+                                  Type: Linux data
+                                  UUID: 2CA86D86-9487-C347-9872-EF080D09F370
+      405504       65536       2  Label: "KERN-A"
+                                  Type: ChromeOS kernel
+                                  UUID: DDCB37E4-D384-EE40-8D50-E5322496BF09
+                                  Attr: priority=2 tries=0 successful=1 error_counter=0 
+      471040     8388608       3  Label: "ROOT-A"
+                                  Type: ChromeOS rootfs
+                                  UUID: B4344C8C-48DC-AB42-9ED0-C89849C4B53B
+     8859648       65536       4  Label: "KERN-B"
+                                  Type: ChromeOS kernel
+                                  UUID: C45B894F-94AD-D148-9068-66C8C1FA0AEA
+                                  Attr: priority=1 tries=0 successful=1 error_counter=0 
+     8925184     8388608       5  Label: "ROOT-B"
+                                  Type: ChromeOS rootfs
+                                  UUID: 3384D7C6-6CF4-1B42-A568-A513C2D1331A
+      262208           1       6  Label: "KERN-C"
+                                  Type: ChromeOS kernel
+                                  UUID: ABF10A91-0329-0F49-BAEE-42B44A33A58C
+                                  Attr: priority=0 tries=15 successful=0 error_counter=0 
+      262209           1       7  Label: "ROOT-C"
+                                  Type: ChromeOS rootfs
+                                  UUID: 9C0AFBC9-27EB-F042-9869-F491B6E17558
+      266240        8192       8  Label: "OEM"
+                                  Type: Linux data
+                                  UUID: 3642586F-AE49-FB42-8D4F-3C99569AE38A
+          64      262144       9  Label: "MINIOS-A"
+                                  Type: ChromeOS miniOS
+                                  UUID: 66E9F350-CEA1-4245-8508-F4D4495C166B
+    60358608      262144      10  Label: "MINIOS-B"
+                                  Type: ChromeOS miniOS
+                                  UUID: 1A0C6AAA-ECB5-5D43-B564-F244439C2EDF
+    17313792        8192      11  Label: "POWERWASH-DATA"
+                                  Type: Linux data
+                                  UUID: 83DA6498-1FB8-124F-9048-8D0F98B59EED
+      274432      131072      12  Label: "EFI-SYSTEM"
+                                  Type: EFI System Partition
+                                  UUID: 37FC6341-1125-0F45-B4FF-DB7DA524C69D
+                                  Attr: legacy_boot=1 
+      262210           1      13  Label: "RWFW-A"
+                                  Type: ChromeOS firmware
+                                  UUID: 22E1E86A-006A-5C47-A759-3FD14FA17428
+      262211           1      14  Label: "RWFW-B"
+                                  Type: ChromeOS firmware
+                                  UUID: DAEB3CE9-73DB-A24C-9FF6-B2E0B4B39293
+    60620767          32          Sec GPT table
+    60620799           1          Sec GPT header
++ futility flash --wp-status
+WP status: enabled
+# Extracting BIOS components...
+# Reading BIOS image from flash...
++ futility read bios.rom
+INFO: load_system_firmware: Reading SPI Flash (programmer internal)...
+Wrote AP firmware to bios.rom
++ futility dump_fmap -x bios.rom
+hit at 0x00020000
+fmap_signature   __FMAP__
+fmap_version:    1.1
+fmap_base:       0x0
+fmap_size:       0x00800000 (8388608)
+fmap_name:       FLASH
+fmap_nareas:     26
+area:            1
+area_offset:     0x00000000
+area_size:       0x00400000 (4194304)
+area_name:       WP_RO
+saved as "WP_RO"
+area:            2
+area_offset:     0x00000000
+area_size:       0x003f6000 (4153344)
+area_name:       RO_SECTION
+saved as "RO_SECTION"
+area:            3
+area_offset:     0x00000000
+area_size:       0x00020000 (131072)
+area_name:       BOOTBLOCK
+saved as "BOOTBLOCK"
+area:            4
+area_offset:     0x00020000
+area_size:       0x00001000 (4096)
+area_name:       FMAP
+saved as "FMAP"
+area:            5
+area_offset:     0x00021000
+area_size:       0x003d2000 (4005888)
+area_name:       COREBOOT
+saved as "COREBOOT"
+area:            6
+area_offset:     0x003f3000
+area_size:       0x00002f00 (12032)
+area_name:       GBB
+saved as "GBB"
+area:            7
+area_offset:     0x003f5f00
+area_size:       0x00000100 (256)
+area_name:       RO_FRID
+saved as "RO_FRID"
+area:            8
+area_offset:     0x003f6000
+area_size:       0x00002000 (8192)
+area_name:       RO_GSCVD
+saved as "RO_GSCVD"
+area:            9
+area_offset:     0x003f8000
+area_size:       0x00008000 (32768)
+area_name:       RO_VPD
+saved as "RO_VPD"
+area:            10
+area_offset:     0x00400000
+area_size:       0x00177000 (1536000)
+area_name:       RW_SECTION_A
+saved as "RW_SECTION_A"
+area:            11
+area_offset:     0x00400000
+area_size:       0x00002000 (8192)
+area_name:       VBLOCK_A
+saved as "VBLOCK_A"
+area:            12
+area_offset:     0x00402000
+area_size:       0x00174f00 (1527552)
+area_name:       FW_MAIN_A
+saved as "FW_MAIN_A"
+area:            13
+area_offset:     0x00576f00
+area_size:       0x00000100 (256)
+area_name:       RW_FWID_A
+saved as "RW_FWID_A"
+area:            14
+area_offset:     0x00577000
+area_size:       0x00009000 (36864)
+area_name:       RW_MISC
+saved as "RW_MISC"
+area:            15
+area_offset:     0x00577000
+area_size:       0x00004000 (16384)
+area_name:       RW_VPD
+saved as "RW_VPD"
+area:            16
+area_offset:     0x0057b000
+area_size:       0x00002000 (8192)
+area_name:       RW_NVRAM
+saved as "RW_NVRAM"
+area:            17
+area_offset:     0x0057d000
+area_size:       0x00002000 (8192)
+area_name:       RW_MRC_CACHE
+saved as "RW_MRC_CACHE"
+area:            18
+area_offset:     0x0057f000
+area_size:       0x00001000 (4096)
+area_name:       RW_ELOG
+saved as "RW_ELOG"
+area:            19
+area_offset:     0x00580000
+area_size:       0x00177000 (1536000)
+area_name:       RW_SECTION_B
+saved as "RW_SECTION_B"
+area:            20
+area_offset:     0x00580000
+area_size:       0x00002000 (8192)
+area_name:       VBLOCK_B
+saved as "VBLOCK_B"
+area:            21
+area_offset:     0x00582000
+area_size:       0x00174f00 (1527552)
+area_name:       FW_MAIN_B
+saved as "FW_MAIN_B"
+area:            22
+area_offset:     0x006f6f00
+area_size:       0x00000100 (256)
+area_name:       RW_FWID_B
+saved as "RW_FWID_B"
+area:            23
+area_offset:     0x006f7000
+area_size:       0x00009000 (36864)
+area_name:       RW_SHARED
+saved as "RW_SHARED"
+area:            24
+area_offset:     0x006f7000
+area_size:       0x00001000 (4096)
+area_name:       SHARED_DATA
+saved as "SHARED_DATA"
+area:            25
+area_offset:     0x006f8000
+area_size:       0x00008000 (32768)
+area_name:       RW_UNUSED
+saved as "RW_UNUSED"
+area:            26
+area_offset:     0x00700000
+area_size:       0x00100000 (1048576)
+area_name:       RW_LEGACY
+saved as "RW_LEGACY"
+# Pulling root and recovery keys from GBB...
++ futility gbb -g --rootkey rootkey.vbpubk --recoverykey recoverykey.vbpubk GBB
+ - exported root_key to file: rootkey.vbpubk
+ - exported recovery_key to file: recoverykey.vbpubk
++ futility vbutil_key --unpack rootkey.vbpubk
+Public Key file:   rootkey.vbpubk
+Algorithm:         8 RSA4096 SHA512
+Key Version:       1
+Key sha1sum:       3e6d4692f69cd5b70cad59da28c479faf6ddb878
++ futility vbutil_key --unpack recoverykey.vbpubk
+Public Key file:   recoverykey.vbpubk
+Algorithm:         8 RSA4096 SHA512
+Key Version:       2
+Key sha1sum:       6f5d3febead682b6ae4157c8580ff34ef66c2964
++ futility verify -P bios.rom
+bios::RO_GSCVD::version::0.0
+bios::RO_GSCVD::board_id::1515078469
+bios::RO_GSCVD::board_id_string::ZNCE
+bios::RO_GSCVD::root_key::valid
+bios::RO_GSCVD::root_key::api::1.0
+bios::RO_GSCVD::root_key::algorithm::7::RSA4096 SHA256
+bios::RO_GSCVD::root_key::version::1
+bios::RO_GSCVD::root_key::sha1_sum::06c76668f2c6d270ae9e8f7925b7278d6b7fc36f
+bios::GBB::version::1.2
+bios::GBB::flags::0
+bios::GBB::hwid::offset::128
+bios::GBB::hwid::size::256
+bios::GBB::bmpvf::offset::4480
+bios::GBB::bmpvf::size::0
+bios::GBB::root_key::offset::384
+bios::GBB::root_key::size::4096
+bios::GBB::recovery_key::offset::4480
+bios::GBB::recovery_key::size::4096
+bios::GBB::size::8576
+bios::GBB::header::valid
+bios::GBB::hwid::value::RUSTY-ZNCE D4B-C3I-E4E-U2A-Q3C-A34
+bios::GBB::hwid::digest::algorithm::2::SHA256
+bios::GBB::hwid::digest::hex::73699a33a92995eacbcbc71dc1cfabd000612f974a4a888ede635a7d50d02bdd
+bios::GBB::hwid::digest::valid
+bios::GBB::root_key::valid
+bios::GBB::root_key::api::1.0
+bios::GBB::root_key::algorithm::8::RSA4096 SHA512
+bios::GBB::root_key::version::1
+bios::GBB::root_key::sha1_sum::3e6d4692f69cd5b70cad59da28c479faf6ddb878
+bios::GBB::recovery_key::valid
+bios::GBB::recovery_key::api::1.0
+bios::GBB::recovery_key::algorithm::8::RSA4096 SHA512
+bios::GBB::recovery_key::version::2
+bios::GBB::recovery_key::sha1_sum::6f5d3febead682b6ae4157c8580ff34ef66c2964
+bios::VBLOCK_A::keyblock::valid
+bios::VBLOCK_A::keyblock::size::1720
+bios::VBLOCK_A::keyblock::signature::valid
+bios::VBLOCK_A::keyblock::signature::size::512
+bios::VBLOCK_A::keyblock::signature::data_size::1144
+bios::VBLOCK_A::keyblock::flags::23::!DEV:DEV:!REC:!MINIOS
+bios::VBLOCK_A::keyblock::data_key::algorithm::7::RSA4096 SHA256
+bios::VBLOCK_A::keyblock::data_key::version::1
+bios::VBLOCK_A::keyblock::data_key::sha1_sum::486a66db22aa190ea070620665b6abbd7580ac8a
+bios::VBLOCK_A::preamble::valid
+bios::VBLOCK_A::preamble::signature::valid
+bios::VBLOCK_A::preamble::size::2164
+bios::VBLOCK_A::preamble::header_version::2.1
+bios::VBLOCK_A::preamble::firmware_version::1
+bios::VBLOCK_A::preamble::kernel_subkey::algorithm::8::RSA4096 SHA512
+bios::VBLOCK_A::preamble::kernel_subkey::version::1
+bios::VBLOCK_A::preamble::kernel_subkey::sha1_sum::9857a12aaf949b77fa7ed0060bc128b0927a16f0
+bios::VBLOCK_A::preamble::flags::0
+bios::VBLOCK_A::body::size::550208
+bios::VBLOCK_A::body::signature::valid
+bios::VBLOCK_A::verified
+bios::VBLOCK_B::keyblock::valid
+bios::VBLOCK_B::keyblock::size::1720
+bios::VBLOCK_B::keyblock::signature::valid
+bios::VBLOCK_B::keyblock::signature::size::512
+bios::VBLOCK_B::keyblock::signature::data_size::1144
+bios::VBLOCK_B::keyblock::flags::23::!DEV:DEV:!REC:!MINIOS
+bios::VBLOCK_B::keyblock::data_key::algorithm::7::RSA4096 SHA256
+bios::VBLOCK_B::keyblock::data_key::version::1
+bios::VBLOCK_B::keyblock::data_key::sha1_sum::486a66db22aa190ea070620665b6abbd7580ac8a
+bios::VBLOCK_B::preamble::valid
+bios::VBLOCK_B::preamble::signature::valid
+bios::VBLOCK_B::preamble::size::2164
+bios::VBLOCK_B::preamble::header_version::2.1
+bios::VBLOCK_B::preamble::firmware_version::1
+bios::VBLOCK_B::preamble::kernel_subkey::algorithm::8::RSA4096 SHA512
+bios::VBLOCK_B::preamble::kernel_subkey::version::1
+bios::VBLOCK_B::preamble::kernel_subkey::sha1_sum::9857a12aaf949b77fa7ed0060bc128b0927a16f0
+bios::VBLOCK_B::preamble::flags::0
+bios::VBLOCK_B::body::size::575360
+bios::VBLOCK_B::body::signature::valid
+bios::VBLOCK_B::verified
+# Verify firmware A with root key: 
+# OK
+#   TPM=0x00010001, this=0x00010001
+# Verify firmware B with root key: 
+# OK
+#   TPM=0x00010001, this=0x00010001
+# Examining kernels...
+# copying /dev/mmcblk0p2 to kern_0...
++ dd if=/dev/mmcblk0p2 of=kern_0
+65536+0 records in
+65536+0 records out
+33554432 bytes (34 MB, 32 MiB) copied, 0.22086 s, 152 MB/s
+# Kernel /dev/mmcblk0p2: 
++ futility vbutil_keyblock --unpack kern_0
+Keyblock file:        kern_0
+Signature             ignored
+Flags:                23  !DEV DEV !REC !MINIOS
+Data key algorithm:   4 RSA2048 SHA256
+Data key version:     1
+Data key sha1sum:     5f7b4cf691e312e986f9eaa8433609f4e58bb6df
+# OK
+#   Verify /dev/mmcblk0p2 with VBLOCK_A: 
++ futility verify -P --publickey VBLOCK_A kern_0
+kernel::keyblock::valid
+kernel::keyblock::size::1208
+kernel::keyblock::signature::valid
+kernel::keyblock::signature::size::512
+kernel::keyblock::signature::data_size::632
+kernel::keyblock::flags::23::!DEV:DEV:!REC:!MINIOS
+kernel::keyblock::data_key::algorithm::4::RSA2048 SHA256
+kernel::keyblock::data_key::version::1
+kernel::keyblock::data_key::sha1_sum::5f7b4cf691e312e986f9eaa8433609f4e58bb6df
+kernel::preamble::valid
+kernel::preamble::signature::valid
+kernel::preamble::size::64328
+kernel::preamble::header_version::2.2
+kernel::preamble::kernel_version::8
+kernel::preamble::flags::0
+kernel::body::address::1048576
+kernel::body::size::14782464
+kernel::bootloader::address::15831040
+kernel::bootloader::size::0
+kernel::body::signature::valid
+kernel::verified
+# OK
+#     TPM=0x00010008 this=0x00010008
+#   Verify /dev/mmcblk0p2 with VBLOCK_B: 
++ futility verify -P --publickey VBLOCK_B kern_0
+kernel::keyblock::valid
+kernel::keyblock::size::1208
+kernel::keyblock::signature::valid
+kernel::keyblock::signature::size::512
+kernel::keyblock::signature::data_size::632
+kernel::keyblock::flags::23::!DEV:DEV:!REC:!MINIOS
+kernel::keyblock::data_key::algorithm::4::RSA2048 SHA256
+kernel::keyblock::data_key::version::1
+kernel::keyblock::data_key::sha1_sum::5f7b4cf691e312e986f9eaa8433609f4e58bb6df
+kernel::preamble::valid
+kernel::preamble::signature::valid
+kernel::preamble::size::64328
+kernel::preamble::header_version::2.2
+kernel::preamble::kernel_version::8
+kernel::preamble::flags::0
+kernel::body::address::1048576
+kernel::body::size::14782464
+kernel::bootloader::address::15831040
+kernel::bootloader::size::0
+kernel::body::signature::valid
+kernel::verified
+# OK
+#     TPM=0x00010008 this=0x00010008
+#   Verify /dev/mmcblk0p2 with recoverykey.vbpubk: 
++ futility verify -P --publickey recoverykey.vbpubk kern_0
+kernel::keyblock::valid
+kernel::keyblock::size::1208
+kernel::keyblock::signature::invalid
+kernel::keyblock::signature::size::512
+kernel::keyblock::signature::data_size::632
+kernel::keyblock::flags::23::!DEV:DEV:!REC:!MINIOS
+kernel::keyblock::data_key::algorithm::4::RSA2048 SHA256
+kernel::keyblock::data_key::version::1
+kernel::keyblock::data_key::sha1_sum::5f7b4cf691e312e986f9eaa8433609f4e58bb6df
+kernel::preamble::valid
+kernel::preamble::signature::valid
+kernel::preamble::size::64328
+kernel::preamble::header_version::2.2
+kernel::preamble::kernel_version::8
+kernel::preamble::flags::0
+kernel::body::address::1048576
+kernel::body::size::14782464
+kernel::bootloader::address::15831040
+kernel::bootloader::size::0
+kernel::body::signature::valid
+# FAILED
+# copying /dev/mmcblk0p4 to kern_1...
++ dd if=/dev/mmcblk0p4 of=kern_1
+65536+0 records in
+65536+0 records out
+33554432 bytes (34 MB, 32 MiB) copied, 0.227765 s, 147 MB/s
+# Kernel /dev/mmcblk0p4: 
++ futility vbutil_keyblock --unpack kern_1
+Keyblock file:        kern_1
+Signature             ignored
+Flags:                23  !DEV DEV !REC !MINIOS
+Data key algorithm:   4 RSA2048 SHA256
+Data key version:     1
+Data key sha1sum:     d6170aa480136f1f29cf339a5ab1b960585fa444
+# OK
+#   Verify /dev/mmcblk0p4 with VBLOCK_A: 
++ futility verify -P --publickey VBLOCK_A kern_1
+kernel::keyblock::valid
+kernel::keyblock::size::1208
+kernel::keyblock::signature::invalid
+kernel::keyblock::signature::size::512
+kernel::keyblock::signature::data_size::632
+kernel::keyblock::flags::23::!DEV:DEV:!REC:!MINIOS
+kernel::keyblock::data_key::algorithm::4::RSA2048 SHA256
+kernel::keyblock::data_key::version::1
+kernel::keyblock::data_key::sha1_sum::d6170aa480136f1f29cf339a5ab1b960585fa444
+kernel::preamble::valid
+kernel::preamble::signature::valid
+kernel::preamble::size::64328
+kernel::preamble::header_version::2.2
+kernel::preamble::kernel_version::7
+kernel::preamble::flags::0
+kernel::body::address::1048576
+kernel::body::size::14807040
+kernel::bootloader::address::15855616
+kernel::bootloader::size::0
+kernel::body::signature::valid
+# FAILED
+#   Verify /dev/mmcblk0p4 with VBLOCK_B: 
++ futility verify -P --publickey VBLOCK_B kern_1
+kernel::keyblock::valid
+kernel::keyblock::size::1208
+kernel::keyblock::signature::invalid
+kernel::keyblock::signature::size::512
+kernel::keyblock::signature::data_size::632
+kernel::keyblock::flags::23::!DEV:DEV:!REC:!MINIOS
+kernel::keyblock::data_key::algorithm::4::RSA2048 SHA256
+kernel::keyblock::data_key::version::1
+kernel::keyblock::data_key::sha1_sum::d6170aa480136f1f29cf339a5ab1b960585fa444
+kernel::preamble::valid
+kernel::preamble::signature::valid
+kernel::preamble::size::64328
+kernel::preamble::header_version::2.2
+kernel::preamble::kernel_version::7
+kernel::preamble::flags::0
+kernel::body::address::1048576
+kernel::body::size::14807040
+kernel::bootloader::address::15855616
+kernel::bootloader::size::0
+kernel::body::signature::valid
+# FAILED
+#   Verify /dev/mmcblk0p4 with recoverykey.vbpubk: 
++ futility verify -P --publickey recoverykey.vbpubk kern_1
+kernel::keyblock::valid
+kernel::keyblock::size::1208
+kernel::keyblock::signature::invalid
+kernel::keyblock::signature::size::512
+kernel::keyblock::signature::data_size::632
+kernel::keyblock::flags::23::!DEV:DEV:!REC:!MINIOS
+kernel::keyblock::data_key::algorithm::4::RSA2048 SHA256
+kernel::keyblock::data_key::version::1
+kernel::keyblock::data_key::sha1_sum::d6170aa480136f1f29cf339a5ab1b960585fa444
+kernel::preamble::valid
+kernel::preamble::signature::valid
+kernel::preamble::size::64328
+kernel::preamble::header_version::2.2
+kernel::preamble::kernel_version::7
+kernel::preamble::flags::0
+kernel::body::address::1048576
+kernel::body::size::14807040
+kernel::bootloader::address::15855616
+kernel::bootloader::size::0
+kernel::body::signature::valid
+# FAILED
+# copying /dev/mmcblk0p6 to kern_2...
++ dd if=/dev/mmcblk0p6 of=kern_2
+1+0 records in
+1+0 records out
+512 bytes copied, 0.00436777 s, 117 kB/s
+# Kernel /dev/mmcblk0p6: 
++ futility vbutil_keyblock --unpack kern_2
+Invalid keyblock file: kern_2
+ERROR: Unpack: vbutil_keyblock: Error reading keyblock.
+# FAILED
++ od -Ax -tx1 kern_2 | head
+000000 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+*
+000200
+# Report UMA metrics: System firmware matched OS bundled firmware.

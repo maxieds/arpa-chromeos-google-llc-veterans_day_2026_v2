@@ -1,0 +1,55 @@
+2026-09-24T22:41:51.350863Z WARNING btmanagerd[4228]: Set Floss Enabeld=false
+2026-09-24T22:41:51.465462Z INFO bluetoothd[8597]: Bluetooth daemon 5.54
+2026-09-24T22:41:51.465867Z WARNING bluetoothd[8597]: Unknown key MaxControllers for group General in /var/lib/bluetooth/main.conf
+2026-09-24T22:41:51.466105Z INFO bluetoothd[8597]: PageScanType=1(1)
+2026-09-24T22:41:51.466221Z INFO bluetoothd[8597]: PageScanInterval=1024(1024)
+2026-09-24T22:41:51.466313Z INFO bluetoothd[8597]: PageScanWindow=18(18)
+2026-09-24T22:41:51.466428Z INFO bluetoothd[8597]: EirMaxNameLength=180(180)
+2026-09-24T22:41:51.466530Z INFO bluetoothd[8597]: MinAdvertisementInterval=290(290)
+2026-09-24T22:41:51.466613Z INFO bluetoothd[8597]: MaxAdvertisementInterval=290(290)
+2026-09-24T22:41:51.466709Z INFO bluetoothd[8597]: ScanIntervalAutoConnect=588(588)
+2026-09-24T22:41:51.466792Z INFO bluetoothd[8597]: ScanWindowAutoConnect=60(60)
+2026-09-24T22:41:51.466905Z INFO bluetoothd[8597]: ScanIntervalDiscovery=36(36)
+2026-09-24T22:41:51.466996Z INFO bluetoothd[8597]: ScanWindowDiscovery=18(18)
+2026-09-24T22:41:51.467079Z INFO bluetoothd[8597]: ScanIntervalAdvMonitor=40(40)
+2026-09-24T22:41:51.467169Z INFO bluetoothd[8597]: ScanWindowAdvMonitor=20(20)
+2026-09-24T22:41:51.467259Z INFO bluetoothd[8597]: MinConnectionInterval=6(6)
+2026-09-24T22:41:51.467360Z INFO bluetoothd[8597]: MaxConnectionInterval=16(16)
+2026-09-24T22:41:51.467464Z INFO bluetoothd[8597]: ConnectionSupervisionTimeout=200(200)
+2026-09-24T22:41:51.467564Z INFO bluetoothd[8597]: Autoconnecttimeout=5000(5000)
+2026-09-24T22:41:51.467657Z INFO bluetoothd[8597]: EnableAdvMonInterleaveScan=1(1)
+2026-09-24T22:41:51.474497Z INFO bluetoothd[8597]: Starting SDP server
+2026-09-24T22:41:51.478163Z WARNING bluetoothd[8597]: Unable to read debug levels from file
+2026-09-24T22:41:51.485114Z INFO bluetoothd[8597]: Bluetooth management interface 1.21 initialized
+2026-09-24T23:14:55.933174Z INFO bluetoothd[8597]: Terminating
+2026-09-25T01:55:05.593281Z INFO bluetoothd[1450]: Bluetooth daemon 5.54
+2026-09-25T01:55:05.593553Z WARNING bluetoothd[1450]: Unknown key MaxControllers for group General in /var/lib/bluetooth/main.conf
+2026-09-25T01:55:05.593695Z INFO bluetoothd[1450]: PageScanType=1(1)
+2026-09-25T01:55:05.593729Z INFO bluetoothd[1450]: PageScanInterval=1024(1024)
+2026-09-25T01:55:05.593752Z INFO bluetoothd[1450]: PageScanWindow=18(18)
+2026-09-25T01:55:05.593787Z INFO bluetoothd[1450]: EirMaxNameLength=180(180)
+2026-09-25T01:55:05.593809Z INFO bluetoothd[1450]: MinAdvertisementInterval=290(290)
+2026-09-25T01:55:05.593829Z INFO bluetoothd[1450]: MaxAdvertisementInterval=290(290)
+2026-09-25T01:55:05.593853Z INFO bluetoothd[1450]: ScanIntervalAutoConnect=588(588)
+2026-09-25T01:55:05.593894Z INFO bluetoothd[1450]: ScanWindowAutoConnect=60(60)
+2026-09-25T01:55:05.593923Z INFO bluetoothd[1450]: ScanIntervalDiscovery=36(36)
+2026-09-25T01:55:05.593945Z INFO bluetoothd[1450]: ScanWindowDiscovery=18(18)
+2026-09-25T01:55:05.593965Z INFO bluetoothd[1450]: ScanIntervalAdvMonitor=40(40)
+2026-09-25T01:55:05.593985Z INFO bluetoothd[1450]: ScanWindowAdvMonitor=20(20)
+2026-09-25T01:55:05.594011Z INFO bluetoothd[1450]: MinConnectionInterval=6(6)
+2026-09-25T01:55:05.594032Z INFO bluetoothd[1450]: MaxConnectionInterval=16(16)
+2026-09-25T01:55:05.594058Z INFO bluetoothd[1450]: ConnectionSupervisionTimeout=200(200)
+2026-09-25T01:55:05.594079Z INFO bluetoothd[1450]: Autoconnecttimeout=5000(5000)
+2026-09-25T01:55:05.594106Z INFO bluetoothd[1450]: EnableAdvMonInterleaveScan=1(1)
+2026-09-25T01:55:05.602805Z INFO bluetoothd[1450]: Starting SDP server
+2026-09-25T01:55:05.607495Z WARNING bluetoothd[1450]: Unable to read debug levels from file
+2026-09-25T01:55:05.611348Z INFO bluetoothd[1450]: Bluetooth management interface 1.21 initialized
+2026-09-25T01:55:49.194315Z INFO btmanagerd[4308]: Setting up unstable Aflags, mode: Auto, use_unstable: false
+2026-09-25T01:55:49.204637Z WARNING btmanagerd[4308]: Set Floss Enabeld=true
+2026-09-25T01:55:49.213731Z INFO bluetoothd[1450]: Terminating
+2026-09-25T01:55:49.215796Z INFO bluetoothd[1450]: Stopping SDP server
+2026-09-25T01:55:49.215866Z INFO bluetoothd[1450]: Exit
+2026-09-25T01:55:49.230377Z WARNING btmanagerd[4308]: Set Floss LL Privacy=false
+2026-09-26T22:46:39.634968Z INFO btmanagerd[4256]: Setting up unstable Aflags, mode: Auto, use_unstable: false
+2026-09-26T22:46:39.644725Z WARNING btmanagerd[4256]: Set Floss Enabeld=true
+2026-09-26T22:46:39.649932Z WARNING btmanagerd[4256]: Set Floss LL Privacy=false

@@ -1,0 +1,883 @@
+2026-09-25T01:55:04.865386Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/main.cc:461] vcsid 0.0.2-r5651-1b7a3e54d8
+2026-09-25T01:55:04.865457Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/main.cc:467] System uptime: 4s
+2026-09-25T01:55:05.003335Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/udev.cc:151] Watching FD 11 for udev events
+2026-09-25T01:55:05.010825Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/udev.cc:578] Adding device /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 with tags usable_when_laptop usable_when_display_off wakeup wakeup_only_when_usable inhibit role_internal_touchpad
+2026-09-25T01:55:05.011549Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/udev.cc:578] Adding device /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3/event3 with tags usable_when_laptop usable_when_display_off role_internal_touchpad
+2026-09-25T01:55:05.015871Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/udev.cc:578] Adding device /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 with tags usable_when_laptop usable_when_display_off wakeup inhibit role_internal_keyboard
+2026-09-25T01:55:05.016634Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/udev.cc:578] Adding device /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0/event0 with tags usable_when_laptop usable_when_display_off role_internal_keyboard
+2026-09-25T01:55:05.038653Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/input_watcher.cc:443] Watching power button: /dev/input/event1
+2026-09-25T01:55:05.038698Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/input_watcher.cc:457] Watching lid switch: /dev/input/event1
+2026-09-25T01:55:05.038709Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/input_watcher.cc:475] Watching tablet mode switch: /dev/input/event1
+2026-09-25T01:55:05.039149Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/suspend_configurator.cc:242] Console during suspend is enabled
+2026-09-25T01:55:05.039403Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/suspend_configurator.cc:137] Initial system mem_sleep mode: deep
+2026-09-25T01:55:05.063596Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/wakeup_source_identifier.cc:112] Monitoring wakeup path /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015 for wake events
+2026-09-25T01:55:05.063645Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/wakeup_source_identifier.cc:112] Monitoring wakeup path /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller for wake events
+2026-09-25T01:55:05.063659Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/wakeup_source_identifier.cc:112] Monitoring wakeup path /sys/devices/platform/wifi-wakeup for wake events
+2026-09-25T01:55:10.088239Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:278] Backlight has range [0, 1023] with 6.25% step and minimum-visible level of 7; current level is 409 (65.2209%)
+2026-09-25T01:55:10.090234Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/power_supply.cc:817] Using full factor of 0.97
+2026-09-25T01:55:10.208079Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/power_supply.cc:829] Using low battery time threshold of 0 secs and using low battery percent threshold of 4
+2026-09-25T01:55:11.238015Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T01:55:11.356234Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:927] Adaptive Charging is supported and disabled at Init. Battery sustain range: (80, 80), Minimum ML probability value: 0.35
+2026-09-25T01:55:11.356331Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:934] Charge Limit is disabled at Init
+2026-09-25T01:55:11.358771Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/dark_resume.cc:70] Dark resume enabled
+2026-09-25T01:55:11.359655Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/shutdown_from_suspend.cc:56] Shutdown from suspend is configured to 72h. low_battery_shutdown_percent is 4
+2026-09-25T01:55:11.361098Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/cros_ec_helper.cc:55] This device does not support EC wake angle control
+2026-09-25T01:55:11.361140Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "laptop"
+2026-09-25T01:55:11.361226Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T01:55:11.361472Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T01:55:11.361689Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T01:55:11.370224Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T01:55:11.386045Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (suspend) lid_closed=suspend use_audio=1 use_video=1 wake_locks=
+2026-09-25T01:55:11.390526Z ERROR powerd: [../libchrome-0.0.1/platform2/libchrome/dbus/object_proxy.cc:572] Failed to call method: org.chromium.ChromeFeaturesServiceInterface.IsFeatureEnabled: object_path= /org/chromium/ChromeFeaturesService: org.freedesktop.DBus.Error.InvalidArgs: Chrome can't get state for 'CrOSLateBootLongBluetoothAutosuspend'; feature_library will decide
+2026-09-25T01:55:11.397375Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/bluetooth_controller.cc:389] Bluetooth long autosuspend feature is enabled
+2026-09-25T01:55:11.397721Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/wifi_controller.cc:45] WifiController::Init: set_wifi_transmit_power_for_tablet_mode=0, set_wifi_transmit_power_for_proximity=0, wifi_transmit_power_mode_for_static_device=non-tablet
+2026-09-25T01:55:11.397784Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1151] Disabling tablet mode wifi transmit power
+2026-09-25T01:55:11.397804Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/main.cc:388] Launching "/usr/bin/powerd_setuid_helper --action=set_wifi_transmit_power --nowifi_transmit_power_tablet --wifi_transmit_power_domain=none --wifi_transmit_power_source=init"
+2026-09-25T01:55:11.401726Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/cellular_controller.cc:110] In CellularController::Init set_transmit_power_for_proximity_ = 0 set_transmit_power_for_tablet_mode_ = 0 use_modemmanager_for_dynamic_sar_ = 0 use_multi_power_level_dynamic_sar_ = 0 use_regulatory_domain_for_dynamic_sar_ = 0
+2026-09-25T01:55:11.405102Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/main.cc:388] Launching "/usr/bin/powerd_setuid_helper --action=set_force_lid_open --noforce_lid_open"
+2026-09-25T01:55:11.408721Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/thermal/cooling_device.cc:114] Cooling device /sys/class/thermal/cooling_device1 type=cpufreq-cpu6 initialized with max_state=15, thresholds: fair=2, serious=8, critical=12
+2026-09-25T01:55:11.409590Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/thermal/cooling_device.cc:114] Cooling device /sys/class/thermal/cooling_device2 type=devfreq-13040000.mali initialized with max_state=15, thresholds: fair=8, serious=12, critical=15
+2026-09-25T01:55:11.410060Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/thermal/cooling_device.cc:114] Cooling device /sys/class/thermal/cooling_device0 type=cpufreq-cpu0 initialized with max_state=15, thresholds: fair=2, serious=8, critical=12
+2026-09-25T01:55:12.382323Z INFO powerd: [../power_manager-0.0.2/libec/ec_command.h:202] cros_ec does not support cmd=0xaa ver=0
+2026-09-25T01:55:12.382413Z WARNING powerd: [../power_manager-0.0.2/power_manager/powerd/system/cros_ec_device_event.cc:38] Failed to get CrOS EC device event mask
+2026-09-25T01:55:12.426309Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.535/4.231Ah at 0.264A, 0s until empty (calculating)
+2026-09-25T01:55:12.426841Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 379 (63%) over 2000 ms
+2026-09-25T01:55:12.434298Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1302] D-Bus org.chromium.SessionManager ownership changed to :1.37
+2026-09-25T01:55:12.435490Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1305] D-Bus org.chromium.DisplayService ownership changed to :1.44
+2026-09-25T01:55:12.435530Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays on
+2026-09-25T01:55:12.436155Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1309] D-Bus org.chromium.PrivacyScreenService ownership changed to :1.44
+2026-09-25T01:55:12.436326Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/dim_advisor.cc:108] D-Bus org.chromium.MlDecisionService ownership changed to :1.44
+2026-09-25T01:55:12.436845Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/audio_client.cc:119] D-Bus org.chromium.cras ownership changed to :1.96
+2026-09-25T01:55:12.437172Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:87] Registering suspend delay 62849025 (cdm-oemcrypto) of 500 ms on behalf of :1.43
+2026-09-25T01:55:12.437251Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:87] Registering suspend delay 62849026 (chrome) of 5000 ms on behalf of :1.44
+2026-09-25T01:55:12.437286Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:87] Registering dark suspend delay 62881793 (chrome) of 5000 ms on behalf of :1.44
+2026-09-25T01:55:12.437320Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T01:55:12.437334Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (suspend) lid_closed=suspend use_audio=1 use_video=1 wake_locks=
+2026-09-25T01:55:12.437395Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=7m ac_screen_off=7m30s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=suspend battery_idle=shutdown lid_closed=shutdown use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T01:55:12.437426Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (shutdown) lid_closed=shutdown use_audio=1 use_video=1 wake_locks=
+2026-09-25T01:55:12.437917Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:87] Registering suspend delay 62849027 (shill) of 19500 ms on behalf of :1.9
+2026-09-25T01:55:12.437960Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:87] Registering dark suspend delay 62881794 (shill) of 19500 ms on behalf of :1.9
+2026-09-25T01:55:12.437988Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:87] Registering suspend delay 62849028 (trunksd) of 3000 ms on behalf of :1.14
+2026-09-25T01:55:12.441763Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.535/4.231Ah at 0.264A, 0s until empty (calculating)
+2026-09-25T01:55:12.506292Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/thermal/thermal_device.cc:117] UpdateThermalState device: /sys/class/thermal/cooling_device1 new_state: Nominal
+2026-09-25T01:55:12.507439Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/thermal/thermal_device.cc:117] UpdateThermalState device: /sys/class/thermal/cooling_device2 new_state: Nominal
+2026-09-25T01:55:12.507563Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/thermal/thermal_device.cc:117] UpdateThermalState device: /sys/class/thermal/cooling_device0 new_state: Nominal
+2026-09-25T01:55:12.507636Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays on
+2026-09-25T01:55:13.640223Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.534/4.231Ah at 0.477A, 0s until empty (calculating)
+2026-09-25T01:55:15.348792Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1936] Session state changed to started
+2026-09-25T01:55:15.350281Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (shutdown) lid_closed=shutdown use_audio=1 use_video=1 wake_locks=
+2026-09-25T01:55:15.357117Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=suspend use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T01:55:15.357271Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=suspend use_audio=1 use_video=1 wake_locks=
+2026-09-25T01:55:15.357349Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T01:55:15.424857Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T01:55:15.424959Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T01:55:15.424985Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T01:55:15.427040Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T01:55:15.469163Z WARNING powerd: [../libchrome-0.0.1/platform2/libchrome/dbus/exported_object.cc:302] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: org.chromium.PowerManager
+path: /org/chromium/PowerManager
+interface: org.chromium.PowerManager
+member: GetKeyboardBrightnessPercent
+sender: :1.44
+serial: 540
+
+
+2026-09-25T01:55:15.470188Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:87] Registering suspend delay 62849029 (Pause VMs while suspended) of 5000 ms on behalf of :1.172
+2026-09-25T01:55:15.470538Z WARNING powerd: [../libchrome-0.0.1/platform2/libchrome/dbus/exported_object.cc:302] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.12
+path: /org/chromium/PowerManager
+interface: org.freedesktop.DBus.Properties
+member: GetAll
+sender: :1.174
+signature: s
+serial: 7
+
+string "org.chromium.PowerManager"
+
+2026-09-25T01:55:15.471290Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity reported
+2026-09-25T01:55:19.094640Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T01:55:19.131935Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T01:55:19.136438Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/wakeup_source_identifier.cc:91] Input device input4 is not wake-capable
+2026-09-25T01:55:19.139140Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/wakeup_source_identifier.cc:91] Input device input5 is not wake-capable
+2026-09-25T01:55:19.142167Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/wakeup_source_identifier.cc:91] Input device event5 is not wake-capable
+2026-09-25T01:55:19.145249Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/wakeup_source_identifier.cc:91] Input device event4 is not wake-capable
+2026-09-25T01:55:41.128857Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.532/4.231Ah at 0.223A, 0s until empty (calculating)
+2026-09-25T01:55:42.498763Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.532/4.231Ah at 0.268A, 0s until empty (calculating)
+2026-09-25T01:55:43.792111Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.532/4.231Ah at 0.217A, 0s until empty (calculating)
+2026-09-25T01:55:45.083354Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.532/4.231Ah at 0.219A, 0s until empty (calculating)
+2026-09-25T01:55:46.392009Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.532/4.231Ah at 0.209A, 10h54m15s until empty (10h10m32s until shutdown)
+2026-09-25T01:55:49.199135Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/bluetooth_controller.cc:210] D-Bus org.chromium.bluetooth.Manager ownership changed to :1.185
+2026-09-25T01:55:49.231902Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:87] Registering suspend delay 62849030 (Bluetooth Manager) of 0 ms on behalf of :1.185
+2026-09-25T01:56:16.709067Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.530/4.231Ah at 0.165A, 11h28m37s until empty (10h42m33s until shutdown)
+2026-09-25T01:56:35.775199Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:730] Got user-triggered-from-settings-app request to set brightness to 47.863%
+2026-09-25T01:56:35.775383Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 207 (47.863%) over 200 ms
+2026-09-25T01:56:47.044591Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.528/4.231Ah at 0.161A, 12h44m6s until empty (11h52m56s until shutdown)
+2026-09-25T01:57:17.371172Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.526/4.231Ah at 0.150A, 13h40m until empty (12h45m4s until shutdown)
+2026-09-25T01:57:30.405992Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity started
+2026-09-25T01:57:30.564984Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=suspend system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T01:57:30.565237Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=suspend use_audio=1 use_video=1 wake_locks=system
+2026-09-25T01:57:30.565452Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T01:57:30.645518Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T01:57:30.645673Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T01:57:30.645731Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T01:57:30.650721Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T01:57:30.738798Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T01:57:30.789473Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T01:57:43.258270Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=suspend use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T01:57:43.258586Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=suspend use_audio=1 use_video=1 wake_locks=
+2026-09-25T01:57:43.258759Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T01:57:43.321694Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T01:57:43.321846Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T01:57:43.321919Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T01:57:43.327126Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T01:57:43.423627Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T01:57:43.517549Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T01:57:47.697679Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.525/4.231Ah at 0.158A, 14h39m22s until empty (13h40m26s until shutdown)
+2026-09-25T01:57:50.861960Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity stopped
+2026-09-25T01:57:53.133734Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity started
+2026-09-25T01:57:53.336659Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=suspend system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T01:57:53.336849Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=suspend use_audio=1 use_video=1 wake_locks=system
+2026-09-25T01:57:53.336953Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T01:57:53.382646Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T01:57:53.382761Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T01:57:53.382780Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T01:57:53.384356Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T01:57:53.438990Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T01:57:53.545577Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T01:57:56.180935Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity stopped
+2026-09-25T01:57:56.233577Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=suspend use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T01:57:56.233725Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=suspend use_audio=1 use_video=1 wake_locks=
+2026-09-25T01:57:56.233801Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T01:57:56.294747Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T01:57:56.294853Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T01:57:56.294894Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T01:57:56.296367Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T01:57:56.349456Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T01:57:56.438083Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T01:58:15.474944Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity ongoing; last reported 16 sec ago
+2026-09-25T01:58:18.043430Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.523/4.231Ah at 0.153A, 15h41m17s until empty (14h38m8s until shutdown)
+2026-09-25T01:58:19.310757Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity stopped; last reported 20 sec ago
+2026-09-25T01:58:48.380814Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.522/4.231Ah at 0.148A, 16h1m41s until empty (14h57m9s until shutdown)
+2026-09-25T01:59:18.811038Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.520/4.231Ah at 0.150A, 16h15m1s until empty (15h9m32s until shutdown)
+2026-09-25T01:59:49.189815Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.519/4.231Ah at 0.149A, 16h16m until empty (15h10m25s until shutdown)
+2026-09-25T02:00:19.576071Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 60%, 2.518/4.231Ah at 0.148A, 16h28m44s until empty (15h22m17s until shutdown)
+2026-09-25T02:00:49.951005Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59% (displayed as 60%), 2.516/4.231Ah at 0.149A, 16h33m26s until empty (15h26m37s until shutdown)
+2026-09-25T02:01:20.393846Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59% (displayed as 60%), 2.515/4.231Ah at 0.164A, 16h12m28s until empty (15h7m2s until shutdown)
+2026-09-25T02:01:27.789862Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity reported
+2026-09-25T02:01:42.942660Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/audio_client.cc:186] Updated audio devices: headphones plugged, HDMI inactive
+2026-09-25T02:01:47.791370Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity stopped; last reported 20 sec ago
+2026-09-25T02:01:50.879411Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59% (displayed as 60%), 2.514/4.231Ah at 0.148A, 16h14m34s until empty (15h8m57s until shutdown)
+2026-09-25T02:01:56.666200Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity reported
+2026-09-25T02:01:58.993976Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity started
+2026-09-25T02:01:59.119993Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=suspend system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T02:01:59.120247Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=suspend use_audio=1 use_video=1 wake_locks=system
+2026-09-25T02:01:59.120498Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T02:01:59.172784Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T02:01:59.172939Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T02:01:59.172997Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T02:01:59.178031Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T02:01:59.284994Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T02:01:59.362660Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T02:02:21.241062Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59% (displayed as 60%), 2.511/4.231Ah at 0.190A, 15h24m30s until empty (14h22m11s until shutdown)
+2026-09-25T02:02:51.592269Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59% (displayed as 60%), 2.509/4.231Ah at 0.178A, 14h50m10s until empty (13h50m8s until shutdown)
+2026-09-25T02:03:21.979559Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.508/4.231Ah at 0.202A, 13h56m51s until empty (13h23s until shutdown)
+2026-09-25T02:03:52.294546Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.505/4.231Ah at 0.233A, 12h55m45s until empty (12h3m20s until shutdown)
+2026-09-25T02:03:58.027729Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=suspend system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T02:03:58.027915Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=suspend use_audio=1 use_video=1 wake_locks=system
+2026-09-25T02:03:58.028099Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T02:03:58.096683Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T02:03:58.096783Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T02:03:58.096800Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T02:03:58.098475Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T02:03:58.121625Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T02:03:58.216272Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T02:04:12.046852Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:730] Got user-triggered request to set brightness to 5%
+2026-09-25T02:04:12.047037Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 7 (6.25%) over 200 ms
+2026-09-25T02:04:12.658929Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:730] Got user-triggered request to set brightness to 5%
+2026-09-25T02:04:18.321578Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:730] Got user-triggered request to set brightness to 35.4167%
+2026-09-25T02:04:18.321770Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 105 (35.4167%) over 200 ms
+2026-09-25T02:04:19.918376Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:730] Got user-triggered request to set brightness to 35%
+2026-09-25T02:04:19.918581Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 103 (35%) over 200 ms
+2026-09-25T02:04:20.089679Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:730] Got user-triggered request to set brightness to 34.5833%
+2026-09-25T02:04:20.089864Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 100 (34.5833%) over 200 ms
+2026-09-25T02:04:22.598786Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.503/4.231Ah at 0.171A, 12h35m58s until empty (11h44m51s until shutdown)
+2026-09-25T02:04:34.139025Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=suspend system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T02:04:34.139329Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=suspend use_audio=1 use_video=1 wake_locks=system
+2026-09-25T02:04:34.139761Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T02:04:34.201861Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T02:04:34.201994Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T02:04:34.202016Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T02:04:34.203653Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T02:04:34.261140Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T02:04:34.304704Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T02:04:52.952108Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.502/4.231Ah at 0.191A, 12h35m17s until empty (11h44m12s until shutdown)
+2026-09-25T02:04:56.667557Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity ongoing; last reported 4 sec ago
+2026-09-25T02:04:58.877463Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/battery_saver_controller.cc:100] Battery saver mode enabled
+2026-09-25T02:04:58.877510Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:730] Got battery-saver-state-change-triggered request to set brightness to 20%
+2026-09-25T02:04:58.877531Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 29 (20%) over 200 ms
+2026-09-25T02:04:59.225076Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.501/4.231Ah at 0.183A, 0s until empty (calculating)
+2026-09-25T02:04:59.225406Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:05:10.117695Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T02:05:10.117765Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T02:05:10.117800Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T02:05:10.170526Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T02:05:10.170574Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T02:05:10.170584Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T02:05:10.171848Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T02:05:10.234511Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 1 hour(s)
+2026-09-25T02:05:10.320544Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T02:05:15.963967Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T02:05:15.964109Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T02:05:15.964325Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T02:05:15.988510Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T02:05:15.988612Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T02:05:15.988629Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T02:05:15.990136Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T02:05:16.013651Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 1 hour(s)
+2026-09-25T02:05:16.106459Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T02:05:18.837501Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:775] Lid closed
+2026-09-25T02:05:18.837631Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "closed"
+2026-09-25T02:05:18.837877Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T02:05:18.838711Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T02:05:18.839507Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Disabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T02:05:18.840454Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T02:05:18.843212Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T02:05:18.843382Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1474] Ready to perform lid-closed action (no-op)
+2026-09-25T02:05:18.843533Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn internal display off and external displays on
+2026-09-25T02:05:18.946945Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 0 (0%) over 0 ms
+2026-09-25T02:05:18.949265Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T02:05:29.278620Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.500/4.231Ah at 0.066A, 0s until empty (calculating)
+2026-09-25T02:05:30.635591Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.500/4.231Ah at 0.060A, 0s until empty (calculating)
+2026-09-25T02:05:31.974738Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.500/4.231Ah at 0.060A, 0s until empty (calculating)
+2026-09-25T02:05:33.324978Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.500/4.231Ah at 0.073A, 0s until empty (calculating)
+2026-09-25T02:05:33.435896Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity stopped; last reported 20 sec ago
+2026-09-25T02:05:34.663313Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.500/4.231Ah at 0.072A, 36h58m24s until empty (34h28m13s until shutdown)
+2026-09-25T02:05:38.448875Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/dim_advisor.cc:206] Smart dim decided to defer screen dimming
+2026-09-25T02:06:04.997631Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.500/4.231Ah at 0.072A, 36h19m39s until empty (33h52m6s until shutdown)
+2026-09-25T02:06:08.450561Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:130] Dimming screen after 30s
+2026-09-25T02:06:18.450480Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:130] Turning screen off after 40s
+2026-09-25T02:06:18.651342Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays off
+2026-09-25T02:06:18.765826Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T02:06:35.293507Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.499/4.231Ah at 0.056A, 36h43m14s until empty (34h14m1s until shutdown)
+2026-09-25T02:06:59.121586Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T02:07:05.647715Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.499/4.231Ah at 0.058A, 36h56m10s until empty (34h26m5s until shutdown)
+2026-09-25T02:07:35.982514Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.498/4.231Ah at 0.059A, 38h33m31s until empty (35h56m46s until shutdown)
+2026-09-25T02:07:59.230570Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:08:06.298295Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.498/4.231Ah at 0.057A, 40h28m13s until empty (37h43m42s until shutdown)
+2026-09-25T02:08:36.669162Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.497/4.231Ah at 0.056A, 42h43m2s until empty (39h49m19s until shutdown)
+2026-09-25T02:09:07.126932Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.497/4.231Ah at 0.057A, 42h34m32s until empty (39h41m24s until shutdown)
+2026-09-25T02:09:37.438927Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.496/4.231Ah at 0.059A, 42h24m26s until empty (39h31m54s until shutdown)
+2026-09-25T02:10:07.769586Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.496/4.231Ah at 0.057A, 42h42m27s until empty (39h48m42s until shutdown)
+2026-09-25T02:10:38.119453Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.495/4.231Ah at 0.058A, 42h32m16s until empty (39h39m9s until shutdown)
+2026-09-25T02:10:59.231644Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:11:08.444725Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.494/4.231Ah at 0.060A, 41h56m37s until empty (39h5m51s until shutdown)
+2026-09-25T02:11:38.717089Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.494/4.231Ah at 0.058A, 41h47m47s until empty (38h57m36s until shutdown)
+2026-09-25T02:11:59.125686Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T02:12:09.075634Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.492/4.231Ah at 0.060A, 41h37m13s until empty (38h47m38s until shutdown)
+2026-09-25T02:12:39.398109Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.492/4.231Ah at 0.060A, 41h11m55s until empty (38h24m2s until shutdown)
+2026-09-25T02:13:09.783530Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.491/4.231Ah at 0.059A, 41h2m36s until empty (38h15m17s until shutdown)
+2026-09-25T02:13:40.084701Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.491/4.231Ah at 0.059A, 41h11m8s until empty (38h23m15s until shutdown)
+2026-09-25T02:13:59.232714Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:14:10.452137Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.490/4.231Ah at 0.060A, 40h53m46s until empty (38h7m until shutdown)
+2026-09-25T02:14:40.822426Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.490/4.231Ah at 0.059A, 41h2m15s until empty (38h14m54s until shutdown)
+2026-09-25T02:15:11.156850Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.489/4.231Ah at 0.057A, 41h26m10s until empty (38h37m7s until shutdown)
+2026-09-25T02:15:41.484377Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.489/4.231Ah at 0.069A, 40h4m48s until empty (37h21m17s until shutdown)
+2026-09-25T02:16:11.828239Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.488/4.231Ah at 0.056A, 40h27m22s until empty (37h42m15s until shutdown)
+2026-09-25T02:16:42.156980Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.488/4.231Ah at 0.057A, 40h52m14s until empty (38h5m25s until shutdown)
+2026-09-25T02:16:59.128991Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T02:16:59.233531Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:17:12.559066Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.487/4.231Ah at 0.058A, 40h59m17s until empty (38h11m56s until shutdown)
+2026-09-25T02:17:42.892545Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.487/4.231Ah at 0.058A, 40h51m27s until empty (38h4m38s until shutdown)
+2026-09-25T02:18:13.252279Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.486/4.231Ah at 0.058A, 42h23m57s until empty (39h30m46s until shutdown)
+2026-09-25T02:18:43.600357Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.486/4.231Ah at 0.057A, 42h15m20s until empty (39h22m44s until shutdown)
+2026-09-25T02:19:13.931370Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.485/4.231Ah at 0.057A, 42h14m32s until empty (39h21m55s until shutdown)
+2026-09-25T02:19:44.256172Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.485/4.231Ah at 0.058A, 42h14m19s until empty (39h21m43s until shutdown)
+2026-09-25T02:19:59.237966Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:20:14.590479Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.484/4.231Ah at 0.059A, 42h4m32s until empty (39h12m32s until shutdown)
+2026-09-25T02:20:44.878701Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.483/4.231Ah at 0.056A, 42h21m19s until empty (39h28m6s until shutdown)
+2026-09-25T02:21:15.206539Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.483/4.231Ah at 0.057A, 42h21m19s until empty (39h28m6s until shutdown)
+2026-09-25T02:21:45.512280Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.482/4.231Ah at 0.057A, 42h20m31s until empty (39h27m17s until shutdown)
+2026-09-25T02:21:59.130599Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T02:22:15.818417Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.482/4.231Ah at 0.057A, 42h29m24s until empty (39h35m34s until shutdown)
+2026-09-25T02:22:46.115699Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.481/4.231Ah at 0.065A, 41h36m26s until empty (38h46m9s until shutdown)
+2026-09-25T02:22:59.238275Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:23:16.408586Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.481/4.231Ah at 0.056A, 41h36m until empty (38h45m45s until shutdown)
+2026-09-25T02:23:46.763386Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.480/4.231Ah at 0.069A, 39h57m8s until empty (37h13m33s until shutdown)
+2026-09-25T02:24:17.060019Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.480/4.231Ah at 0.057A, 39h56m43s until empty (37h13m10s until shutdown)
+2026-09-25T02:24:47.351518Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.479/4.231Ah at 0.069A, 38h25m11s until empty (35h47m48s until shutdown)
+2026-09-25T02:25:17.706212Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.479/4.231Ah at 0.057A, 39h24m51s until empty (36h43m24s until shutdown)
+2026-09-25T02:25:48.012203Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.478/4.231Ah at 0.070A, 37h41m54s until empty (35h7m25s until shutdown)
+2026-09-25T02:25:59.239629Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:26:18.317565Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.478/4.231Ah at 0.063A, 38h24m39s until empty (35h47m15s until shutdown)
+2026-09-25T02:26:48.650643Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.477/4.231Ah at 0.069A, 36h59m38s until empty (34h27m58s until shutdown)
+2026-09-25T02:26:59.135609Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T02:27:18.967154Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 59%, 2.477/4.231Ah at 0.057A, 38h23m31s until empty (35h46m8s until shutdown)
+2026-09-25T02:27:49.314032Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58% (displayed as 59%), 2.475/4.231Ah at 0.069A, 36h57m50s until empty (34h26m11s until shutdown)
+2026-09-25T02:28:19.603686Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58% (displayed as 59%), 2.475/4.231Ah at 0.056A, 38h36m7s until empty (35h57m44s until shutdown)
+2026-09-25T02:28:49.916695Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58% (displayed as 59%), 2.474/4.231Ah at 0.060A, 38h57m55s until empty (36h17m59s until shutdown)
+2026-09-25T02:28:59.242342Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:29:20.343833Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58% (displayed as 59%), 2.474/4.231Ah at 0.057A, 40h31m32s until empty (37h45m12s until shutdown)
+2026-09-25T02:29:50.728321Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58% (displayed as 59%), 2.473/4.231Ah at 0.056A, 40h38m30s until empty (37h51m37s until shutdown)
+2026-09-25T02:30:21.021882Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58% (displayed as 59%), 2.473/4.231Ah at 0.057A, 42h21m15s until empty (39h27m21s until shutdown)
+2026-09-25T02:30:51.324991Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58% (displayed as 59%), 2.472/4.231Ah at 0.058A, 42h2m35s until empty (39h9m53s until shutdown)
+2026-09-25T02:31:21.639134Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58% (displayed as 59%), 2.472/4.231Ah at 0.055A, 42h47m9s until empty (39h51m24s until shutdown)
+2026-09-25T02:31:51.961870Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58% (displayed as 59%), 2.470/4.231Ah at 0.056A, 42h54m24s until empty (39h58m until shutdown)
+2026-09-25T02:31:59.139425Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T02:31:59.242878Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:32:22.246882Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58% (displayed as 59%), 2.470/4.231Ah at 0.055A, 43h3m33s until empty (40h6m32s until shutdown)
+2026-09-25T02:32:52.582689Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.469/4.231Ah at 0.056A, 43h11m44s until empty (40h14m5s until shutdown)
+2026-09-25T02:33:22.872169Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.469/4.231Ah at 0.057A, 43h21m1s until empty (40h22m44s until shutdown)
+2026-09-25T02:33:53.185786Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.468/4.231Ah at 0.056A, 43h10m55s until empty (40h13m14s until shutdown)
+2026-09-25T02:34:23.495802Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.468/4.231Ah at 0.056A, 43h10m55s until empty (40h13m14s until shutdown)
+2026-09-25T02:34:53.802451Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.467/4.231Ah at 0.058A, 42h42m24s until empty (39h46m37s until shutdown)
+2026-09-25T02:34:59.247607Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:35:24.123674Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.467/4.231Ah at 0.058A, 42h24m39s until empty (39h30m5s until shutdown)
+2026-09-25T02:35:54.455123Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.466/4.231Ah at 0.056A, 42h32m21s until empty (39h37m11s until shutdown)
+2026-09-25T02:36:24.744092Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.466/4.231Ah at 0.057A, 42h23m37s until empty (39h29m3s until shutdown)
+2026-09-25T02:36:55.058673Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.465/4.231Ah at 0.058A, 42h5m5s until empty (39h11m43s until shutdown)
+2026-09-25T02:36:59.141629Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T02:37:25.371277Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.465/4.231Ah at 0.058A, 42h5m5s until empty (39h11m43s until shutdown)
+2026-09-25T02:37:55.684623Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.464/4.231Ah at 0.055A, 42h30m56s until empty (39h35m44s until shutdown)
+2026-09-25T02:37:59.248569Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:38:25.998933Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.464/4.231Ah at 0.055A, 42h39m44s until empty (39h43m55s until shutdown)
+2026-09-25T02:38:56.298373Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.463/4.231Ah at 0.056A, 42h47m46s until empty (39h51m20s until shutdown)
+2026-09-25T02:39:26.645618Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.462/4.231Ah at 0.060A, 42h28m52s until empty (39h33m40s until shutdown)
+2026-09-25T02:39:56.936594Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.462/4.231Ah at 0.057A, 42h37m53s until empty (39h42m3s until shutdown)
+2026-09-25T02:40:27.277625Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.461/4.231Ah at 0.063A, 41h26m59s until empty (38h35m57s until shutdown)
+2026-09-25T02:40:57.635525Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.461/4.231Ah at 0.055A, 41h26m46s until empty (38h35m45s until shutdown)
+2026-09-25T02:40:59.251230Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:41:27.976741Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.460/4.231Ah at 0.065A, 40h11m23s until empty (37h25m30s until shutdown)
+2026-09-25T02:41:58.300420Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.460/4.231Ah at 0.057A, 40h35m32s until empty (37h47m59s until shutdown)
+2026-09-25T02:41:59.143072Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T02:42:28.595078Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.459/4.231Ah at 0.061A, 40h2m37s until empty (37h17m15s until shutdown)
+2026-09-25T02:42:58.904868Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.459/4.231Ah at 0.057A, 40h51m16s until empty (38h2m33s until shutdown)
+2026-09-25T02:43:29.181200Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.458/4.231Ah at 0.057A, 40h33m46s until empty (37h46m12s until shutdown)
+2026-09-25T02:43:59.512290Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.458/4.231Ah at 0.057A, 41h41m21s until empty (38h49m8s until shutdown)
+2026-09-25T02:43:59.598506Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:44:29.827076Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.456/4.231Ah at 0.056A, 41h48m until empty (38h55m10s until shutdown)
+2026-09-25T02:45:00.155855Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.456/4.231Ah at 0.057A, 42h23m6s until empty (39h27m51s until shutdown)
+2026-09-25T02:45:30.477188Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.455/4.231Ah at 0.058A, 42h13m48s until empty (39h19m8s until shutdown)
+2026-09-25T02:46:00.831759Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.455/4.231Ah at 0.057A, 42h13m22s until empty (39h18m43s until shutdown)
+2026-09-25T02:46:31.165436Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.454/4.231Ah at 0.057A, 42h12m46s until empty (39h18m6s until shutdown)
+2026-09-25T02:46:59.148273Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T02:46:59.599236Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:47:01.490927Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.454/4.231Ah at 0.058A, 41h55m7s until empty (39h1m40s until shutdown)
+2026-09-25T02:47:31.851211Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.453/4.231Ah at 0.057A, 41h53m53s until empty (39h26s until shutdown)
+2026-09-25T02:48:02.245187Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.453/4.231Ah at 0.056A, 42h11m31s until empty (39h16m52s until shutdown)
+2026-09-25T02:48:32.516660Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.452/4.231Ah at 0.057A, 42h10m56s until empty (39h16m14s until shutdown)
+2026-09-25T02:49:02.980690Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.452/4.231Ah at 0.056A, 42h19m50s until empty (39h24m32s until shutdown)
+2026-09-25T02:49:33.301293Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.451/4.231Ah at 0.069A, 40h44m34s until empty (37h55m46s until shutdown)
+2026-09-25T02:49:59.600572Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:50:03.608266Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.451/4.231Ah at 0.058A, 40h35m40s until empty (37h47m29s until shutdown)
+2026-09-25T02:50:33.940710Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.450/4.231Ah at 0.056A, 40h34m40s until empty (37h46m30s until shutdown)
+2026-09-25T02:51:04.277853Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.450/4.231Ah at 0.056A, 40h43m21s until empty (37h54m34s until shutdown)
+2026-09-25T02:51:34.588347Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.449/4.231Ah at 0.056A, 40h42m8s until empty (37h53m22s until shutdown)
+2026-09-25T02:51:59.151592Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T02:52:04.818902Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.449/4.231Ah at 0.070A, 40h34m31s until empty (37h46m17s until shutdown)
+2026-09-25T02:52:35.128982Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.448/4.231Ah at 0.055A, 40h58m14s until empty (38h8m17s until shutdown)
+2026-09-25T02:52:59.602966Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:53:05.437171Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.448/4.231Ah at 0.058A, 40h41m34s until empty (37h52m46s until shutdown)
+2026-09-25T02:53:35.742023Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.447/4.231Ah at 0.056A, 40h40m34s until empty (37h51m46s until shutdown)
+2026-09-25T02:54:06.037015Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.447/4.231Ah at 0.058A, 40h24m21s until empty (37h36m40s until shutdown)
+2026-09-25T02:54:36.350358Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.446/4.231Ah at 0.056A, 42h23m14s until empty (39h27m16s until shutdown)
+2026-09-25T02:55:06.648600Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.446/4.231Ah at 0.071A, 40h7m59s until empty (37h21m22s until shutdown)
+2026-09-25T02:55:36.976475Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.445/4.231Ah at 0.058A, 40h6m22s until empty (37h19m48s until shutdown)
+2026-09-25T02:55:59.606611Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:56:07.256965Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.444/4.231Ah at 0.057A, 39h57m10s until empty (37h11m10s until shutdown)
+2026-09-25T02:56:37.552687Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.444/4.231Ah at 0.070A, 38h25m34s until empty (35h45m54s until shutdown)
+2026-09-25T02:56:59.153649Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T02:57:07.932415Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.443/4.231Ah at 0.057A, 38h16m39s until empty (35h37m33s until shutdown)
+2026-09-25T02:57:38.275878Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.443/4.231Ah at 0.070A, 38h24m49s until empty (35h45m9s until shutdown)
+2026-09-25T02:58:08.629773Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.442/4.231Ah at 0.057A, 38h30m41s until empty (35h50m32s until shutdown)
+2026-09-25T02:58:38.969020Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.442/4.231Ah at 0.056A, 38h38m20s until empty (35h57m40s until shutdown)
+2026-09-25T02:58:59.612033Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T02:59:09.283777Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.441/4.231Ah at 0.056A, 40h27m12s until empty (37h38m55s until shutdown)
+2026-09-25T02:59:39.617897Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.441/4.231Ah at 0.057A, 40h27m until empty (37h38m43s until shutdown)
+2026-09-25T03:00:09.983091Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.439/4.231Ah at 0.057A, 42h16m24s until empty (39h20m24s until shutdown)
+2026-09-25T03:00:40.313324Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.439/4.231Ah at 0.058A, 42h7m54s until empty (39h12m30s until shutdown)
+2026-09-25T03:01:10.653498Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.438/4.231Ah at 0.056A, 42h6m26s until empty (39h11m3s until shutdown)
+2026-09-25T03:01:40.977812Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.438/4.231Ah at 0.066A, 40h40m55s until empty (37h51m29s until shutdown)
+2026-09-25T03:01:59.154038Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T03:01:59.612910Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T03:02:11.302569Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.436/4.231Ah at 0.057A, 40h38m55s until empty (37h49m29s until shutdown)
+2026-09-25T03:02:41.694670Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.436/4.231Ah at 0.069A, 39h3m41s until empty (36h20m51s until shutdown)
+2026-09-25T03:03:11.989067Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.435/4.231Ah at 0.058A, 39h2m31s until empty (36h19m42s until shutdown)
+2026-09-25T03:03:42.332211Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.435/4.231Ah at 0.071A, 37h13m38s until empty (34h38m23s until shutdown)
+2026-09-25T03:04:12.664041Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.434/4.231Ah at 0.059A, 38h1m54s until empty (35h23m14s until shutdown)
+2026-09-25T03:04:42.958607Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.434/4.231Ah at 0.070A, 36h31m56s until empty (33h59m32s until shutdown)
+2026-09-25T03:04:49.269288Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:789] Lid opened
+2026-09-25T03:04:49.269928Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:04:49.270081Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:137] Undimming screen
+2026-09-25T03:04:49.270150Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:137] Turning screen on
+2026-09-25T03:04:49.270209Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn internal display off and external displays on
+2026-09-25T03:04:49.380892Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "laptop"
+2026-09-25T03:04:49.381224Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T03:04:49.382008Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T03:04:49.382837Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T03:04:49.383742Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T03:04:49.401429Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays on
+2026-09-25T03:04:49.535965Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 29 (20%) over 0 ms
+2026-09-25T03:04:49.539219Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:04:49.539953Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T03:04:49.540221Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:04:49.540433Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:04:49.563720Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:04:49.563835Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:04:49.563895Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:04:49.566995Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:04:49.658199Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:04:49.672994Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:04:49.752435Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:04:54.592616Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:775] Lid closed
+2026-09-25T03:04:54.592750Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "closed"
+2026-09-25T03:04:54.593009Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T03:04:54.593774Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T03:04:54.594577Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Disabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T03:04:54.595567Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T03:04:54.598975Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:04:54.599145Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1474] Ready to perform lid-closed action (no-op)
+2026-09-25T03:04:54.599258Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn internal display off and external displays on
+2026-09-25T03:04:54.689629Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 0 (0%) over 0 ms
+2026-09-25T03:04:54.692235Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:04:59.615315Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T03:05:13.306440Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 58%, 2.433/4.231Ah at 0.060A, 37h32m40s until empty (34h55m58s until shutdown)
+2026-09-25T03:05:19.270831Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:130] Dimming screen after 30s
+2026-09-25T03:05:29.271382Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:130] Turning screen off after 40s
+2026-09-25T03:05:29.472290Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays off
+2026-09-25T03:05:29.584461Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:05:43.644298Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57% (displayed as 58%), 2.432/4.231Ah at 0.073A, 35h50m41s until empty (33h21m1s until shutdown)
+2026-09-25T03:06:14.017733Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57% (displayed as 58%), 2.432/4.231Ah at 0.058A, 37h17m40s until empty (34h41m57s until shutdown)
+2026-09-25T03:06:44.409610Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57% (displayed as 58%), 2.431/4.231Ah at 0.071A, 35h56m16s until empty (33h26m9s until shutdown)
+2026-09-25T03:06:59.158032Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T03:07:14.738199Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57% (displayed as 58%), 2.431/4.231Ah at 0.058A, 37h16m44s until empty (34h41m1s until shutdown)
+2026-09-25T03:07:45.042690Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57% (displayed as 58%), 2.430/4.231Ah at 0.071A, 36h2m5s until empty (33h31m30s until shutdown)
+2026-09-25T03:07:59.619198Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T03:08:15.429140Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57% (displayed as 58%), 2.430/4.231Ah at 0.057A, 37h51m7s until empty (35h12m56s until shutdown)
+2026-09-25T03:08:45.770497Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.429/4.231Ah at 0.058A, 37h50m34s until empty (35h12m22s until shutdown)
+2026-09-25T03:09:16.113361Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.429/4.231Ah at 0.057A, 39h35m58s until empty (36h50m26s until shutdown)
+2026-09-25T03:09:46.469951Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.428/4.231Ah at 0.057A, 39h42m55s until empty (36h56m49s until shutdown)
+2026-09-25T03:10:16.819145Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.428/4.231Ah at 0.056A, 41h48m33s until empty (38h53m42s until shutdown)
+2026-09-25T03:10:47.157106Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.427/4.231Ah at 0.057A, 41h47m44s until empty (38h52m52s until shutdown)
+2026-09-25T03:10:59.624014Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T03:11:17.460603Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.427/4.231Ah at 0.058A, 41h47m44s until empty (38h52m52s until shutdown)
+2026-09-25T03:11:47.762979Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.426/4.231Ah at 0.057A, 41h46m42s until empty (38h51m50s until shutdown)
+2026-09-25T03:11:59.160922Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Active wake locks: system (Prefs, Playing audio)
+2026-09-25T03:12:18.112187Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.426/4.231Ah at 0.058A, 41h38m9s until empty (38h43m53s until shutdown)
+2026-09-25T03:12:48.432869Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.425/4.231Ah at 0.072A, 39h25m14s until empty (36h40m10s until shutdown)
+2026-09-25T03:13:15.753069Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:789] Lid opened
+2026-09-25T03:13:15.753799Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:13:15.753948Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:137] Undimming screen
+2026-09-25T03:13:15.754064Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:137] Turning screen on
+2026-09-25T03:13:15.754125Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn internal display off and external displays on
+2026-09-25T03:13:15.863897Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "laptop"
+2026-09-25T03:13:15.864230Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T03:13:15.865016Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T03:13:15.865799Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T03:13:15.866697Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T03:13:15.879104Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays on
+2026-09-25T03:13:15.996148Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 29 (20%) over 0 ms
+2026-09-25T03:13:16.005697Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:13:16.008896Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T03:13:16.009078Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:13:16.009208Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:13:16.052275Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:13:16.052460Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:13:16.052528Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:13:16.057623Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:13:16.155967Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:13:16.172057Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:13:16.256661Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:13:19.013770Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.425/4.231Ah at 0.143A, 30h43m4s until empty (28h34m26s until shutdown)
+2026-09-25T03:13:19.025116Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity reported
+2026-09-25T03:13:21.545897Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T03:13:21.546152Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:13:21.546552Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:13:21.582357Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:13:21.582510Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:13:21.582535Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:13:21.584700Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:13:21.607348Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:13:21.694809Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:13:30.327998Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity stopped
+2026-09-25T03:13:30.368164Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T03:13:30.368487Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T03:13:30.368688Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:13:30.433008Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:13:30.433165Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:13:30.433267Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:13:30.438240Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:13:30.498042Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:13:30.590020Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:13:41.522642Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity started
+2026-09-25T03:13:42.748286Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T03:13:42.748530Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:13:42.748661Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:13:42.814224Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:13:42.814371Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:13:42.814475Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:13:42.819640Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:13:42.937367Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:13:43.004016Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:13:49.416126Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.423/4.231Ah at 0.133A, 25h43m46s until empty (23h55m57s until shutdown)
+2026-09-25T03:14:19.864782Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.422/4.231Ah at 0.146A, 21h34m40s until empty (20h4m12s until shutdown)
+2026-09-25T03:14:25.282584Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T03:14:25.282726Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:14:25.282946Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:14:25.458629Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:14:25.458805Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:14:25.458864Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:14:25.464020Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:14:25.535036Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:14:25.631193Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:14:27.241867Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:775] Lid closed
+2026-09-25T03:14:27.242020Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "closed"
+2026-09-25T03:14:27.242305Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T03:14:27.243224Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T03:14:27.244186Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Disabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T03:14:27.245313Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T03:14:27.259331Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:14:27.259573Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1474] Ready to perform lid-closed action (no-op)
+2026-09-25T03:14:27.259690Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn internal display off and external displays on
+2026-09-25T03:14:27.352026Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 0 (0%) over 0 ms
+2026-09-25T03:14:27.356976Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:14:42.879623Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity stopped; last reported 20 sec ago
+2026-09-25T03:14:47.883979Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/dim_advisor.cc:206] Smart dim decided to defer screen dimming
+2026-09-25T03:14:50.203967Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.420/4.231Ah at 0.059A, 21h29m21s until empty (19h59m11s until shutdown)
+2026-09-25T03:15:17.885593Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:130] Dimming screen after 30s
+2026-09-25T03:15:20.538022Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.419/4.231Ah at 0.056A, 22h7m6s until empty (20h34m16s until shutdown)
+2026-09-25T03:15:27.885606Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:130] Turning screen off after 40s
+2026-09-25T03:15:28.086435Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays off
+2026-09-25T03:15:28.196534Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:15:50.921895Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.419/4.231Ah at 0.058A, 26h16m32s until empty (24h26m14s until shutdown)
+2026-09-25T03:16:21.259204Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.418/4.231Ah at 0.057A, 31h34m35s until empty (29h21m59s until shutdown)
+2026-09-25T03:16:41.526626Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T03:16:51.577217Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.418/4.231Ah at 0.055A, 41h39m18s until empty (38h44m22s until shutdown)
+2026-09-25T03:17:21.885844Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.417/4.231Ah at 0.056A, 42h4m51s until empty (39h8m3s until shutdown)
+2026-09-25T03:17:52.208875Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.417/4.231Ah at 0.056A, 42h5m4s until empty (39h8m15s until shutdown)
+2026-09-25T03:18:04.286711Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T03:18:04.287007Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T03:18:04.287154Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:18:04.352579Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:18:04.352771Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:18:04.352831Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:18:04.359137Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:18:04.483326Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:18:04.563556Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:18:08.463587Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:789] Lid opened
+2026-09-25T03:18:08.463860Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T03:18:08.463906Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:137] Undimming screen
+2026-09-25T03:18:08.463929Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:137] Turning screen on
+2026-09-25T03:18:08.463946Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn internal display off and external displays on
+2026-09-25T03:18:08.577580Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "laptop"
+2026-09-25T03:18:08.577921Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T03:18:08.579502Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T03:18:08.580277Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T03:18:08.582272Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T03:18:08.599839Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays on
+2026-09-25T03:18:08.717983Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 29 (20%) over 0 ms
+2026-09-25T03:18:08.728694Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:18:08.729820Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T03:18:08.729992Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T03:18:08.730082Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:18:08.761931Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:18:08.762241Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:18:08.762309Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:18:08.769566Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:18:08.862719Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:18:08.869333Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:18:08.954935Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:18:08.958780Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity stopped
+2026-09-25T03:18:09.827630Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity reported
+2026-09-25T03:18:16.926657Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T03:18:16.926950Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T03:18:16.927736Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:18:16.991559Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:18:16.991669Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:18:16.991686Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:18:16.993181Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:18:17.042000Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:18:17.095435Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:18:22.469409Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.416/4.231Ah at 0.133A, 33h16m32s until empty (30h56m41s until shutdown)
+2026-09-25T03:18:37.993777Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity started
+2026-09-25T03:18:39.214038Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T03:18:39.214292Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:18:39.214559Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:18:39.262811Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:18:39.262973Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:18:39.263035Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:18:39.268056Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:18:39.385866Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:18:39.455692Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:18:49.534370Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op system_wake_lock=1 use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs, Playing audio)
+2026-09-25T03:18:49.534537Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:18:49.534720Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:18:49.605204Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:18:49.605315Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:18:49.605332Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:18:49.606843Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:18:49.660188Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:18:49.756889Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:18:52.097349Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:775] Lid closed
+2026-09-25T03:18:52.097506Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "closed"
+2026-09-25T03:18:52.097760Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T03:18:52.098607Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T03:18:52.099417Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Disabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T03:18:52.112823Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T03:18:52.116456Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=system
+2026-09-25T03:18:52.116648Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1474] Ready to perform lid-closed action (no-op)
+2026-09-25T03:18:52.117017Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn internal display off and external displays on
+2026-09-25T03:18:52.212544Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 0 (0%) over 0 ms
+2026-09-25T03:18:52.215062Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:18:52.814538Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.415/4.231Ah at 0.145A, 26h41m20s until empty (24h49m7s until shutdown)
+2026-09-25T03:19:07.690751Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity stopped; last reported 20 sec ago
+2026-09-25T03:19:12.693661Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/dim_advisor.cc:206] Smart dim decided to defer screen dimming
+2026-09-25T03:19:23.194456Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.414/4.231Ah at 0.059A, 26h24m29s until empty (24h33m24s until shutdown)
+2026-09-25T03:19:42.694928Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:130] Dimming screen after 30s
+2026-09-25T03:19:52.694980Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:130] Turning screen off after 40s
+2026-09-25T03:19:52.895439Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays off
+2026-09-25T03:19:53.006408Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:19:53.471245Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.414/4.231Ah at 0.063A, 25h59m53s until empty (24h10m31s until shutdown)
+2026-09-25T03:20:24.015853Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.413/4.231Ah at 0.057A, 25h55m50s until empty (24h6m42s until shutdown)
+2026-09-25T03:20:54.584128Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.412/4.231Ah at 0.056A, 31h10m19s until empty (28h59m5s until shutdown)
+2026-09-25T03:21:24.957197Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.412/4.231Ah at 0.057A, 40h33m58s until empty (37h43m11s until shutdown)
+2026-09-25T03:21:37.998127Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity ongoing
+2026-09-25T03:21:55.391773Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.411/4.231Ah at 0.057A, 40h49m44s until empty (37h57m47s until shutdown)
+2026-09-25T03:22:25.793631Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.411/4.231Ah at 0.056A, 41h50m20s until empty (38h54m7s until shutdown)
+2026-09-25T03:22:56.046552Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.410/4.231Ah at 0.055A, 42h6m56s until empty (39h9m29s until shutdown)
+2026-09-25T03:23:00.748716Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T03:23:00.748813Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T03:23:00.748862Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:23:00.787966Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:23:00.788126Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:23:00.788184Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:23:00.793168Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:23:00.907315Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:23:00.977421Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:23:15.250105Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] Audio activity stopped
+2026-09-25T03:23:26.526516Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.410/4.231Ah at 0.044A, 43h59m12s until empty (40h53m52s until shutdown)
+2026-09-25T03:23:31.374080Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:789] Lid opened
+2026-09-25T03:23:31.374726Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T03:23:31.374863Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:137] Undimming screen
+2026-09-25T03:23:31.374930Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:137] Turning screen on
+2026-09-25T03:23:31.374988Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn internal display off and external displays on
+2026-09-25T03:23:31.488480Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "laptop"
+2026-09-25T03:23:31.488821Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T03:23:31.489651Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T03:23:31.490596Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T03:23:31.491571Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T03:23:31.506317Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays on
+2026-09-25T03:23:31.625965Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 29 (20%) over 0 ms
+2026-09-25T03:23:31.627330Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:23:31.627669Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T03:23:31.627873Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T03:23:31.628042Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:23:31.724133Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:23:31.724299Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:23:31.724357Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:23:31.729442Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:23:31.829622Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:23:31.844025Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:23:31.930949Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:23:35.574874Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity reported
+2026-09-25T03:23:43.495687Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T03:23:43.495985Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T03:23:43.496367Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:23:43.546383Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:23:43.546504Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:23:43.546527Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:23:43.548010Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:23:43.613570Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:23:43.710781Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:23:56.935589Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.409/4.231Ah at 0.125A, 35h9m16s until empty (32h41m5s until shutdown)
+2026-09-25T03:24:27.324035Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.408/4.231Ah at 0.129A, 28h57m50s until empty (26h55m42s until shutdown)
+2026-09-25T03:24:37.336305Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T03:24:37.336475Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T03:24:37.336699Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T03:24:37.392377Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:24:37.392505Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T03:24:37.392528Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T03:24:37.394074Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T03:24:37.488464Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T03:24:37.535407Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T03:24:38.906873Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:775] Lid closed
+2026-09-25T03:24:38.907091Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "closed"
+2026-09-25T03:24:38.907364Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T03:24:38.908187Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T03:24:38.909022Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Disabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T03:24:38.922808Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T03:24:38.924327Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T03:24:38.924519Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1474] Ready to perform lid-closed action (no-op)
+2026-09-25T03:24:38.924650Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn internal display off and external displays on
+2026-09-25T03:24:39.038866Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 0 (0%) over 0 ms
+2026-09-25T03:24:39.045914Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:24:39.637994Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/audio_client.cc:186] Updated audio devices: headphones unplugged, HDMI inactive
+2026-09-25T03:24:56.652724Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity stopped; last reported 20 sec ago
+2026-09-25T03:24:57.650440Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.407/4.231Ah at 0.043A, 29h51m11s until empty (27h45m14s until shutdown)
+2026-09-25T03:25:01.657021Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/dim_advisor.cc:206] Smart dim decided to defer screen dimming
+2026-09-25T03:25:28.079844Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.407/4.231Ah at 0.041A, 30h56m40s until empty (28h46m7s until shutdown)
+2026-09-25T03:25:31.659767Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:130] Dimming screen after 30s
+2026-09-25T03:25:41.662533Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:130] Turning screen off after 40s
+2026-09-25T03:25:41.863448Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays off
+2026-09-25T03:25:41.974996Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T03:25:58.449879Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.406/4.231Ah at 0.044A, 30h55m53s until empty (28h45m21s until shutdown)
+2026-09-25T03:26:28.839338Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.406/4.231Ah at 0.040A, 39h46m50s until empty (36h58m56s until shutdown)
+2026-09-25T03:26:59.212702Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.405/4.231Ah at 0.041A, 56h30m59s until empty (52h32m22s until shutdown)
+2026-09-25T03:27:29.609954Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.405/4.231Ah at 0.042A, 56h46m42s until empty (52h46m58s until shutdown)
+2026-09-25T03:27:59.973508Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.405/4.231Ah at 0.041A, 56h46m42s until empty (52h46m58s until shutdown)
+2026-09-25T03:28:30.362156Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.402/4.231Ah at 0.043A, 56h58m53s until empty (52h58m until shutdown)
+2026-09-25T03:29:00.807641Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.402/4.231Ah at 0.041A, 56h42m27s until empty (52h42m43s until shutdown)
+2026-09-25T03:29:31.171716Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.402/4.231Ah at 0.041A, 56h42m27s until empty (52h42m43s until shutdown)
+2026-09-25T03:30:01.556321Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.401/4.231Ah at 0.040A, 57h14m3s until empty (53h12m until shutdown)
+2026-09-25T03:30:31.945443Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.401/4.231Ah at 0.041A, 57h14m21s until empty (53h12m16s until shutdown)
+2026-09-25T03:31:02.298956Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.400/4.231Ah at 0.043A, 57h13m49s until empty (53h11m41s until shutdown)
+2026-09-25T03:31:31.661757Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1449] Ready to perform idle action (no-op) after 6m30s
+2026-09-25T03:31:32.625496Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.400/4.231Ah at 0.041A, 57h12m37s until empty (53h10m34s until shutdown)
+2026-09-25T03:32:02.931249Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.400/4.231Ah at 0.041A, 57h12m55s until empty (53h10m51s until shutdown)
+2026-09-25T03:32:33.272584Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.399/4.231Ah at 0.041A, 56h55m13s until empty (52h54m17s until shutdown)
+2026-09-25T03:33:03.645809Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.399/4.231Ah at 0.041A, 56h54m55s until empty (52h54m until shutdown)
+2026-09-25T03:33:34.042905Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.399/4.231Ah at 0.041A, 57h28m32s until empty (53h25m15s until shutdown)
+2026-09-25T03:34:04.351566Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.398/4.231Ah at 0.041A, 57h27m6s until empty (53h23m49s until shutdown)
+2026-09-25T03:34:34.761702Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.398/4.231Ah at 0.041A, 57h27m6s until empty (53h23m49s until shutdown)
+2026-09-25T03:35:05.166592Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.397/4.231Ah at 0.041A, 57h25m57s until empty (53h22m39s until shutdown)
+2026-09-25T03:35:35.614218Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.397/4.231Ah at 0.042A, 57h8m56s until empty (53h6m50s until shutdown)
+2026-09-25T03:36:06.089998Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.397/4.231Ah at 0.043A, 56h36m15s until empty (52h36m28s until shutdown)
+2026-09-25T03:36:36.543549Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.396/4.231Ah at 0.042A, 56h19m11s until empty (52h20m30s until shutdown)
+2026-09-25T03:37:06.973348Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.396/4.231Ah at 0.046A, 54h59m39s until empty (51h6m35s until shutdown)
+2026-09-25T03:37:37.323706Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.395/4.231Ah at 0.041A, 54h58m17s until empty (51h5m12s until shutdown)
+2026-09-25T03:38:07.748772Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.395/4.231Ah at 0.042A, 54h58m17s until empty (51h5m12s until shutdown)
+2026-09-25T03:38:38.097354Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.395/4.231Ah at 0.054A, 52h17m51s until empty (48h36m7s until shutdown)
+2026-09-25T03:39:08.450548Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.394/4.231Ah at 0.041A, 52h29m43s until empty (48h47m3s until shutdown)
+2026-09-25T03:39:38.812428Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.394/4.231Ah at 0.041A, 53h41m54s until empty (49h54m8s until shutdown)
+2026-09-25T03:40:09.223693Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.394/4.231Ah at 0.042A, 53h27m16s until empty (49h40m32s until shutdown)
+2026-09-25T03:40:39.583993Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.393/4.231Ah at 0.054A, 50h40m38s until empty (47h5m35s until shutdown)
+2026-09-25T03:41:09.937868Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.393/4.231Ah at 0.040A, 53h55m20s until empty (50h6m31s until shutdown)
+2026-09-25T03:41:40.339610Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.392/4.231Ah at 0.041A, 53h54m16s until empty (50h5m26s until shutdown)
+2026-09-25T03:42:10.752485Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.392/4.231Ah at 0.041A, 53h54m16s until empty (50h5m26s until shutdown)
+2026-09-25T03:42:41.130460Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.392/4.231Ah at 0.042A, 53h53m59s until empty (50h5m10s until shutdown)
+2026-09-25T03:43:11.493539Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.391/4.231Ah at 0.041A, 57h17m56s until empty (53h14m35s until shutdown)
+2026-09-25T03:43:41.925045Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.391/4.231Ah at 0.040A, 57h17m38s until empty (53h14m18s until shutdown)
+2026-09-25T03:44:12.247893Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 57%, 2.391/4.231Ah at 0.040A, 57h35m5s until empty (53h30m31s until shutdown)
+2026-09-25T03:44:42.678801Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.390/4.231Ah at 0.040A, 57h50m21s until empty (53h44m36s until shutdown)
+2026-09-25T03:45:13.041523Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.390/4.231Ah at 0.041A, 58h7m32s until empty (54h34s until shutdown)
+2026-09-25T03:45:43.431994Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.389/4.231Ah at 0.042A, 57h49m30s until empty (53h43m43s until shutdown)
+2026-09-25T03:46:13.832187Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.389/4.231Ah at 0.041A, 57h31m53s until empty (53h27m21s until shutdown)
+2026-09-25T03:46:44.243542Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.389/4.231Ah at 0.054A, 53h51m3s until empty (50h2m9s until shutdown)
+2026-09-25T03:47:14.638149Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.388/4.231Ah at 0.041A, 53h34m57s until empty (49h47m6s until shutdown)
+2026-09-25T03:47:44.944050Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.388/4.231Ah at 0.054A, 50h34m48s until empty (46h59m43s until shutdown)
+2026-09-25T03:48:15.352780Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.388/4.231Ah at 0.043A, 50h20m59s until empty (46h46m53s until shutdown)
+2026-09-25T03:48:45.794308Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.387/4.231Ah at 0.054A, 47h41m8s until empty (44h18m17s until shutdown)
+2026-09-25T03:49:16.219082Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.387/4.231Ah at 0.042A, 50h7m21s until empty (46h34m7s until shutdown)
+2026-09-25T03:49:46.574705Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.386/4.231Ah at 0.055A, 47h16m53s until empty (43h55m39s until shutdown)
+2026-09-25T03:50:16.946971Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.386/4.231Ah at 0.042A, 49h40m36s until empty (46h9m11s until shutdown)
+2026-09-25T03:50:47.299424Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.386/4.231Ah at 0.054A, 47h28m22s until empty (44h6m20s until shutdown)
+2026-09-25T03:51:17.684428Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.384/4.231Ah at 0.040A, 50h16m27s until empty (46h42m19s until shutdown)
+2026-09-25T03:51:48.130756Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.384/4.231Ah at 0.053A, 48h1m13s until empty (44h36m41s until shutdown)
+2026-09-25T03:52:18.455266Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.383/4.231Ah at 0.041A, 50h54m31s until empty (47h17m35s until shutdown)
+2026-09-25T03:52:48.802088Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.383/4.231Ah at 0.053A, 48h35m52s until empty (45h8m47s until shutdown)
+2026-09-25T03:53:19.197430Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.383/4.231Ah at 0.041A, 51h21m35s until empty (47h42m44s until shutdown)
+2026-09-25T03:53:49.550218Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.382/4.231Ah at 0.052A, 48h47m48s until empty (45h19m47s until shutdown)
+2026-09-25T03:54:19.985105Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.382/4.231Ah at 0.040A, 51h33m35s until empty (47h53m47s until shutdown)
+2026-09-25T03:54:50.331476Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.382/4.231Ah at 0.044A, 50h53m46s until empty (47h16m48s until shutdown)
+2026-09-25T03:55:20.723208Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.381/4.231Ah at 0.040A, 53h55m21s until empty (50h5m23s until shutdown)
+2026-09-25T03:55:51.166944Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.381/4.231Ah at 0.041A, 53h55m21s until empty (50h5m23s until shutdown)
+2026-09-25T03:56:21.513859Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.380/4.231Ah at 0.042A, 56h30m13s until empty (52h29m9s until shutdown)
+2026-09-25T03:56:51.865025Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.380/4.231Ah at 0.042A, 55h57m47s until empty (51h59m1s until shutdown)
+2026-09-25T03:57:22.278777Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.380/4.231Ah at 0.041A, 56h46m59s until empty (52h44m43s until shutdown)
+2026-09-25T03:57:52.658800Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.379/4.231Ah at 0.042A, 56h12m30s until empty (52h12m35s until shutdown)
+2026-09-25T03:58:23.011286Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.379/4.231Ah at 0.042A, 55h56m22s until empty (51h57m36s until shutdown)
+2026-09-25T03:58:53.373876Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.379/4.231Ah at 0.041A, 56h12m48s until empty (52h12m52s until shutdown)
+2026-09-25T03:59:23.771340Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.378/4.231Ah at 0.053A, 53h22m53s until empty (49h34m56s until shutdown)
+2026-09-25T03:59:54.179196Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.378/4.231Ah at 0.041A, 53h22m3s until empty (49h34m9s until shutdown)
+2026-09-25T04:00:24.528534Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.377/4.231Ah at 0.041A, 53h35m40s until empty (49h46m42s until shutdown)
+2026-09-25T04:00:54.892177Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.377/4.231Ah at 0.042A, 53h35m23s until empty (49h46m27s until shutdown)
+2026-09-25T04:01:25.275931Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.377/4.231Ah at 0.042A, 53h20m42s until empty (49h32m49s until shutdown)
+2026-09-25T04:01:55.691812Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.376/4.231Ah at 0.042A, 56h9m8s until empty (52h9m9s until shutdown)
+2026-09-25T04:02:26.095341Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.376/4.231Ah at 0.042A, 55h52m43s until empty (51h53m55s until shutdown)
+2026-09-25T04:02:56.453881Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.375/4.231Ah at 0.043A, 55h19m15s until empty (51h22m44s until shutdown)
+2026-09-25T04:03:26.781867Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.375/4.231Ah at 0.043A, 55h4m10s until empty (51h8m43s until shutdown)
+2026-09-25T04:03:57.193438Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.375/4.231Ah at 0.042A, 55h4m10s until empty (51h8m43s until shutdown)
+2026-09-25T04:04:27.505030Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.374/4.231Ah at 0.053A, 52h20m8s until empty (48h36m17s until shutdown)
+2026-09-25T04:04:57.852230Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.374/4.231Ah at 0.041A, 52h34m until empty (48h49m10s until shutdown)
+2026-09-25T04:05:28.170916Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.374/4.231Ah at 0.042A, 52h48m until empty (49h2m10s until shutdown)
+2026-09-25T04:05:58.571453Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.373/4.231Ah at 0.041A, 53h16m9s until empty (49h28m12s until shutdown)
+2026-09-25T04:06:29.060998Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.373/4.231Ah at 0.040A, 53h45m19s until empty (49h55m18s until shutdown)
+2026-09-25T04:06:59.562530Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.372/4.231Ah at 0.040A, 57h9m25s until empty (53h4m44s until shutdown)
+2026-09-25T04:07:30.080760Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.372/4.231Ah at 0.040A, 57h26m54s until empty (53h20m58s until shutdown)
+2026-09-25T04:08:00.463378Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.372/4.231Ah at 0.040A, 58h36s until empty (53h52m16s until shutdown)
+2026-09-25T04:08:30.839715Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.371/4.231Ah at 0.042A, 57h42m30s until empty (53h35m21s until shutdown)
+2026-09-25T04:09:01.267749Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.371/4.231Ah at 0.042A, 57h8m16s until empty (53h3m33s until shutdown)
+2026-09-25T04:09:31.621028Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.371/4.231Ah at 0.041A, 56h51m50s until empty (52h48m18s until shutdown)
+2026-09-25T04:10:01.972183Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.370/4.231Ah at 0.041A, 56h34m8s until empty (52h31m46s until shutdown)
+2026-09-25T04:10:32.387338Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.370/4.231Ah at 0.041A, 56h17m27s until empty (52h16m16s until shutdown)
+2026-09-25T04:11:02.818325Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.369/4.231Ah at 0.042A, 56h16m19s until empty (52h15m7s until shutdown)
+2026-09-25T04:11:33.167485Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.369/4.231Ah at 0.041A, 56h32m42s until empty (52h30m20s until shutdown)
+2026-09-25T04:12:03.545315Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.369/4.231Ah at 0.041A, 56h32m42s until empty (52h30m20s until shutdown)
+2026-09-25T04:12:33.936651Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.366/4.231Ah at 0.041A, 56h28m25s until empty (52h26m2s until shutdown)
+2026-09-25T04:13:04.327999Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.366/4.231Ah at 0.042A, 56h12m2s until empty (52h10m50s until shutdown)
+2026-09-25T04:13:34.724057Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.365/4.231Ah at 0.041A, 56h26m59s until empty (52h24m36s until shutdown)
+2026-09-25T04:13:52.230229Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:789] Lid opened
+2026-09-25T04:13:52.230849Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T04:13:52.230982Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:137] Undimming screen
+2026-09-25T04:13:52.231049Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:137] Turning screen on
+2026-09-25T04:13:52.231108Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn internal display off and external displays on
+2026-09-25T04:13:52.340541Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "laptop"
+2026-09-25T04:13:52.340633Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T04:13:52.340800Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Un-inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T04:13:52.340944Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T04:13:52.341139Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T04:13:52.342127Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays on
+2026-09-25T04:13:52.476535Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 29 (20%) over 0 ms
+2026-09-25T04:13:52.477288Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T04:13:52.477485Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=30s ac_screen_off=40s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=30s battery_screen_off=40s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T04:13:52.477611Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=30s quick_dim=0s screen_off=40s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T04:13:52.477698Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T04:13:52.570683Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T04:13:52.570845Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T04:13:52.570904Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T04:13:52.575850Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T04:13:52.670554Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T04:13:52.685594Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T04:13:52.780904Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T04:13:53.537448Z INFO powerd: [../power_manager-0.0.2/power_manager/common/activity_logger.cc:21] User activity reported
+2026-09-25T04:13:56.491362Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T04:13:56.491663Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T04:13:56.492040Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1061] Policy update to disable both Adaptive Charging and Charge Limit
+2026-09-25T04:13:56.561695Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T04:13:56.561797Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1465] Adaptive Charging state: Disabled by user or policy.
+2026-09-25T04:13:56.561814Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1509] Slow charging is supported and disabled
+2026-09-25T04:13:56.563301Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1767] Stopping Charge Limit.
+2026-09-25T04:13:56.625958Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1148] Adaptive Charging ML predicts AC unplug will occur after 0 hour(s)
+2026-09-25T04:13:56.662037Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T04:14:01.136363Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:803] Power button down
+2026-09-25T04:14:01.136542Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/main.cc:388] Launching "sync"
+2026-09-25T04:14:01.846780Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:803] Power button up
+2026-09-25T04:14:05.076307Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1319] On battery at 56%, 2.365/4.231Ah at 0.143A, 37h49m28s until empty (35h7m3s until shutdown)
+2026-09-25T04:14:08.168384Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:803] Power button down
+2026-09-25T04:14:08.168567Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/main.cc:388] Launching "sync"
+2026-09-25T04:14:08.732055Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:803] Power button up
+2026-09-25T04:14:12.024505Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1620] Got RequestShutdown message from :1.44 with reason user-request (UI request from ash: power button)
+2026-09-25T04:14:12.101980Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/adaptive_charging_controller.cc:1434] Battery charge current limit set at 4294967295mA
+2026-09-25T04:14:12.102053Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/system/display/display_power_setter.cc:78] Asking DisplayService to turn all displays off
+2026-09-25T04:14:12.206215Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/internal_backlight_controller.cc:958] Setting brightness to 0 (0%) over 0 ms
+2026-09-25T04:14:12.207962Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:2014] Shutting down, reason: user-request
+2026-09-25T04:14:12.208097Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/main.cc:388] Launching "/usr/bin/powerd_setuid_helper --action=shut_down --shutdown_reason=user-request"
+2026-09-25T04:14:12.214545Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1791] Chrome is using normal display mode
+2026-09-25T04:14:12.278442Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:152] Unregistering suspend delay 62849025 (cdm-oemcrypto) due to D-Bus client :1.43 going away
+2026-09-25T04:14:12.284657Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:105] Unregistering suspend delay 62849029 (Pause VMs while suspended) on behalf of :1.172
+2026-09-25T04:14:12.326738Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:105] Unregistering suspend delay 62849027 (shill) on behalf of :1.9
+2026-09-25T04:14:12.327705Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:105] Unregistering dark suspend delay 62881794 (shill) on behalf of :1.9
+2026-09-25T04:14:12.403646Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1936] Session state changed to stopped
+2026-09-25T04:14:12.403883Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T04:14:12.422131Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:1813] Received updated external policy: ac_dim=0s ac_screen_off=0s ac_lock=0s ac_idle_warn=0s ac_idle=8m30s battery_dim=5m battery_screen_off=5m30s battery_lock=0s battery_idle_warn=0s battery_idle=6m30s ac_idle=no-op battery_idle=no-op lid_closed=no-op use_audio=1 use_video=1 presentation_factor=1 user_activity_factor=1 wait_for_initial_user_activity=0 force_nonzero_brightness_for_user_activity=1 (Prefs)
+2026-09-25T04:14:12.422215Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T04:14:12.622569Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:152] Unregistering suspend delay 62849026 (chrome) due to D-Bus client :1.44 going away
+2026-09-25T04:14:12.622616Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:152] Unregistering dark suspend delay 62881793 (chrome) due to D-Bus client :1.44 going away
+2026-09-25T04:14:13.250689Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/daemon.cc:775] Lid closed
+2026-09-25T04:14:13.250816Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:297] Configuring devices for mode "closed"
+2026-09-25T04:14:13.251143Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3
+2026-09-25T04:14:13.252237Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:218] Inhibiting /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0
+2026-09-25T04:14:13.253503Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Disabling wakeup for /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015/input/input3 through /sys/devices/platform/soc/11009000.i2c/i2c-2/2-0015
+2026-09-25T04:14:13.266828Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/input_device_controller.cc:204] Enabling wakeup for /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller/input/input0 through /sys/devices/platform/soc/11010000.spi/spi_master/spi0/spi0.0/11010000.spi:ec@0:keyboard-controller
+2026-09-25T04:14:13.268306Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1254] Updated settings: dim=5m quick_dim=1m screen_off=5m30s lock=0s quick_lock=6m30s idle_warn=0s idle=6m30s (no-op) lid_closed=no-op use_audio=1 use_video=1 wake_locks=
+2026-09-25T04:14:13.268570Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/state_controller.cc:1474] Ready to perform lid-closed action (no-op)
+2026-09-25T04:14:13.741022Z INFO powerd: [../power_manager-0.0.2/power_manager/powerd/policy/suspend_delay_controller.cc:152] Unregistering suspend delay 62849030 (Bluetooth Manager) due to D-Bus client :1.185 going away

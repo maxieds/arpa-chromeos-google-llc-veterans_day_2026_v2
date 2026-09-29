@@ -1,0 +1,159 @@
+2026-08-17T21:20:06.336100Z INFO secagentd[1875]: BypassPolicyForTesting:0,BypassEnqOkWaitForTesting:0,StopReportingForUnaffiliatedUsers:0,HeartbeatPeriodSeconds:300,PluginBatchIntervalSeconds:120,FeaturePollIntervalSeconds:600
+2026-08-17T21:20:06.336358Z INFO secagentd[1875]: Set device boot time to 1787001598
+2026-08-17T21:20:06.336389Z INFO secagentd[1875]: Device timezone set to America/Chicago
+2026-08-17T21:20:06.450513Z INFO secagentd[1875]: Feature CrOSLateBootSecagentdXDRReportingchanged to 1
+2026-08-17T21:20:06.450537Z INFO secagentd[1875]: Feature CrOSLateBootSecagentdCoalesceTerminateschanged to 1
+2026-08-17T21:20:06.450545Z INFO secagentd[1875]: Feature CrOSLateBootSecagentdXDRNetworkEventschanged to 1
+2026-08-17T21:20:06.450551Z INFO secagentd[1875]: Feature CrOSLateBootSecagentdXDRAuthenticateEventschanged to 1
+2026-08-17T21:20:06.450557Z INFO secagentd[1875]: Feature CrOSLateBootSecagentdXDRFileEventschanged to 1
+2026-08-17T21:20:06.454920Z INFO secagentd[1875]: Process filter rules created:
+2026-08-17T21:20:06.454937Z INFO secagentd[1875]: PARENT: SHA256:4352A7367E92DE1388D9C052E9226530421B8D9699FC4F9DF20487C6101D188E pathname:/bin/sh
+2026-08-17T21:20:06.454943Z INFO secagentd[1875]: Commands:
+2026-08-17T21:20:06.454949Z INFO secagentd[1875]: '/bin/sh' '/usr/share/cros/init/temp_logger.sh'
+2026-08-17T21:20:06.454955Z INFO secagentd[1875]: '/bin/sh' '/usr/local/libexec/recover-duts/recover_duts'
+2026-08-17T21:20:06.454962Z INFO secagentd[1875]: '/bin/sh' '/usr/local/libexec/recover-duts/hooks/check_ethernet.hook'
+2026-08-17T21:20:06.454968Z INFO secagentd[1875]: PROCESS: SHA256:FC0198A4EF009BFAF46A472E4B8718D4ADAAEF713F1A49A51314BA823FAC7070 pathname:/usr/sbin/spaced_cli
+2026-08-17T21:20:06.454974Z INFO secagentd[1875]: PROCESS: SHA256:E3E3243CDF1F0A9B913EA845D559A027CEF80FBB5FF877660371B6F1296AB713 pathname:/sbin/dmsetup
+2026-08-17T21:20:06.455082Z INFO secagentd[1875]: DeviceReportXDREventsPolicy: 0
+2026-08-17T21:20:06.455089Z INFO secagentd[1875]: CrOSLateBootSecagentdXDRReporting: 1
+2026-08-17T21:20:06.455095Z INFO secagentd[1875]: Not reporting yet.
+2026-08-17T21:20:06.455145Z WARNING secagentd[1875]: Store reporting data by a Missive daemon
+2026-08-17T21:20:11.342776Z WARNING secagentd[1875]: Service became available
+2026-08-17T21:20:11.343711Z WARNING secagentd[1875]: Service became available
+2025-12-18T00:00:04.215807Z INFO secagentd[1874]: BypassPolicyForTesting:0,BypassEnqOkWaitForTesting:0,StopReportingForUnaffiliatedUsers:0,HeartbeatPeriodSeconds:300,PluginBatchIntervalSeconds:120,FeaturePollIntervalSeconds:600
+2025-12-18T00:00:04.216171Z INFO secagentd[1874]: Set device boot time to 1766015999
+2025-12-18T00:00:04.216286Z INFO secagentd[1874]: Device timezone set to America/Chicago
+2025-12-18T00:00:04.392731Z INFO secagentd[1874]: Feature CrOSLateBootSecagentdXDRReportingchanged to 1
+2025-12-18T00:00:04.392747Z INFO secagentd[1874]: Feature CrOSLateBootSecagentdCoalesceTerminateschanged to 1
+2025-12-18T00:00:04.392754Z INFO secagentd[1874]: Feature CrOSLateBootSecagentdXDRNetworkEventschanged to 1
+2025-12-18T00:00:04.392761Z INFO secagentd[1874]: Feature CrOSLateBootSecagentdXDRAuthenticateEventschanged to 1
+2025-12-18T00:00:04.392767Z INFO secagentd[1874]: Feature CrOSLateBootSecagentdXDRFileEventschanged to 1
+2025-12-18T00:00:04.393497Z INFO secagentd[1874]: Process filter rules created:
+2025-12-18T00:00:04.393827Z INFO secagentd[1874]: PARENT: SHA256:4352A7367E92DE1388D9C052E9226530421B8D9699FC4F9DF20487C6101D188E pathname:/bin/sh
+2025-12-18T00:00:04.393874Z INFO secagentd[1874]: Commands:
+2025-12-18T00:00:04.393885Z INFO secagentd[1874]: '/bin/sh' '/usr/share/cros/init/temp_logger.sh'
+2025-12-18T00:00:04.393895Z INFO secagentd[1874]: '/bin/sh' '/usr/local/libexec/recover-duts/recover_duts'
+2025-12-18T00:00:04.393902Z INFO secagentd[1874]: '/bin/sh' '/usr/local/libexec/recover-duts/hooks/check_ethernet.hook'
+2025-12-18T00:00:04.393912Z INFO secagentd[1874]: PROCESS: SHA256:E3E3243CDF1F0A9B913EA845D559A027CEF80FBB5FF877660371B6F1296AB713 pathname:/sbin/dmsetup
+2025-12-18T00:00:04.393920Z INFO secagentd[1874]: PROCESS: SHA256:FC0198A4EF009BFAF46A472E4B8718D4ADAAEF713F1A49A51314BA823FAC7070 pathname:/usr/sbin/spaced_cli
+2025-12-18T00:00:04.397669Z INFO secagentd[1874]: DeviceReportXDREventsPolicy: 0
+2025-12-18T00:00:04.397745Z WARNING secagentd[1874]: Store reporting data by a Missive daemon
+2025-12-18T00:00:04.397831Z INFO secagentd[1874]: CrOSLateBootSecagentdXDRReporting: 1
+2025-12-18T00:00:04.397862Z INFO secagentd[1874]: Not reporting yet.
+2025-12-18T00:00:07.065731Z WARNING secagentd[1874]: Service became available
+2025-12-18T00:00:07.065811Z WARNING secagentd[1874]: Service became available
+2026-08-14T21:43:33.223735Z INFO secagentd[1874]: Device timezone set to America/Chicago
+2025-12-18T00:00:04.094580Z INFO secagentd[1826]: BypassPolicyForTesting:0,BypassEnqOkWaitForTesting:0,StopReportingForUnaffiliatedUsers:0,HeartbeatPeriodSeconds:300,PluginBatchIntervalSeconds:120,FeaturePollIntervalSeconds:600
+2025-12-18T00:00:04.095257Z INFO secagentd[1826]: Set device boot time to 1766015998
+2025-12-18T00:00:04.095470Z INFO secagentd[1826]: Device timezone set to America/Chicago
+2025-12-18T00:00:04.420989Z INFO secagentd[1826]: Feature CrOSLateBootSecagentdXDRReportingchanged to 1
+2025-12-18T00:00:04.421021Z INFO secagentd[1826]: Feature CrOSLateBootSecagentdCoalesceTerminateschanged to 1
+2025-12-18T00:00:04.421041Z INFO secagentd[1826]: Feature CrOSLateBootSecagentdXDRNetworkEventschanged to 1
+2025-12-18T00:00:04.421059Z INFO secagentd[1826]: Feature CrOSLateBootSecagentdXDRAuthenticateEventschanged to 1
+2025-12-18T00:00:04.421076Z INFO secagentd[1826]: Feature CrOSLateBootSecagentdXDRFileEventschanged to 1
+2025-12-18T00:00:04.422469Z INFO secagentd[1826]: Process filter rules created:
+2025-12-18T00:00:04.422506Z INFO secagentd[1826]: PARENT: SHA256:4352A7367E92DE1388D9C052E9226530421B8D9699FC4F9DF20487C6101D188E pathname:/bin/sh
+2025-12-18T00:00:04.422523Z INFO secagentd[1826]: Commands:
+2025-12-18T00:00:04.422539Z INFO secagentd[1826]: '/bin/sh' '/usr/share/cros/init/temp_logger.sh'
+2025-12-18T00:00:04.422555Z INFO secagentd[1826]: '/bin/sh' '/usr/local/libexec/recover-duts/recover_duts'
+2025-12-18T00:00:04.422571Z INFO secagentd[1826]: '/bin/sh' '/usr/local/libexec/recover-duts/hooks/check_ethernet.hook'
+2025-12-18T00:00:04.422588Z INFO secagentd[1826]: PROCESS: SHA256:E3E3243CDF1F0A9B913EA845D559A027CEF80FBB5FF877660371B6F1296AB713 pathname:/sbin/dmsetup
+2025-12-18T00:00:04.422605Z INFO secagentd[1826]: PROCESS: SHA256:FC0198A4EF009BFAF46A472E4B8718D4ADAAEF713F1A49A51314BA823FAC7070 pathname:/usr/sbin/spaced_cli
+2025-12-18T00:00:04.438453Z WARNING secagentd[1826]: Store reporting data by a Missive daemon
+2025-12-18T00:00:04.438785Z INFO secagentd[1826]: DeviceReportXDREventsPolicy: 0
+2025-12-18T00:00:04.438845Z INFO secagentd[1826]: CrOSLateBootSecagentdXDRReporting: 1
+2025-12-18T00:00:04.438867Z INFO secagentd[1826]: Not reporting yet.
+2025-12-18T00:00:06.069787Z WARNING secagentd[1826]: Service became available
+2025-12-18T00:00:06.069814Z WARNING secagentd[1826]: Service became available
+2026-08-14T21:45:08.307443Z INFO secagentd[1826]: Device timezone set to America/Chicago
+2025-12-18T00:00:03.856508Z INFO secagentd[1793]: BypassPolicyForTesting:0,BypassEnqOkWaitForTesting:0,StopReportingForUnaffiliatedUsers:0,HeartbeatPeriodSeconds:300,PluginBatchIntervalSeconds:120,FeaturePollIntervalSeconds:600
+2025-12-18T00:00:03.856757Z INFO secagentd[1793]: Set device boot time to 1766015998
+2025-12-18T00:00:03.856793Z INFO secagentd[1793]: Device timezone set to America/Chicago
+2025-12-18T00:00:03.908389Z INFO secagentd[1793]: Feature CrOSLateBootSecagentdXDRReportingchanged to 1
+2025-12-18T00:00:03.908401Z INFO secagentd[1793]: Feature CrOSLateBootSecagentdCoalesceTerminateschanged to 1
+2025-12-18T00:00:03.908408Z INFO secagentd[1793]: Feature CrOSLateBootSecagentdXDRNetworkEventschanged to 1
+2025-12-18T00:00:03.908414Z INFO secagentd[1793]: Feature CrOSLateBootSecagentdXDRAuthenticateEventschanged to 1
+2025-12-18T00:00:03.908419Z INFO secagentd[1793]: Feature CrOSLateBootSecagentdXDRFileEventschanged to 1
+2025-12-18T00:00:03.915095Z INFO secagentd[1793]: Process filter rules created:
+2025-12-18T00:00:03.915146Z INFO secagentd[1793]: PARENT: SHA256:4352A7367E92DE1388D9C052E9226530421B8D9699FC4F9DF20487C6101D188E pathname:/bin/sh
+2025-12-18T00:00:03.915167Z INFO secagentd[1793]: Commands:
+2025-12-18T00:00:03.915185Z INFO secagentd[1793]: '/bin/sh' '/usr/share/cros/init/temp_logger.sh'
+2025-12-18T00:00:03.915202Z INFO secagentd[1793]: '/bin/sh' '/usr/local/libexec/recover-duts/recover_duts'
+2025-12-18T00:00:03.915217Z INFO secagentd[1793]: '/bin/sh' '/usr/local/libexec/recover-duts/hooks/check_ethernet.hook'
+2025-12-18T00:00:03.915235Z INFO secagentd[1793]: PROCESS: SHA256:E3E3243CDF1F0A9B913EA845D559A027CEF80FBB5FF877660371B6F1296AB713 pathname:/sbin/dmsetup
+2025-12-18T00:00:03.915252Z INFO secagentd[1793]: PROCESS: SHA256:FC0198A4EF009BFAF46A472E4B8718D4ADAAEF713F1A49A51314BA823FAC7070 pathname:/usr/sbin/spaced_cli
+2025-12-18T00:00:03.915473Z WARNING secagentd[1793]: Store reporting data by a Missive daemon
+2025-12-18T00:00:03.917524Z INFO secagentd[1793]: DeviceReportXDREventsPolicy: 0
+2025-12-18T00:00:03.917604Z INFO secagentd[1793]: CrOSLateBootSecagentdXDRReporting: 1
+2025-12-18T00:00:03.917631Z INFO secagentd[1793]: Not reporting yet.
+2025-12-18T00:00:05.742284Z WARNING secagentd[1793]: Service became available
+2025-12-18T00:00:05.742345Z WARNING secagentd[1793]: Service became available
+2026-08-07T17:45:19.539337Z INFO secagentd[1793]: Device timezone set to America/Chicago
+2026-08-07T20:19:33.141185Z INFO secagentd[1815]: BypassPolicyForTesting:0,BypassEnqOkWaitForTesting:0,StopReportingForUnaffiliatedUsers:0,HeartbeatPeriodSeconds:300,PluginBatchIntervalSeconds:120,FeaturePollIntervalSeconds:600
+2026-08-07T20:19:33.141434Z INFO secagentd[1815]: Set device boot time to 1786133965
+2026-08-07T20:19:33.141464Z INFO secagentd[1815]: Device timezone set to America/Chicago
+2026-08-07T20:19:33.492495Z INFO secagentd[1815]: Feature CrOSLateBootSecagentdXDRReportingchanged to 1
+2026-08-07T20:19:33.492551Z INFO secagentd[1815]: Feature CrOSLateBootSecagentdCoalesceTerminateschanged to 1
+2026-08-07T20:19:33.492571Z INFO secagentd[1815]: Feature CrOSLateBootSecagentdXDRNetworkEventschanged to 1
+2026-08-07T20:19:33.492589Z INFO secagentd[1815]: Feature CrOSLateBootSecagentdXDRAuthenticateEventschanged to 1
+2026-08-07T20:19:33.492607Z INFO secagentd[1815]: Feature CrOSLateBootSecagentdXDRFileEventschanged to 1
+2026-08-07T20:19:33.494069Z INFO secagentd[1815]: Process filter rules created:
+2026-08-07T20:19:33.494099Z INFO secagentd[1815]: PARENT: SHA256:4352A7367E92DE1388D9C052E9226530421B8D9699FC4F9DF20487C6101D188E pathname:/bin/sh
+2026-08-07T20:19:33.494116Z INFO secagentd[1815]: Commands:
+2026-08-07T20:19:33.494133Z INFO secagentd[1815]: '/bin/sh' '/usr/share/cros/init/temp_logger.sh'
+2026-08-07T20:19:33.494149Z INFO secagentd[1815]: '/bin/sh' '/usr/local/libexec/recover-duts/recover_duts'
+2026-08-07T20:19:33.494165Z INFO secagentd[1815]: '/bin/sh' '/usr/local/libexec/recover-duts/hooks/check_ethernet.hook'
+2026-08-07T20:19:33.494194Z INFO secagentd[1815]: PROCESS: SHA256:FC0198A4EF009BFAF46A472E4B8718D4ADAAEF713F1A49A51314BA823FAC7070 pathname:/usr/sbin/spaced_cli
+2026-08-07T20:19:33.494213Z INFO secagentd[1815]: PROCESS: SHA256:E3E3243CDF1F0A9B913EA845D559A027CEF80FBB5FF877660371B6F1296AB713 pathname:/sbin/dmsetup
+2026-08-07T20:19:33.504633Z WARNING secagentd[1815]: Store reporting data by a Missive daemon
+2026-08-07T20:19:33.504686Z INFO secagentd[1815]: DeviceReportXDREventsPolicy: 0
+2026-08-07T20:19:33.504697Z INFO secagentd[1815]: CrOSLateBootSecagentdXDRReporting: 1
+2026-08-07T20:19:33.504705Z INFO secagentd[1815]: Not reporting yet.
+2026-08-07T20:19:41.575152Z WARNING secagentd[1815]: Service became available
+2026-08-07T20:19:41.575184Z WARNING secagentd[1815]: Service became available
+2025-12-18T00:00:03.969514Z INFO secagentd[1828]: BypassPolicyForTesting:0,BypassEnqOkWaitForTesting:0,StopReportingForUnaffiliatedUsers:0,HeartbeatPeriodSeconds:300,PluginBatchIntervalSeconds:120,FeaturePollIntervalSeconds:600
+2025-12-18T00:00:03.969771Z INFO secagentd[1828]: Set device boot time to 1766015998
+2025-12-18T00:00:03.969801Z INFO secagentd[1828]: Device timezone set to America/Chicago
+2025-12-18T00:00:03.975663Z INFO secagentd[1828]: Feature CrOSLateBootSecagentdXDRReportingchanged to 1
+2025-12-18T00:00:03.975683Z INFO secagentd[1828]: Feature CrOSLateBootSecagentdCoalesceTerminateschanged to 1
+2025-12-18T00:00:03.975690Z INFO secagentd[1828]: Feature CrOSLateBootSecagentdXDRNetworkEventschanged to 1
+2025-12-18T00:00:03.975696Z INFO secagentd[1828]: Feature CrOSLateBootSecagentdXDRAuthenticateEventschanged to 1
+2025-12-18T00:00:03.975702Z INFO secagentd[1828]: Feature CrOSLateBootSecagentdXDRFileEventschanged to 1
+2025-12-18T00:00:03.976432Z INFO secagentd[1828]: Process filter rules created:
+2025-12-18T00:00:03.976443Z INFO secagentd[1828]: PARENT: SHA256:4352A7367E92DE1388D9C052E9226530421B8D9699FC4F9DF20487C6101D188E pathname:/bin/sh
+2025-12-18T00:00:03.976450Z INFO secagentd[1828]: Commands:
+2025-12-18T00:00:03.976456Z INFO secagentd[1828]: '/bin/sh' '/usr/share/cros/init/temp_logger.sh'
+2025-12-18T00:00:03.976461Z INFO secagentd[1828]: '/bin/sh' '/usr/local/libexec/recover-duts/recover_duts'
+2025-12-18T00:00:03.976467Z INFO secagentd[1828]: '/bin/sh' '/usr/local/libexec/recover-duts/hooks/check_ethernet.hook'
+2025-12-18T00:00:03.976474Z INFO secagentd[1828]: PROCESS: SHA256:E3E3243CDF1F0A9B913EA845D559A027CEF80FBB5FF877660371B6F1296AB713 pathname:/sbin/dmsetup
+2025-12-18T00:00:03.976479Z INFO secagentd[1828]: PROCESS: SHA256:FC0198A4EF009BFAF46A472E4B8718D4ADAAEF713F1A49A51314BA823FAC7070 pathname:/usr/sbin/spaced_cli
+2025-12-18T00:00:03.977096Z INFO secagentd[1828]: DeviceReportXDREventsPolicy: 0
+2025-12-18T00:00:03.977109Z INFO secagentd[1828]: CrOSLateBootSecagentdXDRReporting: 1
+2025-12-18T00:00:03.977116Z INFO secagentd[1828]: Not reporting yet.
+2025-12-18T00:00:03.977160Z WARNING secagentd[1828]: Store reporting data by a Missive daemon
+2025-12-18T00:00:05.914347Z WARNING secagentd[1828]: Service became available
+2025-12-18T00:00:05.914406Z WARNING secagentd[1828]: Service became available
+2026-08-07T17:45:19.439239Z INFO secagentd[1828]: Device timezone set to America/Chicago
+2026-08-10T10:48:21.161863Z INFO secagentd[1817]: BypassPolicyForTesting:0,BypassEnqOkWaitForTesting:0,StopReportingForUnaffiliatedUsers:0,HeartbeatPeriodSeconds:300,PluginBatchIntervalSeconds:120,FeaturePollIntervalSeconds:600
+2026-08-10T10:48:21.162721Z INFO secagentd[1817]: Set device boot time to 1786358896
+2026-08-10T10:48:21.163037Z INFO secagentd[1817]: Device timezone set to America/Chicago
+2026-08-10T10:48:21.440374Z INFO secagentd[1817]: Feature CrOSLateBootSecagentdXDRReportingchanged to 1
+2026-08-10T10:48:21.440402Z INFO secagentd[1817]: Feature CrOSLateBootSecagentdCoalesceTerminateschanged to 1
+2026-08-10T10:48:21.440422Z INFO secagentd[1817]: Feature CrOSLateBootSecagentdXDRNetworkEventschanged to 1
+2026-08-10T10:48:21.440440Z INFO secagentd[1817]: Feature CrOSLateBootSecagentdXDRAuthenticateEventschanged to 1
+2026-08-10T10:48:21.440457Z INFO secagentd[1817]: Feature CrOSLateBootSecagentdXDRFileEventschanged to 1
+2026-08-10T10:48:21.441887Z INFO secagentd[1817]: Process filter rules created:
+2026-08-10T10:48:21.441945Z INFO secagentd[1817]: PARENT: SHA256:4352A7367E92DE1388D9C052E9226530421B8D9699FC4F9DF20487C6101D188E pathname:/bin/sh
+2026-08-10T10:48:21.441968Z INFO secagentd[1817]: Commands:
+2026-08-10T10:48:21.441988Z INFO secagentd[1817]: '/bin/sh' '/usr/share/cros/init/temp_logger.sh'
+2026-08-10T10:48:21.442005Z INFO secagentd[1817]: '/bin/sh' '/usr/local/libexec/recover-duts/recover_duts'
+2026-08-10T10:48:21.442022Z INFO secagentd[1817]: '/bin/sh' '/usr/local/libexec/recover-duts/hooks/check_ethernet.hook'
+2026-08-10T10:48:21.442042Z INFO secagentd[1817]: PROCESS: SHA256:FC0198A4EF009BFAF46A472E4B8718D4ADAAEF713F1A49A51314BA823FAC7070 pathname:/usr/sbin/spaced_cli
+2026-08-10T10:48:21.442060Z INFO secagentd[1817]: PROCESS: SHA256:E3E3243CDF1F0A9B913EA845D559A027CEF80FBB5FF877660371B6F1296AB713 pathname:/sbin/dmsetup
+2026-08-10T10:48:21.458972Z WARNING secagentd[1817]: Store reporting data by a Missive daemon
+2026-08-10T10:48:21.459086Z INFO secagentd[1817]: DeviceReportXDREventsPolicy: 0
+2026-08-10T10:48:21.459119Z INFO secagentd[1817]: CrOSLateBootSecagentdXDRReporting: 1
+2026-08-10T10:48:21.459147Z INFO secagentd[1817]: Not reporting yet.
+2026-08-10T10:48:23.249406Z WARNING secagentd[1817]: Service became available
+2026-08-10T10:48:23.249431Z WARNING secagentd[1817]: Service became available
+2026-08-10T10:49:11.186427Z INFO secagentd[1817]: Device timezone set to America/Chicago

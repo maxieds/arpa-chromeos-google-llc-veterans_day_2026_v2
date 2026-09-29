@@ -1,0 +1,14 @@
+I:1274956
+E:ID_INPUT=1
+E:ID_INPUT_TOUCHPAD=1
+E:ID_SERIAL=noserial
+E:ID_PATH=platform-11009000.i2c
+E:ID_PATH_TAG=platform-11009000_i2c
+E:POWERD_ROLE=internal_touchpad
+E:POWERD_TAGS_USABLE=usable_when_laptop usable_when_display_off
+E:POWERD_TAGS_WAKEUP=wakeup wakeup_only_when_usable
+E:POWERD_TAGS_INHIBIT=inhibit
+E:POWERD_TAGS=usable_when_laptop usable_when_display_off wakeup wakeup_only_when_usable inhibit role_internal_touchpad
+G:powerd
+Q:powerd
+V:1

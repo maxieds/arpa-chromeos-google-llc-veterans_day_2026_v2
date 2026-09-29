@@ -1,0 +1,18 @@
+2026-09-24T23:14:53.800426Z WARNING kernel: [ 3265.024272] init: ui_stop_waiter main process (13765) killed by TERM signal
+2026-09-24T23:14:53.801709Z WARNING kernel: [ 3265.025443] init: shill_stop_waiter main process (13775) killed by TERM signal
+2026-09-25T01:55:04.447681Z WARNING kernel: [    3.111815] init: lvm-migration-trim main process (527) killed by TERM signal
+2026-09-25T01:55:06.948171Z WARNING kernel: [    5.626911] init: failsafe-delay main process (664) killed by TERM signal
+2026-09-25T01:55:06.992165Z WARNING kernel: [    5.671076] init: secagentd post-start process (1791) terminated with status 2
+2026-09-25T01:55:07.130172Z WARNING kernel: [    5.808556] init: modemfwd main process (1801) terminated with status 69
+2026-09-25T01:55:12.678182Z WARNING kernel: [   11.357263] init: send-boot-elog-metrics main process (3328) terminated with status 1
+2026-09-25T04:14:12.314459Z WARNING kernel: [ 8351.673992] init: ui_stop_waiter main process (19308) killed by TERM signal
+2026-09-25T04:14:12.315437Z WARNING kernel: [ 8351.674776] init: shill_stop_waiter main process (19318) killed by TERM signal
+2026-09-26T22:45:55.111019Z WARNING kernel: [    4.763423] init: lvm-migration-trim main process (534) killed by TERM signal
+2026-09-26T22:45:55.320752Z WARNING kernel: [    5.006832] init: bluetoothd pre-start process (686) terminated with status 1
+2026-09-26T22:45:57.688720Z WARNING kernel: [    7.374284] init: failsafe-delay main process (673) killed by TERM signal
+2026-09-26T22:45:57.843741Z WARNING kernel: [    7.529378] init: secagentd post-start process (1785) terminated with status 2
+2026-09-26T22:45:57.886720Z WARNING kernel: [    7.572492] init: modemfwd main process (1803) terminated with status 69
+2026-09-26T22:45:58.045729Z WARNING kernel: [    7.732029] init: p2p main process (1986) terminated with status 1
+2026-09-26T22:45:58.045759Z WARNING kernel: [    7.732080] init: p2p main process ended, respawning
+2026-09-26T22:45:58.069839Z WARNING kernel: [    7.756055] init: p2p post-stop process (2003) terminated with status 1
+2026-09-26T22:46:05.538304Z WARNING kernel: [   15.223306] init: send-boot-elog-metrics main process (3297) terminated with status 1

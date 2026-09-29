@@ -1,0 +1,125 @@
+{
+  "Devices": [
+    {
+      "Name": "A3A551",
+      "DeviceId": "8bfb526c1d1630d164e7446c7f041f73973ea766",
+      "InstanceIds": [
+        "EMMC\\NAME_A3A551",
+        "EMMC\\MAN_00D6&OEM_0103&NAME_A3A551",
+        "EMMC\\MAN_00D6&NAME_A3A551&REV_0x1500000000000000",
+        "EMMC\\MAN_00D6&OEM_0103&NAME_A3A551&REV_0x1500000000000000",
+        "EMMC\\0214&0259&A3A551"
+      ],
+      "Guid": [
+        "a752fccb-d784-5e8e-8809-3df7e12a477e",
+        "cf82fd13-1857-537e-9f5a-6ce011b816b9",
+        "75a5a975-e089-5f7d-8f72-00d8ed37ca20",
+        "2f49c7f8-4211-555f-8536-1e143e24c7f2",
+        "ee9de2bc-4410-5e98-8490-56fa3b8b6a82"
+      ],
+      "Plugin": "emmc",
+      "Protocols": [
+        "org.jedec.mmc"
+      ],
+      "Flags": [
+        "internal",
+        "updatable",
+        "can-emulation-tag"
+      ],
+      "VendorIds": [
+        "EMMC:0x0000d6"
+      ],
+      "Version": "0x1500000000000000",
+      "VersionFormat": "number",
+      "Icons": [
+        "media-memory"
+      ],
+      "Created": 1790632359
+    },
+    {
+      "Name": "EasyCamera",
+      "DeviceId": "d787669ee4a103fe0b361fe31c10ea037c72f27c",
+      "InstanceIds": [
+        "USB\\VID_5986&PID_1172"
+      ],
+      "Guid": [
+        "10b526b5-1beb-5a14-9d3a-c7c6617a3bcb"
+      ],
+      "Serial": "",
+      "Plugin": "dfu",
+      "Protocols": [
+        "org.usb.dfu"
+      ],
+      "Flags": [
+        "updatable",
+        "can-emulation-tag"
+      ],
+      "Vendor": "Bison",
+      "VendorIds": [
+        "USB:0x5986"
+      ],
+      "Version": "56.4",
+      "VersionFormat": "bcd",
+      "VersionRaw": 22020,
+      "Icons": [
+        "camera-web"
+      ],
+      "Created": 1790632359
+    },
+    {
+      "Name": "N116BGE-EA2",
+      "DeviceId": "10feb8f8641be9b4f44d52078baa6338209a53ef",
+      "InstanceIds": [
+        "DRM\\VEN_CMN&DEV_1132"
+      ],
+      "Guid": [
+        "5b7a68b3-d68a-5ff5-97f9-b2d3467bfd59"
+      ],
+      "Plugin": "linux_display",
+      "Flags": [
+        "internal"
+      ],
+      "VendorIds": [
+        "PNP:CMN"
+      ],
+      "Created": 1790632359
+    },
+    {
+      "Name": "Touchpad",
+      "DeviceId": "ed0df1fddefb8e54d1b0671d8643447eb6b04d0a",
+      "InstanceIds": [
+        "I2C\\VID_04F3&PID_0400",
+        "I2C\\VEN_04F3&DEV_0400&MOD_0109",
+        "ELANTP\\ICTYPE_15&MOD_0109",
+        "ELANTP\\ICTYPE_15&MOD_0109&DRIVER_ELAN_I2C"
+      ],
+      "Guid": [
+        "58666d64-e932-5940-8826-9c170afb99f5",
+        "f5929715-287d-530f-9f7d-c68f54ce870d",
+        "be72699f-2059-515a-b23e-b42dcc571946",
+        "209853a4-cda8-551c-bdc0-ccac06fec8a2"
+      ],
+      "Plugin": "elantp",
+      "Protocols": [
+        "tw.com.emc.elantp"
+      ],
+      "Flags": [
+        "internal",
+        "updatable",
+        "can-emulation-tag"
+      ],
+      "Vendor": "Elan",
+      "VendorIds": [
+        "I2C:0x04F3"
+      ],
+      "Version": "0x0002",
+      "VersionBootloader": "0x0002",
+      "VersionFormat": "hex",
+      "VersionRaw": 2,
+      "Icons": [
+        "input-touchpad"
+      ],
+      "Created": 1790632359
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+2026-09-12T17:21:12.835859Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:162] OnSuspendImminent(100532225)
+2026-09-12T17:21:12.835899Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:1733] OnSuspendActionsComplete: Success
+2026-09-12T17:21:12.835928Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:289] ReportSuspendReadinessInternal(100532227, 100532225, dark=false)
+2026-09-12T17:21:12.837190Z NOTICE ModemManager[1888]: <msg> [sleep-monitor-powerd] system suspend signal from powerd
+2026-09-12T17:21:50.844149Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:214] OnDarkSuspendImminent(100564993)
+2026-09-12T17:21:50.844200Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:1742] OnDarkResumeActionsComplete: Success
+2026-09-12T17:21:50.844226Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:289] ReportSuspendReadinessInternal(100564993, 100564993, dark=true)
+2026-09-12T17:44:42.310832Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:214] OnDarkSuspendImminent(100564994)
+2026-09-12T17:44:42.310881Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:1742] OnDarkResumeActionsComplete: Success
+2026-09-12T17:44:42.310906Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:289] ReportSuspendReadinessInternal(100564993, 100564994, dark=true)
+2026-09-12T17:48:52.450174Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:184] OnSuspendDone(100532225, 0 s)
+2026-09-12T17:48:52.450265Z NOTICE ModemManager[1888]: <msg> [sleep-monitor-powerd] system resume signal from powerd
+2026-09-12T17:49:00.109901Z NOTICE ModemManager[1888]: <msg> [sleep-monitor-powerd] system suspend signal from powerd
+2026-09-12T17:49:00.110247Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:162] OnSuspendImminent(100532226)
+2026-09-12T17:49:00.110281Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:1733] OnSuspendActionsComplete: Success
+2026-09-12T17:49:00.110309Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:289] ReportSuspendReadinessInternal(100532227, 100532226, dark=false)
+2026-09-12T18:07:14.442970Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:184] OnSuspendDone(100532226, 0 s)
+2026-09-12T18:07:14.446209Z NOTICE ModemManager[1888]: <msg> [sleep-monitor-powerd] system resume signal from powerd
+2026-09-12T20:47:42.481742Z NOTICE ModemManager[1888]: <msg> [sleep-monitor-powerd] system suspend signal from powerd
+2026-09-12T20:47:42.482654Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:162] OnSuspendImminent(100532227)
+2026-09-12T20:47:42.482714Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:1733] OnSuspendActionsComplete: Success
+2026-09-12T20:47:42.482746Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:289] ReportSuspendReadinessInternal(100532227, 100532227, dark=false)
+2026-09-12T20:48:44.232876Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:214] OnDarkSuspendImminent(100564995)
+2026-09-12T20:48:44.232898Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:1742] OnDarkResumeActionsComplete: Success
+2026-09-12T20:48:44.232909Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:289] ReportSuspendReadinessInternal(100564993, 100564995, dark=true)
+2026-09-12T20:48:45.902397Z NOTICE ModemManager[1888]: <msg> [sleep-monitor-powerd] system resume signal from powerd
+2026-09-12T20:48:45.903615Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:184] OnSuspendDone(100532227, 0 s)
+2026-09-12T20:48:48.435677Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:162] OnSuspendImminent(100532228)
+2026-09-12T20:48:48.435761Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:1733] OnSuspendActionsComplete: Success
+2026-09-12T20:48:48.435835Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:289] ReportSuspendReadinessInternal(100532227, 100532228, dark=false)
+2026-09-12T20:48:48.435899Z NOTICE ModemManager[1888]: <msg> [sleep-monitor-powerd] system suspend signal from powerd
+2026-09-12T21:13:32.526531Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:184] OnSuspendDone(100532228, 0 s)
+2026-09-12T21:13:32.530673Z NOTICE ModemManager[1888]: <msg> [sleep-monitor-powerd] system resume signal from powerd
+2026-09-12T21:13:37.413897Z NOTICE ModemManager[1888]: <msg> [sleep-monitor-powerd] system suspend signal from powerd
+2026-09-12T21:13:37.416524Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:162] OnSuspendImminent(100532229)
+2026-09-12T21:13:37.416682Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:1733] OnSuspendActionsComplete: Success
+2026-09-12T21:13:37.416789Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:289] ReportSuspendReadinessInternal(100532227, 100532229, dark=false)
+2026-09-12T21:13:59.112089Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:214] OnDarkSuspendImminent(100564996)
+2026-09-12T21:13:59.112140Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:1742] OnDarkResumeActionsComplete: Success
+2026-09-12T21:13:59.112164Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:289] ReportSuspendReadinessInternal(100564993, 100564996, dark=true)
+2026-09-12T21:14:09.015426Z NOTICE ModemManager[1888]: <msg> [sleep-monitor-powerd] system resume signal from powerd
+2026-09-12T21:14:09.015903Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:184] OnSuspendDone(100532229, 0 s)
+2026-09-12T23:42:15.741221Z INFO hermes[866]: Shutdown
+2026-09-12T23:42:15.742014Z INFO hermes[866]: Transitioning from state Uninitialized to state Uninitialized
+2026-09-12T23:42:15.742067Z INFO hermes[866]: Uninhibiting in 0 seconds.
+2026-09-12T23:42:15.823239Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/shill_daemon.cc:32] ShillDaemon received shutdown.
+2026-09-12T23:42:16.015805Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:154] Stop
+2026-09-12T23:42:16.015870Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:50] Stop
+2026-09-12T23:42:16.026941Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:100] Disconnect
+2026-09-12T23:42:16.030469Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:60] Stop
+2026-09-12T23:42:16.030527Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:262] UnregisterSuspendDelayInternal(100532227, dark=false)
+2026-09-12T23:42:16.042665Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:262] UnregisterSuspendDelayInternal(100564993, dark=true)
+2026-09-12T23:42:16.056477Z INFO shill[965]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/shill_main.cc:120] Process exiting.
+2026-09-12T23:42:16.064325Z WARNING dnsproxyd[1837]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:264] Shill has been shutdown
+2026-09-12T23:42:16.065561Z WARNING dnsproxyd[2018]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:437] {system:_} Shill has been shutdown
+2026-09-12T23:42:16.065840Z WARNING dnsproxyd[2019]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:437] {default:_} Shill has been shutdown
+2026-09-12T23:42:16.070173Z ERR dnsproxyd[2019]: ERROR dnsproxyd: [../libchrome-0.0.1/platform2/libchrome/dbus/object_proxy.cc:572] Failed to call method: org.chromium.flimflam.Manager.GetProperties: object_path= /: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.flimflam was not provided by any .service files
+2026-09-12T23:42:16.070198Z ERR dnsproxyd[2019]: ERROR dnsproxyd: [/build/corsola/usr/include/brillo/dbus/dbus_method_invoker.h:114] CallMethodAndBlockWithTimeout(...): Domain=dbus, Code=org.freedesktop.DBus.Error.ServiceUnknown, Message=Error calling D-Bus method: org.chromium.flimflam.Manager.GetProperties: The name org.chromium.flimflam was not provided by any .service files
+2026-09-12T23:42:16.070209Z WARNING dnsproxyd[2019]: WARNING dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:369] Unable to get shill Manager properties, likely because shill is unavailable
+2026-09-12T23:42:16.070679Z ERR dnsproxyd[2018]: ERROR dnsproxyd: [../libchrome-0.0.1/platform2/libchrome/dbus/object_proxy.cc:572] Failed to call method: org.chromium.flimflam.Manager.GetProperties: object_path= /: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.flimflam was not provided by any .service files
+2026-09-12T23:42:16.070710Z ERR dnsproxyd[2018]: ERROR dnsproxyd: [/build/corsola/usr/include/brillo/dbus/dbus_method_invoker.h:114] CallMethodAndBlockWithTimeout(...): Domain=dbus, Code=org.freedesktop.DBus.Error.ServiceUnknown, Message=Error calling D-Bus method: org.chromium.flimflam.Manager.GetProperties: The name org.chromium.flimflam was not provided by any .service files
+2026-09-12T23:42:16.070723Z WARNING dnsproxyd[2018]: WARNING dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:369] Unable to get shill Manager properties, likely because shill is unavailable
+2026-09-12T23:42:23.917150Z INFO patchpaneld[1940]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/patchpanel_adaptor.cc:395] Termina VM shutting down
+2026-09-12T23:42:23.964934Z INFO patchpaneld[1940]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/crostini_service.cc:223] Stop {id: 32, vm_type: Termina}: VM network service stopped on vmtap0
+2026-09-13T00:15:59.728066Z NOTICE wpa_supplicant[757]: Successfully initialized wpa_supplicant
+2026-09-13T00:16:00.687664Z NOTICE hermes[1275]: Starting post-start script.
+2026-09-13T00:16:00.694115Z INFO hermes[1260]: Initialize
+2026-09-13T00:16:00.694299Z INFO hermes[1260]: Transitioning from state Uninitialized to state Uninitialized
+2026-09-13T00:16:00.700222Z NOTICE hermes[1290]: Variant: 
+2026-09-13T00:16:00.701876Z NOTICE hermes[1291]: Skip non cellular SKU.
+2026-09-13T00:16:00.754280Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:348] Start
+2026-09-13T00:16:00.756533Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: SuspendImminentsuccess: 1
+2026-09-13T00:16:00.756855Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: SuspendDonesuccess: 1
+2026-09-13T00:16:00.757216Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: DarkSuspendImminentsuccess: 1
+2026-09-13T00:16:00.763209Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:552] PushProfileInternal: default profile.
+2026-09-13T00:16:00.764565Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:599] PushProfileInternal: finished; 1 profile(s) now present.
+2026-09-13T00:16:00.764674Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:40] Start
+2026-09-13T00:16:00.766364Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/service.cc:1389] unselected ethernet_4 sid=none SetAutoConnect: 1
+2026-09-13T00:16:00.766711Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:150] Start
+2026-09-13T00:16:00.767895Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem.cc:128] ShouldCreateCellularDeviceNot creating cellular device for non-cellular variant.
+2026-09-13T00:16:01.105193Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:491] SetAllowed Allowed set to true
+2026-09-13T00:16:01.105231Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:154] Stop
+2026-09-13T00:16:01.470384Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:230] OnPowerManagerAppeared
+2026-09-13T00:16:02.478055Z INFO patchpanel_bpf_loader[1816]: Pinned bpf program match_dtls_srtp at /sys/fs/bpf/patchpanel/match_dtls_srtp
+2026-09-13T00:16:02.501607Z INFO dnsproxyd[1828]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:95] Starting DNS Proxy service
+2026-09-13T00:16:02.507867Z INFO dnsproxyd[1828]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-13T00:16:02.623538Z INFO patchpaneld[1917]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:75] Starting patchpanel D-Bus daemon
+2026-09-13T00:16:02.649586Z NOTICE ModemManager[1905]: <msg> ModemManager (version 1.24.0) starting in system bus...
+2026-09-13T00:16:02.665170Z INFO patchpaneld[1961]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:55] Spawning nd proxy
+2026-09-13T00:16:02.667337Z INFO patchpaneld[1961]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/ndproxy.cc:860] Started watching on packet fd...
+2026-09-13T00:16:02.669708Z INFO patchpaneld[1959]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:48] Spawning adb proxy
+2026-09-13T00:16:02.678859Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:100] OnServiceOwnerChanged old:  new: :1.80
+2026-09-13T00:16:02.678878Z INFO patchpaneld[1962]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:69] Spawning socket D-Bus daemon
+2026-09-13T00:16:02.678884Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:86] OnServiceAvailable: 1
+2026-09-13T00:16:02.678903Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:86] OnServiceAvailable: 1
+2026-09-13T00:16:02.678943Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:125] OnAppeared
+2026-09-13T00:16:02.678949Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:92] Connect
+2026-09-13T00:16:02.678981Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:125] OnAppeared
+2026-09-13T00:16:02.678986Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:92] Connect
+2026-09-13T00:16:02.710734Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:168] OnGetManagedObjectsReply: 1
+2026-09-13T00:16:02.711637Z INFO hermes[1260]: WaitForModemStepLast: Waiting for modem...
+2026-09-13T00:16:02.711948Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:168] OnGetManagedObjectsReply: 1
+2026-09-13T00:16:02.719199Z INFO patchpaneld[1960]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:62] Spawning multicast proxy
+2026-09-13T00:16:02.801745Z INFO dnsproxyd[1828]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:191] Service enabled by feature flag
+2026-09-13T00:16:02.802729Z INFO dnsproxyd[1828]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:208] Service is running on root namespace
+2026-09-13T00:16:02.815778Z INFO dnsproxyd[1828]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:360] Launched process for proxy {system:}(pid: 2017)
+2026-09-13T00:16:02.822330Z INFO dnsproxyd[1828]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:360] Launched process for proxy {default:}(pid: 2020)
+2026-09-13T00:16:02.846308Z WARNING dnsproxyd[2017]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/net-base-0.0.1-r305/work/net-base-0.0.1/net-base/socket.cc:257] Failed to increase receive buffer size to 3145728b: Operation not permitted (1)
+2026-09-13T00:16:02.846505Z INFO dnsproxyd[2017]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:195] {system:_} Starting DNS proxy
+2026-09-13T00:16:02.853388Z WARNING dnsproxyd[2020]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/net-base-0.0.1-r305/work/net-base-0.0.1/net-base/socket.cc:257] Failed to increase receive buffer size to 3145728b: Operation not permitted (1)
+2026-09-13T00:16:02.853485Z INFO dnsproxyd[2020]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:195] {default:_} Starting DNS proxy
+2026-09-13T00:16:02.880592Z INFO patchpaneld[1917]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:71] ConntrackMonitor started
+2026-09-13T00:16:02.880623Z INFO patchpaneld[1917]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:195] ConntrackMonitor added listener
+2026-09-13T00:16:02.922572Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:2979] OnPatchpanelClientReady
+2026-09-13T00:16:02.926176Z INFO dnsproxyd[2020]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-13T00:16:02.926177Z INFO dnsproxyd[2017]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-13T00:16:02.926297Z INFO dnsproxyd[2017]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/patchpanel-client-0.0.1-r1219/work/patchpanel-client-0.0.1/patchpanel/dbus/client.cc:1030] Patchpanel reset
+2026-09-13T00:16:02.926536Z WARNING dnsproxyd[2017]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:368] {system:_} Patchpanel has been reset
+2026-09-13T00:16:02.926732Z INFO dnsproxyd[2020]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/patchpanel-client-0.0.1-r1219/work/patchpanel-client-0.0.1/patchpanel/dbus/client.cc:1030] Patchpanel reset
+2026-09-13T00:16:02.926868Z WARNING dnsproxyd[2020]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:368] {default:_} Patchpanel has been reset
+2026-09-13T00:16:02.933837Z INFO patchpaneld[1917]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:195] ConntrackMonitor added listener
+2026-09-13T00:16:02.933856Z INFO patchpaneld[1917]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:1192] SetFeatureFlag: set WiFi QoS to 1 from 0
+2026-09-13T00:16:02.934385Z INFO dnsproxyd[1828]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/patchpanel-client-0.0.1-r1219/work/patchpanel-client-0.0.1/patchpanel/dbus/client.cc:1030] Patchpanel reset
+2026-09-13T00:16:02.934399Z WARNING dnsproxyd[1828]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:234] Patchpanel has been reset
+2026-09-13T00:16:03.921079Z INFO patchpaneld[1917]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:175] RunDelayedInitialization: start
+2026-09-13T00:16:03.922394Z INFO patchpaneld[1917]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:198] RunDelayedInitialization: finished
+2026-09-13T00:16:07.734506Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:559] PushProfileInternal: user profile: chronos
+2026-09-13T00:16:07.740798Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/tethering_manager.cc:1364] Tethering config is not available in the persistent store, use default config
+2026-09-13T00:16:07.741718Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:599] PushProfileInternal: finished; 2 profile(s) now present.
+2026-09-13T00:16:07.742581Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:3007] Setting ARC always-on VPN package: ""
+2026-09-13T00:16:08.071707Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:2185] ScanAndConnectToBestServices: no WiFi device available
+2026-09-13T00:16:24.923297Z INFO patchpaneld[1917]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/patchpanel_adaptor.cc:407] TerminaVmStartup(cid: 32)
+2026-09-13T00:16:24.974572Z INFO patchpaneld[1917]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/crostini_service.cc:177] Start {id: 32, vm_type: Termina}: VM network service started on vmtap0 with VM subnet: 100.115.92.24/30, LXD subnet: 100.115.92.192/28
+2026-09-13T01:40:49.157607Z INFO hermes[1260]: Shutdown
+2026-09-13T01:40:49.157673Z INFO hermes[1260]: Transitioning from state Uninitialized to state Uninitialized
+2026-09-13T01:40:49.162269Z INFO hermes[1260]: Uninhibiting in 0 seconds.
+2026-09-13T01:40:49.206671Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/shill_daemon.cc:32] ShillDaemon received shutdown.
+2026-09-13T01:40:49.219123Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:154] Stop
+2026-09-13T01:40:49.219172Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:50] Stop
+2026-09-13T01:40:49.239149Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:100] Disconnect
+2026-09-13T01:40:49.239210Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:60] Stop
+2026-09-13T01:40:49.239232Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:262] UnregisterSuspendDelayInternal(86900737, dark=false)
+2026-09-13T01:40:49.241971Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:262] UnregisterSuspendDelayInternal(86933505, dark=true)
+2026-09-13T01:40:49.247769Z INFO shill[1259]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/shill_main.cc:120] Process exiting.
+2026-09-13T01:40:49.249314Z WARNING dnsproxyd[2020]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:437] {default:_} Shill has been shutdown
+2026-09-13T01:40:49.249754Z WARNING dnsproxyd[1828]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:264] Shill has been shutdown
+2026-09-13T01:40:49.250943Z WARNING dnsproxyd[2017]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:437] {system:_} Shill has been shutdown
+2026-09-13T01:40:49.253484Z ERR dnsproxyd[2020]: ERROR dnsproxyd: [../libchrome-0.0.1/platform2/libchrome/dbus/object_proxy.cc:572] Failed to call method: org.chromium.flimflam.Manager.GetProperties: object_path= /: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.flimflam was not provided by any .service files
+2026-09-13T01:40:49.253532Z ERR dnsproxyd[2020]: ERROR dnsproxyd: [/build/corsola/usr/include/brillo/dbus/dbus_method_invoker.h:114] CallMethodAndBlockWithTimeout(...): Domain=dbus, Code=org.freedesktop.DBus.Error.ServiceUnknown, Message=Error calling D-Bus method: org.chromium.flimflam.Manager.GetProperties: The name org.chromium.flimflam was not provided by any .service files
+2026-09-13T01:40:49.253558Z WARNING dnsproxyd[2020]: WARNING dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:369] Unable to get shill Manager properties, likely because shill is unavailable
+2026-09-13T01:40:49.259466Z ERR dnsproxyd[2017]: ERROR dnsproxyd: [../libchrome-0.0.1/platform2/libchrome/dbus/object_proxy.cc:572] Failed to call method: org.chromium.flimflam.Manager.GetProperties: object_path= /: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.flimflam was not provided by any .service files
+2026-09-13T01:40:49.259512Z ERR dnsproxyd[2017]: ERROR dnsproxyd: [/build/corsola/usr/include/brillo/dbus/dbus_method_invoker.h:114] CallMethodAndBlockWithTimeout(...): Domain=dbus, Code=org.freedesktop.DBus.Error.ServiceUnknown, Message=Error calling D-Bus method: org.chromium.flimflam.Manager.GetProperties: The name org.chromium.flimflam was not provided by any .service files
+2026-09-13T01:40:49.259537Z WARNING dnsproxyd[2017]: WARNING dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:369] Unable to get shill Manager properties, likely because shill is unavailable
+2026-09-13T01:40:59.817088Z INFO patchpaneld[1917]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/patchpanel_adaptor.cc:395] Termina VM shutting down
+2026-09-13T01:40:59.862479Z INFO patchpaneld[1917]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/crostini_service.cc:223] Stop {id: 32, vm_type: Termina}: VM network service stopped on vmtap0
+2026-09-13T02:07:12.628148Z NOTICE wpa_supplicant[764]: Successfully initialized wpa_supplicant
+2026-09-13T02:07:13.548689Z NOTICE hermes[1056]: Starting post-start script.
+2026-09-13T02:07:13.559801Z NOTICE hermes[1069]: Variant: 
+2026-09-13T02:07:13.561509Z NOTICE hermes[1073]: Skip non cellular SKU.
+2026-09-13T02:07:13.563924Z INFO hermes[1050]: Initialize
+2026-09-13T02:07:13.563957Z INFO hermes[1050]: Transitioning from state Uninitialized to state Uninitialized
+2026-09-13T02:07:13.596819Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:348] Start
+2026-09-13T02:07:13.601038Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: SuspendImminentsuccess: 1
+2026-09-13T02:07:13.601736Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: SuspendDonesuccess: 1
+2026-09-13T02:07:13.602112Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: DarkSuspendImminentsuccess: 1
+2026-09-13T02:07:13.612625Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:552] PushProfileInternal: default profile.
+2026-09-13T02:07:13.614924Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:599] PushProfileInternal: finished; 1 profile(s) now present.
+2026-09-13T02:07:13.615007Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:40] Start
+2026-09-13T02:07:13.616649Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/service.cc:1389] unselected ethernet_4 sid=none SetAutoConnect: 1
+2026-09-13T02:07:13.617031Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:150] Start
+2026-09-13T02:07:13.618038Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem.cc:128] ShouldCreateCellularDeviceNot creating cellular device for non-cellular variant.
+2026-09-13T02:07:14.242982Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:230] OnPowerManagerAppeared
+2026-09-13T02:07:14.286770Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:491] SetAllowed Allowed set to true
+2026-09-13T02:07:14.286809Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:154] Stop
+2026-09-13T02:07:15.577688Z INFO dnsproxyd[1830]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:95] Starting DNS Proxy service
+2026-09-13T02:07:15.584059Z INFO dnsproxyd[1830]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-13T02:07:15.617448Z NOTICE ModemManager[1849]: <msg> ModemManager (version 1.24.0) starting in system bus...
+2026-09-13T02:07:15.628791Z INFO patchpanel_bpf_loader[1821]: Pinned bpf program match_dtls_srtp at /sys/fs/bpf/patchpanel/match_dtls_srtp
+2026-09-13T02:07:15.661880Z INFO dnsproxyd[1830]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:191] Service enabled by feature flag
+2026-09-13T02:07:15.664335Z INFO dnsproxyd[1830]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:208] Service is running on root namespace
+2026-09-13T02:07:15.668280Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:100] OnServiceOwnerChanged old:  new: :1.74
+2026-09-13T02:07:15.668313Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:86] OnServiceAvailable: 1
+2026-09-13T02:07:15.668345Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:86] OnServiceAvailable: 1
+2026-09-13T02:07:15.668371Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:125] OnAppeared
+2026-09-13T02:07:15.668380Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:92] Connect
+2026-09-13T02:07:15.668429Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:125] OnAppeared
+2026-09-13T02:07:15.668436Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:92] Connect
+2026-09-13T02:07:15.689291Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:168] OnGetManagedObjectsReply: 1
+2026-09-13T02:07:15.689349Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:168] OnGetManagedObjectsReply: 1
+2026-09-13T02:07:15.689597Z INFO hermes[1050]: WaitForModemStepLast: Waiting for modem...
+2026-09-13T02:07:15.691622Z INFO dnsproxyd[1830]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:360] Launched process for proxy {system:}(pid: 1983)
+2026-09-13T02:07:15.694061Z INFO dnsproxyd[1830]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:360] Launched process for proxy {default:}(pid: 1984)
+2026-09-13T02:07:15.717437Z INFO patchpaneld[1961]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:75] Starting patchpanel D-Bus daemon
+2026-09-13T02:07:15.726215Z WARNING dnsproxyd[1984]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/net-base-0.0.1-r305/work/net-base-0.0.1/net-base/socket.cc:257] Failed to increase receive buffer size to 3145728b: Operation not permitted (1)
+2026-09-13T02:07:15.726403Z INFO dnsproxyd[1984]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:195] {default:_} Starting DNS proxy
+2026-09-13T02:07:15.762111Z INFO patchpaneld[1995]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:55] Spawning nd proxy
+2026-09-13T02:07:15.763971Z INFO patchpaneld[1995]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/ndproxy.cc:860] Started watching on packet fd...
+2026-09-13T02:07:15.766353Z WARNING dnsproxyd[1983]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/net-base-0.0.1-r305/work/net-base-0.0.1/net-base/socket.cc:257] Failed to increase receive buffer size to 3145728b: Operation not permitted (1)
+2026-09-13T02:07:15.766545Z INFO dnsproxyd[1983]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:195] {system:_} Starting DNS proxy
+2026-09-13T02:07:15.772158Z INFO patchpaneld[1994]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:62] Spawning multicast proxy
+2026-09-13T02:07:15.781133Z INFO patchpaneld[1996]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:69] Spawning socket D-Bus daemon
+2026-09-13T02:07:15.781134Z INFO patchpaneld[1992]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:48] Spawning adb proxy
+2026-09-13T02:07:15.913116Z INFO patchpaneld[1961]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:71] ConntrackMonitor started
+2026-09-13T02:07:15.913147Z INFO patchpaneld[1961]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:195] ConntrackMonitor added listener
+2026-09-13T02:07:15.972970Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:2979] OnPatchpanelClientReady
+2026-09-13T02:07:15.994031Z INFO dnsproxyd[1830]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/patchpanel-client-0.0.1-r1219/work/patchpanel-client-0.0.1/patchpanel/dbus/client.cc:1030] Patchpanel reset
+2026-09-13T02:07:15.994075Z WARNING dnsproxyd[1830]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:234] Patchpanel has been reset
+2026-09-13T02:07:15.997524Z INFO dnsproxyd[1983]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-13T02:07:15.997728Z INFO dnsproxyd[1983]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/patchpanel-client-0.0.1-r1219/work/patchpanel-client-0.0.1/patchpanel/dbus/client.cc:1030] Patchpanel reset
+2026-09-13T02:07:15.998025Z WARNING dnsproxyd[1983]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:368] {system:_} Patchpanel has been reset
+2026-09-13T02:07:16.002558Z INFO dnsproxyd[1984]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-13T02:07:16.030117Z INFO dnsproxyd[1984]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/patchpanel-client-0.0.1-r1219/work/patchpanel-client-0.0.1/patchpanel/dbus/client.cc:1030] Patchpanel reset
+2026-09-13T02:07:16.030236Z WARNING dnsproxyd[1984]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:368] {default:_} Patchpanel has been reset
+2026-09-13T02:07:16.047829Z INFO patchpaneld[1961]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:195] ConntrackMonitor added listener
+2026-09-13T02:07:16.047887Z INFO patchpaneld[1961]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:1192] SetFeatureFlag: set WiFi QoS to 1 from 0
+2026-09-13T02:07:16.969534Z INFO patchpaneld[1961]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:175] RunDelayedInitialization: start
+2026-09-13T02:07:16.971279Z INFO patchpaneld[1961]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:198] RunDelayedInitialization: finished
+2026-09-13T02:07:25.983853Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:559] PushProfileInternal: user profile: chronos
+2026-09-13T02:07:25.984053Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/tethering_manager.cc:1364] Tethering config is not available in the persistent store, use default config
+2026-09-13T02:07:25.984466Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:599] PushProfileInternal: finished; 2 profile(s) now present.
+2026-09-13T02:07:25.984822Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:3007] Setting ARC always-on VPN package: ""
+2026-09-13T02:07:26.436211Z INFO shill[1055]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:2185] ScanAndConnectToBestServices: no WiFi device available
+2026-09-13T02:07:56.411572Z INFO patchpaneld[1961]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/patchpanel_adaptor.cc:407] TerminaVmStartup(cid: 32)
+2026-09-13T02:07:56.456797Z INFO patchpaneld[1961]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/crostini_service.cc:177] Start {id: 32, vm_type: Termina}: VM network service started on vmtap0 with VM subnet: 100.115.92.24/30, LXD subnet: 100.115.92.192/28
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            2026-09-13T04:54:30.466511Z NOTICE wpa_supplicant[781]: Successfully initialized wpa_supplicant
+2026-09-13T04:54:30.554235Z NOTICE hermes[884]: Starting post-start script.
+2026-09-13T04:54:30.570939Z NOTICE hermes[903]: Variant: 
+2026-09-13T04:54:30.572018Z NOTICE hermes[906]: Skip non cellular SKU.
+2026-09-13T04:54:30.589907Z INFO hermes[878]: Initialize
+2026-09-13T04:54:30.589953Z INFO hermes[878]: Transitioning from state Uninitialized to state Uninitialized
+2026-09-13T04:54:30.667711Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:348] Start
+2026-09-13T04:54:30.670994Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: SuspendImminentsuccess: 1
+2026-09-13T04:54:30.671227Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: SuspendDonesuccess: 1
+2026-09-13T04:54:30.671660Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: DarkSuspendImminentsuccess: 1
+2026-09-13T04:54:31.359167Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:552] PushProfileInternal: default profile.
+2026-09-13T04:54:31.361734Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:599] PushProfileInternal: finished; 1 profile(s) now present.
+2026-09-13T04:54:31.361856Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:40] Start
+2026-09-13T04:54:31.366696Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/service.cc:1389] unselected ethernet_4 sid=none SetAutoConnect: 1
+2026-09-13T04:54:31.367582Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:150] Start
+2026-09-13T04:54:31.370462Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem.cc:128] ShouldCreateCellularDeviceNot creating cellular device for non-cellular variant.
+2026-09-13T04:54:31.550406Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:491] SetAllowed Allowed set to true
+2026-09-13T04:54:31.550482Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:154] Stop
+2026-09-13T04:54:32.956670Z INFO patchpanel_bpf_loader[1825]: Pinned bpf program match_dtls_srtp at /sys/fs/bpf/patchpanel/match_dtls_srtp
+2026-09-13T04:54:33.006666Z NOTICE ModemManager[1842]: <msg> ModemManager (version 1.24.0) starting in system bus...
+2026-09-13T04:54:33.035108Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:100] OnServiceOwnerChanged old:  new: :1.73
+2026-09-13T04:54:33.035164Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:86] OnServiceAvailable: 1
+2026-09-13T04:54:33.035211Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:86] OnServiceAvailable: 1
+2026-09-13T04:54:33.035256Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:125] OnAppeared
+2026-09-13T04:54:33.035275Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:92] Connect
+2026-09-13T04:54:33.035354Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:125] OnAppeared
+2026-09-13T04:54:33.035372Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:92] Connect
+2026-09-13T04:54:33.052652Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:75] Starting patchpanel D-Bus daemon
+2026-09-13T04:54:33.055345Z INFO hermes[878]: WaitForModemStepLast: Waiting for modem...
+2026-09-13T04:54:33.056324Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:168] OnGetManagedObjectsReply: 1
+2026-09-13T04:54:33.056401Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:168] OnGetManagedObjectsReply: 1
+2026-09-13T04:54:33.075082Z INFO dnsproxyd[1827]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:95] Starting DNS Proxy service
+2026-09-13T04:54:33.109320Z INFO dnsproxyd[1827]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-13T04:54:33.126137Z INFO patchpaneld[1957]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:62] Spawning multicast proxy
+2026-09-13T04:54:33.131012Z INFO patchpaneld[1956]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:48] Spawning adb proxy
+2026-09-13T04:54:33.133482Z INFO patchpaneld[1963]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:55] Spawning nd proxy
+2026-09-13T04:54:33.134827Z INFO patchpaneld[1964]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:69] Spawning socket D-Bus daemon
+2026-09-13T04:54:33.136002Z INFO patchpaneld[1963]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/ndproxy.cc:860] Started watching on packet fd...
+2026-09-13T04:54:33.383355Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:71] ConntrackMonitor started
+2026-09-13T04:54:33.383395Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:195] ConntrackMonitor added listener
+2026-09-13T04:54:33.419865Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:2979] OnPatchpanelClientReady
+2026-09-13T04:54:33.426347Z INFO dnsproxyd[1827]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/patchpanel-client-0.0.1-r1219/work/patchpanel-client-0.0.1/patchpanel/dbus/client.cc:1030] Patchpanel reset
+2026-09-13T04:54:33.426573Z WARNING dnsproxyd[1827]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:234] Patchpanel has been reset
+2026-09-13T04:54:33.426832Z INFO dnsproxyd[1827]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:191] Service enabled by feature flag
+2026-09-13T04:54:33.427054Z INFO dnsproxyd[1827]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:208] Service is running on root namespace
+2026-09-13T04:54:33.429924Z INFO dnsproxyd[1827]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:360] Launched process for proxy {default:}(pid: 2063)
+2026-09-13T04:54:33.431417Z INFO dnsproxyd[1827]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:360] Launched process for proxy {system:}(pid: 2064)
+2026-09-13T04:54:33.449070Z WARNING dnsproxyd[2064]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/net-base-0.0.1-r305/work/net-base-0.0.1/net-base/socket.cc:257] Failed to increase receive buffer size to 3145728b: Operation not permitted (1)
+2026-09-13T04:54:33.449178Z INFO dnsproxyd[2064]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:195] {system:_} Starting DNS proxy
+2026-09-13T04:54:33.466266Z WARNING dnsproxyd[2063]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/net-base-0.0.1-r305/work/net-base-0.0.1/net-base/socket.cc:257] Failed to increase receive buffer size to 3145728b: Operation not permitted (1)
+2026-09-13T04:54:33.466409Z INFO dnsproxyd[2063]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:195] {default:_} Starting DNS proxy
+2026-09-13T04:54:33.466849Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:195] ConntrackMonitor added listener
+2026-09-13T04:54:33.466889Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:1192] SetFeatureFlag: set WiFi QoS to 1 from 0
+2026-09-13T04:54:33.483214Z INFO dnsproxyd[2064]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-13T04:54:33.484901Z INFO dnsproxyd[2063]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-13T04:54:34.419378Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:175] RunDelayedInitialization: start
+2026-09-13T04:54:34.421204Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:198] RunDelayedInitialization: finished
+2026-09-13T04:54:39.245553Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:230] OnPowerManagerAppeared
+2026-09-13T04:54:41.238873Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:3007] Setting ARC always-on VPN package: ""
+2026-09-13T04:54:41.397850Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:559] PushProfileInternal: user profile: chronos
+2026-09-13T04:54:41.398130Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/tethering_manager.cc:1364] Tethering config is not available in the persistent store, use default config
+2026-09-13T04:54:41.399165Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:599] PushProfileInternal: finished; 2 profile(s) now present.
+2026-09-13T04:54:42.044111Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:2185] ScanAndConnectToBestServices: no WiFi device available
+2026-09-13T04:54:51.532810Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/patchpanel_adaptor.cc:407] TerminaVmStartup(cid: 32)
+2026-09-13T04:54:51.575217Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/crostini_service.cc:177] Start {id: 32, vm_type: Termina}: VM network service started on vmtap0 with VM subnet: 100.115.92.24/30, LXD subnet: 100.115.92.192/28
+2026-09-13T04:55:14.815913Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/patchpanel_adaptor.cc:395] Termina VM shutting down
+2026-09-13T04:55:14.834571Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/device_info.cc:1213] DeregisterDevice index: 2
+2026-09-13T04:55:14.867335Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/crostini_service.cc:223] Stop {id: 32, vm_type: Termina}: VM network service stopped on vmtap0
+2026-09-13T04:55:18.103977Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/patchpanel_adaptor.cc:407] TerminaVmStartup(cid: 33)
+2026-09-13T04:55:18.128920Z INFO patchpaneld[1904]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/crostini_service.cc:177] Start {id: 33, vm_type: Termina}: VM network service started on vmtap0 with VM subnet: 100.115.92.24/30, LXD subnet: 100.115.92.192/28
+2026-09-13T07:59:02.768133Z NOTICE ModemManager[1842]: <msg> [sleep-monitor-powerd] system suspend signal from powerd
+2026-09-13T07:59:02.768425Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:162] OnSuspendImminent(58982401)
+2026-09-13T07:59:02.768519Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:1733] OnSuspendActionsComplete: Success
+2026-09-13T07:59:02.768592Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:289] ReportSuspendReadinessInternal(58982403, 58982401, dark=false)
+2026-09-13T08:08:30.236068Z INFO shill[978]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:184] OnSuspendDone(58982401, 0 s)
+2026-09-13T08:08:30.237829Z NOTICE ModemManager[1842]: <msg> [sleep-monitor-powerd] system resume signal from powerd
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      2026-09-16T22:03:16.903602Z NOTICE wpa_supplicant[771]: Successfully initialized wpa_supplicant
+2026-09-16T22:03:17.004481Z NOTICE hermes[902]: Starting post-start script.
+2026-09-16T22:03:17.010655Z NOTICE hermes[915]: Variant: 
+2026-09-16T22:03:17.013211Z NOTICE hermes[919]: Skip non cellular SKU.
+2026-09-16T22:03:17.035140Z INFO hermes[892]: Initialize
+2026-09-16T22:03:17.035184Z INFO hermes[892]: Transitioning from state Uninitialized to state Uninitialized
+2026-09-16T22:03:17.109474Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:348] Start
+2026-09-16T22:03:17.112456Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: SuspendImminentsuccess: 1
+2026-09-16T22:03:17.112759Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: SuspendDonesuccess: 1
+2026-09-16T22:03:17.112997Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/power_manager_proxy.cc:421] OnSignalConnected interface: org.chromium.PowerManager signal: DarkSuspendImminentsuccess: 1
+2026-09-16T22:03:17.839093Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:552] PushProfileInternal: default profile.
+2026-09-16T22:03:17.841124Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:599] PushProfileInternal: finished; 1 profile(s) now present.
+2026-09-16T22:03:17.841237Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:40] Start
+2026-09-16T22:03:17.843848Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/service.cc:1389] unselected ethernet_4 sid=none SetAutoConnect: 1
+2026-09-16T22:03:17.844284Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:150] Start
+2026-09-16T22:03:17.847271Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem.cc:128] ShouldCreateCellularDeviceNot creating cellular device for non-cellular variant.
+2026-09-16T22:03:17.882097Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/power_manager.cc:230] OnPowerManagerAppeared
+2026-09-16T22:03:18.029597Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:491] SetAllowed Allowed set to true
+2026-09-16T22:03:18.029661Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/wifi/p2p_manager.cc:154] Stop
+2026-09-16T22:03:19.447749Z INFO patchpanel_bpf_loader[1853]: Pinned bpf program match_dtls_srtp at /sys/fs/bpf/patchpanel/match_dtls_srtp
+2026-09-16T22:03:19.481233Z INFO dnsproxyd[1860]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:95] Starting DNS Proxy service
+2026-09-16T22:03:19.506019Z INFO dnsproxyd[1860]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-16T22:03:19.538733Z NOTICE ModemManager[1931]: <msg> ModemManager (version 1.24.0) starting in system bus...
+2026-09-16T22:03:19.581520Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:100] OnServiceOwnerChanged old:  new: :1.82
+2026-09-16T22:03:19.581541Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:86] OnServiceAvailable: 1
+2026-09-16T22:03:19.581559Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/dbus_objectmanager_proxy.cc:86] OnServiceAvailable: 1
+2026-09-16T22:03:19.581579Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:125] OnAppeared
+2026-09-16T22:03:19.581586Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:92] Connect
+2026-09-16T22:03:19.581616Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:125] OnAppeared
+2026-09-16T22:03:19.581622Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:92] Connect
+2026-09-16T22:03:19.586810Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:168] OnGetManagedObjectsReply: 1
+2026-09-16T22:03:19.586847Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/cellular/modem_info.cc:168] OnGetManagedObjectsReply: 1
+2026-09-16T22:03:19.587062Z INFO hermes[892]: WaitForModemStepLast: Waiting for modem...
+2026-09-16T22:03:19.600237Z INFO patchpaneld[1979]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:75] Starting patchpanel D-Bus daemon
+2026-09-16T22:03:19.647333Z INFO patchpaneld[2026]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:69] Spawning socket D-Bus daemon
+2026-09-16T22:03:19.651362Z INFO patchpaneld[2023]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:48] Spawning adb proxy
+2026-09-16T22:03:19.659460Z INFO patchpaneld[2024]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:62] Spawning multicast proxy
+2026-09-16T22:03:19.667473Z INFO patchpaneld[2025]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/main.cc:55] Spawning nd proxy
+2026-09-16T22:03:19.669475Z INFO patchpaneld[2025]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/ndproxy.cc:860] Started watching on packet fd...
+2026-09-16T22:03:19.756100Z INFO dnsproxyd[1860]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:191] Service enabled by feature flag
+2026-09-16T22:03:19.756198Z INFO dnsproxyd[1860]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:208] Service is running on root namespace
+2026-09-16T22:03:19.757865Z INFO dnsproxyd[1860]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:360] Launched process for proxy {system:}(pid: 2053)
+2026-09-16T22:03:19.759350Z INFO dnsproxyd[1860]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:360] Launched process for proxy {default:}(pid: 2054)
+2026-09-16T22:03:19.786679Z WARNING dnsproxyd[2053]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/net-base-0.0.1-r305/work/net-base-0.0.1/net-base/socket.cc:257] Failed to increase receive buffer size to 3145728b: Operation not permitted (1)
+2026-09-16T22:03:19.787402Z INFO dnsproxyd[2053]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:195] {system:_} Starting DNS proxy
+2026-09-16T22:03:19.790904Z WARNING dnsproxyd[2054]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/net-base-0.0.1-r305/work/net-base-0.0.1/net-base/socket.cc:257] Failed to increase receive buffer size to 3145728b: Operation not permitted (1)
+2026-09-16T22:03:19.791636Z INFO dnsproxyd[2054]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:195] {default:_} Starting DNS proxy
+2026-09-16T22:03:19.831361Z INFO patchpaneld[1979]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:71] ConntrackMonitor started
+2026-09-16T22:03:19.831417Z INFO patchpaneld[1979]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:195] ConntrackMonitor added listener
+2026-09-16T22:03:19.885960Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:2979] OnPatchpanelClientReady
+2026-09-16T22:03:19.892938Z INFO dnsproxyd[2054]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-16T22:03:19.895467Z INFO dnsproxyd[2054]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/patchpanel-client-0.0.1-r1219/work/patchpanel-client-0.0.1/patchpanel/dbus/client.cc:1030] Patchpanel reset
+2026-09-16T22:03:19.895625Z WARNING dnsproxyd[2054]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:368] {default:_} Patchpanel has been reset
+2026-09-16T22:03:19.896821Z INFO dnsproxyd[2053]: INFO dnsproxyd: [../../../../../../../mnt/host/source/src/platform2/shill/dbus/client/client.cc:403] Default service changed from [] to [/]
+2026-09-16T22:03:19.896904Z INFO dnsproxyd[2053]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/patchpanel-client-0.0.1-r1219/work/patchpanel-client-0.0.1/patchpanel/dbus/client.cc:1030] Patchpanel reset
+2026-09-16T22:03:19.897313Z WARNING dnsproxyd[2053]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/proxy.cc:368] {system:_} Patchpanel has been reset
+2026-09-16T22:03:19.903237Z INFO patchpaneld[1979]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/conntrack_monitor.cc:195] ConntrackMonitor added listener
+2026-09-16T22:03:19.903266Z INFO patchpaneld[1979]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:1192] SetFeatureFlag: set WiFi QoS to 1 from 0
+2026-09-16T22:03:19.904121Z INFO dnsproxyd[1860]: INFO dnsproxyd: [../../../../../tmp/portage/chromeos-base/patchpanel-client-0.0.1-r1219/work/patchpanel-client-0.0.1/patchpanel/dbus/client.cc:1030] Patchpanel reset
+2026-09-16T22:03:19.904171Z WARNING dnsproxyd[1860]: WARNING dnsproxyd: [../../../../../tmp/portage/chromeos-base/dns-proxy-0.0.1-r1080/work/dns-proxy-0.0.1/dns-proxy/controller.cc:234] Patchpanel has been reset
+2026-09-16T22:03:20.884138Z INFO patchpaneld[1979]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:175] RunDelayedInitialization: start
+2026-09-16T22:03:20.885985Z INFO patchpaneld[1979]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/manager.cc:198] RunDelayedInitialization: finished
+2026-09-16T22:03:24.434654Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:559] PushProfileInternal: user profile: chronos
+2026-09-16T22:03:24.434956Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/tethering_manager.cc:1364] Tethering config is not available in the persistent store, use default config
+2026-09-16T22:03:24.435893Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:599] PushProfileInternal: finished; 2 profile(s) now present.
+2026-09-16T22:03:24.436882Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:3007] Setting ARC always-on VPN package: ""
+2026-09-16T22:03:24.838862Z INFO shill[970]: INFO shill: [../../../../../../../mnt/host/source/src/platform2/shill/manager.cc:2185] ScanAndConnectToBestServices: no WiFi device available
+2026-09-16T22:03:34.496514Z INFO patchpaneld[1979]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/patchpanel_adaptor.cc:407] TerminaVmStartup(cid: 32)
+2026-09-16T22:03:34.538657Z INFO patchpaneld[1979]: INFO patchpaneld: [../../../../../tmp/portage/chromeos-base/patchpanel-0.0.2-r1688/work/patchpanel-0.0.2/patchpanel/crostini_service.cc:177] Start {id: 32, vm_type: Termina}: VM network service started on vmtap0 with VM subnet: 100.115.92.24/30, LXD subnet: 100.115.92.192/28

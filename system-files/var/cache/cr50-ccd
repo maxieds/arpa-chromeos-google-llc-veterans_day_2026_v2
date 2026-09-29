@@ -1,0 +1,28 @@
+State: Locked
+Password: None
+Flags: 000000
+Capabilities, current and default:
+  UartGscRxAPTx         Y Always
+  UartGscTxAPRx         Y Always
+  UartGscRxECTx         Y Always
+  UartGscTxECRx         - IfOpened
+  UartGscRxFpmcuTx      Y Always
+  UartGscTxFpmcuRx      - IfOpened
+  FlashAP               - IfOpened
+  FlashEC               - IfOpened
+  OverrideWP            - IfOpened
+  RebootECAP            - IfOpened
+  GscFullConsole        - IfOpened
+  UnlockNoReboot        Y Always
+  UnlockNoShortPP       Y Always
+  OpenNoTPMWipe         - IfOpened
+  OpenNoLongPP          - IfOpened
+  RemoveBatteryBypassPP Y Always
+  I2C                   - IfOpened
+  FlashRead             Y Always
+  OpenNoDevMode         - IfOpened
+  OpenFromUSB           - IfOpened
+  OverrideBatt          - IfOpened
+  AllowUnverifiedRo     - Never
+CCD caps bitmap: 0x29817
+Capabilities are default.

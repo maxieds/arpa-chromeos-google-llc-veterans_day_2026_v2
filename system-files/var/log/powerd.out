@@ -1,0 +1,2 @@
+2026-09-28T21:52:37.515823Z ERROR powerd: [../libchrome-0.0.1/platform2/libchrome/dbus/object_proxy.cc:572] Failed to call method: org.chromium.ChromeFeaturesServiceInterface.IsFeatureEnabled: object_path= /org/chromium/ChromeFeaturesService: org.freedesktop.DBus.Error.InvalidArgs: Chrome can't get state for 'CrOSLateBootLongBluetoothAutosuspend'; feature_library will decide
+2026-09-28T21:52:38.316122Z ERROR set_wifi_transmit_power: [../power_manager-0.0.2/power_manager/powerd/set_wifi_transmit_power.cc:975] No wireless device found

@@ -1,0 +1,16 @@
+2026-09-19T20:56:01.761513Z NOTICE arc-keymintd[21530]: Post-stop arc-keymint
+2026-09-24T22:20:34.900731Z INFO arc-prepare-host-generated-dir[1692]: INFO arc-prepare-host-generated-dir: [../../../../../tmp/portage/chromeos-base/arc-setup-0.0.1-r2500/work/arc-setup-0.0.1/arc/setup/arc_prepare_host_generated_dir_main.cc:34] Starting /usr/sbin/arc-prepare-host-generated-dir --log_tag=arc-prepare-host-generated-dir
+2026-09-24T22:20:34.900894Z INFO arc-prepare-host-generated-dir[1692]: INFO arc-prepare-host-generated-dir: [../../../../../tmp/portage/chromeos-base/arc-setup-0.0.1-r2500/work/arc-setup-0.0.1/arc/setup/arc_setup.cc:2696] Debuggable is 0
+2026-09-24T22:20:34.900967Z INFO arc-prepare-host-generated-dir[1692]: INFO arc-prepare-host-generated-dir: [../../../../../tmp/portage/chromeos-base/arc-setup-0.0.1-r2500/work/arc-setup-0.0.1/arc/setup/arc_setup.cc:2720] Running !ExpandPropertyFiles(property_files_source_dir, property_files_dest_path, modified_properties_dest_path, USE_ARCVM, hw_oemcrypto_support, true, debuggable, bus)...
+2026-09-24T22:20:34.902298Z INFO arc-prepare-host-generated-dir[1692]: INFO arc-prepare-host-generated-dir: [../../../../../tmp/portage/chromeos-base/arc-setup-0.0.1-r2500/work/arc-setup-0.0.1/arc/setup/arc_setup.cc:2734] Running !GenerateFirstStageFstab( base::FilePath(kGeneratedPropertyFilesPathVm).Append("fstab"), base::FilePath(kArcVmVendorImagePath), cache_partition)...
+2026-09-24T22:20:34.902612Z INFO arc-prepare-host-generated-dir[1692]: INFO arc-prepare-host-generated-dir: [../../../../../tmp/portage/chromeos-base/arc-setup-0.0.1-r2500/work/arc-setup-0.0.1/arc/setup/arc_prepare_host_generated_dir_main.cc:39] /usr/sbin/arc-prepare-host-generated-dir --log_tag=arc-prepare-host-generated-dir took 3ms
+2026-09-24T22:20:50.035398Z NOTICE arc-keymintd[4093]: Start arc-keymint
+2026-09-24T22:20:50.036482Z NOTICE arc-keymintd[4095]: arc-keymint claiming its D-Bus name
+2026-09-24T22:20:50.037496Z NOTICE arc-keymintd[4096]: Executing: minijail0  -p -N -n --uts -l -e -S /usr/share/policy/arc-keymintd-seccomp.policy -u arc-keymintd -g arc-keymintd --profile minimalistic-mountns -k tmpfs,/sys,tmpfs,MS_NOEXEC|MS_NOSUID|MS_NODEV,mode=755,size=10M -k tmpfs,/var,tmpfs,MS_NOSUID|MS_NODEV|MS_NOEXEC,mode=755,size=10M -b /var/lib/metrics,,1 -k tmpfs,/run,tmpfs,MS_NODEV|MS_NOEXEC|MS_NOSUID,mode=755,size=10M -b /run/lock,,1 -b /run/dbus -- /usr/sbin/arc-keymintd
+2026-09-24T22:20:50.149816Z INFO arc-keymintd[4102]: Running Daemon
+2026-09-24T22:20:50.151498Z INFO arc-keymintd[4102]: Mojo init succeeded.
+2026-09-24T22:20:50.152221Z INFO arc-keymintd[4102]: D-Bus registration succeeded
+2026-09-24T22:20:50.152308Z INFO arc-keymintd[4102]: Receiving bootstrap mojo call from D-Bus client.
+2026-09-24T22:20:50.163177Z INFO arc-keymintd[4102]: Mojo connection established.
+2026-09-24T22:25:45.067869Z INFO arc-apk-cache-cleaner[5269]: Deleted 1 sessions
+2026-09-24T22:25:45.094144Z INFO arc-apk-cache-cleaner[5269]: APK Cache cleaner succeeded.

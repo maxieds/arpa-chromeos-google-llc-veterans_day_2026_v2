@@ -1,0 +1,2 @@
+/dev/block/vdb /vendor erofs ro,noatime,nodev wait,check,formattable,reservedsize=128M
+/dev/block/vdg /runtime.prop none ro,bind wait,first_stage_mount

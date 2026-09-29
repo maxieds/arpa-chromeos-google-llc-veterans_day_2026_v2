@@ -1,0 +1,39 @@
+2026-08-10T10:46:20.513154Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/minios.cc:34] Starting miniOS.
+2026-08-10T10:46:20.522538Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/disk_util.cc:38] Skipping storage path /sys/class/block/mmcblk0p12 as the removable file is missing.
+2026-08-10T10:46:20.522622Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/disk_util.cc:38] Skipping storage path /sys/class/block/mmcblk0p9 as the removable file is missing.
+2026-08-10T10:46:20.522672Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/disk_util.cc:38] Skipping storage path /sys/class/block/mmcblk0p10 as the removable file is missing.
+2026-08-10T10:46:20.522718Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/disk_util.cc:38] Skipping storage path /sys/class/block/mmcblk0p7 as the removable file is missing.
+2026-08-10T10:46:20.522835Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/disk_util.cc:62] Found fixed drive /dev/mmcblk0
+2026-08-10T10:46:40.256966Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:280] RequestScan success.
+2026-08-10T10:46:40.258333Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:296] GetGlobalProperties success.
+2026-08-10T10:46:40.258380Z WARNING minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:322] No services found - Retrying scan.
+2026-08-10T10:46:40.760540Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:280] RequestScan success.
+2026-08-10T10:46:40.761840Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:296] GetGlobalProperties success.
+2026-08-10T10:46:40.761876Z WARNING minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:322] No services found - Retrying scan.
+2026-08-10T10:46:41.263136Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:280] RequestScan success.
+2026-08-10T10:46:41.264287Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:296] GetGlobalProperties success.
+2026-08-10T10:46:41.264312Z WARNING minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:322] No services found - Retrying scan.
+2026-08-10T10:46:41.272695Z ERROR minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/screens/screen_network.cc:396] No available networks.
+2026-08-10T10:46:41.766416Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:280] RequestScan success.
+2026-08-10T10:46:41.767733Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:296] GetGlobalProperties success.
+2026-08-10T10:46:41.767770Z WARNING minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:322] No services found - Retrying scan.
+2026-08-10T10:46:42.269042Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:280] RequestScan success.
+2026-08-10T10:46:42.270237Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:296] GetGlobalProperties success.
+2026-08-10T10:46:42.270266Z WARNING minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:322] No services found - Retrying scan.
+2026-08-10T10:46:42.771589Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:280] RequestScan success.
+2026-08-10T10:46:42.772796Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:296] GetGlobalProperties success.
+2026-08-10T10:46:42.772824Z WARNING minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:322] No services found - Retrying scan.
+2026-08-10T10:46:43.274088Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:280] RequestScan success.
+2026-08-10T10:46:43.275233Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:296] GetGlobalProperties success.
+2026-08-10T10:46:43.275260Z WARNING minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:322] No services found - Retrying scan.
+2026-08-10T10:46:43.776720Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:280] RequestScan success.
+2026-08-10T10:46:43.778020Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:296] GetGlobalProperties success.
+2026-08-10T10:46:43.778054Z WARNING minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:322] No services found - Retrying scan.
+2026-08-10T10:46:44.279335Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:280] RequestScan success.
+2026-08-10T10:46:44.280581Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:296] GetGlobalProperties success.
+2026-08-10T10:46:44.280611Z WARNING minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:322] No services found - Retrying scan.
+2026-08-10T10:46:44.781950Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:280] RequestScan success.
+2026-08-10T10:46:44.783209Z INFO minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:296] GetGlobalProperties success.
+2026-08-10T10:46:44.783246Z ERROR minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:330] No services found.
+2026-08-10T10:46:44.783262Z ERROR minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/network_manager.cc:332] GetGlobalPropertiesSuccess(...): Domain=dbus, Code=org.freedesktop.DBus.Error.Failed, Message=No network devices found.
+2026-08-10T10:46:44.783286Z ERROR minios: [../../../../../tmp/portage/chromeos-base/minios-0.0.1-r871/work/minios-0.0.1/minios/screens/screen_network.cc:273] Could not get networks. ErrorCode=org.freedesktop.DBus.Error.FailedErrorMessage=No network devices found.

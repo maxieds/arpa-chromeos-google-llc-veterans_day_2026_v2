@@ -1,0 +1,2111 @@
+
+[    1954.350] Wake source: 0x00000001
+[    1954.353] Which pin: 0x0200000000000000
+[    1954.357] Alert[4] = 0x800
+[    2015.321] Wake source: 0x00000001
+[    2015.324] Which pin: 0x0200000000000000
+[    2076.290] Wake source: 0x00000001
+[    2076.293] Which pin: 0x0200000000000000
+[    2137.258] Wake source: 0x00000001
+[    2137.261] Which pin: 0x0200000000000000
+[    2198.226] Wake source: 0x00000001
+[    2198.229] Which pin: 0x0200000000000000
+[    2212.647] Wake source: 0x00000001
+[    2212.650] Which pin: 0x0200000000000000
+[    2259.235] Wake source: 0x00000001
+[    2259.238] Which pin: 0x0200000000000000
+[    2259.242] Alert[4] = 0x800
+[    2320.200] Wake source: 0x00000001
+[    2320.203] Which pin: 0x0200000000000000
+[    2320.207] Alert[4] = 0x800
+[    2381.165] Wake source: 0x00000001
+[    2381.168] Which pin: 0x0200000000000000
+[    2402.006] Wake source: 0x00000001
+[    2402.009] Which pin: 0x0200000000000000
+[    2402.013] Alert[4] = 0x800
+[    2412.125] Wake source: 0x00000001
+[    2412.128] Which pin: 0x0200000000000000
+[    2412.132] Alert[3] = 0x8000
+[    2448.572] Wake source: 0x00000004
+[    2448.575] AC: -F
+[    2449.548] ADC: connected: Servo-snk(dut:RpUSB)
+[    2449.552] CCD_MODE:      asserted
+[    2449.556] USB: On
+[    2450.808] ADC: disconnected
+[    2450.810] CCD_MODE:      deasserted
+[    2450.814] USB: Off
+[    2453.592] ADC: connected: Servo-snk(dut:Rp3A0)
+[    2453.596] CCD_MODE:      asserted
+[    2453.600] USB: On
+[    2454.679] ADC: disconnected
+[    2454.682] CCD_MODE:      deasserted
+[    2454.685] USB: Off
+[    2454.884] ADC: connected: Servo-snk(dut:Rp3A0)
+[    2454.888] CCD_MODE:      asserted
+[    2454.891] USB: On
+[    2455.893] ADC: disconnected
+[    2455.895] CCD_MODE:      deasserted
+[    2455.899] USB: Off
+[    2455.979] ADC: connected: Servo-snk(dut:Rp1A5)
+[    2455.983] CCD_MODE:      asserted
+[    2455.987] USB: On
+[    3820.939] AC: R-
+[    3821.707] ADC: disconnected
+[    3821.710] CCD_MODE:      deasserted
+[    3821.713] USB: Off
+[    4069.828] Wake source: 0x00000001
+[    4069.831] Which pin: 0x0200000000000000
+[    4076.911] Wake source: 0x00000001
+[    4076.914] Which pin: 0x0200000000000000
+[    5161.999] Wake source: 0x00000001
+[    5162.002] Which pin: 0x0200000000000000
+[    5221.328] Wake source: 0x00000001
+[    5221.331] Which pin: 0x0200000000000000
+[    5238.603] Wake source: 0x00000001
+[    5238.606] Which pin: 0x0200000000000000
+[    5282.329] Wake source: 0x00000001
+[    5282.332] Which pin: 0x0200000000000000
+[    5343.264] Wake source: 0x00000001
+[    5343.267] Which pin: 0x0200000000000000
+[    5404.213] Wake source: 0x00000001
+[    5404.216] Which pin: 0x0200000000000000
+[    5404.220] Alert[4] = 0x800
+[    5465.163] Wake source: 0x00000001
+[    5465.166] Which pin: 0x0200000000000000
+[    5526.114] Wake source: 0x00000001
+[    5526.117] Which pin: 0x0200000000000000
+[    5546.279] Wake source: 0x00000001
+[    5546.282] Which pin: 0x0200000000000000
+[    5546.286] Alert[4] = 0x800
+[    5587.115] Wake source: 0x00000001
+[    5587.118] Which pin: 0x0200000000000000
+[    5587.122] Alert[4] = 0x800
+[    5648.069] Wake source: 0x00000001
+[    5648.072] Which pin: 0x0200000000000000
+[    5709.023] Wake source: 0x00000001
+[    5709.026] Which pin: 0x0200000000000000
+[    5769.980] Wake source: 0x00000001
+[    5769.983] Which pin: 0x0200000000000000
+[    5830.939] Wake source: 0x00000001
+[    5830.942] Which pin: 0x0200000000000000
+[    5830.946] Alert[4] = 0x800
+[    5853.958] Wake source: 0x00000001
+[    5853.961] Which pin: 0x0200000000000000
+[    5891.945] Wake source: 0x00000001
+[    5891.948] Which pin: 0x0200000000000000
+[    5891.952] Alert[4] = 0x800
+[    5952.906] Wake source: 0x00000001
+[    5952.909] Which pin: 0x0200000000000000
+[    6013.866] Wake source: 0x00000001
+[    6013.869] Which pin: 0x0200000000000000
+[    6013.873] Alert[4] = 0x800
+[    6074.831] Wake source: 0x00000001
+[    6074.834] Which pin: 0x0200000000000000
+[    6135.797] Wake source: 0x00000001
+[    6135.801] Which pin: 0x0200000000000000
+[    6161.675] Wake source: 0x00000001
+[    6161.678] Which pin: 0x0200000000000000
+[    6196.811] Wake source: 0x00000001
+[    6196.814] Which pin: 0x0200000000000000
+[    6257.779] Wake source: 0x00000001
+[    6257.782] Which pin: 0x0200000000000000
+[    6318.741] Wake source: 0x00000001
+[    6318.744] Which pin: 0x0200000000000000
+[    6379.712] Wake source: 0x00000001
+[    6379.715] Which pin: 0x0200000000000000
+[    6440.672] Wake source: 0x00000001
+[    6440.675] Which pin: 0x0200000000000000
+[    6469.406] Wake source: 0x00000001
+[    6469.409] Which pin: 0x0200000000000000
+[    6501.684] Wake source: 0x00000001
+[    6501.687] Which pin: 0x0200000000000000
+[    6562.648] Wake source: 0x00000001
+[    6562.651] Which pin: 0x0200000000000000
+[    6623.610] Wake source: 0x00000001
+[    6623.613] Which pin: 0x0200000000000000
+[    6684.571] Wake source: 0x00000001
+[    6684.574] Which pin: 0x0200000000000000
+[    6745.534] Wake source: 0x00000001
+[    6745.537] Which pin: 0x0200000000000000
+[    6777.124] Wake source: 0x00000001
+[    6777.127] Which pin: 0x0200000000000000
+[    6806.543] Wake source: 0x00000001
+[    6806.546] Which pin: 0x0200000000000000
+[    6867.506] Wake source: 0x00000001
+[    6867.509] Which pin: 0x0200000000000000
+[    6928.472] Wake source: 0x00000001
+[    6928.475] Which pin: 0x0200000000000000
+[    6989.439] Wake source: 0x00000001
+[    6989.442] Which pin: 0x0200000000000000
+[    7050.407] Wake source: 0x00000001
+[    7050.410] Which pin: 0x0200000000000000
+[    7084.854] Wake source: 0x00000001
+[    7084.857] Which pin: 0x0200000000000000
+[    7111.422] Wake source: 0x00000001
+[    7111.425] Which pin: 0x0200000000000000
+[    7172.392] Wake source: 0x00000001
+[    7172.395] Which pin: 0x0200000000000000
+[    7233.359] Wake source: 0x00000001
+[    7233.362] Which pin: 0x0200000000000000
+[    7294.326] Wake source: 0x00000001
+[    7294.329] Which pin: 0x0200000000000000
+[    7355.295] Wake source: 0x00000001
+[    7355.298] Which pin: 0x0200000000000000
+[    7355.302] Alert[4] = 0x800
+[    7392.597] Wake source: 0x00000001
+[    7392.600] Which pin: 0x0200000000000000
+[    7416.312] Wake source: 0x00000001
+[    7416.315] Which pin: 0x0200000000000000
+[    7477.281] Wake source: 0x00000001
+[    7477.284] Which pin: 0x0200000000000000
+[    7538.250] Wake source: 0x00000001
+[    7538.253] Which pin: 0x0200000000000000
+[    7576.617] Wake source: 0x00000001
+[    7576.620] Which pin: 0x0200000000000000
+[    7599.265] Wake source: 0x00000001
+[    7599.268] Which pin: 0x0200000000000000
+[    7599.272] Alert[4] = 0x800
+[    7660.237] Wake source: 0x00000001
+[    7660.240] Which pin: 0x0200000000000000
+[    7700.395] Wake source: 0x00000001
+[    7700.398] Which pin: 0x0200000000000000
+[    7721.251] Wake source: 0x00000001
+[    7721.254] Which pin: 0x0200000000000000
+[    7721.258] Alert[4] = 0x800
+[    7782.220] Wake source: 0x00000001
+[    7782.223] Which pin: 0x0200000000000000
+[    7843.191] Wake source: 0x00000001
+[    7843.194] Which pin: 0x0200000000000000
+[    7904.158] Wake source: 0x00000001
+[    7904.161] Which pin: 0x0200000000000000
+[    7904.165] Alert[4] = 0x800
+[    7965.126] Wake source: 0x00000001
+[    7965.129] Which pin: 0x0200000000000000
+[    8008.138] Wake source: 0x00000001
+[    8008.141] Which pin: 0x0200000000000000
+[    8026.140] Wake source: 0x00000001
+[    8026.143] Which pin: 0x0200000000000000
+[    8087.110] Wake source: 0x00000001
+[    8087.113] Which pin: 0x0200000000000000
+[    8087.117] Alert[4] = 0x800
+[    8148.082] Wake source: 0x00000001
+[    8148.085] Which pin: 0x0200000000000000
+[    8209.052] Wake source: 0x00000001
+[    8209.055] Which pin: 0x0200000000000000
+[    8270.022] Wake source: 0x00000001
+[    8270.025] Which pin: 0x0200000000000000
+[    8315.892] Wake source: 0x00000001
+[    8315.895] Which pin: 0x0200000000000000
+[    8331.040] Wake source: 0x00000001
+[    8331.043] Which pin: 0x0200000000000000
+[    8392.005] Wake source: 0x00000001
+[    8392.008] Which pin: 0x0200000000000000
+[    8452.973] Wake source: 0x00000001
+[    8452.976] Which pin: 0x0200000000000000
+[    8513.941] Wake source: 0x00000001
+[    8513.944] Which pin: 0x0200000000000000
+[    8574.907] Wake source: 0x00000001
+[    8574.910] Which pin: 0x0200000000000000
+[    8623.631] Wake source: 0x00000001
+[    8623.634] Which pin: 0x0200000000000000
+[    8635.920] Wake source: 0x00000001
+[    8635.923] Which pin: 0x0200000000000000
+[    8696.887] Wake source: 0x00000001
+[    8696.890] Which pin: 0x0200000000000000
+[    8757.852] Wake source: 0x00000001
+[    8757.855] Which pin: 0x0200000000000000
+[    8818.820] Wake source: 0x00000001
+[    8818.823] Which pin: 0x0200000000000000
+[    8879.789] Wake source: 0x00000001
+[    8879.792] Which pin: 0x0200000000000000
+[    8931.371] Wake source: 0x00000001
+[    8931.374] Which pin: 0x0200000000000000
+[    8940.804] Wake source: 0x00000001
+[    8940.807] Which pin: 0x0200000000000000
+[    9001.774] Wake source: 0x00000001
+[    9001.777] Which pin: 0x0200000000000000
+[    9062.745] Wake source: 0x00000001
+[    9062.748] Which pin: 0x0200000000000000
+[    9123.716] Wake source: 0x00000001
+[    9123.719] Which pin: 0x0200000000000000
+[    9184.687] Wake source: 0x00000001
+[    9184.690] Which pin: 0x0200000000000000
+[    9239.123] Wake source: 0x00000001
+[    9239.126] Which pin: 0x0200000000000000
+[    9245.700] Wake source: 0x00000001
+[    9245.703] Which pin: 0x0200000000000000
+[    9245.707] Alert[4] = 0x800
+[    9306.668] Wake source: 0x00000001
+[    9306.671] Which pin: 0x0200000000000000
+[    9367.638] Wake source: 0x00000001
+[    9367.641] Which pin: 0x0200000000000000
+[    9428.609] Wake source: 0x00000001
+[    9428.612] Which pin: 0x0200000000000000
+[    9489.581] Wake source: 0x00000001
+[    9489.584] Which pin: 0x0200000000000000
+[    9489.588] Alert[4] = 0x800
+[    9546.876] Wake source: 0x00000001
+[    9546.879] Which pin: 0x0200000000000000
+[    9611.544] Wake source: 0x00000001
+[    9611.547] Which pin: 0x0200000000000000
+[    9672.515] Wake source: 0x00000001
+[    9672.518] Which pin: 0x0200000000000000
+[    9733.485] Wake source: 0x00000001
+[    9733.488] Which pin: 0x0200000000000000
+[    9794.456] Wake source: 0x00000001
+[    9794.459] Which pin: 0x0200000000000000
+[    9794.463] Alert[4] = 0x800
+[    9854.604] Wake source: 0x00000001
+[    9854.607] Which pin: 0x0200000000000000
+[    9916.392] Wake source: 0x00000001
+[    9916.395] Which pin: 0x0200000000000000
+[    9977.358] Wake source: 0x00000001
+[    9977.361] Which pin: 0x0200000000000000
+[   10038.324] Wake source: 0x00000001
+[   10038.327] Which pin: 0x0200000000000000
+[   10099.288] Wake source: 0x00000001
+[   10099.291] Which pin: 0x0200000000000000
+[   10160.251] Wake source: 0x00000001
+[   10160.254] Which pin: 0x0200000000000000
+[   10160.258] Alert[4] = 0x800
+[   10221.226] Wake source: 0x00000001
+[   10221.229] Which pin: 0x0200000000000000
+[   10282.195] Wake source: 0x00000001
+[   10282.198] Which pin: 0x0200000000000000
+[   10343.164] Wake source: 0x00000001
+[   10343.167] Which pin: 0x0200000000000000
+[   10404.131] Wake source: 0x00000001
+[   10404.134] Which pin: 0x0200000000000000
+[   10465.100] Wake source: 0x00000001
+[   10465.103] Which pin: 0x0200000000000000
+[   10465.107] Alert[4] = 0x800
+[   10526.097] Wake source: 0x00000001
+[   10526.100] Which pin: 0x0200000000000000
+[   10587.065] Wake source: 0x00000001
+[   10587.068] Which pin: 0x0200000000000000
+[   10648.035] Wake source: 0x00000001
+[   10648.038] Which pin: 0x0200000000000000
+[   10709.002] Wake source: 0x00000001
+[   10709.005] Which pin: 0x0200000000000000
+[   10769.973] Wake source: 0x00000001
+[   10769.976] Which pin: 0x0200000000000000
+[   10777.766] Wake source: 0x00000001
+[   10777.769] Which pin: 0x0200000000000000
+[   10777.773] Alert[4] = 0x800
+[   10830.991] Wake source: 0x00000001
+[   10830.994] Which pin: 0x0200000000000000
+[   10891.964] Wake source: 0x00000001
+[   10891.967] Which pin: 0x0200000000000000
+[   10952.933] Wake source: 0x00000001
+[   10952.936] Which pin: 0x0200000000000000
+[   10952.940] Alert[4] = 0x800
+[   11013.901] Wake source: 0x00000001
+[   11013.904] Which pin: 0x0200000000000000
+[   11074.871] Wake source: 0x00000001
+[   11074.874] Which pin: 0x0200000000000000
+[   11074.878] Alert[4] = 0x800
+[   11085.523] Wake source: 0x00000001
+[   11085.526] Which pin: 0x0200000000000000
+[   11135.886] Wake source: 0x00000001
+[   11135.889] Which pin: 0x0200000000000000
+[   11149.532] Wake source: 0x00000001
+[   11149.535] Which pin: 0x0200000000000000
+[   11196.900] Wake source: 0x00000001
+[   11196.903] Which pin: 0x0200000000000000
+[   11257.868] Wake source: 0x00000001
+[   11257.871] Which pin: 0x0200000000000000
+[   11318.839] Wake source: 0x00000001
+[   11318.842] Which pin: 0x0200000000000000
+[   11379.809] Wake source: 0x00000001
+[   11379.812] Which pin: 0x0200000000000000
+[   11379.816] Alert[4] = 0x800
+[   11393.314] Wake source: 0x00000001
+[   11393.317] Which pin: 0x0200000000000000
+[   11440.823] Wake source: 0x00000001
+[   11440.826] Which pin: 0x0200000000000000
+[   11501.789] Wake source: 0x00000001
+[   11501.792] Which pin: 0x0200000000000000
+[   11501.796] Alert[4] = 0x800
+[   11562.758] Wake source: 0x00000001
+[   11562.761] Which pin: 0x0200000000000000
+[   11562.765] Alert[4] = 0x800
+[   11623.723] Wake source: 0x00000001
+[   11623.726] Which pin: 0x0200000000000000
+[   11623.730] Alert[4] = 0x800
+[   11684.690] Wake source: 0x00000001
+[   11684.693] Which pin: 0x0200000000000000
+[   11701.052] Wake source: 0x00000001
+[   11701.055] Which pin: 0x0200000000000000
+[   11701.059] Alert[4] = 0x800
+[   11745.704] Wake source: 0x00000001
+[   11745.707] Which pin: 0x0200000000000000
+[   11745.711] Alert[4] = 0x800
+[   11806.669] Wake source: 0x00000001
+[   11806.672] Which pin: 0x0200000000000000
+[   11806.676] Alert[4] = 0x800
+[   11867.635] Wake source: 0x00000001
+[   11867.638] Which pin: 0x0200000000000000
+[   11867.642] Alert[4] = 0x800
+[   11928.603] Wake source: 0x00000001
+[   11928.606] Which pin: 0x0200000000000000
+[   11989.572] Wake source: 0x00000001
+[   11989.575] Which pin: 0x0200000000000000
+[   12008.789] Wake source: 0x00000001
+[   12008.792] Which pin: 0x0200000000000000
+[   12008.796] Alert[4] = 0x800
+[   12050.586] Wake source: 0x00000001
+[   12050.589] Which pin: 0x0200000000000000
+[   12050.593] Alert[4] = 0x800
+[   12111.552] Wake source: 0x00000001
+[   12111.555] Which pin: 0x0200000000000000
+[   12172.516] Wake source: 0x00000001
+[   12172.519] Which pin: 0x0200000000000000
+[   12233.478] Wake source: 0x00000001
+[   12233.481] Which pin: 0x0200000000000000
+[   12233.485] Alert[4] = 0x800
+[   12294.446] Wake source: 0x00000001
+[   12294.449] Which pin: 0x0200000000000000
+[   12316.518] Wake source: 0x00000001
+[   12316.521] Which pin: 0x0200000000000000
+[   12316.525] Alert[4] = 0x800
+[   12355.461] Wake source: 0x00000001
+[   12355.464] Which pin: 0x0200000000000000
+[   12416.426] Wake source: 0x00000001
+[   12416.429] Which pin: 0x0200000000000000
+[   12477.392] Wake source: 0x00000001
+[   12477.395] Which pin: 0x0200000000000000
+[   12477.399] Alert[4] = 0x800
+[   12538.357] Wake source: 0x00000001
+[   12538.360] Which pin: 0x0200000000000000
+[   12599.324] Wake source: 0x00000001
+[   12599.327] Which pin: 0x0200000000000000
+[   12624.248] Wake source: 0x00000001
+[   12624.251] Which pin: 0x0200000000000000
+[   12660.338] Wake source: 0x00000001
+[   12660.341] Which pin: 0x0200000000000000
+[   12660.345] Alert[4] = 0x800
+[   12721.302] Wake source: 0x00000001
+[   12721.305] Which pin: 0x0200000000000000
+[   12721.309] Alert[4] = 0x800
+[   12782.270] Wake source: 0x00000001
+[   12782.273] Which pin: 0x0200000000000000
+[   12843.237] Wake source: 0x00000001
+[   12843.240] Which pin: 0x0200000000000000
+[   12904.203] Wake source: 0x00000001
+[   12904.206] Which pin: 0x0200000000000000
+[   12931.985] Wake source: 0x00000001
+[   12931.988] Which pin: 0x0200000000000000
+[   12965.217] Wake source: 0x00000001
+[   12965.220] Which pin: 0x0200000000000000
+[   12965.224] Alert[4] = 0x800
+[   13026.185] Wake source: 0x00000001
+[   13026.188] Which pin: 0x0200000000000000
+[   13087.151] Wake source: 0x00000001
+[   13087.154] Which pin: 0x0200000000000000
+[   13148.118] Wake source: 0x00000001
+[   13148.121] Which pin: 0x0200000000000000
+[   13148.125] Alert[4] = 0x800
+[   13209.086] Wake source: 0x00000001
+[   13209.089] Which pin: 0x0200000000000000
+[   13239.738] Wake source: 0x00000001
+[   13239.741] Which pin: 0x0200000000000000
+[   13270.104] Wake source: 0x00000001
+[   13270.107] Which pin: 0x0200000000000000
+[   13270.111] Alert[4] = 0x800
+[   13331.075] Wake source: 0x00000001
+[   13331.078] Which pin: 0x0200000000000000
+[   13392.042] Wake source: 0x00000001
+[   13392.045] Which pin: 0x0200000000000000
+[   13453.009] Wake source: 0x00000001
+[   13453.012] Which pin: 0x0200000000000000
+[   13513.974] Wake source: 0x00000001
+[   13513.977] Which pin: 0x0200000000000000
+[   13547.465] Wake source: 0x00000001
+[   13547.468] Which pin: 0x0200000000000000
+[   13547.472] Alert[4] = 0x800
+[   13574.986] Wake source: 0x00000001
+[   13574.989] Which pin: 0x0200000000000000
+[   13635.952] Wake source: 0x00000001
+[   13635.955] Which pin: 0x0200000000000000
+[   13696.918] Wake source: 0x00000001
+[   13696.921] Which pin: 0x0200000000000000
+[   13757.881] Wake source: 0x00000001
+[   13757.884] Which pin: 0x0200000000000000
+[   13757.888] Alert[4] = 0x800
+[   13818.846] Wake source: 0x00000001
+[   13818.849] Which pin: 0x0200000000000000
+[   13855.193] Wake source: 0x00000001
+[   13855.196] Which pin: 0x0200000000000000
+[   13855.200] Alert[4] = 0x800
+[   13879.857] Wake source: 0x00000001
+[   13879.860] Which pin: 0x0200000000000000
+[   13940.821] Wake source: 0x00000001
+[   13940.824] Which pin: 0x0200000000000000
+[   14001.785] Wake source: 0x00000001
+[   14001.788] Which pin: 0x0200000000000000
+[   14062.750] Wake source: 0x00000001
+[   14062.753] Which pin: 0x0200000000000000
+[   14123.713] Wake source: 0x00000001
+[   14123.716] Which pin: 0x0200000000000000
+[   14162.914] Wake source: 0x00000001
+[   14162.917] Which pin: 0x0200000000000000
+[   14184.724] Wake source: 0x00000001
+[   14184.727] Which pin: 0x0200000000000000
+[   14245.688] Wake source: 0x00000001
+[   14245.691] Which pin: 0x0200000000000000
+[   14306.650] Wake source: 0x00000001
+[   14306.653] Which pin: 0x0200000000000000
+[   14367.614] Wake source: 0x00000001
+[   14367.617] Which pin: 0x0200000000000000
+[   14428.578] Wake source: 0x00000001
+[   14428.581] Which pin: 0x0200000000000000
+[   14470.634] Wake source: 0x00000001
+[   14470.637] Which pin: 0x0200000000000000
+[   14489.589] Wake source: 0x00000001
+[   14489.592] Which pin: 0x0200000000000000
+[   14489.596] Alert[4] = 0x800
+[   14550.551] Wake source: 0x00000001
+[   14550.554] Which pin: 0x0200000000000000
+[   14611.519] Wake source: 0x00000001
+[   14611.522] Which pin: 0x0200000000000000
+[   14672.486] Wake source: 0x00000001
+[   14672.489] Which pin: 0x0200000000000000
+[   14715.609] Wake source: 0x00000001
+[   14715.612] Which pin: 0x0200000000000000
+[   14777.247] Wake source: 0x00000004
+[   14777.250] Alert[4] = 0x800
+[   14777.253] AC: -F
+[   16253.207] Wake source: 0x00000001
+[   16253.210] Which pin: 0x0200000000000000
+[   16253.268] ADC: connected: Servo-snk(dut:Rp3A0)
+[   16253.272] CCD_MODE:      asserted
+[   16253.276] USB: On
+[   16254.337] ADC: disconnected
+[   16254.339] CCD_MODE:      deasserted
+[   16254.343] USB: Off
+[   16278.809] Wake source: 0x00000004
+[   16278.812] AC: R-
+[   16326.456] Wake source: 0x00000001
+[   16326.459] Which pin: 0x0200000000000000
+[   16342.551] Wake source: 0x00000001
+[   16342.554] Which pin: 0x0200000000000000
+[   16403.503] Wake source: 0x00000001
+[   16403.506] Which pin: 0x0200000000000000
+[   16403.510] Alert[4] = 0x800
+[   16464.460] Wake source: 0x00000001
+[   16464.463] Which pin: 0x0200000000000000
+[   16525.419] Wake source: 0x00000001
+[   16525.422] Which pin: 0x0200000000000000
+[   16586.377] Wake source: 0x00000001
+[   16586.380] Which pin: 0x0200000000000000
+[   16634.141] Wake source: 0x00000001
+[   16634.144] Which pin: 0x0200000000000000
+[   16647.383] Wake source: 0x00000001
+[   16647.386] Which pin: 0x0200000000000000
+[   16708.341] Wake source: 0x00000001
+[   16708.345] Which pin: 0x0200000000000000
+[   16708.349] Alert[4] = 0x800
+[   16769.301] Wake source: 0x00000001
+[   16769.304] Which pin: 0x0200000000000000
+[   16830.263] Wake source: 0x00000001
+[   16830.266] Which pin: 0x0200000000000000
+[   16891.227] Wake source: 0x00000001
+[   16891.230] Which pin: 0x0200000000000000
+[   16941.852] Wake source: 0x00000001
+[   16941.855] Which pin: 0x0200000000000000
+[   16952.239] Wake source: 0x00000001
+[   16952.242] Which pin: 0x0200000000000000
+[   17013.204] Wake source: 0x00000001
+[   17013.207] Which pin: 0x0200000000000000
+[   17074.170] Wake source: 0x00000001
+[   17074.173] Which pin: 0x0200000000000000
+[   17135.131] Wake source: 0x00000001
+[   17135.134] Which pin: 0x0200000000000000
+[   17135.138] Alert[4] = 0x800
+[   17196.095] Wake source: 0x00000001
+[   17196.098] Which pin: 0x0200000000000000
+[   17249.577] Wake source: 0x00000001
+[   17249.580] Which pin: 0x0200000000000000
+[   17257.107] Wake source: 0x00000001
+[   17257.110] Which pin: 0x0200000000000000
+[   17318.073] Wake source: 0x00000001
+[   17318.076] Which pin: 0x0200000000000000
+[   17379.039] Wake source: 0x00000001
+[   17379.042] Which pin: 0x0200000000000000
+[   17379.046] Alert[4] = 0x800
+[   17439.999] Wake source: 0x00000001
+[   17440.002] Which pin: 0x0200000000000000
+[   17500.963] Wake source: 0x00000001
+[   17500.966] Which pin: 0x0200000000000000
+[   17500.970] Alert[4] = 0x800
+[   17557.297] Wake source: 0x00000001
+[   17557.300] Which pin: 0x0200000000000000
+[   17622.917] Wake source: 0x00000001
+[   17622.920] Which pin: 0x0200000000000000
+[   17622.924] Alert[4] = 0x800
+[   17683.883] Wake source: 0x00000001
+[   17683.886] Which pin: 0x0200000000000000
+[   17744.849] Wake source: 0x00000001
+[   17744.852] Which pin: 0x0200000000000000
+[   17805.814] Wake source: 0x00000001
+[   17805.817] Which pin: 0x0200000000000000
+[   17865.005] Wake source: 0x00000001
+[   17865.008] Which pin: 0x0200000000000000
+[   17927.741] Wake source: 0x00000001
+[   17927.744] Which pin: 0x0200000000000000
+[   17927.748] Alert[4] = 0x800
+[   17988.702] Wake source: 0x00000001
+[   17988.705] Which pin: 0x0200000000000000
+[   17988.709] Alert[4] = 0x800
+[   18049.663] Wake source: 0x00000001
+[   18049.666] Which pin: 0x0200000000000000
+[   18110.624] Wake source: 0x00000001
+[   18110.627] Which pin: 0x0200000000000000
+[   18110.631] Alert[4] = 0x800
+[   18171.585] Wake source: 0x00000001
+[   18171.588] Which pin: 0x0200000000000000
+[   18232.545] Wake source: 0x00000001
+[   18232.548] Which pin: 0x0200000000000000
+[   18293.506] Wake source: 0x00000001
+[   18293.509] Which pin: 0x0200000000000000
+[   18293.513] Alert[4] = 0x800
+[   18354.471] Wake source: 0x00000001
+[   18354.474] Which pin: 0x0200000000000000
+[   18354.478] Alert[4] = 0x800
+[   18415.433] Wake source: 0x00000001
+[   18415.436] Which pin: 0x0200000000000000
+[   18415.440] Alert[4] = 0x800
+[   18476.396] Wake source: 0x00000001
+[   18476.399] Which pin: 0x0200000000000000
+[   18537.381] Wake source: 0x00000001
+[   18537.384] Which pin: 0x0200000000000000
+[   18598.345] Wake source: 0x00000001
+[   18598.348] Which pin: 0x0200000000000000
+[   18598.352] Alert[4] = 0x800
+[   18659.308] Wake source: 0x00000001
+[   18659.311] Which pin: 0x0200000000000000
+[   18720.270] Wake source: 0x00000001
+[   18720.273] Which pin: 0x0200000000000000
+[   18720.277] Alert[4] = 0x800
+[   18781.230] Wake source: 0x00000001
+[   18781.233] Which pin: 0x0200000000000000
+[   18788.069] Wake source: 0x00000001
+[   18788.072] Which pin: 0x0200000000000000
+[   18788.076] Alert[4] = 0x800
+[   18842.239] Wake source: 0x00000001
+[   18842.242] Which pin: 0x0200000000000000
+[   18903.202] Wake source: 0x00000001
+[   18903.205] Which pin: 0x0200000000000000
+[   18903.209] Alert[4] = 0x800
+[   18964.163] Wake source: 0x00000001
+[   18964.166] Which pin: 0x0200000000000000
+[   18964.170] Alert[4] = 0x800
+[   19025.124] Wake source: 0x00000001
+[   19025.127] Which pin: 0x0200000000000000
+[   19086.085] Wake source: 0x00000001
+[   19086.088] Which pin: 0x0200000000000000
+[   19095.781] Wake source: 0x00000001
+[   19095.784] Which pin: 0x0200000000000000
+[   19147.093] Wake source: 0x00000001
+[   19147.096] Which pin: 0x0200000000000000
+[   19147.100] Alert[4] = 0x800
+[   19208.052] Wake source: 0x00000001
+[   19208.055] Which pin: 0x0200000000000000
+[   19269.013] Wake source: 0x00000001
+[   19269.016] Which pin: 0x0200000000000000
+[   19329.975] Wake source: 0x00000001
+[   19329.978] Which pin: 0x0200000000000000
+[   19390.938] Wake source: 0x00000001
+[   19390.941] Which pin: 0x0200000000000000
+[   19403.490] Wake source: 0x00000001
+[   19403.493] Which pin: 0x0200000000000000
+[   19451.945] Wake source: 0x00000001
+[   19451.948] Which pin: 0x0200000000000000
+[   19451.952] Alert[4] = 0x800
+[   19512.906] Wake source: 0x00000001
+[   19512.909] Which pin: 0x0200000000000000
+[   19573.864] Wake source: 0x00000001
+[   19573.867] Which pin: 0x0200000000000000
+[   19573.871] Alert[4] = 0x800
+[   19634.824] Wake source: 0x00000001
+[   19634.827] Which pin: 0x0200000000000000
+[   19695.786] Wake source: 0x00000001
+[   19695.789] Which pin: 0x0200000000000000
+[   19711.191] Wake source: 0x00000001
+[   19711.194] Which pin: 0x0200000000000000
+[   19756.795] Wake source: 0x00000001
+[   19756.798] Which pin: 0x0200000000000000
+[   19817.756] Wake source: 0x00000001
+[   19817.759] Which pin: 0x0200000000000000
+[   19842.876] Wake source: 0x00000001
+[   19842.879] Which pin: 0x0200000000000000
+[   19878.767] Wake source: 0x00000001
+[   19878.770] Which pin: 0x0200000000000000
+[   19939.731] Wake source: 0x00000001
+[   19939.734] Which pin: 0x0200000000000000
+[   20000.695] Wake source: 0x00000001
+[   20000.698] Which pin: 0x0200000000000000
+[   20018.960] Wake source: 0x00000001
+[   20018.963] Which pin: 0x0200000000000000
+[   20061.727] Wake source: 0x00000001
+[   20061.730] Which pin: 0x0200000000000000
+[   20061.734] Alert[4] = 0x800
+[   20122.707] Wake source: 0x00000001
+[   20122.710] Which pin: 0x0200000000000000
+[   20183.703] Wake source: 0x00000001
+[   20183.706] Which pin: 0x0200000000000000
+[   20244.698] Wake source: 0x00000001
+[   20244.701] Which pin: 0x0200000000000000
+[   20305.691] Wake source: 0x00000001
+[   20305.694] Which pin: 0x0200000000000000
+[   20305.698] Alert[4] = 0x800
+[   20326.799] Wake source: 0x00000001
+[   20326.802] Which pin: 0x0200000000000000
+[   20366.730] Wake source: 0x00000001
+[   20366.733] Which pin: 0x0200000000000000
+[   20427.717] Wake source: 0x00000001
+[   20427.720] Which pin: 0x0200000000000000
+[   20488.708] Wake source: 0x00000001
+[   20488.711] Which pin: 0x0200000000000000
+[   20488.715] Alert[4] = 0x800
+[   20549.691] Wake source: 0x00000001
+[   20549.694] Which pin: 0x0200000000000000
+[   20610.669] Wake source: 0x00000001
+[   20610.672] Which pin: 0x0200000000000000
+[   20634.626] Wake source: 0x00000001
+[   20634.629] Which pin: 0x0200000000000000
+[   20634.633] Alert[4] = 0x800
+[   20671.690] Wake source: 0x00000001
+[   20671.693] Which pin: 0x0200000000000000
+[   20671.697] Alert[4] = 0x800
+[   20732.663] Wake source: 0x00000001
+[   20732.666] Which pin: 0x0200000000000000
+[   20793.638] Wake source: 0x00000001
+[   20793.641] Which pin: 0x0200000000000000
+[   20854.613] Wake source: 0x00000001
+[   20854.616] Which pin: 0x0200000000000000
+[   20854.620] Alert[4] = 0x800
+[   20915.587] Wake source: 0x00000001
+[   20915.590] Which pin: 0x0200000000000000
+[   20915.594] Alert[4] = 0x800
+[   20942.403] Wake source: 0x00000001
+[   20942.406] Which pin: 0x0200000000000000
+[   20976.607] Wake source: 0x00000001
+[   20976.610] Which pin: 0x0200000000000000
+[   21037.582] Wake source: 0x00000001
+[   21037.585] Which pin: 0x0200000000000000
+[   21098.557] Wake source: 0x00000001
+[   21098.560] Which pin: 0x0200000000000000
+[   21159.529] Wake source: 0x00000001
+[   21159.532] Which pin: 0x0200000000000000
+[   21220.502] Wake source: 0x00000001
+[   21220.505] Which pin: 0x0200000000000000
+[   21250.171] Wake source: 0x00000001
+[   21250.174] Which pin: 0x0200000000000000
+[   21281.518] Wake source: 0x00000001
+[   21281.521] Which pin: 0x0200000000000000
+[   21342.488] Wake source: 0x00000001
+[   21342.491] Which pin: 0x0200000000000000
+[   21403.459] Wake source: 0x00000001
+[   21403.462] Which pin: 0x0200000000000000
+[   21403.466] Alert[4] = 0x800
+[   21464.429] Wake source: 0x00000001
+[   21464.432] Which pin: 0x0200000000000000
+[   21525.397] Wake source: 0x00000001
+[   21525.400] Which pin: 0x0200000000000000
+[   21525.404] Alert[4] = 0x800
+[   21557.925] Wake source: 0x00000001
+[   21557.928] Which pin: 0x0200000000000000
+[   21586.413] Wake source: 0x00000001
+[   21586.416] Which pin: 0x0200000000000000
+[   21647.379] Wake source: 0x00000001
+[   21647.382] Which pin: 0x0200000000000000
+[   21647.386] Alert[4] = 0x800
+[   21708.345] Wake source: 0x00000001
+[   21708.348] Which pin: 0x0200000000000000
+[   21769.315] Wake source: 0x00000001
+[   21769.318] Which pin: 0x0200000000000000
+[   21830.287] Wake source: 0x00000001
+[   21830.290] Which pin: 0x0200000000000000
+[   21830.294] Alert[4] = 0x800
+[   21865.669] Wake source: 0x00000001
+[   21865.672] Which pin: 0x0200000000000000
+[   21891.302] Wake source: 0x00000001
+[   21891.305] Which pin: 0x0200000000000000
+[   21891.309] Alert[4] = 0x800
+[   21952.267] Wake source: 0x00000001
+[   21952.270] Which pin: 0x0200000000000000
+[   22013.231] Wake source: 0x00000001
+[   22013.234] Which pin: 0x0200000000000000
+[   22013.238] Alert[4] = 0x800
+[   22074.197] Wake source: 0x00000001
+[   22074.200] Which pin: 0x0200000000000000
+[   22135.159] Wake source: 0x00000001
+[   22135.162] Which pin: 0x0200000000000000
+[   22135.166] Alert[4] = 0x800
+[   22173.394] Wake source: 0x00000001
+[   22173.397] Which pin: 0x0200000000000000
+[   22196.171] Wake source: 0x00000001
+[   22196.174] Which pin: 0x0200000000000000
+[   22257.136] Wake source: 0x00000001
+[   22257.139] Which pin: 0x0200000000000000
+[   22257.143] Alert[4] = 0x800
+[   22318.100] Wake source: 0x00000001
+[   22318.103] Which pin: 0x0200000000000000
+[   22379.064] Wake source: 0x00000001
+[   22379.067] Which pin: 0x0200000000000000
+[   22440.050] Wake source: 0x00000001
+[   22440.053] Which pin: 0x0200000000000000
+[   22481.163] Wake source: 0x00000001
+[   22481.166] Which pin: 0x0200000000000000
+[   22481.170] Alert[4] = 0x800
+[   22501.094] Wake source: 0x00000001
+[   22501.097] Which pin: 0x0200000000000000
+[   22501.102] Alert[4] = 0x800
+[   22562.084] Wake source: 0x00000001
+[   22562.087] Which pin: 0x0200000000000000
+[   22562.091] Alert[4] = 0x800
+[   22623.072] Wake source: 0x00000001
+[   22623.075] Which pin: 0x0200000000000000
+[   22684.073] Wake source: 0x00000001
+[   22684.076] Which pin: 0x0200000000000000
+[   22745.080] Wake source: 0x00000001
+[   22745.083] Which pin: 0x0200000000000000
+[   22745.087] Alert[4] = 0x800
+[   22789.141] Wake source: 0x00000001
+[   22789.144] Which pin: 0x0200000000000000
+[   22806.122] Wake source: 0x00000001
+[   22806.125] Which pin: 0x0200000000000000
+[   22806.129] Alert[4] = 0x800
+[   22867.112] Wake source: 0x00000001
+[   22867.115] Which pin: 0x0200000000000000
+[   22928.098] Wake source: 0x00000001
+[   22928.101] Which pin: 0x0200000000000000
+[   22928.105] Alert[4] = 0x800
+[   22989.072] Wake source: 0x00000001
+[   22989.075] Which pin: 0x0200000000000000
+[   23050.044] Wake source: 0x00000001
+[   23050.047] Which pin: 0x0200000000000000
+[   23050.051] Alert[4] = 0x800
+[   23096.958] Wake source: 0x00000001
+[   23096.961] Which pin: 0x0200000000000000
+[   23111.063] Wake source: 0x00000001
+[   23111.066] Which pin: 0x0200000000000000
+[   23172.033] Wake source: 0x00000001
+[   23172.036] Which pin: 0x0200000000000000
+[   23172.040] Alert[4] = 0x800
+[   23233.002] Wake source: 0x00000001
+[   23233.005] Which pin: 0x0200000000000000
+[   23293.969] Wake source: 0x00000001
+[   23293.972] Which pin: 0x0200000000000000
+[   23293.976] Alert[4] = 0x800
+[   23354.935] Wake source: 0x00000001
+[   23354.938] Which pin: 0x0200000000000000
+[   23354.942] Alert[4] = 0x800
+[   23404.683] Wake source: 0x00000001
+[   23404.686] Which pin: 0x0200000000000000
+[   23404.690] Alert[4] = 0x800
+[   23415.946] Wake source: 0x00000001
+[   23415.949] Which pin: 0x0200000000000000
+[   23415.953] Alert[4] = 0x800
+[   23476.907] Wake source: 0x00000001
+[   23476.910] Which pin: 0x0200000000000000
+[   23537.868] Wake source: 0x00000001
+[   23537.871] Which pin: 0x0200000000000000
+[   23537.875] Alert[4] = 0x800
+[   23598.832] Wake source: 0x00000001
+[   23598.835] Which pin: 0x0200000000000000
+[   23598.839] Alert[4] = 0x800
+[   23659.792] Wake source: 0x00000001
+[   23659.795] Which pin: 0x0200000000000000
+[   23659.799] Alert[4] = 0x800
+[   23712.396] Wake source: 0x00000001
+[   23712.399] Which pin: 0x0200000000000000
+[   23720.800] Wake source: 0x00000001
+[   23720.803] Which pin: 0x0200000000000000
+[   23781.760] Wake source: 0x00000001
+[   23781.763] Which pin: 0x0200000000000000
+[   23842.722] Wake source: 0x00000001
+[   23842.725] Which pin: 0x0200000000000000
+[   23903.686] Wake source: 0x00000001
+[   23903.689] Which pin: 0x0200000000000000
+[   23964.647] Wake source: 0x00000001
+[   23964.650] Which pin: 0x0200000000000000
+[   23964.654] Alert[4] = 0x800
+[   24020.103] Wake source: 0x00000001
+[   24020.106] Which pin: 0x0200000000000000
+[   24025.656] Wake source: 0x00000001
+[   24025.659] Which pin: 0x0200000000000000
+[   24025.681] RBOX: power button pressed
+[   24025.762] RBOX: power button released
+[   24086.622] Wake source: 0x00000001
+[   24086.625] Which pin: 0x0200000000000000
+[   24147.586] Wake source: 0x00000001
+[   24147.589] Which pin: 0x0200000000000000
+[   24208.551] Wake source: 0x00000001
+[   24208.554] Which pin: 0x0200000000000000
+[   24269.515] Wake source: 0x00000001
+[   24269.518] Which pin: 0x0200000000000000
+[   24269.522] Alert[4] = 0x800
+[   24327.826] Wake source: 0x00000001
+[   24327.829] Which pin: 0x0200000000000000
+[   24391.449] Wake source: 0x00000001
+[   24391.452] Which pin: 0x0200000000000000
+[   24452.410] Wake source: 0x00000001
+[   24452.413] Which pin: 0x0200000000000000
+[   24513.372] Wake source: 0x00000001
+[   24513.375] Which pin: 0x0200000000000000
+[   24574.333] Wake source: 0x00000001
+[   24574.336] Which pin: 0x0200000000000000
+[   24635.293] Wake source: 0x00000001
+[   24635.296] Which pin: 0x0200000000000000
+[   24649.439] Wake source: 0x00000004
+[   24649.442] RBOX: power button pressed
+[   24649.467] RBOX: power button released
+[   24649.891] RBOX: power button pressed
+[   24649.895] RBOX: power button released
+[   24696.301] Wake source: 0x00000001
+[   24696.304] Which pin: 0x0200000000000000
+[   24696.308] Alert[4] = 0x800
+[   24757.260] Wake source: 0x00000001
+[   24757.263] Which pin: 0x0200000000000000
+[   24818.219] Wake source: 0x00000001
+[   24818.222] Which pin: 0x0200000000000000
+[   24879.178] Wake source: 0x00000001
+[   24879.181] Which pin: 0x0200000000000000
+[   24940.135] Wake source: 0x00000001
+[   24940.139] Which pin: 0x0200000000000000
+g: Lddd => TPM Bus: SPI; FormFactor: ClamshellInvertedKso
+[       0.029] Reset Type: Wake
+[       0.031] Wake source: 0x00000004
+[       0.035] USB: Off
+[       0.042] RBOX: WP true
+[       0.042] cryptolib v1 at 0x100c00
+[       0.045] 
+[       0.050] Restoring AP RO verify status
+[       0.052] AP RO: OK
+[       0.054] AP RO verifications took 4 ms.
+[       0.058] TPM SPI initialized
+[       0.068] 22 files found across 6 pages.
+[       0.069] 6436 bytes of data.
+[       0.072] 0 invalid and 4 free pages.
+[       0.076] 0 erases since boot.
+[       0.079] Partition |   File ID   | Bank | Page | Size
+[       0.085]      0x03    0x0100100d      0    244    180
+[       0.090]      0x03    0x0100100a      0    245    188
+[       0.095]      0x03    0x0100100e      0    245    180
+[       0.101]      0x03    0x01001008      0    245    188
+[       0.106]      0x03    0x81000000      0    245    314
+[       0.111]      0x03    0x81000002      0    245    278
+[       0.117]      0x03    0x01001007      0    246    158
+[       0.122]      0x03    0x01800005      0    246    188
+[       0.127]      0x03    0x01800006      0    246    184
+[       0.132]      0x03    0x81000005      0    247    310
+[       0.138]      0x03    0x01800004      0    247    217
+[       0.143] 992 bytes free in active pages.
+[       0.147] Filesystem init took 86 ms.
+[       0.151] PLT_RST_L ASSERTED
+[       0.154] TPM SPI disabled (CS=true)
+[       0.159] RBOX: deassert EC_RST_L
+[       0.179] Valid CCD config found
+[       0.182] RBOX: WP true
+[       0.184] RBOX: WP true
+[       0.187] AP RO verification result: OK (0xfffff000)
+[       0.204] Key ladder state: Prod
+[       0.227] Console is enabled
+[       0.233] RBOX: WP true
+[       1.043] Servo: debouncing -> disconnected
+[      16.644] PLT_RST_L DEASSERTED
+[      16.680] TPM SPI enabled (CS=true)
+[      16.779] Deferring NV write.
+[      16.784] PinWeaver init
+[      16.867] PCR0 updated
+[      16.878] Deferring NV write.
+[      20.080] Idle erase.
+[      22.422] PLT_RST_L ASSERTED
+[      22.434] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[      22.440] TPM SPI disabled (CS=true)
+[      23.848] RBOX: power button pressed
+[      23.907] RBOX: key-combo ec-reset
+[      23.910] EFS2: boot_mode: Verified -> TrustedRO
+[      24.015] AC: -F
+[      24.016] AC: wait
+[      24.380] PLT_RST_L DEASSERTED
+[      24.383] TPM SPI enabled (CS=true)
+[      24.515] Deferring NV write.
+[      24.519] PinWeaver init
+[      24.545] PCR0 updated
+[      24.683] AC: R-
+[      24.685] RBOX: canceled battery disable
+[      28.558] RBOX: power button released
+[     133.509] Wake source: 0x00000001
+[     133.521] Which pin: 0x0200000000000800
+[     133.525] Alert[4] = 0x800
+[     133.528] PLT_RST_L ASSERTED
+[     133.531] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[     133.537] TPM SPI disabled (CS=true)
+[     133.619] EC_COMM: enabled
+[     133.622] EC_COMM: disabled
+[     134.038] EC_COMM: enabled
+[     134.057] EFS2: boot_mode: TrustedRO -> Verified
+[     134.061] EC_COMM: disabled
+[     134.254] AC: -F
+[     134.891] AC: R-
+[     135.588] RBOX: power button pressed
+[     135.835] PLT_RST_L DEASSERTED
+[     135.838] TPM SPI enabled (CS=true)
+[     135.970] Deferring NV write.
+[     135.975] PinWeaver init
+[     136.058] PCR0 updated
+[     136.068] Deferring NV write.
+[     137.217] Deferring NV write.
+[     139.519] Idle erase.
+[     139.841] RBOX: power button released
+[     139.999] PLT_RST_L ASSERTED
+[     140.012] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[     140.018] TPM SPI disabled (CS=true)
+[     140.861] RBOX: power button pressed
+[     141.109] PLT_RST_L DEASSERTED
+[     141.112] TPM SPI enabled (CS=true)
+[     141.245] Deferring NV write.
+[     141.249] PinWeaver init
+[     141.332] PCR0 updated
+[     141.342] Deferring NV write.
+[     142.084] RBOX: power button released
+[     159.191] TPM SPI write (3d40008): non-zero value 87
+[     162.515] Kernel booted.
+[     162.628] RBOX: WP true
+[     168.586] Idle erase.
+[     221.303] Wake source: 0x00000001
+[     221.306] Which pin: 0x0200000000000000
+[     221.310] Alert[4] = 0x800
+[     282.258] Wake source: 0x00000001
+[     282.261] Which pin: 0x0200000000000000
+[     282.265] Alert[4] = 0x800
+[     343.209] Wake source: 0x00000001
+[     343.212] Which pin: 0x0200000000000000
+[     404.161] Wake source: 0x00000001
+[     404.164] Which pin: 0x0200000000000000
+[     465.112] Wake source: 0x00000001
+[     465.115] Which pin: 0x0200000000000000
+[     465.119] Alert[4] = 0x800
+[     474.023] Wake source: 0x00000001
+[     474.026] Which pin: 0x0200000000000000
+[     526.112] Wake source: 0x00000001
+[     526.115] Which pin: 0x0200000000000000
+[     526.119] Alert[4] = 0x800
+[     587.063] Wake source: 0x00000001
+[     587.066] Which pin: 0x0200000000000000
+[     587.070] Alert[4] = 0x800
+[     648.017] Wake source: 0x00000001
+[     648.020] Which pin: 0x0200000000000000
+[     708.973] Wake source: 0x00000001
+[     708.976] Which pin: 0x0200000000000000
+[     769.929] Wake source: 0x00000001
+[     769.932] Which pin: 0x0200000000000000
+[     781.744] Wake source: 0x00000001
+[     781.747] Which pin: 0x0200000000000000
+[     781.751] Alert[4] = 0x800
+[     830.933] Wake source: 0x00000001
+[     830.936] Which pin: 0x0200000000000000
+[     830.940] Alert[4] = 0x800
+[     891.888] Wake source: 0x00000001
+[     891.891] Which pin: 0x0200000000000000
+[     891.895] Alert[4] = 0x800
+[     952.844] Wake source: 0x00000001
+[     952.847] Which pin: 0x0200000000000000
+[    1013.798] Wake source: 0x00000001
+[    1013.801] Which pin: 0x0200000000000000
+[    1074.752] Wake source: 0x00000001
+[    1074.755] Which pin: 0x0200000000000000
+[    1089.437] Wake source: 0x00000001
+[    1089.440] Which pin: 0x0200000000000000
+[    1135.755] Wake source: 0x00000001
+[    1135.758] Which pin: 0x0200000000000000
+[    1135.762] Alert[4] = 0x800
+[    1196.708] Wake source: 0x00000001
+[    1196.711] Which pin: 0x0200000000000000
+[    1257.661] Wake source: 0x00000001
+[    1257.664] Which pin: 0x0200000000000000
+[    1318.617] Wake source: 0x00000001
+[    1318.620] Which pin: 0x0200000000000000
+[    1379.569] Wake source: 0x00000001
+[    1379.572] Which pin: 0x0200000000000000
+[    1379.576] Alert[4] = 0x800
+[    1397.110] Wake source: 0x00000001
+[    1397.113] Which pin: 0x0200000000000000
+[    1440.575] Wake source: 0x00000001
+[    1440.578] Which pin: 0x0200000000000000
+[    1501.533] Wake source: 0x00000001
+[    1501.536] Which pin: 0x0200000000000000
+[    1562.488] Wake source: 0x00000001
+[    1562.491] Which pin: 0x0200000000000000
+[    1562.495] Alert[4] = 0x800
+[    1623.443] Wake source: 0x00000001
+[    1623.446] Which pin: 0x0200000000000000
+[    1684.398] Wake source: 0x00000001
+[    1684.401] Which pin: 0x0200000000000000
+[    1704.793] Wake source: 0x00000001
+[    1704.796] Which pin: 0x0200000000000000
+[    1745.403] Wake source: 0x00000001
+[    1745.406] Which pin: 0x0200000000000000
+[    1806.360] Wake source: 0x00000001
+[    1806.363] Which pin: 0x0200000000000000
+[    1806.367] Alert[4] = 0x800
+[    1867.317] Wake source: 0x00000001
+[    1867.320] Which pin: 0x0200000000000000
+[    1867.324] Alert[4] = 0x800
+[    1928.273] Wake source: 0x00000001
+[    1928.276] Which pin: 0x0200000000000000
+[    1989.230] Wake source: 0x00000001
+[    1989.233] Which pin: 0x0200000000000000
+[    2012.467] Wake source: 0x00000001
+[    2012.470] Which pin: 0x0200000000000000
+[    2050.237] Wake source: 0x00000001
+[    2050.240] Which pin: 0x0200000000000000
+[    2111.192] Wake source: 0x00000001
+[    2111.195] Which pin: 0x0200000000000000
+[    2111.199] Alert[4] = 0x800
+[    2172.148] Wake source: 0x00000001
+[    2172.151] Which pin: 0x0200000000000000
+[    2233.106] Wake source: 0x00000001
+[    2233.109] Which pin: 0x0200000000000000
+[    2294.060] Wake source: 0x00000001
+[    2294.063] Which pin: 0x0200000000000000
+[    2320.144] Wake source: 0x00000001
+[    2320.147] Which pin: 0x0200000000000000
+[    2320.151] Alert[4] = 0x800
+[    2355.067] Wake source: 0x00000001
+[    2355.070] Which pin: 0x0200000000000000
+[    2355.074] Alert[4] = 0x800
+[    2416.027] Wake source: 0x00000001
+[    2416.030] Which pin: 0x0200000000000000
+[    2416.034] Alert[4] = 0x800
+[    2476.990] Wake source: 0x00000001
+[    2476.993] Which pin: 0x0200000000000000
+[    2537.949] Wake source: 0x00000001
+[    2537.952] Which pin: 0x0200000000000000
+[    2598.909] Wake source: 0x00000001
+[    2598.912] Which pin: 0x0200000000000000
+[    2598.916] Alert[4] = 0x800
+[    2627.851] Wake source: 0x00000001
+[    2627.854] Which pin: 0x0200000000000000
+[    2659.918] Wake source: 0x00000001
+[    2659.921] Which pin: 0x0200000000000000
+[    2720.879] Wake source: 0x00000001
+[    2720.882] Which pin: 0x0200000000000000
+[    2781.838] Wake source: 0x00000001
+[    2781.841] Which pin: 0x0200000000000000
+[    2781.845] Alert[4] = 0x800
+[    2842.800] Wake source: 0x00000001
+[    2842.803] Which pin: 0x0200000000000000
+[    2903.774] Wake source: 0x00000001
+[    2903.777] Which pin: 0x0200000000000000
+[    2935.572] Wake source: 0x00000001
+[    2935.575] Which pin: 0x0200000000000000
+[    2935.579] Alert[4] = 0x800
+[    2964.791] Wake source: 0x00000001
+[    2964.794] Which pin: 0x0200000000000000
+[    3025.757] Wake source: 0x00000001
+[    3025.760] Which pin: 0x0200000000000000
+[    3086.722] Wake source: 0x00000001
+[    3086.725] Which pin: 0x0200000000000000
+[    3147.685] Wake source: 0x00000001
+[    3147.688] Which pin: 0x0200000000000000
+[    3208.649] Wake source: 0x00000001
+[    3208.652] Which pin: 0x0200000000000000
+[    3243.305] Wake source: 0x00000001
+[    3243.308] Which pin: 0x0200000000000000
+[    3269.661] Wake source: 0x00000001
+[    3269.664] Which pin: 0x0200000000000000
+[    3330.624] Wake source: 0x00000001
+[    3330.627] Which pin: 0x0200000000000000
+[    3391.587] Wake source: 0x00000001
+[    3391.590] Which pin: 0x0200000000000000
+[    3452.556] Wake source: 0x00000001
+[    3452.559] Which pin: 0x0200000000000000
+[    3452.563] Alert[4] = 0x800
+[    3513.518] Wake source: 0x00000001
+[    3513.521] Which pin: 0x0200000000000000
+[    3513.525] Alert[4] = 0x800
+[    3551.024] Wake source: 0x00000001
+[    3551.027] Which pin: 0x0200000000000000
+[    3551.031] Alert[4] = 0x800
+[    3574.526] Wake source: 0x00000001
+[    3574.529] Which pin: 0x0200000000000000
+[    3635.491] Wake source: 0x00000001
+[    3635.494] Which pin: 0x0200000000000000
+[    3696.455] Wake source: 0x00000001
+[    3696.458] Which pin: 0x0200000000000000
+[    3735.613] Wake source: 0x00000001
+[    3735.616] Which pin: 0x0200000000000000
+[    3757.466] Wake source: 0x00000001
+[    3757.469] Which pin: 0x0200000000000000
+[    3818.425] Wake source: 0x00000001
+[    3818.428] Which pin: 0x0200000000000000
+[    3858.786] Wake source: 0x00000001
+[    3858.789] Which pin: 0x0200000000000000
+[    3879.433] Wake source: 0x00000001
+[    3879.436] Which pin: 0x0200000000000000
+[    3879.440] Alert[4] = 0x800
+[    3940.392] Wake source: 0x00000001
+[    3940.395] Which pin: 0x0200000000000000
+[    4001.349] Wake source: 0x00000001
+[    4001.352] Which pin: 0x0200000000000000
+[    4062.311] Wake source: 0x00000001
+[    4062.314] Which pin: 0x0200000000000000
+[    4062.318] Alert[4] = 0x800
+[    4123.274] Wake source: 0x00000001
+[    4123.277] Which pin: 0x0200000000000000
+[    4166.492] Wake source: 0x00000001
+[    4166.495] Which pin: 0x0200000000000000
+[    4184.282] Wake source: 0x00000001
+[    4184.285] Which pin: 0x0200000000000000
+[    4245.241] Wake source: 0x00000001
+[    4245.244] Which pin: 0x0200000000000000
+[    4245.248] Alert[4] = 0x800
+[    4306.199] Wake source: 0x00000001
+[    4306.202] Which pin: 0x0200000000000000
+[    4367.157] Wake source: 0x00000001
+[    4367.160] Which pin: 0x0200000000000000
+[    4367.164] Alert[4] = 0x800
+[    4428.114] Wake source: 0x00000001
+[    4428.117] Which pin: 0x0200000000000000
+[    4474.187] Wake source: 0x00000001
+[    4474.190] Which pin: 0x0200000000000000
+[    4489.121] Wake source: 0x00000001
+[    4489.124] Which pin: 0x0200000000000000
+[    4550.083] Wake source: 0x00000001
+[    4550.086] Which pin: 0x0200000000000000
+[    4550.090] Alert[4] = 0x800
+[    4611.042] Wake source: 0x00000001
+[    4611.045] Which pin: 0x0200000000000000
+[    4672.001] Wake source: 0x00000001
+[    4672.004] Which pin: 0x0200000000000000
+[    4732.956] Wake source: 0x00000001
+[    4732.959] Which pin: 0x0200000000000000
+[    4781.880] Wake source: 0x00000001
+[    4781.883] Which pin: 0x0200000000000000
+[    4781.887] Alert[4] = 0x800
+[    4793.963] Wake source: 0x00000001
+[    4793.966] Which pin: 0x0200000000000000
+[    4854.923] Wake source: 0x00000001
+[    4854.926] Which pin: 0x0200000000000000
+[    4854.930] Alert[4] = 0x800
+[    4915.881] Wake source: 0x00000001
+[    4915.884] Which pin: 0x0200000000000000
+[    4915.888] Alert[4] = 0x800
+[    4976.839] Wake source: 0x00000001
+[    4976.842] Which pin: 0x0200000000000000
+[    5037.795] Wake source: 0x00000001
+[    5037.798] Which pin: 0x0200000000000000
+[    5089.560] Wake source: 0x00000001
+[    5089.563] Which pin: 0x0200000000000000
+[    5098.800] Wake source: 0x00000001
+[    5098.803] Which pin: 0x0200000000000000
+[    5159.756] Wake source: 0x00000001
+[    5159.759] Which pin: 0x0200000000000000
+[    5209.066] Wake source: 0x00000004
+[    5209.069] Alert[4] = 0x800
+[    5209.072] RBOX: power button pressed
+[    5209.635] RBOX: power button released
+[    5215.642] Wake source: 0x00000004
+[    5215.645] AC: -F
+[    5215.755] ADC: connected: Servo-snk(dut:RpUSB)
+[    5215.759] CCD_MODE:      asserted
+[    5215.762] USB: On
+[    5226.664] Idle erase.
+[    5226.679] PLT_RST_L ASSERTED
+[    5226.692] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[    5226.697] TPM SPI disabled (CS=true)
+[    6765.397] PLT_RST_L DEASSERTED
+[    6765.400] TPM SPI enabled (CS=true)
+[    6765.533] Deferring NV write.
+[    6765.537] PinWeaver init
+[    6765.620] PCR0 updated
+[    6765.630] Deferring NV write.
+[    6766.570] RBOX: power button pressed
+[    6766.607] RBOX: key-combo ec-reset
+[    6766.622] PLT_RST_L ASSERTED
+[    6766.625] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[    6766.631] TPM SPI disabled (CS=true)
+[    6766.634] PLT_RST_L DEASSERTED
+[    6766.639] TPM SPI enabled (CS=true)
+[    6766.643] EFS2: boot_mode: Verified -> TrustedRO
+[    6766.648] TPM app missed PLT_RST_L event. Handling TPM reset now
+[    6766.654] TPM app missed PLT_RST_L event. Handling TPM reset now
+[    6766.664] PLT_RST_L ASSERTED
+[    6766.677] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[    6766.682] TPM SPI disabled (CS=true)
+[    6766.968] PLT_RST_L DEASSERTED
+[    6766.971] TPM SPI enabled (CS=true)
+[    6767.102] Deferring NV write.
+[    6767.106] PinWeaver init
+[    6767.131] PCR0 updated
+[    6771.167] RBOX: power button released
+[    6781.225] PLT_RST_L ASSERTED
+[    6781.238] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[    6781.244] TPM SPI disabled (CS=true)
+[    6781.284] EC_COMM: enabled
+[    6781.286] EC_COMM: disabled
+[    6781.704] EC_COMM: enabled
+[    6781.722] EFS2: boot_mode: TrustedRO -> Verified
+[    6781.727] EC_COMM: disabled
+[    6782.146] RBOX: power button pressed
+[    6782.392] PLT_RST_L DEASSERTED
+[    6782.394] TPM SPI enabled (CS=true)
+[    6782.527] Deferring NV write.
+[    6782.531] PinWeaver init
+[    6782.615] PCR0 updated
+[    6782.626] Deferring NV write.
+[    6783.840] Deferring NV write.
+[    6784.582] RBOX: power button released
+[    6785.800] Idle erase.
+[    6795.647] TPM SPI write (3d40008): non-zero value 87
+[    6798.944] Kernel booted.
+[    6799.046] RBOX: WP true
+[    6810.861] Idle erase.
+[    6811.863] Idle erase.
+[    8170.132] RBOX: power button pressed
+[    8170.139] RBOX: power button released
+[    8627.964] RBOX: power button pressed
+[    8628.011] RBOX: power button released
+[    8629.218] RBOX: power button pressed
+[    8629.274] RBOX: power button released
+[    8999.245] RBOX: power button pressed
+[    8999.252] RBOX: power button released
+[    9001.231] RBOX: power button pressed
+[    9001.332] RBOX: power button released
+[   13240.894] ADC: disconnected
+[   13240.897] CCD_MODE:      deasserted
+[   13240.900] USB: Off
+[   13252.490] Wake source: 0x00000001
+[   13252.493] Which pin: 0x0200000000000000
+[   13313.535] Wake source: 0x00000001
+[   13313.538] Which pin: 0x0200000000000000
+[   13313.542] Alert[4] = 0x800
+[   13374.599] Wake source: 0x00000001
+[   13374.602] Which pin: 0x0200000000000000
+[   13374.606] Alert[4] = 0x800
+[   13435.640] Wake source: 0x00000001
+[   13435.643] Which pin: 0x0200000000000000
+[   13435.647] Alert[4] = 0x800
+[   13496.682] Wake source: 0x00000001
+[   13496.685] Which pin: 0x0200000000000000
+[   13496.689] Alert[4] = 0x800
+[   13557.727] Wake source: 0x00000001
+[   13557.730] Which pin: 0x0200000000000000
+[   13618.779] Wake source: 0x00000001
+[   13618.782] Which pin: 0x0200000000000000
+[   13623.782] Wake source: 0x00000000
+[   13629.645] Wake source: 0x00000000
+[   13679.913] Wake source: 0x00000001
+[   13679.916] Which pin: 0x0200000000000000
+[   13740.924] Wake source: 0x00000001
+[   13740.927] Which pin: 0x0200000000000000
+[   13801.937] Wake source: 0x00000001
+[   13801.940] Which pin: 0x0200000000000000
+[   13862.945] Wake source: 0x00000001
+[   13862.948] Which pin: 0x0200000000000000
+[   13923.950] Wake source: 0x00000001
+[   13923.953] Which pin: 0x0200000000000000
+[   13934.609] Wake source: 0x00000001
+[   13934.612] Which pin: 0x0200000000000000
+       0.089]      0x03    0x0100100d      0    242    180
+[       0.094]      0x03    0x01001007      0    244    158
+[       0.099]      0x03    0x01800005      0    244    188
+[       0.105]      0x03    0x01800006      0    244    184
+[       0.110]      0x03    0x0100100a      0    245    188
+[       0.115]      0x03    0x0100100e      0    245    180
+[       0.121]      0x03    0x01001008      0    245    188
+[       0.126]      0x03    0x81000000      0    245    314
+[       0.131]      0x03    0x81000002      0    245    278
+[       0.137]      0x03    0x81000005      0    247    310
+[       0.142]      0x03    0x01800004      0    247    217
+[       0.147] 1184 bytes free in active pages.
+[       0.151] Filesystem init took 86 ms.
+[       0.155] PLT_RST_L ASSERTED
+[       0.158] TPM SPI disabled (CS=true)
+[       0.163] RBOX: deassert EC_RST_L
+[       0.183] Valid CCD config found
+[       0.186] RBOX: WP true
+[       0.189] RBOX: WP true
+[       0.191] AP RO verification result: OK (0xfffff000)
+[       0.209] Key ladder state: Prod
+[       0.231] Console is enabled
+[       0.237] PLT_RST_L DEASSERTED
+[       0.240] RBOX: WP true
+[       0.274] TPM SPI enabled (CS=true)
+[       0.367] Deferring NV write.
+[       0.372] PinWeaver init
+[       0.455] PCR0 updated
+[       0.466] Deferring NV write.
+[       1.048] Servo: debouncing -> disconnected
+[       1.621] Deferring NV write.
+[       3.282] ADC: connected: Servo-snk(dut:Rp3A0)
+[       3.287] CCD_MODE:      asserted
+[       3.291] USB: On
+[       4.350] ADC: disconnected
+[       4.352] CCD_MODE:      deasserted
+[       4.356] USB: Off
+[       8.376] PLT_RST_L ASSERTED
+[       8.389] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[       8.395] TPM SPI disabled (CS=true)
+[      11.554] RBOX: power button pressed
+[      11.583] RBOX: key-combo ec-reset
+[      11.586] EFS2: boot_mode: Verified -> TrustedRO
+[      12.072] PLT_RST_L DEASSERTED
+[      12.075] TPM SPI enabled (CS=true)
+[      12.208] Deferring NV write.
+[      12.212] PinWeaver init
+[      12.235] PCR0 updated
+[      15.849] ADC: connected: Servo-snk(dut:Rp3A0)
+[      15.854] CCD_MODE:      asserted
+[      15.857] USB: On
+[      16.172] RBOX: power button released
+[      16.920] ADC: disconnected
+[      16.922] CCD_MODE:      deasserted
+[      16.926] USB: Off
+[      62.792] PLT_RST_L ASSERTED
+[      62.805] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[      62.811] TPM SPI disabled (CS=true)
+[      62.867] EC_COMM: enabled
+[      62.869] EC_COMM: disabled
+[      63.274] EC_COMM: enabled
+[      63.295] EFS2: boot_mode: TrustedRO -> Verified
+[      63.299] EC_COMM: disabled
+[      63.751] RBOX: power button pressed
+[      63.997] PLT_RST_L DEASSERTED
+[      64.000] TPM SPI enabled (CS=true)
+[      64.132] Deferring NV write.
+[      64.137] PinWeaver init
+[      64.220] PCR0 updated
+[      64.230] Deferring NV write.
+[      65.448] Deferring NV write.
+[      66.576] RBOX: power button released
+[      66.837] ADC: connected: Servo-snk(dut:Rp3A0)
+[      66.841] CCD_MODE:      asserted
+[      66.844] USB: On
+[      67.204] Idle erase.
+[      67.904] ADC: disconnected
+[      67.907] CCD_MODE:      deasserted
+[      67.910] USB: Off
+[      79.662] PLT_RST_L ASSERTED
+[      79.675] TPM SPI couldn't set mode 0 (current=1, CS=true)
+[      79.681] TPM SPI disabled (CS=true)
+[      80.518] RBOX: power button pressed
+[      80.765] PLT_RST_L DEASSERTED
+[      80.767] TPM SPI enabled (CS=true)
+[      80.900] Deferring NV write.
+[      80.904] PinWeaver init
+[      80.987] PCR0 updated
+[      80.997] Deferring NV write.
+[      82.800] ADC: connected: Servo-snk(dut:Rp3A0)
+[      82.805] CCD_MODE:      asserted
+[      82.808] USB: On
+[      83.563] RBOX: power button released
+[      83.862] ADC: disconnected
+[      83.864] CCD_MODE:      deasserted
+[      83.868] USB: Off
+[      89.486] TPM SPI write (3d40008): non-zero value 87
+[      95.248] Kernel booted.
+[      95.368] RBOX: WP true
+[     102.292] Idle erase.
+[     151.700] Wake source: 0x00000001
+[     151.703] Which pin: 0x0200000000000000
+[     212.685] Wake source: 0x00000001
+[     212.688] Which pin: 0x0200000000000000
+[     273.661] Wake source: 0x00000001
+[     273.664] Which pin: 0x0200000000000000
+[     334.635] Wake source: 0x00000001
+[     334.638] Which pin: 0x0200000000000000
+[     334.642] Alert[4] = 0x800
+[     339.638] Wake source: 0x00000000
+[     395.658] Wake source: 0x00000001
+[     395.661] Which pin: 0x0200000000000000
+[     410.965] Wake source: 0x00000001
+[     410.968] Which pin: 0x0200000000000000
+[     456.683] Wake source: 0x00000001
+[     456.686] Which pin: 0x0200000000000000
+[     456.690] Alert[4] = 0x800
+[     461.692] Wake source: 0x00000000
+[     517.707] Wake source: 0x00000001
+[     517.710] Which pin: 0x0200000000000000
+[     517.714] Alert[4] = 0x800
+[     522.711] Wake source: 0x00000000
+[     527.719] Wake source: 0x00000000
+[     578.781] Wake source: 0x00000001
+[     578.784] Which pin: 0x0200000000000000
+[     578.788] Alert[4] = 0x800
+[     583.785] Wake source: 0x00000000
+[     639.812] Wake source: 0x00000001
+[     639.815] Which pin: 0x0200000000000000
+[     700.797] Wake source: 0x00000001
+[     700.800] Which pin: 0x0200000000000000
+[     719.007] Wake source: 0x00000001
+[     719.011] Which pin: 0x0200000000000000
+[     719.015] Alert[4] = 0x800
+[     761.829] Wake source: 0x00000001
+[     761.832] Which pin: 0x0200000000000000
+[     761.836] Alert[4] = 0x800
+[     822.815] Wake source: 0x00000001
+[     822.818] Which pin: 0x0200000000000000
+[     822.822] Alert[4] = 0x800
+[     883.800] Wake source: 0x00000001
+[     883.803] Which pin: 0x0200000000000000
+[     944.788] Wake source: 0x00000001
+[     944.791] Which pin: 0x0200000000000000
+[    1005.776] Wake source: 0x00000001
+[    1005.779] Which pin: 0x0200000000000000
+[    1026.878] Wake source: 0x00000001
+[    1026.881] Which pin: 0x0200000000000000
+[    1026.885] Alert[4] = 0x800
+[    1066.810] Wake source: 0x00000001
+[    1066.813] Which pin: 0x0200000000000000
+[    1127.800] Wake source: 0x00000001
+[    1127.803] Which pin: 0x0200000000000000
+[    1132.804] Wake source: 0x00000000
+[    1137.809] Wake source: 0x00000000
+[    1188.882] Wake source: 0x00000001
+[    1188.885] Which pin: 0x0200000000000000
+[    1201.322] Wake source: 0x00000004
+[    1201.325] Alert[4] = 0x800
+[    1201.328] RBOX: power button pressed
+[    1201.336] RBOX: power button released
+[    1201.339] RBOX: power button pressed
+[    1201.369] RBOX: power button released
+[    1206.326] Wake source: 0x00000000
+[    1249.964] Wake source: 0x00000001
+[    1249.967] Which pin: 0x0200000000000000
+[    1254.968] Wake source: 0x00000000
+[    1259.971] Wake source: 0x00000000
+[    1311.045] Wake source: 0x00000001
+[    1311.048] Which pin: 0x0200000000000000
+[    1316.050] Wake source: 0x00000000
+[    1335.036] Wake source: 0x00000001
+[    1335.039] Which pin: 0x0200000000000000
+[    1372.129] Wake source: 0x00000001
+[    1372.132] Which pin: 0x0200000000000000
+[    1377.134] Wake source: 0x00000000
+[    1433.170] Wake source: 0x00000001
+[    1433.173] Which pin: 0x0200000000000000
+[    1438.173] Wake source: 0x00000000
+[    1443.177] Wake source: 0x00000000
+[    1448.182] Wake source: 0x00000000
+[    1494.295] Wake source: 0x00000001
+[    1494.298] Which pin: 0x0200000000000000
+[    1499.298] Wake source: 0x00000000
+[    1504.304] Wake source: 0x00000000
+[    1509.316] Wake source: 0x00000000
+[    1555.424] Wake source: 0x00000001
+[    1555.427] Which pin: 0x0200000000000000
+[    1555.431] Alert[4] = 0x800
+[    1616.420] Wake source: 0x00000001
+[    1616.423] Which pin: 0x0200000000000000
+[    1643.246] Wake source: 0x00000001
+[    1643.249] Which pin: 0x0200000000000000
+[    1643.253] Alert[4] = 0x800
+[    1677.463] Wake source: 0x00000001
+[    1677.467] Which pin: 0x0200000000000000
+[    1738.462] Wake source: 0x00000001
+[    1738.465] Which pin: 0x0200000000000000
+[    1738.469] Alert[4] = 0x800
+[    1743.467] Wake source: 0x00000000
+[    1799.505] Wake source: 0x00000001
+[    1799.508] Which pin: 0x0200000000000000
+[    1804.508] Wake source: 0x00000000
+[    1860.549] Wake source: 0x00000001
+[    1860.553] Which pin: 0x0200000000000000
+[    1860.557] Alert[4] = 0x800
+[    1921.547] Wake source: 0x00000001
+[    1921.550] Which pin: 0x0200000000000000
+[    1951.240] Wake source: 0x00000001
+[    1951.243] Which pin: 0x0200000000000000
+[    1956.245] Wake source: 0x00000000
+[    1982.633] Wake source: 0x00000001
+[    1982.636] Which pin: 0x0200000000000000
+[    2043.633] Wake source: 0x00000001
+[    2043.636] Which pin: 0x0200000000000000
+[    2043.640] Alert[4] = 0x800
+[    2104.632] Wake source: 0x00000001
+[    2104.635] Which pin: 0x0200000000000000
+[    2165.631] Wake source: 0x00000001
+[    2165.634] Which pin: 0x0200000000000000
+[    2170.636] Wake source: 0x00000000
+[    2226.673] Wake source: 0x00000001
+[    2226.676] Which pin: 0x0200000000000000
+[    2226.680] Alert[4] = 0x800
+[    2259.209] Wake source: 0x00000001
+[    2259.212] Which pin: 0x0200000000000000
+[    2264.221] Wake source: 0x00000000
+[    2287.760] Wake source: 0x00000001
+[    2287.763] Which pin: 0x0200000000000000
+[    2348.758] Wake source: 0x00000001
+[    2348.761] Which pin: 0x0200000000000000
+[    2353.761] Wake source: 0x00000000
+[    2358.766] Wake source: 0x00000000
+[    2363.771] Wake source: 0x00000000
+[    2368.777] Wake source: 0x00000000
+[    2409.933] Wake source: 0x00000001
+[    2409.936] Which pin: 0x0200000000000000
+[    2414.939] Wake source: 0x00000000
+[    2470.977] Wake source: 0x00000001
+[    2470.980] Which pin: 0x0200000000000000
+[    2470.984] Alert[4] = 0x800
+[    2531.979] Wake source: 0x00000001
+[    2531.982] Which pin: 0x0200000000000000
+[    2531.986] Alert[4] = 0x800
+[    2536.982] Wake source: 0x00000000
+[    2567.415] Wake source: 0x00000001
+[    2567.418] Which pin: 0x0200000000000000
+[    2593.071] Wake source: 0x00000001
+[    2593.074] Which pin: 0x0200000000000000
+[    2654.074] Wake source: 0x00000001
+[    2654.077] Which pin: 0x0200000000000000
+[    2715.076] Wake source: 0x00000001
+[    2715.079] Which pin: 0x0200000000000000
+[    2776.076] Wake source: 0x00000001
+[    2776.079] Which pin: 0x0200000000000000
+[    2837.081] Wake source: 0x00000001
+[    2837.084] Which pin: 0x0200000000000000
+[    2837.088] Alert[4] = 0x800
+[    2842.086] Wake source: 0x00000000
+[    2875.376] Wake source: 0x00000001
+[    2875.379] Which pin: 0x0200000000000000
+[    2875.383] Alert[4] = 0x800
+[    2898.175] Wake source: 0x00000001
+[    2898.178] Which pin: 0x0200000000000000
+[    2898.182] Alert[4] = 0x800
+[    2903.181] Wake source: 0x00000000
+[    2959.221] Wake source: 0x00000001
+[    2959.224] Which pin: 0x0200000000000000
+[    3020.223] Wake source: 0x00000001
+[    3020.226] Which pin: 0x0200000000000000
+[    3020.230] Alert[4] = 0x800
+[    3025.227] Wake source: 0x00000000
+[    3081.267] Wake source: 0x00000001
+[    3081.270] Which pin: 0x0200000000000000
+[    3086.270] Wake source: 0x00000000
+[    3142.314] Wake source: 0x00000001
+[    3142.317] Which pin: 0x0200000000000000
+[    3147.317] Wake source: 0x00000000
+[    3183.464] Wake source: 0x00000001
+[    3183.467] Which pin: 0x0200000000000000
+[    3188.476] Wake source: 0x00000000
+[    3203.449] Wake source: 0x00000001
+[    3203.452] Which pin: 0x0200000000000000
+[    3203.456] Alert[4] = 0x800
+[    3264.456] Wake source: 0x00000001
+[    3264.459] Which pin: 0x0200000000000000
+[    3269.459] Wake source: 0x00000000
+[    3274.467] Wake source: 0x00000000
+[    3279.472] Wake source: 0x00000000
+[    3325.593] Wake source: 0x00000001
+[    3325.596] Which pin: 0x0200000000000000
+[    3386.600] Wake source: 0x00000001
+[    3386.603] Which pin: 0x0200000000000000
+[    3391.604] Wake source: 0x00000000
+[    3447.646] Wake source: 0x00000001
+[    3447.649] Which pin: 0x0200000000000000
+[    3447.653] Alert[4] = 0x800
+[    3491.612] Wake source: 0x00000001
+[    3491.615] Which pin: 0x0200000000000000
+[    3491.619] Alert[4] = 0x800
+[    3496.618] Wake source: 0x00000000
+[    3508.739] Wake source: 0x00000001
+[    3508.742] Which pin: 0x0200000000000000
+[    3569.743] Wake source: 0x00000001
+[    3569.746] Which pin: 0x0200000000000000
+[    3574.748] Wake source: 0x00000000
+[    3579.753] Wake source: 0x00000000
+[    3584.758] Wake source: 0x00000000
+[    3589.761] Wake source: 0x00000000
+[    3594.765] Wake source: 0x00000000
+[    3599.772] Wake source: 0x00000000
+[    3631.007] Wake source: 0x00000001
+[    3631.010] Which pin: 0x0200000000000000
+[    3631.014] Alert[4] = 0x800
+[    3636.015] Wake source: 0x00000000
+[    3672.646] Wake source: 0x00000001
+[    3672.649] Which pin: 0x0200000000000000
+[    3672.653] Alert[4] = 0x800
+[    3692.096] Wake source: 0x00000001
+[    3692.099] Which pin: 0x0200000000000000
+[    3692.103] Alert[4] = 0x800
+[    3697.099] Wake source: 0x00000000
+[    3753.140] Wake source: 0x00000001
+[    3753.143] Which pin: 0x0200000000000000
+[    3799.963] Wake source: 0x00000001
+[    3799.966] Which pin: 0x0200000000000000
+[    3814.194] Wake source: 0x00000001
+[    3814.197] Which pin: 0x0200000000000000
+[    3875.222] Wake source: 0x00000001
+[    3875.225] Which pin: 0x0200000000000000
+[    3875.229] Alert[4] = 0x800
+[    3936.259] Wake source: 0x00000001
+[    3936.262] Which pin: 0x0200000000000000
+[    3997.299] Wake source: 0x00000001
+[    3997.303] Which pin: 0x0200000000000000
+[    3997.307] Alert[4] = 0x800
+[    4058.346] Wake source: 0x00000001
+[    4058.349] Which pin: 0x0200000000000000
+[    4058.353] Alert[4] = 0x800
+[    4108.047] Wake source: 0x00000001
+[    4108.050] Which pin: 0x0200000000000000
+[    4119.416] Wake source: 0x00000001
+[    4119.419] Which pin: 0x0200000000000000
+[    4124.420] Wake source: 0x00000000
+[    4129.428] Wake source: 0x00000000
+[    4180.518] Wake source: 0x00000001
+[    4180.521] Which pin: 0x0200000000000000
+[    4180.525] Alert[4] = 0x800
+[    4222.945] Wake source: 0x00000004
+[    4222.948] Alert[4] = 0x800
+[    4222.951] RBOX: power button pressed
+[    4223.012] RBOX: power button released
+[    4241.591] Wake source: 0x00000001
+[    4241.594] Which pin: 0x0200000000000000
+[    4246.594] Wake source: 0x00000000
+[    4302.683] Wake source: 0x00000001
+[    4302.686] Which pin: 0x0200000000000000
+[    4302.690] Alert[4] = 0x800
+[    4303.686] Idle erase.
+[    4363.736] Wake source: 0x00000001
+[    4363.739] Which pin: 0x0200000000000000
+[    4363.743] Alert[4] = 0x800
+[    4416.316] Wake source: 0x00000001
+[    4416.319] Which pin: 0x0200000000000000
+[    4416.323] Alert[4] = 0x800
+[    4421.320] Wake source: 0x00000000
+[    4485.884] Wake source: 0x00000001
+[    4485.887] Which pin: 0x0200000000000000
+[    4490.888] Wake source: 0x00000000
+[    4495.892] Wake source: 0x00000000
+[    4547.011] Wake source: 0x00000001
+[    4547.015] Which pin: 0x0200000000000000
+[    4608.054] Wake source: 0x00000001
+[    4608.057] Which pin: 0x0200000000000000
+[    4613.063] Wake source: 0x00000000
+[    4618.069] Wake source: 0x00000000
+[    4623.074] Wake source: 0x00000000
+[    4669.219] Wake source: 0x00000001
+[    4669.222] Which pin: 0x0200000000000000
+[    4724.674] Wake source: 0x00000001
+[    4724.677] Which pin: 0x0200000000000000
+[    4729.677] Wake source: 0x00000000
+[    4791.351] Wake source: 0x00000001
+[    4791.354] Which pin: 0x0200000000000000
+[    4852.399] Wake source: 0x00000001
+[    4852.402] Which pin: 0x0200000000000000
+[    4913.449] Wake source: 0x00000001
+[    4913.452] Which pin: 0x0200000000000000
+[    4913.456] Alert[4] = 0x800
+[    4918.454] Wake source: 0x00000000
+[    4974.532] Wake source: 0x00000001
+[    4974.535] Which pin: 0x0200000000000000
+[    4974.539] Alert[4] = 0x800
+[    5032.850] Wake source: 0x00000001
+[    5032.853] Which pin: 0x0200000000000000
+[    5038.617] Wake source: 0x00000000
+[    5043.633] Wake source: 0x00000000
+[    5096.708] Wake source: 0x00000001
+[    5096.711] Which pin: 0x0200000000000000
+[    5096.715] Alert[4] = 0x800
+[    5157.751] Wake source: 0x00000001
+[    5157.754] Which pin: 0x0200000000000000
+[    5218.792] Wake source: 0x00000001
+[    5218.795] Which pin: 0x0200000000000000
+[    5223.798] Wake source: 0x00000000
+[    5279.878] Wake source: 0x00000001
+[    5279.881] Which pin: 0x0200000000000000
+[    5340.920] Wake source: 0x00000001
+[    5340.923] Which pin: 0x0200000000000000
+[    5401.958] Wake source: 0x00000001
+[    5401.961] Which pin: 0x0200000000000000
+[    5463.001] Wake source: 0x00000001
+[    5463.004] Which pin: 0x0200000000000000
+[    5463.008] Alert[4] = 0x800
+[    5524.045] Wake source: 0x00000001
+[    5524.048] Which pin: 0x0200000000000000
+[    5524.052] Alert[0] = 0x2
+[    5585.087] Wake source: 0x00000001
+[    5585.090] Which pin: 0x0200000000000000
+[    5585.094] Alert[4] = 0x800
+[    5646.131] Wake source: 0x00000001
+[    5646.134] Which pin: 0x0200000000000000
+[    5646.138] Alert[4] = 0x800
+[    5707.183] Wake source: 0x00000001
+[    5707.186] Which pin: 0x0200000000000000
+[    5768.218] Wake source: 0x00000001
+[    5768.221] Which pin: 0x0200000000000000
+[    5829.244] Wake source: 0x00000001
+[    5829.247] Which pin: 0x0200000000000000
+[    5834.253] Wake source: 0x00000000
+[    5890.330] Wake source: 0x00000001
+[    5890.333] Which pin: 0x0200000000000000
+[    5895.334] Wake source: 0x00000000
+[    5951.414] Wake source: 0x00000001
+[    5951.417] Which pin: 0x0200000000000000
+[    5957.300] Wake source: 0x00000001
+[    5957.303] Which pin: 0x0200000000000000
+[    6012.500] Wake source: 0x00000001
+[    6012.503] Which pin: 0x0200000000000000
+[    6012.507] Alert[4] = 0x800
+[    6073.543] Wake source: 0x00000001
+[    6073.546] Which pin: 0x0200000000000000
+[    6134.585] Wake source: 0x00000001
+[    6134.588] Which pin: 0x0200000000000000
+[    6195.620] Wake source: 0x00000001
+[    6195.623] Which pin: 0x0200000000000000
+[    6200.625] Wake source: 0x00000000
+[    6205.631] Wake source: 0x00000000
+[    6256.742] Wake source: 0x00000001
+[    6256.745] Which pin: 0x0200000000000000
+[    6265.484] Wake source: 0x00000001
+[    6265.487] Which pin: 0x0200000000000000
+[    6270.488] Wake source: 0x00000000
+[    6275.492] Wake source: 0x00000000
+[    6317.905] Wake source: 0x00000001
+[    6317.908] Which pin: 0x0200000000000000
+[    6378.957] Wake source: 0x00000001
+[    6378.960] Which pin: 0x0200000000000000
+[    6383.962] Wake source: 0x00000000
+[    6388.968] Wake source: 0x00000000
+[    6393.971] Wake source: 0x00000000
+[    6440.122] Wake source: 0x00000001
+[    6440.125] Which pin: 0x0200000000000000
+[    6501.170] Wake source: 0x00000001
+[    6501.173] Which pin: 0x0200000000000000
+[    6506.177] Wake source: 0x00000000
+[    6562.258] Wake source: 0x00000001
+[    6562.261] Which pin: 0x0200000000000000
+[    6562.265] Alert[4] = 0x800
+[    6573.861] Wake source: 0x00000001
+[    6573.864] Which pin: 0x0200000000000000
+[    6623.354] Wake source: 0x00000001
+[    6623.357] Which pin: 0x0200000000000000
+[    6623.361] Alert[4] = 0x800
+[    6628.358] Wake source: 0x00000000
+[    6684.448] Wake source: 0x00000001
+[    6684.451] Which pin: 0x0200000000000000
+[    6689.453] Wake source: 0x00000000
+[    6745.538] Wake source: 0x00000001
+[    6745.541] Which pin: 0x0200000000000000
+[    6745.545] Alert[4] = 0x800
+[    6750.547] Wake source: 0x00000000
+[    6806.625] Wake source: 0x00000001
+[    6806.628] Which pin: 0x0200000000000000
+[    6811.632] Wake source: 0x00000000
+[    6867.714] Wake source: 0x00000001
+[    6867.717] Which pin: 0x0200000000000000
+[    6882.165] Wake source: 0x00000001
+[    6882.168] Which pin: 0x0200000000000000
+[    6882.172] Alert[3] = 0x1000
+[    6928.810] Wake source: 0x00000001
+[    6928.813] Which pin: 0x0200000000000000
+[    6928.817] Alert[4] = 0x800
+[    6989.871] Wake source: 0x00000001
+[    6989.874] Which pin: 0x0200000000000000
+[    6989.878] Alert[4] = 0x800
+[    6994.877] Wake source: 0x00000000
+[    6999.881] Wake source: 0x00000000
+[    7004.888] Wake source: 0x00000000
+[    7051.048] Wake source: 0x00000001
+[    7051.051] Which pin: 0x0200000000000000
+[    7056.053] Wake source: 0x00000000
+[    7112.152] Wake source: 0x00000001
+[    7112.155] Which pin: 0x0200000000000000
+[    7117.156] Wake source: 0x00000000
+[    7122.160] Wake source: 0x00000000
+[    7173.299] Wake source: 0x00000001
+[    7173.302] Which pin: 0x0200000000000000
+[    7190.630] Wake source: 0x00000001
+[    7190.633] Which pin: 0x0200000000000000
+[    7190.637] Alert[4] = 0x800
+[    7234.409] Wake source: 0x00000001
+[    7234.412] Which pin: 0x0200000000000000
+[    7251.282] Wake source: 0x00000001
+[    7251.285] Which pin: 0x0200000000000000
+[    7256.287] Wake source: 0x00000000
+[    7295.563] Wake source: 0x00000001
+[    7295.566] Which pin: 0x0200000000000000
+[    7300.567] Wake source: 0x00000000
+[    7356.674] Wake source: 0x00000001
+[    7356.677] Which pin: 0x0200000000000000
+[    7356.681] Alert[4] = 0x800
+[    7361.677] Wake source: 0x00000000
+[    7417.783] Wake source: 0x00000001
+[    7417.786] Which pin: 0x0200000000000000
+[    7478.856] Wake source: 0x00000001
+[    7478.859] Which pin: 0x0200000000000000
+[    7478.863] Alert[4] = 0x800
+[    7499.054] Wake source: 0x00000001
+[    7499.057] Which pin: 0x0200000000000000
+[    7499.061] Alert[4] = 0x800
+[    7539.972] Wake source: 0x00000001
+[    7539.975] Which pin: 0x0200000000000000
+[    7601.040] Wake source: 0x00000001
+[    7601.043] Which pin: 0x0200000000000000
+[    7662.083] Wake source: 0x00000001
+[    7662.086] Which pin: 0x0200000000000000
+[    7662.090] Alert[4] = 0x800
+[    7723.124] Wake source: 0x00000001
+[    7723.127] Which pin: 0x0200000000000000
+[    7728.129] Wake source: 0x00000000
+[    7733.135] Wake source: 0x00000000
+[    7784.237] Wake source: 0x00000001
+[    7784.240] Which pin: 0x0200000000000000
+[    7807.275] Wake source: 0x00000001
+[    7807.278] Which pin: 0x0200000000000000
+[    7807.282] Alert[4] = 0x800
+[    7845.306] Wake source: 0x00000001
+[    7845.309] Which pin: 0x0200000000000000
+[    7906.322] Wake source: 0x00000001
+[    7906.325] Which pin: 0x0200000000000000
+[    7906.329] Alert[4] = 0x800
+[    7967.338] Wake source: 0x00000001
+[    7967.341] Which pin: 0x0200000000000000
+[    8028.365] Wake source: 0x00000001
+[    8028.368] Which pin: 0x0200000000000000
+[    8089.396] Wake source: 0x00000001
+[    8089.399] Which pin: 0x0200000000000000
+[    8089.403] Alert[4] = 0x800
+[    8115.308] Wake source: 0x00000001
+[    8115.311] Which pin: 0x0200000000000000
+[    8115.315] Alert[4] = 0x800
+[    8150.474] Wake source: 0x00000001
+[    8150.477] Which pin: 0x0200000000000000
+[    8155.480] Wake source: 0x00000000
+[    8211.554] Wake source: 0x00000001
+[    8211.557] Which pin: 0x0200000000000000
+[    8211.561] Alert[4] = 0x800
+[    8272.597] Wake source: 0x00000001
+[    8272.600] Which pin: 0x0200000000000000
+[    8333.627] Wake source: 0x00000001
+[    8333.630] Which pin: 0x0200000000000000
+[    8336.021] RBOX: power button pressed
+[    8336.030] RBOX: power button released
+[    8394.665] Wake source: 0x00000001
+[    8394.668] Which pin: 0x0200000000000000
+[    8399.677] Wake source: 0x00000000
+[    8423.487] Wake source: 0x00000001
+[    8423.490] Which pin: 0x0200000000000000
+[    8423.494] Alert[3] = 0x4000
+[    8455.787] Wake source: 0x00000001
+[    8455.790] Which pin: 0x0200000000000000
+[    8460.792] Wake source: 0x00000000
+[    8465.797] Wake source: 0x00000000
+[    8470.806] Wake source: 0x00000000
+[    8475.815] Wake source: 0x00000000
+[    8516.992] Wake source: 0x00000001
+[    8516.995] Which pin: 0x0200000000000000
+[    8521.998] Wake source: 0x00000000
+[    8527.004] Wake source: 0x00000000
+[    8578.117] Wake source: 0x00000001
+[    8578.120] Which pin: 0x0200000000000000
+[    8578.124] Alert[4] = 0x800
+[    8639.163] Wake source: 0x00000001
+[    8639.166] Which pin: 0x0200000000000000
+[    8639.170] Alert[4] = 0x800
+[    8644.168] Wake source: 0x00000000
+[    8700.251] Wake source: 0x00000001
+[    8700.254] Which pin: 0x0200000000000000
+[    8731.893] Wake source: 0x00000001
+[    8731.896] Which pin: 0x0200000000000000
+[    8761.337] Wake source: 0x00000001
+[    8761.340] Which pin: 0x0200000000000000
+[    8766.340] Wake source: 0x00000000
+[    8822.421] Wake source: 0x00000001
+[    8822.424] Which pin: 0x0200000000000000
+[    8822.428] Alert[4] = 0x800
+[    8883.461] Wake source: 0x00000001
+[    8883.464] Which pin: 0x0200000000000000
+[    8888.469] Wake source: 0x00000000
+[    8944.539] Wake source: 0x00000001
+[    8944.542] Which pin: 0x0200000000000000
+[    9005.581] Wake source: 0x00000001
+[    9005.584] Which pin: 0x0200000000000000
+[    9040.110] Wake source: 0x00000001
+[    9040.113] Which pin: 0x0200000000000000
+[    9066.676] Wake source: 0x00000001
+[    9066.679] Which pin: 0x0200000000000000
+[    9066.683] Alert[4] = 0x800
+[    9127.735] Wake source: 0x00000001
+[    9127.738] Which pin: 0x0200000000000000
+[    9127.742] Alert[4] = 0x800
+[    9188.773] Wake source: 0x00000001
+[    9188.776] Which pin: 0x0200000000000000
+[    9249.812] Wake source: 0x00000001
+[    9249.815] Which pin: 0x0200000000000000
+[    9310.852] Wake source: 0x00000001
+[    9310.855] Which pin: 0x0200000000000000
+[    9348.242] Wake source: 0x00000001
+[    9348.245] Which pin: 0x0200000000000000
+[    9348.249] Alert[4] = 0x800
+[    9371.933] Wake source: 0x00000001
+[    9371.936] Which pin: 0x0200000000000000
+[    9376.936] Wake source: 0x00000000
+[    9433.012] Wake source: 0x00000001
+[    9433.015] Which pin: 0x0200000000000000
+[    9438.021] Wake source: 0x00000000
+[    9443.028] Wake source: 0x00000000
+[    9448.035] Wake source: 0x00000000
+[    9494.173] Wake source: 0x00000001
+[    9494.176] Which pin: 0x0200000000000000
+[    9555.207] Wake source: 0x00000001
+[    9555.210] Which pin: 0x0200000000000000
+[    9616.249] Wake source: 0x00000001
+[    9616.252] Which pin: 0x0200000000000000
+[    9656.502] Wake source: 0x00000001
+[    9656.505] Which pin: 0x0200000000000000
+[    9656.509] Alert[4] = 0x800
+[    9677.332] Wake source: 0x00000001
+[    9677.335] Which pin: 0x0200000000000000
+[    9677.339] Alert[4] = 0x800
+[    9682.340] Wake source: 0x00000000
+[    9738.414] Wake source: 0x00000001
+[    9738.417] Which pin: 0x0200000000000000
+[    9738.422] Alert[4] = 0x800
+[    9743.420] Wake source: 0x00000000
+[    9799.496] Wake source: 0x00000001
+[    9799.499] Which pin: 0x0200000000000000
+[    9799.503] Alert[4] = 0x800
+[    9804.504] Wake source: 0x00000000
+[    9860.580] Wake source: 0x00000001
+[    9860.583] Which pin: 0x0200000000000000
+[    9921.616] Wake source: 0x00000001
+[    9921.619] Which pin: 0x0200000000000000
+[    9926.622] Wake source: 0x00000000
+[    9964.761] Wake source: 0x00000001
+[    9964.764] Which pin: 0x0200000000000000
+[    9982.738] Wake source: 0x00000001
+[    9982.741] Which pin: 0x0200000000000000
+[    9982.745] Alert[4] = 0x800
+[   10043.781] Wake source: 0x00000001
+[   10043.784] Which pin: 0x0200000000000000
+[   10104.819] Wake source: 0x00000001
+[   10104.822] Which pin: 0x0200000000000000
+[   10165.852] Wake source: 0x00000001
+[   10165.855] Which pin: 0x0200000000000000
+[   10226.885] Wake source: 0x00000001
+[   10226.888] Which pin: 0x0200000000000000
+[   10231.890] Wake source: 0x00000000
+[   10272.896] Wake source: 0x00000001
+[   10272.899] Which pin: 0x0200000000000000
+[   10288.012] Wake source: 0x00000001
+[   10288.015] Which pin: 0x0200000000000000
+[   10288.019] Alert[4] = 0x800
+[   10293.015] Wake source: 0x00000000
+[   10349.091] Wake source: 0x00000001
+[   10349.094] Which pin: 0x0200000000000000
+[   10410.124] Wake source: 0x00000001
+[   10410.127] Which pin: 0x0200000000000000
+[   10415.127] Wake source: 0x00000000
+[   10471.202] Wake source: 0x00000001
+[   10471.205] Which pin: 0x0200000000000000
+[   10471.209] Alert[4] = 0x800
+[   10532.238] Wake source: 0x00000001
+[   10532.241] Which pin: 0x0200000000000000
+[   10532.245] Alert[4] = 0x800
+[   10537.241] Wake source: 0x00000000
+[   10581.111] Wake source: 0x00000001
+[   10581.114] Which pin: 0x0200000000000000
+[   10581.118] Alert[4] = 0x800
+[   10593.357] Wake source: 0x00000001
+[   10593.360] Which pin: 0x0200000000000000
+[   10654.388] Wake source: 0x00000001
+[   10654.391] Which pin: 0x0200000000000000
+[   10715.419] Wake source: 0x00000001
+[   10715.422] Which pin: 0x0200000000000000
+[   10776.450] Wake source: 0x00000001
+[   10776.453] Which pin: 0x0200000000000000
+[   10829.546] Wake source: 0x00000001
+[   10829.549] Which pin: 0x0200000000000000
+[   10829.553] Alert[4] = 0x800
+[   10837.523] Wake source: 0x00000001
+[   10837.526] Which pin: 0x0200000000000000
+[   10889.211] Wake source: 0x00000001
+[   10889.214] Which pin: 0x0200000000000000
+[   10898.600] Wake source: 0x00000001
+[   10898.603] Which pin: 0x0200000000000000
+[   10898.607] Alert[4] = 0x800
+[   10959.635] Wake source: 0x00000001
+[   10959.638] Which pin: 0x0200000000000000
+[   10964.638] Wake source: 0x00000000
+[   10969.641] Wake source: 0x00000000
+[   10974.645] Wake source: 0x00000000
+[   10979.648] Wake source: 0x00000000
+[   10984.658] Wake source: 0x00000000
+[   11020.879] Wake source: 0x00000001
+[   11020.882] Which pin: 0x0200000000000000
+[   11081.910] Wake source: 0x00000001
+[   11081.913] Which pin: 0x0200000000000000
+[   11087.931] Wake source: 0x00000000
+[   11099.973] Wake source: 0x00000001
+[   11099.976] Which pin: 0x0200000000000000
+[   11662.252] Wake source: 0x00000001
+[   11662.255] Which pin: 0x0200000000000000
+[   11662.668] ADC: connected: Servo-snk(dut:Rp3A0)
+[   11662.672] CCD_MODE:      asserted
+[   11662.676] USB: On
+[   11663.737] ADC: disconnected
+[   11663.740] CCD_MODE:      deasserted
+[   11663.743] USB: Off
+[   11703.153] Wake source: 0x00000001
+[   11703.156] Which pin: 0x0200000000000000
+[   11757.625] Wake source: 0x00000001
+[   11757.628] Which pin: 0x0200000000000000
+[   11757.632] Alert[4] = 0x800
+[   11762.629] Wake source: 0x00000000
+[   11825.119] Wake source: 0x00000001
+[   11825.122] Which pin: 0x0200000000000000
+[   11886.077] Wake source: 0x00000001
+[   11886.080] Which pin: 0x0200000000000000
+[   11947.037] Wake source: 0x00000001
+[   11947.040] Which pin: 0x0200000000000000
+[   12007.994] Wake source: 0x00000001
+[   12007.997] Which pin: 0x0200000000000000
+[   12065.339] Wake source: 0x00000001
+[   12065.342] Which pin: 0x0200000000000000f9552cfa ms-tpm-20-ref:v0.0.343-b28a970 chrome-bot@chromeos-firmware-mpa-us-east1-d-x32-0-j903 2026-02-05 09:48:49
+[       0.021] Strap config: Lddd => TPM Bus: SPI; FormFactor: ClamshellInvertedKso
+[       0.029] Reset Type: Cold
+[       0.032] Reset cause: POR 0x00000001
+[       0.036] USB: Off
+[       0.044] RBOX: WP true
+[       0.044] RBOX: assert EC_RST_L
+[       0.047] cryptolib v1 at 0x100c00
+[       0.050] 
+[       0.056] RBOX: assert EC_RST_L
+[       0.057] AP WP SR OK!
+[       0.059] verifying cached gvd
+[       0.064] gscvd @003f6000 consistent
+[       0.067] validating 3 ranges in AP flash
+[       0.216] AP RO: OK
+[       0.216] AP RO verifications took 160 ms.
+[       0.220] TPM SPI initialized
+[       0.230] 22 files found across 4 pages.
+[       0.231] 6420 bytes of data.
+[       0.234] 0 invalid and 6 free pages.
+[       0.238] 0 erases since boot.
+[       0.241] Partition |   File ID   | Bank | Page | Size
+[       0.246]      0x03    0x0100100d      0    240    180
+[       0.252]      0x03    0x01001007      0    241    158
+[       0.257]      0x03    0x0100100a      0    244    188
+[       0.262]      0x03    0x0100100e      0    244    180
+[       0.268]      0x03    0x01001008      0    244    188
+[       0.273]      0x03    0x81000000      0    244    314
+[       0.278]      0x03    0x81000002      0    244    278
+[       0.283]      0x03    0x81000005      0    246    310
+[       0.289]      0x03    0x01800004      0    246    217
+[       0.294]      0x03    0x01800005      0    246    188
+[       0.299]      0x03    0x01800006      0    246    184
+[       0.305] 664 bytes free in active pages.
+[       0.309] Filesystem init took 86 ms.
+[       0.313] PLT_RST_L ASSERTED
+[       0.316] TPM SPI disabled (CS=true)
+[       0.320] RBOX: deassert EC_RST_L
+[       0.345] Valid CCD config found
+[       0.349] RBOX: WP true
+[       0.351] RBOX: WP true
+[       0.353] AP RO verification result: OK (0xfffff000)
+[       0.369] Key ladder state: Prod

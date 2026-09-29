@@ -1,0 +1,619 @@
+2026-09-28T21:57:43.068825Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:57:43.068892Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:57:43.221524Z INFO periodic_scheduler[2024]: cleanup_logs: job completed
+2026-09-28T21:57:43.440545Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:57:43.440670Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:57:43.442215Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:57:43.442234Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:57:43.442246Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:57:43.442253Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:57:43.442272Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:57:43.442390Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:57:45.280980Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:57:45.281296Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:57:45.281492Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:57:47.564620Z INFO periodic_scheduler[3237]: cros-machine-id-regen: running /usr/sbin/machine-id-regen --reason=periodic --minimum_age=21600
+2026-09-28T21:57:47.585251Z INFO machine-id-regen[5888]: Not regenerating since we did so 317 seconds ago
+2026-09-28T21:57:47.587520Z INFO periodic_scheduler[3237]: cros-machine-id-regen: job completed
+2026-09-28T21:57:47.689038Z INFO periodic_scheduler[3347]: trim: running chromeos-trim
+2026-09-28T21:57:47.701920Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T21:57:47.732859Z ERR periodic_scheduler[3347]: trim: process exited 1
+2026-09-28T21:57:47.732891Z INFO periodic_scheduler[3347]: trim: job completed
+2026-09-28T21:57:47.828753Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T21:57:48.196499Z INFO vm_cicerone[4050]: Received GetContainerAppIcon request
+2026-09-28T21:57:48.196664Z ERR vm_cicerone[4050]: Requested VM does not exist:termina
+2026-09-28T21:57:48.197123Z INFO vm_cicerone[4050]: Received GetContainerAppIcon request
+2026-09-28T21:57:48.197204Z ERR vm_cicerone[4050]: Requested VM does not exist:termina
+2026-09-28T21:57:48.306008Z INFO vm_cicerone[4050]: Received GetContainerAppIcon request
+2026-09-28T21:57:48.306041Z ERR vm_cicerone[4050]: Requested VM does not exist:termina
+2026-09-28T21:57:48.306351Z INFO vm_cicerone[4050]: Received GetContainerAppIcon request
+2026-09-28T21:57:48.306384Z ERR vm_cicerone[4050]: Requested VM does not exist:termina
+2026-09-28T21:57:48.311200Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:57:48.311361Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:57:48.647305Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:57:48.647430Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:57:48.649305Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:57:48.649324Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:57:48.649336Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:57:48.649343Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:57:48.649362Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:57:48.649477Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:57:50.694153Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:57:50.694304Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:57:50.694377Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:57:53.686020Z INFO cryptohomed[1613]: AuthSession: 1 AuthSession expired.
+2026-09-28T21:57:53.710046Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:57:53.710089Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:57:54.034291Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:57:54.034390Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:57:54.051538Z ERR debugd[829]: AllowToolUse(...): Domain=dbus, Code=org.chromium.debugd.error.AccessDenied, Message=Unavailable after device has an owner or boot lockbox is finalized.
+2026-09-28T21:57:56.386225Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 5930 terminated with status 1 (code = 1)
+2026-09-28T21:58:22.096100Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:665] HandleStatus(...): Domain=dlcservice, Code=failedInstallInUpdateEngine, Message=installer indicates failure.
+2026-09-28T21:58:22.096136Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:58:22.096276Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:58:22.177978Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:58:22.178276Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:58:22.178470Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:4
+2026-09-28T21:58:27.181413Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:58:27.181453Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:58:27.519013Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:58:27.519108Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:58:27.520692Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:58:27.520713Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:58:27.520726Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:58:27.520732Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:58:27.520753Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:58:27.520873Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:58:29.483564Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:58:29.483792Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:58:29.483895Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:58:32.487322Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:58:32.487366Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:58:32.836924Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:58:32.837034Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:58:32.838131Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:58:32.838148Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:58:32.838161Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:58:32.838167Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:58:32.838187Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:58:32.838295Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:58:34.567693Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:58:34.568040Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:58:34.568216Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:58:37.571032Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:58:37.571080Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:58:37.914294Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:58:37.914407Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:58:37.931301Z ERR debugd[829]: AllowToolUse(...): Domain=dbus, Code=org.chromium.debugd.error.AccessDenied, Message=Unavailable after device has an owner or boot lockbox is finalized.
+2026-09-28T21:58:40.077714Z NOTICE temp_logger[6117]:  soc_max:32C cpu_zone0:32C sbs-10-000b:20C cpu_zone1:32C cpu_zone2:31C cam:31C nna:28C adsp:28C mfg:29C cpu_big0:29C cpu_big1:29C   
+2026-09-28T21:59:05.974928Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:665] HandleStatus(...): Domain=dlcservice, Code=failedInstallInUpdateEngine, Message=installer indicates failure.
+2026-09-28T21:59:05.974999Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:59:05.975320Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:06.094027Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:59:06.094364Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:59:06.094587Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:4
+2026-09-28T21:59:11.097371Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:59:11.097498Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:11.428461Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:59:11.428604Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:59:11.430161Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:59:11.430180Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:59:11.430191Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:59:11.430198Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:59:11.430218Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:59:11.430329Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:13.272382Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:59:13.272770Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:59:13.272954Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:59:16.276224Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:59:16.276344Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:16.623080Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:59:16.623196Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:59:16.624777Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:59:16.624799Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:59:16.624812Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:59:16.624819Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:59:16.624840Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:59:16.624950Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:18.788891Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:59:18.789237Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:59:18.789395Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:59:20.332594Z WARNING dlcservice[1848]: WARNING dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:392] Scaled DLC=cros-camera-blur-detector-dlc will not update with the OS.
+2026-09-28T21:59:20.343166Z WARNING dlcservice[1848]: WARNING dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:392] Scaled DLC=nc-ap-dlc will not update with the OS.
+2026-09-28T21:59:20.344114Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:132] Skipping update ready marking of logical volume for DLC=termina-tools-dlc
+2026-09-28T21:59:20.347103Z WARNING dlcservice[1848]: WARNING dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:370] User-tied DLC=<REDACTED_ID> will not update with the OS.
+2026-09-28T21:59:21.793480Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:59:21.793689Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:22.154566Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:59:22.154677Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:59:22.155887Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:59:22.155910Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:59:22.155922Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:59:22.155931Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:59:22.155953Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:59:22.156076Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:22.643601Z INFO kernel: [  417.327888] frecon[538]: drm_setmaster: 0
+2026-09-28T21:59:24.442489Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:59:24.442751Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:59:24.442872Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:59:27.444893Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:59:27.444954Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:27.799595Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:59:27.799698Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:59:27.800889Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:59:27.800907Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:59:27.800920Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:59:27.800926Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:59:27.800947Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:59:27.801064Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:30.674642Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:59:30.675012Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:59:30.675232Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:59:33.677732Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:59:33.677778Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:34.414683Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:59:34.414820Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:59:34.416561Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:59:34.416583Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:59:34.416596Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:59:34.416604Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:59:34.416627Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:59:34.416761Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:37.502293Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:59:37.502629Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:59:37.502815Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:59:40.420552Z NOTICE temp_logger[6231]:  soc_max:31C cpu_zone0:31C sbs-10-000b:20C cpu_zone1:31C cpu_zone2:31C cam:30C nna:28C adsp:28C mfg:28C cpu_big0:29C cpu_big1:29C   
+2026-09-28T21:59:40.504602Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:59:40.504645Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:40.844536Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:59:40.844639Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:59:40.845930Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:59:40.845950Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:59:40.845971Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:59:40.845979Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:59:40.845999Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:59:40.846117Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:42.965281Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:59:42.965661Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:59:42.965826Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:59:45.968352Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:59:45.968393Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:46.314577Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:59:46.314668Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:59:46.316456Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:59:46.316478Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:59:46.316492Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:59:46.316517Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:59:46.316543Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:59:46.316661Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:46.988594Z INFO kernel: [  441.673334] frecon[538]: drm_dropmaster: 0
+2026-09-28T21:59:48.225013Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:59:48.225377Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:59:48.225617Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:59:51.228418Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:59:51.228459Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:51.573096Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:59:51.573197Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:59:51.575140Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:59:51.575160Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:59:51.575172Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:59:51.575180Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:59:51.575201Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:59:51.575316Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:53.612103Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:59:53.612251Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:59:53.612348Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T21:59:56.619180Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T21:59:56.619221Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:56.959409Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T21:59:56.959526Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T21:59:56.961040Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T21:59:56.961060Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T21:59:56.961072Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T21:59:56.961079Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T21:59:56.961102Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T21:59:56.961213Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T21:59:59.326552Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T21:59:59.326945Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T21:59:59.327160Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T22:00:02.330372Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T22:00:02.330412Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:02.676851Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T22:00:02.676958Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T22:00:02.679161Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T22:00:02.679180Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T22:00:02.679193Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T22:00:02.679200Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T22:00:02.679221Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T22:00:02.679337Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:04.617228Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T22:00:04.617648Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T22:00:04.617864Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T22:00:07.620244Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T22:00:07.620288Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:07.964804Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T22:00:07.964891Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T22:00:07.966573Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T22:00:07.966594Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T22:00:07.966606Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T22:00:07.966614Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T22:00:07.966634Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T22:00:07.966749Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:09.831168Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T22:00:09.831431Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T22:00:09.831579Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T22:00:12.852166Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T22:00:12.852209Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:13.206252Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T22:00:13.206387Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T22:00:13.208053Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T22:00:13.208074Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T22:00:13.208087Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T22:00:13.208094Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T22:00:13.208115Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T22:00:13.208232Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:15.517678Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T22:00:15.518042Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T22:00:15.518268Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T22:00:18.521254Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T22:00:18.521295Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:18.875884Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T22:00:18.875983Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T22:00:18.877385Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T22:00:18.877406Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T22:00:18.877418Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T22:00:18.877425Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T22:00:18.877446Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T22:00:18.877590Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:21.008575Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T22:00:21.008967Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T22:00:21.009176Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T22:00:24.012471Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T22:00:24.012521Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:24.358328Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T22:00:24.358436Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T22:00:24.359712Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T22:00:24.359731Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T22:00:24.359743Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T22:00:24.359749Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T22:00:24.359768Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T22:00:24.359878Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:26.055904Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T22:00:26.056220Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T22:00:26.056386Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T22:00:29.058848Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T22:00:29.058892Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:29.399016Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T22:00:29.399122Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T22:00:29.416397Z ERR debugd[829]: AllowToolUse(...): Domain=dbus, Code=org.chromium.debugd.error.AccessDenied, Message=Unavailable after device has an owner or boot lockbox is finalized.
+2026-09-28T22:00:40.706876Z NOTICE temp_logger[6346]:  soc_max:30C cpu_zone0:30C sbs-10-000b:21C cpu_zone1:30C cpu_zone2:30C cam:30C nna:27C adsp:28C mfg:28C cpu_big0:28C cpu_big1:29C   
+2026-09-28T22:00:57.468829Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:665] HandleStatus(...): Domain=dlcservice, Code=failedInstallInUpdateEngine, Message=installer indicates failure.
+2026-09-28T22:00:57.468913Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T22:00:57.469277Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T22:00:57.594107Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T22:00:57.594378Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T22:00:57.594523Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:4
+2026-09-28T22:01:02.597361Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T22:01:02.597494Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T22:01:02.937420Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T22:01:02.937555Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T22:01:02.938748Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T22:01:02.938766Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T22:01:02.938779Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T22:01:02.938786Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T22:01:02.938808Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T22:01:02.938912Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T22:01:10.339390Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T22:01:10.339870Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T22:01:10.340105Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T22:01:13.341920Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T22:01:13.341980Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T22:01:13.695362Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T22:01:13.695455Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T22:01:13.713155Z ERR debugd[829]: AllowToolUse(...): Domain=dbus, Code=org.chromium.debugd.error.AccessDenied, Message=Unavailable after device has an owner or boot lockbox is finalized.
+2026-09-28T22:01:40.961360Z NOTICE temp_logger[6471]:  soc_max:30C cpu_zone0:30C sbs-10-000b:21C cpu_zone1:30C cpu_zone2:30C cam:30C nna:27C adsp:27C mfg:27C cpu_big0:27C cpu_big1:28C   
+2026-09-28T22:01:41.759055Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:665] HandleStatus(...): Domain=dlcservice, Code=failedInstallInUpdateEngine, Message=installer indicates failure.
+2026-09-28T22:01:41.759092Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T22:01:41.759221Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T22:01:41.830771Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T22:01:41.831053Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T22:01:41.831234Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:4
+2026-09-28T22:01:46.833926Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T22:01:46.833986Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T22:01:47.173248Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T22:01:47.173356Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T22:01:47.174773Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/dbus/utils.cc:85] AddDBusError(...): Domain=update_engine, Code=org.chromium.UpdateEngine.Error.Failed, Message=Could not schedule scaled install.
+2026-09-28T22:01:47.174791Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:393] Installer failed to install requested DLCs: Error Code=org.chromium.UpdateEngine.Error.Failed, Error Message=Could not schedule scaled install.
+2026-09-28T22:01:47.174803Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:396] [CoreServicesAlert<install>] Failed to install DLC=termina-dlc
+2026-09-28T22:01:47.174810Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:399] OnInstallFailure(...): Domain=dbus, Code=org.chromium.DlcServiceInterface.BUSY, Message=Installer failed to schedule install operations.
+2026-09-28T22:01:47.174832Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T22:01:47.174930Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T22:02:04.521194Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T22:02:04.521576Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T22:02:04.521771Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:7
+2026-09-28T22:02:07.524814Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1069] Disabling DLC=termina-dlc reserve.
+2026-09-28T22:02:07.524856Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:31] Skipping creation of logical volumes for DLC=termina-dlc
+2026-09-28T22:02:07.862498Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to INSTALLING
+2026-09-28T22:02:07.862618Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:350] Sending request to install DLC=termina-dlc
+2026-09-28T22:02:07.879753Z ERR debugd[829]: AllowToolUse(...): Domain=dbus, Code=org.chromium.debugd.error.AccessDenied, Message=Unavailable after device has an owner or boot lockbox is finalized.
+2026-09-28T22:02:33.255842Z INFO cryptohomed[1613]: Available disk space: |712545140| bytes.  Emitting low disk space signal.
+2026-09-28T22:02:33.913392Z ERR secanomalyd[1820]: opendir(/proc/6539) failed: No such file or directory (2)
+2026-09-28T22:02:33.996508Z INFO cryptohomed[1613]: Disk cleanup complete.
+2026-09-28T22:02:33.996630Z ERR cryptohomed[1613]: FreeDiskSpace encontered an error
+2026-09-28T22:02:35.923750Z ERR dlcservice[1848]: ERROR dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_service.cc:665] HandleStatus(...): Domain=dlcservice, Code=failedInstallInUpdateEngine, Message=installer indicates failure.
+2026-09-28T22:02:35.923842Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:1046] Changing DLC=termina-dlc state to NOT_INSTALLED
+2026-09-28T22:02:35.924187Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:77] Skipping deletion of logical volumes for DLC=termina-dlc
+2026-09-28T22:02:36.068338Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/cache/dlc/termina-dlc
+2026-09-28T22:02:36.068624Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:938] Deleted path=/var/lib/dlcservice/dlc/termina-dlc
+2026-09-28T22:02:36.068786Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/metrics.cc:81] InstallResult metric sent:4
+2026-09-28T22:02:37.894659Z WARNING resourced[3411]: Unknown chrome process 5991 running "/usr/bin/crosh"
+2026-09-28T22:02:37.894952Z WARNING resourced[3411]: Unknown chrome process 5996 running "/usr/bin/crosh"
+2026-09-28T22:02:37.895182Z WARNING resourced[3411]: Unknown chrome process 5997 running "/bin/bash"
+2026-09-28T22:02:41.241837Z NOTICE temp_logger[6630]:  soc_max:30C cpu_zone0:30C sbs-10-000b:21C cpu_zone1:31C cpu_zone2:30C cam:30C nna:28C adsp:28C mfg:28C cpu_big0:28C cpu_big1:28C   
+2026-09-28T22:02:57.831043Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:02:57.941823Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T22:03:34.059238Z INFO cryptohomed[1613]: Available disk space: |712545140| bytes.  Emitting low disk space signal.
+2026-09-28T22:03:34.062755Z ERR secanomalyd[1820]: opendir(/proc/6672) failed: No such file or directory (2)
+2026-09-28T22:03:41.622005Z NOTICE temp_logger[6751]:  soc_max:30C cpu_zone0:30C sbs-10-000b:21C cpu_zone1:30C cpu_zone2:30C cam:30C nna:28C adsp:27C mfg:28C cpu_big0:28C cpu_big1:28C   
+2026-09-28T22:04:34.122999Z INFO cryptohomed[1613]: Available disk space: |712545140| bytes.  Emitting low disk space signal.
+2026-09-28T22:04:41.904865Z NOTICE temp_logger[6866]:  soc_max:30C cpu_zone0:30C sbs-10-000b:21C cpu_zone1:30C cpu_zone2:29C cam:29C nna:27C adsp:27C mfg:27C cpu_big0:27C cpu_big1:28C   
+2026-09-28T22:05:34.182743Z INFO cryptohomed[1613]: Available disk space: |712545140| bytes.  Emitting low disk space signal.
+2026-09-28T22:05:42.239885Z NOTICE temp_logger[6978]:  soc_max:30C cpu_zone0:30C sbs-10-000b:21C cpu_zone1:30C cpu_zone2:30C cam:30C nna:27C adsp:27C mfg:28C cpu_big0:28C cpu_big1:28C   
+2026-09-28T22:06:42.530075Z NOTICE temp_logger[7093]:  soc_max:31C cpu_zone0:31C sbs-10-000b:21C cpu_zone1:31C cpu_zone2:30C cam:30C nna:28C adsp:28C mfg:28C cpu_big0:28C cpu_big1:28C   
+2026-09-28T22:07:42.809655Z INFO rsyslogd[569]: [origin software="rsyslogd" swVersion="8.2112.0" x-pid="569" x-info="https://www.rsyslog.com"] rsyslogd was HUPed
+2026-09-28T22:07:42.814709Z NOTICE temp_logger[7195]:  soc_max:30C cpu_zone0:30C sbs-10-000b:21C cpu_zone1:30C cpu_zone2:30C cam:30C nna:27C adsp:28C mfg:27C cpu_big0:27C cpu_big1:28C   
+2026-09-28T22:08:07.944032Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:08:08.021721Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T22:08:43.170236Z NOTICE temp_logger[7316]:  soc_max:30C cpu_zone0:30C sbs-10-000b:21C cpu_zone1:30C cpu_zone2:30C cam:30C nna:27C adsp:27C mfg:27C cpu_big0:28C cpu_big1:28C   
+2026-09-28T22:09:43.465002Z NOTICE temp_logger[7435]:  soc_max:31C cpu_zone0:31C sbs-10-000b:21C cpu_zone1:30C cpu_zone2:30C cam:30C nna:28C adsp:28C mfg:28C cpu_big0:28C cpu_big1:28C   
+2026-09-28T22:10:43.756954Z NOTICE temp_logger[7549]:  soc_max:30C cpu_zone0:30C sbs-10-000b:21C cpu_zone1:30C cpu_zone2:30C cam:29C nna:27C adsp:27C mfg:27C cpu_big0:28C cpu_big1:28C   
+2026-09-28T22:11:44.062263Z NOTICE temp_logger[7656]:  soc_max:30C cpu_zone0:30C sbs-10-000b:21C cpu_zone1:30C cpu_zone2:30C cam:30C nna:27C adsp:28C mfg:27C cpu_big0:28C cpu_big1:28C   
+2026-09-28T22:12:11.034676Z INFO kernel: [ 1185.718657] usb 4-1.2: new SuperSpeed USB device number 4 using xhci-mtk
+2026-09-28T22:12:11.053690Z INFO kernel: [ 1185.738094] usb 4-1.2: New USB device found, idVendor=13fe, idProduct=6700, bcdDevice= 1.10
+2026-09-28T22:12:11.053792Z INFO kernel: [ 1185.738132] usb 4-1.2: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+2026-09-28T22:12:11.053819Z INFO kernel: [ 1185.738155] usb 4-1.2: Product: USB DISK 3.0
+2026-09-28T22:12:11.053842Z INFO kernel: [ 1185.738174] usb 4-1.2: Manufacturer:         
+2026-09-28T22:12:11.053863Z INFO kernel: [ 1185.738193] usb 4-1.2: SerialNumber: 072155EB300A0E16
+2026-09-28T22:12:11.057673Z INFO kernel: [ 1185.742485] usb-storage 4-1.2:1.0: USB Mass Storage device detected
+2026-09-28T22:12:11.059607Z INFO kernel: [ 1185.744003] scsi host0: usb-storage 4-1.2:1.0
+2026-09-28T22:12:11.114126Z INFO usb_bouncer[7678]: Reporting metrics for /devices/platform/soc/11280000.usb/usb4/4-1/4-1.2
+2026-09-28T22:12:11.117110Z INFO usb_bouncer[7678]: Events at exceeded timer. Triggering a flush.
+2026-09-28T22:12:11.124224Z INFO usb_bouncer[7678]: Events at exceeded timer. Triggering a flush.
+2026-09-28T22:12:11.228309Z INFO permission_broker[1796]: ProcessPath(/dev/bus/usb/004/004)
+2026-09-28T22:12:11.230609Z WARNING permission_broker[1796]: CROS_USB_LOCATION had a value but was not enough to determine permissibility, falling back to legacy logic.
+2026-09-28T22:12:11.237496Z INFO permission_broker[1796]: Found claimed interface with driver: usb-storage
+2026-09-28T22:12:11.241945Z INFO permission_broker[1796]: Found allowable storage interface.
+2026-09-28T22:12:11.242280Z INFO permission_broker[1796]: Found only detachable interface(s), safe to claim.
+2026-09-28T22:12:11.244259Z INFO permission_broker[1796]:   AllowConformingUsbDeviceRule: ALLOW_WITH_DETACH
+2026-09-28T22:12:11.244570Z INFO permission_broker[1796]: Verdict for /dev/bus/usb/004/004: ALLOW_WITH_DETACH
+2026-09-28T22:12:11.245431Z INFO permission_broker[1796]: ProcessPath(/dev/bus/usb/004/004)
+2026-09-28T22:12:11.248820Z WARNING permission_broker[1796]: CROS_USB_LOCATION had a value but was not enough to determine permissibility, falling back to legacy logic.
+2026-09-28T22:12:11.255997Z INFO permission_broker[1796]: Found claimed interface with driver: usb-storage
+2026-09-28T22:12:11.261274Z INFO permission_broker[1796]: Found allowable storage interface.
+2026-09-28T22:12:11.261711Z INFO permission_broker[1796]: Found only detachable interface(s), safe to claim.
+2026-09-28T22:12:11.263632Z INFO permission_broker[1796]:   AllowConformingUsbDeviceRule: ALLOW_WITH_DETACH
+2026-09-28T22:12:11.263950Z INFO permission_broker[1796]: Verdict for /dev/bus/usb/004/004: ALLOW_WITH_DETACH
+2026-09-28T22:12:12.100716Z NOTICE kernel: [ 1186.785467] scsi 0:0:0:0: Direct-Access              USB DISK 3.0     PMAP PQ: 0 ANSI: 6
+2026-09-28T22:12:12.106571Z NOTICE kernel: [ 1186.790725] sd 0:0:0:0: [sda] 484362240 512-byte logical blocks: (248 GB/231 GiB)
+2026-09-28T22:12:12.106667Z NOTICE kernel: [ 1186.791615] sd 0:0:0:0: [sda] Write Protect is off
+2026-09-28T22:12:12.106684Z DEBUG kernel: [ 1186.791643] sd 0:0:0:0: [sda] Mode Sense: 45 00 00 00
+2026-09-28T22:12:12.107581Z NOTICE kernel: [ 1186.792474] sd 0:0:0:0: [sda] Write cache: disabled, read cache: enabled, doesn't support DPO or FUA
+2026-09-28T22:12:12.472688Z INFO kernel: [ 1187.156744]  sda: sda1
+2026-09-28T22:12:12.478604Z NOTICE kernel: [ 1187.162587] sd 0:0:0:0: [sda] Attached SCSI removable disk
+2026-09-28T22:12:12.943587Z WARNING kernel: [ 1187.628212] FAT-fs (sda1): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+2026-09-28T22:12:29.610878Z INFO rsyslogd[569]: -- MARK --
+2026-09-28T22:12:38.038318Z WARNING resourced[3411]: Unknown chrome process 5991 running "/usr/bin/crosh"
+2026-09-28T22:12:38.038612Z WARNING resourced[3411]: Unknown chrome process 5996 running "/usr/bin/crosh"
+2026-09-28T22:12:38.038831Z WARNING resourced[3411]: Unknown chrome process 5997 running "/bin/bash"
+2026-09-28T22:12:44.375082Z NOTICE temp_logger[7802]:  soc_max:34C cpu_zone0:33C sbs-10-000b:21C cpu_zone1:33C cpu_zone2:33C cam:32C nna:30C adsp:30C mfg:29C cpu_big0:31C cpu_big1:31C   
+2026-09-28T22:13:18.023942Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:13:18.118076Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T22:13:44.778099Z NOTICE temp_logger[7914]:  soc_max:33C cpu_zone0:33C sbs-10-000b:21C cpu_zone1:32C cpu_zone2:32C cam:31C nna:30C adsp:30C mfg:29C cpu_big0:31C cpu_big1:31C   
+2026-09-28T22:14:45.117262Z NOTICE temp_logger[8023]:  soc_max:31C cpu_zone0:31C sbs-10-000b:21C cpu_zone1:31C cpu_zone2:31C cam:30C nna:29C adsp:29C mfg:29C cpu_big0:29C cpu_big1:30C   
+2026-09-28T22:15:45.410637Z NOTICE temp_logger[8129]:  soc_max:31C cpu_zone0:31C sbs-10-000b:21C cpu_zone1:31C cpu_zone2:30C cam:30C nna:28C adsp:28C mfg:29C cpu_big0:28C cpu_big1:29C   
+2026-09-28T22:16:45.728476Z NOTICE temp_logger[8276]:  soc_max:42C cpu_zone0:40C sbs-10-000b:21C cpu_zone1:40C cpu_zone2:40C cam:39C nna:36C adsp:36C mfg:35C cpu_big0:42C cpu_big1:39C   
+2026-09-28T22:17:46.132899Z NOTICE temp_logger[8386]:  soc_max:37C cpu_zone0:37C sbs-10-000b:21C cpu_zone1:36C cpu_zone2:36C cam:36C nna:33C adsp:33C mfg:34C cpu_big0:34C cpu_big1:34C   
+2026-09-28T22:18:28.119824Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:18:28.197222Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T22:18:46.518544Z NOTICE temp_logger[8493]:  soc_max:43C cpu_zone0:40C sbs-10-000b:21C cpu_zone1:41C cpu_zone2:41C cam:39C nna:37C adsp:36C mfg:36C cpu_big0:44C cpu_big1:40C   
+2026-09-28T22:19:46.869561Z NOTICE temp_logger[8649]:  soc_max:53C cpu_zone0:48C sbs-10-000b:21C cpu_zone1:49C cpu_zone2:48C cam:46C nna:44C adsp:42C mfg:42C cpu_big0:51C cpu_big1:50C   
+2026-09-28T22:20:47.285893Z NOTICE temp_logger[8757]:  soc_max:57C cpu_zone0:52C sbs-10-000b:21C cpu_zone1:52C cpu_zone2:52C cam:49C nna:47C adsp:45C mfg:44C cpu_big0:58C cpu_big1:54C   
+2026-09-28T22:21:28.179686Z INFO resourced[3411]: New memory pressure signal to Chrome: Moderate, 0 KB
+2026-09-28T22:21:47.695313Z NOTICE temp_logger[8857]:  soc_max:54C cpu_zone0:51C sbs-10-000b:22C cpu_zone1:51C cpu_zone2:51C cam:48C nna:47C adsp:45C mfg:44C cpu_big0:54C cpu_big1:55C   
+2026-09-28T22:22:38.178072Z WARNING resourced[3411]: Unknown chrome process 5991 running "/usr/bin/crosh"
+2026-09-28T22:22:38.178344Z WARNING resourced[3411]: Unknown chrome process 5996 running "/usr/bin/crosh"
+2026-09-28T22:22:38.178551Z WARNING resourced[3411]: Unknown chrome process 5997 running "/bin/bash"
+2026-09-28T22:22:38.178753Z WARNING resourced[3411]: Unknown chrome process 8403 running "/bin/gtar"
+2026-09-28T22:22:38.179100Z WARNING resourced[3411]: Unknown chrome process 8404 running "/bin/bzip2"
+2026-09-28T22:22:38.179324Z WARNING resourced[3411]: Unknown chrome process 8178 running "/usr/bin/crosh"
+2026-09-28T22:22:38.179528Z WARNING resourced[3411]: Unknown chrome process 8191 running "/usr/bin/crosh"
+2026-09-28T22:22:38.179727Z WARNING resourced[3411]: Unknown chrome process 8192 running "/bin/bash"
+2026-09-28T22:22:38.179921Z WARNING resourced[3411]: Unknown chrome process 8508 running "/bin/gtar"
+2026-09-28T22:22:38.180117Z WARNING resourced[3411]: Unknown chrome process 8509 running "/bin/bzip2"
+2026-09-28T22:22:38.180319Z WARNING resourced[3411]: Unknown chrome process 8543 running "/usr/bin/crosh"
+2026-09-28T22:22:38.180529Z WARNING resourced[3411]: Unknown chrome process 8550 running "/usr/bin/crosh"
+2026-09-28T22:22:38.180731Z WARNING resourced[3411]: Unknown chrome process 8551 running "/bin/bash"
+2026-09-28T22:22:38.180923Z WARNING resourced[3411]: Unknown chrome process 8885 running "/usr/bin/crosh"
+2026-09-28T22:22:38.181118Z WARNING resourced[3411]: Unknown chrome process 8891 running "/usr/bin/crosh"
+2026-09-28T22:22:38.181312Z WARNING resourced[3411]: Unknown chrome process 8892 running "/bin/bash"
+2026-09-28T22:22:38.181528Z WARNING resourced[3411]: Unknown chrome process 8907 running "/usr/bin/gfind"
+2026-09-28T22:22:48.044034Z NOTICE temp_logger[8993]:  soc_max:37C cpu_zone0:37C sbs-10-000b:22C cpu_zone1:37C cpu_zone2:37C cam:36C nna:34C adsp:34C mfg:34C cpu_big0:35C cpu_big1:35C   
+2026-09-28T22:23:38.199397Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:23:38.293450Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T22:23:48.353978Z NOTICE temp_logger[9098]:  soc_max:35C cpu_zone0:35C sbs-10-000b:22C cpu_zone1:35C cpu_zone2:35C cam:35C nna:32C adsp:33C mfg:33C cpu_big0:33C cpu_big1:33C   
+2026-09-28T22:24:48.719164Z NOTICE temp_logger[9204]:  soc_max:33C cpu_zone0:33C sbs-10-000b:22C cpu_zone1:33C cpu_zone2:33C cam:34C nna:31C adsp:31C mfg:31C cpu_big0:31C cpu_big1:32C   
+2026-09-28T22:25:46.682227Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 8147 terminated with status 2 (code = 2)
+2026-09-28T22:25:49.012734Z NOTICE temp_logger[9314]:  soc_max:35C cpu_zone0:35C sbs-10-000b:22C cpu_zone1:35C cpu_zone2:34C cam:34C nna:32C adsp:32C mfg:32C cpu_big0:33C cpu_big1:33C   
+2026-09-28T22:26:49.304554Z NOTICE temp_logger[9424]:  soc_max:34C cpu_zone0:34C sbs-10-000b:22C cpu_zone1:33C cpu_zone2:33C cam:33C nna:31C adsp:31C mfg:30C cpu_big0:31C cpu_big1:32C   
+2026-09-28T22:27:49.628472Z NOTICE temp_logger[9536]:  soc_max:34C cpu_zone0:34C sbs-10-000b:22C cpu_zone1:34C cpu_zone2:34C cam:33C nna:31C adsp:31C mfg:31C cpu_big0:32C cpu_big1:32C   
+2026-09-28T22:28:48.294833Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:28:48.372068Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T22:28:49.990671Z NOTICE temp_logger[9653]:  soc_max:34C cpu_zone0:34C sbs-10-000b:21C cpu_zone1:34C cpu_zone2:33C cam:33C nna:32C adsp:31C mfg:31C cpu_big0:32C cpu_big1:32C   
+2026-09-28T22:29:50.309101Z NOTICE temp_logger[9763]:  soc_max:34C cpu_zone0:34C sbs-10-000b:21C cpu_zone1:34C cpu_zone2:34C cam:34C nna:31C adsp:31C mfg:32C cpu_big0:32C cpu_big1:32C   
+2026-09-28T22:30:50.598985Z NOTICE temp_logger[9871]:  soc_max:34C cpu_zone0:34C sbs-10-000b:21C cpu_zone1:34C cpu_zone2:34C cam:34C nna:32C adsp:31C mfg:32C cpu_big0:32C cpu_big1:32C   
+2026-09-28T22:31:50.871816Z NOTICE temp_logger[9977]:  soc_max:33C cpu_zone0:33C sbs-10-000b:21C cpu_zone1:33C cpu_zone2:32C cam:33C nna:30C adsp:31C mfg:31C cpu_big0:31C cpu_big1:31C   
+2026-09-28T22:32:38.336020Z WARNING resourced[3411]: Unknown chrome process 5991 running "/usr/bin/crosh"
+2026-09-28T22:32:38.336276Z WARNING resourced[3411]: Unknown chrome process 5996 running "/usr/bin/crosh"
+2026-09-28T22:32:38.336461Z WARNING resourced[3411]: Unknown chrome process 5997 running "/bin/bash"
+2026-09-28T22:32:38.336658Z WARNING resourced[3411]: Unknown chrome process 8403 running "/bin/gtar"
+2026-09-28T22:32:38.336846Z WARNING resourced[3411]: Unknown chrome process 8404 running "/bin/bzip2"
+2026-09-28T22:32:38.337014Z WARNING resourced[3411]: Unknown chrome process 8178 running "/usr/bin/crosh"
+2026-09-28T22:32:38.337208Z WARNING resourced[3411]: Unknown chrome process 8191 running "/usr/bin/crosh"
+2026-09-28T22:32:38.337478Z WARNING resourced[3411]: Unknown chrome process 8192 running "/bin/bash"
+2026-09-28T22:32:38.337654Z WARNING resourced[3411]: Unknown chrome process 8508 running "/bin/gtar"
+2026-09-28T22:32:38.337872Z WARNING resourced[3411]: Unknown chrome process 8509 running "/bin/bzip2"
+2026-09-28T22:32:38.338065Z WARNING resourced[3411]: Unknown chrome process 8543 running "/usr/bin/crosh"
+2026-09-28T22:32:38.338485Z WARNING resourced[3411]: Unknown chrome process 8550 running "/usr/bin/crosh"
+2026-09-28T22:32:38.338673Z WARNING resourced[3411]: Unknown chrome process 8551 running "/bin/bash"
+2026-09-28T22:32:38.338936Z WARNING resourced[3411]: Unknown chrome process 9334 running "/bin/gtar"
+2026-09-28T22:32:38.339184Z WARNING resourced[3411]: Unknown chrome process 9335 running "/bin/bzip2"
+2026-09-28T22:32:38.339366Z WARNING resourced[3411]: Unknown chrome process 8885 running "/usr/bin/crosh"
+2026-09-28T22:32:38.339642Z WARNING resourced[3411]: Unknown chrome process 8891 running "/usr/bin/crosh"
+2026-09-28T22:32:38.339861Z WARNING resourced[3411]: Unknown chrome process 8892 running "/bin/bash"
+2026-09-28T22:32:38.340058Z WARNING resourced[3411]: Unknown chrome process 9988 running "/usr/bin/coreutils"
+2026-09-28T22:32:51.179948Z NOTICE temp_logger[10093]:  soc_max:36C cpu_zone0:36C sbs-10-000b:21C cpu_zone1:35C cpu_zone2:35C cam:35C nna:33C adsp:33C mfg:33C cpu_big0:33C cpu_big1:34C   
+2026-09-28T22:33:51.511502Z NOTICE temp_logger[10203]:  soc_max:36C cpu_zone0:36C sbs-10-000b:21C cpu_zone1:36C cpu_zone2:36C cam:35C nna:33C adsp:33C mfg:33C cpu_big0:34C cpu_big1:34C   
+2026-09-28T22:33:58.374284Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:33:58.451680Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T22:34:51.809857Z NOTICE temp_logger[10361]:  soc_max:34C cpu_zone0:34C sbs-10-000b:21C cpu_zone1:34C cpu_zone2:34C cam:33C nna:32C adsp:32C mfg:32C cpu_big0:32C cpu_big1:32C   
+2026-09-28T22:35:52.131628Z NOTICE temp_logger[10474]:  soc_max:36C cpu_zone0:36C sbs-10-000b:21C cpu_zone1:36C cpu_zone2:36C cam:36C nna:33C adsp:33C mfg:33C cpu_big0:35C cpu_big1:35C   
+2026-09-28T22:36:52.423716Z NOTICE temp_logger[10592]:  soc_max:38C cpu_zone0:38C sbs-10-000b:21C cpu_zone1:38C cpu_zone2:37C cam:37C nna:35C adsp:34C mfg:34C cpu_big0:36C cpu_big1:36C   
+2026-09-28T22:37:15.693938Z ERR crosh[10244]: ERROR: command failed
+2026-09-28T22:37:15.696335Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 10244 terminated with status 1 (code = 1)
+2026-09-28T22:37:52.769774Z NOTICE temp_logger[10750]:  soc_max:45C cpu_zone0:43C sbs-10-000b:21C cpu_zone1:44C cpu_zone2:43C cam:41C nna:39C adsp:38C mfg:37C cpu_big0:45C cpu_big1:47C   
+2026-09-28T22:38:53.091817Z NOTICE temp_logger[10909]:  soc_max:48C cpu_zone0:45C sbs-10-000b:21C cpu_zone1:45C cpu_zone2:45C cam:43C nna:41C adsp:40C mfg:39C cpu_big0:42C cpu_big1:42C   
+2026-09-28T22:39:08.453752Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:39:08.530823Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T22:39:31.933946Z WARNING dlcservice[1848]: WARNING dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:392] Scaled DLC=cros-camera-blur-detector-dlc will not update with the OS.
+2026-09-28T22:39:31.941567Z WARNING dlcservice[1848]: WARNING dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:392] Scaled DLC=nc-ap-dlc will not update with the OS.
+2026-09-28T22:39:31.942027Z INFO dlcservice[1848]: INFO dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/lvm/dlc_lvm.cc:132] Skipping update ready marking of logical volume for DLC=termina-tools-dlc
+2026-09-28T22:39:31.945219Z WARNING dlcservice[1848]: WARNING dlcservice: [../../../../../tmp/portage/chromeos-base/dlcservice-0.0.1-r1383/work/dlcservice-0.0.1/dlcservice/dlc_base.cc:370] User-tied DLC=<REDACTED_ID> will not update with the OS.
+2026-09-28T22:39:53.434100Z NOTICE temp_logger[11032]:  soc_max:47C cpu_zone0:43C sbs-10-000b:21C cpu_zone1:43C cpu_zone2:43C cam:41C nna:39C adsp:39C mfg:37C cpu_big0:40C cpu_big1:40C   
+2026-09-28T22:40:26.180865Z ERR crosh[8891]: ERROR: command failed
+2026-09-28T22:40:26.183532Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 8891 terminated with status 1 (code = 1)
+2026-09-28T22:40:53.770418Z NOTICE temp_logger[11170]:  soc_max:43C cpu_zone0:41C sbs-10-000b:21C cpu_zone1:41C cpu_zone2:41C cam:39C nna:38C adsp:37C mfg:36C cpu_big0:39C cpu_big1:39C   
+2026-09-28T22:41:54.057390Z NOTICE temp_logger[11301]:  soc_max:42C cpu_zone0:42C sbs-10-000b:21C cpu_zone1:41C cpu_zone2:41C cam:40C nna:38C adsp:38C mfg:37C cpu_big0:39C cpu_big1:39C   
+2026-09-28T22:42:38.489289Z WARNING resourced[3411]: Unknown chrome process 5991 running "/usr/bin/crosh"
+2026-09-28T22:42:38.489542Z WARNING resourced[3411]: Unknown chrome process 5996 running "/usr/bin/crosh"
+2026-09-28T22:42:38.489720Z WARNING resourced[3411]: Unknown chrome process 5997 running "/bin/bash"
+2026-09-28T22:42:38.489875Z WARNING resourced[3411]: Unknown chrome process 8403 running "/bin/gtar"
+2026-09-28T22:42:38.490041Z WARNING resourced[3411]: Unknown chrome process 8404 running "/bin/bzip2"
+2026-09-28T22:42:38.490193Z WARNING resourced[3411]: Unknown chrome process 8178 running "/usr/bin/crosh"
+2026-09-28T22:42:38.490351Z WARNING resourced[3411]: Unknown chrome process 8191 running "/usr/bin/crosh"
+2026-09-28T22:42:38.490498Z WARNING resourced[3411]: Unknown chrome process 8192 running "/bin/bash"
+2026-09-28T22:42:38.490668Z WARNING resourced[3411]: Unknown chrome process 8508 running "/bin/gtar"
+2026-09-28T22:42:38.490816Z WARNING resourced[3411]: Unknown chrome process 8509 running "/bin/bzip2"
+2026-09-28T22:42:38.490979Z WARNING resourced[3411]: Unknown chrome process 8543 running "/usr/bin/crosh"
+2026-09-28T22:42:38.491126Z WARNING resourced[3411]: Unknown chrome process 8550 running "/usr/bin/crosh"
+2026-09-28T22:42:38.491290Z WARNING resourced[3411]: Unknown chrome process 8551 running "/bin/bash"
+2026-09-28T22:42:38.491441Z WARNING resourced[3411]: Unknown chrome process 10788 running "/usr/bin/crosh"
+2026-09-28T22:42:38.491614Z WARNING resourced[3411]: Unknown chrome process 10791 running "/usr/bin/crosh"
+2026-09-28T22:42:38.491765Z WARNING resourced[3411]: Unknown chrome process 10792 running "/bin/bash"
+2026-09-28T22:42:38.491934Z WARNING resourced[3411]: Unknown chrome process 11036 running "/usr/bin/zstd"
+2026-09-28T22:42:38.492084Z WARNING resourced[3411]: Unknown chrome process 11343 running "/usr/bin/crosh"
+2026-09-28T22:42:38.492246Z WARNING resourced[3411]: Unknown chrome process 11352 running "/usr/bin/crosh"
+2026-09-28T22:42:38.492396Z WARNING resourced[3411]: Unknown chrome process 11353 running "/bin/bash"
+2026-09-28T22:42:49.726596Z INFO kernel: [ 3024.410639] frecon[538]: drm_setmaster: 0
+2026-09-28T22:42:54.217592Z INFO kernel: [ 3028.901777] frecon[538]: drm_dropmaster: 0
+2026-09-28T22:42:54.556803Z NOTICE temp_logger[11441]:  soc_max:47C cpu_zone0:44C sbs-10-000b:21C cpu_zone1:44C cpu_zone2:43C cam:41C nna:40C adsp:38C mfg:38C cpu_big0:43C cpu_big1:43C   
+2026-09-28T22:42:58.705655Z INFO kernel: [ 3033.390166] frecon[538]: drm_setmaster: 0
+2026-09-28T22:43:04.070447Z ERR pam_pwdfile[544]: user not found in password database
+2026-09-28T22:43:06.392144Z NOTICE login[544]: FAILED LOGIN (1) on '/dev/pts/3' FOR 'chronos', Authentication failure
+2026-09-28T22:43:09.247595Z INFO kernel: [ 3043.931855] frecon[538]: drm_dropmaster: 0
+2026-09-28T22:43:23.193583Z INFO kernel: [ 3057.877839] frecon[538]: drm_setmaster: 0
+2026-09-28T22:43:26.711340Z INFO kernel: [ 3061.396236] frecon[538]: drm_dropmaster: 0
+2026-09-28T22:43:30.610523Z ERR crosh[11352]: ERROR: command failed
+2026-09-28T22:43:30.612912Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 11352 terminated with status 1 (code = 1)
+2026-09-28T22:43:54.906256Z NOTICE temp_logger[11560]:  soc_max:40C cpu_zone0:40C sbs-10-000b:21C cpu_zone1:40C cpu_zone2:40C cam:39C nna:37C adsp:37C mfg:37C cpu_big0:38C cpu_big1:39C   
+2026-09-28T22:44:18.533248Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:44:18.610670Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T22:44:40.877564Z ERR crosh[11608]: ERROR: command failed
+2026-09-28T22:44:40.878679Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 11608 terminated with status 1 (code = 1)
+2026-09-28T22:44:40.906785Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 11629 terminated with status 0 (code = 1)
+2026-09-28T22:44:55.306997Z NOTICE temp_logger[11721]:  soc_max:43C cpu_zone0:41C sbs-10-000b:21C cpu_zone1:41C cpu_zone2:41C cam:39C nna:38C adsp:36C mfg:36C cpu_big0:39C cpu_big1:38C   
+2026-09-28T22:45:55.644282Z NOTICE temp_logger[11838]:  soc_max:42C cpu_zone0:40C sbs-10-000b:21C cpu_zone1:41C cpu_zone2:40C cam:39C nna:37C adsp:36C mfg:36C cpu_big0:42C cpu_big1:39C   
+2026-09-28T22:46:18.869079Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 11734 terminated with status 2 (code = 2)
+2026-09-28T22:46:24.821947Z ERR crosh[8550]: ERROR: command failed
+2026-09-28T22:46:24.824523Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 8550 terminated with status 1 (code = 1)
+2026-09-28T22:46:55.966561Z NOTICE temp_logger[11969]:  soc_max:41C cpu_zone0:40C sbs-10-000b:21C cpu_zone1:40C cpu_zone2:40C cam:39C nna:37C adsp:37C mfg:36C cpu_big0:42C cpu_big1:39C   
+2026-09-28T22:47:56.314126Z NOTICE temp_logger[12070]:  soc_max:42C cpu_zone0:41C sbs-10-000b:21C cpu_zone1:42C cpu_zone2:41C cam:40C nna:38C adsp:36C mfg:36C cpu_big0:44C cpu_big1:40C   
+2026-09-28T22:48:56.651847Z NOTICE temp_logger[12175]:  soc_max:43C cpu_zone0:41C sbs-10-000b:21C cpu_zone1:41C cpu_zone2:41C cam:39C nna:37C adsp:37C mfg:36C cpu_big0:41C cpu_big1:43C   
+2026-09-28T22:49:28.612074Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:49:28.688796Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T22:49:56.953824Z NOTICE temp_logger[12326]:  soc_max:42C cpu_zone0:41C sbs-10-000b:21C cpu_zone1:41C cpu_zone2:40C cam:39C nna:38C adsp:37C mfg:36C cpu_big0:40C cpu_big1:42C   
+2026-09-28T22:50:27.094022Z ERR crosh[12225]: ERROR: command failed
+2026-09-28T22:50:27.095562Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 12225 terminated with status 1 (code = 1)
+2026-09-28T22:50:57.239881Z NOTICE temp_logger[12441]:  soc_max:34C cpu_zone0:34C sbs-10-000b:21C cpu_zone1:34C cpu_zone2:34C cam:34C nna:32C adsp:32C mfg:32C cpu_big0:32C cpu_big1:32C   
+2026-09-28T22:51:39.797478Z INFO resourced[3411]: New memory pressure signal to Chrome: None, 0 KB
+2026-09-28T22:51:49.800837Z INFO resourced[3411]: New memory pressure signal to Chrome: Moderate, 0 KB
+2026-09-28T22:51:57.621504Z NOTICE temp_logger[12603]:  soc_max:33C cpu_zone0:33C sbs-10-000b:21C cpu_zone1:33C cpu_zone2:32C cam:32C nna:31C adsp:31C mfg:31C cpu_big0:31C cpu_big1:31C   
+2026-09-28T22:52:03.278824Z ERR crosh[12518]: ERROR: command failed
+2026-09-28T22:52:03.279797Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 12518 terminated with status 1 (code = 1)
+2026-09-28T22:52:04.808432Z INFO resourced[3411]: New memory pressure signal to Chrome: None, 0 KB
+2026-09-28T22:52:30.710331Z INFO tpm_managerd[1261]: PeriodicResetDictionaryAttackCounterTask: DA reset succeeded.
+2026-09-28T22:52:38.629952Z WARNING resourced[3411]: Unknown chrome process 5991 running "/usr/bin/crosh"
+2026-09-28T22:52:38.630054Z WARNING resourced[3411]: Unknown chrome process 5996 running "/usr/bin/crosh"
+2026-09-28T22:52:38.630143Z WARNING resourced[3411]: Unknown chrome process 5997 running "/bin/bash"
+2026-09-28T22:52:38.630230Z WARNING resourced[3411]: Unknown chrome process 8178 running "/usr/bin/crosh"
+2026-09-28T22:52:38.630316Z WARNING resourced[3411]: Unknown chrome process 8191 running "/usr/bin/crosh"
+2026-09-28T22:52:38.630401Z WARNING resourced[3411]: Unknown chrome process 8192 running "/bin/bash"
+2026-09-28T22:52:38.630486Z WARNING resourced[3411]: Unknown chrome process 8508 running "/bin/gtar"
+2026-09-28T22:52:38.630603Z WARNING resourced[3411]: Unknown chrome process 10788 running "/usr/bin/crosh"
+2026-09-28T22:52:38.630690Z WARNING resourced[3411]: Unknown chrome process 10791 running "/usr/bin/crosh"
+2026-09-28T22:52:38.630778Z WARNING resourced[3411]: Unknown chrome process 10792 running "/bin/bash"
+2026-09-28T22:52:38.630863Z WARNING resourced[3411]: Unknown chrome process 11036 running "/usr/bin/zstd"
+2026-09-28T22:52:57.966766Z NOTICE temp_logger[12728]:  soc_max:33C cpu_zone0:33C sbs-10-000b:21C cpu_zone1:32C cpu_zone2:32C cam:32C nna:30C adsp:30C mfg:29C cpu_big0:30C cpu_big1:30C   
+2026-09-28T22:53:05.264675Z INFO kernel: [ 3639.949603] perf: interrupt took too long (2518 > 2500), lowering kernel.perf_event_max_sample_rate to 79000
+2026-09-28T22:53:05.323929Z INFO kernel: [ 3640.008874] perf: interrupt took too long (3182 > 3147), lowering kernel.perf_event_max_sample_rate to 62000
+2026-09-28T22:53:05.413248Z INFO kernel: [ 3640.098149] perf: interrupt took too long (3988 > 3977), lowering kernel.perf_event_max_sample_rate to 50000
+2026-09-28T22:53:05.544024Z INFO kernel: [ 3640.228958] perf: interrupt took too long (5009 > 4985), lowering kernel.perf_event_max_sample_rate to 39000
+2026-09-28T22:53:05.710113Z INFO kernel: [ 3640.395056] perf: interrupt took too long (6273 > 6261), lowering kernel.perf_event_max_sample_rate to 31000
+2026-09-28T22:53:06.253924Z INFO kernel: [ 3640.938858] perf: interrupt took too long (7858 > 7841), lowering kernel.perf_event_max_sample_rate to 25000
+2026-09-28T22:53:07.288621Z ERR debugd[829]: Problem waiting for pid 12733: No child processes (10)
+2026-09-28T22:53:07.288693Z ERR debugd[829]: Unable to send signal to 12733: No such process (3)
+2026-09-28T22:53:22.299896Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 12744 terminated with status 2 (code = 2)
+2026-09-28T22:53:58.284999Z NOTICE temp_logger[12837]:  soc_max:32C cpu_zone0:32C sbs-10-000b:21C cpu_zone1:32C cpu_zone2:31C cam:31C nna:29C adsp:29C mfg:29C cpu_big0:30C cpu_big1:30C   
+2026-09-28T22:54:38.691211Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:54:38.767809Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T22:54:58.599313Z NOTICE temp_logger[12984]:  soc_max:45C cpu_zone0:43C sbs-10-000b:21C cpu_zone1:43C cpu_zone2:43C cam:41C nna:39C adsp:38C mfg:37C cpu_big0:45C cpu_big1:41C   
+2026-09-28T22:55:58.945134Z NOTICE temp_logger[13147]:  soc_max:44C cpu_zone0:43C sbs-10-000b:21C cpu_zone1:43C cpu_zone2:42C cam:41C nna:40C adsp:38C mfg:37C cpu_big0:42C cpu_big1:43C   
+2026-09-28T22:56:29.051154Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 8404 terminated with status 0 (code = 1)
+2026-09-28T22:56:37.340731Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 13172 terminated with status 2 (code = 2)
+2026-09-28T22:56:50.714569Z ERR crosh[8191]: ERROR: command failed
+2026-09-28T22:56:50.717122Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 8191 terminated with status 1 (code = 1)
+2026-09-28T22:56:59.291350Z NOTICE temp_logger[13275]:  soc_max:44C cpu_zone0:43C sbs-10-000b:21C cpu_zone1:43C cpu_zone2:43C cam:41C nna:39C adsp:37C mfg:37C cpu_big0:43C cpu_big1:44C   
+2026-09-28T22:57:59.641098Z NOTICE temp_logger[13377]:  soc_max:42C cpu_zone0:40C sbs-10-000b:21C cpu_zone1:40C cpu_zone2:40C cam:39C nna:37C adsp:36C mfg:36C cpu_big0:43C cpu_big1:40C   
+2026-09-28T22:58:59.964185Z NOTICE temp_logger[13507]:  soc_max:49C cpu_zone0:46C sbs-10-000b:21C cpu_zone1:46C cpu_zone2:46C cam:44C nna:41C adsp:41C mfg:40C cpu_big0:50C cpu_big1:48C   
+2026-09-28T22:59:09.634624Z INFO kernel: [ 4004.319472] frecon[538]: drm_setmaster: 0
+2026-09-28T22:59:29.611556Z INFO kernel: [ 4024.295725] frecon[538]: drm_dropmaster: 0
+2026-09-28T22:59:32.251262Z INFO periodic_scheduler[1774]: crash_sender: running /sbin/crash_sender
+2026-09-28T22:59:32.328332Z INFO periodic_scheduler[1774]: crash_sender: job completed
+2026-09-28T22:59:47.598933Z INFO periodic_scheduler[3237]: cros-machine-id-regen: running /usr/sbin/machine-id-regen --reason=periodic --minimum_age=21600
+2026-09-28T22:59:47.619300Z INFO machine-id-regen[13548]: Not regenerating since we did so 4037 seconds ago
+2026-09-28T22:59:47.621676Z INFO periodic_scheduler[3237]: cros-machine-id-regen: job completed
+2026-09-28T22:59:48.770063Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T22:59:48.846557Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T23:00:00.269864Z NOTICE temp_logger[13630]:  soc_max:40C cpu_zone0:40C sbs-10-000b:20C cpu_zone1:40C cpu_zone2:39C cam:38C nna:37C adsp:36C mfg:36C cpu_big0:37C cpu_big1:37C   
+2026-09-28T23:01:00.566902Z NOTICE temp_logger[13733]:  soc_max:43C cpu_zone0:40C sbs-10-000b:20C cpu_zone1:41C cpu_zone2:41C cam:39C nna:37C adsp:36C mfg:36C cpu_big0:45C cpu_big1:40C   
+2026-09-28T23:02:00.935337Z NOTICE temp_logger[13872]:  soc_max:43C cpu_zone0:41C sbs-10-000b:20C cpu_zone1:41C cpu_zone2:41C cam:39C nna:38C adsp:37C mfg:36C cpu_big0:43C cpu_big1:40C   
+2026-09-28T23:02:38.755722Z WARNING resourced[3411]: Unknown chrome process 5991 running "/usr/bin/crosh"
+2026-09-28T23:02:38.755836Z WARNING resourced[3411]: Unknown chrome process 5996 running "/usr/bin/crosh"
+2026-09-28T23:02:38.755927Z WARNING resourced[3411]: Unknown chrome process 5997 running "/bin/bash"
+2026-09-28T23:02:38.756038Z WARNING resourced[3411]: Unknown chrome process 12850 running "/bin/gtar"
+2026-09-28T23:02:38.756130Z WARNING resourced[3411]: Unknown chrome process 12851 running "/bin/bzip2"
+2026-09-28T23:02:38.756216Z WARNING resourced[3411]: Unknown chrome process 10788 running "/usr/bin/crosh"
+2026-09-28T23:02:38.756301Z WARNING resourced[3411]: Unknown chrome process 10791 running "/usr/bin/crosh"
+2026-09-28T23:02:38.756395Z WARNING resourced[3411]: Unknown chrome process 10792 running "/bin/bash"
+2026-09-28T23:02:38.756484Z WARNING resourced[3411]: Unknown chrome process 11036 running "/usr/bin/zstd"
+2026-09-28T23:02:38.756578Z WARNING resourced[3411]: Unknown chrome process 13784 running "/usr/bin/crosh"
+2026-09-28T23:02:38.756676Z WARNING resourced[3411]: Unknown chrome process 13789 running "/usr/bin/crosh"
+2026-09-28T23:02:38.756764Z WARNING resourced[3411]: Unknown chrome process 13790 running "/bin/bash"
+2026-09-28T23:03:01.243969Z NOTICE temp_logger[14003]:  soc_max:39C cpu_zone0:39C sbs-10-000b:20C cpu_zone1:39C cpu_zone2:39C cam:38C nna:36C adsp:36C mfg:35C cpu_big0:37C cpu_big1:37C   
+2026-09-28T23:04:01.612851Z NOTICE temp_logger[14118]:  soc_max:46C cpu_zone0:44C sbs-10-000b:20C cpu_zone1:44C cpu_zone2:44C cam:42C nna:40C adsp:39C mfg:39C cpu_big0:44C cpu_big1:46C   
+2026-09-28T23:04:58.848760Z INFO periodic_scheduler[3240]: gsclog: running /usr/bin/gsclog
+2026-09-28T23:04:58.928463Z INFO periodic_scheduler[3240]: gsclog: job completed
+2026-09-28T23:05:01.898768Z NOTICE temp_logger[14271]:  soc_max:34C cpu_zone0:34C sbs-10-000b:20C cpu_zone1:33C cpu_zone2:33C cam:33C nna:31C adsp:31C mfg:31C cpu_big0:31C cpu_big1:31C   
+2026-09-28T23:05:39.627829Z ERR crosh[14149]: ERROR: command failed
+2026-09-28T23:05:39.629229Z INFO session_manager[1447]: INFO session_manager: [../../../../../tmp/portage/chromeos-base/libbrillo-0.0.1-r2579/work/libbrillo-0.0.1/libbrillo/brillo/process/process_reaper.cc:80] Untracked process 14149 terminated with status 1 (code = 1)
+2026-09-28T23:06:02.168784Z NOTICE temp_logger[14384]:  soc_max:33C cpu_zone0:33C sbs-10-000b:20C cpu_zone1:32C cpu_zone2:32C cam:33C nna:30C adsp:31C mfg:31C cpu_big0:32C cpu_big1:31C   
+2026-09-28T23:07:02.540846Z NOTICE temp_logger[14511]:  soc_max:42C cpu_zone0:39C sbs-10-000b:20C cpu_zone1:40C cpu_zone2:40C cam:38C nna:36C adsp:35C mfg:34C cpu_big0:42C cpu_big1:38C   

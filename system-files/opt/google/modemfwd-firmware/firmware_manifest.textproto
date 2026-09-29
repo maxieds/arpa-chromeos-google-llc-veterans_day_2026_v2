@@ -1,0 +1,398 @@
+#-------------------------------------------------------------------------------
+# corsola
+#-------------------------------------------------------------------------------
+
+device {
+  device_id: "usb:2cb7:01a2"
+  variant: "corsola_fm101"
+  default_main_firmware_version: "19500.0000.00.01.01.52"
+  dlc {
+    dlc_id: "modem-fw-dlc-corsola-fm101"
+  }
+
+  main_firmware {
+    filename: "fm101/19500.0000.00.01.01.52"
+    version: "19500.0000.00.01.01.52"
+    compression: NONE
+    assoc_firmware {
+      tag: "ap"
+      filename: "fm101/A57"
+      version: "A57"
+      compression: NONE
+    }
+  }
+
+  oem_firmware {
+    filename: "fm101/OEM_OTA_6002.0000.003"
+    version: "6002.0000.003"
+    main_firmware_version: "19500.0000.00.01.01.52"
+    compression: NONE
+  }
+
+  carrier_firmware {
+    filename: "fm101/OP_OTA_000.031"
+    carrier_id: "generic"
+    version: "000.031"
+    compression: NONE
+  }
+}
+
+device {
+  device_id: "usb:2cb7:01a2"
+  variant: "krabby_fm101"
+  default_main_firmware_version: "19500.0000.00.01.01.52"
+  dlc {
+    dlc_id: "modem-fw-dlc-krabby-fm101"
+  }
+
+  main_firmware {
+    filename: "fm101/19500.0000.00.01.01.52"
+    version: "19500.0000.00.01.01.52"
+    compression: NONE
+    assoc_firmware {
+      tag: "ap"
+      filename: "fm101/A57"
+      version: "A57"
+      compression: NONE
+    }
+  }
+
+  oem_firmware {
+    filename: "fm101/OEM_OTA_6002.0000.003"
+    version: "6002.0000.003"
+    main_firmware_version: "19500.0000.00.01.01.52"
+    compression: NONE
+  }
+
+  carrier_firmware {
+    filename: "fm101/OP_OTA_000.031"
+    carrier_id: "generic"
+    version: "000.031"
+    compression: NONE
+  }
+}
+
+device {
+  device_id: "usb:2cb7:01a2"
+  variant: "steelix_fm101"
+  default_main_firmware_version: "19500.0000.00.01.01.52"
+  dlc {
+    dlc_id: "modem-fw-dlc-steelix-fm101"
+  }
+
+  main_firmware {
+    filename: "fm101/19500.0000.00.01.01.52"
+    version: "19500.0000.00.01.01.52"
+    compression: NONE
+    assoc_firmware {
+      tag: "ap"
+      filename: "fm101/A57"
+      version: "A57"
+      compression: NONE
+    }
+  }
+
+  oem_firmware {
+    filename: "fm101/OEM_OTA_6002.0000.003"
+    version: "6002.0000.003"
+    main_firmware_version: "19500.0000.00.01.01.52"
+    compression: NONE
+  }
+
+  carrier_firmware {
+    filename: "fm101/OP_OTA_000.031"
+    carrier_id: "generic"
+    version: "000.031"
+    compression: NONE
+  }
+}
+
+device {
+  device_id: "usb:2cb7:01a2"
+  variant: "rusty_fm101"
+  default_main_firmware_version: "19500.0000.00.01.01.52"
+  dlc {
+    dlc_id: "modem-fw-dlc-rusty-fm101"
+  }
+
+  main_firmware {
+    filename: "fm101/19500.0000.00.01.01.52"
+    version: "19500.0000.00.01.01.52"
+    compression: NONE
+    assoc_firmware {
+      tag: "ap"
+      filename: "fm101/A57"
+      version: "A57"
+      compression: NONE
+    }
+  }
+
+  oem_firmware {
+    filename: "fm101/OEM_OTA_6002.0000.003"
+    version: "6002.0000.003"
+    main_firmware_version: "19500.0000.00.01.01.52"
+    compression: NONE
+  }
+
+  carrier_firmware {
+    filename: "fm101/OP_OTA_000.031"
+    carrier_id: "generic"
+    version: "000.031"
+    compression: NONE
+  }
+}
+
+device {
+  device_id: "usb:2c7c:0128"
+  variant: "rusty_em060"
+  default_main_firmware_version: "01.016"
+  dlc {
+    dlc_id: "modem-fw-dlc-rusty-em060"
+  }
+
+  main_firmware {
+    filename: "em060/MAIN/01.016"
+    version: "01.016"
+    compression: NONE
+  }
+
+  main_firmware {
+    filename: "em060/MAIN/01.116"
+    version: "01.116"
+    compression: NONE
+  }
+
+  oem_firmware {
+    filename: "em060/OEM/01.016"
+    version: "01.016"
+    main_firmware_version: "01.016"
+    main_firmware_version: "01.116"
+    compression: NONE
+  }
+
+  carrier_firmware {
+    filename: "em060/CARRIER/01.016"
+    carrier_id: "generic"
+    version: "01.016"
+    compression: NONE
+    main_firmware_version: "01.016"
+  }
+
+  carrier_firmware {
+    filename: "em060/CARRIER/01.116"
+    carrier_id: "c83d6597-dc91-4d48-a3a7-d86b80123751"
+    carrier_id: "6b7a7cdb-993a-41c3-bc9a-a605f1ea621e"
+    version: "01.116"
+    compression: NONE
+    main_firmware_version: "01.116"
+  }
+
+  carrier_firmware {
+    filename: "em060/CARRIER/01.216"
+    carrier_id: "3f473ca4-ec5a-49bf-9b0d-3643cccf6a3e"
+    version: "01.216"
+    compression: NONE
+    main_firmware_version: "01.116"
+  }
+}
+
+#-------------------------------------------------------------------------------
+#Ponty_fm101
+#-------------------------------------------------------------------------------
+
+device {
+  device_id: "usb:2cb7:01a2"
+  variant: "ponyta_fm101"
+  default_main_firmware_version: "19500.0000.00.01.02.80"
+  dlc {
+    dlc_id: "modem-fw-dlc-ponyta-fm101"
+  }
+  main_firmware {
+    filename: "fm101/19500.0000.00.01.02.80"
+    version: "19500.0000.00.01.02.80"
+    compression: NONE
+    assoc_firmware {
+      tag: "ap"
+      filename: "fm101/A96"
+      version: "A96"
+      compression: NONE
+    }
+    assoc_firmware {
+      tag: "dev"
+      filename: "fm101/DEV_OTA_6000.0000.0004.0000_00.02"
+      version: "6000.0000.0004.0000_00.02"
+      compression: NONE
+    }
+  }
+  carrier_firmware {
+    filename: "fm101/OP_OTA_000.075"
+    carrier_id: "generic"
+    version: "000.075"
+    compression: NONE
+  }
+  oem_firmware {
+    filename: "fm101/OEM_OTA_6000.0000.004"
+    version: "6000.0000.004"
+    main_firmware_version: "19500.0000.00.01.02.80"
+    compression: NONE
+  }
+}
+
+#-------------------------------------------------------------------------------
+#chinchou_fm101
+#-------------------------------------------------------------------------------
+
+device {
+  device_id: "usb:2cb7:01a2"
+  variant: "chinchou_fm101"
+  default_main_firmware_version: "19500.0000.00.01.02.80"
+  dlc {
+    dlc_id: "modem-fw-dlc-chinchou-fm101"
+  }
+  main_firmware {
+    filename: "fm101/19500.0000.00.01.02.80"
+    version: "19500.0000.00.01.02.80"
+    compression: NONE
+    assoc_firmware {
+      tag: "ap"
+      filename: "fm101/B08"
+      version: "B08"
+      compression: NONE
+    }
+    assoc_firmware {
+      tag: "dev"
+      filename: "fm101/DEV_OTA_6000.0004.0005.0000_00.03"
+      version: "6000.0004.0005.0000_00.03"
+      compression: NONE
+    }
+  }
+  carrier_firmware {
+    filename: "fm101/OP_OTA_002.081"
+    carrier_id: "generic"
+    version: "002.081"
+    compression: NONE
+  }
+  oem_firmware {
+    filename: "fm101/OEM_OTA_6000.0000.005"
+    version: "6000.0000.005"
+    main_firmware_version: "19500.0000.00.01.02.80"
+    compression: NONE
+  }
+}
+
+#-------------------------------------------------------------------------------
+# chinchou_rw101
+#-------------------------------------------------------------------------------
+
+device {
+  device_id: "usb:33f8:01a2"
+  variant: "chinchou_rw101"
+  default_main_firmware_version: "19512.0000.00.11.02.06"
+  dlc {
+    dlc_id: "modem-fw-dlc-chinchou-rw101"
+  }
+  main_firmware {
+    filename: "rw101/19512.0000.00.11.02.06"
+    version: "19512.0000.00.11.02.06"
+    compression: NONE
+    assoc_firmware {
+      tag: "ap"
+      filename: "rw101/D14"
+      version: "D14"
+      compression: NONE
+    }
+    assoc_firmware {
+      tag: "dev"
+      filename: "rw101/DEV_OTA_6100.0008.0008.0000_00.04"
+      version: "6100.0008.0008.0000_00.04"
+      compression: NONE
+    }
+  }
+  main_firmware {
+    filename: "rw101/19512.0000.00.11.02.08"
+    version: "19512.0000.00.11.02.08"
+    compression: NONE
+    assoc_firmware {
+      tag: "ap"
+      filename: "rw101/D14"
+      version: "D14"
+      compression: NONE
+    }
+    assoc_firmware {
+      tag: "dev"
+      filename: "rw101/DEV_OTA_6100.0008.0008.0000_00.04"
+      version: "6100.0008.0008.0000_00.04"
+      compression: NONE
+    }
+  }
+  carrier_firmware {
+    filename: "rw101/OP_OTA_001.022"
+    carrier_id: "generic"
+    version: "001.022"
+    compression: NONE
+  }
+  carrier_firmware {
+    filename: "rw101/OP_OTA_001.022"
+    carrier_id: "47d7f9cd-27c2-47bb-8f2a-826b1202409a"
+    carrier_id: "3133e0a8-8e4d-4947-ba78-3a8247f308db"
+    carrier_id: "f23f09a8-3416-4165-8654-25a59682af7a"
+    carrier_id: "592a34a4-b075-4e05-9306-3f8c86b386e4"
+    carrier_id: "996e2e3f-f8ea-415d-ba58-34b07b306612"
+    carrier_id: "8a834969-050f-455f-b2dc-0f321b6be479"
+    carrier_id: "a576607a-4958-11ed-b878-0242ac120002"
+    carrier_id: "441d4e56-d8e8-4ab0-883f-4728017ff002"
+    carrier_id: "81cd6912-a9de-4a0a-b39c-5a3d965c79cc"
+    version: "001.022"
+    main_firmware_version: "19512.0000.00.11.02.08"
+    compression: NONE
+  }
+  oem_firmware {
+    filename: "rw101/OEM_OTA_6100.0001.008"
+    version: "6100.0001.008"
+    main_firmware_version: "19512.0000.00.11.02.06"
+    main_firmware_version: "19512.0000.00.11.02.08"
+    compression: NONE
+  }
+}
+
+#-------------------------------------------------------------------------------
+# ponyta360_rw101
+#-------------------------------------------------------------------------------
+
+device {
+  device_id: "usb:33f8:01a2"
+  variant: "ponyta360_rw101"
+  default_main_firmware_version: "19512.0000.00.11.02.06"
+  dlc {
+    dlc_id: "modem-fw-dlc-ponyta360-rw101"
+  }
+  main_firmware {
+    filename: "rw101/19512.0000.00.11.02.06"
+    version: "19512.0000.00.11.02.06"
+    compression: NONE
+    assoc_firmware {
+      tag: "ap"
+      filename: "rw101/A08"
+      version: "A08"
+      compression: NONE
+    }
+    assoc_firmware {
+      tag: "dev"
+      filename: "rw101/DEV_OTA_6100.0000.0007.0000_00.02"
+      version: "6100.0000.0007.0000_00.02"
+      compression: NONE
+    }
+  }
+  carrier_firmware {
+    filename: "rw101/OP_OTA_000.006"
+    carrier_id: "generic"
+    version: "000.006"
+    compression: NONE
+  }
+  oem_firmware {
+    filename: "rw101/OEM_OTA_6100.0000.007"
+    version: "6100.0000.007"
+    main_firmware_version: "19512.0000.00.11.02.06"
+    compression: NONE
+  }
+}

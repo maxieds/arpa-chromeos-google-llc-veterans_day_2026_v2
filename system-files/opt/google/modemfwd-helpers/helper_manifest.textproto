@@ -1,0 +1,29 @@
+helper {
+  filename: "fibocom-helper"
+  device_id: "usb:2cb7:01a2"
+  extra_argument: "--power_enable_gpio=10005000.pinctrl,182"
+  extra_argument: "--power_fcpo_gpio=10005000.pinctrl,181"
+  extra_argument: "--modem_type=fm101"
+  variant: "chinchou_fm101"
+  variant: "corsola_fm101"
+  variant: "krabby_fm101"
+  variant: "ponyta_fm101"
+  variant: "steelix_fm101"
+  variant: "rusty_fm101"
+}
+
+helper {
+  filename: "qmodemhelper"
+  device_id: "usb:2c7c:0128"
+  extra_argument: "--power_enable_gpio=10005000.pinctrl,182"
+  variant: "rusty_em060"
+}
+
+helper {
+  filename: "rolling-helper"
+  device_id: "usb:33f8:01a2"
+  extra_argument: "--power_enable_gpio=10005000.pinctrl,182"
+  extra_argument: "--modem_type=rw101"
+  variant: "chinchou_rw101"
+  variant: "ponyta360_rw101"
+}

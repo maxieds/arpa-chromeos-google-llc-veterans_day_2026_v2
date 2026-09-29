@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  
+  
+  
+  
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="640" physical_partition_number="0" start_sector="0" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/sbl1.mbn" label="SBL" num_partition_sectors="640" physical_partition_number="0" start_sector="0" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="640" physical_partition_number="0" start_sector="640" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/partition_complete_p2K_b128K.mbn" label="MIBIB" num_partition_sectors="640" physical_partition_number="0" start_sector="640" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="5632" physical_partition_number="0" start_sector="1280" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/cefs.mbn" label="EFS2" num_partition_sectors="5632" physical_partition_number="0" start_sector="1280" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="1280" physical_partition_number="0" start_sector="6912" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/efs2bak.bin" label="efs2bak" num_partition_sectors="1280" physical_partition_number="0" start_sector="6912" tag="ap" />
+  
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="" label="rfnv" num_partition_sectors="1280" physical_partition_number="0" start_sector="8192" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="512" physical_partition_number="0" start_sector="9472" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/oeminfo.bin" label="oeminfo" num_partition_sectors="512" physical_partition_number="0" start_sector="9472" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="1024" physical_partition_number="0" start_sector="9984" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/tz.mbn" label="TZ" num_partition_sectors="1024" physical_partition_number="0" start_sector="9984" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="256" physical_partition_number="0" start_sector="11008" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/devcfg.mbn" label="DEVCFG" num_partition_sectors="256" physical_partition_number="0" start_sector="11008" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="256" physical_partition_number="0" start_sector="11264" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="" label="APDP" num_partition_sectors="256" physical_partition_number="0" start_sector="11264" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="512" physical_partition_number="0" start_sector="11520" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/rpm.mbn" label="RPM" num_partition_sectors="512" physical_partition_number="0" start_sector="11520" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="768" physical_partition_number="0" start_sector="12032" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/appsboot.mbn" label="aboot" num_partition_sectors="768" physical_partition_number="0" start_sector="12032" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="5376" physical_partition_number="0" start_sector="12800" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/sdxnightjar-boot.img" label="boot" num_partition_sectors="5376" physical_partition_number="0" start_sector="12800" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="25600" physical_partition_number="0" start_sector="18176" tag="modem" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="19500.0000.00.01.02.80/NON-HLOS.ubi" label="modem" num_partition_sectors="25600" physical_partition_number="0" start_sector="18176" tag="modem" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="1280" physical_partition_number="0" start_sector="43776" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="" label="appnv" num_partition_sectors="1280" physical_partition_number="0" start_sector="43776" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="512" physical_partition_number="0" start_sector="45056" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="" label="config" num_partition_sectors="512" physical_partition_number="0" start_sector="45056" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="256" physical_partition_number="0" start_sector="45568" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="" label="misc" num_partition_sectors="256" physical_partition_number="0" start_sector="45568" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="6144" physical_partition_number="0" start_sector="45824" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="" label="recovery" num_partition_sectors="6144" physical_partition_number="0" start_sector="45824" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="256" physical_partition_number="0" start_sector="51968" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/sec.dat" label="sec" num_partition_sectors="256" physical_partition_number="0" start_sector="51968" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="41472" physical_partition_number="0" start_sector="52224" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/sdxnightjar-sysfs.ubi" label="system" num_partition_sectors="41472" physical_partition_number="0" start_sector="52224" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="2560" physical_partition_number="0" start_sector="93696" tag="carrier" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="OP_OTA_000.075/operatorpack.ubi" label="operatorpack" num_partition_sectors="2560" physical_partition_number="0" start_sector="93696" tag="carrier" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="6144" physical_partition_number="0" start_sector="96256" tag="dev" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="DEV_OTA_6000.0000.0004.0000_00.02/devicepack.ubi" label="devicepack" num_partition_sectors="6144" physical_partition_number="0" start_sector="96256" tag="dev" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="25600" physical_partition_number="0" start_sector="102400" tag="ap" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="A96/sdxnightjar-usrfs.ubi" label="userdata" num_partition_sectors="25600" physical_partition_number="0" start_sector="102400" tag="ap" />
+  <erase PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" num_partition_sectors="3072" physical_partition_number="0" start_sector="128000" tag="oem" />
+  <program PAGES_PER_BLOCK="64" SECTOR_SIZE_IN_BYTES="2048" filename="OEM_OTA_6000.0000.004/oempack.ubi" label="oempack" num_partition_sectors="3072" physical_partition_number="0" start_sector="128000" tag="oem" />
+</data>

@@ -1,0 +1,11 @@
+var/tmp/portage/
+tar: var/lib/timezone/localtime: Cannot create symlink to ‘/usr/share/zoneinfo/America/Chicago’: No such file or directory
+tar: var/log/vmlog/vmlog.1.PREVIOUS: Cannot create symlink to ‘/var/log/vmlog/vmlog.1.20260927-135006’: No such file or directory
+tar: var/log/update_engine.log: Cannot create symlink to ‘/var/log/update_engine/update_engine.20260928-165232’: No such file or directory
+tar: var/run/frecon/vt2: Cannot create symlink to ‘/dev/pts/2’: No such file or directory
+tar: var/run/frecon/vt1: Cannot create symlink to ‘/dev/pts/1’: No such file or directory
+tar: var/run/frecon/vt0: Cannot create symlink to ‘/dev/pts/0’: No such file or directory
+tar: var/run/camera/camera_config.json: Cannot create symlink to ‘/etc/camera/camera_config_default.json’: No such file or directory
+tar: Exiting with failure status due to previous errors
+
+AzureAD+BSAGuest@DESKTOP-B84UPMK MINGW64 ~/mds2/ChromeOS-its-dead/system-files

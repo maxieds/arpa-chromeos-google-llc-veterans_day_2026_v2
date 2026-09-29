@@ -1,0 +1,55 @@
+{
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAukZ6JJWr0jHmFTkn0pcigpjI+cP0FqTo8FRIcCwy2fPeM+Ymf+7C9MK642i+Nhdr2qSsRF26AMIKbBdSDUnh04bfg5J/rKa/VO88LvXENYQMGhTo1y9mVg2OsbQJtEL9aTLU2G0SoKcr3g/+lggBKR5ydW1Qa0WGGAM9XrLm8iu/wn2uF4mfcMii6KfyEsAwWalpr/Td5WbtIoNNDpNeKO4ZSZJis1n9PZXqaOKpW7PqFDpEHw2PnPATxkcqj/wIx+Shgada0fhrzMlhXLhhj7ThSSWbuTz5n5NebuQ49/Z2ATgpBCSzYBVXEXMDe6LBBtGiZ/QR9UkA8Lz8bP6xIQIDAQAB",
+  "manifest_version": 3,
+  "minimum_chrome_version": "93",
+  "background": {
+    "service_worker": "select_to_speak/select_to_speak_main.rollup.js",
+    "type": "module"
+  },
+  "name": "__MSG_SELECT_TO_SPEAK_NAME__",
+  "version": "150.0.7871.222",
+  "description": "__MSG_SELECT_TO_SPEAK_DESCRIPTION__",
+  "incognito": "split",
+  "permissions": [
+    "accessibilityPrivate",
+    "offscreen",
+    "scripting",
+    "commandLinePrivate",
+    "metricsPrivate",
+    "settingsPrivate",
+    "storage",
+    "tabs",
+    "tts",
+    "https://docs.google.com/*",
+    "https://docs.sandbox.google.com/*",
+    "clipboard",
+    "clipboardRead",
+    "clipboardWrite",
+    "contextMenus"
+  ],
+  "host_permissions": [
+      "https://docs.google.com/*",
+      "https://docs.sandbox.google.com/*"
+   ],
+  "icons": {
+      "128": "select_to_speak/sts-icon-128.png",
+      "16": "select_to_speak/sts-icon-16.png",
+      "48": "select_to_speak/sts-icon-48.png"
+  },
+  "automation": {
+    "desktop": true
+  },
+  "default_locale": "en",
+  "content_scripts": [
+    {
+      "matches": [ "https://docs.google.com/document*",
+                   "https://docs.sandbox.google.com/document*"],
+      "all_frames": true,
+      "js": [
+        "select_to_speak/gdocs_script.js"
+      ],
+      "world": "MAIN",
+      "run_at": "document_start"
+    }
+  ]
+}

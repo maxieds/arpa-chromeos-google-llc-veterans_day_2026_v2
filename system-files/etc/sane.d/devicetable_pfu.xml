@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <device id="fi-8170">
+      <vendorid>0x05ca</vendorid>
+      <productid>0x03d8</productid>
+      <manufacturer>RICOH</manufacturer>
+      <type>scanner</type>
+      <product>fi-8170</product>
+      <devtype>1000</devtype>
+      <isnet>1</isnet>
+      <isflatbed>0</isflatbed>
+      <isimprinter>1</isimprinter>
+      <commonoption>
+          <option id="source">
+              <support>1</support>
+              <listnum>3</listnum>
+              <list>ADF Front</list>
+              <list>ADF Back</list>
+              <list>ADF Duplex</list>
+              <default>2</default>
+          </option>
+          <option id="background">
+              <support>1</support>
+              <listnum>2</listnum>
+              <list>White</list>
+              <list>Black</list>
+              <default>1</default>
+          </option>
+          <option id="prepick">
+              <support>1</support>
+              <listnum>2</listnum>
+              <list>On</list>
+              <list>Off</list>
+              <default>0</default>
+          </option>
+      </commonoption>
+  </device>
+  <device id="fi-800R">
+      <vendorid>0x05ca</vendorid>
+      <productid>0x03d5</productid>
+      <manufacturer>RICOH</manufacturer>
+      <type>scanner</type>
+      <product>fi-800R</product>
+      <devtype>1005</devtype>
+      <isnet>0</isnet>
+      <isflatbed>0</isflatbed>      
+      <isimprinter>0</isimprinter>
+      <commonoption>
+          <option id="source">
+              <support>1</support>
+              <listnum>3</listnum>
+              <list>ADF Front</list>
+              <list>ADF Back</list>
+              <list>ADF Duplex</list>
+              <default>2</default>
+          </option>
+          <option id="background">
+              <support>0</support>
+              <listnum>2</listnum>
+              <list>White</list>
+              <list>Black</list>
+              <default>0</default>
+          </option>
+          <option id="prepick">
+              <support>0</support>
+              <listnum>2</listnum>
+              <list>On</list>
+              <list>Off</list>
+              <default>0</default>
+          </option>
+      </commonoption>
+  </device>
+</root>

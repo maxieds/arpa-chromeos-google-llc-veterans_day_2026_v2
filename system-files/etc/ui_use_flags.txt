@@ -1,0 +1,28 @@
+# This file is just for libchromeos's ChromiumCommandBuilder class.
+# Don't use it for anything else. Your code will break.
+arc
+arc_adb_sideloading
+arc_enable_attestation
+arc_erofs
+arc_ureadahead
+arcvm
+arcvm_virtio_blk_data
+cheets
+compupdates
+diagnostics
+drm_atomic
+floss
+gpu_sandbox_start_early
+ipcz
+kvm_host
+lvm_application_containers
+ml_service
+native_gpu_memory_buffers
+ondevice_document_scanner
+ondevice_grammar
+ondevice_handwriting
+ondevice_speech
+opengles
+smartdim
+touchview
+video_capture_use_gpu_memory_buffer

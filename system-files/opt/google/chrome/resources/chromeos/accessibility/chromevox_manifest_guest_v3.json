@@ -1,0 +1,67 @@
+{
+  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDltVl1k15pjRzuZfMc3B69inxwm2bZeZ2O8/zFO+NluHnBm3GJ3fzdOoFGJd+M16I8p7zxxQyHeDMfWYASyCeB8XnUEDKjqNLQfCnncsANzHsYoEbYj2nEUML2P13b9q+AAvpCBpAJ4cZp81e9n1y/vbSXHE4385cgkKueItzikQIDAQAB",
+  "manifest_version": 3,
+  "minimum_chrome_version": "93",
+  "background": {
+    "service_worker": "chromevox/mv3/chromevox_loader.js",
+    "type": "module"
+  },
+  "name": "__MSG_CHROMEVOX_NAME__",
+  "version": "150.0.7871.222",
+  "description": "__MSG_CHROMEVOX_DESCRIPTION__",
+  "incognito": "split",
+  "bluetooth": {},
+  "permissions": [
+    "accessibilityPrivate",
+    "audio",
+    "bluetoothPrivate",
+    "brailleDisplayPrivate",
+    "clipboardRead",
+    "chromeosInfoPrivate",
+    "commandLinePrivate",
+    "downloads",
+    "loginState",
+    "metricsPrivate",
+    "notifications",
+    "settingsPrivate",
+    "storage",
+    "tabs",
+    "tts",
+    "offscreen"
+  ],
+  "host_permissions": [
+    "chrome://resources/",
+    "https://docs.google.com/*",
+    "https://docs.sandbox.google.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://docs.google.com/*",
+        "https://docs.sandbox.google.com/*"
+      ],
+      "all_frames": true,
+      "js": [
+        "chromevox/mv2/injected/cvox_gdocs_script.js"
+      ]
+    }
+  ],
+  "automation": {
+    "desktop": true
+  },
+  "options_page": "chromevox/options/options.html",
+  "default_locale": "en",
+  "content_security_policy": {
+    "extension_pages": "default-src 'none'; script-src 'self' chrome://resources 'wasm-unsafe-eval'; style-src 'unsafe-inline' chrome://resources; img-src 'self' data:;",
+    "sandbox": "sandbox allow-scripts; script-src 'self' 'unsafe-eval'; child-src 'self';"
+  },
+  "sandbox": {
+     "pages": ["chromevox/mv3/services/tenji/sandboxed_tenji_wrapper.html"]
+  },
+  "externally_connectable": {
+    "ids": [
+      
+      "jddehjeebkoimngcbdkaahpobgicbffp"
+    ]
+  }
+}

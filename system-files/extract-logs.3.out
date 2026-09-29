@@ -1,0 +1,11 @@
+etc/xl2tpd/xl2tpd.conf
+tar: etc/env.d/python: Cannot create symlink to ‘/usr/local/etc/env.d/python’: No such file or directory
+tar: etc/hosts: Cannot create symlink to ‘/etc/hosts.d/hosts’: No such file or directory
+tar: etc/localtime: Cannot create symlink to ‘/var/lib/timezone/localtime’: No such file or directory
+tar: etc/machine-id: Cannot create symlink to ‘/var/lib/dbus/machine-id’: No such file or directory
+tar: etc/portage: Cannot create symlink to ‘/usr/share/dev-install/portage’: No such file or directory
+tar: etc/resolv.conf: Cannot create symlink to ‘/run/dns-proxy/resolv.conf’: No such file or directory
+tar: Exiting with failure status due to previous errors
+
+AzureAD+BSAGuest@DESKTOP-B84UPMK MINGW64 ~/mds2/ChromeOS-its-dead/system-files
+$

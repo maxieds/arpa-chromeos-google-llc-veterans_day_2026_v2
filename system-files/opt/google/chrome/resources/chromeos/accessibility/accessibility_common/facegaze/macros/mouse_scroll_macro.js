@@ -1,0 +1,24 @@
+// Copyright 2024 The Chromium Authors
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+import { Macro, ToggleDirection } from '/common/action_fulfillment/macros/macro.js';
+import { MacroName } from '/common/action_fulfillment/macros/macro_names.js';
+/** Class that implements a macro to toggle scroll mode. */
+export class MouseScrollMacro extends Macro {
+    mouseController_;
+    constructor(mouseController) {
+        super(MacroName.TOGGLE_SCROLL_MODE);
+        this.mouseController_ = mouseController;
+    }
+    isToggle() {
+        return true;
+    }
+    getToggleDirection() {
+        return this.mouseController_.isScrollModeActive() ? ToggleDirection.OFF :
+            ToggleDirection.ON;
+    }
+    run() {
+        this.mouseController_.toggleScrollMode();
+        return this.createRunMacroResult_(/*isSuccess=*/ true);
+    }
+}

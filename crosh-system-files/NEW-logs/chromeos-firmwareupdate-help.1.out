@@ -1,0 +1,90 @@
+Usage: /usr/sbin/chromeos-firmwareupdate [options]
+
+-V:              print human readable version information
+--manifest:      print machine readable (JSON) version information
+--unpack DEST:   unpack the contents to DEST
+--repack SRC:    repack with contents from SRC
+
+
+If no options are given, prints firmware info and exits.
+Other options will be passed to 'futility update' command:
+
+
+Usage:  futility update [OPTIONS]
+
+Updates firmware in one of the following modes (default to recovery):
+  autoupdate:	Update RW[A|B], or recovery if RO changed.
+  recovery:  	Update RW[A&B], (RO, RO:GBB[keys] - if RO changed)
+  factory:   	Update RW[A&B],  RO, RO:GBB[keys,flags]
+
+Note: firmware sections with PRESERVE flags like VPD and
+      HWID in GBB are always preserved.
+      GBB flags are preserved in autoupdate and recovery modes.
+
+OPTIONS:
+
+-i, --image=FILE    	AP (host) firmware image (image.bin)
+-e, --ec_image=FILE 	EC firmware image (i.e, ec.bin)
+-t, --try           	Try A/B update on reboot if possible
+-a, --archive=PATH  	Read resources from archive
+    --model=MODEL   	Specify or override the model name in the
+                    	archive. This is useful for flashing over
+                    	servo, where crosid is not available.
+    --frid=FRID     	Specify FRID to match in identity.csv
+    --sku-id=SKU_ID 	Specify SKU ID to match in identity.csv
+                    	Specifying both --frid and --sku-id is
+                    	sufficient to decide the model name
+                    	from identity.csv
+    --unpack=DIR    	Extracts archive to DIR
+    --fast          	Reduce read cycles and do not verify
+    --quirks=LIST   	Specify the quirks to apply
+    --list-quirks   	Print all available quirks
+-m, --mode=MODE     	Run updater in the specified mode
+    --manifest      	Scan the archive to print a manifest in JSON
+    --parseable-manifest
+                    	Scan the archive to print a manifest
+                    	in shell-parseable format
+    --check-fwid    	Compare firmware id before performing
+                    	an update. Skip the update if the versions are
+                    	the same.
+-p, --programmer=PRG	Change AP (host) flashrom programmer
+    --ccd_without_servod[=SERIAL] 	Flash via CCD without servod
+    --emulate=FILE  	Emulate system firmware using file
+    --servo         	Flash using Servo (v2, v4, micro, ...)
+    --servo_port=PRT	Override servod port, implies --servo
+
+ * Option --manifest requires either -a,--archive or -i,--image
+   With -i,--image additional images are accepted with options
+   -e,--ec_image.
+ * If both --manifest and --fast are specified, the updater
+   will not scan the archive and simply dump the previously
+   cached manifest (may be out-dated) from the archive.
+   Works only with -a,--archive option.
+ * Use of -p,--programmer with option other than 'internal',
+   or with --ccd effectively disables ability to update EC
+   firmware images.
+ * Emulation works only with the AP (host) firmware image, and
+   does not support the EC firmware image.
+ * Model detection with option --detect-model-only requires
+   archive path -a,--archive
+ * The --quirks provides a set of options to override the
+   default behavior. Run --list-quirks to get the options,
+   and --quirks OPTION to turn on. To disable a quirk that
+   was default turned on from the firmware image CBFS, do
+   --quirks OPTION=0 to turn off.
+
+Legacy and compatibility options:
+    --factory       	Alias for --mode=factory
+    --force         	Force update (skip checking contents)
+    --output_dir=DIR	Specify the target for --mode=output
+    --unlock_me     	(deprecated) Unlock the Intel ME before flashing
+    --signature_id=S	(deprecated) Same as --model
+
+Debugging and testing options:
+    --wp=1|0        	Specify write protection status
+    --host_only     	Update only AP (host) firmware
+    --detect-model-only	Detect model by reading the FRID and exit
+    --gbb_flags=FLAG	Override new GBB flags
+    --sys_props=LIST	List of system properties to override
+-d, --debug         	Print debugging messages
+-v, --verbose       	Print verbose messages

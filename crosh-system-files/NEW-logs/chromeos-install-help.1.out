@@ -1,0 +1,54 @@
+Arg parser with the set of args from the shell script.
+
+This drops the '--no<flag>' variant of each boolean arg, because they didn't seem to be used and would have been complex to add.
+
+Usage: chromeos-install [OPTIONS]
+
+Options:
+      --dst <DST>
+          Destination device
+
+      --skip_dst_removable
+          Skip check to ensure destination is not removable
+
+  -y, --yes
+          Answer yes to everything
+
+      --skip_rootfs
+          Skip installing the rootfs; Only set up partition table and clear and reinstall the stateful partition
+
+      --preserve_stateful
+          Don't create a new filesystem for the stateful partition. Be careful using this as this may make the stateful partition not mountable
+
+      --payload_image <PAYLOAD_IMAGE>
+          Path to a Chromium OS image to install onto the device's hard drive
+
+      --pmbr_code <PMBR_CODE>
+          Path to PMBR code to be installed
+
+      --target_bios <TARGET_BIOS>
+          Bios type to boot with (see postinst --bios)
+
+      --debug
+          Show debug output
+
+      --storage_diags
+          Print storage diagnostic information on failure
+
+      --skip_gpt_creation
+          Skips creating the GPT partition table
+
+      --lab_preserve_logs <LAB_PRESERVE_LOGS>
+          Path to a file containing logs to be preserved
+
+      --skip_postinstall
+          Skip postinstall for situations where you're building for a non-native arch. Note that this will probably break verity
+
+      --minimal_copy
+          Minimal copy of partitions
+
+  -h, --help
+          Print help (see a summary with '-h')
+
+  -V, --version
+          Print version

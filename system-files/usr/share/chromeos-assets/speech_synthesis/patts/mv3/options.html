@@ -1,0 +1,26 @@
+<head>
+  <title>Google TTS Settings</title>
+  <link rel="stylesheet" type="text/css" href="options.css" />
+</head>
+<body>
+  <h1>Google TTS Settings</h1>
+  <p>Choose which voices to install on this device. Voice files are shared among users to save disk space.</p>
+  <div class="container">
+    <div id="searchContainer" class="searchContainer">
+      <img id="searchIcon"
+           src="baseline-search-24px.svg" aria-hidden="true"/>
+      <input id="searchInput" type="search"
+             placeholder="Search voices" aria-label="Search voices">
+      </input>
+      <button id="clearButton" aria-label="Clear"
+              style="display: none">
+      </button>
+    </div>
+    <div id="errorMessage" style="display: none">
+    </div>
+    <div id="voiceContainer"></div>
+  </div>
+  <div id="searchSummary" class="hidden" aria-live="polite"
+       aria-atomic="true"></div>
+  <script src="options.js"></script>
+</body>

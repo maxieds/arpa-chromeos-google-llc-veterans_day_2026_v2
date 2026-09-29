@@ -1,0 +1,167 @@
+{
+  "PROMPT_STRING": {
+    "message": "$name$ wants to verify that you are using an eligible Chrome OS device.",
+    "description": "Text for the user opt-in prompt.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Service name of provider page requesting verification."
+      }
+    }
+  },
+  "INFO_STRING": {
+    "message": "Learn More",
+    "description": "The text that points the user to more information about ECHO."
+  },
+  "ALLOW_BUTTON_STRING": {
+    "message": "Allow",
+    "description": "Label for the allow consent button."
+  },
+  "DENY_BUTTON_STRING": {
+    "message": "Deny",
+    "description": "Label for the deny consent button."
+  },
+  "DISMISS_INFO_STRING": {
+    "message": "Your IT administrator has disabled Chrome Goodies for your device.",
+    "description": "The text that tells user Chrome Goodies is disabled."
+  },
+  "DISMISS_BUTTON_STRING": {
+    "message": "Dismiss",
+    "description": "Label for the dismiss button."
+  },
+  "CONSENT_DENIED": {
+    "message": "You did not give us permission to verify the eligibility of your Chrome device. Please try to redeem the offer again, and click \"Allow\" to let us verify your eligibility.",
+    "description": "User clicked on \"Deny\" for the consent prompt."
+  },
+  "ERROR_NO_REGCODE": {
+    "message": "Your device does not appear to have an offer code on it. Please contact $link$Chrome OS support$tag$.",
+    "description": "Device does not have a regcode installed on it.",
+    "placeholders": {
+      "link": {
+        "content": "$1",
+        "example": "Link to Chrome OS support page."
+      },
+      "tag": {
+        "content": "$2",
+        "example": "Html tag."
+      }
+    }
+  },
+  "ERROR_ORIGIN_FAILURE": {
+    "message": "Your attempt to redeem this offer appears to have come from an unregistered website.",
+    "description": "Origin check failed. This really shouldn’t happen unless some unregistered website is trying to trigger the ECHO flow."
+  },
+  "GENERIC_ERROR_MESSAGE": {
+    "message": "For some reason, we can't redeem your offer at this time. We're also confused by this. Please check back later.",
+    "description": "This message is displayeed when there is an error, but no other error-specific message exists."
+  },
+  "MAX_ENROLLMENT_COUNT_EXCEEDED": {
+    "message": "You can only redeem this offer once per device, and it has already been redeemed. Another person on this device may have logged in and beat you to it. Or, if you bought this device as an open-box device, the previous owner may have grabbed it. Unfortunately, we cannot transfer offers to other accounts, and we can't renew offers on open-box devices.",
+    "description": "This message is displayed when the regcode on the device has already been redeemed for the given offer."
+  },
+  "DEVICE_NOT_ELIGIBLE": {
+    "message": "Your device is not eligible for this offer. $link$View available offers for your device$tag$",
+    "description": "The regcode is associated with a given device and that device is not eligible for the offer.",
+    "placeholders": {
+      "link": {
+        "content": "$1",
+        "example": "Link to help center page."
+      },
+      "tag": {
+        "content": "$2",
+        "example": "Html tag."
+      }
+    }
+  },
+  "OTC_SERVICE_DOES_NOT_MATCH": {
+    "message": "The code you received from Chrome OS support is being used to redeem the wrong offer. Please contact $link$Chrome OS support$tag$ again.",
+    "description": "An OTC is issued for a particular service ID, but the device is trying to redeem the OTC for a different service ID.",
+    "placeholders": {
+      "link": {
+        "content": "$1",
+        "example": "Link to Chrome OS support page."
+      },
+      "tag": {
+        "content": "$2",
+        "example": "Html tag."
+      }
+    }
+  },
+  "DEVICE_NO_LONGER_ELIGIBLE": {
+    "message": "This offer has expired for your device.",
+    "description": "Device would normally be eligible for a time-limited offer, but the device is too old and the offer has expired for that device."
+  },
+  "DEVICE_SKU_NOT_ELIGIBLE": {
+    "message": "This offer is not available for your specific Chrome device model.",
+    "description": "The regcode is associated with a given device and SKU (based on HWID). The device family is eligible for the offer but only for specific SKUs which the current device doesn’t match."
+  },
+  "REGISTRATION_CODE_INVALID": {
+    "message": "The registration code on your device is not valid.",
+    "description": "ECHO Server encounters a non-null but unknown regcode. Should actually never happen."
+  },
+  "NONREGULAR_MODE_MESSAGE": {
+    "message": "Unable to redeem offer. You may be using an Incognito window or logged into Guest mode where offers cannot be redeemed. Please use a regular window and ensure you are not using a Guest login.",
+    "description": "ECHO extension doesn't work in incognito mode or guest mode, this message ask user to redeem offer in a new window in regular mode."
+  },
+  "SORRY_ABOUT_THAT": {
+    "message": "Sorry about that",
+    "description": "We're apologizing to the user that they are unable to redeem an offer."
+  },
+  "NOTIFICATION_TITLE": {
+    "message": "Chrome Goodies",
+    "description": "Notification title to tell user it's about Chrome Goodies."
+  },
+  "NOTIFICATION_MESSAGE": {
+    "message": "Redeem them before it's too late",
+    "description": "Warning to user that he will not be able to redeem the offer if he lets it expire."
+  },
+  "NOTIFICATION_BUTTON": {
+    "message": "Redeem - $numDays$ days left",
+    "description": "Notification button.",
+    "placeholders": {
+      "numDays": {
+        "content": "$1",
+        "example": "Number of days."
+      }
+    }
+  },
+  "LEARN_MORE": {
+    "message": "$link$Learn more$tag$",
+    "description": "A learn more link connect user to help center page.",
+    "placeholders": {
+      "link": {
+        "content": "$1",
+        "example": "Link to help center page."
+      },
+      "tag": {
+        "content": "$2",
+        "example": "Html tag."
+      }
+    }
+  },
+  "REDEEM_OFFER": {
+    "message": "Redeem offer",
+    "description": "Button text telling user to redeem offer."
+  },
+  "PROMO_CODE_EXPIRATION_DATE": {
+    "message": "This promo code expires on $expirationDate$.",
+    "description": "Tell the user that the promo code will be expired on a specific date.",
+    "placeholders": {
+      "expirationDate": {
+        "content": "$1",
+        "example": "The expiration date of the promotion code."
+      }
+    }
+  },
+  "PROMO_CODE": {
+    "message": "In fact, you are eligible and here is your promo code: $promoCode$.",
+    "description": "Tell the user that user is eligible for the promo code offer and display the promo code.",
+    "placeholders": {
+      "promoCode": {
+        "content": "$1",
+	"example": "The promotion code provided by service provider."
+      }
+    }
+  }
+}
+

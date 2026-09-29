@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Luba"
+    }, 
+    "consent_denied": {
+        "message": "Te ei andnud meile luba Chrome'i seadme sobilikkuse kontrollimiseks. Proovige pakkumist uuesti lunastada ja kl\u00f5psake sobilikkuse kontrollimise lubamiseks k\u00e4sul \u201eLuba\u201d."
+    }, 
+    "deny_button_string": {
+        "message": "Keela"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "See pakkumine on teie seadme jaoks aegunud."
+    }, 
+    "device_not_eligible": {
+        "message": "Teie seade ei ole sobilik selle pakkumise kasutamiseks. $1Vaadake teie seadmele saadaolevaid pakkumisi$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "See pakkumine pole teie konkreetse Chrome'i seadme mudeli jaoks saadaval."
+    }, 
+    "dismiss_button_string": {
+        "message": "Loobu"
+    }, 
+    "dismiss_info_string": {
+        "message": "IT-administraator on keelanud teie seadmes Chrome'i lisad."
+    }, 
+    "error_no_regcode": {
+        "message": "Paistab, et teie seadmes pole pakkumiskoodi. V\u00f5tke \u00fchendust $1Chrome OS-i toega$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Paistab, et teie pakkumise lunastamise katse p\u00e4rineb registreerimata veebisaidilt."
+    }, 
+    "generic_error_message": {
+        "message": "Mingil p\u00f5hjusel ei saa me pakkumist praegu lunastada. See tekitab ka meis segadust. Proovige hiljem uuesti."
+    }, 
+    "info_string": {
+        "message": "Lisateave"
+    }, 
+    "learn_more": {
+        "message": "$1Lisateave$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Saate lunastada pakkumise \u00fche seadme kohta ainult \u00fcks kord ja see pakkumine on juba lunastatud. V\u00f5imalik, et m\u00f5ni teine inimene on juba sellesse seadmesse sisse loginud ja pakkumise lunastanud. V\u00f5i kui ostsite seadme kasutatult, siis lunastas pakkumise v\u00f5ib-olla eelmine omanik. Kahjuks ei saa me pakkumisi teistele kontodele \u00fcle kanda ega uuendada pakkumisi kasutatud seadmete jaoks."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Pakkumist ei \u00f5nnestu lunastada. V\u00f5imalik, et kasutate inkognito akent v\u00f5i olete logitud sisse k\u00fclalise re\u017eiimis, kus ei saa pakkumisi lunastada. Kasutage tavalist akent ja veenduge, et te ei kasuta k\u00fclalise re\u017eiimi."
+    }, 
+    "notification_button": {
+        "message": "Lunastamine \u2013 aega on j\u00e4\u00e4nud veel $1 p\u00e4eva", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Lunastage need enne, kui on liiga hilja"
+    }, 
+    "notification_title": {
+        "message": "Hankige Chrome'i seadmele lisasid"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Chrome OS-i toelt saadud koodi kasutatakse vale pakkumise lunastamiseks. V\u00f5tke $1Chrome OS-i toega$2 uuesti \u00fchendust.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 tahab veenduda, et kasutate sobivat Chrome OS-i seadet.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Seadme registreerimiskood ei ole kehtiv."
+    }, 
+    "sorry_about_that": {
+        "message": "Vabandage selle p\u00e4rast"
+    }
+}

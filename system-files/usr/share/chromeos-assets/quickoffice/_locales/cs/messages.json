@@ -1,0 +1,2333 @@
+{
+  "action_create_user_feedback": {
+    "message": "Nahl\u00e1sit probl\u00e9m"
+  },
+  "alt_key": {
+    "message": "Alt"
+  },
+  "always_use_office_editing_mode": {
+    "message": "Toto u\u00a0podporovan\u00fdch soubor\u016f Office z\u00a0Disku a\u00a0Gmailu prov\u00e9st v\u017edy"
+  },
+  "app_error_learn_more": {
+    "message": "Dal\u0161\u00ed informace"
+  },
+  "app_error_report_feedback": {
+    "message": "Nahl\u00e1sit zp\u011btnou vazbu"
+  },
+  "app_icon_aria_spoken_word": {
+    "message": " domovsk\u00e1 str\u00e1nka"
+  },
+  "app_nacl_crash_msg": {
+    "message": "Nahlaste n\u00e1m probl\u00e9m a pomozte t\u00edm s jeho \u0159e\u0161en\u00edm."
+  },
+  "app_nacl_crash_report": {
+    "message": "Nahl\u00e1sit probl\u00e9m..."
+  },
+  "app_nacl_crash_title": {
+    "message": "Jejda, to se nem\u011blo st\u00e1t. Zm\u011bny obnov\u00edte op\u011btovn\u00fdm na\u010dten\u00edm str\u00e1nky."
+  },
+  "app_nacl_error_load_failed": {
+    "message": "Omlouv\u00e1me se, soubor se nepoda\u0159ilo otev\u0159\u00edt. Zav\u0159ete ostatn\u00ed karty Chromu nebo Chrome restartujte a\u00a0zkuste to znovu. Pokud probl\u00e9m p\u0159etrv\u00e1v\u00e1, nahlaste jej n\u00ed\u017ee."
+  },
+  "app_nacl_error_title": {
+    "message": "Soubor nelze otev\u0159\u00edt."
+  },
+  "app_nacl_error_unsupported_device": {
+    "message": "Roz\u0161\u00ed\u0159en\u00ed pro Chrome \u00dapravy soubor\u016f syst\u00e9mu Office v\u00a0Dokumentech, Tabulk\u00e1ch a\u00a0Prezentac\u00edch Google v\u00a0tomto za\u0159\u00edzen\u00ed nen\u00ed podporov\u00e1no."
+  },
+  "app_saving_failed_error_msg": {
+    "message": "Omlouv\u00e1me se, p\u0159i ukl\u00e1d\u00e1n\u00ed souboru do\u0161lo k\u00a0pot\u00ed\u017e\u00edm. Zkuste jej ulo\u017eit znovu. Pokud probl\u00e9m p\u0159etrv\u00e1v\u00e1, nahlaste jej pros\u00edm."
+  },
+  "app_saving_failed_error_short_msg": {
+    "message": "Soubor nelze ulo\u017eit."
+  },
+  "backgroundcolor_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam barev pozad\u00ed bu\u0148ky"
+  },
+  "banner_dismiss": {
+    "message": "Zav\u0159\u00edt"
+  },
+  "basic_editor_conversion_shortmsg": {
+    "message": "Jste v\u00a0re\u017eimu z\u00e1kladn\u00edho editoru"
+  },
+  "basic_editor_mode": {
+    "message": "Z\u00e1kladn\u00ed editor"
+  },
+  "basic_editor_promo_conversion_msg": {
+    "message": "Pracujete v\u00a0z\u00e1kladn\u00edm editoru soubor\u016f Microsoft. Mo\u017enosti \u00faprav mohou b\u00fdt omezen\u00e9. V\u00e1\u0161 soubor se p\u0159i \u00faprav\u00e1ch bude automaticky ukl\u00e1dat."
+  },
+  "bold_aria_spoken_word": {
+    "message": "tu\u010dn\u00e9"
+  },
+  "border_all_aria_spoken_word": {
+    "message": "ve\u0161ker\u00e9 ohrani\u010den\u00ed"
+  },
+  "border_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam ohrani\u010den\u00ed"
+  },
+  "border_bottom_aria_spoken_word": {
+    "message": "ohrani\u010den\u00ed dole"
+  },
+  "border_horizontal_aria_spoken_word": {
+    "message": "vodorovn\u00e9 ohrani\u010den\u00ed"
+  },
+  "border_inner_aria_spoken_word": {
+    "message": "vnit\u0159n\u00ed ohrani\u010den\u00ed"
+  },
+  "border_left_aria_spoken_word": {
+    "message": "ohrani\u010den\u00ed vlevo"
+  },
+  "border_none_aria_spoken_word": {
+    "message": "bez ohrani\u010den\u00ed"
+  },
+  "border_outer_aria_spoken_word": {
+    "message": "vn\u011bj\u0161\u00ed ohrani\u010den\u00ed"
+  },
+  "border_right_aria_spoken_word": {
+    "message": "ohrani\u010den\u00ed vpravo"
+  },
+  "border_top_aria_spoken_word": {
+    "message": "ohrani\u010den\u00ed naho\u0159e"
+  },
+  "border_vertical_aria_spoken_word": {
+    "message": "svisl\u00e9 ohrani\u010den\u00ed"
+  },
+  "button_drive_promo_office_editing_mode_point": {
+    "message": "Otev\u0159\u00edt v\u00a0Prezentac\u00edch Google"
+  },
+  "button_drive_promo_office_editing_mode_sheet": {
+    "message": "Otev\u0159\u00edt v\u00a0Tabulk\u00e1ch Google"
+  },
+  "button_drive_promo_office_editing_mode_word": {
+    "message": "Otev\u0159\u00edt v\u00a0Dokumentech Google"
+  },
+  "button_ocm_convert_cancel": {
+    "message": "Zru\u0161it"
+  },
+  "button_ocm_oem_cancel": {
+    "message": "Zru\u0161it"
+  },
+  "button_ocm_promo_conversion_point": {
+    "message": "Ulo\u017eit jako Prezentaci Google"
+  },
+  "button_ocm_promo_conversion_sheet": {
+    "message": "Ulo\u017eit jako Tabulku Google"
+  },
+  "button_ocm_promo_conversion_word": {
+    "message": "Ulo\u017eit jako Dokument Google"
+  },
+  "button_ocm_promo_office_editing_mode_point": {
+    "message": "Nahr\u00e1t na Disk a\u00a0otev\u0159\u00edt v\u00a0Prezentac\u00edch"
+  },
+  "button_ocm_promo_office_editing_mode_sheet": {
+    "message": "Nahr\u00e1t na Disk a\u00a0otev\u0159\u00edt v\u00a0Tabulk\u00e1ch"
+  },
+  "button_ocm_promo_office_editing_mode_word": {
+    "message": "Nahr\u00e1t na Disk a\u00a0otev\u0159\u00edt v\u00a0Dokumentech"
+  },
+  "button_share_convert_cancel": {
+    "message": "Zru\u0161it"
+  },
+  "button_share_oem_cancel": {
+    "message": "Zru\u0161it"
+  },
+  "button_share_promo_conversion_point": {
+    "message": "Ulo\u017eit jako Prezentaci Google"
+  },
+  "button_share_promo_conversion_sheet": {
+    "message": "Ulo\u017eit jako Tabulku Google"
+  },
+  "button_share_promo_conversion_word": {
+    "message": "Ulo\u017eit jako Dokument Google"
+  },
+  "button_share_promo_office_editing_mode": {
+    "message": "Nahr\u00e1t na Disk ke sd\u00edlen\u00ed"
+  },
+  "cell_align_aria_spoken_word": {
+    "message": "Zarovn\u00e1n\u00ed bu\u0148ky"
+  },
+  "cellalign_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam zarovn\u00e1n\u00ed bu\u0148ky"
+  },
+  "cellhaligncenter_aria_spoken_word": {
+    "message": "Vodorovn\u011b na st\u0159ed"
+  },
+  "cellhalignleft_aria_spoken_word": {
+    "message": "Vodorovn\u011b vlevo"
+  },
+  "cellhalignright_aria_spoken_word": {
+    "message": "Vodorovn\u011b vpravo"
+  },
+  "cellvalignbottom_aria_spoken_word": {
+    "message": "Svisle dol\u016f"
+  },
+  "cellvaligncenter_aria_spoken_word": {
+    "message": "Svisle na st\u0159ed"
+  },
+  "cellvaligntop_aria_spoken_word": {
+    "message": "Svisle nahoru"
+  },
+  "char_count_label": {
+    "message": "Po\u010det znak\u016f"
+  },
+  "char_no_spaces_count_label": {
+    "message": "Po\u010det znak\u016f bez mezer"
+  },
+  "close_dialog_aria_spoken_word": {
+    "message": "Zav\u0159\u00edt dialogov\u00e9 okno"
+  },
+  "cmd_dropdown_initaddshape_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam tvar\u016f"
+  },
+  "collapsed": {
+    "message": "Sbaleno"
+  },
+  "collapsed_menu": {
+    "message": "$1 \u2013 sbaleno i\u00a0s\u00a0podnab\u00eddkou.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "color_black": {
+    "message": "\u010cern\u00e1"
+  },
+  "color_blaze_orange": {
+    "message": "Z\u00e1\u0159iv\u011b oran\u017eov\u00e1"
+  },
+  "color_blue": {
+    "message": "Modr\u00e1"
+  },
+  "color_brown": {
+    "message": "Hn\u011bd\u00e1"
+  },
+  "color_cornflower_blue": {
+    "message": "Chrpov\u011b modr\u00e1"
+  },
+  "color_cyan": {
+    "message": "Azurov\u00e1"
+  },
+  "color_dark_blue": {
+    "message": "Tmav\u011b modr\u00e1"
+  },
+  "color_dark_blue_1": {
+    "message": "Tmav\u011b modr\u00e1 1"
+  },
+  "color_dark_blue_2": {
+    "message": "Tmav\u011b modr\u00e1 2"
+  },
+  "color_dark_blue_3": {
+    "message": "Tmav\u011b modr\u00e1 3"
+  },
+  "color_dark_blue_grey": {
+    "message": "Tmav\u011b modro\u0161ed\u00e1"
+  },
+  "color_dark_cornflower_blue_1": {
+    "message": "Tmav\u00e1 chrpov\u011b modr\u00e1 1"
+  },
+  "color_dark_cornflower_blue_2": {
+    "message": "Tmav\u00e1 chrpov\u011b modr\u00e1 2"
+  },
+  "color_dark_cornflower_blue_3": {
+    "message": "Tmav\u00e1 chrpov\u011b modr\u00e1 3"
+  },
+  "color_dark_cyan": {
+    "message": "Tmav\u011b azurov\u00e1"
+  },
+  "color_dark_cyan_1": {
+    "message": "Tmav\u011b azurov\u00e1 1"
+  },
+  "color_dark_cyan_2": {
+    "message": "Tmav\u011b azurov\u00e1 2"
+  },
+  "color_dark_cyan_3": {
+    "message": "Tmav\u011b azurov\u00e1 3"
+  },
+  "color_dark_gray": {
+    "message": "Tmav\u011b \u0161ed\u00e1"
+  },
+  "color_dark_gray_1": {
+    "message": "Tmav\u011b \u0161ed\u00e1 1"
+  },
+  "color_dark_gray_2": {
+    "message": "Tmav\u011b \u0161ed\u00e1 2"
+  },
+  "color_dark_gray_3": {
+    "message": "Tmav\u011b \u0161ed\u00e1 3"
+  },
+  "color_dark_gray_4": {
+    "message": "Tmav\u011b \u0161ed\u00e1 4"
+  },
+  "color_dark_green": {
+    "message": "Tmav\u011b zelen\u00e1"
+  },
+  "color_dark_green_1": {
+    "message": "Tmav\u011b zelen\u00e1 1"
+  },
+  "color_dark_green_2": {
+    "message": "Tmav\u011b zelen\u00e1 2"
+  },
+  "color_dark_green_3": {
+    "message": "Tmav\u011b zelen\u00e1 3"
+  },
+  "color_dark_green_5": {
+    "message": "Tmav\u011b zelen\u00e1 5"
+  },
+  "color_dark_grey_2": {
+    "message": "Tmav\u011b \u0161ed\u00e1 2"
+  },
+  "color_dark_grey_5": {
+    "message": "Tmav\u011b \u0161ed\u00e1 5"
+  },
+  "color_dark_magenta_1": {
+    "message": "Tmav\u011b purpurov\u00e1 1"
+  },
+  "color_dark_magenta_2": {
+    "message": "Tmav\u011b purpurov\u00e1 2"
+  },
+  "color_dark_magenta_3": {
+    "message": "Tmav\u011b purpurov\u00e1 3"
+  },
+  "color_dark_olive_green": {
+    "message": "Tmav\u011b olivov\u011b zelen\u00e1"
+  },
+  "color_dark_orange_1": {
+    "message": "Tmav\u011b oran\u017eov\u00e1 1"
+  },
+  "color_dark_orange_2": {
+    "message": "Tmav\u011b oran\u017eov\u00e1 2"
+  },
+  "color_dark_orange_3": {
+    "message": "Tmav\u011b oran\u017eov\u00e1 3"
+  },
+  "color_dark_purple_1": {
+    "message": "Tmav\u011b nachov\u00e1 1"
+  },
+  "color_dark_purple_2": {
+    "message": "Tmav\u011b nachov\u00e1 2"
+  },
+  "color_dark_purple_3": {
+    "message": "Tmav\u011b nachov\u00e1 3"
+  },
+  "color_dark_red": {
+    "message": "Tmav\u011b \u010derven\u00e1"
+  },
+  "color_dark_red_1": {
+    "message": "Tmav\u011b \u010derven\u00e1 1"
+  },
+  "color_dark_red_2": {
+    "message": "Tmav\u011b \u010derven\u00e1 2"
+  },
+  "color_dark_red_3": {
+    "message": "Tmav\u011b \u010derven\u00e1 3"
+  },
+  "color_dark_red_berry_1": {
+    "message": "Tmav\u011b brusinkov\u00e1 1"
+  },
+  "color_dark_red_berry_2": {
+    "message": "Tmav\u011b brusinkov\u00e1 2"
+  },
+  "color_dark_red_berry_3": {
+    "message": "Tmav\u011b brusinkov\u00e1 3"
+  },
+  "color_dark_slate_blue": {
+    "message": "Tmav\u011b \u0161edomodr\u00e1"
+  },
+  "color_dark_yellow_1": {
+    "message": "Tmav\u011b \u017elut\u00e1 1"
+  },
+  "color_dark_yellow_2": {
+    "message": "Tmav\u011b \u017elut\u00e1 2"
+  },
+  "color_dark_yellow_3": {
+    "message": "Tmav\u011b \u017elut\u00e1 3"
+  },
+  "color_deep_pink": {
+    "message": "Syt\u011b r\u016f\u017eov\u00e1"
+  },
+  "color_deep_sky_blue": {
+    "message": "Syt\u00e1 nebesk\u00e1 modr\u00e1"
+  },
+  "color_eucalyptus_green": {
+    "message": "Eukalyptov\u011b zelen\u00e1"
+  },
+  "color_gold": {
+    "message": "Zlat\u00e1"
+  },
+  "color_gray": {
+    "message": "\u0160ed\u00e1"
+  },
+  "color_green": {
+    "message": "Zelen\u00e1"
+  },
+  "color_light_blue": {
+    "message": "Sv\u011btle modr\u00e1"
+  },
+  "color_light_blue_1": {
+    "message": "Sv\u011btle modr\u00e1 1"
+  },
+  "color_light_blue_2": {
+    "message": "Sv\u011btle modr\u00e1 2"
+  },
+  "color_light_blue_3": {
+    "message": "Sv\u011btle modr\u00e1 3"
+  },
+  "color_light_cornflower_blue_1": {
+    "message": "Sv\u011btl\u00e1 chrpov\u011b modr\u00e1 1"
+  },
+  "color_light_cornflower_blue_2": {
+    "message": "Sv\u011btl\u00e1 chrpov\u011b modr\u00e1 2"
+  },
+  "color_light_cornflower_blue_3": {
+    "message": "Sv\u011btl\u00e1 chrpov\u011b modr\u00e1 3"
+  },
+  "color_light_cyan": {
+    "message": "Sv\u011btle azurov\u00e1"
+  },
+  "color_light_cyan_1": {
+    "message": "Sv\u011btle azurov\u00e1 1"
+  },
+  "color_light_cyan_2": {
+    "message": "Sv\u011btle azurov\u00e1 2"
+  },
+  "color_light_cyan_3": {
+    "message": "Sv\u011btle azurov\u00e1 3"
+  },
+  "color_light_gray": {
+    "message": "Sv\u011btle \u0161ed\u00e1"
+  },
+  "color_light_gray_1": {
+    "message": "Sv\u011btle \u0161ed\u00e1 1"
+  },
+  "color_light_gray_2": {
+    "message": "Sv\u011btle \u0161ed\u00e1 2"
+  },
+  "color_light_gray_3": {
+    "message": "Sv\u011btle \u0161ed\u00e1 3"
+  },
+  "color_light_green": {
+    "message": "Sv\u011btle zelen\u00e1"
+  },
+  "color_light_green_1": {
+    "message": "Sv\u011btle zelen\u00e1 1"
+  },
+  "color_light_green_2": {
+    "message": "Sv\u011btle zelen\u00e1 2"
+  },
+  "color_light_green_3": {
+    "message": "Sv\u011btle zelen\u00e1 3"
+  },
+  "color_light_magenta_1": {
+    "message": "Sv\u011btle purpurov\u00e1 1"
+  },
+  "color_light_magenta_2": {
+    "message": "Sv\u011btle purpurov\u00e1 2"
+  },
+  "color_light_magenta_3": {
+    "message": "Sv\u011btle purpurov\u00e1 3"
+  },
+  "color_light_orange_1": {
+    "message": "Sv\u011btle oran\u017eov\u00e1 1"
+  },
+  "color_light_orange_2": {
+    "message": "Sv\u011btle oran\u017eov\u00e1 2"
+  },
+  "color_light_orange_3": {
+    "message": "Sv\u011btle oran\u017eov\u00e1 3"
+  },
+  "color_light_purple": {
+    "message": "Sv\u011btle nachov\u00e1"
+  },
+  "color_light_purple_1": {
+    "message": "Sv\u011btle nachov\u00e1 1"
+  },
+  "color_light_purple_2": {
+    "message": "Sv\u011btle nachov\u00e1 2"
+  },
+  "color_light_purple_3": {
+    "message": "Sv\u011btle nachov\u00e1 3"
+  },
+  "color_light_red_1": {
+    "message": "Sv\u011btle \u010derven\u00e1 1"
+  },
+  "color_light_red_2": {
+    "message": "Sv\u011btle \u010derven\u00e1 2"
+  },
+  "color_light_red_3": {
+    "message": "Sv\u011btle \u010derven\u00e1 3"
+  },
+  "color_light_red_berry_1": {
+    "message": "Sv\u011btle brusinkov\u00e1 1"
+  },
+  "color_light_red_berry_2": {
+    "message": "Sv\u011btle brusinkov\u00e1 2"
+  },
+  "color_light_red_berry_3": {
+    "message": "Sv\u011btle brusinkov\u00e1 3"
+  },
+  "color_light_yellow": {
+    "message": "Sv\u011btle \u017elut\u00e1"
+  },
+  "color_light_yellow_1": {
+    "message": "Sv\u011btle \u017elut\u00e1 1"
+  },
+  "color_light_yellow_2": {
+    "message": "Sv\u011btle \u017elut\u00e1 2"
+  },
+  "color_light_yellow_3": {
+    "message": "Sv\u011btle \u017elut\u00e1 3"
+  },
+  "color_magenta": {
+    "message": "Purpurov\u00e1"
+  },
+  "color_maroon": {
+    "message": "Ka\u0161tanov\u00e1"
+  },
+  "color_midnight_blue": {
+    "message": "P\u016flno\u010dn\u00ed modr\u00e1"
+  },
+  "color_navy": {
+    "message": "N\u00e1mo\u0159nick\u00e1 modr\u00e1"
+  },
+  "color_olive": {
+    "message": "Olivov\u00e1"
+  },
+  "color_orange": {
+    "message": "Oran\u017eov\u00e1"
+  },
+  "color_peach": {
+    "message": "Broskvov\u00e1"
+  },
+  "color_pink": {
+    "message": "R\u016f\u017eov\u00e1"
+  },
+  "color_pistachio": {
+    "message": "Jasn\u00e1 zelen\u00e1"
+  },
+  "color_purple": {
+    "message": "Nachov\u00e1"
+  },
+  "color_red": {
+    "message": "\u010cerven\u00e1"
+  },
+  "color_red_berry": {
+    "message": "Brusinkov\u00e1"
+  },
+  "color_royal_blue": {
+    "message": "Kr\u00e1lovsk\u00e1 modr\u00e1"
+  },
+  "color_teal": {
+    "message": "\u0160edozelen\u00e1"
+  },
+  "color_turquiose": {
+    "message": "Tyrkysov\u00e1"
+  },
+  "color_white": {
+    "message": "B\u00edl\u00e1"
+  },
+  "color_yellow": {
+    "message": "\u017dlut\u00e1"
+  },
+  "command_key": {
+    "message": "Command"
+  },
+  "content_msg_merging_horizontally_across_vertical_section": {
+    "message": "Nelze prov\u00e9st vodorovn\u00e9 slou\u010den\u00ed nap\u0159\u00ed\u010d existuj\u00edc\u00ed svisle slou\u010denou sekc\u00ed."
+  },
+  "content_msg_merging_multiple_cells_with_text": {
+    "message": "P\u0159i slou\u010den\u00ed bun\u011bk bude zachov\u00e1na pouze hodnota vlevo naho\u0159e. Chcete bu\u0148ky p\u0159esto slou\u010dit?"
+  },
+  "content_msg_merging_partially_selected_merged_cells": {
+    "message": "Chcete-li prov\u00e9st nebo zru\u0161it slou\u010den\u00ed bun\u011bk, mus\u00edte vybrat v\u0161echny bu\u0148ky ve slou\u010den\u00e9m rozsahu."
+  },
+  "content_msg_merging_vertically_across_horizontal_section": {
+    "message": "Nelze prov\u00e9st svisl\u00e9 slou\u010den\u00ed nap\u0159\u00ed\u010d existuj\u00edc\u00ed vodorovn\u011b slou\u010denou sekc\u00ed."
+  },
+  "content_render_error_msg": {
+    "message": "V obsahu dokumentu byly zji\u0161t\u011bny probl\u00e9my."
+  },
+  "context_menu_clipboard_copy": {
+    "message": "Kop\u00edrovat"
+  },
+  "context_menu_delete": {
+    "message": "Smazat"
+  },
+  "context_menu_freeze": {
+    "message": "Ukotvit"
+  },
+  "context_menu_insert": {
+    "message": "Vlo\u017eit"
+  },
+  "context_menu_sort_collation_ascending": {
+    "message": "Se\u0159adit a\u2013z"
+  },
+  "context_menu_sort_collation_descending": {
+    "message": "Se\u0159adit z\u2013a"
+  },
+  "context_menu_unfreeze": {
+    "message": "Zru\u0161it ukotven\u00ed"
+  },
+  "control_key": {
+    "message": "Control"
+  },
+  "convert_attempt_for_sheet_with_large_file_size": {
+    "message": "Tento soubor je na ulo\u017een\u00ed v\u00a0Tabulk\u00e1ch Google p\u0159\u00edli\u0161 velk\u00fd"
+  },
+  "convert_attempt_for_slide_with_large_file_size": {
+    "message": "Tento soubor je na ulo\u017een\u00ed v\u00a0Prezentac\u00edch Google p\u0159\u00edli\u0161 velk\u00fd"
+  },
+  "convert_attempt_for_word_with_large_file_size": {
+    "message": "Tento soubor je na ulo\u017een\u00ed v\u00a0Dokumentech Google p\u0159\u00edli\u0161 velk\u00fd"
+  },
+  "convert_attempt_when_offline": {
+    "message": "Chcete-li soubor ulo\u017eit jako Dokument Google, mus\u00edte b\u00fdt p\u0159ipojeni k internetu. Zkuste to znovu, a\u017e budete op\u011bt p\u0159ipojeni."
+  },
+  "convert_attempt_with_invalid_creds": {
+    "message": "Chcete-li tento soubor p\u0159ev\u00e9st, p\u0159ihlaste se k \u00fa\u010dtu Google."
+  },
+  "convert_cancel": {
+    "message": "Zru\u0161it"
+  },
+  "convert_to_google_docs_failed": {
+    "message": "P\u0159i p\u0159ev\u00e1d\u011bn\u00ed dokumentu na Dokument Google do\u0161lo k chyb\u011b."
+  },
+  "convert_to_google_point_fail_short_msg": {
+    "message": "Jejda"
+  },
+  "convert_to_google_point_short_msg": {
+    "message": "Soubor se ukl\u00e1d\u00e1 jako Prezentace Google"
+  },
+  "convert_to_google_sheet_fail_short_msg": {
+    "message": "Jejda"
+  },
+  "convert_to_google_sheet_short_msg": {
+    "message": "Soubor se ukl\u00e1d\u00e1 jako Tabulka Google"
+  },
+  "convert_to_google_word_fail_short_msg": {
+    "message": "Jejda"
+  },
+  "convert_to_google_word_short_msg": {
+    "message": "Soubor se ukl\u00e1d\u00e1 jako Dokument Google"
+  },
+  "convert_try_again": {
+    "message": "Zkusit znovu"
+  },
+  "converting_to_google_point_fail_msg": {
+    "message": "Soubor moment\u00e1ln\u011b nelze ulo\u017eit jako Prezentaci Google."
+  },
+  "converting_to_google_point_msg": {
+    "message": "Ukl\u00e1d\u00e1n\u00ed nov\u00e9 verze va\u0161\u00ed prezentace jako Prezentace Google"
+  },
+  "converting_to_google_sheet_fail_msg": {
+    "message": "Soubor moment\u00e1ln\u011b nelze ulo\u017eit jako Tabulku Google."
+  },
+  "converting_to_google_sheet_msg": {
+    "message": "Ukl\u00e1d\u00e1n\u00ed nov\u00e9 verze va\u0161\u00ed tabulky jako Tabulky Google"
+  },
+  "converting_to_google_word_fail_msg": {
+    "message": "Soubor moment\u00e1ln\u011b nelze ulo\u017eit jako Dokument Google."
+  },
+  "converting_to_google_word_msg": {
+    "message": "Ukl\u00e1d\u00e1n\u00ed nov\u00e9 verze va\u0161eho dokumentu jako Dokumentu Google"
+  },
+  "copy_attempt_when_offline": {
+    "message": "K vytvo\u0159en\u00ed kopie na Disku Google mus\u00edte b\u00fdt p\u0159ipojeni k internetu. Zkuste to znovu, a\u017e budete p\u0159ipojeni."
+  },
+  "copy_attempt_with_invalid_creds": {
+    "message": "K vytvo\u0159en\u00ed kopie mus\u00edte b\u00fdt p\u0159ihl\u00e1\u0161eni k \u00fa\u010dtu Google."
+  },
+  "disabled_share_button": {
+    "message": "Soubory s\u00a0povolen\u00fdmi makry mohou b\u00fdt sd\u00edleny pouze z\u00a0Disku Google. Vypnut\u00e9 sd\u00edlen\u00ed."
+  },
+  "disallowed_cut_copy_paste_cmd_copy": {
+    "message": "ke kop\u00edrov\u00e1n\u00ed"
+  },
+  "disallowed_cut_copy_paste_cmd_cut": {
+    "message": "k\u00a0vyjmut\u00ed"
+  },
+  "disallowed_cut_copy_paste_cmd_paste": {
+    "message": "k\u00a0vlo\u017een\u00ed"
+  },
+  "disallowed_cut_copy_paste_msg": {
+    "message": "Tyto akce nejsou prost\u0159ednictv\u00edm kontextov\u00fdch nab\u00eddek a\u00a0nab\u00eddky Upravit dostupn\u00e9, m\u016f\u017eete ale st\u00e1le pou\u017e\u00edt:"
+  },
+  "disallowed_cut_copy_paste_title": {
+    "message": "Kop\u00edrov\u00e1n\u00ed a\u00a0vkl\u00e1d\u00e1n\u00ed v\u00a0re\u017eimu kompatibility se syst\u00e9mem Office"
+  },
+  "dismiss": {
+    "message": "Zav\u0159\u00edt"
+  },
+  "document_title_aria_spoken_word": {
+    "message": "N\u00e1zev dokumentu:"
+  },
+  "down_key": {
+    "message": "Dol\u016f"
+  },
+  "download_button": {
+    "message": "St\u00e1hnout"
+  },
+  "download_file_timeout_error_msg": {
+    "message": "Otev\u0159en\u00ed souboru trv\u00e1 d\u00e9le ne\u017e obvykle. Zkontrolujte p\u0159ipojen\u00ed k s\u00edti a zkuste to znovu."
+  },
+  "download_file_timeout_error_short_msg": {
+    "message": "Sta\u017een\u00ed souboru trv\u00e1 d\u00e9le ne\u017e obvykle."
+  },
+  "download_original": {
+    "message": "St\u00e1hnout p\u016fvodn\u00ed"
+  },
+  "drive_open_timeout_error_msg": {
+    "message": "Zd\u00e1 se, \u017ee by mohl b\u00fdt probl\u00e9m s p\u0159ipojen\u00edm k internetu. Zkontrolujte p\u0159ipojen\u00ed a zkuste soubor otev\u0159\u00edt znovu. Pokud se tato chybov\u00e1 zpr\u00e1va zobrazuje i nad\u00e1le, a\u010dkoli jste online, nahlaste probl\u00e9m n\u00ed\u017ee."
+  },
+  "drive_open_timeout_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor nelze otev\u0159\u00edt."
+  },
+  "duplicate_sheet_name_message": {
+    "message": "Zadejte n\u00e1zev listu, kter\u00fd nen\u00ed pou\u017e\u00edv\u00e1n jin\u00fdm listem."
+  },
+  "duplicate_sheet_name_title": {
+    "message": "Tento n\u00e1zev listu je ji\u017e pou\u017e\u00edv\u00e1n."
+  },
+  "editing_options_limited_banner_text": {
+    "message": "Mo\u017enosti \u00faprav mohou b\u00fdt omezen\u00e9. V\u00e1\u0161 soubor se p\u0159i \u00faprav\u00e1ch bude automaticky ukl\u00e1dat."
+  },
+  "edits_not_being_saved": {
+    "message": "\u00dapravy se nebudou ukl\u00e1dat automaticky."
+  },
+  "edits_now_being_auto_saved": {
+    "message": "Soubor byl ulo\u017een. V\u0161echny \u00fapravy se te\u010f budou ukl\u00e1dat automaticky."
+  },
+  "entry_point_error_msg": {
+    "message": "Zkuste to znovu, nebo probl\u00e9m nahlaste n\u00ed\u017ee."
+  },
+  "entry_point_error_short_msg": {
+    "message": "Jejda, nepoda\u0159ilo se n\u00e1m zjistit, kter\u00fd soubor jste cht\u011bli otev\u0159\u00edt."
+  },
+  "error_occurred": {
+    "message": "Do\u0161lo k chyb\u011b."
+  },
+  "error_password_required_msg": {
+    "message": "Chr\u00e1n\u011bn\u00e9 soubory moment\u00e1ln\u011b nepodporujeme, av\u0161ak pracujeme na tom."
+  },
+  "error_password_required_short_msg": {
+    "message": "Soubor je chr\u00e1n\u011bn heslem."
+  },
+  "expanded": {
+    "message": "Rozbaleno"
+  },
+  "expanded_menu": {
+    "message": "$1 \u2013 rozbaleno i\u00a0s\u00a0podnab\u00eddkou.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "extension_cros_name": {
+    "message": "Z\u00e1kladn\u00ed editor soubor\u016f syst\u00e9mu Office"
+  },
+  "extension_description": {
+    "message": "Soubory z aplikac\u00ed Microsoft Word, Excel a PowerPoint m\u016f\u017eete zobrazit a upravovat v Dokumentech, Tabulk\u00e1ch a Prezentac\u00edch Google."
+  },
+  "extension_name": {
+    "message": "\u00dapravy soubor\u016f Office"
+  },
+  "extension_popup_message_body": {
+    "message": "St\u00e1vaj\u00edc\u00ed soubory otev\u0159ete p\u0159eta\u017een\u00edm do prohl\u00ed\u017ee\u010de"
+  },
+  "extension_popup_new_document_header": {
+    "message": "Novinka\u2026"
+  },
+  "extension_popup_new_presentation_document": {
+    "message": "Prezentace aplikace PowerPoint"
+  },
+  "extension_popup_new_spreadsheet_document": {
+    "message": "Tabulka aplikace Excel"
+  },
+  "extension_popup_new_word_document": {
+    "message": "Dokument aplikace Word"
+  },
+  "feedback_textbox_editing": {
+    "message": "P\u0159idejte pros\u00edm podporu \u00faprav textu v\u00a0textov\u00fdch pol\u00edch."
+  },
+  "feedback_ui_template": {
+    "message": "1 \u2013 Popi\u0161te, k jak\u00e9mu probl\u00e9mu do\u0161lo.\n2 \u2013 Do\u0161lo k probl\u00e9mu, kdy\u017e jste se pokou\u0161eli otev\u0159\u00edt soubor, nebo kdy\u017e jste se ho pokou\u0161eli upravit?\n3 \u2013 Doch\u00e1z\u00ed k probl\u00e9mu poka\u017ed\u00e9, kdy\u017e se pokou\u0161\u00edte otev\u0159\u00edt nebo upravit kter\u00fdkoli soubor, nebo pouze u konkr\u00e9tn\u00edch soubor\u016f?\n\nPokud k tomuto probl\u00e9mu doch\u00e1z\u00ed pouze u konkr\u00e9tn\u00edho souboru, p\u0159ipojte p\u0159\u00edslu\u0161n\u00fd soubor k t\u00e9to zpr\u00e1v\u011b. Velice n\u00e1m to pom\u016f\u017ee p\u0159i d\u016fkladn\u011bj\u0161\u00edm \u0159e\u0161en\u00ed probl\u00e9mu."
+  },
+  "file_does_not_exist_error_details": {
+    "message": "Soubor neexistuje. Je mo\u017en\u00e9, \u017ee jste se pokusili otev\u0159\u00edt sd\u00edlen\u00fd odkaz nebo dokument p\u0159idan\u00fd do z\u00e1lo\u017eek. Zkuste soubor otev\u0159\u00edt znovu z\u00a0p\u016fvodn\u00edho um\u00edst\u011bn\u00ed."
+  },
+  "file_does_not_exist_error_title": {
+    "message": "Soubor nebyl nalezen."
+  },
+  "file_loading_spinner_label": {
+    "message": "Na\u010d\u00edt\u00e1n\u00ed"
+  },
+  "file_missing_content_msg": {
+    "message": "P\u0159i na\u010d\u00edt\u00e1n\u00ed obsahu tohoto souboru do\u0161lo k chyb\u011b. Doporu\u010dujeme, abyste soubor p\u0159ejmenovali a zkusili jej otev\u0159\u00edt znovu."
+  },
+  "file_missing_content_short_msg": {
+    "message": "V dokumentu chyb\u00ed obsah."
+  },
+  "file_not_found_error_msg": {
+    "message": "Ov\u011b\u0159te si u vlastn\u00edka souboru, zda m\u00e1te opr\u00e1vn\u011bn\u00ed k n\u011bmu p\u0159istupovat. Pokud se tato chybov\u00e1 zpr\u00e1va zobrazuje objevuje i nad\u00e1le, a\u010dkoli opr\u00e1vn\u011bn\u00ed m\u00e1te, nahlaste probl\u00e9m n\u00ed\u017ee."
+  },
+  "file_not_found_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor se nepoda\u0159ilo otev\u0159\u00edt."
+  },
+  "file_not_found_exception": {
+    "message": "Po\u017eadovan\u00fd soubor mohl b\u00fdt smaz\u00e1n, p\u0159ejmenov\u00e1n nebo p\u0159esunut do jin\u00e9ho um\u00edst\u011bn\u00ed. Pokud chcete pokra\u010dovat, klikn\u011bte na \u201eUlo\u017eit te\u010f\u201c."
+  },
+  "file_not_found_link_text": {
+    "message": "Pokud pot\u0159ebujete pomoci s v\u00edce \u00fa\u010dty, p\u0159e\u010dt\u011bte si tento \u010dl\u00e1nek"
+  },
+  "file_not_found_msg": {
+    "message": "Po\u017eadovan\u00fd soubor se n\u011bkam pod\u011bl."
+  },
+  "file_not_found_title": {
+    "message": "Soubor nebyl nalezen."
+  },
+  "file_open_crash_error_msg": {
+    "message": "Pokud k chyb\u011b doch\u00e1z\u00ed i nad\u00e1le, nahlaste probl\u00e9m n\u00ed\u017ee."
+  },
+  "file_open_crash_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor se nepoda\u0159ilo otev\u0159\u00edt."
+  },
+  "file_open_error_msg": {
+    "message": "Obsah tohoto souboru nen\u00ed p\u0159\u00edstupn\u00fd."
+  },
+  "file_open_error_short_msg": {
+    "message": "Tento soubor je nejsp\u00ed\u0161 po\u0161kozen."
+  },
+  "file_open_fail_download_link_text": {
+    "message": "St\u00e1hnout soubor"
+  },
+  "file_opened_in_incognito_mode_error_details": {
+    "message": "Roz\u0161\u00ed\u0159en\u00ed pro upravov\u00e1n\u00ed soubor\u016f Office v\u00a0anonymn\u00edm re\u017eimu nefunguje. Otev\u0159ete tento soubor pomoc\u00ed b\u011b\u017en\u00e9ho okna Chrome. Pokud pou\u017e\u00edv\u00e1te re\u017eim hosta, soubor se otev\u0159\u00edt nepoda\u0159\u00ed. Zkontrolujte, zda v\u00e1\u0161 soubor nen\u00ed po\u0161kozen\u00fd nebo neplatn\u00fd typ dokumentu a\u00a0zkuste to znovu."
+  },
+  "file_opened_in_incognito_mode_error_title": {
+    "message": "Jejda. Anonymn\u00ed re\u017eim nen\u00ed podporov\u00e1n"
+  },
+  "file_pdf_type_rename_msg": {
+    "message": "P\u0159ejmenujte soubor na $1.pdf a\u00a0a zkuste to znovu.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_rtf_type_rename_msg": {
+    "message": "P\u0159ejmenujte soubor na $1.rtf",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_type_unsupported_msg": {
+    "message": "Tento typ souboru nen\u00ed podporov\u00e1n."
+  },
+  "fillcolor_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam barev textu"
+  },
+  "fontface_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam typ\u016f p\u00edsma"
+  },
+  "fontsize_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam velikost\u00ed p\u00edsma"
+  },
+  "forbidden_access_level_error_msg": {
+    "message": "Ov\u011b\u0159te si u vlastn\u00edka souboru, zda m\u00e1te opr\u00e1vn\u011bn\u00ed tento soubor otev\u0159\u00edt. Pokud se tato chybov\u00e1 zpr\u00e1va zobrazuje objevuje i nad\u00e1le, a\u010dkoli opr\u00e1vn\u011bn\u00ed m\u00e1te, nahlaste probl\u00e9m n\u00ed\u017ee."
+  },
+  "forbidden_access_level_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor nelze otev\u0159\u00edt."
+  },
+  "forbidden_app_access_error_msg": {
+    "message": "Z n\u011bjak\u00e9ho d\u016fvodu nem\u00e1me opr\u00e1vn\u011bn\u00ed tento soubor otev\u0159\u00edt. Zkuste otev\u0159\u00edt soubor z Disku Google, nebo nahlaste probl\u00e9m n\u00ed\u017ee."
+  },
+  "forbidden_app_access_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor nelze otev\u0159\u00edt."
+  },
+  "forbidden_app_id_error_msg": {
+    "message": "Zd\u00e1 se, \u017ee roz\u0161\u00ed\u0159en\u00ed Chrome nen\u00ed spr\u00e1vn\u011b nakonfigurov\u00e1no. Jak je to mo\u017en\u00e9? P\u0159esn\u011b nev\u00edme. Nahlaste pros\u00edm probl\u00e9m n\u00ed\u017ee."
+  },
+  "forbidden_app_id_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor nelze otev\u0159\u00edt."
+  },
+  "forbidden_blacklist_error_msg": {
+    "message": "Zd\u00e1 se, \u017ee bylo toto roz\u0161\u00ed\u0159en\u00ed Chrome p\u0159id\u00e1no na seznam zak\u00e1zan\u00fdch polo\u017eek. Jednozna\u010dn\u011b jde o chybu. Informujte n\u00e1s o n\u00ed t\u00edm, \u017ee nahlas\u00edte probl\u00e9m n\u00ed\u017ee."
+  },
+  "forbidden_blacklist_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor nelze otev\u0159\u00edt."
+  },
+  "forbidden_domain_error_msg": {
+    "message": "Zd\u00e1 se, \u017ee va\u0161e dom\u00e9na k tomuto souboru zak\u00e1zala p\u0159\u00edstup. Obra\u0165te se na spr\u00e1vce dom\u00e9ny, nebo nahlaste probl\u00e9m n\u00ed\u017ee."
+  },
+  "forbidden_domain_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor nelze otev\u0159\u00edt."
+  },
+  "forbidden_internal_error_msg": {
+    "message": "Disk Google bohu\u017eel nepracuje tak, jak by m\u011bl. Zkuste soubor otev\u0159\u00edt znovu, nebo nahlaste probl\u00e9m n\u00ed\u017ee."
+  },
+  "forbidden_internal_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor nelze otev\u0159\u00edt."
+  },
+  "forbidden_not_installed_error_msg": {
+    "message": "Zd\u00e1 se, \u017ee roz\u0161\u00ed\u0159en\u00ed Chrome nen\u00ed spr\u00e1vn\u011b nainstalov\u00e1no. Jak je to mo\u017en\u00e9? P\u0159esn\u011b nev\u00edme. Nahlaste pros\u00edm probl\u00e9m n\u00ed\u017ee."
+  },
+  "forbidden_not_installed_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor nelze otev\u0159\u00edt."
+  },
+  "generic_error_msg": {
+    "message": "V obsahu dokumentu byly zji\u0161t\u011bny probl\u00e9my."
+  },
+  "generic_error_short_msg": {
+    "message": "Jejda, to se nem\u011blo st\u00e1t. Zm\u011bny obnov\u00edte op\u011btovn\u00fdm na\u010dten\u00edm str\u00e1nky."
+  },
+  "get_lists_data_error_msg": {
+    "message": "Dokument se m\u016f\u017ee zobrazit s nespr\u00e1vn\u00fdm form\u00e1tov\u00e1n\u00edm seznamu."
+  },
+  "get_lists_data_error_short_msg": {
+    "message": "Nepoda\u0159ilo se na\u010d\u00edst form\u00e1tov\u00e1n\u00ed dokumentu."
+  },
+  "highlightcolor_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam barev zv\u00fdrazn\u011bn\u00ed textu"
+  },
+  "http_error_zero_msg": {
+    "message": "V\u00a0p\u0159\u00edpad\u011b pot\u00ed\u017e\u00ed se s\u00edt\u00ed zkontrolujte p\u0159ipojen\u00ed nebo to zkuste znovu. Pokud probl\u00e9m p\u0159etrv\u00e1v\u00e1, nahlaste jej n\u00ed\u017ee."
+  },
+  "http_error_zero_short_msg": {
+    "message": "Omlouv\u00e1me se, soubor se nepoda\u0159ilo otev\u0159\u00edt."
+  },
+  "info_file_copied": {
+    "message": "Ulo\u017eeno"
+  },
+  "info_file_save_cancelled": {
+    "message": "Ukl\u00e1d\u00e1n\u00ed bylo zru\u0161eno."
+  },
+  "info_file_save_failed": {
+    "message": "Ukl\u00e1d\u00e1n\u00ed se nezda\u0159ilo."
+  },
+  "info_file_saved_at_location": {
+    "message": "V\u0161echny zm\u011bny byly ulo\u017eeny v um\u00edst\u011bn\u00ed $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "info_file_saved_in_drive": {
+    "message": "V\u0161echny zm\u011bny byly ulo\u017eeny na Disk."
+  },
+  "info_file_saved_locally": {
+    "message": "V\u0161echny zm\u011bny byly ulo\u017eeny m\u00edstn\u011b."
+  },
+  "info_file_saved_offline": {
+    "message": "V\u0161echny zm\u011bny byly ulo\u017eeny offline."
+  },
+  "info_file_saving": {
+    "message": "Ukl\u00e1d\u00e1n\u00ed\u2026"
+  },
+  "initaddshape_aria_spoken_word": {
+    "message": "p\u0159idat textov\u00e9 pole"
+  },
+  "invalid_credentials_error_msg": {
+    "message": "Abyste z\u00edskali p\u0159\u00edstup k tomuto souboru, je t\u0159eba se p\u0159ihl\u00e1sit k \u00fa\u010dtu Google."
+  },
+  "invalid_credentials_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor nelze otev\u0159\u00edt."
+  },
+  "invalid_file_format_msg": {
+    "message": "A\u010dkoli soubor vypad\u00e1 jako dokument syst\u00e9mu Office nebo m\u00e1 koncovku souboru syst\u00e9mu Office, ve skute\u010dnosti se jedn\u00e1 o jin\u00fd typ souboru, kter\u00fd byl p\u0159ejmenov\u00e1n nebo n\u011bjak zm\u011bn\u011bn, p\u0159\u00edpadn\u011b o nepodporovan\u00fd typ souboru."
+  },
+  "invalid_file_format_short_msg": {
+    "message": "Jejda, vypad\u00e1 to, \u017ee tento typ dokumentu nedok\u00e1\u017eeme otev\u0159\u00edt."
+  },
+  "italic_aria_spoken_word": {
+    "message": "kurz\u00edva"
+  },
+  "keyboard_shortcut_group_actions": {
+    "message": "Akce"
+  },
+  "keyboard_shortcut_group_other": {
+    "message": "Jin\u00e9"
+  },
+  "keyboard_shortcut_group_paragraph_formatting": {
+    "message": "Form\u00e1tov\u00e1n\u00ed odstavce"
+  },
+  "keyboard_shortcut_group_text_formatting": {
+    "message": "Form\u00e1tov\u00e1n\u00ed textu"
+  },
+  "keyboard_shortcut_group_top_menus": {
+    "message": "Nab\u00eddky"
+  },
+  "keyboard_shortcut_group_with_slides": {
+    "message": "V\u00a0Prezentac\u00edch"
+  },
+  "keyboard_shortcut_title": {
+    "message": "Kl\u00e1vesov\u00e9 zkratky"
+  },
+  "large_file_size_dialog_title_for_sheet": {
+    "message": "Soubor se do Tabulek Google nepoda\u0159ilo ulo\u017eit"
+  },
+  "large_file_size_dialog_title_for_slide": {
+    "message": "Soubor se do Prezentac\u00ed Google nepoda\u0159ilo ulo\u017eit"
+  },
+  "large_file_size_dialog_title_for_word": {
+    "message": "Soubor se do Dokument\u016f Google nepoda\u0159ilo ulo\u017eit"
+  },
+  "make_a_copy_fail_msg": {
+    "message": "Kopii moment\u00e1ln\u011b nelze vytvo\u0159it."
+  },
+  "menu_button_data": {
+    "message": "Data"
+  },
+  "menu_button_edit": {
+    "message": "\u00daprava"
+  },
+  "menu_button_file": {
+    "message": "Soubor"
+  },
+  "menu_button_format": {
+    "message": "Form\u00e1t"
+  },
+  "menu_button_help": {
+    "message": "N\u00e1pov\u011bda"
+  },
+  "menu_button_insert": {
+    "message": "Vlo\u017eit"
+  },
+  "menu_button_slide": {
+    "message": "Sn\u00edmek"
+  },
+  "menu_button_tools": {
+    "message": "N\u00e1stroje"
+  },
+  "menu_button_view": {
+    "message": "Zobrazit"
+  },
+  "menu_item_10_point_star": {
+    "message": "Desetic\u00edp\u00e1 hv\u011bzda"
+  },
+  "menu_item_12_point_star": {
+    "message": "Dvan\u00e1ctic\u00edp\u00e1 hv\u011bzda"
+  },
+  "menu_item_16_point_star": {
+    "message": "\u0160estn\u00e1ctic\u00edp\u00e1 hv\u011bzda"
+  },
+  "menu_item_24_point_star": {
+    "message": "\u010cty\u0159iadvacetic\u00edp\u00e1 hv\u011bzda"
+  },
+  "menu_item_32_point_star": {
+    "message": "Dvaat\u0159icetic\u00edp\u00e1 hv\u011bzda"
+  },
+  "menu_item_4_point_star": {
+    "message": "\u010cty\u0159c\u00edp\u00e1 hv\u011bzda"
+  },
+  "menu_item_5_point_star": {
+    "message": "P\u011btic\u00edp\u00e1 hv\u011bzda"
+  },
+  "menu_item_6_point_star": {
+    "message": "\u0160estic\u00edp\u00e1 hv\u011bzda"
+  },
+  "menu_item_7_point_star": {
+    "message": "Sedmic\u00edp\u00e1 hv\u011bzda"
+  },
+  "menu_item_8_point_star": {
+    "message": "Osmic\u00edp\u00e1 hv\u011bzda"
+  },
+  "menu_item_align": {
+    "message": "Zarovnat"
+  },
+  "menu_item_align_center": {
+    "message": "Na st\u0159ed"
+  },
+  "menu_item_align_justified": {
+    "message": "Do bloku"
+  },
+  "menu_item_align_left": {
+    "message": "Vlevo"
+  },
+  "menu_item_align_right": {
+    "message": "Vpravo"
+  },
+  "menu_item_arrows": {
+    "message": "\u0160ipky"
+  },
+  "menu_item_bent_arrow": {
+    "message": "Ohnut\u00e1 \u0161ipka"
+  },
+  "menu_item_bent_up_arrow": {
+    "message": "\u0160ipka ohnut\u00e1 nahoru"
+  },
+  "menu_item_bevel": {
+    "message": "Zkosen\u00e9 hrany"
+  },
+  "menu_item_block_arc": {
+    "message": "Ohnut\u00fd pruh"
+  },
+  "menu_item_bold": {
+    "message": "Tu\u010dn\u00e9"
+  },
+  "menu_item_callouts": {
+    "message": "Popisky"
+  },
+  "menu_item_can": {
+    "message": "V\u00e1lec"
+  },
+  "menu_item_chevron": {
+    "message": "\u0160ipka ve tvaru V"
+  },
+  "menu_item_chord": {
+    "message": "T\u011btiva"
+  },
+  "menu_item_clear_formatting": {
+    "message": "Vymazat form\u00e1tov\u00e1n\u00ed"
+  },
+  "menu_item_cloud": {
+    "message": "Mrak"
+  },
+  "menu_item_cloud_callout": {
+    "message": "Komiksov\u00e1 bublina"
+  },
+  "menu_item_color_none": {
+    "message": "\u017d\u00e1dn\u00e9"
+  },
+  "menu_item_color_transparent": {
+    "message": "Pr\u016fhledn\u00e9"
+  },
+  "menu_item_convert_to_docs": {
+    "message": "Ulo\u017eit jako Dokument Google"
+  },
+  "menu_item_convert_to_sheets": {
+    "message": "Ulo\u017eit jako Tabulku Google"
+  },
+  "menu_item_convert_to_slides": {
+    "message": "Ulo\u017eit jako Prezentaci Google"
+  },
+  "menu_item_copy": {
+    "message": "Kop\u00edrovat"
+  },
+  "menu_item_cross": {
+    "message": "K\u0159\u00ed\u017e"
+  },
+  "menu_item_cube": {
+    "message": "Krychle"
+  },
+  "menu_item_curved_down_arrow": {
+    "message": "Zahnut\u00e1 \u0161ipka dol\u016f"
+  },
+  "menu_item_curved_left_arrow": {
+    "message": "Zahnut\u00e1 \u0161ipka doleva"
+  },
+  "menu_item_curved_right_arrow": {
+    "message": "Zahnut\u00e1 \u0161ipka doprava"
+  },
+  "menu_item_curved_up_arrow": {
+    "message": "Zahnut\u00e1 \u0161ipka nahoru"
+  },
+  "menu_item_cut": {
+    "message": "Vyjmout"
+  },
+  "menu_item_decagon": {
+    "message": "Deseti\u00faheln\u00edk"
+  },
+  "menu_item_delete_column": {
+    "message": "Odstranit sloupec"
+  },
+  "menu_item_delete_row": {
+    "message": "Odstranit \u0159\u00e1dek"
+  },
+  "menu_item_delete_value": {
+    "message": "Smazat hodnotu"
+  },
+  "menu_item_deleteslide": {
+    "message": "Smazat sn\u00edmek"
+  },
+  "menu_item_diagonal_stripe": {
+    "message": "\u0160ikm\u00fd pruh"
+  },
+  "menu_item_diamond": {
+    "message": "Koso\u010dtverec"
+  },
+  "menu_item_divide": {
+    "message": "D\u011bleno"
+  },
+  "menu_item_dodecagon": {
+    "message": "Dvan\u00e1cti\u00faheln\u00edk"
+  },
+  "menu_item_donut": {
+    "message": "Prstenec"
+  },
+  "menu_item_double_brace": {
+    "message": "Slo\u017een\u00e9 z\u00e1vorky"
+  },
+  "menu_item_double_bracket": {
+    "message": "Jednoduch\u00e9 z\u00e1vorky"
+  },
+  "menu_item_down_arrow": {
+    "message": "\u0160ipka dol\u016f"
+  },
+  "menu_item_down_arrow_callout": {
+    "message": "Popisek se \u0161ipkou dol\u016f"
+  },
+  "menu_item_duplicateslide": {
+    "message": "Duplicitn\u00ed Prezentace"
+  },
+  "menu_item_equal": {
+    "message": "Rovn\u00e1 se"
+  },
+  "menu_item_equation": {
+    "message": "Rovnice"
+  },
+  "menu_item_explosion_1": {
+    "message": "Exploze 1"
+  },
+  "menu_item_explosion_2": {
+    "message": "Exploze 2"
+  },
+  "menu_item_flowchart_alternate_process": {
+    "message": "V\u00fdvojov\u00fd diagram: Alternativn\u00ed postup"
+  },
+  "menu_item_flowchart_card": {
+    "message": "V\u00fdvojov\u00fd diagram: Karta"
+  },
+  "menu_item_flowchart_collate": {
+    "message": "V\u00fdvojov\u00fd diagram: Porovn\u00e1n\u00ed"
+  },
+  "menu_item_flowchart_connector": {
+    "message": "V\u00fdvojov\u00fd diagram: Spojka"
+  },
+  "menu_item_flowchart_data": {
+    "message": "V\u00fdvojov\u00fd diagram: Data"
+  },
+  "menu_item_flowchart_decision": {
+    "message": "V\u00fdvojov\u00fd diagram: Rozhodnut\u00ed"
+  },
+  "menu_item_flowchart_delay": {
+    "message": "V\u00fdvojov\u00fd diagram: Zpo\u017ed\u011bn\u00ed"
+  },
+  "menu_item_flowchart_direct_access_storage": {
+    "message": "V\u00fdvojov\u00fd diagram: Pam\u011b\u0165 s\u00a0p\u0159\u00edm\u00fdm p\u0159\u00edstupem"
+  },
+  "menu_item_flowchart_display": {
+    "message": "V\u00fdvojov\u00fd diagram: Zobrazen\u00ed"
+  },
+  "menu_item_flowchart_document": {
+    "message": "V\u00fdvojov\u00fd diagram: Dokument"
+  },
+  "menu_item_flowchart_extract": {
+    "message": "V\u00fdvojov\u00fd diagram: Vyjmut\u00ed"
+  },
+  "menu_item_flowchart_internal_storage": {
+    "message": "V\u00fdvojov\u00fd diagram: Intern\u00ed pam\u011b\u0165"
+  },
+  "menu_item_flowchart_magnetic_disk": {
+    "message": "V\u00fdvojov\u00fd diagram: Magnetick\u00fd disk"
+  },
+  "menu_item_flowchart_manual_input": {
+    "message": "V\u00fdvojov\u00fd diagram: Ru\u010dn\u00ed vstup"
+  },
+  "menu_item_flowchart_manual_operation": {
+    "message": "V\u00fdvojov\u00fd diagram: Ru\u010dn\u00ed operace"
+  },
+  "menu_item_flowchart_merge": {
+    "message": "V\u00fdvojov\u00fd diagram: Slou\u010den\u00ed"
+  },
+  "menu_item_flowchart_multidocument": {
+    "message": "V\u00fdvojov\u00fd diagram: V\u00edce dokument\u016f"
+  },
+  "menu_item_flowchart_off_page_connector": {
+    "message": "V\u00fdvojov\u00fd diagram: Spojka mezi str\u00e1nkami"
+  },
+  "menu_item_flowchart_or": {
+    "message": "V\u00fdvojov\u00fd diagram: Nebo"
+  },
+  "menu_item_flowchart_predefined_process": {
+    "message": "V\u00fdvojov\u00fd diagram: P\u0159eddefinovan\u00fd postup"
+  },
+  "menu_item_flowchart_preparation": {
+    "message": "V\u00fdvojov\u00fd diagram: P\u0159\u00edprava"
+  },
+  "menu_item_flowchart_process": {
+    "message": "V\u00fdvojov\u00fd diagram: Postup"
+  },
+  "menu_item_flowchart_punched_tape": {
+    "message": "V\u00fdvojov\u00fd diagram: D\u011brn\u00e1 p\u00e1ska"
+  },
+  "menu_item_flowchart_sequential_access_storage": {
+    "message": "V\u00fdvojov\u00fd diagram: Pam\u011b\u0165 se sekven\u010dn\u00edm p\u0159\u00edstupem"
+  },
+  "menu_item_flowchart_sort": {
+    "message": "V\u00fdvojov\u00fd diagram: \u0158azen\u00ed"
+  },
+  "menu_item_flowchart_stored_data": {
+    "message": "V\u00fdvojov\u00fd diagram: Ulo\u017een\u00e1 data"
+  },
+  "menu_item_flowchart_summing_junction": {
+    "message": "V\u00fdvojov\u00fd diagram: Suma\u010dn\u00ed bod"
+  },
+  "menu_item_flowchart_terminator": {
+    "message": "V\u00fdvojov\u00fd diagram: Ukon\u010den\u00ed"
+  },
+  "menu_item_folded_corner": {
+    "message": "Ohnut\u00fd roh"
+  },
+  "menu_item_frame": {
+    "message": "R\u00e1m"
+  },
+  "menu_item_half_frame": {
+    "message": "Polovi\u010dn\u00ed r\u00e1me\u010dek"
+  },
+  "menu_item_heart": {
+    "message": "Srdce"
+  },
+  "menu_item_help_center": {
+    "message": "Centrum n\u00e1pov\u011bdy"
+  },
+  "menu_item_heptagon": {
+    "message": "Sedmi\u00faheln\u00edk"
+  },
+  "menu_item_hexagon": {
+    "message": "\u0160esti\u00faheln\u00edk"
+  },
+  "menu_item_hideslide": {
+    "message": "Skr\u00fdt sn\u00edmek"
+  },
+  "menu_item_insert_column": {
+    "message": "Sloupec"
+  },
+  "menu_item_insert_image": {
+    "message": "Obr\u00e1zek"
+  },
+  "menu_item_insert_row": {
+    "message": "\u0158\u00e1dek"
+  },
+  "menu_item_insert_text_box": {
+    "message": "Textov\u00e9 pole"
+  },
+  "menu_item_insertslide": {
+    "message": "Nov\u00fd sn\u00edmek"
+  },
+  "menu_item_italic": {
+    "message": "Kurz\u00edva"
+  },
+  "menu_item_keyboard_shortcuts": {
+    "message": "Kl\u00e1vesov\u00e9 zkratky"
+  },
+  "menu_item_l_shape": {
+    "message": "Tvar p\u00edsmene L"
+  },
+  "menu_item_left_arrow": {
+    "message": "\u0160ipka doleva"
+  },
+  "menu_item_left_arrow_callout": {
+    "message": "Popisek se \u0161ipkou doleva"
+  },
+  "menu_item_left_brace": {
+    "message": "Lev\u00e1 slo\u017een\u00e1 z\u00e1vorka"
+  },
+  "menu_item_left_bracket": {
+    "message": "Lev\u00e1 z\u00e1vorka"
+  },
+  "menu_item_left_right_arrow": {
+    "message": "Obousm\u011brn\u00e1 vodorovn\u00e1 \u0161ipka"
+  },
+  "menu_item_left_right_arrow_callout": {
+    "message": "Popisek s\u00a0obousm\u011brnou vodorovnou \u0161ipkou"
+  },
+  "menu_item_left_right_up_arrow": {
+    "message": "\u0160ipka nahoru, doleva i\u00a0doprava"
+  },
+  "menu_item_left_up_arrow": {
+    "message": "\u0160ipka doleva a\u00a0nahoru"
+  },
+  "menu_item_lightning_bolt": {
+    "message": "Blesk"
+  },
+  "menu_item_make_a_copy": {
+    "message": "Vytvo\u0159it kopii\u2026"
+  },
+  "menu_item_merge_all": {
+    "message": "Slou\u010dit v\u0161e"
+  },
+  "menu_item_merge_cells": {
+    "message": "Slou\u010dit bu\u0148ky"
+  },
+  "menu_item_merge_horizontally": {
+    "message": "Slou\u010dit vodorovn\u011b"
+  },
+  "menu_item_merge_vertically": {
+    "message": "Slou\u010dit svisle"
+  },
+  "menu_item_minus": {
+    "message": "Minus"
+  },
+  "menu_item_moon": {
+    "message": "M\u011bs\u00edc"
+  },
+  "menu_item_moveslidedown": {
+    "message": "P\u0159esunout sn\u00edmek dol\u016f"
+  },
+  "menu_item_moveslidetoend": {
+    "message": "P\u0159esunout sn\u00edmek na konec"
+  },
+  "menu_item_moveslidetostart": {
+    "message": "P\u0159esunout sn\u00edmek na za\u010d\u00e1tek"
+  },
+  "menu_item_moveslideup": {
+    "message": "P\u0159esunout sn\u00edmek nahoru"
+  },
+  "menu_item_multiply": {
+    "message": "Kr\u00e1t"
+  },
+  "menu_item_new": {
+    "message": "Nov\u00e9"
+  },
+  "menu_item_no_symbol": {
+    "message": "Symbol \u201eNe\u201c"
+  },
+  "menu_item_not_equal": {
+    "message": "Nerovn\u00e1 se"
+  },
+  "menu_item_notched_right_arrow": {
+    "message": "\u0160ipka doprava se z\u00e1\u0159ezem"
+  },
+  "menu_item_number_format": {
+    "message": "Form\u00e1t \u010d\u00edsla"
+  },
+  "menu_item_number_menu": {
+    "message": "\u010c\u00edslo"
+  },
+  "menu_item_numbering": {
+    "message": "$1 v\u00a0nab\u00eddce $2",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "menu_item_octagon": {
+    "message": "Osmi\u00faheln\u00edk"
+  },
+  "menu_item_open": {
+    "message": "Otev\u0159\u00edt"
+  },
+  "menu_item_oval": {
+    "message": "Elipsa"
+  },
+  "menu_item_oval_callout": {
+    "message": "Ov\u00e1ln\u00e1 bublina"
+  },
+  "menu_item_parallelogram": {
+    "message": "Rovnob\u011b\u017en\u00edk"
+  },
+  "menu_item_paste": {
+    "message": "Vlo\u017eit"
+  },
+  "menu_item_pentagon": {
+    "message": "P\u011bti\u00faheln\u00edk"
+  },
+  "menu_item_pie": {
+    "message": "V\u00fdse\u010d"
+  },
+  "menu_item_plaque": {
+    "message": "Plaketa"
+  },
+  "menu_item_plus": {
+    "message": "Plus"
+  },
+  "menu_item_present": {
+    "message": "Prezentovat"
+  },
+  "menu_item_print": {
+    "message": "Tisk"
+  },
+  "menu_item_quad_arrow": {
+    "message": "\u010cty\u0159strann\u00e1 \u0161ipka"
+  },
+  "menu_item_quad_arrow_callout": {
+    "message": "Popisek se \u010dty\u0159strannou \u0161ipkou"
+  },
+  "menu_item_rectangle": {
+    "message": "Obd\u00e9ln\u00edk"
+  },
+  "menu_item_rectangular_callout": {
+    "message": "Hranat\u00e1 bublina"
+  },
+  "menu_item_redo": {
+    "message": "Opakovat"
+  },
+  "menu_item_regular_pentagon": {
+    "message": "Pravideln\u00fd p\u011bti\u00faheln\u00edk"
+  },
+  "menu_item_report_abuse": {
+    "message": "Nahl\u00e1sit zneu\u017eit\u00ed"
+  },
+  "menu_item_report_issue": {
+    "message": "Nahl\u00e1sit probl\u00e9m"
+  },
+  "menu_item_right_arrow": {
+    "message": "\u0160ipka doprava"
+  },
+  "menu_item_right_arrow_callout": {
+    "message": "Popisek se \u0161ipkou vpravo"
+  },
+  "menu_item_right_brace": {
+    "message": "Prav\u00e1 slo\u017een\u00e1 z\u00e1vorka"
+  },
+  "menu_item_right_bracket": {
+    "message": "Prav\u00e1 z\u00e1vorka"
+  },
+  "menu_item_right_triangle": {
+    "message": "Pravo\u00fahl\u00fd troj\u00faheln\u00edk"
+  },
+  "menu_item_round_diagonal_corner_rectangle": {
+    "message": "Obd\u00e9ln\u00edk se zaoblen\u00fdmi rohy nap\u0159\u00ed\u010d"
+  },
+  "menu_item_round_same_side_corner_rectangle": {
+    "message": "Obd\u00e9ln\u00edk se zaoblen\u00fdmi rohy na stejn\u00e9 stran\u011b"
+  },
+  "menu_item_round_single_corner_rectangle": {
+    "message": "Obd\u00e9ln\u00edk s\u00a0jedn\u00edm zaoblen\u00fdm rohem"
+  },
+  "menu_item_rounded_rectangle": {
+    "message": "Zaoblen\u00fd obd\u00e9ln\u00edk"
+  },
+  "menu_item_rounded_rectangular_callout": {
+    "message": "Zaoblen\u00e1 bublina"
+  },
+  "menu_item_save": {
+    "message": "Ulo\u017eit"
+  },
+  "menu_item_save_as": {
+    "message": "Ulo\u017eit jako\u2026"
+  },
+  "menu_item_shapes": {
+    "message": "Tvary"
+  },
+  "menu_item_share": {
+    "message": "Sd\u00edlet"
+  },
+  "menu_item_smiley_face": {
+    "message": "Smajl\u00edk"
+  },
+  "menu_item_snip_and_round_single_corner_rectangle": {
+    "message": "Obd\u00e9ln\u00edk s\u00a0o\u0159\u00edznut\u00fdm a\u00a0zaoblen\u00fdm rohem"
+  },
+  "menu_item_snip_diagonal_corner_rectangle": {
+    "message": "Obd\u00e9ln\u00edk s\u00a0o\u0159\u00edznut\u00fdmi rohy nap\u0159\u00ed\u010d"
+  },
+  "menu_item_snip_same_side_corner_rectangle": {
+    "message": "Obd\u00e9ln\u00edk s\u00a0o\u0159\u00edznut\u00fdmi rohy na stejn\u00e9 stran\u011b"
+  },
+  "menu_item_snip_single_corner_rectangle": {
+    "message": "Obd\u00e9ln\u00edk s\u00a0jedn\u00edm o\u0159\u00edznut\u00fdm rohem"
+  },
+  "menu_item_strikethrough": {
+    "message": "P\u0159e\u0161krtnut\u00e9"
+  },
+  "menu_item_striped_right_arrow": {
+    "message": "\u0160rafovan\u00e1 \u0161ipka doprava"
+  },
+  "menu_item_subscript": {
+    "message": "Doln\u00ed index"
+  },
+  "menu_item_sun": {
+    "message": "Slunce"
+  },
+  "menu_item_superscript": {
+    "message": "Horn\u00ed index"
+  },
+  "menu_item_teardrop": {
+    "message": "Slza"
+  },
+  "menu_item_trapezoid": {
+    "message": "Lichob\u011b\u017en\u00edk"
+  },
+  "menu_item_triangle": {
+    "message": "Troj\u00faheln\u00edk"
+  },
+  "menu_item_u_turn_arrow": {
+    "message": "\u0160ipka ve tvaru U"
+  },
+  "menu_item_underline": {
+    "message": "Podtr\u017een\u00e9"
+  },
+  "menu_item_undo": {
+    "message": "Vr\u00e1tit zp\u011bt"
+  },
+  "menu_item_unhideslide": {
+    "message": "Zru\u0161it skryt\u00ed sn\u00edmku"
+  },
+  "menu_item_unmerge": {
+    "message": "Zru\u0161it slou\u010den\u00ed"
+  },
+  "menu_item_up_arrow": {
+    "message": "\u0160ipka nahoru"
+  },
+  "menu_item_up_arrow_callout": {
+    "message": "Popisek se \u0161ipkou nahoru"
+  },
+  "menu_item_up_down_arrow": {
+    "message": "Obousm\u011brn\u00e1 svisl\u00e1 \u0161ipka"
+  },
+  "menu_item_version_info": {
+    "message": "Informace o\u00a0verzi"
+  },
+  "menu_item_word_count": {
+    "message": "Po\u010det slov"
+  },
+  "menu_item_wrap_text": {
+    "message": "Obt\u00e9k\u00e1n\u00ed textu"
+  },
+  "menu_item_zoom_in": {
+    "message": "P\u0159ibl\u00ed\u017eit"
+  },
+  "menu_item_zoom_out": {
+    "message": "Odd\u00e1lit"
+  },
+  "merge_all_aria_spoken_word": {
+    "message": "slou\u010dit v\u0161e"
+  },
+  "merge_aria_spoken_word": {
+    "message": "slou\u010dit"
+  },
+  "merge_dropdown_aria_spoken_word": {
+    "message": "rozbalovac\u00ed nab\u00eddka slou\u010den\u00ed"
+  },
+  "merge_horizontally_aria_spoken_word": {
+    "message": "slou\u010dit vodorovn\u011b"
+  },
+  "merge_vertically_aria_spoken_word": {
+    "message": "slou\u010dit svisle"
+  },
+  "modify_shape_transform_error_msg": {
+    "message": "P\u0159i \u00faprav\u011b transformac\u00ed obrazc\u016f do\u0161lo k chyb\u011b."
+  },
+  "modify_shape_transform_error_short_msg": {
+    "message": "Chyba p\u0159i \u00faprav\u011b transformac\u00ed obrazc\u016f"
+  },
+  "modifyshapefillcolor_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam barev v\u00fdpln\u011b obrazce"
+  },
+  "modifyshapeoutlinecolor_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam barev obrysu obrazce"
+  },
+  "modifyshapeoutlinestyle_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam styl\u016f obrysu obrazce"
+  },
+  "modifyshapeoutlinewidth_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam \u0161\u00ed\u0159ek obrysu obrazce"
+  },
+  "nacl_load_error_details": {
+    "message": "Zkuste roz\u0161\u00ed\u0159en\u00ed p\u0159einstalovat."
+  },
+  "nacl_load_error_title": {
+    "message": "P\u0159i na\u010d\u00edt\u00e1n\u00ed aplikace do\u0161lo k\u00a0pot\u00ed\u017e\u00edm."
+  },
+  "non_permissible_sheet_name_details": {
+    "message": "N\u00e1sleduj\u00edc\u00ed znaky nejsou povoleny * ? [ ] ' ; : D\u00e9lka n\u00e1zvu listu nesm\u00ed p\u0159ekro\u010dit 31 znak\u016f. N\u00e1zev listu nesm\u00ed z\u016fstat pr\u00e1zdn\u00fd."
+  },
+  "non_permissible_sheet_name_title": {
+    "message": "P\u0159i p\u0159ejmenov\u00e1v\u00e1n\u00ed listu jste zadali neplatn\u00fd n\u00e1zev."
+  },
+  "not_pressed": {
+    "message": "Nestisknuto"
+  },
+  "notselected": {
+    "message": "Nevybr\u00e1no"
+  },
+  "number_format_label_currency_symbol": {
+    "message": "Symbol m\u011bny"
+  },
+  "number_format_label_date_type": {
+    "message": "Typ"
+  },
+  "number_format_label_decimal_places": {
+    "message": "Desetinn\u00e1 m\u00edsta"
+  },
+  "number_format_label_general": {
+    "message": "Obecn\u00e9"
+  },
+  "number_format_label_negative_numbers": {
+    "message": "Z\u00e1porn\u00e1 \u010d\u00edsla"
+  },
+  "number_format_label_other": {
+    "message": "Jin\u00e9"
+  },
+  "number_format_label_red": {
+    "message": "\u010cerven\u00e1"
+  },
+  "number_format_label_text": {
+    "message": "Text"
+  },
+  "number_format_label_use_1000_separator": {
+    "message": "Pou\u017e\u00edt odd\u011blova\u010d tis\u00edc\u016f"
+  },
+  "number_format_tab_accounting": {
+    "message": "\u00da\u010detn\u00ed"
+  },
+  "number_format_tab_currency": {
+    "message": "M\u011bna"
+  },
+  "number_format_tab_date_time": {
+    "message": "Datum a \u010das"
+  },
+  "number_format_tab_general": {
+    "message": "Obecn\u00e9"
+  },
+  "number_format_tab_number": {
+    "message": "\u010c\u00edslo"
+  },
+  "number_format_tab_percentage": {
+    "message": "Procenta"
+  },
+  "number_format_tab_scientific": {
+    "message": "V\u011bdeck\u00e9"
+  },
+  "number_format_title": {
+    "message": "Form\u00e1ty \u010d\u00edsel"
+  },
+  "ocm_promo_conversion_shortmsg": {
+    "message": "Jste v re\u017eimu kompatibility se syst\u00e9mem Office"
+  },
+  "ocm_promo_office_editing_mode_shortmsg": {
+    "message": "Jste v\u00a0re\u017eimu kompatibility se syst\u00e9mem Office"
+  },
+  "office_compatibility_mode": {
+    "message": "Re\u017eim kompatibility se syst\u00e9mem Office"
+  },
+  "office_editing_mode_attempt_when_offline": {
+    "message": "Pokud tento soubor chcete otev\u0159\u00edt v\u00a0Dokumentech Google, mus\u00edte b\u00fdt online. Zkuste to znovu, a\u017e budete p\u0159ipojeni."
+  },
+  "office_editing_mode_attempt_with_invalid_creds": {
+    "message": "Pokud tento soubor chcete otev\u0159\u00edt v\u00a0Dokumentech Google, mus\u00edte se p\u0159ihl\u00e1sit ke sv\u00e9mu \u00fa\u010dtu Google"
+  },
+  "office_editing_mode_point_fail_msg": {
+    "message": "Soubor moment\u00e1ln\u011b nelze ulo\u017eit jako Prezentaci Google."
+  },
+  "office_editing_mode_setting_new_create": {
+    "message": "Otev\u00edrat podporovan\u00e9 soubory Office z\u00a0Disku a\u00a0Gmailu p\u0159\u00edmo v\u00a0Dokumentech, Tabulk\u00e1ch nebo Prezentac\u00edch"
+  },
+  "office_editing_mode_sheet_fail_msg": {
+    "message": "Soubor moment\u00e1ln\u011b nelze ulo\u017eit jako Tabulku Google."
+  },
+  "office_editing_mode_word_fail_msg": {
+    "message": "Soubor moment\u00e1ln\u011b nelze ulo\u017eit jako Dokument Google."
+  },
+  "office_first_time_confirm": {
+    "message": "Rozum\u00edm"
+  },
+  "office_first_time_message_p1": {
+    "message": "Soubory aplikac\u00ed Word, Excel a PowerPoint na va\u0161em pevn\u00e9m disku, na Disku Google, v Gmailu apod. te\u010f m\u016f\u017eete upravovat pomoc\u00ed slu\u017eeb Dokumenty, Tabulky a Prezentace."
+  },
+  "office_first_time_message_p2": {
+    "message": "V\u0161echny \u00fapravy budou automaticky ukl\u00e1d\u00e1ny a kdykoli je m\u016f\u017eete ulo\u017eit tak\u00e9 v p\u016fvodn\u00edm form\u00e1tu."
+  },
+  "office_first_time_title": {
+    "message": "\u00dapravy soubor\u016f syst\u00e9mu Office v Dokumentech, Tabulk\u00e1ch a Prezentac\u00edch Google"
+  },
+  "offline_error_msg": {
+    "message": "Zd\u00e1 se, \u017ee jste v re\u017eimu offline. Zkontrolujte p\u0159ipojen\u00ed k internetu a zkuste to znovu. Pokud se tato chybov\u00e1 zpr\u00e1va zobrazuje i nad\u00e1le, a\u010dkoliv jste online, nahlaste probl\u00e9m n\u00ed\u017ee."
+  },
+  "offline_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor nelze otev\u0159\u00edt."
+  },
+  "opening_in_office_editing_mode": {
+    "message": "Otev\u00edr\u00e1n\u00ed v\u00a0re\u017eimu upravov\u00e1n\u00ed soubor\u016f Office"
+  },
+  "option_key": {
+    "message": "Mo\u017enosti"
+  },
+  "out_of_memory_error_msg": {
+    "message": "Zkuste tuto kartu zav\u0159\u00edt a\u00a0otev\u0159\u00edt soubor znovu nebo zav\u0159\u00edt ostatn\u00ed karty, kter\u00e9 m\u00e1te v\u00a0prohl\u00ed\u017ee\u010di otev\u0159en\u00e9. Pokud tento probl\u00e9m p\u0159etrv\u00e1v\u00e1, nahlaste probl\u00e9m n\u00ed\u017ee."
+  },
+  "out_of_memory_error_short_msg": {
+    "message": "Jejda, nen\u00ed k\u00a0dispozici dostatek pam\u011bti."
+  },
+  "page_count_label": {
+    "message": "Str\u00e1nky"
+  },
+  "partial_cell_merge_error_msg": {
+    "message": "\u010c\u00e1st slou\u010den\u00e9 bu\u0148ky nelze zm\u011bnit."
+  },
+  "partial_cell_merge_error_short_msg": {
+    "message": "Chyba"
+  },
+  "permission_fail_msg": {
+    "message": "K\u00a0\u00faprav\u00e1m tohoto souboru nem\u00e1te opr\u00e1vn\u011bn\u00ed. Aktualizujte opr\u00e1vn\u011bn\u00ed a\u00a0zkuste to znovu."
+  },
+  "point_ocm_promo_conversion_msg": {
+    "message": "Soubory syst\u00e9mu Office m\u016f\u017eete upravovat a ukl\u00e1dat p\u0159\u00edmo v Prezentac\u00edch. Chcete-li k \u00faprav\u00e1m nebo p\u0159id\u00e1v\u00e1n\u00ed koment\u00e1\u0159\u016f pozvat ostatn\u00ed u\u017eivatele, ulo\u017ete soubor jako Prezentaci Google. Soubory m\u016f\u017eete kdykoli ulo\u017eit zp\u011bt do p\u016fvodn\u00edho form\u00e1tu."
+  },
+  "point_ocm_promo_office_editing_mode_msg": {
+    "message": "Soubory sady Office te\u010f m\u016f\u017eete upravovat a\u00a0ukl\u00e1dat p\u0159\u00edmo v\u00a0Prezentac\u00edch Google. Pokud chcete pozvat dal\u0161\u00ed lidi k\u00a0\u00faprav\u00e1m v\u00a0re\u00e1ln\u00e9m \u010dase nebo k\u00a0p\u0159id\u00e1v\u00e1n\u00ed koment\u00e1\u0159\u016f, nahrajte tento soubor na Disk Google. Form\u00e1t tohoto souboru se nezm\u011bn\u00ed."
+  },
+  "point_printing_warning_msg": {
+    "message": "Pracujeme na oprav\u011b."
+  },
+  "point_printing_warning_short_msg": {
+    "message": "Moment\u00e1ln\u011b je mo\u017eno tisknout pouze pr\u00e1v\u011b zobrazen\u00fd sn\u00edmek."
+  },
+  "point_share_promo_conversion_msg": {
+    "message": "Pokou\u0161\u00edte se tuto prezentaci sd\u00edlet? Chcete-li pozvat dal\u0161\u00ed u\u017eivatele, kte\u0159\u00ed ji s v\u00e1mi budou upravovat, p\u0159eve\u010fte ji na Prezentaci Google."
+  },
+  "point_share_promo_office_editing_mode_msg": {
+    "message": "Soubory sady Office te\u010f m\u016f\u017eete upravovat a\u00a0ukl\u00e1dat p\u0159\u00edmo v\u00a0Prezentac\u00edch Google. Pokud chcete pozvat dal\u0161\u00ed lidi k\u00a0\u00faprav\u00e1m v\u00a0re\u00e1ln\u00e9m \u010dase nebo k\u00a0p\u0159id\u00e1v\u00e1n\u00ed koment\u00e1\u0159\u016f, nahrajte tento soubor na Disk Google. Form\u00e1t tohoto souboru se nezm\u011bn\u00ed."
+  },
+  "pointtogglebullet_aria_spoken_word": {
+    "message": "seznam s\u00a0odr\u00e1\u017ekami"
+  },
+  "pointtogglenumber_aria_spoken_word": {
+    "message": "\u010d\u00edslovan\u00fd seznam"
+  },
+  "present_button": {
+    "message": "Prezentovat"
+  },
+  "pressed": {
+    "message": "Stisknuto"
+  },
+  "print_aria_spoken_word": {
+    "message": "tisk"
+  },
+  "qowt_doc_mismatch_text": {
+    "message": "P\u0159i form\u00e1tov\u00e1n\u00ed dokumentu do\u0161lo k chyb\u011b.\n\nZm\u011bny obnov\u00edte op\u011btovn\u00fdm na\u010dten\u00edm str\u00e1nky."
+  },
+  "qowt_doc_mismatch_title": {
+    "message": "Ojoj!"
+  },
+  "qowt_hyperlink_activate_short_key": {
+    "message": "Odkaz aktivujete stisknut\u00edm kombinace kl\u00e1ves Alt + Enter."
+  },
+  "qowt_hyperlink_dialog": {
+    "message": "Hypertextov\u00fd odkaz"
+  },
+  "qowt_hyperlink_dialog_message_text": {
+    "message": "P\u0159ej\u00edt na odkaz:"
+  },
+  "qowt_modal_confirm_dialog_affirmative_button": {
+    "message": "OK"
+  },
+  "qowt_modal_confirm_dialog_negative_button": {
+    "message": "Zru\u0161it"
+  },
+  "qowt_modal_dialog_close_button": {
+    "message": "Zav\u0159\u00edt"
+  },
+  "qowt_modal_dialog_coming_soon_title": {
+    "message": "Ji\u017e brzy!"
+  },
+  "qowt_modal_dialog_link_text": {
+    "message": "Dal\u0161\u00ed informace"
+  },
+  "qowt_modal_dialog_ok_button": {
+    "message": "OK"
+  },
+  "qowt_modal_dialog_reload_button": {
+    "message": "Na\u010d\u00edst znovu"
+  },
+  "qowt_modal_dialog_textbox_editing_description": {
+    "message": "Litujeme, \u00fapravy textu v\u00a0textov\u00fdch pol\u00edch nepodporujeme."
+  },
+  "qowt_modal_dialog_textbox_editing_link": {
+    "message": "Opravte to pros\u00edm!"
+  },
+  "qowt_modal_info_dialog_affirmative_button": {
+    "message": "OK"
+  },
+  "qowt_modal_multi_choice_remember_choice": {
+    "message": "Zapamatovat si v\u00fdb\u011br"
+  },
+  "qowt_modal_query_dialog_affirmative_button": {
+    "message": "Ano"
+  },
+  "qowt_modal_query_dialog_negative_button": {
+    "message": "Ne"
+  },
+  "qowt_modal_query_dialog_reload_button": {
+    "message": "Obnovit"
+  },
+  "qowt_modal_single_choice_remember_choice": {
+    "message": "Ji\u017e nep\u0159ipom\u00ednat"
+  },
+  "read_only": {
+    "message": "Pouze ke \u010dten\u00ed"
+  },
+  "redo_aria_spoken_word": {
+    "message": "opakovat"
+  },
+  "right_pointed_submenu": {
+    "message": "Prav\u00fd ukazatel s\u00a0podnab\u00eddkou"
+  },
+  "save_aria_spoken_word": {
+    "message": "ulo\u017eit"
+  },
+  "save_now": {
+    "message": "Ulo\u017eit te\u010f"
+  },
+  "security_error_msg": {
+    "message": "Pokud k chyb\u011b doch\u00e1z\u00ed i nad\u00e1le, nahlaste probl\u00e9m n\u00ed\u017ee."
+  },
+  "security_error_short_msg": {
+    "message": "Jejda, po\u017eadovan\u00fd soubor se nepoda\u0159ilo otev\u0159\u00edt. Otev\u00edr\u00e1n\u00ed soubor\u016f v anonymn\u00edm re\u017eimu v sou\u010dasn\u00e9 dob\u011b nepodporujeme. Otev\u0159ete soubor v neanonymn\u00edm re\u017eimu."
+  },
+  "selected": {
+    "message": "Vybr\u00e1no"
+  },
+  "set_sheet_info_error_msg": {
+    "message": "P\u0159i aktualizaci n\u00e1zvu listu do\u0161lo k chyb\u011b."
+  },
+  "share_button": {
+    "message": "Sd\u00edlet"
+  },
+  "share_promo_conversion_shortmsg": {
+    "message": "\u00dapravy s ostatn\u00edmi"
+  },
+  "share_promo_office_editing_mode_shortmsg": {
+    "message": "Sd\u00edlet s\u00a0ostatn\u00edmi"
+  },
+  "sheet_delete_column_error_msg": {
+    "message": "Jejda, p\u0159i maz\u00e1n\u00ed sloupce do\u0161lo k chyb\u011b. Zkuste to pros\u00edm znovu."
+  },
+  "sheet_delete_row_error_msg": {
+    "message": "Jejda, p\u0159i maz\u00e1n\u00ed \u0159\u00e1dku do\u0161lo k chyb\u011b. Zkuste to pros\u00edm znovu."
+  },
+  "sheet_format_cells_error_msg": {
+    "message": "Do\u0161lo k chyb\u011b form\u00e1tov\u00e1n\u00ed. Zkuste to pros\u00edm znovu."
+  },
+  "sheet_insert_column_error_msg": {
+    "message": "Jejda, p\u0159i vkl\u00e1d\u00e1n\u00ed sloupce do\u0161lo k chyb\u011b. Zkuste to pros\u00edm znovu."
+  },
+  "sheet_insert_column_exceed_error_msg": {
+    "message": "Litujeme, do t\u00e9to tabulky ji\u017e nelze vlo\u017eit dal\u0161\u00ed sloupce. Maxim\u00e1ln\u00ed podporovan\u00fd po\u010det sloupc\u016f je 256."
+  },
+  "sheet_insert_column_exceed_error_short_msg": {
+    "message": "Je n\u00e1m l\u00edto"
+  },
+  "sheet_insert_row_error_msg": {
+    "message": "Jejda, p\u0159i vkl\u00e1d\u00e1n\u00ed \u0159\u00e1dku do\u0161lo k chyb\u011b. Zkuste to pros\u00edm znovu."
+  },
+  "sheet_insert_row_exceed_error_msg": {
+    "message": "Litujeme, do t\u00e9to tabulky ji\u017e nelze vlo\u017eit dal\u0161\u00ed \u0159\u00e1dky. Maxim\u00e1ln\u00ed podporovan\u00fd po\u010det \u0159\u00e1dk\u016f je 65\u00a0536."
+  },
+  "sheet_insert_row_exceed_error_short_msg": {
+    "message": "Je n\u00e1m l\u00edto"
+  },
+  "sheet_ocm_promo_conversion_msg": {
+    "message": "Soubory syst\u00e9mu Office m\u016f\u017eete upravovat a ukl\u00e1dat p\u0159\u00edmo v Tabulk\u00e1ch. Chcete-li k \u00faprav\u00e1m nebo p\u0159id\u00e1v\u00e1n\u00ed koment\u00e1\u0159\u016f pozvat ostatn\u00ed u\u017eivatele, ulo\u017ete soubor jako Tabulku Google. Soubory m\u016f\u017eete kdykoli ulo\u017eit zp\u011bt do p\u016fvodn\u00edho form\u00e1tu."
+  },
+  "sheet_ocm_promo_office_editing_mode_msg": {
+    "message": "Soubory sady Office te\u010f m\u016f\u017eete upravovat a\u00a0ukl\u00e1dat p\u0159\u00edmo v\u00a0Tabulk\u00e1ch Google. Pokud chcete pozvat dal\u0161\u00ed lidi k\u00a0\u00faprav\u00e1m v\u00a0re\u00e1ln\u00e9m \u010dase nebo p\u0159id\u00e1n\u00ed koment\u00e1\u0159\u016f, nahrajte tento soubor na Disk Google. Form\u00e1t tohoto souboru se nezm\u011bn\u00ed."
+  },
+  "sheet_set_cell_content_invalid_error_msg": {
+    "message": "V zadan\u00e9m vzorci se vyskytla chyba. Opravte ji pros\u00edm."
+  },
+  "sheet_share_promo_conversion_msg": {
+    "message": "Pokou\u0161\u00edte se tuto tabulku sd\u00edlet? Chcete-li pozvat dal\u0161\u00ed u\u017eivatele, kte\u0159\u00ed ji s v\u00e1mi budou upravovat, p\u0159eve\u010fte ji na Tabulku Google."
+  },
+  "sheet_share_promo_office_editing_mode_msg": {
+    "message": "Soubory sady Office te\u010f m\u016f\u017eete upravovat a\u00a0ukl\u00e1dat p\u0159\u00edmo v\u00a0Tabulk\u00e1ch Google. Pokud chcete pozvat dal\u0161\u00ed lidi k\u00a0\u00faprav\u00e1m v\u00a0re\u00e1ln\u00e9m \u010dase nebo p\u0159id\u00e1n\u00ed koment\u00e1\u0159\u016f, nahrajte tento soubor na Disk Google. Form\u00e1t tohoto souboru se nezm\u011bn\u00ed."
+  },
+  "sheet_sort_error_title": {
+    "message": "P\u0159i \u0159azen\u00ed tohoto rozsahu bun\u011bk do\u0161lo k\u00a0chyb\u011b."
+  },
+  "sheet_sort_failure_msg": {
+    "message": "P\u0159i \u0159azen\u00ed tohoto rozsahu bun\u011bk do\u0161lo k\u00a0chyb\u011b."
+  },
+  "sheet_sort_merged_cell_error": {
+    "message": "Nelze se\u0159adit bu\u0148ky, kter\u00e9 jsou slou\u010den\u00e9."
+  },
+  "sheet_sort_merged_cell_error_title": {
+    "message": "P\u0159i \u0159azen\u00ed tohoto rozsahu bun\u011bk do\u0161lo k\u00a0chyb\u011b."
+  },
+  "sheet_sort_one_cell_error": {
+    "message": "Chcete-li bu\u0148ky se\u0159adit, vyberte v\u00edce ne\u017e jednu bu\u0148ku."
+  },
+  "sheet_sort_one_cell_error_title": {
+    "message": "P\u0159i \u0159azen\u00ed tohoto rozsahu bun\u011bk do\u0161lo k\u00a0chyb\u011b."
+  },
+  "shift_key": {
+    "message": "Shift"
+  },
+  "shortcut": {
+    "message": "Zkratka $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "sign_in": {
+    "message": "P\u0159ihl\u00e1sit se"
+  },
+  "slash_key": {
+    "message": "Lom\u00edtko"
+  },
+  "something_not_right": {
+    "message": "N\u011bco nen\u00ed v po\u0159\u00e1dku"
+  },
+  "storage_quota_exceed_error_msg": {
+    "message": "Zav\u0159ete v\u0161echny dokumenty Office otev\u0159en\u00e9 v\u00a0Chromu a\u00a0zkuste to znovu. Pokud probl\u00e9m p\u0159etrv\u00e1v\u00e1, nahlaste jej n\u00ed\u017ee."
+  },
+  "storage_quota_exceed_error_short_msg": {
+    "message": "Omlouv\u00e1me se, soubor se nepoda\u0159ilo otev\u0159\u00edt."
+  },
+  "strikethrough_aria_spoken_word": {
+    "message": "p\u0159e\u0161krtnut\u00e9"
+  },
+  "style_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam styl\u016f"
+  },
+  "submenu_spoken_text": {
+    "message": "$1 $2 $3 $4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "temporary_unable_to_open_error_msg": {
+    "message": "Pokud probl\u00e9m p\u0159etrv\u00e1v\u00e1, zkuste to pozd\u011bji nebo se obra\u0165te na t\u00fdm podpory."
+  },
+  "temporary_unable_to_open_error_short_msg": {
+    "message": "Omlouv\u00e1me se, soubor do\u010dasn\u011b nelze otev\u0159\u00edt."
+  },
+  "textaligncenter_aria_spoken_word": {
+    "message": "zarovnat na st\u0159ed"
+  },
+  "textalignjustify_aria_spoken_word": {
+    "message": "zarovnat do bloku"
+  },
+  "textalignleft_aria_spoken_word": {
+    "message": "zarovnat vlevo"
+  },
+  "textalignright_aria_spoken_word": {
+    "message": "zarovnat vpravo"
+  },
+  "textcolor_aria_spoken_word": {
+    "message": "rozbalovac\u00ed seznam barev textu"
+  },
+  "textual_edit_error_msg": {
+    "message": "P\u0159i form\u00e1tov\u00e1n\u00ed dokumentu do\u0161lo k chyb\u011b.\n\nZm\u011bny obnov\u00edte op\u011btovn\u00fdm na\u010dten\u00edm str\u00e1nky."
+  },
+  "textual_edit_error_short_msg": {
+    "message": "Ojoj!"
+  },
+  "title_error_msg_for_merge_cells": {
+    "message": "Do\u0161lo k\u00a0probl\u00e9mu"
+  },
+  "title_msg_merging_multiple_cells_with_text": {
+    "message": "Pozor!"
+  },
+  "togglebulleted_aria_spoken_word": {
+    "message": "seznam s\u00a0odr\u00e1\u017ekami"
+  },
+  "togglenumbered_aria_spoken_word": {
+    "message": "\u010d\u00edslovan\u00fd seznam"
+  },
+  "togglezoom_aria_spoken_word": {
+    "message": "p\u0159epnut\u00ed lupy"
+  },
+  "tooltip_background_color": {
+    "message": "Barva v\u00fdpln\u011b"
+  },
+  "tooltip_bold": {
+    "message": "Tu\u010dn\u00e9"
+  },
+  "tooltip_border": {
+    "message": "Ohrani\u010den\u00ed"
+  },
+  "tooltip_border_all": {
+    "message": "V\u0161echno ohrani\u010den\u00ed"
+  },
+  "tooltip_border_bottom": {
+    "message": "Ohrani\u010den\u00ed dole"
+  },
+  "tooltip_border_horizontal": {
+    "message": "Ohrani\u010den\u00ed naho\u0159e"
+  },
+  "tooltip_border_inner": {
+    "message": "Vnit\u0159n\u00ed ohrani\u010den\u00ed"
+  },
+  "tooltip_border_left": {
+    "message": "Ohrani\u010den\u00ed vlevo"
+  },
+  "tooltip_border_none": {
+    "message": "Bez ohrani\u010den\u00ed"
+  },
+  "tooltip_border_outer": {
+    "message": "Vn\u011bj\u0161\u00ed ohrani\u010den\u00ed"
+  },
+  "tooltip_border_right": {
+    "message": "Ohrani\u010den\u00ed vpravo"
+  },
+  "tooltip_border_top": {
+    "message": "Ohrani\u010den\u00ed naho\u0159e"
+  },
+  "tooltip_border_vertical": {
+    "message": "Svisl\u00e9 ohrani\u010den\u00ed"
+  },
+  "tooltip_cell_align": {
+    "message": "Zarovn\u00e1n\u00ed bu\u0148ky"
+  },
+  "tooltip_cell_h_align_center": {
+    "message": "Vodorovn\u011b na st\u0159ed"
+  },
+  "tooltip_cell_h_align_left": {
+    "message": "Vodorovn\u011b vlevo"
+  },
+  "tooltip_cell_h_align_right": {
+    "message": "Vodorovn\u011b vpravo"
+  },
+  "tooltip_cell_v_align_bottom": {
+    "message": "Svisle dol\u016f"
+  },
+  "tooltip_cell_v_align_center": {
+    "message": "Svisle na st\u0159ed"
+  },
+  "tooltip_cell_v_align_top": {
+    "message": "Svisle nahoru"
+  },
+  "tooltip_download": {
+    "message": "St\u00e1hnout"
+  },
+  "tooltip_download_original": {
+    "message": "St\u00e1hnout p\u016fvodn\u00ed"
+  },
+  "tooltip_dropdown_init_add_shape": {
+    "message": "Tvar"
+  },
+  "tooltip_fill_color": {
+    "message": "Barva textu"
+  },
+  "tooltip_font_face": {
+    "message": "P\u00edsmo"
+  },
+  "tooltip_font_size": {
+    "message": "Velikost p\u00edsma"
+  },
+  "tooltip_highlight_color": {
+    "message": "Barva zv\u00fdrazn\u011bn\u00ed"
+  },
+  "tooltip_init_add_shape": {
+    "message": "Textov\u00e9 pole"
+  },
+  "tooltip_italic": {
+    "message": "Kurz\u00edva"
+  },
+  "tooltip_merge": {
+    "message": "Slou\u010dit bu\u0148ky"
+  },
+  "tooltip_merge_dropdown": {
+    "message": "Vyberte typ slou\u010den\u00ed..."
+  },
+  "tooltip_modify_shape_fill_color": {
+    "message": "Barva v\u00fdpln\u011b"
+  },
+  "tooltip_modify_shape_outline_color": {
+    "message": "Barva \u010d\u00e1ry"
+  },
+  "tooltip_modify_shape_outline_style": {
+    "message": "P\u0159eru\u0161ovan\u00e1 \u010d\u00e1ra"
+  },
+  "tooltip_modify_shape_outline_width": {
+    "message": "Tlou\u0161\u0165ka \u010d\u00e1ry"
+  },
+  "tooltip_move_slide": {
+    "message": "P\u0159esunout sn\u00edmky ($1)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "tooltip_point": {
+    "message": "Domovsk\u00e1 str\u00e1nka Prezentac\u00ed"
+  },
+  "tooltip_point_toggle_bullet": {
+    "message": "Seznam s\u00a0odr\u00e1\u017ekami"
+  },
+  "tooltip_point_toggle_number": {
+    "message": "\u010c\u00edslovan\u00fd seznam"
+  },
+  "tooltip_presentation": {
+    "message": "Prezentace"
+  },
+  "tooltip_print": {
+    "message": "Tisk"
+  },
+  "tooltip_redo": {
+    "message": "Opakovat"
+  },
+  "tooltip_share": {
+    "message": "Sd\u00edlet"
+  },
+  "tooltip_share_for_macroenabledfiles": {
+    "message": "Soubory s\u00a0povolen\u00fdmi makry mohou b\u00fdt sd\u00edleny pouze z\u00a0Disku Google."
+  },
+  "tooltip_sheet": {
+    "message": "Domovsk\u00e1 str\u00e1nka Tabulek"
+  },
+  "tooltip_strikethrough": {
+    "message": "P\u0159e\u0161krtnut\u00e9"
+  },
+  "tooltip_style": {
+    "message": "Styly"
+  },
+  "tooltip_text_align_center": {
+    "message": "Na st\u0159ed"
+  },
+  "tooltip_text_align_justify": {
+    "message": "Do bloku"
+  },
+  "tooltip_text_align_left": {
+    "message": "Zarovnat vlevo"
+  },
+  "tooltip_text_align_right": {
+    "message": "Zarovnat vpravo"
+  },
+  "tooltip_text_color": {
+    "message": "Barva textu"
+  },
+  "tooltip_toggle_bulleted": {
+    "message": "Seznam s\u00a0odr\u00e1\u017ekami"
+  },
+  "tooltip_toggle_numbered": {
+    "message": "\u010c\u00edslovan\u00fd seznam"
+  },
+  "tooltip_toggle_zoom": {
+    "message": "P\u0159epnout p\u0159ibl\u00ed\u017een\u00ed"
+  },
+  "tooltip_underline": {
+    "message": "Podtr\u017een\u00e9"
+  },
+  "tooltip_undo": {
+    "message": "Vr\u00e1tit zp\u011bt"
+  },
+  "tooltip_word": {
+    "message": "Domovsk\u00e1 str\u00e1nka Dokument\u016f"
+  },
+  "tooltip_wrap_text": {
+    "message": "Obt\u00e9k\u00e1n\u00ed textu"
+  },
+  "tooltip_zoom_in": {
+    "message": "P\u0159ibl\u00ed\u017eit"
+  },
+  "tooltip_zoom_out": {
+    "message": "Odd\u00e1lit"
+  },
+  "try_again": {
+    "message": "Zkusit znovu"
+  },
+  "unable_to_execute_msg": {
+    "message": "Dokument se nepoda\u0159ilo otev\u0159\u00edt."
+  },
+  "underline_aria_spoken_word": {
+    "message": "podtr\u017een\u00e9"
+  },
+  "undo_aria_spoken_word": {
+    "message": "vr\u00e1tit zp\u011bt"
+  },
+  "unmerge_aria_spoken_word": {
+    "message": "zru\u0161it slou\u010den\u00ed"
+  },
+  "unsaved_changes": {
+    "message": "Neulo\u017een\u00e9 zm\u011bny"
+  },
+  "unsaved_changes_warning": {
+    "message": "V tomto souboru m\u00e1te neulo\u017een\u00e9 zm\u011bny. Pokud tuto str\u00e1nku opust\u00edte, ani\u017e byste je ulo\u017eili, nav\u017edy o n\u011b p\u0159ijdete."
+  },
+  "unsupported_file_format_error_details_p1": {
+    "message": "V\u00a0tomto souboru se vyskytuje obsah z\u00a0aplikac\u00ed syst\u00e9mu Microsoft\u00ae Office 95 nebo star\u0161\u00edch, kter\u00fd nedok\u00e1\u017eeme otev\u0159\u00edt."
+  },
+  "unsupported_file_format_error_details_p2": {
+    "message": "Chcete-li soubor p\u0159ev\u00e9st do Dokument\u016f Google, klikn\u011bte na odkaz n\u00ed\u017ee."
+  },
+  "unsupported_file_format_error_title": {
+    "message": "Jejda!"
+  },
+  "unsupported_link_message": {
+    "message": "Je n\u00e1m l\u00edto. Adresy URL tohoto typu v\u00a0sou\u010dasn\u00e9 dob\u011b nepodporujeme."
+  },
+  "up_key": {
+    "message": "Nahoru"
+  },
+  "updated_shortcut_message": {
+    "message": "Aktualizovali jsme kl\u00e1vesov\u00e9 zkratky, aby byly v\u00a0r\u00e1mci Dokument\u016f Google konzistentn\u00ed. Aktualizovan\u00e9 zkratky naleznete v\u00a0n\u00e1pov\u011bd\u011b."
+  },
+  "updated_shortcut_title": {
+    "message": "Aktualizovali jsme kl\u00e1vesov\u00e9 zkratky"
+  },
+  "uploading_to_drive_for_office_editing_mode_point": {
+    "message": "Nahr\u00e1v\u00e1n\u00ed na Disk a\u00a0otev\u00edr\u00e1n\u00ed v\u00a0Prezentac\u00edch"
+  },
+  "uploading_to_drive_for_office_editing_mode_sheet": {
+    "message": "Nahr\u00e1v\u00e1n\u00ed na Disk a\u00a0otev\u00edr\u00e1n\u00ed v\u00a0Tabulk\u00e1ch"
+  },
+  "uploading_to_drive_for_office_editing_mode_word": {
+    "message": "Nahr\u00e1v\u00e1n\u00ed na Disk a\u00a0otev\u00edr\u00e1n\u00ed v\u00a0Dokumentech"
+  },
+  "uploading_to_drive_msg_for_point": {
+    "message": "Prob\u00edh\u00e1 nahr\u00e1v\u00e1n\u00ed tohoto souboru na Disk a\u00a0otev\u00edr\u00e1n\u00ed v\u00a0Prezentac\u00edch Google."
+  },
+  "uploading_to_drive_msg_for_sheet": {
+    "message": "Prob\u00edh\u00e1 nahr\u00e1v\u00e1n\u00ed tohoto souboru na Disk a\u00a0otev\u00edr\u00e1n\u00ed v\u00a0Tabulk\u00e1ch Google."
+  },
+  "uploading_to_drive_msg_for_word": {
+    "message": "Prob\u00edh\u00e1 nahr\u00e1v\u00e1n\u00ed tohoto souboru na Disk a\u00a0otev\u00edr\u00e1n\u00ed v\u00a0Dokumentech Google."
+  },
+  "version_info_msg": {
+    "message": "Va\u0161e verze Re\u017eimu kompatibility se syst\u00e9mem Office je"
+  },
+  "word_binary_upsave_learnmore": {
+    "message": "Dal\u0161\u00ed informace"
+  },
+  "word_binary_upsave_msg": {
+    "message": "Form\u00e1t souboru nen\u00ed podporov\u00e1n. Chcete-li jej ulo\u017eit, pot\u0159ebujeme od v\u00e1s povolen\u00ed k p\u0159eveden\u00ed souboru na nov\u011bj\u0161\u00ed form\u00e1t. P\u016fvodn\u00ed soubor z\u016fstane nedot\u010den."
+  },
+  "word_binary_upsave_shortmsg": {
+    "message": "Aktualizace dokumentu"
+  },
+  "word_count_label": {
+    "message": "Po\u010det slov"
+  },
+  "word_count_title": {
+    "message": "Po\u010det slov"
+  },
+  "word_ocm_promo_conversion_msg": {
+    "message": "Soubory syst\u00e9mu Office m\u016f\u017eete upravovat a ukl\u00e1dat p\u0159\u00edmo v Dokumentech. Chcete-li k \u00faprav\u00e1m nebo p\u0159id\u00e1v\u00e1n\u00ed koment\u00e1\u0159\u016f pozvat ostatn\u00ed u\u017eivatele, ulo\u017ete soubor jako Dokument Google. Soubory m\u016f\u017eete kdykoli ulo\u017eit zp\u011bt do p\u016fvodn\u00edho form\u00e1tu."
+  },
+  "word_ocm_promo_office_editing_mode_msg": {
+    "message": "Soubory sady Office te\u010f m\u016f\u017eete upravovat a\u00a0ukl\u00e1dat p\u0159\u00edmo v\u00a0Dokumentech Google. Pokud chcete pozvat dal\u0161\u00ed lidi k\u00a0\u00faprav\u00e1m v\u00a0re\u00e1ln\u00e9m \u010dase nebo k\u00a0p\u0159id\u00e1v\u00e1n\u00ed koment\u00e1\u0159\u016f, nahrajte tento soubor na Disk Google. Form\u00e1t tohoto souboru se nezm\u011bn\u00ed."
+  },
+  "word_share_promo_conversion_msg": {
+    "message": "Pokou\u0161\u00edte se tento dokument sd\u00edlet? Chcete-li pozvat dal\u0161\u00ed u\u017eivatele, kte\u0159\u00ed jej s v\u00e1mi budou upravovat, p\u0159eve\u010fte ho na Dokument Google."
+  },
+  "working_in_basic_editor_banner_text": {
+    "message": "Pracujete v\u00a0z\u00e1kladn\u00edm editoru soubor\u016f Microsoft"
+  },
+  "word_share_promo_office_editing_mode_msg": {
+    "message": "Soubory sady Office te\u010f m\u016f\u017eete upravovat a\u00a0ukl\u00e1dat p\u0159\u00edmo v\u00a0Dokumentech Google. Pokud chcete pozvat dal\u0161\u00ed lidi k\u00a0\u00faprav\u00e1m v\u00a0re\u00e1ln\u00e9m \u010dase nebo k\u00a0p\u0159id\u00e1v\u00e1n\u00ed koment\u00e1\u0159\u016f, nahrajte tento soubor na Disk Google. Form\u00e1t tohoto souboru se nezm\u011bn\u00ed."
+  },
+  "wraptext_aria_spoken_word": {
+    "message": "obt\u00e9k\u00e1n\u00ed textu"
+  },
+  "zoomin_aria_spoken_word": {
+    "message": "p\u0159ibl\u00ed\u017eit"
+  },
+  "zoomout_aria_spoken_word": {
+    "message": "odd\u00e1lit"
+  }
+}

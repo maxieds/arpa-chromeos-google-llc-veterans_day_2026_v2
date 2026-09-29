@@ -1,0 +1,25 @@
+{
+  "app_url": "https://play.google.com/store/movies/installwebapp?usp=chrome_default",
+  "disable_if_arc_supported": true,
+  "feature_name": "MigrateDefaultChromeAppToWebAppsNonGSuite",
+  "launch_container": "window",
+  "load_and_await_service_worker_registration": false,
+  "offline_manifest": {
+    "display": "browser",
+    "icon_any_pngs": [
+      "movies.png"
+    ],
+    "name": "Play Movies",
+    "scope": "https://play.google.com/store/movies",
+    "start_url": "https://play.google.com/store/movies?usp=installed_webapp"
+  },
+  "only_if_previously_preinstalled": true,
+  "only_use_offline_manifest": true,
+  "uninstall_and_replace": [
+    "gdijeikdkaembjbdobgfkoidjkpbmlkd"
+  ],
+  "user_type": [
+    "unmanaged",
+    "managed"
+  ]
+}

@@ -1,0 +1,2333 @@
+{
+  "action_create_user_feedback": {
+    "message": "Sorun bildir"
+  },
+  "alt_key": {
+    "message": "Alt"
+  },
+  "always_use_office_editing_mode": {
+    "message": "Drive ve Gmail'deki desteklenen Office dosyalar\u0131 i\u00e7in bunu her zaman yap"
+  },
+  "app_error_learn_more": {
+    "message": "Daha fazla bilgi edinin"
+  },
+  "app_error_report_feedback": {
+    "message": "Geri bildirim g\u00f6nder"
+  },
+  "app_icon_aria_spoken_word": {
+    "message": " ana sayfa"
+  },
+  "app_nacl_crash_msg": {
+    "message": "Sorunu bildirerek bize yard\u0131mc\u0131 olun."
+  },
+  "app_nacl_crash_report": {
+    "message": "Sorun bildir..."
+  },
+  "app_nacl_crash_title": {
+    "message": "Hata. Bunun olmamas\u0131 gerekiyordu. De\u011fi\u015fikliklerinizi kurtarmak i\u00e7in sayfay\u0131 yeniden y\u00fckleyin."
+  },
+  "app_nacl_error_load_failed": {
+    "message": "Maalesef dosya a\u00e7\u0131lamad\u0131. Di\u011fer Chrome sekmelerini kapat\u0131n veya Chrome'u yeniden ba\u015flat\u0131n ve sonra tekrar deneyin. Sorun devam ederse a\u015fa\u011f\u0131dan bildirin."
+  },
+  "app_nacl_error_title": {
+    "message": "Dosya a\u00e7\u0131lam\u0131yor."
+  },
+  "app_nacl_error_unsupported_device": {
+    "message": "Bu cihaz, Dok\u00fcmanlar, E-tablolar ve Slaytlar i\u00e7in Office Belgeleri D\u00fczenleme Chrome uzant\u0131s\u0131n\u0131 desteklemiyor."
+  },
+  "app_saving_failed_error_msg": {
+    "message": "Maalesef dosya kaydedilirken bir sorun olu\u015ftu. Tekrar kaydetmeyi deneyin. Sorun devam ederse l\u00fctfen bildirin."
+  },
+  "app_saving_failed_error_short_msg": {
+    "message": "Dosya kaydedilemiyor."
+  },
+  "backgroundcolor_aria_spoken_word": {
+    "message": "h\u00fccre arka plan rengi a\u00e7\u0131l\u0131r listesi"
+  },
+  "banner_dismiss": {
+    "message": "Kapat"
+  },
+  "basic_editor_conversion_shortmsg": {
+    "message": "Temel d\u00fczenleyici modundas\u0131n\u0131z"
+  },
+  "basic_editor_mode": {
+    "message": "Temel d\u00fczenleyici"
+  },
+  "basic_editor_promo_conversion_msg": {
+    "message": "Microsoft dosyalar\u0131 i\u00e7in temel d\u00fczenleyici modunda \u00e7al\u0131\u015f\u0131yorsunuz. D\u00fczenleme se\u00e7enekleri s\u0131n\u0131rl\u0131 olabilir. Dosyan\u0131z, d\u00fczenleme s\u0131ras\u0131nda otomatik olarak kaydedilecek."
+  },
+  "bold_aria_spoken_word": {
+    "message": "kal\u0131n"
+  },
+  "border_all_aria_spoken_word": {
+    "message": "t\u00fcm kenarl\u0131k"
+  },
+  "border_aria_spoken_word": {
+    "message": "kenarl\u0131k a\u00e7\u0131l\u0131r listesi"
+  },
+  "border_bottom_aria_spoken_word": {
+    "message": "alt kenarl\u0131k"
+  },
+  "border_horizontal_aria_spoken_word": {
+    "message": "yatay kenarl\u0131k"
+  },
+  "border_inner_aria_spoken_word": {
+    "message": "i\u00e7 kenarl\u0131k"
+  },
+  "border_left_aria_spoken_word": {
+    "message": "sol kenarl\u0131k"
+  },
+  "border_none_aria_spoken_word": {
+    "message": "kenarl\u0131k yok"
+  },
+  "border_outer_aria_spoken_word": {
+    "message": "d\u0131\u015f kenarl\u0131k"
+  },
+  "border_right_aria_spoken_word": {
+    "message": "sa\u011f kenarl\u0131k"
+  },
+  "border_top_aria_spoken_word": {
+    "message": "\u00fcst kenarl\u0131k"
+  },
+  "border_vertical_aria_spoken_word": {
+    "message": "dikey kenarl\u0131k"
+  },
+  "button_drive_promo_office_editing_mode_point": {
+    "message": "Google Slaytlar'da a\u00e7"
+  },
+  "button_drive_promo_office_editing_mode_sheet": {
+    "message": "Google E-Tablolar'da a\u00e7"
+  },
+  "button_drive_promo_office_editing_mode_word": {
+    "message": "Google Dok\u00fcmanlar'da a\u00e7"
+  },
+  "button_ocm_convert_cancel": {
+    "message": "\u0130ptal"
+  },
+  "button_ocm_oem_cancel": {
+    "message": "\u0130ptal"
+  },
+  "button_ocm_promo_conversion_point": {
+    "message": "Google Slaytlar olarak kaydet"
+  },
+  "button_ocm_promo_conversion_sheet": {
+    "message": "Google E-Tablolar olarak kaydet"
+  },
+  "button_ocm_promo_conversion_word": {
+    "message": "Google Dok\u00fcmanlar olarak kaydet"
+  },
+  "button_ocm_promo_office_editing_mode_point": {
+    "message": "Drive'a y\u00fckleyip Slaytlar'da a\u00e7"
+  },
+  "button_ocm_promo_office_editing_mode_sheet": {
+    "message": "Drive'a y\u00fckleyip E-Tablolar'da a\u00e7"
+  },
+  "button_ocm_promo_office_editing_mode_word": {
+    "message": "Drive'a y\u00fckleyip Dok\u00fcmanlar'da a\u00e7"
+  },
+  "button_share_convert_cancel": {
+    "message": "\u0130ptal"
+  },
+  "button_share_oem_cancel": {
+    "message": "\u0130ptal"
+  },
+  "button_share_promo_conversion_point": {
+    "message": "Google Slaytlar olarak kaydet"
+  },
+  "button_share_promo_conversion_sheet": {
+    "message": "Google E-Tablolar olarak kaydet"
+  },
+  "button_share_promo_conversion_word": {
+    "message": "Google Dok\u00fcmanlar olarak kaydet"
+  },
+  "button_share_promo_office_editing_mode": {
+    "message": "Payla\u015fmak i\u00e7in Drive'a y\u00fckle"
+  },
+  "cell_align_aria_spoken_word": {
+    "message": "H\u00fccre Hizalama"
+  },
+  "cellalign_aria_spoken_word": {
+    "message": "h\u00fccre hizalama a\u00e7\u0131l\u0131r listesi"
+  },
+  "cellhaligncenter_aria_spoken_word": {
+    "message": "Yatay orta"
+  },
+  "cellhalignleft_aria_spoken_word": {
+    "message": "Yatay sol"
+  },
+  "cellhalignright_aria_spoken_word": {
+    "message": "Yatay sa\u011f"
+  },
+  "cellvalignbottom_aria_spoken_word": {
+    "message": "Dikey alt"
+  },
+  "cellvaligncenter_aria_spoken_word": {
+    "message": "Dikey orta"
+  },
+  "cellvaligntop_aria_spoken_word": {
+    "message": "Dikey \u00fcst"
+  },
+  "char_count_label": {
+    "message": "Karakter say\u0131s\u0131"
+  },
+  "char_no_spaces_count_label": {
+    "message": "Bo\u015fluklar hari\u00e7 karakter say\u0131s\u0131"
+  },
+  "close_dialog_aria_spoken_word": {
+    "message": "\u0130leti\u015fim kutusunu kapat"
+  },
+  "cmd_dropdown_initaddshape_aria_spoken_word": {
+    "message": "\u015fekil a\u00e7\u0131l\u0131r listesi"
+  },
+  "collapsed": {
+    "message": "Daralt\u0131lm\u0131\u015f"
+  },
+  "collapsed_menu": {
+    "message": "$1 Daralt\u0131lm\u0131\u015f (alt men\u00fcl\u00fc)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "color_black": {
+    "message": "Siyah"
+  },
+  "color_blaze_orange": {
+    "message": "Alev Turuncusu"
+  },
+  "color_blue": {
+    "message": "Mavi"
+  },
+  "color_brown": {
+    "message": "Kahverengi"
+  },
+  "color_cornflower_blue": {
+    "message": "Kantaron mavisi"
+  },
+  "color_cyan": {
+    "message": "Camg\u00f6be\u011fi"
+  },
+  "color_dark_blue": {
+    "message": "Koyu mavi"
+  },
+  "color_dark_blue_1": {
+    "message": "Koyu mavi 1"
+  },
+  "color_dark_blue_2": {
+    "message": "Koyu mavi 2"
+  },
+  "color_dark_blue_3": {
+    "message": "Koyu mavi 3"
+  },
+  "color_dark_blue_grey": {
+    "message": "Koyu mavi gri"
+  },
+  "color_dark_cornflower_blue_1": {
+    "message": "Koyu kantaron mavisi 1"
+  },
+  "color_dark_cornflower_blue_2": {
+    "message": "Koyu kantaron mavisi 2"
+  },
+  "color_dark_cornflower_blue_3": {
+    "message": "Koyu kantaron mavisi 3"
+  },
+  "color_dark_cyan": {
+    "message": "Koyu camg\u00f6be\u011fi"
+  },
+  "color_dark_cyan_1": {
+    "message": "Koyu camg\u00f6be\u011fi 1"
+  },
+  "color_dark_cyan_2": {
+    "message": "Koyu camg\u00f6be\u011fi 2"
+  },
+  "color_dark_cyan_3": {
+    "message": "Koyu camg\u00f6be\u011fi 3"
+  },
+  "color_dark_gray": {
+    "message": "Koyu gri"
+  },
+  "color_dark_gray_1": {
+    "message": "Koyu gri 1"
+  },
+  "color_dark_gray_2": {
+    "message": "Koyu gri 2"
+  },
+  "color_dark_gray_3": {
+    "message": "Koyu gri 3"
+  },
+  "color_dark_gray_4": {
+    "message": "Koyu gri 4"
+  },
+  "color_dark_green": {
+    "message": "Koyu ye\u015fil"
+  },
+  "color_dark_green_1": {
+    "message": "Koyu ye\u015fil 1"
+  },
+  "color_dark_green_2": {
+    "message": "Koyu ye\u015fil 2"
+  },
+  "color_dark_green_3": {
+    "message": "Koyu ye\u015fil 3"
+  },
+  "color_dark_green_5": {
+    "message": "Koyu ye\u015fil 5"
+  },
+  "color_dark_grey_2": {
+    "message": "Koyu gri 2"
+  },
+  "color_dark_grey_5": {
+    "message": "Koyu gri 5"
+  },
+  "color_dark_magenta_1": {
+    "message": "Koyu macenta 1"
+  },
+  "color_dark_magenta_2": {
+    "message": "Koyu macenta 2"
+  },
+  "color_dark_magenta_3": {
+    "message": "Koyu macenta 3"
+  },
+  "color_dark_olive_green": {
+    "message": "Koyu zeytin ye\u015fili"
+  },
+  "color_dark_orange_1": {
+    "message": "Koyu turuncu 1"
+  },
+  "color_dark_orange_2": {
+    "message": "Koyu turuncu 2"
+  },
+  "color_dark_orange_3": {
+    "message": "Koyu turuncu 3"
+  },
+  "color_dark_purple_1": {
+    "message": "Koyu mor 1"
+  },
+  "color_dark_purple_2": {
+    "message": "Koyu mor 2"
+  },
+  "color_dark_purple_3": {
+    "message": "Koyu mor 3"
+  },
+  "color_dark_red": {
+    "message": "Koyu k\u0131rm\u0131z\u0131"
+  },
+  "color_dark_red_1": {
+    "message": "Koyu k\u0131rm\u0131z\u0131 1"
+  },
+  "color_dark_red_2": {
+    "message": "Koyu k\u0131rm\u0131z\u0131 2"
+  },
+  "color_dark_red_3": {
+    "message": "Koyu k\u0131rm\u0131z\u0131 3"
+  },
+  "color_dark_red_berry_1": {
+    "message": "Koyu b\u00f6\u011f\u00fcrtlen k\u0131rm\u0131z\u0131s\u0131 1"
+  },
+  "color_dark_red_berry_2": {
+    "message": "Koyu b\u00f6\u011f\u00fcrtlen k\u0131rm\u0131z\u0131s\u0131 2"
+  },
+  "color_dark_red_berry_3": {
+    "message": "Koyu b\u00f6\u011f\u00fcrtlen k\u0131rm\u0131z\u0131s\u0131 3"
+  },
+  "color_dark_slate_blue": {
+    "message": "Koyu Kur\u015fun Mavisi"
+  },
+  "color_dark_yellow_1": {
+    "message": "Koyu sar\u0131 1"
+  },
+  "color_dark_yellow_2": {
+    "message": "Koyu sar\u0131 2"
+  },
+  "color_dark_yellow_3": {
+    "message": "Koyu sar\u0131 3"
+  },
+  "color_deep_pink": {
+    "message": "Koyu Pembe"
+  },
+  "color_deep_sky_blue": {
+    "message": "Koyu G\u00f6ky\u00fcz\u00fc Mavisi"
+  },
+  "color_eucalyptus_green": {
+    "message": "Okaliptus Ye\u015fili"
+  },
+  "color_gold": {
+    "message": "Alt\u0131n"
+  },
+  "color_gray": {
+    "message": "Gri"
+  },
+  "color_green": {
+    "message": "Ye\u015fil"
+  },
+  "color_light_blue": {
+    "message": "A\u00e7\u0131k Mavi"
+  },
+  "color_light_blue_1": {
+    "message": "A\u00e7\u0131k mavi 1"
+  },
+  "color_light_blue_2": {
+    "message": "A\u00e7\u0131k mavi 2"
+  },
+  "color_light_blue_3": {
+    "message": "A\u00e7\u0131k mavi 3"
+  },
+  "color_light_cornflower_blue_1": {
+    "message": "A\u00e7\u0131k kantaron mavisi 1"
+  },
+  "color_light_cornflower_blue_2": {
+    "message": "A\u00e7\u0131k kantaron mavisi 2"
+  },
+  "color_light_cornflower_blue_3": {
+    "message": "A\u00e7\u0131k kantaron mavisi 3"
+  },
+  "color_light_cyan": {
+    "message": "A\u00e7\u0131k Camg\u00f6be\u011fi"
+  },
+  "color_light_cyan_1": {
+    "message": "A\u00e7\u0131k camg\u00f6be\u011fi 1"
+  },
+  "color_light_cyan_2": {
+    "message": "A\u00e7\u0131k camg\u00f6be\u011fi 2"
+  },
+  "color_light_cyan_3": {
+    "message": "A\u00e7\u0131k camg\u00f6be\u011fi 3"
+  },
+  "color_light_gray": {
+    "message": "A\u00e7\u0131k gri"
+  },
+  "color_light_gray_1": {
+    "message": "A\u00e7\u0131k gri 1"
+  },
+  "color_light_gray_2": {
+    "message": "A\u00e7\u0131k gri 2"
+  },
+  "color_light_gray_3": {
+    "message": "A\u00e7\u0131k gri 3"
+  },
+  "color_light_green": {
+    "message": "A\u00e7\u0131k Ye\u015fil"
+  },
+  "color_light_green_1": {
+    "message": "A\u00e7\u0131k ye\u015fil 1"
+  },
+  "color_light_green_2": {
+    "message": "A\u00e7\u0131k ye\u015fil 2"
+  },
+  "color_light_green_3": {
+    "message": "A\u00e7\u0131k ye\u015fil 3"
+  },
+  "color_light_magenta_1": {
+    "message": "A\u00e7\u0131k macenta 1"
+  },
+  "color_light_magenta_2": {
+    "message": "A\u00e7\u0131k macenta 2"
+  },
+  "color_light_magenta_3": {
+    "message": "A\u00e7\u0131k macenta 3"
+  },
+  "color_light_orange_1": {
+    "message": "A\u00e7\u0131k turuncu 1"
+  },
+  "color_light_orange_2": {
+    "message": "A\u00e7\u0131k turuncu 2"
+  },
+  "color_light_orange_3": {
+    "message": "A\u00e7\u0131k turuncu 3"
+  },
+  "color_light_purple": {
+    "message": "A\u00e7\u0131k Mor"
+  },
+  "color_light_purple_1": {
+    "message": "A\u00e7\u0131k mor 1"
+  },
+  "color_light_purple_2": {
+    "message": "A\u00e7\u0131k mor 2"
+  },
+  "color_light_purple_3": {
+    "message": "A\u00e7\u0131k mor 3"
+  },
+  "color_light_red_1": {
+    "message": "A\u00e7\u0131k k\u0131rm\u0131z\u0131 1"
+  },
+  "color_light_red_2": {
+    "message": "A\u00e7\u0131k k\u0131rm\u0131z\u0131 2"
+  },
+  "color_light_red_3": {
+    "message": "A\u00e7\u0131k k\u0131rm\u0131z\u0131 3"
+  },
+  "color_light_red_berry_1": {
+    "message": "A\u00e7\u0131k b\u00f6\u011f\u00fcrtlen k\u0131rm\u0131z\u0131s\u0131 1"
+  },
+  "color_light_red_berry_2": {
+    "message": "A\u00e7\u0131k b\u00f6\u011f\u00fcrtlen k\u0131rm\u0131z\u0131s\u0131 2"
+  },
+  "color_light_red_berry_3": {
+    "message": "A\u00e7\u0131k b\u00f6\u011f\u00fcrtlen k\u0131rm\u0131z\u0131s\u0131 3"
+  },
+  "color_light_yellow": {
+    "message": "A\u00e7\u0131k Sar\u0131"
+  },
+  "color_light_yellow_1": {
+    "message": "A\u00e7\u0131k sar\u0131 1"
+  },
+  "color_light_yellow_2": {
+    "message": "A\u00e7\u0131k sar\u0131 2"
+  },
+  "color_light_yellow_3": {
+    "message": "A\u00e7\u0131k sar\u0131 3"
+  },
+  "color_magenta": {
+    "message": "Macenta"
+  },
+  "color_maroon": {
+    "message": "Bordo"
+  },
+  "color_midnight_blue": {
+    "message": "Gece Mavisi"
+  },
+  "color_navy": {
+    "message": "Lacivert"
+  },
+  "color_olive": {
+    "message": "Zeytin"
+  },
+  "color_orange": {
+    "message": "Turuncu"
+  },
+  "color_peach": {
+    "message": "\u015eeftali"
+  },
+  "color_pink": {
+    "message": "Pembe"
+  },
+  "color_pistachio": {
+    "message": "F\u0131st\u0131k"
+  },
+  "color_purple": {
+    "message": "Mor"
+  },
+  "color_red": {
+    "message": "K\u0131rm\u0131z\u0131"
+  },
+  "color_red_berry": {
+    "message": "B\u00f6\u011f\u00fcrtlen k\u0131rm\u0131z\u0131s\u0131"
+  },
+  "color_royal_blue": {
+    "message": "Kraliyet Mavisi"
+  },
+  "color_teal": {
+    "message": "Teal"
+  },
+  "color_turquiose": {
+    "message": "Turkuaz"
+  },
+  "color_white": {
+    "message": "Beyaz"
+  },
+  "color_yellow": {
+    "message": "Sar\u0131"
+  },
+  "command_key": {
+    "message": "Komut"
+  },
+  "content_msg_merging_horizontally_across_vertical_section": {
+    "message": "Dikey olarak birle\u015ftirilmi\u015f mevcut bir b\u00f6l\u00fcmde yatay birle\u015ftirme yapamazs\u0131n\u0131z."
+  },
+  "content_msg_merging_multiple_cells_with_text": {
+    "message": "H\u00fccreler birle\u015ftirildi\u011finde yaln\u0131zca en sol \u00fcstteki de\u011fer korunacak. Yine de birle\u015ftirilsin mi?"
+  },
+  "content_msg_merging_partially_selected_merged_cells": {
+    "message": "H\u00fccreleri birle\u015ftirmek veya \u00e7\u00f6zmek i\u00e7in birle\u015ftirilmi\u015f bir aral\u0131ktaki t\u00fcm h\u00fccreleri se\u00e7melisiniz."
+  },
+  "content_msg_merging_vertically_across_horizontal_section": {
+    "message": "Yatay olarak birle\u015ftirilmi\u015f mevcut bir b\u00f6l\u00fcmde dikey birle\u015ftirme yapamazs\u0131n\u0131z."
+  },
+  "content_render_error_msg": {
+    "message": "Bu dok\u00fcman\u0131n i\u00e7eri\u011fiyle ilgili bir sorun olu\u015ftu."
+  },
+  "context_menu_clipboard_copy": {
+    "message": "Kopyala"
+  },
+  "context_menu_delete": {
+    "message": "Sil"
+  },
+  "context_menu_freeze": {
+    "message": "Dondur"
+  },
+  "context_menu_insert": {
+    "message": "Ekle"
+  },
+  "context_menu_sort_collation_ascending": {
+    "message": "S\u0131rala (a-z)"
+  },
+  "context_menu_sort_collation_descending": {
+    "message": "S\u0131rala (z-a)"
+  },
+  "context_menu_unfreeze": {
+    "message": "\u00c7\u00f6z"
+  },
+  "control_key": {
+    "message": "Kontrol"
+  },
+  "convert_attempt_for_sheet_with_large_file_size": {
+    "message": "Bu dosya, Google E-Tablosu olarak kaydedilemeyecek kadar b\u00fcy\u00fck"
+  },
+  "convert_attempt_for_slide_with_large_file_size": {
+    "message": "Bu dosya, Google Slaytlar sunusu olarak kaydedilemeyecek kadar b\u00fcy\u00fck"
+  },
+  "convert_attempt_for_word_with_large_file_size": {
+    "message": "Bu dosya, Google Dok\u00fcman\u0131 olarak kaydedilemeyecek kadar b\u00fcy\u00fck"
+  },
+  "convert_attempt_when_offline": {
+    "message": "Google Dok\u00fcmanlar olarak kaydetmek i\u00e7in \u00e7evrimi\u00e7i olman\u0131z gerekir. Ba\u011flant\u0131n\u0131z kuruldu\u011funda tekrar deneyin."
+  },
+  "convert_attempt_with_invalid_creds": {
+    "message": "Bu dosyay\u0131 d\u00f6n\u00fc\u015ft\u00fcrmek i\u00e7in Google Hesab\u0131n\u0131zda oturum a\u00e7man\u0131z gerekir."
+  },
+  "convert_cancel": {
+    "message": "\u0130ptal"
+  },
+  "convert_to_google_docs_failed": {
+    "message": "Dok\u00fcman\u0131n\u0131z Google Dok\u00fcmanlar'a d\u00f6n\u00fc\u015ft\u00fcr\u00fcl\u00fcrken bir sorun olu\u015ftu."
+  },
+  "convert_to_google_point_fail_short_msg": {
+    "message": "Hata"
+  },
+  "convert_to_google_point_short_msg": {
+    "message": "Google Slaytlar olarak kaydediliyor"
+  },
+  "convert_to_google_sheet_fail_short_msg": {
+    "message": "Hata"
+  },
+  "convert_to_google_sheet_short_msg": {
+    "message": "Google E-Tablolar olarak kaydediliyor"
+  },
+  "convert_to_google_word_fail_short_msg": {
+    "message": "Hata"
+  },
+  "convert_to_google_word_short_msg": {
+    "message": "Google Dok\u00fcmanlar olarak kaydediliyor"
+  },
+  "convert_try_again": {
+    "message": "Tekrar Dene"
+  },
+  "converting_to_google_point_fail_msg": {
+    "message": "Dosyan\u0131z\u0131 \u015fu anda Google Slaytlar dosyas\u0131 olarak kaydedemedik."
+  },
+  "converting_to_google_point_msg": {
+    "message": "Sununuzun yeni bir s\u00fcr\u00fcm\u00fc Google Slaytlar dosyas\u0131 olarak kaydediliyor."
+  },
+  "converting_to_google_sheet_fail_msg": {
+    "message": "Dosyan\u0131z\u0131 \u015fu anda Google E-Tablolar dosyas\u0131 olarak kaydedemedik."
+  },
+  "converting_to_google_sheet_msg": {
+    "message": "E-tablonuzun yeni bir s\u00fcr\u00fcm\u00fc Google E-Tablolar dosyas\u0131 olarak kaydediliyor."
+  },
+  "converting_to_google_word_fail_msg": {
+    "message": "Dosyan\u0131z\u0131 \u015fu anda Google Dok\u00fcmanlar dosyas\u0131 olarak kaydedemedik."
+  },
+  "converting_to_google_word_msg": {
+    "message": "Dosyan\u0131z\u0131n yeni bir s\u00fcr\u00fcm\u00fc Google Dok\u00fcmanlar dosyas\u0131 olarak kaydediliyor."
+  },
+  "copy_attempt_when_offline": {
+    "message": "Google Drive'da bir kopya olu\u015fturmak i\u00e7in \u00e7evrimi\u00e7i olman\u0131z gerekmektedir. Ba\u011flant\u0131n\u0131z tekrar kuruldu\u011funda yeniden deneyin."
+  },
+  "copy_attempt_with_invalid_creds": {
+    "message": "Bir kopya olu\u015fturmak i\u00e7in Google Hesab\u0131n\u0131zda oturum a\u00e7man\u0131z gerekmektedir."
+  },
+  "disabled_share_button": {
+    "message": "Makro i\u00e7eren dosyalar yaln\u0131zca Google Drive'dan payla\u015f\u0131labilir. Payla\u015f\u0131m devre d\u0131\u015f\u0131 b\u0131rak\u0131ld\u0131."
+  },
+  "disallowed_cut_copy_paste_cmd_copy": {
+    "message": "kopyalama i\u00e7in"
+  },
+  "disallowed_cut_copy_paste_cmd_cut": {
+    "message": "kesme i\u00e7in"
+  },
+  "disallowed_cut_copy_paste_cmd_paste": {
+    "message": "yap\u0131\u015ft\u0131rma i\u00e7in"
+  },
+  "disallowed_cut_copy_paste_msg": {
+    "message": "Bu i\u015flemler D\u00fczenle ve \u0130\u00e7erik men\u00fcleri kullan\u0131larak ger\u00e7ekle\u015ftirilemez. Ancak, \u015funlar\u0131 yine kullanabilirsiniz:"
+  },
+  "disallowed_cut_copy_paste_title": {
+    "message": "Office Uyumluluk Modu'nda Kopyalama ve Yap\u0131\u015ft\u0131rma"
+  },
+  "dismiss": {
+    "message": "Kapat"
+  },
+  "document_title_aria_spoken_word": {
+    "message": "Dok\u00fcman ba\u015fl\u0131\u011f\u0131:"
+  },
+  "down_key": {
+    "message": "A\u015fa\u011f\u0131"
+  },
+  "download_button": {
+    "message": "\u0130ndir"
+  },
+  "download_file_timeout_error_msg": {
+    "message": "A\u00e7maya \u00e7al\u0131\u015ft\u0131\u011f\u0131n\u0131z dosyan\u0131n y\u00fcklenmesi beklenenden uzun s\u00fcr\u00fcyor. A\u011f ba\u011flant\u0131n\u0131z\u0131 kontrol edin ve tekrar deneyin."
+  },
+  "download_file_timeout_error_short_msg": {
+    "message": "Dosyan\u0131n indirilmesi beklenenden uzun s\u00fcr\u00fcyor"
+  },
+  "download_original": {
+    "message": "Orijinalini indir"
+  },
+  "drive_open_timeout_error_msg": {
+    "message": "\u0130nternet ba\u011flant\u0131n\u0131zda sorun olabilir gibi g\u00f6r\u00fcn\u00fcyor. L\u00fctfen ba\u011flant\u0131n\u0131z\u0131 kontrol edin ve dosyay\u0131 tekrar a\u00e7may\u0131 deneyin. Bu hatay\u0131 almaya devam ederseniz ve \u00e7evrimi\u00e7iyseniz l\u00fctfen a\u015fa\u011f\u0131da bir sorun bildiriminde bulunun."
+  },
+  "drive_open_timeout_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "duplicate_sheet_name_message": {
+    "message": "Ba\u015fka bir sayfa taraf\u0131ndan kullan\u0131lmayan bir sayfa ad\u0131 girin"
+  },
+  "duplicate_sheet_name_title": {
+    "message": "Bu sayfa ad\u0131 zaten kullan\u0131l\u0131yor"
+  },
+  "editing_options_limited_banner_text": {
+    "message": "D\u00fczenleme se\u00e7enekleri s\u0131n\u0131rl\u0131 olabilir. Dosyan\u0131z, d\u00fczenleme s\u0131ras\u0131nda otomatik olarak kaydedilecek."
+  },
+  "edits_not_being_saved": {
+    "message": "D\u00fczenlemeler otomatik olarak kaydedilmeyecek."
+  },
+  "edits_now_being_auto_saved": {
+    "message": "Dosya kaydedildi. T\u00fcm d\u00fczenlemeler \u015fimdi otomatik olarak kaydedilecek."
+  },
+  "entry_point_error_msg": {
+    "message": "L\u00fctfen tekrar deneyin veya a\u015fa\u011f\u0131da bir sorun bildirin."
+  },
+  "entry_point_error_short_msg": {
+    "message": "Hata. Hangi dosyay\u0131 a\u00e7mak istedi\u011finizi belirleyemedik."
+  },
+  "error_occurred": {
+    "message": "Bir hata olu\u015ftu."
+  },
+  "error_password_required_msg": {
+    "message": "Korunan dosyalar \u015fu anda desteklenmiyor, ancak bunun i\u00e7in \u00e7al\u0131\u015fmalar\u0131m\u0131z devam ediyor."
+  },
+  "error_password_required_short_msg": {
+    "message": "Dosya \u015fifreyle korunuyor."
+  },
+  "expanded": {
+    "message": "Geni\u015fletilmi\u015f"
+  },
+  "expanded_menu": {
+    "message": "$1 Geni\u015fletilmi\u015f (alt men\u00fcl\u00fc).",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "extension_cros_name": {
+    "message": "Office dosyalar\u0131 i\u00e7in Basic Editor"
+  },
+  "extension_description": {
+    "message": "Microsoft Word, Excel, PowerPoint dosyalar\u0131n\u0131 Google Dok\u00fcmanlar, E-Tablolar, Slaytlar'da g\u00f6r\u00fcnt\u00fcleyebilir ve d\u00fczenleyebilirsiniz."
+  },
+  "extension_name": {
+    "message": "Office Belgeleri D\u00fczenleme"
+  },
+  "extension_popup_message_body": {
+    "message": "Mevcut dosyalar\u0131 a\u00e7mak i\u00e7in s\u00fcr\u00fckleyip taray\u0131c\u0131ya b\u0131rak\u0131n"
+  },
+  "extension_popup_new_document_header": {
+    "message": "Yeni..."
+  },
+  "extension_popup_new_presentation_document": {
+    "message": "PowerPoint sunusu"
+  },
+  "extension_popup_new_spreadsheet_document": {
+    "message": "Excel e-tablosu"
+  },
+  "extension_popup_new_word_document": {
+    "message": "Word dok\u00fcman\u0131"
+  },
+  "feedback_textbox_editing": {
+    "message": "L\u00fctfen metin kutular\u0131n\u0131n i\u00e7indeki metnin d\u00fczenlenmesini destekleyin."
+  },
+  "feedback_ui_template": {
+    "message": "1- L\u00fctfen kar\u015f\u0131la\u015ft\u0131\u011f\u0131n\u0131z sorunu a\u00e7\u0131klay\u0131n.\n2- Sorun bir dosyay\u0131 a\u00e7maya m\u0131 yoksa bir dosyay\u0131 d\u00fczenlemeye mi \u00e7al\u0131\u015f\u0131rken olu\u015ftu?\n3- Bu sorun herhangi bir dosyay\u0131 a\u00e7may\u0131 veya d\u00fczenlemeyi her denedi\u011finizde mi,\nyoksa sadece belli dosyalarda m\u0131 ortaya \u00e7\u0131k\u0131yor?\n\nBu sorun belli bir dosyaya \u00f6zelse sorunu daha kapsaml\u0131 incelememize yard\u0131mc\u0131 olaca\u011f\u0131ndan l\u00fctfen s\u00f6z konusu dosyay\u0131 bu rapora ekleyin."
+  },
+  "file_does_not_exist_error_details": {
+    "message": "Bu dosya mevcut de\u011fil. Payla\u015f\u0131lan bir ba\u011flant\u0131y\u0131 veya yer i\u015fareti koyulmu\u015f bir dok\u00fcman\u0131 a\u00e7maya \u00e7al\u0131\u015fm\u0131\u015f olabilirsiniz. L\u00fctfen dosyay\u0131 orijinal kayna\u011f\u0131ndan yeniden a\u00e7may\u0131 deneyin."
+  },
+  "file_does_not_exist_error_title": {
+    "message": "Dosya bulunamad\u0131."
+  },
+  "file_loading_spinner_label": {
+    "message": "Y\u00fckleniyor"
+  },
+  "file_missing_content_msg": {
+    "message": "Bu dosyan\u0131n t\u00fcm i\u00e7eri\u011fi okunurken bir sorun olu\u015ftu. Dosyay\u0131 yeniden adland\u0131r\u0131p tekrar a\u00e7may\u0131 denemenizi \u00f6neririz."
+  },
+  "file_missing_content_short_msg": {
+    "message": "Dok\u00fcmanda i\u00e7erik yok."
+  },
+  "file_not_found_error_msg": {
+    "message": "L\u00fctfen dosyaya eri\u015fim iznine sahip oldu\u011funuzdan emin olmak i\u00e7in dosyan\u0131n sahibine dan\u0131\u015f\u0131n. Bu hatay\u0131 almaya devam ederseniz ve eri\u015fim izniniz varsa l\u00fctfen a\u015fa\u011f\u0131da bir sorun bildiriminde bulunun."
+  },
+  "file_not_found_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "file_not_found_exception": {
+    "message": "\u0130stenen dosya silinmi\u015f, yeniden adland\u0131r\u0131lm\u0131\u015f veya ba\u015fka bir konuma ta\u015f\u0131nm\u0131\u015f olabilir. \u0130lerlemek i\u00e7in l\u00fctfen \"\u015eimdi kaydet\"i t\u0131klay\u0131n."
+  },
+  "file_not_found_link_text": {
+    "message": "Birden fazla hesapla ilgili yard\u0131m i\u00e7in l\u00fctfen bu makaleye bak\u0131n"
+  },
+  "file_not_found_msg": {
+    "message": "\u0130stedi\u011finiz dosya ta\u015f\u0131nd\u0131."
+  },
+  "file_not_found_title": {
+    "message": "Dosya bulunamad\u0131."
+  },
+  "file_open_crash_error_msg": {
+    "message": "Hatayla kar\u015f\u0131la\u015fmaya devam ederseniz l\u00fctfen a\u015fa\u011f\u0131da sorunu bildirin."
+  },
+  "file_open_crash_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "file_open_error_msg": {
+    "message": "Bu dosyan\u0131n i\u00e7eri\u011fine eri\u015filemiyor."
+  },
+  "file_open_error_short_msg": {
+    "message": "Dosya bozuk g\u00f6r\u00fcn\u00fcyor."
+  },
+  "file_open_fail_download_link_text": {
+    "message": "Dosyay\u0131 indir"
+  },
+  "file_opened_in_incognito_mode_error_details": {
+    "message": "Office dosyalar\u0131n\u0131 d\u00fczenleme uzant\u0131s\u0131 Gizli modda \u00e7al\u0131\u015fmaz. L\u00fctfen bu dosyay\u0131 normal bir Chrome penceresi kullanarak a\u00e7\u0131n. Misafir modunu kullan\u0131yorsan\u0131z dosya a\u00e7\u0131lamaz. L\u00fctfen dosyan\u0131z\u0131n bozuk veya ge\u00e7ersiz bir dok\u00fcman t\u00fcr\u00fcnde olmad\u0131\u011f\u0131ndan emin olun ve tekrar deneyin."
+  },
+  "file_opened_in_incognito_mode_error_title": {
+    "message": "Hata! Gizli mod desteklenmez"
+  },
+  "file_pdf_type_rename_msg": {
+    "message": "Dosyan\u0131n ad\u0131n\u0131 $1.pdf olarak de\u011fi\u015ftirin ve tekrar deneyin.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_rtf_type_rename_msg": {
+    "message": "Dosyan\u0131n ad\u0131n\u0131 $1.rtf olarak de\u011fi\u015ftirin",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_type_unsupported_msg": {
+    "message": "Bu dosya t\u00fcr\u00fc desteklenmiyor."
+  },
+  "fillcolor_aria_spoken_word": {
+    "message": "metin rengi a\u00e7\u0131l\u0131r listesi"
+  },
+  "fontface_aria_spoken_word": {
+    "message": "yaz\u0131 tipi a\u00e7\u0131l\u0131r listesi"
+  },
+  "fontsize_aria_spoken_word": {
+    "message": "yaz\u0131 tipi boyutu a\u00e7\u0131l\u0131r listesi"
+  },
+  "forbidden_access_level_error_msg": {
+    "message": "L\u00fctfen bu dosyay\u0131 a\u00e7ma izniniz oldu\u011fundan emin olmak \u00fczere dosyan\u0131n sahibine dan\u0131\u015f\u0131n. Bu hatay\u0131 almaya devam ederseniz l\u00fctfen a\u015fa\u011f\u0131da bir sorun bildiriminde bulunun."
+  },
+  "forbidden_access_level_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "forbidden_app_access_error_msg": {
+    "message": "Baz\u0131 sebeplerden dolay\u0131 bu dosyay\u0131 a\u00e7ma iznimiz bulunmamaktad\u0131r. L\u00fctfen dosyay\u0131 Google Drive'dan a\u00e7may\u0131 deneyin ya da a\u015fa\u011f\u0131da bir sorun bildiriminde bulunun."
+  },
+  "forbidden_app_access_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "forbidden_app_id_error_msg": {
+    "message": "Chrome uzant\u0131s\u0131 d\u00fczg\u00fcn yap\u0131land\u0131r\u0131lmam\u0131\u015f gibi g\u00f6r\u00fcn\u00fcyor. Bu nas\u0131l olabilir? Tam olarak emin de\u011filiz, ama l\u00fctfen a\u015fa\u011f\u0131da bir sorun bildiriminde bulunun."
+  },
+  "forbidden_app_id_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "forbidden_blacklist_error_msg": {
+    "message": "Bu Chrome uzant\u0131s\u0131 kara listeye al\u0131nm\u0131\u015f gibi g\u00f6r\u00fcn\u00fcyor. Bu kesinlikle bir hatad\u0131r, bu nedenle l\u00fctfen a\u015fa\u011f\u0131da sorun bildiriminde bulunarak bizi bu konuda bilgilendirin."
+  },
+  "forbidden_blacklist_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "forbidden_domain_error_msg": {
+    "message": "Alan ad\u0131n\u0131z bu dosyaya eri\u015fimi k\u0131s\u0131tlam\u0131\u015f gibi g\u00f6r\u00fcn\u00fcyor. L\u00fctfen alan ad\u0131 y\u00f6neticiniz ile irtibata ge\u00e7in veya a\u015fa\u011f\u0131da bir sorun bildiriminde bulunun."
+  },
+  "forbidden_domain_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "forbidden_internal_error_msg": {
+    "message": "Ne yaz\u0131k ki Google Drive beklendi\u011fi gibi \u00e7al\u0131\u015fm\u0131yor. L\u00fctfen dosyan\u0131z\u0131 yeniden a\u00e7may\u0131 deneyin veya a\u015fa\u011f\u0131da bir sorun bildiriminde bulunun."
+  },
+  "forbidden_internal_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "forbidden_not_installed_error_msg": {
+    "message": "Chrome uzant\u0131s\u0131 d\u00fczg\u00fcn y\u00fcklenmemi\u015f gibi g\u00f6r\u00fcn\u00fcyor. Bu nas\u0131l olabilir? Tam olarak emin de\u011filiz, ama l\u00fctfen a\u015fa\u011f\u0131da bir sorun bildiriminde bulunun."
+  },
+  "forbidden_not_installed_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "generic_error_msg": {
+    "message": "Bu dok\u00fcman\u0131n i\u00e7eri\u011fiyle ilgili bir sorun olu\u015ftu."
+  },
+  "generic_error_short_msg": {
+    "message": "Hata. Bunun olmamas\u0131 gerekiyordu. De\u011fi\u015fikliklerinizi kurtarmak i\u00e7in sayfay\u0131 yeniden y\u00fckleyin."
+  },
+  "get_lists_data_error_msg": {
+    "message": "Dok\u00fcman olu\u015fturulurken hatal\u0131 liste bi\u00e7imlendirmeleri i\u00e7erebilir."
+  },
+  "get_lists_data_error_short_msg": {
+    "message": "Dok\u00fcman bi\u00e7imlendirmesi al\u0131namad\u0131."
+  },
+  "highlightcolor_aria_spoken_word": {
+    "message": "metin vurgulama rengi a\u00e7\u0131l\u0131r listesi"
+  },
+  "http_error_zero_msg": {
+    "message": "A\u011f sorunu olmad\u0131\u011f\u0131ndan emin olmak i\u00e7in l\u00fctfen ba\u011flant\u0131n\u0131z\u0131 kontrol edin veya daha sonra tekrar deneyin. Sorun devam ederse a\u015fa\u011f\u0131da bildirin."
+  },
+  "http_error_zero_short_msg": {
+    "message": "Maalesef dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "info_file_copied": {
+    "message": "Kaydedildi"
+  },
+  "info_file_save_cancelled": {
+    "message": "Kaydetme i\u015flemi iptal edildi."
+  },
+  "info_file_save_failed": {
+    "message": "Kaydedilemedi."
+  },
+  "info_file_saved_at_location": {
+    "message": "T\u00fcm de\u011fi\u015fiklikler $1 konumuna kaydedildi",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "info_file_saved_in_drive": {
+    "message": "T\u00fcm de\u011fi\u015fiklikler Drive'a kaydedildi"
+  },
+  "info_file_saved_locally": {
+    "message": "T\u00fcm de\u011fi\u015fiklikler yerel olarak kaydedildi"
+  },
+  "info_file_saved_offline": {
+    "message": "T\u00fcm de\u011fi\u015fiklikler \u00e7evrimd\u0131\u015f\u0131 olarak kaydedildi"
+  },
+  "info_file_saving": {
+    "message": "Kaydediliyor\u2026"
+  },
+  "initaddshape_aria_spoken_word": {
+    "message": "metin ekle kutusu"
+  },
+  "invalid_credentials_error_msg": {
+    "message": "Bu dosyaya eri\u015febilmek i\u00e7in Google Hesab\u0131n\u0131zda oturum a\u00e7man\u0131z gerekir."
+  },
+  "invalid_credentials_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "invalid_file_format_msg": {
+    "message": "Dosya bir Office dok\u00fcman\u0131 gibi g\u00f6r\u00fcnse ve Office dosyas\u0131 uzant\u0131s\u0131na sahip olsa da, ger\u00e7ekte bir \u015fekilde yeniden adland\u0131r\u0131lm\u0131\u015f veya ad\u0131 de\u011fi\u015ftirilmi\u015f ya da desteklemedi\u011fimiz farkl\u0131 bir dosya t\u00fcr\u00fcne sahip."
+  },
+  "invalid_file_format_short_msg": {
+    "message": "Hata, g\u00f6r\u00fcn\u00fc\u015fe g\u00f6re bu dosya t\u00fcr\u00fcn\u00fc a\u00e7am\u0131yoruz."
+  },
+  "italic_aria_spoken_word": {
+    "message": "italik"
+  },
+  "keyboard_shortcut_group_actions": {
+    "message": "\u0130\u015flemler"
+  },
+  "keyboard_shortcut_group_other": {
+    "message": "Di\u011fer"
+  },
+  "keyboard_shortcut_group_paragraph_formatting": {
+    "message": "Paragraf bi\u00e7imlendirme"
+  },
+  "keyboard_shortcut_group_text_formatting": {
+    "message": "Metin Bi\u00e7imlendirme"
+  },
+  "keyboard_shortcut_group_top_menus": {
+    "message": "Men\u00fcler"
+  },
+  "keyboard_shortcut_group_with_slides": {
+    "message": "Slaytlarla"
+  },
+  "keyboard_shortcut_title": {
+    "message": "Klavye K\u0131sayollar\u0131"
+  },
+  "large_file_size_dialog_title_for_sheet": {
+    "message": "Dosya, Google E-Tablosu olarak kaydedilemiyor"
+  },
+  "large_file_size_dialog_title_for_slide": {
+    "message": "Dosya, Google Slaytlar sunusu olarak kaydedilemiyor"
+  },
+  "large_file_size_dialog_title_for_word": {
+    "message": "Dosya, Google Dok\u00fcman\u0131 olarak kaydedilemiyor"
+  },
+  "make_a_copy_fail_msg": {
+    "message": "\u015eu anda bir kopya olu\u015fturam\u0131yoruz."
+  },
+  "menu_button_data": {
+    "message": "Veri"
+  },
+  "menu_button_edit": {
+    "message": "D\u00fczenle"
+  },
+  "menu_button_file": {
+    "message": "Dosya"
+  },
+  "menu_button_format": {
+    "message": "Bi\u00e7im"
+  },
+  "menu_button_help": {
+    "message": "Yard\u0131m"
+  },
+  "menu_button_insert": {
+    "message": "Ekle"
+  },
+  "menu_button_slide": {
+    "message": "Slayt"
+  },
+  "menu_button_tools": {
+    "message": "Ara\u00e7lar"
+  },
+  "menu_button_view": {
+    "message": "G\u00f6r\u00fcnt\u00fcle"
+  },
+  "menu_item_10_point_star": {
+    "message": "10-Nokta Y\u0131ld\u0131z"
+  },
+  "menu_item_12_point_star": {
+    "message": "12-Nokta Y\u0131ld\u0131z"
+  },
+  "menu_item_16_point_star": {
+    "message": "16-Nokta Y\u0131ld\u0131z"
+  },
+  "menu_item_24_point_star": {
+    "message": "24-Nokta Y\u0131ld\u0131z"
+  },
+  "menu_item_32_point_star": {
+    "message": "32-Nokta Y\u0131ld\u0131z"
+  },
+  "menu_item_4_point_star": {
+    "message": "4-Nokta Y\u0131ld\u0131z"
+  },
+  "menu_item_5_point_star": {
+    "message": "5-Nokta Y\u0131ld\u0131z"
+  },
+  "menu_item_6_point_star": {
+    "message": "6-Nokta Y\u0131ld\u0131z"
+  },
+  "menu_item_7_point_star": {
+    "message": "7-Nokta Y\u0131ld\u0131z"
+  },
+  "menu_item_8_point_star": {
+    "message": "8-Nokta Y\u0131ld\u0131z"
+  },
+  "menu_item_align": {
+    "message": "Hizala"
+  },
+  "menu_item_align_center": {
+    "message": "Ortala"
+  },
+  "menu_item_align_justified": {
+    "message": "Yaslanm\u0131\u015f"
+  },
+  "menu_item_align_left": {
+    "message": "Sol"
+  },
+  "menu_item_align_right": {
+    "message": "Sa\u011f"
+  },
+  "menu_item_arrows": {
+    "message": "Oklar"
+  },
+  "menu_item_bent_arrow": {
+    "message": "B\u00fck\u00fcl\u00fc Ok"
+  },
+  "menu_item_bent_up_arrow": {
+    "message": "Yukar\u0131 B\u00fck\u00fcl\u00fc Ok"
+  },
+  "menu_item_bevel": {
+    "message": "E\u011fim"
+  },
+  "menu_item_block_arc": {
+    "message": "Blok Yay"
+  },
+  "menu_item_bold": {
+    "message": "Kal\u0131n"
+  },
+  "menu_item_callouts": {
+    "message": "A\u00e7\u0131klama metinleri"
+  },
+  "menu_item_can": {
+    "message": "Silindir"
+  },
+  "menu_item_chevron": {
+    "message": "Banner"
+  },
+  "menu_item_chord": {
+    "message": "Grup Sohbeti"
+  },
+  "menu_item_clear_formatting": {
+    "message": "Bi\u00e7imlendirmeyi temizle"
+  },
+  "menu_item_cloud": {
+    "message": "Bulut"
+  },
+  "menu_item_cloud_callout": {
+    "message": "Konu\u015fma Bulutu"
+  },
+  "menu_item_color_none": {
+    "message": "Yok"
+  },
+  "menu_item_color_transparent": {
+    "message": "\u015eeffaf"
+  },
+  "menu_item_convert_to_docs": {
+    "message": "Google Dok\u00fcmanlar olarak kaydet"
+  },
+  "menu_item_convert_to_sheets": {
+    "message": "Google E-Tablolar olarak kaydet"
+  },
+  "menu_item_convert_to_slides": {
+    "message": "Google Slaytlar olarak kaydet"
+  },
+  "menu_item_copy": {
+    "message": "Kopyala"
+  },
+  "menu_item_cross": {
+    "message": "\u00c7apraz"
+  },
+  "menu_item_cube": {
+    "message": "K\u00fcp"
+  },
+  "menu_item_curved_down_arrow": {
+    "message": "A\u015fa\u011f\u0131 E\u011fik Ok"
+  },
+  "menu_item_curved_left_arrow": {
+    "message": "Sola E\u011fik Ok"
+  },
+  "menu_item_curved_right_arrow": {
+    "message": "Sa\u011fa E\u011fik Ok"
+  },
+  "menu_item_curved_up_arrow": {
+    "message": "Yukar\u0131 E\u011fik Ok"
+  },
+  "menu_item_cut": {
+    "message": "Kes"
+  },
+  "menu_item_decagon": {
+    "message": "Ongen"
+  },
+  "menu_item_delete_column": {
+    "message": "S\u00fctunu sil"
+  },
+  "menu_item_delete_row": {
+    "message": "Sat\u0131r\u0131 sil"
+  },
+  "menu_item_delete_value": {
+    "message": "De\u011feri sil"
+  },
+  "menu_item_deleteslide": {
+    "message": "Slayd\u0131 Sil"
+  },
+  "menu_item_diagonal_stripe": {
+    "message": "Diyagonal \u00c7izgi"
+  },
+  "menu_item_diamond": {
+    "message": "Karo"
+  },
+  "menu_item_divide": {
+    "message": "B\u00f6lme"
+  },
+  "menu_item_dodecagon": {
+    "message": "Onikigen"
+  },
+  "menu_item_donut": {
+    "message": "Simit"
+  },
+  "menu_item_double_brace": {
+    "message": "\u00c7ift Ayra\u00e7"
+  },
+  "menu_item_double_bracket": {
+    "message": "\u00c7ift Parantez"
+  },
+  "menu_item_down_arrow": {
+    "message": "A\u015fa\u011f\u0131 Ok"
+  },
+  "menu_item_down_arrow_callout": {
+    "message": "A\u015fa\u011f\u0131 Ok Belirtme \u00c7izgisi"
+  },
+  "menu_item_duplicateslide": {
+    "message": "Yinelenen Slayt"
+  },
+  "menu_item_equal": {
+    "message": "E\u015fit"
+  },
+  "menu_item_equation": {
+    "message": "Denklem"
+  },
+  "menu_item_explosion_1": {
+    "message": "Patlama 1"
+  },
+  "menu_item_explosion_2": {
+    "message": "Patlama 2"
+  },
+  "menu_item_flowchart_alternate_process": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Alternatif \u0130\u015flem"
+  },
+  "menu_item_flowchart_card": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Kart"
+  },
+  "menu_item_flowchart_collate": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Harmanla"
+  },
+  "menu_item_flowchart_connector": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Ba\u011flay\u0131c\u0131"
+  },
+  "menu_item_flowchart_data": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Veri"
+  },
+  "menu_item_flowchart_decision": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Karar"
+  },
+  "menu_item_flowchart_delay": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Gecikme"
+  },
+  "menu_item_flowchart_direct_access_storage": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Do\u011frudan Eri\u015fimli Depolama Alan\u0131"
+  },
+  "menu_item_flowchart_display": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: G\u00f6r\u00fcnt\u00fcleme"
+  },
+  "menu_item_flowchart_document": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Dok\u00fcman"
+  },
+  "menu_item_flowchart_extract": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: \u00c7\u0131kar"
+  },
+  "menu_item_flowchart_internal_storage": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Dahili Depolama Alan\u0131"
+  },
+  "menu_item_flowchart_magnetic_disk": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Manyetik Disk"
+  },
+  "menu_item_flowchart_manual_input": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Manuel Giri\u015f"
+  },
+  "menu_item_flowchart_manual_operation": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Manuel \u0130\u015flem"
+  },
+  "menu_item_flowchart_merge": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Birle\u015ftir"
+  },
+  "menu_item_flowchart_multidocument": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: \u00c7oklu Dok\u00fcman"
+  },
+  "menu_item_flowchart_off_page_connector": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Sayfa D\u0131\u015f\u0131 Ba\u011flay\u0131c\u0131s\u0131"
+  },
+  "menu_item_flowchart_or": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Veya"
+  },
+  "menu_item_flowchart_predefined_process": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: \u00d6nceden Tan\u0131mlanm\u0131\u015f \u0130\u015flem"
+  },
+  "menu_item_flowchart_preparation": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Haz\u0131rl\u0131k"
+  },
+  "menu_item_flowchart_process": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: \u0130\u015flem"
+  },
+  "menu_item_flowchart_punched_tape": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Delikli Teyp"
+  },
+  "menu_item_flowchart_sequential_access_storage": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Ard\u0131\u015f\u0131k Eri\u015fimli Depolama Alan\u0131"
+  },
+  "menu_item_flowchart_sort": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: S\u0131rala"
+  },
+  "menu_item_flowchart_stored_data": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Depolanan Veriler"
+  },
+  "menu_item_flowchart_summing_junction": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Toplam Birle\u015fimi"
+  },
+  "menu_item_flowchart_terminator": {
+    "message": "Ak\u0131\u015f \u00e7izelgesi: Sonland\u0131r\u0131c\u0131"
+  },
+  "menu_item_folded_corner": {
+    "message": "Katlanm\u0131\u015f K\u00f6\u015fe"
+  },
+  "menu_item_frame": {
+    "message": "\u00c7er\u00e7eve"
+  },
+  "menu_item_half_frame": {
+    "message": "Yar\u0131m \u00c7er\u00e7eve"
+  },
+  "menu_item_heart": {
+    "message": "Kalp"
+  },
+  "menu_item_help_center": {
+    "message": "Yard\u0131m Merkezi"
+  },
+  "menu_item_heptagon": {
+    "message": "Yedigen"
+  },
+  "menu_item_hexagon": {
+    "message": "Alt\u0131gen"
+  },
+  "menu_item_hideslide": {
+    "message": "Slayd\u0131 Gizle"
+  },
+  "menu_item_insert_column": {
+    "message": "S\u00fctun"
+  },
+  "menu_item_insert_image": {
+    "message": "Resim"
+  },
+  "menu_item_insert_row": {
+    "message": "Sat\u0131r"
+  },
+  "menu_item_insert_text_box": {
+    "message": "Metin kutusu"
+  },
+  "menu_item_insertslide": {
+    "message": "Yeni Slayt"
+  },
+  "menu_item_italic": {
+    "message": "\u0130talik"
+  },
+  "menu_item_keyboard_shortcuts": {
+    "message": "Klavye k\u0131sayollar\u0131"
+  },
+  "menu_item_l_shape": {
+    "message": "L \u015eekli"
+  },
+  "menu_item_left_arrow": {
+    "message": "Sol Ok"
+  },
+  "menu_item_left_arrow_callout": {
+    "message": "Sol Ok Belirtme \u00c7izgisi"
+  },
+  "menu_item_left_brace": {
+    "message": "Sol Ayra\u00e7"
+  },
+  "menu_item_left_bracket": {
+    "message": "Sol Parantez"
+  },
+  "menu_item_left_right_arrow": {
+    "message": "Sol-Sa\u011f Ok"
+  },
+  "menu_item_left_right_arrow_callout": {
+    "message": "Sol-Sa\u011f Ok Belirtme \u00c7izgisi"
+  },
+  "menu_item_left_right_up_arrow": {
+    "message": "Sol-Sa\u011f-Yukar\u0131 Ok"
+  },
+  "menu_item_left_up_arrow": {
+    "message": "Sol-Yukar\u0131 Ok"
+  },
+  "menu_item_lightning_bolt": {
+    "message": "\u015eim\u015fek \u0130\u015fareti"
+  },
+  "menu_item_make_a_copy": {
+    "message": "Kopya olu\u015ftur\u2026"
+  },
+  "menu_item_merge_all": {
+    "message": "T\u00fcm\u00fcn\u00fc birle\u015ftir"
+  },
+  "menu_item_merge_cells": {
+    "message": "H\u00fccreleri birle\u015ftir"
+  },
+  "menu_item_merge_horizontally": {
+    "message": "Yatay olarak birle\u015ftir"
+  },
+  "menu_item_merge_vertically": {
+    "message": "Dikey olarak birle\u015ftir"
+  },
+  "menu_item_minus": {
+    "message": "Eksi"
+  },
+  "menu_item_moon": {
+    "message": "Ay"
+  },
+  "menu_item_moveslidedown": {
+    "message": "Slayd\u0131 A\u015fa\u011f\u0131 Ta\u015f\u0131"
+  },
+  "menu_item_moveslidetoend": {
+    "message": "Slayd\u0131 Sona Ta\u015f\u0131"
+  },
+  "menu_item_moveslidetostart": {
+    "message": "Slayd\u0131 Ba\u015fa Ta\u015f\u0131"
+  },
+  "menu_item_moveslideup": {
+    "message": "Slayd\u0131 Yukar\u0131 Ta\u015f\u0131"
+  },
+  "menu_item_multiply": {
+    "message": "\u00c7o\u011falt"
+  },
+  "menu_item_new": {
+    "message": "Yeni"
+  },
+  "menu_item_no_symbol": {
+    "message": "Simge Yok"
+  },
+  "menu_item_not_equal": {
+    "message": "E\u015fit De\u011fil"
+  },
+  "menu_item_notched_right_arrow": {
+    "message": "\u00c7entikli Sa\u011f Ok"
+  },
+  "menu_item_number_format": {
+    "message": "Say\u0131 Bi\u00e7imi"
+  },
+  "menu_item_number_menu": {
+    "message": "Say\u0131"
+  },
+  "menu_item_numbering": {
+    "message": "$1 / $2",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "menu_item_octagon": {
+    "message": "Sekizgen"
+  },
+  "menu_item_open": {
+    "message": "A\u00e7"
+  },
+  "menu_item_oval": {
+    "message": "Oval"
+  },
+  "menu_item_oval_callout": {
+    "message": "Oval Belirtme \u00c7izgisi"
+  },
+  "menu_item_parallelogram": {
+    "message": "Paralelkenar"
+  },
+  "menu_item_paste": {
+    "message": "Yap\u0131\u015ft\u0131r"
+  },
+  "menu_item_pentagon": {
+    "message": "Be\u015fgen"
+  },
+  "menu_item_pie": {
+    "message": "Pasta"
+  },
+  "menu_item_plaque": {
+    "message": "Plaka"
+  },
+  "menu_item_plus": {
+    "message": "Art\u0131"
+  },
+  "menu_item_present": {
+    "message": "Mevcut"
+  },
+  "menu_item_print": {
+    "message": "Yazd\u0131r"
+  },
+  "menu_item_quad_arrow": {
+    "message": "D\u00f6rtl\u00fc Ok"
+  },
+  "menu_item_quad_arrow_callout": {
+    "message": "D\u00f6rtl\u00fc Ok Belirtme \u00c7izgisi"
+  },
+  "menu_item_rectangle": {
+    "message": "Dikd\u00f6rtgen"
+  },
+  "menu_item_rectangular_callout": {
+    "message": "Dikd\u00f6rtgen Belirtme \u00c7izgisi"
+  },
+  "menu_item_redo": {
+    "message": "Yeniden Yap"
+  },
+  "menu_item_regular_pentagon": {
+    "message": "D\u00fczg\u00fcn Be\u015fgen"
+  },
+  "menu_item_report_abuse": {
+    "message": "K\u00f6t\u00fcye kullan\u0131m bildir"
+  },
+  "menu_item_report_issue": {
+    "message": "Sorun bildir"
+  },
+  "menu_item_right_arrow": {
+    "message": "Sa\u011f Ok"
+  },
+  "menu_item_right_arrow_callout": {
+    "message": "Sa\u011f Ok Belirtme \u00c7izgisi"
+  },
+  "menu_item_right_brace": {
+    "message": "Sa\u011f Ayra\u00e7"
+  },
+  "menu_item_right_bracket": {
+    "message": "Sa\u011f Parantez"
+  },
+  "menu_item_right_triangle": {
+    "message": "Dik \u00dc\u00e7gen"
+  },
+  "menu_item_round_diagonal_corner_rectangle": {
+    "message": "Yuvarlak Diyagonal K\u00f6\u015feli Dikd\u00f6rtgen"
+  },
+  "menu_item_round_same_side_corner_rectangle": {
+    "message": "Ayn\u0131 Kenar\u0131n K\u00f6\u015fesi Yuvarlak Dikd\u00f6rtgen"
+  },
+  "menu_item_round_single_corner_rectangle": {
+    "message": "Tek K\u00f6\u015fesi Yuvarlak Dikd\u00f6rtgen"
+  },
+  "menu_item_rounded_rectangle": {
+    "message": "Yuvarlak Dikd\u00f6rtgen"
+  },
+  "menu_item_rounded_rectangular_callout": {
+    "message": "Yuvarlak Dikd\u00f6rtgen Belirtme \u00c7izgisi"
+  },
+  "menu_item_save": {
+    "message": "Kaydet"
+  },
+  "menu_item_save_as": {
+    "message": "Farkl\u0131 Kaydet\u2026"
+  },
+  "menu_item_shapes": {
+    "message": "\u015eekiller"
+  },
+  "menu_item_share": {
+    "message": "Payla\u015f"
+  },
+  "menu_item_smiley_face": {
+    "message": "G\u00fclen Y\u00fcz"
+  },
+  "menu_item_snip_and_round_single_corner_rectangle": {
+    "message": "Tek K\u00f6\u015fesi K\u0131rp\u0131lm\u0131\u015f Yuvarlak Dikd\u00f6rtgen"
+  },
+  "menu_item_snip_diagonal_corner_rectangle": {
+    "message": "K\u00f6\u015fesi Diyagonal K\u0131rp\u0131lm\u0131\u015f Dikd\u00f6rtgen"
+  },
+  "menu_item_snip_same_side_corner_rectangle": {
+    "message": "Ayn\u0131 Kenar\u0131n K\u00f6\u015fesi K\u0131rp\u0131lm\u0131\u015f Dikd\u00f6rtgen"
+  },
+  "menu_item_snip_single_corner_rectangle": {
+    "message": "Tek K\u00f6\u015fesi K\u0131rp\u0131lm\u0131\u015f Dikd\u00f6rtgen"
+  },
+  "menu_item_strikethrough": {
+    "message": "\u00dcst\u00fc \u00c7izili"
+  },
+  "menu_item_striped_right_arrow": {
+    "message": "\u00c7izgili Sa\u011f Ok"
+  },
+  "menu_item_subscript": {
+    "message": "Altsimge"
+  },
+  "menu_item_sun": {
+    "message": "Paz"
+  },
+  "menu_item_superscript": {
+    "message": "\u00dcstsimge"
+  },
+  "menu_item_teardrop": {
+    "message": "G\u00f6zya\u015f\u0131 damlas\u0131"
+  },
+  "menu_item_trapezoid": {
+    "message": "Yamuk"
+  },
+  "menu_item_triangle": {
+    "message": "\u00dc\u00e7gen"
+  },
+  "menu_item_u_turn_arrow": {
+    "message": "U D\u00f6n\u00fc\u015f Oku"
+  },
+  "menu_item_underline": {
+    "message": "Alt\u0131 \u00c7izili"
+  },
+  "menu_item_undo": {
+    "message": "Geri Al"
+  },
+  "menu_item_unhideslide": {
+    "message": "Slayd\u0131 G\u00f6ster"
+  },
+  "menu_item_unmerge": {
+    "message": "\u00c7\u00f6z"
+  },
+  "menu_item_up_arrow": {
+    "message": "Yukar\u0131 Ok"
+  },
+  "menu_item_up_arrow_callout": {
+    "message": "Yukar\u0131 Ok Belirtme \u00c7izgisi"
+  },
+  "menu_item_up_down_arrow": {
+    "message": "Yukar\u0131-A\u015fa\u011f\u0131 Ok"
+  },
+  "menu_item_version_info": {
+    "message": "S\u00fcr\u00fcm bilgisi"
+  },
+  "menu_item_word_count": {
+    "message": "Kelime say\u0131s\u0131"
+  },
+  "menu_item_wrap_text": {
+    "message": "Metin kayd\u0131r"
+  },
+  "menu_item_zoom_in": {
+    "message": "Yak\u0131nla\u015ft\u0131r"
+  },
+  "menu_item_zoom_out": {
+    "message": "Uzakla\u015ft\u0131r"
+  },
+  "merge_all_aria_spoken_word": {
+    "message": "t\u00fcm\u00fcn\u00fc birle\u015ftir"
+  },
+  "merge_aria_spoken_word": {
+    "message": "birle\u015ftir"
+  },
+  "merge_dropdown_aria_spoken_word": {
+    "message": "birle\u015ftirme a\u00e7\u0131l\u0131r men\u00fcs\u00fc"
+  },
+  "merge_horizontally_aria_spoken_word": {
+    "message": "yatay olarak birle\u015ftir"
+  },
+  "merge_vertically_aria_spoken_word": {
+    "message": "dikey olarak birle\u015ftir"
+  },
+  "modify_shape_transform_error_msg": {
+    "message": "\u015eekil d\u00f6n\u00fc\u015f\u00fcmleri de\u011fi\u015ftirilirken bir hata olu\u015ftu"
+  },
+  "modify_shape_transform_error_short_msg": {
+    "message": "\u015eekil d\u00f6n\u00fc\u015f\u00fcmleri de\u011fi\u015ftirilirken bir hata olu\u015ftu."
+  },
+  "modifyshapefillcolor_aria_spoken_word": {
+    "message": "\u015fekil dolgu rengi a\u00e7\u0131l\u0131r listesi"
+  },
+  "modifyshapeoutlinecolor_aria_spoken_word": {
+    "message": "\u015fekil d\u0131\u015f hat rengi a\u00e7\u0131l\u0131r listesi"
+  },
+  "modifyshapeoutlinestyle_aria_spoken_word": {
+    "message": "\u015fekil d\u0131\u015f hat stili a\u00e7\u0131l\u0131r listesi"
+  },
+  "modifyshapeoutlinewidth_aria_spoken_word": {
+    "message": "\u015fekil d\u0131\u015f hat kal\u0131nl\u0131\u011f\u0131 a\u00e7\u0131l\u0131r listesi"
+  },
+  "nacl_load_error_details": {
+    "message": "Uzant\u0131y\u0131 yeniden y\u00fcklemeyi deneyin."
+  },
+  "nacl_load_error_title": {
+    "message": "Uygulama y\u00fcklenirken bir sorun olu\u015ftu."
+  },
+  "non_permissible_sheet_name_details": {
+    "message": "\u015eu karakterlere izin verilmez * ? [ ] ' ; : Sayfa ad\u0131 31 karakterden uzun olmamal\u0131d\u0131r Sayfa ad\u0131 bo\u015f b\u0131rak\u0131lamaz"
+  },
+  "non_permissible_sheet_name_title": {
+    "message": "Bir sayfay\u0131 yeniden adland\u0131r\u0131rken ge\u00e7ersiz bir ad girdiniz"
+  },
+  "not_pressed": {
+    "message": "Bas\u0131lmad\u0131"
+  },
+  "notselected": {
+    "message": "Se\u00e7ilmedi"
+  },
+  "number_format_label_currency_symbol": {
+    "message": "Para Birimi Sembol\u00fc"
+  },
+  "number_format_label_date_type": {
+    "message": "T\u00fcr"
+  },
+  "number_format_label_decimal_places": {
+    "message": "Ondal\u0131k Ay\u0131r\u0131c\u0131 Yerleri"
+  },
+  "number_format_label_general": {
+    "message": "Genel"
+  },
+  "number_format_label_negative_numbers": {
+    "message": "Negatif Say\u0131lar"
+  },
+  "number_format_label_other": {
+    "message": "Di\u011fer"
+  },
+  "number_format_label_red": {
+    "message": "K\u0131rm\u0131z\u0131"
+  },
+  "number_format_label_text": {
+    "message": "Metin"
+  },
+  "number_format_label_use_1000_separator": {
+    "message": "1000'lik Ay\u0131r\u0131c\u0131 Kullan"
+  },
+  "number_format_tab_accounting": {
+    "message": "Muhasebe"
+  },
+  "number_format_tab_currency": {
+    "message": "Para Birimi"
+  },
+  "number_format_tab_date_time": {
+    "message": "Tarih ve Saat"
+  },
+  "number_format_tab_general": {
+    "message": "Genel"
+  },
+  "number_format_tab_number": {
+    "message": "Say\u0131"
+  },
+  "number_format_tab_percentage": {
+    "message": "Y\u00fczde"
+  },
+  "number_format_tab_scientific": {
+    "message": "Bilimsel"
+  },
+  "number_format_title": {
+    "message": "Say\u0131 Bi\u00e7imleri"
+  },
+  "ocm_promo_conversion_shortmsg": {
+    "message": "Office Uyumluluk Modu'ndas\u0131n\u0131z"
+  },
+  "ocm_promo_office_editing_mode_shortmsg": {
+    "message": "Office Uyumluluk Modu'ndas\u0131n\u0131z"
+  },
+  "office_compatibility_mode": {
+    "message": "Office Uyumluluk Modu"
+  },
+  "office_editing_mode_attempt_when_offline": {
+    "message": "Bu dosyay\u0131 Google Dok\u00fcmanlar'da a\u00e7mak i\u00e7in internete ba\u011fl\u0131 olman\u0131z gerekir. Ba\u011flant\u0131n\u0131z geri y\u00fcklendi\u011finde tekrar deneyin."
+  },
+  "office_editing_mode_attempt_with_invalid_creds": {
+    "message": "Bu dosyay\u0131 Google Dok\u00fcmanlar'da a\u00e7mak i\u00e7in Google Hesab\u0131n\u0131zda oturum a\u00e7man\u0131z gerekir"
+  },
+  "office_editing_mode_point_fail_msg": {
+    "message": "Dosyan\u0131z\u0131 \u015fu anda Google Slaytlar dosyas\u0131 olarak a\u00e7amad\u0131k."
+  },
+  "office_editing_mode_setting_new_create": {
+    "message": "Drive ve Gmail'deki desteklenen Office dosyalar\u0131n\u0131 do\u011frudan Dok\u00fcmanlar, E-Tablolar veya Slaytlar'da a\u00e7"
+  },
+  "office_editing_mode_sheet_fail_msg": {
+    "message": "Dosyan\u0131z\u0131 \u015fu anda Google E-Tablolar dosyas\u0131 olarak kaydedemedik."
+  },
+  "office_editing_mode_word_fail_msg": {
+    "message": "Dosyan\u0131z\u0131 \u015fu anda Google Dok\u00fcmanlar dosyas\u0131 olarak a\u00e7amad\u0131k."
+  },
+  "office_first_time_confirm": {
+    "message": "Anlad\u0131m"
+  },
+  "office_first_time_message_p1": {
+    "message": "Sabit s\u00fcr\u00fcc\u00fcn\u00fczde, Google Drive'da, Gmail'de ve daha pek \u00e7ok yerde bulunan Word, Excel ve Powerpoint dosyalar\u0131n\u0131z\u0131 art\u0131k Dok\u00fcmanlar, E-Tablolar ve Slaytlar'\u0131 kullanarak d\u00fczenleyebilirsiniz."
+  },
+  "office_first_time_message_p2": {
+    "message": "Yapt\u0131\u011f\u0131n\u0131z t\u00fcm d\u00fczenlemeler otomatik olarak kaydedilir. Ayr\u0131ca orijinal bi\u00e7imle de istedi\u011finiz zaman kaydedebilirsiniz."
+  },
+  "office_first_time_title": {
+    "message": "Dok\u00fcmanlar, E-Tablolar ve Slaytlar \u0130\u00e7in Office Dosyalar\u0131n\u0131 D\u00fczenleme"
+  },
+  "offline_error_msg": {
+    "message": "\u00c7evrim d\u0131\u015f\u0131 g\u00f6r\u00fcn\u00fcyorsunuz. L\u00fctfen \u0130nternet ba\u011flant\u0131n\u0131z\u0131 kontrol edin ve tekrar deneyin. Bu hatay\u0131 \u00e7evrimi\u00e7iyken almaya devam ediyorsan\u0131z l\u00fctfen a\u015fa\u011f\u0131da bir sorun bildiriminde bulunun."
+  },
+  "offline_error_short_msg": {
+    "message": "Hata! \u0130stedi\u011finiz dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "opening_in_office_editing_mode": {
+    "message": "Office dosyalar\u0131n\u0131 d\u00fczenleme modunda a\u00e7\u0131l\u0131yor"
+  },
+  "option_key": {
+    "message": "Se\u00e7enek"
+  },
+  "out_of_memory_error_msg": {
+    "message": "Bu sekmeyi kapat\u0131p dosyan\u0131z\u0131 yeniden a\u00e7may\u0131 veya taray\u0131c\u0131da a\u00e7\u0131k olabilecek di\u011fer sekmeleri kapatmay\u0131 deneyin. Bu sorun devam ederse l\u00fctfen a\u015fa\u011f\u0131da bir sorun bildirin."
+  },
+  "out_of_memory_error_short_msg": {
+    "message": "Hata! Bellek kalmad\u0131."
+  },
+  "page_count_label": {
+    "message": "Sayfa say\u0131s\u0131"
+  },
+  "partial_cell_merge_error_msg": {
+    "message": "Birle\u015ftirilmi\u015f h\u00fccrelerin bir b\u00f6l\u00fcm\u00fc de\u011fi\u015ftirilemez."
+  },
+  "partial_cell_merge_error_short_msg": {
+    "message": "Hata"
+  },
+  "permission_fail_msg": {
+    "message": "Bu kampanyay\u0131 d\u00fczenleme izniniz yok. L\u00fctfen izinleri g\u00fcncelleyip tekrar deneyin."
+  },
+  "point_ocm_promo_conversion_msg": {
+    "message": "Office dosyalar\u0131n\u0131 do\u011frudan Slaytlar'da d\u00fczenleyebilir ve kaydedebilirsiniz. D\u00fczenlemek ve yorum eklemek \u00fczere ba\u015fkalar\u0131n\u0131 davet etmek i\u00e7in dosyay\u0131 Google Slaytlar olarak kaydedin. \u0130stedi\u011finiz zaman tekrar orijinal bi\u00e7imle kaydedebilirsiniz."
+  },
+  "point_ocm_promo_office_editing_mode_msg": {
+    "message": "Office dosyalar\u0131n\u0131 art\u0131k do\u011frudan Google Slaytlar'da d\u00fczenleyip kaydedebilirsiniz. Di\u011fer kullan\u0131c\u0131lar\u0131 anl\u0131k olarak d\u00fczenlemeye veya yorum eklemeye davet etmek i\u00e7in bu dosyay\u0131 Google Drive'a y\u00fckleyin. Bu dosyan\u0131n bi\u00e7imi de\u011fi\u015fmeyecektir."
+  },
+  "point_printing_warning_msg": {
+    "message": "Bunu d\u00fczeltmek i\u00e7in \u00e7al\u0131\u015f\u0131yoruz."
+  },
+  "point_printing_warning_short_msg": {
+    "message": "\u015eu an i\u00e7in, yaln\u0131zca g\u00f6r\u00fcnt\u00fcledi\u011finiz slayd\u0131 yazd\u0131rabilirsiniz."
+  },
+  "point_share_promo_conversion_msg": {
+    "message": "Bu sunuyu payla\u015fmaya m\u0131 \u00e7al\u0131\u015f\u0131yorsunuz? Ba\u015fkalar\u0131n\u0131 sizinle birlikte sunuyu d\u00fczenlemeye davet etmek i\u00e7in sunuyu Google Slaytlar'a d\u00f6n\u00fc\u015ft\u00fcr\u00fcn."
+  },
+  "point_share_promo_office_editing_mode_msg": {
+    "message": "Office dosyalar\u0131n\u0131 art\u0131k do\u011frudan Google Slaytlar'da d\u00fczenleyip kaydedebilirsiniz. Di\u011fer kullan\u0131c\u0131lar\u0131 anl\u0131k olarak d\u00fczenlemeye veya yorum eklemeye davet etmek i\u00e7in bu dosyay\u0131 Google Drive'a y\u00fckleyin. Bu dosyan\u0131n bi\u00e7imi de\u011fi\u015fmeyecektir."
+  },
+  "pointtogglebullet_aria_spoken_word": {
+    "message": "madde i\u015faretli liste"
+  },
+  "pointtogglenumber_aria_spoken_word": {
+    "message": "numaral\u0131 liste"
+  },
+  "present_button": {
+    "message": "Sunu Yap"
+  },
+  "pressed": {
+    "message": "Bas\u0131ld\u0131"
+  },
+  "print_aria_spoken_word": {
+    "message": "yazd\u0131r"
+  },
+  "qowt_doc_mismatch_text": {
+    "message": "Dok\u00fcman\u0131n\u0131z bi\u00e7imlendirilirken bir hata olu\u015ftu.\n\nDe\u011fi\u015fikliklerinizi kurtarmak i\u00e7in sayfay\u0131 yeniden y\u00fckleyin."
+  },
+  "qowt_doc_mismatch_title": {
+    "message": "Olmad\u0131!"
+  },
+  "qowt_hyperlink_activate_short_key": {
+    "message": "Ba\u011flant\u0131y\u0131 etkinle\u015ftirmek i\u00e7in ALT + Enter tu\u015flar\u0131na bas\u0131n."
+  },
+  "qowt_hyperlink_dialog": {
+    "message": "K\u00f6pr\u00fc"
+  },
+  "qowt_hyperlink_dialog_message_text": {
+    "message": "\u015eu ba\u011flant\u0131ya git:"
+  },
+  "qowt_modal_confirm_dialog_affirmative_button": {
+    "message": "Tamam"
+  },
+  "qowt_modal_confirm_dialog_negative_button": {
+    "message": "\u0130ptal"
+  },
+  "qowt_modal_dialog_close_button": {
+    "message": "Kapat"
+  },
+  "qowt_modal_dialog_coming_soon_title": {
+    "message": "\u00c7ok yak\u0131nda!"
+  },
+  "qowt_modal_dialog_link_text": {
+    "message": "Daha fazla bilgi edinin"
+  },
+  "qowt_modal_dialog_ok_button": {
+    "message": "Tamam"
+  },
+  "qowt_modal_dialog_reload_button": {
+    "message": "Yeniden y\u00fckle"
+  },
+  "qowt_modal_dialog_textbox_editing_description": {
+    "message": "Maalesef metin kutular\u0131 i\u00e7indeki metnin d\u00fczenlenmesini desteklemiyoruz."
+  },
+  "qowt_modal_dialog_textbox_editing_link": {
+    "message": "L\u00fctfen bunu d\u00fczeltin!"
+  },
+  "qowt_modal_info_dialog_affirmative_button": {
+    "message": "Tamam"
+  },
+  "qowt_modal_multi_choice_remember_choice": {
+    "message": "Se\u00e7imimi hat\u0131rla"
+  },
+  "qowt_modal_query_dialog_affirmative_button": {
+    "message": "Evet"
+  },
+  "qowt_modal_query_dialog_negative_button": {
+    "message": "Hay\u0131r"
+  },
+  "qowt_modal_query_dialog_reload_button": {
+    "message": "Yeniden y\u00fckle"
+  },
+  "qowt_modal_single_choice_remember_choice": {
+    "message": "Tekrar hat\u0131rlatma"
+  },
+  "read_only": {
+    "message": "Salt okunur"
+  },
+  "redo_aria_spoken_word": {
+    "message": "yeniden yap"
+  },
+  "right_pointed_submenu": {
+    "message": "Sa\u011f i\u015faret\u00e7i (alt men\u00fcl\u00fc)"
+  },
+  "save_aria_spoken_word": {
+    "message": "kaydet"
+  },
+  "save_now": {
+    "message": "\u015eimdi kaydet"
+  },
+  "security_error_msg": {
+    "message": "Hatayla kar\u015f\u0131la\u015fmaya devam ederseniz l\u00fctfen a\u015fa\u011f\u0131da sorunu bildirin."
+  },
+  "security_error_short_msg": {
+    "message": "Hata! \u0130stenen dosyay\u0131 a\u00e7amad\u0131k. \u015eu anda dosyalar\u0131n Gizli modda a\u00e7\u0131lmas\u0131 desteklenmemektedir. L\u00fctfen dosyan\u0131z\u0131 Gizli moddan \u00e7\u0131karak a\u00e7\u0131n."
+  },
+  "selected": {
+    "message": "Se\u00e7ildi"
+  },
+  "set_sheet_info_error_msg": {
+    "message": "Sayfa ad\u0131 g\u00fcncellenirken bir hata olu\u015ftu"
+  },
+  "share_button": {
+    "message": "Payla\u015f"
+  },
+  "share_promo_conversion_shortmsg": {
+    "message": "Ba\u015fkalar\u0131yla birlikte d\u00fczenleyin"
+  },
+  "share_promo_office_editing_mode_shortmsg": {
+    "message": "Ba\u015fkalar\u0131yla payla\u015f"
+  },
+  "sheet_delete_column_error_msg": {
+    "message": "Hata! S\u00fctun silinirken bir hata olu\u015ftu. L\u00fctfen tekrar deneyin."
+  },
+  "sheet_delete_row_error_msg": {
+    "message": "Hata! Sat\u0131r silinirken bir hata olu\u015ftu. L\u00fctfen tekrar deneyin."
+  },
+  "sheet_format_cells_error_msg": {
+    "message": "Bi\u00e7imlendirme hatas\u0131 olu\u015ftu. L\u00fctfen tekrar deneyin."
+  },
+  "sheet_insert_column_error_msg": {
+    "message": "Hata! S\u00fctun eklenirken bir hata olu\u015ftu. L\u00fctfen tekrar deneyin."
+  },
+  "sheet_insert_column_exceed_error_msg": {
+    "message": "Yaln\u0131zca 256 s\u00fctunu destekledi\u011fimizden, maalesef e-tabloya ba\u015fka s\u00fctun ekleyemezsiniz."
+  },
+  "sheet_insert_column_exceed_error_short_msg": {
+    "message": "\u00dczg\u00fcn\u00fcz!"
+  },
+  "sheet_insert_row_error_msg": {
+    "message": "Hata! Sat\u0131r eklenirken bir hata olu\u015ftu. L\u00fctfen tekrar deneyin."
+  },
+  "sheet_insert_row_exceed_error_msg": {
+    "message": "Yaln\u0131zca 65.536 sat\u0131r\u0131 destekledi\u011fimizden, maalesef e-tabloya ba\u015fka sat\u0131r ekleyemezsiniz."
+  },
+  "sheet_insert_row_exceed_error_short_msg": {
+    "message": "\u00dczg\u00fcn\u00fcz!"
+  },
+  "sheet_ocm_promo_conversion_msg": {
+    "message": "Office dosyalar\u0131n\u0131 do\u011frudan E-Tablolar'da d\u00fczenleyebilir ve kaydedebilirsiniz. D\u00fczenlemek veya yorum eklemek \u00fczere ba\u015fkalar\u0131n\u0131 davet etmek i\u00e7in dosyay\u0131 Google E-Tablolar olarak kaydedin. \u0130stedi\u011finiz zaman tekrar orijinal bi\u00e7imle kaydedebilirsiniz."
+  },
+  "sheet_ocm_promo_office_editing_mode_msg": {
+    "message": "Office dosyalar\u0131n\u0131 art\u0131k do\u011frudan Google E-Tablolar'da d\u00fczenleyip kaydedebilirsiniz. Di\u011fer kullan\u0131c\u0131lar\u0131 anl\u0131k olarak d\u00fczenlemeye veya yorum eklemeye davet etmek i\u00e7in bu dosyay\u0131 Google Drive'a y\u00fckleyin. Bu dosyan\u0131n bi\u00e7imi de\u011fi\u015fmeyecektir."
+  },
+  "sheet_set_cell_content_invalid_error_msg": {
+    "message": "Girdi\u011finiz form\u00fclde bir hata vard\u0131. L\u00fctfen hatay\u0131 d\u00fczeltin."
+  },
+  "sheet_share_promo_conversion_msg": {
+    "message": "Bu e-tabloyu payla\u015fmaya m\u0131 \u00e7al\u0131\u015f\u0131yorsunuz? Ba\u015fkalar\u0131n\u0131 sizinle birlikte e-tabloyu d\u00fczenlemeye davet etmek i\u00e7in bunu Google E-Tablolar'a d\u00f6n\u00fc\u015ft\u00fcr\u00fcn."
+  },
+  "sheet_share_promo_office_editing_mode_msg": {
+    "message": "Office dosyalar\u0131n\u0131 art\u0131k do\u011frudan Google E-Tablolar'da d\u00fczenleyip kaydedebilirsiniz. Di\u011fer kullan\u0131c\u0131lar\u0131 anl\u0131k olarak d\u00fczenlemeye veya yorum eklemeye davet etmek i\u00e7in bu dosyay\u0131 Google Drive'a y\u00fckleyin. Bu dosyan\u0131n bi\u00e7imi de\u011fi\u015fmeyecektir."
+  },
+  "sheet_sort_error_title": {
+    "message": "Bu h\u00fccre aral\u0131\u011f\u0131 s\u0131ralan\u0131rken bir hata olu\u015ftu."
+  },
+  "sheet_sort_failure_msg": {
+    "message": "Bu h\u00fccre aral\u0131\u011f\u0131 s\u0131ralan\u0131rken bir hata olu\u015ftu."
+  },
+  "sheet_sort_merged_cell_error": {
+    "message": "Birle\u015ftirilmi\u015f h\u00fccreleri s\u0131ralayamazs\u0131n\u0131z."
+  },
+  "sheet_sort_merged_cell_error_title": {
+    "message": "Bu h\u00fccre aral\u0131\u011f\u0131 s\u0131ralan\u0131rken bir hata olu\u015ftu."
+  },
+  "sheet_sort_one_cell_error": {
+    "message": "S\u0131ralamak i\u00e7in l\u00fctfen birden fazla h\u00fccre se\u00e7in."
+  },
+  "sheet_sort_one_cell_error_title": {
+    "message": "Bu h\u00fccre aral\u0131\u011f\u0131 s\u0131ralan\u0131rken bir hata olu\u015ftu."
+  },
+  "shift_key": {
+    "message": "\u00dcst Karakter"
+  },
+  "shortcut": {
+    "message": "K\u0131sayol $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "sign_in": {
+    "message": "Oturum a\u00e7"
+  },
+  "slash_key": {
+    "message": "E\u011fik \u00e7izgi"
+  },
+  "something_not_right": {
+    "message": "Do\u011fru olmayan bir \u015fey var"
+  },
+  "storage_quota_exceed_error_msg": {
+    "message": "Chrome'da a\u00e7\u0131k t\u00fcm Office dok\u00fcmanlar\u0131n\u0131 kapat\u0131n, sonra tekrar deneyin. Sorum devam ederse a\u015fa\u011f\u0131dan bildirin."
+  },
+  "storage_quota_exceed_error_short_msg": {
+    "message": "Maalesef dosyay\u0131 a\u00e7amad\u0131k."
+  },
+  "strikethrough_aria_spoken_word": {
+    "message": "\u00fcst\u00fc \u00e7izili"
+  },
+  "style_aria_spoken_word": {
+    "message": "stil a\u00e7\u0131l\u0131r listesi"
+  },
+  "submenu_spoken_text": {
+    "message": "$1 $2 $3 $4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "temporary_unable_to_open_error_msg": {
+    "message": "Daha sonra tekrar deneyin veya sorun devam ederse a\u015fa\u011f\u0131dan bildirin."
+  },
+  "temporary_unable_to_open_error_short_msg": {
+    "message": "Maalesef dosya ge\u00e7ici olarak a\u00e7\u0131lam\u0131yor."
+  },
+  "textaligncenter_aria_spoken_word": {
+    "message": "metin hizalama orta"
+  },
+  "textalignjustify_aria_spoken_word": {
+    "message": "metin hizalama yasla"
+  },
+  "textalignleft_aria_spoken_word": {
+    "message": "metin hizalama sol"
+  },
+  "textalignright_aria_spoken_word": {
+    "message": "metin hizalama sa\u011f"
+  },
+  "textcolor_aria_spoken_word": {
+    "message": "metin rengi a\u00e7\u0131l\u0131r listesi"
+  },
+  "textual_edit_error_msg": {
+    "message": "Dok\u00fcman\u0131n\u0131z bi\u00e7imlendirilirken bir hata olu\u015ftu.\n\nDe\u011fi\u015fikliklerinizi kurtarmak i\u00e7in sayfay\u0131 yeniden y\u00fckleyin."
+  },
+  "textual_edit_error_short_msg": {
+    "message": "Olmad\u0131!"
+  },
+  "title_error_msg_for_merge_cells": {
+    "message": "Bir sorun olu\u015ftu"
+  },
+  "title_msg_merging_multiple_cells_with_text": {
+    "message": "Uyar\u0131!"
+  },
+  "togglebulleted_aria_spoken_word": {
+    "message": "madde i\u015faretli liste"
+  },
+  "togglenumbered_aria_spoken_word": {
+    "message": "numaral\u0131 liste"
+  },
+  "togglezoom_aria_spoken_word": {
+    "message": "de\u011fi\u015ftirilen yak\u0131nla\u015ft\u0131rma"
+  },
+  "tooltip_background_color": {
+    "message": "Dolgu rengi"
+  },
+  "tooltip_bold": {
+    "message": "Kal\u0131n"
+  },
+  "tooltip_border": {
+    "message": "Kenarl\u0131klar"
+  },
+  "tooltip_border_all": {
+    "message": "T\u00fcm kenarl\u0131klar"
+  },
+  "tooltip_border_bottom": {
+    "message": "Alt kenarl\u0131klar"
+  },
+  "tooltip_border_horizontal": {
+    "message": "Yatay kenarl\u0131klar"
+  },
+  "tooltip_border_inner": {
+    "message": "\u0130\u00e7 kenarl\u0131klar"
+  },
+  "tooltip_border_left": {
+    "message": "Sol kenarl\u0131klar"
+  },
+  "tooltip_border_none": {
+    "message": "Kenarl\u0131k yok"
+  },
+  "tooltip_border_outer": {
+    "message": "D\u0131\u015f kenarl\u0131klar"
+  },
+  "tooltip_border_right": {
+    "message": "Sa\u011f kenarl\u0131klar"
+  },
+  "tooltip_border_top": {
+    "message": "\u00dcst kenarl\u0131klar"
+  },
+  "tooltip_border_vertical": {
+    "message": "Dikey kenarl\u0131klar"
+  },
+  "tooltip_cell_align": {
+    "message": "H\u00fccre hizalamas\u0131"
+  },
+  "tooltip_cell_h_align_center": {
+    "message": "Yatay orta"
+  },
+  "tooltip_cell_h_align_left": {
+    "message": "Yatay sol"
+  },
+  "tooltip_cell_h_align_right": {
+    "message": "Yatay sa\u011f"
+  },
+  "tooltip_cell_v_align_bottom": {
+    "message": "Dikey alt"
+  },
+  "tooltip_cell_v_align_center": {
+    "message": "Dikey orta"
+  },
+  "tooltip_cell_v_align_top": {
+    "message": "Dikey \u00fcst"
+  },
+  "tooltip_download": {
+    "message": "\u0130ndir"
+  },
+  "tooltip_download_original": {
+    "message": "Orijinalini indir"
+  },
+  "tooltip_dropdown_init_add_shape": {
+    "message": "\u015eekil"
+  },
+  "tooltip_fill_color": {
+    "message": "Metin rengi"
+  },
+  "tooltip_font_face": {
+    "message": "Yaz\u0131 tipi"
+  },
+  "tooltip_font_size": {
+    "message": "Yaz\u0131 tipi boyutu"
+  },
+  "tooltip_highlight_color": {
+    "message": "Vurgu rengi"
+  },
+  "tooltip_init_add_shape": {
+    "message": "Metin kutusu"
+  },
+  "tooltip_italic": {
+    "message": "\u0130talik"
+  },
+  "tooltip_merge": {
+    "message": "H\u00fccreleri birle\u015ftir"
+  },
+  "tooltip_merge_dropdown": {
+    "message": "Birle\u015ftirme t\u00fcr\u00fcn\u00fc se\u00e7in..."
+  },
+  "tooltip_modify_shape_fill_color": {
+    "message": "Dolgu rengi"
+  },
+  "tooltip_modify_shape_outline_color": {
+    "message": "\u00c7izgi rengi"
+  },
+  "tooltip_modify_shape_outline_style": {
+    "message": "Kesikli \u00e7izgi"
+  },
+  "tooltip_modify_shape_outline_width": {
+    "message": "\u00c7izgi a\u011f\u0131rl\u0131\u011f\u0131"
+  },
+  "tooltip_move_slide": {
+    "message": "$1 Slayd\u0131 Ta\u015f\u0131y\u0131n",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "tooltip_point": {
+    "message": "Slaytlar ana sayfas\u0131"
+  },
+  "tooltip_point_toggle_bullet": {
+    "message": "Madde i\u015faretli liste"
+  },
+  "tooltip_point_toggle_number": {
+    "message": "Numaral\u0131 liste"
+  },
+  "tooltip_presentation": {
+    "message": "Sunu"
+  },
+  "tooltip_print": {
+    "message": "Yazd\u0131r"
+  },
+  "tooltip_redo": {
+    "message": "Yeniden yap"
+  },
+  "tooltip_share": {
+    "message": "Payla\u015f"
+  },
+  "tooltip_share_for_macroenabledfiles": {
+    "message": "Makro i\u00e7eren dosyalar yaln\u0131zca Google Drive'dan payla\u015f\u0131labilir"
+  },
+  "tooltip_sheet": {
+    "message": "E-Tablolar ana sayfas\u0131"
+  },
+  "tooltip_strikethrough": {
+    "message": "\u00dcst\u00fc \u00e7izili"
+  },
+  "tooltip_style": {
+    "message": "Stiller"
+  },
+  "tooltip_text_align_center": {
+    "message": "Ortala"
+  },
+  "tooltip_text_align_justify": {
+    "message": "Yasla"
+  },
+  "tooltip_text_align_left": {
+    "message": "Sola hizala"
+  },
+  "tooltip_text_align_right": {
+    "message": "Sa\u011fa hizala"
+  },
+  "tooltip_text_color": {
+    "message": "Metin rengi"
+  },
+  "tooltip_toggle_bulleted": {
+    "message": "Madde i\u015faretli liste"
+  },
+  "tooltip_toggle_numbered": {
+    "message": "Numaral\u0131 liste"
+  },
+  "tooltip_toggle_zoom": {
+    "message": "Yak\u0131nla\u015ft\u0131rmay\u0131 de\u011fi\u015ftir"
+  },
+  "tooltip_underline": {
+    "message": "Alt\u0131 \u00c7izili"
+  },
+  "tooltip_undo": {
+    "message": "Geri al"
+  },
+  "tooltip_word": {
+    "message": "Dok\u00fcmanlar ana sayfas\u0131"
+  },
+  "tooltip_wrap_text": {
+    "message": "Metni kayd\u0131r"
+  },
+  "tooltip_zoom_in": {
+    "message": "Yak\u0131nla\u015ft\u0131r"
+  },
+  "tooltip_zoom_out": {
+    "message": "Uzakla\u015ft\u0131r"
+  },
+  "try_again": {
+    "message": "Tekrar dene"
+  },
+  "unable_to_execute_msg": {
+    "message": "Bu dok\u00fcman a\u00e7\u0131lam\u0131yor."
+  },
+  "underline_aria_spoken_word": {
+    "message": "alt\u0131 \u00e7izili"
+  },
+  "undo_aria_spoken_word": {
+    "message": "geri al"
+  },
+  "unmerge_aria_spoken_word": {
+    "message": "birle\u015ftirilenleri ay\u0131r"
+  },
+  "unsaved_changes": {
+    "message": "Kaydedilmeyen de\u011fi\u015fiklikler"
+  },
+  "unsaved_changes_warning": {
+    "message": "Bu dosyada kaydedilmeyen de\u011fi\u015fiklikler var. De\u011fi\u015fiklikleri kaydetmeden bu sayfadan ayr\u0131l\u0131rsan\u0131z \u00e7al\u0131\u015fmalar\u0131n\u0131z sonsuza kadar kaybolacakt\u0131r."
+  },
+  "unsupported_file_format_error_details_p1": {
+    "message": "Maalesef bu dosya, Microsoft\u00ae Office \"95 veya daha \u00f6nceki bir s\u00fcr\u00fcmde olu\u015fturulmu\u015f i\u00e7eri\u011fe sahip ve bu i\u00e7eri\u011fi a\u00e7am\u0131yoruz."
+  },
+  "unsupported_file_format_error_details_p2": {
+    "message": "Dosyay\u0131, Google Dok\u00fcmanlar dosyas\u0131na d\u00f6n\u00fc\u015ft\u00fcrmek isterseniz a\u015fa\u011f\u0131daki ba\u011flant\u0131y\u0131 t\u0131klay\u0131n."
+  },
+  "unsupported_file_format_error_title": {
+    "message": "Hata!"
+  },
+  "unsupported_link_message": {
+    "message": "Maalesef \u015fu anda bu URL t\u00fcr\u00fcn\u00fc desteklemiyoruz."
+  },
+  "up_key": {
+    "message": "Yukar\u0131"
+  },
+  "updated_shortcut_message": {
+    "message": "Google Dok\u00fcmanlar \u00fcr\u00fcnleri genelinde tutarl\u0131 olmalar\u0131 i\u00e7in klavye k\u0131sayollar\u0131m\u0131z\u0131 g\u00fcncelledik. G\u00fcncellenmi\u015f k\u0131sayollara yard\u0131m b\u00f6l\u00fcm\u00fcnde g\u00f6z atabilirsiniz."
+  },
+  "updated_shortcut_title": {
+    "message": "G\u00fcncellenmi\u015f klavye k\u0131sayollar\u0131"
+  },
+  "uploading_to_drive_for_office_editing_mode_point": {
+    "message": "Drive'a y\u00fcklenip Slaytlar'da a\u00e7\u0131l\u0131yor"
+  },
+  "uploading_to_drive_for_office_editing_mode_sheet": {
+    "message": "Drive'a y\u00fcklenip E-Tablolar'da a\u00e7\u0131l\u0131yor"
+  },
+  "uploading_to_drive_for_office_editing_mode_word": {
+    "message": "Drive'a y\u00fcklenip Dok\u00fcmanlar'da a\u00e7\u0131l\u0131yor"
+  },
+  "uploading_to_drive_msg_for_point": {
+    "message": "Bu dosya Drive'a y\u00fcklenip Google Slaytlar'da a\u00e7\u0131l\u0131yor."
+  },
+  "uploading_to_drive_msg_for_sheet": {
+    "message": "Bu dosya Drive'a y\u00fcklenip Google E-Tablolar'da a\u00e7\u0131l\u0131yor."
+  },
+  "uploading_to_drive_msg_for_word": {
+    "message": "Bu dosya Drive'a y\u00fcklenip Google Dok\u00fcmanlar'da a\u00e7\u0131l\u0131yor."
+  },
+  "version_info_msg": {
+    "message": "Office Uyumluluk Modu s\u00fcr\u00fcm\u00fcn\u00fcz:"
+  },
+  "word_binary_upsave_learnmore": {
+    "message": "Daha fazla bilgi edinin"
+  },
+  "word_binary_upsave_msg": {
+    "message": "Bu dosya desteklenmeyen bir bi\u00e7ime sahip. Dosyay\u0131 kaydetmek \u00fczere daha g\u00fcncel bir dosya bi\u00e7imine d\u00f6n\u00fc\u015ft\u00fcrmek i\u00e7in izninize ihtiyac\u0131m\u0131z var. Bu i\u015flem orijinal dosyan\u0131z\u0131 etkilemeyecektir."
+  },
+  "word_binary_upsave_shortmsg": {
+    "message": "Dok\u00fcman\u0131n\u0131z\u0131 g\u00fcncelleyin"
+  },
+  "word_count_label": {
+    "message": "Kelime Say\u0131s\u0131"
+  },
+  "word_count_title": {
+    "message": "Kelime say\u0131s\u0131"
+  },
+  "word_ocm_promo_conversion_msg": {
+    "message": "Office dosyalar\u0131n\u0131 do\u011frudan Dok\u00fcmanlar'da d\u00fczenleyebilir ve kaydedebilirsiniz. D\u00fczenlemek veya yorum eklemek \u00fczere ba\u015fkalar\u0131n\u0131 davet etmek i\u00e7in dosyay\u0131 Google Dok\u00fcmanlar olarak kaydedin. \u0130stedi\u011finiz zaman tekrar orijinal bi\u00e7imle kaydedebilirsiniz."
+  },
+  "word_ocm_promo_office_editing_mode_msg": {
+    "message": "Office dosyalar\u0131n\u0131 art\u0131k do\u011frudan Google Dok\u00fcmanlar'da d\u00fczenleyip kaydedebilirsiniz. Di\u011fer kullan\u0131c\u0131lar\u0131 anl\u0131k olarak d\u00fczenlemeye veya yorum eklemeye davet etmek i\u00e7in bu dosyay\u0131 Google Drive'a y\u00fckleyin. Bu dosyan\u0131n bi\u00e7imi de\u011fi\u015fmeyecektir."
+  },
+  "word_share_promo_conversion_msg": {
+    "message": "Bu dok\u00fcman\u0131 payla\u015fmaya m\u0131 \u00e7al\u0131\u015f\u0131yorsunuz? Ba\u015fkalar\u0131n\u0131 sizinle birlikte dok\u00fcman\u0131 d\u00fczenlemeye davet etmek i\u00e7in dok\u00fcman\u0131 Google Slaytlar'a d\u00f6n\u00fc\u015ft\u00fcr\u00fcn."
+  },
+  "word_share_promo_office_editing_mode_msg": {
+    "message": "Office dosyalar\u0131n\u0131 art\u0131k do\u011frudan Google Dok\u00fcmanlar'da d\u00fczenleyip kaydedebilirsiniz. Di\u011fer kullan\u0131c\u0131lar\u0131 anl\u0131k olarak d\u00fczenlemeye veya yorum eklemeye davet etmek i\u00e7in bu dosyay\u0131 Google Drive'a y\u00fckleyin. Bu dosyan\u0131n bi\u00e7imi de\u011fi\u015fmeyecektir."
+  },
+  "working_in_basic_editor_banner_text": {
+    "message": "Microsoft dosyalar\u0131 i\u00e7in temel d\u00fczenleyici modunda \u00e7al\u0131\u015f\u0131yorsunuz"
+  },
+  "wraptext_aria_spoken_word": {
+    "message": "metni kayd\u0131r"
+  },
+  "zoomin_aria_spoken_word": {
+    "message": "yak\u0131nla\u015ft\u0131r"
+  },
+  "zoomout_aria_spoken_word": {
+    "message": "uzakla\u015ft\u0131r"
+  }
+}

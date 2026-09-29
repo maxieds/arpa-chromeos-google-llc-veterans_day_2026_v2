@@ -1,0 +1,29 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.system_ext.brand=google
+ro.product.system_ext.device=corsola_cheets
+ro.product.system_ext.manufacturer=Google
+ro.product.system_ext.model=corsola
+ro.product.system_ext.name=corsola
+ro.system_ext.build.date=Tue Jul  7 18:17:49 UTC 2026
+ro.system_ext.build.date.utc=1783448269
+# Removed by post_process_props.py because overridden by ro.system_ext.build.fingerprint=google/{crosbuild:product}/{crosbuild:device}:13/R{envvar:CHROME_BRANCH}-{envvar:CHROMEOS_VERSION_STRING}/{envvar:CHROMEOS_ARC_VERSION}:user/release-keys
+#ro.system_ext.build.fingerprint?=google/bertha_arm64/bertha_arm64:13/TP1A.220624.014/15802699:user/dev-keys
+# Removed by post_process_props.py because overridden by ro.system_ext.build.id=R{envvar:CHROME_BRANCH}-{envvar:CHROMEOS_VERSION_STRING}
+#ro.system_ext.build.id?=TP1A.220624.014
+# Removed by post_process_props.py because overridden by ro.system_ext.build.tags=release-keys
+#ro.system_ext.build.tags?=dev-keys
+ro.system_ext.build.type=user
+ro.system_ext.build.version.incremental=15802699
+ro.system_ext.build.version.release=13
+ro.system_ext.build.version.release_or_codename=13
+ro.system_ext.build.version.sdk=33
+####################################
+# from variable PRODUCT_SYSTEM_EXT_PROPERTIES
+####################################
+ro.system_ext.build.tags=release-keys
+ro.system_ext.build.fingerprint=google/corsola/corsola_cheets:13/R150-16700.61.0/15802699:user/release-keys
+ro.system_ext.build.id=R150-16700.61.0
+# end of file

@@ -1,0 +1,214 @@
+{
+    "manifest_version": 1,
+    "ec_version": "steelix-15194.270.0",
+    "component_list": [
+        {
+            "component_type": "charger",
+            "component_name": "intersil,isl9238",
+            "i2c": {
+                "port": 3,
+                "addr": "0x9",
+                "expect": [
+                    {
+                        "reg": "0xff",
+                        "mask": "0xff",
+                        "value": "0x0c"
+                    }
+                ]
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "charger",
+            "component_name": "intersil,isl9237",
+            "i2c": {
+                "port": 3,
+                "addr": "0x9",
+                "expect": [
+                    {
+                        "reg": "0xff",
+                        "mask": "0xff",
+                        "value": "0x0a"
+                    }
+                ]
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "bc12",
+            "component_name": "pericom,pi3usb9201",
+            "i2c": {
+                "port": 7,
+                "addr": "0x5f"
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "ppc",
+            "component_name": "nxp,nx20p348x",
+            "i2c": {
+                "port": 7,
+                "addr": "0x72"
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "tcpc",
+            "component_name": "analogix,anx7447",
+            "i2c": {
+                "port": 7,
+                "addr": "0x2c"
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "bc12",
+            "component_name": "richtek,rt1718s",
+            "i2c": {
+                "port": 2,
+                "addr": "0x40"
+            },
+            "usbc": {
+                "port": 1
+            }
+        },
+        {
+            "component_type": "ppc",
+            "component_name": "nxp,nx20p348x",
+            "i2c": {
+                "port": 2,
+                "addr": "0x72"
+            },
+            "usbc": {
+                "port": 1
+            }
+        },
+        {
+            "component_type": "tcpc",
+            "component_name": "richtek,rt1718s",
+            "i2c": {
+                "port": 2,
+                "addr": "0x40"
+            },
+            "usbc": {
+                "port": 1
+            }
+        },
+        {
+            "component_type": "mux",
+            "component_name": "parade,ps8743",
+            "i2c": {
+                "port": 2,
+                "addr": "0x10"
+            },
+            "usbc": {
+                "port": 1
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "bosch,bma422",
+            "i2c": {
+                "port": 0,
+                "addr": "0x18",
+                "expect": [
+                    {
+                        "reg": "0x00",
+                        "mask": "0xff",
+                        "value": "0x12"
+                    }
+                ]
+            },
+            "ssfc": {
+                "mask": "0x38",
+                "value": 1
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "bosch,bmi323",
+            "i2c": {
+                "port": 0,
+                "addr": "0x68",
+                "expect": [
+                    {
+                        "reg": "0x00",
+                        "mask": "0xff",
+                        "value": "0x43"
+                    }
+                ]
+            },
+            "ssfc": {
+                "mask": "0x7",
+                "value": 1
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "st,lis2dw12",
+            "i2c": {
+                "port": 0,
+                "addr": "0x18",
+                "expect": [
+                    {
+                        "reg": "0x0f",
+                        "mask": "0xff",
+                        "value": "0x44"
+                    }
+                ]
+            },
+            "ssfc": {
+                "mask": "0x38",
+                "value": 2
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "st,lsm6dsm",
+            "i2c": {
+                "port": 0,
+                "addr": "0x6a",
+                "expect": [
+                    {
+                        "reg": "0x0f",
+                        "mask": "0xff",
+                        "value": "0x6a"
+                    }
+                ]
+            },
+            "ssfc": {
+                "mask": "0x7",
+                "value": 2
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "st,lsm6ds3",
+            "i2c": {
+                "port": 0,
+                "addr": "0x6a",
+                "expect": [
+                    {
+                        "reg": "0x0f",
+                        "mask": "0xff",
+                        "value": "0x69"
+                    }
+                ]
+            },
+            "ssfc": {
+                "mask": "0x7",
+                "value": 2
+            }
+        }
+    ]
+}

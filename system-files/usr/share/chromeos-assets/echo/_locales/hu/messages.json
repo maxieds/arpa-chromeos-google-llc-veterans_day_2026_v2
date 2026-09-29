@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Enged\u00e9lyez\u00e9s"
+    }, 
+    "consent_denied": {
+        "message": "Nem adott enged\u00e9lyt arra, hogy ellen\u0151rizz\u00fck Chrome-eszk\u00f6z\u00e9nek jogosults\u00e1g\u00e1t. K\u00e9rj\u00fck, pr\u00f3b\u00e1lkozzon \u00fajra az aj\u00e1nlat bev\u00e1lt\u00e1s\u00e1val, \u00e9s kattintson az \u201eEnged\u00e9lyez\u00e9s\u201d lehet\u0151s\u00e9gre, hogy ellen\u0151rizni tudjuk jogosults\u00e1g\u00e1t."
+    }, 
+    "deny_button_string": {
+        "message": "Elutas\u00edt\u00e1s"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Ez az aj\u00e1nlat m\u00e1r lej\u00e1rt az \u00d6n eszk\u00f6z\u00e9hez."
+    }, 
+    "device_not_eligible": {
+        "message": "Az \u00d6n eszk\u00f6ze nem jogosult az aj\u00e1nlatra. $1Az eszk\u00f6z\u00e9n ig\u00e9nybe vehet\u0151 aj\u00e1nlatok megtekint\u00e9se$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Ez az aj\u00e1nlat nem \u00e9rhet\u0151 el az \u00d6n Chrome-eszk\u00f6z\u00e9nek t\u00edpus\u00e1n."
+    }, 
+    "dismiss_button_string": {
+        "message": "Elvet\u00e9s"
+    }, 
+    "dismiss_info_string": {
+        "message": "Rendszergazd\u00e1ja letiltotta a Chrome-aj\u00e1nlatokat az \u00d6n eszk\u00f6z\u00e9n."
+    }, 
+    "error_no_regcode": {
+        "message": "\u00dagy t\u0171nik, hogy eszk\u00f6z\u00e9n nem tal\u00e1lhat\u00f3 aj\u00e1nlatk\u00f3d. K\u00e9rj\u00fck, l\u00e9pjen kapcsolatba a $1Chrome OS \u00fcgyf\u00e9lszolg\u00e1lat\u00e1val$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "\u00dagy t\u0171nik, hogy az aj\u00e1nlat bev\u00e1lt\u00e1s\u00e1ra ir\u00e1nyul\u00f3 k\u00eds\u00e9rlete nem regisztr\u00e1lt webhelyr\u0151l \u00e9rkezett."
+    }, 
+    "generic_error_message": {
+        "message": "Valami\u00e9rt jelenleg nem tudjuk bev\u00e1ltani aj\u00e1nlat\u00e1t. Jelenleg mi sem \u00e9rtj\u00fck, hogy mi\u00e9rt. K\u00e9rj\u00fck, j\u00f6jj\u00f6n vissza k\u00e9s\u0151bb."
+    }, 
+    "info_string": {
+        "message": "Tov\u00e1bbi inform\u00e1ci\u00f3"
+    }, 
+    "learn_more": {
+        "message": "$1Tov\u00e1bbi inform\u00e1ci\u00f3$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Ebb\u0151l az aj\u00e1nlatb\u00f3l eszk\u00f6z\u00f6nk\u00e9nt csak egy v\u00e1lthat\u00f3 be, \u00e9s az aj\u00e1nlatot m\u00e1r bev\u00e1ltott\u00e1k. Valaki m\u00e1r bejelentkezhetett ezen az eszk\u00f6z\u00f6n, \u00e9s megel\u0151zhette \u00d6nt. Ha pedig nem \u00fajonnan v\u00e1s\u00e1rolta az eszk\u00f6zt, el\u0151fordulhat, hogy a kor\u00e1bbi tulajdonos m\u00e1r bev\u00e1ltotta az aj\u00e1nlatot. Az aj\u00e1nlatok sajnos nem vihet\u0151k \u00e1t m\u00e1sik fi\u00f3kba, \u00e9s haszn\u00e1lt eszk\u00f6z\u00f6k\u00f6n nem \u00e1ll m\u00f3dunkban meg\u00faj\u00edtani az aj\u00e1nlatokat."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Az aj\u00e1nlat bev\u00e1lt\u00e1sa sikertelen. Lehet, hogy inkognit\u00f3ablakot haszn\u00e1l, vagy Vend\u00e9g \u00fczemm\u00f3dban jelentkezett be, \u00e9s ilyenkor nem v\u00e1lthat\u00f3k be az aj\u00e1nlatok. K\u00e9rj\u00fck, norm\u00e1l b\u00f6ng\u00e9sz\u0151ablakot haszn\u00e1ljon, \u00e9s gy\u0151z\u0151dj\u00f6n meg arr\u00f3l, hogy nem Vend\u00e9gk\u00e9nt jelentkezett be."
+    }, 
+    "notification_button": {
+        "message": "Bev\u00e1lt\u00e1s \u2013 $1 nap van h\u00e1tra", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "V\u00e1ltsa be az aj\u00e1nlatokat, miel\u0151tt t\u00fal k\u00e9s\u0151 lenne"
+    }, 
+    "notification_title": {
+        "message": "Extr\u00e1kat is kap Chrome-eszk\u00f6ze mell\u00e9"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "A Chrome OS \u00fcgyf\u00e9lszolg\u00e1lat\u00e1t\u00f3l kapott k\u00f3dot nem a megfelel\u0151 aj\u00e1nlat bev\u00e1lt\u00e1s\u00e1ra pr\u00f3b\u00e1lta felhaszn\u00e1lni. K\u00e9rj\u00fck, vegye fel a kapcsolatot \u00fajra a $1Chrome OS \u00fcgyf\u00e9lszolg\u00e1lat\u00e1val$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "A(z) $1 ellen\u0151rizni akarja, hogy \u00d6n megfelel\u0151 Chrome OS eszk\u00f6zt haszn\u00e1l-e.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Eszk\u00f6z\u00e9nek regisztr\u00e1ci\u00f3s k\u00f3dja nem \u00e9rv\u00e9nyes."
+    }, 
+    "sorry_about_that": {
+        "message": "Sajn\u00e1ljuk!"
+    }
+}

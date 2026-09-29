@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Tillad"
+    }, 
+    "consent_denied": {
+        "message": "Du har ikke givet os tilladelse til at bekr\u00e6fte, om din Chrome-enhed er berettiget. Pr\u00f8v at indl\u00f8se tilbuddet igen, og klik p\u00e5 \"Tillad\" for at give os tilladelse."
+    }, 
+    "deny_button_string": {
+        "message": "Afvis"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Dette tilbud er udl\u00f8bet for din enhed."
+    }, 
+    "device_not_eligible": {
+        "message": "Enheden er ikke berettiget til dette tilbud. $1Se tilg\u00e6ngelige tilbud for din enhed$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Dette tilbud er ikke tilg\u00e6ngeligt for din specifikke Chrome-model."
+    }, 
+    "dismiss_button_string": {
+        "message": "Annuller"
+    }, 
+    "dismiss_info_string": {
+        "message": "Din it-administrator har deaktiveret Chrome Goodies for din enhed."
+    }, 
+    "error_no_regcode": {
+        "message": "Der ser ikke ud til at v\u00e6re en tilbudskode installeret p\u00e5 din enhed. Kontakt $1Chrome OS-support$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Dit fors\u00f8g p\u00e5 at indl\u00f8se dette tilbud ser ud til at v\u00e6re kommet fra et uregistreret website."
+    }, 
+    "generic_error_message": {
+        "message": "Af en eller anden grund kan vi ikke indl\u00f8se dit tilbud p\u00e5 nuv\u00e6rende tidspunkt. Vi forst\u00e5r det heller ikke. Pr\u00f8v igen senere."
+    }, 
+    "info_string": {
+        "message": "F\u00e5 flere oplysninger"
+    }, 
+    "learn_more": {
+        "message": "$1F\u00e5 flere oplysninger$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Du kan kun indl\u00f8se dette tilbud \u00e9n gang pr. enhed, og det er allerede blevet indl\u00f8st. En anden person er muligvis logget ind p\u00e5 denne enhed og kommet dig i fork\u00f8bet. Eller hvis du har k\u00f8bt denne enhed brugt, kan den tidligere ejer have snuppet tilbuddet. Vi kan desv\u00e6rre ikke overf\u00f8re tilbud til andre konti, og vi kan ikke forny tilbud p\u00e5 brugte enheder."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Tilbuddet kunne ikke indl\u00f8ses. Det kan v\u00e6re, at du bruger et inkognitovindue eller er logget ind som g\u00e6st, hvor tilbud ikke kan indl\u00f8ses. Du skal bruge et almindeligt vindue og s\u00f8rge for, at du ikke bruger et g\u00e6stelogin."
+    }, 
+    "notification_button": {
+        "message": "Indl\u00f8s \u2013 $1 dage tilbage", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Indl\u00f8s tilbuddet, f\u00f8r det er for sent"
+    }, 
+    "notification_title": {
+        "message": "F\u00e5 goodies til Chrome-enheden"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Den kode, du har modtaget fra Chrome OS-support, er ved at blive brugt til at indl\u00f8se det forkerte tilbud. Kontakt $1Chrome OS-support$2 igen.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 \u00f8nsker at kontrollere, at du bruger en kvalificeret Chrome OS-enhed.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Registreringskoden p\u00e5 din enhed er ugyldig."
+    }, 
+    "sorry_about_that": {
+        "message": "Vi beklager"
+    }
+}

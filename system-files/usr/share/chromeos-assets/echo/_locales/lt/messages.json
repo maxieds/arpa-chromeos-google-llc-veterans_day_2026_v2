@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Leisti"
+    }, 
+    "consent_denied": {
+        "message": "Nesuteik\u0117te mums leidimo patvirtinti \u201eChrome\u201c \u012frenginio tinkamum\u0105. Pabandykite dar kart\u0105 i\u0161pirkti pasi\u016blym\u0105 ir spustel\u0117kite \u201eLeisti\u201c, kad leistum\u0117te mums patvirtinti tinkamum\u0105."
+    }, 
+    "deny_button_string": {
+        "message": "U\u017edrausti"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "J\u016bs\u0173 \u012frenginiui skirto pasi\u016blymo galiojimo laikas baig\u0117si."
+    }, 
+    "device_not_eligible": {
+        "message": "\u012erenginys n\u0117ra tinkamas, kad b\u016bt\u0173 galima pasinaudoti \u0161iuo pasi\u016blymu. $1Per\u017ei\u016br\u0117kite j\u016bs\u0173 \u012frenginiui skirtus pasi\u016blymus$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "\u0160iuo pasi\u016blymu negalima pasinaudoti j\u016bs\u0173 modelio \u201eChrome\u201c \u012frenginyje."
+    }, 
+    "dismiss_button_string": {
+        "message": "Atsisakyti"
+    }, 
+    "dismiss_info_string": {
+        "message": "IT administratorius j\u016bs\u0173 \u012frenginyje i\u0161jung\u0117 naudingas \u201eChrome\u201c funkcijas."
+    }, 
+    "error_no_regcode": {
+        "message": "Pana\u0161u, kad j\u016bs\u0173 \u012frenginyje n\u0117ra pasi\u016blymo kodo. Susisiekite su $1\u201eChrome\u201c OS palaikymo komanda$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Pana\u0161u, kad bandymas i\u0161pirkti pasi\u016blym\u0105 gautas i\u0161 neregistruotos svetain\u0117s."
+    }, 
+    "generic_error_message": {
+        "message": "D\u0117l nenustatytos prie\u017easties \u0161iuo metu negalime i\u0161pirkti pasi\u016blymo. Mes taip pat esame d\u0117l to sumi\u0161\u0119. V\u0117liau bandykite dar kart\u0105."
+    }, 
+    "info_string": {
+        "message": "Su\u017einokite daugiau"
+    }, 
+    "learn_more": {
+        "message": "$1Su\u017einokite daugiau$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Pasi\u016blym\u0105 galima i\u0161pirkti tik vien\u0105 kart\u0105 viename \u012frenginyje, o \u0161iame \u012frenginyje jis jau i\u0161pirktas. Gali b\u016bti, kad kitas asmuo jau prisijung\u0117 prie \u0161io \u012frenginio ir i\u0161pirko pasi\u016blym\u0105 prie\u0161 jus. Arba, jei \u0161\u012f \u012frengin\u012f \u012fsigijote kaip naudot\u0105, gali b\u016bti, kad pasi\u016blym\u0105 i\u0161pirko ankstesnis savininkas. Deja, negalime perkelti pasi\u016blym\u0173 \u012f kitas paskyras ir negalime atnaujinti pasi\u016blym\u0173 naudotuose \u012frenginiuose."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Nepavyko i\u0161pirkti pasi\u016blymo. Gali b\u016bti, kad naudojate inkognito lang\u0105 arba esate prisijung\u0119 sve\u010dio re\u017eimu, kuriam veikiant negalite i\u0161pirkti pasi\u016blym\u0173. Naudokite \u012fprast\u0105 lang\u0105 ir u\u017etikrinkite, kad nesate prisijung\u0119 kaip sve\u010dias."
+    }, 
+    "notification_button": {
+        "message": "I\u0161pirkti \u2013 liko dien\u0173: $1", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "I\u0161pirkite, kol dar ne per v\u0117lu"
+    }, 
+    "notification_title": {
+        "message": "Gaukite nauding\u0173 funkcij\u0173 \u201eChrome\u201c \u012frenginiui"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "I\u0161 \u201eChrome\u201c OS palaikymo komandos gautas kodas naudojamas klaidingam pasi\u016blymui i\u0161pirkti. Susisiekite su $1\u201eChrome\u201c OS palaikymo komanda$2 dar kart\u0105.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "\u201e$1\u201c nori patvirtinti, kad naudojate tinkam\u0105 \u201eChrome\u201c OS \u012frengin\u012f.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Netinkamas \u012frenginio registracijos kodas."
+    }, 
+    "sorry_about_that": {
+        "message": "Apgailestaujame"
+    }
+}

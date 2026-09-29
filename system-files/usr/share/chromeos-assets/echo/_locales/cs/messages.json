@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Povolit"
+    }, 
+    "consent_denied": {
+        "message": "Nepovolili jste n\u00e1m ov\u011b\u0159it va\u0161e za\u0159\u00edzen\u00ed Chrome. Zkuste nab\u00eddku uplatnit znovu a kliknut\u00edm na mo\u017enost Povolit n\u00e1m umo\u017en\u011bte ov\u011b\u0159it, zda na ni m\u00e1te n\u00e1rok."
+    }, 
+    "deny_button_string": {
+        "message": "Odm\u00edtnout"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Platnost nab\u00eddky pro va\u0161e za\u0159\u00edzen\u00ed vypr\u0161ela."
+    }, 
+    "device_not_eligible": {
+        "message": "Nab\u00eddku nelze ve va\u0161em za\u0159\u00edzen\u00ed uplatnit. $1Pod\u00edvejte se na dostupn\u00e9 nab\u00eddky pro va\u0161e za\u0159\u00edzen\u00ed$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Tato nab\u00eddka nen\u00ed pro v\u00e1\u0161 konkr\u00e9tn\u00ed model za\u0159\u00edzen\u00ed Chrome k dispozici."
+    }, 
+    "dismiss_button_string": {
+        "message": "Zav\u0159\u00edt"
+    }, 
+    "dismiss_info_string": {
+        "message": "V\u00e1\u0161 spr\u00e1vce IT pro toto za\u0159\u00edzen\u00ed vyu\u017eit\u00ed propaga\u010dn\u00edch nab\u00eddek Chrome Goodies zak\u00e1zal."
+    }, 
+    "error_no_regcode": {
+        "message": "Va\u0161e za\u0159\u00edzen\u00ed neobsahuje k\u00f3d nab\u00eddky. Obra\u0165te se na $1podporu syst\u00e9mu Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "V\u00e1\u0161 pokus o uplatn\u011bn\u00ed nab\u00eddky poch\u00e1z\u00ed z neregistrovan\u00e9ho webu."
+    }, 
+    "generic_error_message": {
+        "message": "Z n\u011bjak\u00e9ho d\u016fvodu va\u0161i nab\u00eddku nelze uplatnit. I n\u00e1m samotn\u00fdm to vrt\u00e1 hlavou. Zkuste to pros\u00edm znovu pozd\u011bji."
+    }, 
+    "info_string": {
+        "message": "Dal\u0161\u00ed informace"
+    }, 
+    "learn_more": {
+        "message": "$1Dal\u0161\u00ed informace$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Tuto nab\u00eddku lze v jednom za\u0159\u00edzen\u00ed uplatnit pouze jednou a v tomto za\u0159\u00edzen\u00ed ji\u017e byla uplatn\u011bna. Mo\u017en\u00e1 se do za\u0159\u00edzen\u00ed p\u0159ihl\u00e1sil jin\u00fd u\u017eivatel a p\u0159edb\u011bhl v\u00e1s. Pokud jste za\u0159\u00edzen\u00ed koupili z druh\u00e9 ruky, mohl nab\u00eddku uplatnit p\u0159edchoz\u00ed majitel. Nab\u00eddky bohu\u017eel nem\u016f\u017eeme p\u0159ev\u00e1d\u011bt na jin\u00e9 \u00fa\u010dty a nem\u016f\u017eeme ani obnovovat nab\u00eddky pro pou\u017eit\u00e1 za\u0159\u00edzen\u00ed."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Nab\u00eddku nelze uplatnit. M\u016f\u017ee to b\u00fdt t\u00edm, \u017ee pou\u017e\u00edv\u00e1te anonymn\u00ed okno nebo jste p\u0159ihl\u00e1\u0161eni v re\u017eimu hosta. Pou\u017eijte pros\u00edm b\u011b\u017en\u00e9 okno a ujist\u011bte se, zda nejste p\u0159ihl\u00e1\u0161eni jako host."
+    }, 
+    "notification_button": {
+        "message": "Uplatnit \u2013 zb\u00fdv\u00e1 dn\u00ed: $1", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Uplatn\u011bte nab\u00eddku, ne\u017e bude pozd\u011b."
+    }, 
+    "notification_title": {
+        "message": "Z\u00edskejte pro sv\u00e9 za\u0159\u00edzen\u00ed Chrome zaj\u00edmav\u00e9 bonusy"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "K\u00f3d, kter\u00fd jste obdr\u017eeli od podpory opera\u010dn\u00edho syt\u00e9mu Chrome OS, slou\u017e\u00ed k uplatn\u011bn\u00ed jin\u00e9 nab\u00eddky. Obra\u0165te se pros\u00edm na $1podporu syst\u00e9mu Chrome OS$2 znovu.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "Poskytovatel $1 chce ov\u011b\u0159it, zda pou\u017e\u00edv\u00e1te vhodn\u00e9 za\u0159\u00edzen\u00ed se syst\u00e9mem Chrome OS.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Registra\u010dn\u00ed k\u00f3d va\u0161eho za\u0159\u00edzen\u00ed nen\u00ed platn\u00fd."
+    }, 
+    "sorry_about_that": {
+        "message": "Je n\u00e1m to l\u00edto."
+    }
+}

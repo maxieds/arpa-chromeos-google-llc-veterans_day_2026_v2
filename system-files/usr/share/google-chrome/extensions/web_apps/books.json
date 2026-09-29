@@ -1,0 +1,17 @@
+{
+  "app_url": "https://play.google.com/books/installwebapp?usp=chromedefault",
+  "launch_container": "tab",
+  "user_type": ["unmanaged", "managed", "child"],
+  "disable_if_arc_supported": true,
+  "feature_name": "MigrateDefaultChromeAppToWebAppsNonGSuite",
+  "uninstall_and_replace": ["mmimngoggfoobjdlefbcabngfnmieonb"],
+  "load_and_await_service_worker_registration": false,
+  "only_use_offline_manifest": true,
+  "offline_manifest": {
+    "name": "Play Books",
+    "start_url": "https://play.google.com/books?usp=installed_webapp",
+    "scope": "https://play.google.com/books",
+    "display": "browser",
+    "icon_any_pngs": ["books.png"]
+  }
+}

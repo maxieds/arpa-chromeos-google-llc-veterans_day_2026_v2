@@ -1,0 +1,17 @@
+{
+  "app_url": "https://music.youtube.com/installwebapp?usp=chrome_default",
+  "launch_container": "window",
+  "user_type": ["unmanaged", "managed"],
+  "disable_if_arc_supported": true,
+  "feature_name": "MigrateDefaultChromeAppToWebAppsNonGSuite",
+  "load_and_await_service_worker_registration": false,
+  "only_use_offline_manifest": true,
+  "offline_manifest": {
+    "name": "YouTube Music",
+    "start_url": "https://music.youtube.com/?source=pwa",
+    "scope": "https://music.youtube.com/",
+    "display": "minimal-ui",
+    "icon_any_pngs": ["youtube_music.png"],
+    "theme_color_argb_hex": "FF131313"
+  }
+}

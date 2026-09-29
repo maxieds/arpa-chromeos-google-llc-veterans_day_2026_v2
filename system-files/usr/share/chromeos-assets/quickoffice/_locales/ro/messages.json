@@ -1,0 +1,2333 @@
+{
+  "action_create_user_feedback": {
+    "message": "Semnaleaz\u0103 o problem\u0103"
+  },
+  "alt_key": {
+    "message": "Tasta Alt"
+  },
+  "always_use_office_editing_mode": {
+    "message": "Se aplic\u0103 \u00eentotdeauna pentru fi\u0219ierele Office acceptate din Drive \u0219i Gmail"
+  },
+  "app_error_learn_more": {
+    "message": "Afl\u0103 mai multe"
+  },
+  "app_error_report_feedback": {
+    "message": "Trimite feedback"
+  },
+  "app_icon_aria_spoken_word": {
+    "message": " ecran de pornire"
+  },
+  "app_nacl_crash_msg": {
+    "message": "Ajut\u0103-ne, raport\u00e2nd problema."
+  },
+  "app_nacl_crash_report": {
+    "message": "Semnaleaz\u0103 o problem\u0103..."
+  },
+  "app_nacl_crash_title": {
+    "message": "Hopa... Asta nu trebuia s\u0103 se \u00eent\u00e2mple. Re\u00eencarc\u0103 pagina pentru a recupera modific\u0103rile."
+  },
+  "app_nacl_error_load_failed": {
+    "message": "Ne pare r\u0103u, nu am putut deschide fi\u0219ierul. \u00cenchide celelalte file Chrome sau reporne\u0219te browserul, apoi \u00eencearc\u0103 din nou. Dac\u0103 problema persist\u0103, raporteaz-o mai jos."
+  },
+  "app_nacl_error_title": {
+    "message": "Fi\u0219ierul nu poate fi deschis."
+  },
+  "app_nacl_error_unsupported_device": {
+    "message": "Dispozitivul nu accept\u0103 extensia Chrome Office Editing pentru Documente, Foi de calcul \u0219i Prezent\u0103ri."
+  },
+  "app_saving_failed_error_msg": {
+    "message": "Ne pare r\u0103u, a ap\u0103rut o problem\u0103 la salvarea fi\u0219ierului. Salveaz\u0103 din nou. Dac\u0103 problema persist\u0103, raporteaz-o."
+  },
+  "app_saving_failed_error_short_msg": {
+    "message": "Fi\u0219ierul nu poate fi salvat."
+  },
+  "backgroundcolor_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru culoarea de fundal a celulei"
+  },
+  "banner_dismiss": {
+    "message": "\u00cenchide"
+  },
+  "basic_editor_conversion_shortmsg": {
+    "message": "E\u0219ti \u00een modul Editor de baz\u0103"
+  },
+  "basic_editor_mode": {
+    "message": "Editor de baz\u0103"
+  },
+  "basic_editor_promo_conversion_msg": {
+    "message": "Lucrezi \u00een Editorul de baz\u0103 pentru fi\u0219iere Microsoft. Este posibil ca op\u021biunile de editare s\u0103 fie limitate. Fi\u0219ierul t\u0103u se va salva automat \u00een timpul modific\u0103rii."
+  },
+  "bold_aria_spoken_word": {
+    "message": "aldin"
+  },
+  "border_all_aria_spoken_word": {
+    "message": "toate bordurile"
+  },
+  "border_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru margine"
+  },
+  "border_bottom_aria_spoken_word": {
+    "message": "bordur\u0103 jos"
+  },
+  "border_horizontal_aria_spoken_word": {
+    "message": "bordur\u0103 orizontal\u0103"
+  },
+  "border_inner_aria_spoken_word": {
+    "message": "bordur\u0103 interioar\u0103"
+  },
+  "border_left_aria_spoken_word": {
+    "message": "bordur\u0103 la st\u00e2nga"
+  },
+  "border_none_aria_spoken_word": {
+    "message": "nicio bordur\u0103"
+  },
+  "border_outer_aria_spoken_word": {
+    "message": "bordur\u0103 exterioar\u0103"
+  },
+  "border_right_aria_spoken_word": {
+    "message": "bordur\u0103 la dreapta"
+  },
+  "border_top_aria_spoken_word": {
+    "message": "bordur\u0103 sus"
+  },
+  "border_vertical_aria_spoken_word": {
+    "message": "bordur\u0103 vertical\u0103"
+  },
+  "button_drive_promo_office_editing_mode_point": {
+    "message": "Deschide \u00een Prezent\u0103ri Google"
+  },
+  "button_drive_promo_office_editing_mode_sheet": {
+    "message": "Deschide \u00een Foi de calcul Google"
+  },
+  "button_drive_promo_office_editing_mode_word": {
+    "message": "Deschide \u00een Documente Google"
+  },
+  "button_ocm_convert_cancel": {
+    "message": "Anuleaz\u0103"
+  },
+  "button_ocm_oem_cancel": {
+    "message": "Anuleaz\u0103"
+  },
+  "button_ocm_promo_conversion_point": {
+    "message": "Salveaz\u0103 \u00een formatul Prezent\u0103ri Google"
+  },
+  "button_ocm_promo_conversion_sheet": {
+    "message": "Salveaz\u0103 \u00een formatul Foi de calcul Google"
+  },
+  "button_ocm_promo_conversion_word": {
+    "message": "Salveaz\u0103 \u00een formatul Documente Google"
+  },
+  "button_ocm_promo_office_editing_mode_point": {
+    "message": "\u00cencarc\u0103 \u00een Drive \u0219i deschide \u00een Prezent\u0103ri"
+  },
+  "button_ocm_promo_office_editing_mode_sheet": {
+    "message": "\u00cencarc\u0103 \u00een Drive \u0219i deschide \u00een Foi de calcul"
+  },
+  "button_ocm_promo_office_editing_mode_word": {
+    "message": "\u00cencarc\u0103 \u00een Drive \u0219i deschide \u00een Documente"
+  },
+  "button_share_convert_cancel": {
+    "message": "Anuleaz\u0103"
+  },
+  "button_share_oem_cancel": {
+    "message": "Anuleaz\u0103"
+  },
+  "button_share_promo_conversion_point": {
+    "message": "Salveaz\u0103 \u00een formatul Prezent\u0103ri Google"
+  },
+  "button_share_promo_conversion_sheet": {
+    "message": "Salveaz\u0103 \u00een formatul Foi de calcul Google"
+  },
+  "button_share_promo_conversion_word": {
+    "message": "Salveaz\u0103 \u00een formatul Documente Google"
+  },
+  "button_share_promo_office_editing_mode": {
+    "message": "\u00cencarc\u0103 \u00een Drive pentru a permite accesul"
+  },
+  "cell_align_aria_spoken_word": {
+    "message": "Alinierea textului \u00een celul\u0103"
+  },
+  "cellalign_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru alinierea textului \u00een celul\u0103"
+  },
+  "cellhaligncenter_aria_spoken_word": {
+    "message": "Centrat pe orizontal\u0103"
+  },
+  "cellhalignleft_aria_spoken_word": {
+    "message": "La st\u00e2nga pe orizontal\u0103"
+  },
+  "cellhalignright_aria_spoken_word": {
+    "message": "La dreapta pe orizontal\u0103"
+  },
+  "cellvalignbottom_aria_spoken_word": {
+    "message": "Jos pe vertical\u0103"
+  },
+  "cellvaligncenter_aria_spoken_word": {
+    "message": "Centrat pe vertical\u0103"
+  },
+  "cellvaligntop_aria_spoken_word": {
+    "message": "Sus pe vertical\u0103"
+  },
+  "char_count_label": {
+    "message": "Caractere"
+  },
+  "char_no_spaces_count_label": {
+    "message": "Caractere (f\u0103r\u0103 spa\u021bii)"
+  },
+  "close_dialog_aria_spoken_word": {
+    "message": "\u00cenchide caseta de dialog"
+  },
+  "cmd_dropdown_initaddshape_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru forme"
+  },
+  "collapsed": {
+    "message": "Restr\u00e2ns\u0103"
+  },
+  "collapsed_menu": {
+    "message": "$1 Restr\u00e2ns cu submeniu.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "color_black": {
+    "message": "Negru"
+  },
+  "color_blaze_orange": {
+    "message": "Portocaliu aprins"
+  },
+  "color_blue": {
+    "message": "Albastru"
+  },
+  "color_brown": {
+    "message": "Maro"
+  },
+  "color_cornflower_blue": {
+    "message": "Alb\u0103strui"
+  },
+  "color_cyan": {
+    "message": "Cyan"
+  },
+  "color_dark_blue": {
+    "message": "Albastru \u00eenchis"
+  },
+  "color_dark_blue_1": {
+    "message": "Albastru \u00eenchis 1"
+  },
+  "color_dark_blue_2": {
+    "message": "Albastru \u00eenchis 2"
+  },
+  "color_dark_blue_3": {
+    "message": "Albastru \u00eenchis 3"
+  },
+  "color_dark_blue_grey": {
+    "message": "Gri-alb\u0103strui \u00eenchis"
+  },
+  "color_dark_cornflower_blue_1": {
+    "message": "Alb\u0103strui \u00eenchis 1"
+  },
+  "color_dark_cornflower_blue_2": {
+    "message": "Alb\u0103strui \u00eenchis 2"
+  },
+  "color_dark_cornflower_blue_3": {
+    "message": "Alb\u0103strui \u00eenchis 3"
+  },
+  "color_dark_cyan": {
+    "message": "Cyan \u00eenchis"
+  },
+  "color_dark_cyan_1": {
+    "message": "Cyan \u00eenchis 1"
+  },
+  "color_dark_cyan_2": {
+    "message": "Cyan \u00eenchis 2"
+  },
+  "color_dark_cyan_3": {
+    "message": "Cyan \u00eenchis 3"
+  },
+  "color_dark_gray": {
+    "message": "Gri \u00eenchis"
+  },
+  "color_dark_gray_1": {
+    "message": "Gri \u00eenchis 1"
+  },
+  "color_dark_gray_2": {
+    "message": "Gri \u00eenchis 2"
+  },
+  "color_dark_gray_3": {
+    "message": "Gri \u00eenchis 3"
+  },
+  "color_dark_gray_4": {
+    "message": "Gri \u00eenchis 4"
+  },
+  "color_dark_green": {
+    "message": "Verde \u00eenchis"
+  },
+  "color_dark_green_1": {
+    "message": "Verde \u00eenchis 1"
+  },
+  "color_dark_green_2": {
+    "message": "Verde \u00eenchis 2"
+  },
+  "color_dark_green_3": {
+    "message": "Verde \u00eenchis 3"
+  },
+  "color_dark_green_5": {
+    "message": "Verde \u00eenchis 5"
+  },
+  "color_dark_grey_2": {
+    "message": "Gri \u00eenchis 2"
+  },
+  "color_dark_grey_5": {
+    "message": "Gri \u00eenchis 5"
+  },
+  "color_dark_magenta_1": {
+    "message": "Magenta \u00eenchis 1"
+  },
+  "color_dark_magenta_2": {
+    "message": "Magenta \u00eenchis 2"
+  },
+  "color_dark_magenta_3": {
+    "message": "Magenta \u00eenchis 3"
+  },
+  "color_dark_olive_green": {
+    "message": "Verde m\u0103sliniu \u00eenchis"
+  },
+  "color_dark_orange_1": {
+    "message": "Portocaliu \u00eenchis 1"
+  },
+  "color_dark_orange_2": {
+    "message": "Portocaliu \u00eenchis 2"
+  },
+  "color_dark_orange_3": {
+    "message": "Portocaliu \u00eenchis 3"
+  },
+  "color_dark_purple_1": {
+    "message": "Mov \u00eenchis 1"
+  },
+  "color_dark_purple_2": {
+    "message": "Mov \u00eenchis 2"
+  },
+  "color_dark_purple_3": {
+    "message": "Mov \u00eenchis 3"
+  },
+  "color_dark_red": {
+    "message": "Ro\u0219u \u00eenchis"
+  },
+  "color_dark_red_1": {
+    "message": "Ro\u0219u \u00eenchis 1"
+  },
+  "color_dark_red_2": {
+    "message": "Ro\u0219u \u00eenchis 2"
+  },
+  "color_dark_red_3": {
+    "message": "Ro\u0219u \u00eenchis 3"
+  },
+  "color_dark_red_berry_1": {
+    "message": "Ro\u0219u coac\u0103z\u0103 \u00eenchis 1"
+  },
+  "color_dark_red_berry_2": {
+    "message": "Ro\u0219u coac\u0103z\u0103 \u00eenchis 2"
+  },
+  "color_dark_red_berry_3": {
+    "message": "Ro\u0219u coac\u0103z\u0103 \u00eenchis 3"
+  },
+  "color_dark_slate_blue": {
+    "message": "Albastru de ardezie \u00eenchis"
+  },
+  "color_dark_yellow_1": {
+    "message": "Galben \u00eenchis 1"
+  },
+  "color_dark_yellow_2": {
+    "message": "Galben \u00eenchis 2"
+  },
+  "color_dark_yellow_3": {
+    "message": "Galben \u00eenchis 3"
+  },
+  "color_deep_pink": {
+    "message": "Roz intens"
+  },
+  "color_deep_sky_blue": {
+    "message": "Albastru celest"
+  },
+  "color_eucalyptus_green": {
+    "message": "Verde eucalipt"
+  },
+  "color_gold": {
+    "message": "Auriu"
+  },
+  "color_gray": {
+    "message": "Gri"
+  },
+  "color_green": {
+    "message": "Verde"
+  },
+  "color_light_blue": {
+    "message": "Albastru deschis"
+  },
+  "color_light_blue_1": {
+    "message": "Albastru deschis 1"
+  },
+  "color_light_blue_2": {
+    "message": "Albastru deschis 2"
+  },
+  "color_light_blue_3": {
+    "message": "Albastru deschis 3"
+  },
+  "color_light_cornflower_blue_1": {
+    "message": "Alb\u0103strui deschis 1"
+  },
+  "color_light_cornflower_blue_2": {
+    "message": "Alb\u0103strui deschis 2"
+  },
+  "color_light_cornflower_blue_3": {
+    "message": "Alb\u0103strui deschis 3"
+  },
+  "color_light_cyan": {
+    "message": "Cyan deschis"
+  },
+  "color_light_cyan_1": {
+    "message": "Cyan deschis 1"
+  },
+  "color_light_cyan_2": {
+    "message": "Cyan deschis 2"
+  },
+  "color_light_cyan_3": {
+    "message": "Cyan deschis 3"
+  },
+  "color_light_gray": {
+    "message": "Gri deschis"
+  },
+  "color_light_gray_1": {
+    "message": "Gri deschis 1"
+  },
+  "color_light_gray_2": {
+    "message": "Gri deschis 2"
+  },
+  "color_light_gray_3": {
+    "message": "Gri deschis 3"
+  },
+  "color_light_green": {
+    "message": "Verde deschis"
+  },
+  "color_light_green_1": {
+    "message": "Verde deschis 1"
+  },
+  "color_light_green_2": {
+    "message": "Verde deschis 2"
+  },
+  "color_light_green_3": {
+    "message": "Verde deschis 3"
+  },
+  "color_light_magenta_1": {
+    "message": "Magenta deschis 1"
+  },
+  "color_light_magenta_2": {
+    "message": "Magenta deschis 2"
+  },
+  "color_light_magenta_3": {
+    "message": "Magenta deschis 3"
+  },
+  "color_light_orange_1": {
+    "message": "Portocaliu deschis 1"
+  },
+  "color_light_orange_2": {
+    "message": "Portocaliu deschis 2"
+  },
+  "color_light_orange_3": {
+    "message": "Portocaliu deschis 3"
+  },
+  "color_light_purple": {
+    "message": "Mov deschis"
+  },
+  "color_light_purple_1": {
+    "message": "Mov deschis 1"
+  },
+  "color_light_purple_2": {
+    "message": "Mov deschis 2"
+  },
+  "color_light_purple_3": {
+    "message": "Mov deschis 3"
+  },
+  "color_light_red_1": {
+    "message": "Ro\u0219u deschis 1"
+  },
+  "color_light_red_2": {
+    "message": "Ro\u0219u deschis 2"
+  },
+  "color_light_red_3": {
+    "message": "Ro\u0219u deschis 3"
+  },
+  "color_light_red_berry_1": {
+    "message": "Ro\u0219u coac\u0103z\u0103 deschis 1"
+  },
+  "color_light_red_berry_2": {
+    "message": "Ro\u0219u coac\u0103z\u0103 deschis 2"
+  },
+  "color_light_red_berry_3": {
+    "message": "Ro\u0219u coac\u0103z\u0103 deschis 3"
+  },
+  "color_light_yellow": {
+    "message": "Galben deschis"
+  },
+  "color_light_yellow_1": {
+    "message": "Galben deschis 1"
+  },
+  "color_light_yellow_2": {
+    "message": "Galben deschis 2"
+  },
+  "color_light_yellow_3": {
+    "message": "Galben deschis 3"
+  },
+  "color_magenta": {
+    "message": "Magenta"
+  },
+  "color_maroon": {
+    "message": "Castaniu"
+  },
+  "color_midnight_blue": {
+    "message": "Albastru noapte"
+  },
+  "color_navy": {
+    "message": "Albastru marin"
+  },
+  "color_olive": {
+    "message": "M\u0103sliniu"
+  },
+  "color_orange": {
+    "message": "Portocaliu"
+  },
+  "color_peach": {
+    "message": "Piersic\u0103"
+  },
+  "color_pink": {
+    "message": "Roz"
+  },
+  "color_pistachio": {
+    "message": "Fistic"
+  },
+  "color_purple": {
+    "message": "Mov"
+  },
+  "color_red": {
+    "message": "Ro\u0219u"
+  },
+  "color_red_berry": {
+    "message": "Ro\u0219u coac\u0103z\u0103"
+  },
+  "color_royal_blue": {
+    "message": "Albastru regal"
+  },
+  "color_teal": {
+    "message": "Albastru verzui"
+  },
+  "color_turquiose": {
+    "message": "Turcoaz"
+  },
+  "color_white": {
+    "message": "Alb"
+  },
+  "color_yellow": {
+    "message": "Galben"
+  },
+  "command_key": {
+    "message": "Tasta Command"
+  },
+  "content_msg_merging_horizontally_across_vertical_section": {
+    "message": "Nu po\u021bi \u00eembina pe orizontal\u0103 celulele care fac parte dintr-o sec\u021biune \u00eembinat\u0103 deja pe vertical\u0103."
+  },
+  "content_msg_merging_multiple_cells_with_text": {
+    "message": "Dac\u0103 \u00eembini celulele, se va p\u0103stra numai valoarea din celula din st\u00e2nga sus. \u00cembini oricum?"
+  },
+  "content_msg_merging_partially_selected_merged_cells": {
+    "message": "Trebuie s\u0103 selectezi toate celulele dintr-o zon\u0103 \u00eembinat\u0103 pentru a le \u00eembina sau pentru a le anula \u00eembinarea."
+  },
+  "content_msg_merging_vertically_across_horizontal_section": {
+    "message": "Nu po\u021bi \u00eembina pe vertical\u0103 celulele care fac parte dintr-o sec\u021biune \u00eembinat\u0103 deja pe orizontal\u0103."
+  },
+  "content_render_error_msg": {
+    "message": "A ap\u0103rut o problem\u0103 legat\u0103 de con\u021binutul acestui document."
+  },
+  "context_menu_clipboard_copy": {
+    "message": "Copiaz\u0103"
+  },
+  "context_menu_delete": {
+    "message": "\u0218terge"
+  },
+  "context_menu_freeze": {
+    "message": "\u00cenghea\u021b\u0103"
+  },
+  "context_menu_insert": {
+    "message": "Insereaz\u0103"
+  },
+  "context_menu_sort_collation_ascending": {
+    "message": "Sorteaz\u0103 A \u2192 Z"
+  },
+  "context_menu_sort_collation_descending": {
+    "message": "Sorteaz\u0103 Z \u2192 A"
+  },
+  "context_menu_unfreeze": {
+    "message": "Dezghea\u021b\u0103"
+  },
+  "control_key": {
+    "message": "Tasta Ctrl"
+  },
+  "convert_attempt_for_sheet_with_large_file_size": {
+    "message": "Fi\u0219ierul este prea mare pentru a fi salvat \u00een formatul Foi de calcul Google"
+  },
+  "convert_attempt_for_slide_with_large_file_size": {
+    "message": "Fi\u0219ierul este prea mare pentru a fi salvat \u00een formatul Prezent\u0103ri Google"
+  },
+  "convert_attempt_for_word_with_large_file_size": {
+    "message": "Fi\u0219ierul este prea mare pentru a fi salvat \u00een formatul Documente Google"
+  },
+  "convert_attempt_when_offline": {
+    "message": "Pentru a salva fi\u0219iere \u00een formatul Documente Google trebuie s\u0103 fii online. \u00cencearc\u0103 din nou dup\u0103 restabilirea conexiunii."
+  },
+  "convert_attempt_with_invalid_creds": {
+    "message": "Pentru a converti acest fi\u0219ier trebuie s\u0103 te conectezi la Contul Google."
+  },
+  "convert_cancel": {
+    "message": "Anuleaz\u0103"
+  },
+  "convert_to_google_docs_failed": {
+    "message": "A ap\u0103rut o problem\u0103 la conversia documentului \u00een formatul Documente Google."
+  },
+  "convert_to_google_point_fail_short_msg": {
+    "message": "Hopa!"
+  },
+  "convert_to_google_point_short_msg": {
+    "message": "Se salveaz\u0103 \u00een formatul Prezent\u0103ri Google"
+  },
+  "convert_to_google_sheet_fail_short_msg": {
+    "message": "Hopa!"
+  },
+  "convert_to_google_sheet_short_msg": {
+    "message": "Se salveaz\u0103 \u00een formatul Foi de calcul Google"
+  },
+  "convert_to_google_word_fail_short_msg": {
+    "message": "Hopa!"
+  },
+  "convert_to_google_word_short_msg": {
+    "message": "Se salveaz\u0103 \u00een formatul Documente Google"
+  },
+  "convert_try_again": {
+    "message": "\u00cencearc\u0103 din nou"
+  },
+  "converting_to_google_point_fail_msg": {
+    "message": "\u00cen prezent, fi\u0219ierul nu a putut fi salvat \u00een formatul Prezent\u0103ri Google."
+  },
+  "converting_to_google_point_msg": {
+    "message": "Se salveaz\u0103 o versiune nou\u0103 a prezent\u0103rii \u00een formatul Prezent\u0103ri Google."
+  },
+  "converting_to_google_sheet_fail_msg": {
+    "message": "\u00cen prezent, fi\u0219ierul nu a putut fi salvat \u00een formatul Foi de calcul Google."
+  },
+  "converting_to_google_sheet_msg": {
+    "message": "Se salveaz\u0103 o versiune nou\u0103 a foii de calcul \u00een formatul Foi de calcul Google."
+  },
+  "converting_to_google_word_fail_msg": {
+    "message": "\u00cen prezent, fi\u0219ierul nu a putut fi salvat \u00een formatul Documente Google."
+  },
+  "converting_to_google_word_msg": {
+    "message": "Se salveaz\u0103 o versiune nou\u0103 a documentului \u00een formatul Documente Google."
+  },
+  "copy_attempt_when_offline": {
+    "message": "Pentru a crea o copie pe Google Drive, trebuie s\u0103 fii online. \u00cencearc\u0103 din nou dup\u0103 restabilirea conexiunii."
+  },
+  "copy_attempt_with_invalid_creds": {
+    "message": "Pentru a crea o copie, trebuie s\u0103 te conectezi la Contul Google."
+  },
+  "disabled_share_button": {
+    "message": "Se poate permite accesul la fi\u0219ierele cu macrocomenzi activate numai din Google Drive. Permiterea accesului este dezactivat\u0103."
+  },
+  "disallowed_cut_copy_paste_cmd_copy": {
+    "message": "pentru copiere"
+  },
+  "disallowed_cut_copy_paste_cmd_cut": {
+    "message": "pentru decupare"
+  },
+  "disallowed_cut_copy_paste_cmd_paste": {
+    "message": "pentru inserare"
+  },
+  "disallowed_cut_copy_paste_msg": {
+    "message": "Aceste ac\u021biuni nu sunt disponibile \u00een meniurile contextuale \u0219i de editare, dar pute\u021bi s\u0103 folosi\u021bi:"
+  },
+  "disallowed_cut_copy_paste_title": {
+    "message": "Copia\u021bi \u0219i insera\u021bi \u00een Mod de compatibilitate cu Office"
+  },
+  "dismiss": {
+    "message": "\u00cenchide"
+  },
+  "document_title_aria_spoken_word": {
+    "message": "Titlul documentului:"
+  },
+  "down_key": {
+    "message": "S\u0103geat\u0103 \u00een jos"
+  },
+  "download_button": {
+    "message": "Descarc\u0103"
+  },
+  "download_file_timeout_error_msg": {
+    "message": "\u00cenc\u0103rcarea fi\u0219ierului pe care \u00eel deschizi dureaz\u0103 mai mult dec\u00e2t de obicei. Verific\u0103 conexiunea la re\u021bea \u0219i \u00eencearc\u0103 din nou."
+  },
+  "download_file_timeout_error_short_msg": {
+    "message": "Desc\u0103rcarea fi\u0219ierului dureaz\u0103 mai mult dec\u00e2t de obicei"
+  },
+  "download_original": {
+    "message": "Descarc\u0103 originalul"
+  },
+  "drive_open_timeout_error_msg": {
+    "message": "Ar putea exista o problem\u0103 \u00een privin\u021ba conexiunii la internet. Verific\u0103-\u021bi conexiunea \u0219i \u00eencearc\u0103 din nou s\u0103 deschizi fi\u0219ierul. Dac\u0103 eroarea persist\u0103 \u0219i e\u0219ti online, raporteaz\u0103 o problem\u0103 mai jos."
+  },
+  "drive_open_timeout_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "duplicate_sheet_name_message": {
+    "message": "Introdu un nume pentru foaie, unul neutilizat de alt\u0103 foaie"
+  },
+  "duplicate_sheet_name_title": {
+    "message": "Exist\u0103 deja o foaie cu acel nume"
+  },
+  "editing_options_limited_banner_text": {
+    "message": "Este posibil ca op\u021biunile de editare s\u0103 fie limitate. Fi\u0219ierul t\u0103u se va salva automat \u00een timpul modific\u0103rii."
+  },
+  "edits_not_being_saved": {
+    "message": "Modific\u0103rile nu vor fi salvate automat."
+  },
+  "edits_now_being_auto_saved": {
+    "message": "Fi\u0219ierul a fost salvat. Acum, toate modific\u0103rile vor fi salvate automat."
+  },
+  "entry_point_error_msg": {
+    "message": "\u00cencearc\u0103 din nou sau semnaleaz\u0103 o problem\u0103 mai jos."
+  },
+  "entry_point_error_short_msg": {
+    "message": "Hopa... Nu s-a putut stabili ce fi\u0219ier ai vrut s\u0103 deschizi."
+  },
+  "error_occurred": {
+    "message": "A ap\u0103rut o eroare."
+  },
+  "error_password_required_msg": {
+    "message": "Momentan nu se accept\u0103 fi\u0219iere protejate, dar pe viitor vor fi acceptate."
+  },
+  "error_password_required_short_msg": {
+    "message": "Acest fi\u0219ier este protejat prin parol\u0103."
+  },
+  "expanded": {
+    "message": "Extins\u0103"
+  },
+  "expanded_menu": {
+    "message": "$1 Extins cu submeniu.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "extension_cros_name": {
+    "message": "Editor de baz\u0103 pentru fi\u0219iere Office"
+  },
+  "extension_description": {
+    "message": "Vezi \u0219i modific\u0103 fi\u0219iere Microsoft Word, Excel \u0219i PowerPoint cu Documente Google, Foi de calcul Google \u0219i Prezent\u0103ri Google"
+  },
+  "extension_name": {
+    "message": "Office Editing pentru Documente, Foi de calcul \u0219i Prezent\u0103ri"
+  },
+  "extension_popup_message_body": {
+    "message": "Pentru a deschide fi\u0219ierele existente, trage\u021bi \u0219i plasa\u021bi-le \u00een browser"
+  },
+  "extension_popup_new_document_header": {
+    "message": "Nou\u2026"
+  },
+  "extension_popup_new_presentation_document": {
+    "message": "Prezentare PowerPoint"
+  },
+  "extension_popup_new_spreadsheet_document": {
+    "message": "Foaie de calcul Excel"
+  },
+  "extension_popup_new_word_document": {
+    "message": "Document Word"
+  },
+  "feedback_textbox_editing": {
+    "message": "Doresc ca textul din casetele text s\u0103 poat\u0103 fi editat."
+  },
+  "feedback_ui_template": {
+    "message": "1 \u2013 Descrie problema cu care te-ai confruntat.\n2 \u2013 Eroarea a ap\u0103rut c\u00e2nd \u00eencercai s\u0103 deschizi sau c\u00e2nd \u00eencercai s\u0103 editezi un fi\u0219ier?\n3 \u2013 Aceast\u0103 problem\u0103 apare c\u00e2nd \u00eencerci s\u0103 deschizi sau s\u0103 editezi orice fi\u0219ier sau numai \u00een cazul anumitor fi\u0219iere?\n\nDac\u0103 aceast\u0103 problem\u0103 este specific\u0103 unui anumit fi\u0219ier, nu ezita s\u0103 ata\u0219ezi fi\u0219ierul la acest raport. Va fi foarte util pentru remedierea problemei mai \u00een detaliu."
+  },
+  "file_does_not_exist_error_details": {
+    "message": "Acest fi\u0219ier nu exist\u0103. Este posibil s\u0103 fi deschis un link primit sau un document marcat. \u00cencearc\u0103 s\u0103 deschizi din nou fi\u0219ierul din sursa original\u0103."
+  },
+  "file_does_not_exist_error_title": {
+    "message": "Fi\u0219ierul nu a fost g\u0103sit."
+  },
+  "file_loading_spinner_label": {
+    "message": "Se \u00eencarc\u0103"
+  },
+  "file_missing_content_msg": {
+    "message": "A ap\u0103rut o problem\u0103 la citirea \u00eentregului con\u021binut al acestui fi\u0219ier. \u00cencearc\u0103 s\u0103 \u00eel redenume\u0219ti \u0219i s\u0103 \u00eel redeschizi."
+  },
+  "file_missing_content_short_msg": {
+    "message": "Din document lipse\u0219te con\u021binut."
+  },
+  "file_not_found_error_msg": {
+    "message": "Consult\u0103 proprietarul fi\u0219ierului pentru a te asigura c\u0103 ai permisiunea s\u0103 \u00eel accesezi. Dac\u0103 eroarea persist\u0103 \u0219i ai permisiunea s\u0103 accesezi fi\u0219ierul, raporteaz\u0103 o problem\u0103 mai jos."
+  },
+  "file_not_found_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "file_not_found_exception": {
+    "message": "E posibil ca fi\u0219ierul solicitat s\u0103 fi fost \u0219ters, redenumit sau mutat \u00een alt\u0103 loca\u021bie. Da\u021bi clic pe \u201eSalva\u021bi acum\u201d pentru a continua."
+  },
+  "file_not_found_link_text": {
+    "message": "Pentru asisten\u021b\u0103 \u00een privin\u021ba mai multor conturi, consult\u0103 acest articol"
+  },
+  "file_not_found_msg": {
+    "message": "Fi\u0219ierul solicitat a fost mutat."
+  },
+  "file_not_found_title": {
+    "message": "Fi\u0219ierul nu a fost g\u0103sit."
+  },
+  "file_open_crash_error_msg": {
+    "message": "Dac\u0103 eroarea persist\u0103, raporteaz\u0103 o problem\u0103 mai jos."
+  },
+  "file_open_crash_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "file_open_error_msg": {
+    "message": "Con\u021binutul fi\u0219ierului nu poate fi accesat."
+  },
+  "file_open_error_short_msg": {
+    "message": "Acest fi\u0219ier pare s\u0103 fie deteriorat."
+  },
+  "file_open_fail_download_link_text": {
+    "message": "Descarc\u0103 fi\u0219ierul"
+  },
+  "file_opened_in_incognito_mode_error_details": {
+    "message": "Extensia Editare de fi\u0219iere Office nu func\u021bioneaz\u0103 \u00een modul incognito. Deschide acest fi\u0219ier folosind o fereastr\u0103 Chrome normal\u0103. Dac\u0103 folose\u0219ti modul pentru invita\u021bi, \u00eenseamn\u0103 c\u0103 deschiderea fi\u0219ierului a e\u0219uat. Asigur\u0103-te c\u0103 fi\u0219ierul nu este deteriorat sau c\u0103 tipul lui nu este nevalid \u0219i \u00eencearc\u0103 din nou."
+  },
+  "file_opened_in_incognito_mode_error_title": {
+    "message": "Hopa! Modul incognito nu este acceptat"
+  },
+  "file_pdf_type_rename_msg": {
+    "message": "Redenume\u0219te fi\u0219ierul ca $1.pdf \u0219i \u00eencearc\u0103 din nou.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_rtf_type_rename_msg": {
+    "message": "Redenume\u0219te fi\u0219ierul ca $1.rtf",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_type_unsupported_msg": {
+    "message": "Acest tip de fi\u0219ier nu este acceptat."
+  },
+  "fillcolor_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru culoarea textului"
+  },
+  "fontface_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru aspectul fontului"
+  },
+  "fontsize_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru dimensiunea fontului"
+  },
+  "forbidden_access_level_error_msg": {
+    "message": "Consult\u0103 proprietarul fi\u0219ierului pentru a te asigura c\u0103 ai permisiunea s\u0103 deschizi acest fi\u0219ier. Dac\u0103 eroarea persist\u0103 \u0219i ai permisiunea s\u0103 deschizi fi\u0219ierul, raporteaz\u0103 o problem\u0103 mai jos."
+  },
+  "forbidden_access_level_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "forbidden_app_access_error_msg": {
+    "message": "Se pare c\u0103 nu avem permisiunea s\u0103 deschidem acest fi\u0219ier. \u00cencearc\u0103 s\u0103 deschizi fi\u0219ierul din Google Drive sau raporteaz\u0103 o problem\u0103 mai jos."
+  },
+  "forbidden_app_access_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "forbidden_app_id_error_msg": {
+    "message": "Se pare c\u0103 extensia Chrome nu este configurat\u0103 corespunz\u0103tor. Cum este posibil? Nu \u0219tim exact, \u00eens\u0103 te rug\u0103m s\u0103 raportezi o problem\u0103 mai jos."
+  },
+  "forbidden_app_id_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "forbidden_blacklist_error_msg": {
+    "message": "Se pare c\u0103 aceast\u0103 extensie Chrome a fost trecut\u0103 pe lista neagr\u0103. Este evident o gre\u0219eal\u0103, deci informeaz\u0103-ne despre aceasta raport\u00e2nd o problem\u0103 mai jos."
+  },
+  "forbidden_blacklist_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "forbidden_domain_error_msg": {
+    "message": "Se pare c\u0103 domeniul t\u0103u a interzis accesul la acest fi\u0219ier. Contacteaz\u0103 administratorul de domeniu sau raporteaz\u0103 o problem\u0103 mai jos."
+  },
+  "forbidden_domain_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "forbidden_internal_error_msg": {
+    "message": "Din p\u0103cate, Google Drive nu func\u021bioneaz\u0103 conform a\u0219tept\u0103rilor. \u00cencearc\u0103 s\u0103 deschizi din nou fi\u0219ierul sau raporteaz\u0103 o problem\u0103 mai jos."
+  },
+  "forbidden_internal_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "forbidden_not_installed_error_msg": {
+    "message": "Se pare c\u0103 extensia Chrome nu este instalat\u0103 corespunz\u0103tor. Cum este posibil? Nu \u0219tim exact, \u00eens\u0103 te rug\u0103m s\u0103 raportezi problema mai jos."
+  },
+  "forbidden_not_installed_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "generic_error_msg": {
+    "message": "A ap\u0103rut o problem\u0103 legat\u0103 de con\u021binutul acestui document."
+  },
+  "generic_error_short_msg": {
+    "message": "Hopa... Asta nu trebuia s\u0103 se \u00eent\u00e2mple. Re\u00eencarc\u0103 pagina pentru a recupera modific\u0103rile."
+  },
+  "get_lists_data_error_msg": {
+    "message": "Este posibil ca documentul s\u0103 fie afi\u0219at cu o formatare incorect\u0103 a listelor."
+  },
+  "get_lists_data_error_short_msg": {
+    "message": "Formatarea documentului nu a putut fi preluat\u0103."
+  },
+  "highlightcolor_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru culoarea de eviden\u021biere a textului"
+  },
+  "http_error_zero_msg": {
+    "message": "Dac\u0103 este o problem\u0103 de re\u021bea, verific\u0103 conexiunea sau \u00eencearc\u0103 din nou mai t\u00e2rziu. Dac\u0103 problema persist\u0103, raporteaz-o mai jos."
+  },
+  "http_error_zero_short_msg": {
+    "message": "Ne pare r\u0103u, nu am putut deschide fi\u0219ierul."
+  },
+  "info_file_copied": {
+    "message": "Salvat"
+  },
+  "info_file_save_cancelled": {
+    "message": "Salvarea a fost anulat\u0103."
+  },
+  "info_file_save_failed": {
+    "message": "Nu s-a salvat."
+  },
+  "info_file_saved_at_location": {
+    "message": "Toate modific\u0103rile au fost salvate la $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "info_file_saved_in_drive": {
+    "message": "Toate modific\u0103rile au fost salvate \u00een Drive"
+  },
+  "info_file_saved_locally": {
+    "message": "Toate modific\u0103rile au fost salvate local"
+  },
+  "info_file_saved_offline": {
+    "message": "Toate modific\u0103rile au fost salvate offline"
+  },
+  "info_file_saving": {
+    "message": "Se salveaz\u0103\u2026"
+  },
+  "initaddshape_aria_spoken_word": {
+    "message": "caset\u0103 pentru ad\u0103ugarea textului"
+  },
+  "invalid_credentials_error_msg": {
+    "message": "Pentru a accesa acest fi\u0219ier, trebuie s\u0103 te conectezi la Contul Google."
+  },
+  "invalid_credentials_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "invalid_file_format_msg": {
+    "message": "De\u0219i fi\u0219ierul seam\u0103n\u0103 cu un document Office \u0219i are extensie de fi\u0219ier Office, este de fapt alt tip de fi\u0219ier redenumit sau modificat \u00een alt mod sau este un tip de fi\u0219ier incompatibil."
+  },
+  "invalid_file_format_short_msg": {
+    "message": "Hopa, se pare c\u0103 nu putem deschide acest tip de document."
+  },
+  "italic_aria_spoken_word": {
+    "message": "cursiv"
+  },
+  "keyboard_shortcut_group_actions": {
+    "message": "Ac\u021biuni"
+  },
+  "keyboard_shortcut_group_other": {
+    "message": "Altele"
+  },
+  "keyboard_shortcut_group_paragraph_formatting": {
+    "message": "Formatarea paragrafului"
+  },
+  "keyboard_shortcut_group_text_formatting": {
+    "message": "Formatarea textului"
+  },
+  "keyboard_shortcut_group_top_menus": {
+    "message": "Meniuri"
+  },
+  "keyboard_shortcut_group_with_slides": {
+    "message": "Cu Prezent\u0103ri"
+  },
+  "keyboard_shortcut_title": {
+    "message": "Comenzi rapide de la tastatur\u0103"
+  },
+  "large_file_size_dialog_title_for_sheet": {
+    "message": "Fi\u0219ierul nu poate fi salvat \u00een formatul Foi de calcul Google"
+  },
+  "large_file_size_dialog_title_for_slide": {
+    "message": "Fi\u0219ierul nu poate fi salvat \u00een formatul Prezent\u0103ri Google"
+  },
+  "large_file_size_dialog_title_for_word": {
+    "message": "Fi\u0219ierul nu poate fi salvat \u00een formatul Documente Google"
+  },
+  "make_a_copy_fail_msg": {
+    "message": "\u00cen prezent, nu se poate crea o copie."
+  },
+  "menu_button_data": {
+    "message": "Date"
+  },
+  "menu_button_edit": {
+    "message": "Editeaz\u0103"
+  },
+  "menu_button_file": {
+    "message": "Fi\u0219ier"
+  },
+  "menu_button_format": {
+    "message": "Formateaz\u0103"
+  },
+  "menu_button_help": {
+    "message": "Ajutor"
+  },
+  "menu_button_insert": {
+    "message": "Insereaz\u0103"
+  },
+  "menu_button_slide": {
+    "message": "Prezentare"
+  },
+  "menu_button_tools": {
+    "message": "Instrumente"
+  },
+  "menu_button_view": {
+    "message": "Afi\u0219eaz\u0103"
+  },
+  "menu_item_10_point_star": {
+    "message": "Stea cu 10 col\u021buri"
+  },
+  "menu_item_12_point_star": {
+    "message": "Stea cu 12 col\u021buri"
+  },
+  "menu_item_16_point_star": {
+    "message": "Stea cu 16 col\u021buri"
+  },
+  "menu_item_24_point_star": {
+    "message": "Stea cu 24 de col\u021buri"
+  },
+  "menu_item_32_point_star": {
+    "message": "Stea cu 32 de col\u021buri"
+  },
+  "menu_item_4_point_star": {
+    "message": "Stea cu 4 col\u021buri"
+  },
+  "menu_item_5_point_star": {
+    "message": "Stea cu 5 col\u021buri"
+  },
+  "menu_item_6_point_star": {
+    "message": "Stea cu 6 col\u021buri"
+  },
+  "menu_item_7_point_star": {
+    "message": "Stea cu 7 col\u021buri"
+  },
+  "menu_item_8_point_star": {
+    "message": "Stea cu 8 col\u021buri"
+  },
+  "menu_item_align": {
+    "message": "Aliniaz\u0103"
+  },
+  "menu_item_align_center": {
+    "message": "Centrat"
+  },
+  "menu_item_align_justified": {
+    "message": "St\u00e2nga-dreapta"
+  },
+  "menu_item_align_left": {
+    "message": "St\u00e2nga"
+  },
+  "menu_item_align_right": {
+    "message": "Dreapta"
+  },
+  "menu_item_arrows": {
+    "message": "S\u0103ge\u021bi"
+  },
+  "menu_item_bent_arrow": {
+    "message": "S\u0103geat\u0103 \u00eendoit\u0103"
+  },
+  "menu_item_bent_up_arrow": {
+    "message": "S\u0103geat\u0103 \u00eendoit\u0103 \u00een sus"
+  },
+  "menu_item_bevel": {
+    "message": "Te\u0219itur\u0103"
+  },
+  "menu_item_block_arc": {
+    "message": "Arc plin"
+  },
+  "menu_item_bold": {
+    "message": "Aldin"
+  },
+  "menu_item_callouts": {
+    "message": "Explica\u021bii"
+  },
+  "menu_item_can": {
+    "message": "Cutie"
+  },
+  "menu_item_chevron": {
+    "message": "Ghilimele unghiulare"
+  },
+  "menu_item_chord": {
+    "message": "Acord"
+  },
+  "menu_item_clear_formatting": {
+    "message": "Anuleaz\u0103 formatarea"
+  },
+  "menu_item_cloud": {
+    "message": "Nor"
+  },
+  "menu_item_cloud_callout": {
+    "message": "Explica\u021bie \u00een form\u0103 de nor"
+  },
+  "menu_item_color_none": {
+    "message": "Niciuna"
+  },
+  "menu_item_color_transparent": {
+    "message": "Transparent"
+  },
+  "menu_item_convert_to_docs": {
+    "message": "Salveaz\u0103 \u00een formatul Documente Google"
+  },
+  "menu_item_convert_to_sheets": {
+    "message": "Salveaz\u0103 \u00een formatul Foi de calcul Google"
+  },
+  "menu_item_convert_to_slides": {
+    "message": "Salveaz\u0103 \u00een formatul Prezent\u0103ri Google"
+  },
+  "menu_item_copy": {
+    "message": "Copiaz\u0103"
+  },
+  "menu_item_cross": {
+    "message": "Cruce"
+  },
+  "menu_item_cube": {
+    "message": "Cub"
+  },
+  "menu_item_curved_down_arrow": {
+    "message": "S\u0103geat\u0103 curbat\u0103 \u00een jos"
+  },
+  "menu_item_curved_left_arrow": {
+    "message": "S\u0103geat\u0103 curbat\u0103 spre st\u00e2nga"
+  },
+  "menu_item_curved_right_arrow": {
+    "message": "S\u0103geat\u0103 curbat\u0103 spre dreapta"
+  },
+  "menu_item_curved_up_arrow": {
+    "message": "S\u0103geat\u0103 curbat\u0103 \u00een sus"
+  },
+  "menu_item_cut": {
+    "message": "Decupeaz\u0103"
+  },
+  "menu_item_decagon": {
+    "message": "Decagon"
+  },
+  "menu_item_delete_column": {
+    "message": "\u0218terge coloana"
+  },
+  "menu_item_delete_row": {
+    "message": "\u0218terge r\u00e2ndul"
+  },
+  "menu_item_delete_value": {
+    "message": "\u0218terge valoarea"
+  },
+  "menu_item_deleteslide": {
+    "message": "\u0218terge prezentarea"
+  },
+  "menu_item_diagonal_stripe": {
+    "message": "Dung\u0103 oblic\u0103"
+  },
+  "menu_item_diamond": {
+    "message": "Diamant"
+  },
+  "menu_item_divide": {
+    "message": "Semnul \u00eemp\u0103r\u021birii"
+  },
+  "menu_item_dodecagon": {
+    "message": "Dodecagon"
+  },
+  "menu_item_donut": {
+    "message": "Tor"
+  },
+  "menu_item_double_brace": {
+    "message": "Acolade duble"
+  },
+  "menu_item_double_bracket": {
+    "message": "Paranteze duble"
+  },
+  "menu_item_down_arrow": {
+    "message": "S\u0103geat\u0103 \u00een jos"
+  },
+  "menu_item_down_arrow_callout": {
+    "message": "Explica\u021bie cu s\u0103geat\u0103 \u00een jos"
+  },
+  "menu_item_duplicateslide": {
+    "message": "Duplic\u0103 slide-ul"
+  },
+  "menu_item_equal": {
+    "message": "Egal"
+  },
+  "menu_item_equation": {
+    "message": "Ecua\u021bie"
+  },
+  "menu_item_explosion_1": {
+    "message": "Explozie 1"
+  },
+  "menu_item_explosion_2": {
+    "message": "Explozie 2"
+  },
+  "menu_item_flowchart_alternate_process": {
+    "message": "Schem\u0103 logic\u0103: proces alternativ"
+  },
+  "menu_item_flowchart_card": {
+    "message": "Schem\u0103 logic\u0103: card"
+  },
+  "menu_item_flowchart_collate": {
+    "message": "Schem\u0103 logic\u0103: cola\u021bionare"
+  },
+  "menu_item_flowchart_connector": {
+    "message": "Schem\u0103 logic\u0103: conector"
+  },
+  "menu_item_flowchart_data": {
+    "message": "Schem\u0103 logic\u0103: date"
+  },
+  "menu_item_flowchart_decision": {
+    "message": "Schem\u0103 logic\u0103: decizie"
+  },
+  "menu_item_flowchart_delay": {
+    "message": "Schem\u0103 logic\u0103: \u00eent\u00e2rziere"
+  },
+  "menu_item_flowchart_direct_access_storage": {
+    "message": "Schem\u0103 logic\u0103: stocare cu acces direct"
+  },
+  "menu_item_flowchart_display": {
+    "message": "Schem\u0103 logic\u0103: afi\u0219are"
+  },
+  "menu_item_flowchart_document": {
+    "message": "Schem\u0103 logic\u0103: document"
+  },
+  "menu_item_flowchart_extract": {
+    "message": "Schem\u0103 logic\u0103: extragere"
+  },
+  "menu_item_flowchart_internal_storage": {
+    "message": "Schem\u0103 logic\u0103: stocare intern\u0103"
+  },
+  "menu_item_flowchart_magnetic_disk": {
+    "message": "Schem\u0103 logic\u0103: disc magnetic"
+  },
+  "menu_item_flowchart_manual_input": {
+    "message": "Schem\u0103 logic\u0103: introducere manual\u0103"
+  },
+  "menu_item_flowchart_manual_operation": {
+    "message": "Schem\u0103 logic\u0103: opera\u021bie manual\u0103"
+  },
+  "menu_item_flowchart_merge": {
+    "message": "Schem\u0103 logic\u0103: \u00eembinare"
+  },
+  "menu_item_flowchart_multidocument": {
+    "message": "Schem\u0103 logic\u0103: document multiplu"
+  },
+  "menu_item_flowchart_off_page_connector": {
+    "message": "Schem\u0103 logic\u0103: conector \u00een afara paginii"
+  },
+  "menu_item_flowchart_or": {
+    "message": "Schem\u0103 logic\u0103: sau"
+  },
+  "menu_item_flowchart_predefined_process": {
+    "message": "Schem\u0103 logic\u0103: proces predefinit"
+  },
+  "menu_item_flowchart_preparation": {
+    "message": "Schem\u0103 logic\u0103: preg\u0103tire"
+  },
+  "menu_item_flowchart_process": {
+    "message": "Schem\u0103 logic\u0103: proces"
+  },
+  "menu_item_flowchart_punched_tape": {
+    "message": "Schem\u0103 logic\u0103: band\u0103 perforat\u0103"
+  },
+  "menu_item_flowchart_sequential_access_storage": {
+    "message": "Schem\u0103 logic\u0103: stocare cu acces secven\u021bial"
+  },
+  "menu_item_flowchart_sort": {
+    "message": "Schem\u0103 logic\u0103: sortare"
+  },
+  "menu_item_flowchart_stored_data": {
+    "message": "Schem\u0103 logic\u0103: date stocate"
+  },
+  "menu_item_flowchart_summing_junction": {
+    "message": "Schem\u0103 logic\u0103: jonc\u021biune de \u00eensumare"
+  },
+  "menu_item_flowchart_terminator": {
+    "message": "Schem\u0103 logic\u0103: punct terminal"
+  },
+  "menu_item_folded_corner": {
+    "message": "Col\u021b \u00eendoit"
+  },
+  "menu_item_frame": {
+    "message": "Cadru"
+  },
+  "menu_item_half_frame": {
+    "message": "Jum\u0103tate de cadru"
+  },
+  "menu_item_heart": {
+    "message": "Inim\u0103"
+  },
+  "menu_item_help_center": {
+    "message": "Centrul de ajutor"
+  },
+  "menu_item_heptagon": {
+    "message": "Heptagon"
+  },
+  "menu_item_hexagon": {
+    "message": "Hexagon"
+  },
+  "menu_item_hideslide": {
+    "message": "Ascunde prezentarea"
+  },
+  "menu_item_insert_column": {
+    "message": "Coloan\u0103"
+  },
+  "menu_item_insert_image": {
+    "message": "Imagine"
+  },
+  "menu_item_insert_row": {
+    "message": "R\u00e2nd"
+  },
+  "menu_item_insert_text_box": {
+    "message": "Caset\u0103 de text"
+  },
+  "menu_item_insertslide": {
+    "message": "Prezentare nou\u0103"
+  },
+  "menu_item_italic": {
+    "message": "Cursiv"
+  },
+  "menu_item_keyboard_shortcuts": {
+    "message": "Comenzi rapide de la tastatur\u0103"
+  },
+  "menu_item_l_shape": {
+    "message": "Form\u0103 de L"
+  },
+  "menu_item_left_arrow": {
+    "message": "S\u0103geat\u0103 spre st\u00e2nga"
+  },
+  "menu_item_left_arrow_callout": {
+    "message": "Explica\u021bie cu s\u0103geat\u0103 spre st\u00e2nga"
+  },
+  "menu_item_left_brace": {
+    "message": "Acolad\u0103 st\u00e2nga"
+  },
+  "menu_item_left_bracket": {
+    "message": "Parantez\u0103 st\u00e2nga"
+  },
+  "menu_item_left_right_arrow": {
+    "message": "S\u0103geat\u0103 st\u00e2nga-dreapta"
+  },
+  "menu_item_left_right_arrow_callout": {
+    "message": "Explica\u021bie cu s\u0103geat\u0103 st\u00e2nga-dreapta"
+  },
+  "menu_item_left_right_up_arrow": {
+    "message": "S\u0103geat\u0103 st\u00e2nga-dreapta-sus"
+  },
+  "menu_item_left_up_arrow": {
+    "message": "S\u0103geat\u0103 st\u00e2nga-sus"
+  },
+  "menu_item_lightning_bolt": {
+    "message": "Fulger"
+  },
+  "menu_item_make_a_copy": {
+    "message": "Creeaz\u0103 o copie\u2026"
+  },
+  "menu_item_merge_all": {
+    "message": "\u00cembin\u0103 toate"
+  },
+  "menu_item_merge_cells": {
+    "message": "\u00cembin\u0103 celulele"
+  },
+  "menu_item_merge_horizontally": {
+    "message": "\u00cembin\u0103 pe orizontal\u0103"
+  },
+  "menu_item_merge_vertically": {
+    "message": "\u00cembin\u0103 pe vertical\u0103"
+  },
+  "menu_item_minus": {
+    "message": "Minus"
+  },
+  "menu_item_moon": {
+    "message": "Lun\u0103"
+  },
+  "menu_item_moveslidedown": {
+    "message": "Mut\u0103 slide-ul \u00een jos"
+  },
+  "menu_item_moveslidetoend": {
+    "message": "Mut\u0103 slide-ul la final"
+  },
+  "menu_item_moveslidetostart": {
+    "message": "Mut\u0103 slide-ul la \u00eenceput"
+  },
+  "menu_item_moveslideup": {
+    "message": "Mut\u0103 slide-ul \u00een sus"
+  },
+  "menu_item_multiply": {
+    "message": "Semnul \u00eenmul\u021birii"
+  },
+  "menu_item_new": {
+    "message": "Nou"
+  },
+  "menu_item_no_symbol": {
+    "message": "Simbolul \u201eNu\u201d"
+  },
+  "menu_item_not_equal": {
+    "message": "Semnul de inegal"
+  },
+  "menu_item_notched_right_arrow": {
+    "message": "S\u0103geat\u0103 dreapta crestat\u0103"
+  },
+  "menu_item_number_format": {
+    "message": "Formatul numerelor"
+  },
+  "menu_item_number_menu": {
+    "message": "Num\u0103r"
+  },
+  "menu_item_numbering": {
+    "message": "$1 din $2",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "menu_item_octagon": {
+    "message": "Octogon"
+  },
+  "menu_item_open": {
+    "message": "Deschide"
+  },
+  "menu_item_oval": {
+    "message": "Oval"
+  },
+  "menu_item_oval_callout": {
+    "message": "Explica\u021bie \u00een oval"
+  },
+  "menu_item_parallelogram": {
+    "message": "Paralelogram"
+  },
+  "menu_item_paste": {
+    "message": "Insereaz\u0103"
+  },
+  "menu_item_pentagon": {
+    "message": "Pentagon"
+  },
+  "menu_item_pie": {
+    "message": "Structur\u0103 radial\u0103"
+  },
+  "menu_item_plaque": {
+    "message": "Plac\u0103"
+  },
+  "menu_item_plus": {
+    "message": "Plus"
+  },
+  "menu_item_present": {
+    "message": "Prezint\u0103"
+  },
+  "menu_item_print": {
+    "message": "Printeaz\u0103"
+  },
+  "menu_item_quad_arrow": {
+    "message": "S\u0103geat\u0103 \u00een patru puncte"
+  },
+  "menu_item_quad_arrow_callout": {
+    "message": "Explica\u021bie cu s\u0103geat\u0103 \u00een patru puncte"
+  },
+  "menu_item_rectangle": {
+    "message": "Dreptunghi"
+  },
+  "menu_item_rectangular_callout": {
+    "message": "Explica\u021bie \u00een dreptunghi"
+  },
+  "menu_item_redo": {
+    "message": "Repet\u0103"
+  },
+  "menu_item_regular_pentagon": {
+    "message": "Pentagon regulat"
+  },
+  "menu_item_report_abuse": {
+    "message": "Semnaleaz\u0103 un abuz"
+  },
+  "menu_item_report_issue": {
+    "message": "Semnaleaz\u0103 o problem\u0103"
+  },
+  "menu_item_right_arrow": {
+    "message": "S\u0103geat\u0103 spre dreapta"
+  },
+  "menu_item_right_arrow_callout": {
+    "message": "Explica\u021bie cu s\u0103geat\u0103 spre dreapta"
+  },
+  "menu_item_right_brace": {
+    "message": "Acolad\u0103 dreapta"
+  },
+  "menu_item_right_bracket": {
+    "message": "Parantez\u0103 dreapta"
+  },
+  "menu_item_right_triangle": {
+    "message": "Triunghi dreptunghic"
+  },
+  "menu_item_round_diagonal_corner_rectangle": {
+    "message": "Dreptunghi cu col\u021buri rotunjite pe diagonal\u0103"
+  },
+  "menu_item_round_same_side_corner_rectangle": {
+    "message": "Dreptunghi cu col\u021buri rotunjite pe aceea\u0219i parte"
+  },
+  "menu_item_round_single_corner_rectangle": {
+    "message": "Dreptunghi cu un col\u021b rotunjit"
+  },
+  "menu_item_rounded_rectangle": {
+    "message": "Dreptunghi rotunjit"
+  },
+  "menu_item_rounded_rectangular_callout": {
+    "message": "Explica\u021bie \u00een dreptunghi rotunjit"
+  },
+  "menu_item_save": {
+    "message": "Salveaz\u0103"
+  },
+  "menu_item_save_as": {
+    "message": "Salveaz\u0103 ca\u2026"
+  },
+  "menu_item_shapes": {
+    "message": "Forme"
+  },
+  "menu_item_share": {
+    "message": "Distribuie"
+  },
+  "menu_item_smiley_face": {
+    "message": "Fa\u021b\u0103 z\u00e2mbitoare"
+  },
+  "menu_item_snip_and_round_single_corner_rectangle": {
+    "message": "Dreptunghi cu un col\u021b t\u0103iat \u0219i rotunjit"
+  },
+  "menu_item_snip_diagonal_corner_rectangle": {
+    "message": "Dreptunghi cu col\u021burile t\u0103iate pe diagonal\u0103"
+  },
+  "menu_item_snip_same_side_corner_rectangle": {
+    "message": "Dreptunghi cu col\u021burile t\u0103iate pe aceea\u0219i parte"
+  },
+  "menu_item_snip_single_corner_rectangle": {
+    "message": "Dreptunghi cu un col\u021b t\u0103iat"
+  },
+  "menu_item_strikethrough": {
+    "message": "T\u0103iat cu o linie"
+  },
+  "menu_item_striped_right_arrow": {
+    "message": "S\u0103geat\u0103 dreapta v\u0103rgat\u0103"
+  },
+  "menu_item_subscript": {
+    "message": "Indice"
+  },
+  "menu_item_sun": {
+    "message": "Soare"
+  },
+  "menu_item_superscript": {
+    "message": "Exponent"
+  },
+  "menu_item_teardrop": {
+    "message": "Lacrim\u0103"
+  },
+  "menu_item_trapezoid": {
+    "message": "Trapezoid"
+  },
+  "menu_item_triangle": {
+    "message": "Triunghi"
+  },
+  "menu_item_u_turn_arrow": {
+    "message": "S\u0103geat\u0103 \u00een U"
+  },
+  "menu_item_underline": {
+    "message": "Subliniat"
+  },
+  "menu_item_undo": {
+    "message": "Anuleaz\u0103"
+  },
+  "menu_item_unhideslide": {
+    "message": "Afi\u0219eaz\u0103 prezentarea"
+  },
+  "menu_item_unmerge": {
+    "message": "Anuleaz\u0103 \u00eembinarea"
+  },
+  "menu_item_up_arrow": {
+    "message": "S\u0103geat\u0103 \u00een sus"
+  },
+  "menu_item_up_arrow_callout": {
+    "message": "Explica\u021bie cu s\u0103geat\u0103 \u00een sus"
+  },
+  "menu_item_up_down_arrow": {
+    "message": "S\u0103geat\u0103 sus-jos"
+  },
+  "menu_item_version_info": {
+    "message": "Informa\u021bii privind versiunea"
+  },
+  "menu_item_word_count": {
+    "message": "Num\u0103r de cuvinte"
+  },
+  "menu_item_wrap_text": {
+    "message": "\u00cencadreaz\u0103 textul"
+  },
+  "menu_item_zoom_in": {
+    "message": "M\u0103re\u0219te"
+  },
+  "menu_item_zoom_out": {
+    "message": "Mic\u0219oreaz\u0103"
+  },
+  "merge_all_aria_spoken_word": {
+    "message": "\u00eembin\u0103 toate"
+  },
+  "merge_aria_spoken_word": {
+    "message": "\u00eembin\u0103"
+  },
+  "merge_dropdown_aria_spoken_word": {
+    "message": "meniu drop-down pentru \u00eembinare"
+  },
+  "merge_horizontally_aria_spoken_word": {
+    "message": "\u00eembin\u0103 pe orizontal\u0103"
+  },
+  "merge_vertically_aria_spoken_word": {
+    "message": "\u00eembin\u0103 pe vertical\u0103"
+  },
+  "modify_shape_transform_error_msg": {
+    "message": "A ap\u0103rut o eroare la modificarea prin transformarea formelor"
+  },
+  "modify_shape_transform_error_short_msg": {
+    "message": "A ap\u0103rut o eroare la modificarea comenzii pentru transformarea formei."
+  },
+  "modifyshapefillcolor_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru culoarea de umplere a formei"
+  },
+  "modifyshapeoutlinecolor_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru culoarea conturului formei"
+  },
+  "modifyshapeoutlinestyle_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru stilul conturului formei"
+  },
+  "modifyshapeoutlinewidth_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru l\u0103\u021bimea conturului formei"
+  },
+  "nacl_load_error_details": {
+    "message": "Reinstaleaz\u0103 extensia."
+  },
+  "nacl_load_error_title": {
+    "message": "A ap\u0103rut o problem\u0103 la \u00eenc\u0103rcarea aplica\u021biei."
+  },
+  "non_permissible_sheet_name_details": {
+    "message": "Urm\u0103toarele caractere nu sunt permise * ? [ ] ' ; : Numele foii nu poate s\u0103 dep\u0103\u0219easc\u0103 31 de caractere Numele foii nu poate r\u0103m\u00e2ne necompletat"
+  },
+  "non_permissible_sheet_name_title": {
+    "message": "Ai introdus un nume nevalid la redenumirea unei foi"
+  },
+  "not_pressed": {
+    "message": "Neap\u0103sat"
+  },
+  "notselected": {
+    "message": "Neselectat"
+  },
+  "number_format_label_currency_symbol": {
+    "message": "Simbol monetar"
+  },
+  "number_format_label_date_type": {
+    "message": "Tip"
+  },
+  "number_format_label_decimal_places": {
+    "message": "Num\u0103r de zecimale"
+  },
+  "number_format_label_general": {
+    "message": "General"
+  },
+  "number_format_label_negative_numbers": {
+    "message": "Numere negative"
+  },
+  "number_format_label_other": {
+    "message": "Altele"
+  },
+  "number_format_label_red": {
+    "message": "Ro\u0219u"
+  },
+  "number_format_label_text": {
+    "message": "Text"
+  },
+  "number_format_label_use_1000_separator": {
+    "message": "Folose\u0219te separatorul de mii"
+  },
+  "number_format_tab_accounting": {
+    "message": "Contabilitate"
+  },
+  "number_format_tab_currency": {
+    "message": "Moned\u0103"
+  },
+  "number_format_tab_date_time": {
+    "message": "Dat\u0103 \u0219i or\u0103"
+  },
+  "number_format_tab_general": {
+    "message": "General"
+  },
+  "number_format_tab_number": {
+    "message": "Num\u0103r"
+  },
+  "number_format_tab_percentage": {
+    "message": "Procentaj"
+  },
+  "number_format_tab_scientific": {
+    "message": "\u0218tiin\u021bific"
+  },
+  "number_format_title": {
+    "message": "Formate de numere"
+  },
+  "ocm_promo_conversion_shortmsg": {
+    "message": "E\u0219ti \u00een modul Compatibilitate Office"
+  },
+  "ocm_promo_office_editing_mode_shortmsg": {
+    "message": "E\u0219ti \u00een modul de compatibilitate cu Office"
+  },
+  "office_compatibility_mode": {
+    "message": "Mod de compatibilitate cu Office"
+  },
+  "office_editing_mode_attempt_when_offline": {
+    "message": "Trebuie s\u0103 fii online pentru a deschide acest fi\u0219ier \u00een Documente Google. \u00cencearc\u0103 din nou dup\u0103 restabilirea conexiunii."
+  },
+  "office_editing_mode_attempt_with_invalid_creds": {
+    "message": "Trebuie s\u0103 te conectezi la Contul Google pentru a deschide acest fi\u0219ier \u00een Documente Google"
+  },
+  "office_editing_mode_point_fail_msg": {
+    "message": "Fi\u0219ierul nu a putut fi deschis \u00een formatul Prezent\u0103ri Google."
+  },
+  "office_editing_mode_setting_new_create": {
+    "message": "Deschide fi\u0219ierele Office acceptate din Drive \u0219i Gmail direct \u00een Documente, Foi de calcul sau Prezent\u0103ri"
+  },
+  "office_editing_mode_sheet_fail_msg": {
+    "message": "Fi\u0219ierul nu a putut fi deschis \u00een formatul Foi de calcul Google."
+  },
+  "office_editing_mode_word_fail_msg": {
+    "message": "Fi\u0219ierul nu a putut fi deschis \u00een formatul Documente Google."
+  },
+  "office_first_time_confirm": {
+    "message": "Am \u00een\u021beles"
+  },
+  "office_first_time_message_p1": {
+    "message": "Acum po\u021bi s\u0103 editezi fi\u0219iere Word, Excel \u0219i PowerPoint de pe hard disk, din Google Drive, din Gmail \u0219i din alte locuri folosind Documente, Foi de calcul \u0219i Prezent\u0103ri."
+  },
+  "office_first_time_message_p2": {
+    "message": "Toate modific\u0103rile sunt salvate automat \u0219i po\u021bi s\u0103 salvezi oric\u00e2nd fi\u0219ierul \u0219i \u00een formatul ini\u021bial."
+  },
+  "office_first_time_title": {
+    "message": "Office Editing pentru Documente, Foi de calcul \u0219i Prezent\u0103ri"
+  },
+  "offline_error_msg": {
+    "message": "Se pare c\u0103 e\u0219ti offline. Verific\u0103-\u021bi conexiunea la internet \u0219i \u00eencearc\u0103 din nou. Dac\u0103 eroarea persist\u0103 c\u00e2nd e\u0219ti online, raporteaz\u0103 o problem\u0103 mai jos."
+  },
+  "offline_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu a putut fi deschis."
+  },
+  "opening_in_office_editing_mode": {
+    "message": "Deschiderea \u00een modul de editare Office"
+  },
+  "option_key": {
+    "message": "Tasta Option"
+  },
+  "out_of_memory_error_msg": {
+    "message": "\u00cenchide aceast\u0103 fil\u0103 \u0219i deschide din nou fi\u0219ierul sau \u00eenchide alte file pe care le-ai deschis \u00een browser. Dac\u0103 problema persist\u0103, raporteaz\u0103 problema mai jos."
+  },
+  "out_of_memory_error_short_msg": {
+    "message": "Hopa. Memoria este insuficient\u0103."
+  },
+  "page_count_label": {
+    "message": "Pagini"
+  },
+  "partial_cell_merge_error_msg": {
+    "message": "O parte a unei celule \u00eembinate nu poate fi modificat\u0103."
+  },
+  "partial_cell_merge_error_short_msg": {
+    "message": "Eroare"
+  },
+  "permission_fail_msg": {
+    "message": "Nu ai permisiunea de a modifica acest fi\u0219ier. Actualizeaz\u0103 permisiunile \u0219i \u00eencearc\u0103 din nou."
+  },
+  "point_ocm_promo_conversion_msg": {
+    "message": "Po\u021bi s\u0103 editezi \u0219i s\u0103 salvezi fi\u0219iere Office direct \u00een Prezent\u0103ri. Pentru a invita alte persoane s\u0103 editeze sau s\u0103 adauge comentarii, salveaz\u0103 fi\u0219ierul \u00een formatul Prezent\u0103ri Google. Po\u021bi s\u0103 \u00eel salvezi oric\u00e2nd din nou \u00een formatul ini\u021bial."
+  },
+  "point_ocm_promo_office_editing_mode_msg": {
+    "message": "Acum po\u021bi s\u0103 editezi \u0219i s\u0103 salvezi fi\u0219iere Office direct \u00een Prezent\u0103ri Google pentru a invita alte persoane s\u0103 editeze \u00een timp real sau s\u0103 adauge comentarii. \u00cencarc\u0103 acest fi\u0219ier \u00een Google Drive. Formatul fi\u0219ierului nu se va schimba."
+  },
+  "point_printing_warning_msg": {
+    "message": "Ne str\u0103duim s\u0103 remediem aceast\u0103 problem\u0103."
+  },
+  "point_printing_warning_short_msg": {
+    "message": "\u00cen prezent, po\u021bi printa numai slide-ul afi\u0219at."
+  },
+  "point_share_promo_conversion_msg": {
+    "message": "\u00cencearc\u0103 s\u0103 permi\u021bi accesul la aceast\u0103 prezentare? Pentru a invita alte persoane s\u0103 o modifice \u00eempreun\u0103 cu tine, converte\u0219te-o \u00een formatul Prezent\u0103ri Google."
+  },
+  "point_share_promo_office_editing_mode_msg": {
+    "message": "Acum po\u021bi s\u0103 editezi \u0219i s\u0103 salvezi fi\u0219iere Office direct \u00een Prezent\u0103ri Google pentru a invita alte persoane s\u0103 editeze \u00een timp real sau s\u0103 adauge comentarii. \u00cencarc\u0103 acest fi\u0219ier \u00een Google Drive. Formatul fi\u0219ierului nu se va schimba."
+  },
+  "pointtogglebullet_aria_spoken_word": {
+    "message": "list\u0103 cu marcatori"
+  },
+  "pointtogglenumber_aria_spoken_word": {
+    "message": "list\u0103 numerotat\u0103"
+  },
+  "present_button": {
+    "message": "Prezint\u0103"
+  },
+  "pressed": {
+    "message": "Ap\u0103sat"
+  },
+  "print_aria_spoken_word": {
+    "message": "printeaz\u0103"
+  },
+  "qowt_doc_mismatch_text": {
+    "message": "A ap\u0103rut o eroare la formatarea documentului.\n\nRe\u00eencarc\u0103 pagina pentru a recupera modific\u0103rile."
+  },
+  "qowt_doc_mismatch_title": {
+    "message": "Hopa!"
+  },
+  "qowt_hyperlink_activate_short_key": {
+    "message": "Apas\u0103 pe ALT + Enter pentru a activa linkul."
+  },
+  "qowt_hyperlink_dialog": {
+    "message": "Hyperlink"
+  },
+  "qowt_hyperlink_dialog_message_text": {
+    "message": "Acceseaz\u0103 linkul:"
+  },
+  "qowt_modal_confirm_dialog_affirmative_button": {
+    "message": "Ok"
+  },
+  "qowt_modal_confirm_dialog_negative_button": {
+    "message": "Anuleaz\u0103"
+  },
+  "qowt_modal_dialog_close_button": {
+    "message": "\u00cenchide"
+  },
+  "qowt_modal_dialog_coming_soon_title": {
+    "message": "\u00cen cur\u00e2nd!"
+  },
+  "qowt_modal_dialog_link_text": {
+    "message": "Afl\u0103 mai multe"
+  },
+  "qowt_modal_dialog_ok_button": {
+    "message": "OK"
+  },
+  "qowt_modal_dialog_reload_button": {
+    "message": "Re\u00eencarc\u0103"
+  },
+  "qowt_modal_dialog_textbox_editing_description": {
+    "message": "Ne pare r\u0103u, nu accept\u0103m editarea textului \u00een casetele text."
+  },
+  "qowt_modal_dialog_textbox_editing_link": {
+    "message": "Doresc ca func\u021bia s\u0103 fie disponibil\u0103."
+  },
+  "qowt_modal_info_dialog_affirmative_button": {
+    "message": "Ok"
+  },
+  "qowt_modal_multi_choice_remember_choice": {
+    "message": "Re\u021bine alegerea mea"
+  },
+  "qowt_modal_query_dialog_affirmative_button": {
+    "message": "Da"
+  },
+  "qowt_modal_query_dialog_negative_button": {
+    "message": "Nu"
+  },
+  "qowt_modal_query_dialog_reload_button": {
+    "message": "Re\u00eencarc\u0103"
+  },
+  "qowt_modal_single_choice_remember_choice": {
+    "message": "Nu-mi mai reaminti"
+  },
+  "read_only": {
+    "message": "Numai \u00een citire"
+  },
+  "redo_aria_spoken_word": {
+    "message": "ref\u0103"
+  },
+  "right_pointed_submenu": {
+    "message": "Indicator spre dreapta cu submeniu"
+  },
+  "save_aria_spoken_word": {
+    "message": "salveaz\u0103"
+  },
+  "save_now": {
+    "message": "Salveaz\u0103 acum"
+  },
+  "security_error_msg": {
+    "message": "Dac\u0103 eroarea persist\u0103, raporteaz\u0103 o problem\u0103 mai jos."
+  },
+  "security_error_short_msg": {
+    "message": "Hopa. Fi\u0219ierul solicitat nu poate fi deschis. \u00cen prezent, nu se accept\u0103 deschiderea fi\u0219ierelor \u00een modul incognito. Deschide fi\u0219ierul \u00een modul non-incognito."
+  },
+  "selected": {
+    "message": "Selectat"
+  },
+  "set_sheet_info_error_msg": {
+    "message": "A ap\u0103rut o eroare la actualizarea numelui foii"
+  },
+  "share_button": {
+    "message": "Distribuie"
+  },
+  "share_promo_conversion_shortmsg": {
+    "message": "Modific\u0103 \u00eempreun\u0103 cu al\u021bii"
+  },
+  "share_promo_office_editing_mode_shortmsg": {
+    "message": "Permite accesul altor utilizatori"
+  },
+  "sheet_delete_column_error_msg": {
+    "message": "Hopa. A ap\u0103rut o eroare la \u0219tergerea coloanei. \u00cencearc\u0103 din nou."
+  },
+  "sheet_delete_row_error_msg": {
+    "message": "Hopa. A ap\u0103rut o eroare la \u0219tergerea r\u00e2ndului. \u00cencearc\u0103 din nou."
+  },
+  "sheet_format_cells_error_msg": {
+    "message": "A ap\u0103rut o eroare de formatare. \u00cencearc\u0103 din nou."
+  },
+  "sheet_insert_column_error_msg": {
+    "message": "Hopa. A ap\u0103rut o eroare la inserarea coloanei. \u00cencearc\u0103 din nou."
+  },
+  "sheet_insert_column_exceed_error_msg": {
+    "message": "Din p\u0103cate, nu mai po\u021bi s\u0103 inserezi alte coloane \u00een aceast\u0103 foaie de calcul, deoarece se accept\u0103 numai 256 de coloane."
+  },
+  "sheet_insert_column_exceed_error_short_msg": {
+    "message": "Ne pare r\u0103u!"
+  },
+  "sheet_insert_row_error_msg": {
+    "message": "Hopa. A ap\u0103rut o eroare la inserarea r\u00e2ndului. \u00cencearc\u0103 din nou."
+  },
+  "sheet_insert_row_exceed_error_msg": {
+    "message": "Din p\u0103cate, nu mai po\u021bi s\u0103 inserezi alte r\u00e2nduri \u00een aceast\u0103 foaie de calcul, deoarece accept\u0103m numai 65.536 de r\u00e2nduri."
+  },
+  "sheet_insert_row_exceed_error_short_msg": {
+    "message": "Ne pare r\u0103u!"
+  },
+  "sheet_ocm_promo_conversion_msg": {
+    "message": "Po\u021bi s\u0103 editezi \u0219i s\u0103 salvezi fi\u0219iere Office direct \u00een Foi de calcul. Pentru a invita alte persoane s\u0103 editeze sau s\u0103 adauge comentarii, salveaz\u0103 fi\u0219ierul \u00een formatul Foi de calcul Google. Po\u021bi s\u0103 \u00eel salvezi oric\u00e2nd din nou \u00een formatul ini\u021bial."
+  },
+  "sheet_ocm_promo_office_editing_mode_msg": {
+    "message": "Acum po\u021bi s\u0103 editezi \u0219i s\u0103 salvezi fi\u0219iere Office direct \u00een Foi de calcul Google pentru a invita alte persoane s\u0103 editeze \u00een timp real sau s\u0103 adauge comentarii. \u00cencarc\u0103 acest fi\u0219ier \u00een Google Drive. Formatul fi\u0219ierului nu se va schimba."
+  },
+  "sheet_set_cell_content_invalid_error_msg": {
+    "message": "Formula introdus\u0103 con\u021bine o eroare. Corecteaz\u0103 eroarea."
+  },
+  "sheet_share_promo_conversion_msg": {
+    "message": "\u00cencearc\u0103 s\u0103 permi\u021bi accesul la aceast\u0103 foaie de calcul? Pentru a invita alte persoane s\u0103 o modifice \u00eempreun\u0103 cu tine, converte\u0219te-o \u00een formatul Foi de calcul Google."
+  },
+  "sheet_share_promo_office_editing_mode_msg": {
+    "message": "Acum po\u021bi s\u0103 editezi \u0219i s\u0103 salvezi fi\u0219iere Office direct \u00een Foi de calcul Google pentru a invita alte persoane s\u0103 editeze \u00een timp real sau s\u0103 adauge comentarii. \u00cencarc\u0103 acest fi\u0219ier \u00een Google Drive. Formatul fi\u0219ierului nu se va schimba."
+  },
+  "sheet_sort_error_title": {
+    "message": "A ap\u0103rut o eroare la sortarea acestei zone de celule."
+  },
+  "sheet_sort_failure_msg": {
+    "message": "A ap\u0103rut o eroare la sortarea acestei zone de celule."
+  },
+  "sheet_sort_merged_cell_error": {
+    "message": "Nu po\u021bi sorta celulele care au fost \u00eembinate."
+  },
+  "sheet_sort_merged_cell_error_title": {
+    "message": "A ap\u0103rut o eroare la sortarea acestei zone de celule."
+  },
+  "sheet_sort_one_cell_error": {
+    "message": "Selecteaz\u0103 mai mult de o celul\u0103 pentru sortare."
+  },
+  "sheet_sort_one_cell_error_title": {
+    "message": "A ap\u0103rut o eroare la sortarea acestei zone de celule."
+  },
+  "shift_key": {
+    "message": "Tasta Shift"
+  },
+  "shortcut": {
+    "message": "Comand\u0103 rapid\u0103 $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "sign_in": {
+    "message": "Conecteaz\u0103-te"
+  },
+  "slash_key": {
+    "message": "bar\u0103 oblic\u0103 spre dreapta"
+  },
+  "something_not_right": {
+    "message": "A ap\u0103rut o eroare"
+  },
+  "storage_quota_exceed_error_msg": {
+    "message": "\u00cenchide toate documentele Office deschise \u00een Chrome, apoi \u00eencearc\u0103 din nou. Dac\u0103 problema persist\u0103, raporteaz-o mai jos."
+  },
+  "storage_quota_exceed_error_short_msg": {
+    "message": "Ne pare r\u0103u, nu am putut deschide fi\u0219ierul."
+  },
+  "strikethrough_aria_spoken_word": {
+    "message": "t\u0103iat cu o linie"
+  },
+  "style_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru stil"
+  },
+  "submenu_spoken_text": {
+    "message": "$1 $2 $3 $4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "temporary_unable_to_open_error_msg": {
+    "message": "\u00cencearc\u0103 din nou mai t\u00e2rziu sau, dac\u0103 problema persist\u0103, raporteaz-o mai jos."
+  },
+  "temporary_unable_to_open_error_short_msg": {
+    "message": "Ne pare r\u0103u, momentan nu putem deschide fi\u0219ierul."
+  },
+  "textaligncenter_aria_spoken_word": {
+    "message": "aliniere text: centru"
+  },
+  "textalignjustify_aria_spoken_word": {
+    "message": "aliniere text: st\u00e2nga-dreapta"
+  },
+  "textalignleft_aria_spoken_word": {
+    "message": "aliniere text: st\u00e2nga"
+  },
+  "textalignright_aria_spoken_word": {
+    "message": "aliniere text: dreapta"
+  },
+  "textcolor_aria_spoken_word": {
+    "message": "list\u0103 drop-down pentru culoarea textului"
+  },
+  "textual_edit_error_msg": {
+    "message": "A ap\u0103rut o eroare la formatarea documentului.\n\nRe\u00eencarc\u0103 pagina pentru a recupera modific\u0103rile."
+  },
+  "textual_edit_error_short_msg": {
+    "message": "Hopa!"
+  },
+  "title_error_msg_for_merge_cells": {
+    "message": "A ap\u0103rut o problem\u0103"
+  },
+  "title_msg_merging_multiple_cells_with_text": {
+    "message": "Aten\u021bie!"
+  },
+  "togglebulleted_aria_spoken_word": {
+    "message": "list\u0103 cu marcatori"
+  },
+  "togglenumbered_aria_spoken_word": {
+    "message": "list\u0103 numerotat\u0103"
+  },
+  "togglezoom_aria_spoken_word": {
+    "message": "zoom comutat"
+  },
+  "tooltip_background_color": {
+    "message": "Culoare de umplere"
+  },
+  "tooltip_bold": {
+    "message": "Aldin"
+  },
+  "tooltip_border": {
+    "message": "Borduri"
+  },
+  "tooltip_border_all": {
+    "message": "Toate bordurile"
+  },
+  "tooltip_border_bottom": {
+    "message": "Borduri jos"
+  },
+  "tooltip_border_horizontal": {
+    "message": "Borduri orizontale"
+  },
+  "tooltip_border_inner": {
+    "message": "Borduri interioare"
+  },
+  "tooltip_border_left": {
+    "message": "Borduri la st\u00e2nga"
+  },
+  "tooltip_border_none": {
+    "message": "Nicio bordur\u0103"
+  },
+  "tooltip_border_outer": {
+    "message": "Borduri exterioare"
+  },
+  "tooltip_border_right": {
+    "message": "Borduri la dreapta"
+  },
+  "tooltip_border_top": {
+    "message": "Borduri sus"
+  },
+  "tooltip_border_vertical": {
+    "message": "Borduri verticale"
+  },
+  "tooltip_cell_align": {
+    "message": "Alinierea textului \u00een celul\u0103"
+  },
+  "tooltip_cell_h_align_center": {
+    "message": "Centrat pe orizontal\u0103"
+  },
+  "tooltip_cell_h_align_left": {
+    "message": "La st\u00e2nga pe orizontal\u0103"
+  },
+  "tooltip_cell_h_align_right": {
+    "message": "La dreapta pe orizontal\u0103"
+  },
+  "tooltip_cell_v_align_bottom": {
+    "message": "Jos pe vertical\u0103"
+  },
+  "tooltip_cell_v_align_center": {
+    "message": "Centrat pe vertical\u0103"
+  },
+  "tooltip_cell_v_align_top": {
+    "message": "Sus pe vertical\u0103"
+  },
+  "tooltip_download": {
+    "message": "Descarc\u0103"
+  },
+  "tooltip_download_original": {
+    "message": "Descarc\u0103 originalul"
+  },
+  "tooltip_dropdown_init_add_shape": {
+    "message": "Form\u0103"
+  },
+  "tooltip_fill_color": {
+    "message": "Culoarea textului"
+  },
+  "tooltip_font_face": {
+    "message": "Font"
+  },
+  "tooltip_font_size": {
+    "message": "Dimensiunea fontului"
+  },
+  "tooltip_highlight_color": {
+    "message": "Culoarea eviden\u021bierii"
+  },
+  "tooltip_init_add_shape": {
+    "message": "Caset\u0103 text"
+  },
+  "tooltip_italic": {
+    "message": "Cursiv"
+  },
+  "tooltip_merge": {
+    "message": "\u00cembin\u0103 celulele"
+  },
+  "tooltip_merge_dropdown": {
+    "message": "Selecteaz\u0103 tipul de \u00eembinare\u2026"
+  },
+  "tooltip_modify_shape_fill_color": {
+    "message": "Culoare de umplere"
+  },
+  "tooltip_modify_shape_outline_color": {
+    "message": "Culoarea liniei"
+  },
+  "tooltip_modify_shape_outline_style": {
+    "message": "Linie \u00eentrerupt\u0103"
+  },
+  "tooltip_modify_shape_outline_width": {
+    "message": "Grosimea liniei"
+  },
+  "tooltip_move_slide": {
+    "message": "Muta\u021bi $1 slide-uri",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "tooltip_point": {
+    "message": "Ecran de pornire Prezent\u0103ri"
+  },
+  "tooltip_point_toggle_bullet": {
+    "message": "List\u0103 cu marcatori"
+  },
+  "tooltip_point_toggle_number": {
+    "message": "List\u0103 numerotat\u0103"
+  },
+  "tooltip_presentation": {
+    "message": "Prezentare"
+  },
+  "tooltip_print": {
+    "message": "Printeaz\u0103"
+  },
+  "tooltip_redo": {
+    "message": "Ref\u0103"
+  },
+  "tooltip_share": {
+    "message": "Trimite"
+  },
+  "tooltip_share_for_macroenabledfiles": {
+    "message": "Se poate permite accesul la fi\u0219ierele cu macrocomenzi activate numai din Google Drive."
+  },
+  "tooltip_sheet": {
+    "message": "Ecran de pornire Foi de calcul"
+  },
+  "tooltip_strikethrough": {
+    "message": "T\u0103iat cu o linie"
+  },
+  "tooltip_style": {
+    "message": "Stiluri"
+  },
+  "tooltip_text_align_center": {
+    "message": "Centreaz\u0103"
+  },
+  "tooltip_text_align_justify": {
+    "message": "Aliniaz\u0103 st\u00e2nga-dreapta"
+  },
+  "tooltip_text_align_left": {
+    "message": "Aliniaz\u0103 la st\u00e2nga"
+  },
+  "tooltip_text_align_right": {
+    "message": "Aliniaz\u0103 la dreapta"
+  },
+  "tooltip_text_color": {
+    "message": "Culoarea textului"
+  },
+  "tooltip_toggle_bulleted": {
+    "message": "List\u0103 cu marcatori"
+  },
+  "tooltip_toggle_numbered": {
+    "message": "List\u0103 numerotat\u0103"
+  },
+  "tooltip_toggle_zoom": {
+    "message": "Activeaz\u0103/dezactiveaz\u0103 zoomul"
+  },
+  "tooltip_underline": {
+    "message": "Subliniat"
+  },
+  "tooltip_undo": {
+    "message": "Anuleaz\u0103"
+  },
+  "tooltip_word": {
+    "message": "Ecran de pornire Documente"
+  },
+  "tooltip_wrap_text": {
+    "message": "\u00cencadreaz\u0103 textul"
+  },
+  "tooltip_zoom_in": {
+    "message": "M\u0103re\u0219te"
+  },
+  "tooltip_zoom_out": {
+    "message": "Mic\u0219oreaz\u0103"
+  },
+  "try_again": {
+    "message": "\u00cencearc\u0103 din nou"
+  },
+  "unable_to_execute_msg": {
+    "message": "Documentul nu poate fi deschis."
+  },
+  "underline_aria_spoken_word": {
+    "message": "subliniat"
+  },
+  "undo_aria_spoken_word": {
+    "message": "anuleaz\u0103"
+  },
+  "unmerge_aria_spoken_word": {
+    "message": "anuleaz\u0103 \u00eembinarea"
+  },
+  "unsaved_changes": {
+    "message": "Exist\u0103 modific\u0103ri nesalvate"
+  },
+  "unsaved_changes_warning": {
+    "message": "Ai modific\u0103ri nesalvate \u00een acest fi\u0219ier. Dac\u0103 p\u0103r\u0103se\u0219ti pagina f\u0103r\u0103 s\u0103 salvezi, vei pierde definitv ce ai lucrat."
+  },
+  "unsupported_file_format_error_details_p1": {
+    "message": "Din p\u0103cate, acest fi\u0219ier include con\u021binut dintr-o versiune Microsoft\u00ae Office 95 sau o versiune anterioar\u0103, pe care nu \u00eel putem deschide."
+  },
+  "unsupported_file_format_error_details_p2": {
+    "message": "Dac\u0103 dore\u0219ti s\u0103 converte\u0219ti fi\u0219ierul \u00een formatul Documente Google, d\u0103 clic pe linkul de mai jos."
+  },
+  "unsupported_file_format_error_title": {
+    "message": "Hopa!"
+  },
+  "unsupported_link_message": {
+    "message": "Ne pare r\u0103u, nu accept\u0103m acest tip de adrese URL."
+  },
+  "up_key": {
+    "message": "S\u0103geat\u0103 \u00een sus"
+  },
+  "updated_shortcut_message": {
+    "message": "Am actualizat comenzile rapide de la tastatur\u0103, astfel \u00eenc\u00e2t s\u0103 fie consecvente \u00een toate produsele Documente Google. Vezi comenzile rapide actualizate \u00een sec\u021biunea de ajutor."
+  },
+  "updated_shortcut_title": {
+    "message": "Comenzile rapide de la tastatur\u0103 actualizate"
+  },
+  "uploading_to_drive_for_office_editing_mode_point": {
+    "message": "Se \u00eencarc\u0103 \u00een Drive \u0219i se deschide \u00een Prezent\u0103ri"
+  },
+  "uploading_to_drive_for_office_editing_mode_sheet": {
+    "message": "Se \u00eencarc\u0103 \u00een Drive \u0219i se deschide \u00een Foi de calcul"
+  },
+  "uploading_to_drive_for_office_editing_mode_word": {
+    "message": "Se \u00eencarc\u0103 \u00een Drive \u0219i se deschide \u00een Documente"
+  },
+  "uploading_to_drive_msg_for_point": {
+    "message": "Se \u00eencarc\u0103 acest fi\u0219ier \u00een Drive \u0219i se deschide \u00een Prezent\u0103ri Google."
+  },
+  "uploading_to_drive_msg_for_sheet": {
+    "message": "Se \u00eencarc\u0103 acest fi\u0219ier \u00een Drive \u0219i se deschide \u00een Foi de calcul Google."
+  },
+  "uploading_to_drive_msg_for_word": {
+    "message": "Se \u00eencarc\u0103 acest fi\u0219ier \u00een Drive \u0219i se deschide \u00een Documente Google."
+  },
+  "version_info_msg": {
+    "message": "Versiunea folosit\u0103 a Modului de compatibilitate cu Office este"
+  },
+  "word_binary_upsave_learnmore": {
+    "message": "Afl\u0103 mai multe"
+  },
+  "word_binary_upsave_msg": {
+    "message": "Acest fi\u0219ier este \u00eentr-un format incompatibil. Pentru a-l salva, este necesar\u0103 permisiunea de a-i face conversia \u00eentr-un format de fi\u0219ier mai recent. Fi\u0219ierul ini\u021bial nu va fi afectat."
+  },
+  "word_binary_upsave_shortmsg": {
+    "message": "Actualizeaz\u0103 documentul"
+  },
+  "word_count_label": {
+    "message": "Cuvinte"
+  },
+  "word_count_title": {
+    "message": "Num\u0103r de cuvinte"
+  },
+  "word_ocm_promo_conversion_msg": {
+    "message": "Po\u021bi s\u0103 editezi \u0219i s\u0103 salvezi fi\u0219iere Office direct \u00een Documente. Pentru a invita alte persoane s\u0103 editeze sau s\u0103 adauge comentarii, salveaz\u0103 fi\u0219ierul \u00een formatul Documente Google. Po\u021bi s\u0103 \u00eel salvezi oric\u00e2nd din nou \u00een formatul ini\u021bial."
+  },
+  "word_ocm_promo_office_editing_mode_msg": {
+    "message": "Acum po\u021bi s\u0103 editezi \u0219i s\u0103 salvezi fi\u0219iere Office direct \u00een Documente Google pentru a invita alte persoane s\u0103 editeze \u00een timp real sau s\u0103 adauge comentarii. \u00cencarc\u0103 acest fi\u0219ier \u00een Google Drive. Formatul fi\u0219ierului nu se va schimba."
+  },
+  "word_share_promo_conversion_msg": {
+    "message": "\u00cencerci s\u0103 permi\u021bi accesul la acest document? Pentru a invita alte persoane s\u0103 \u00eel modifice \u00eempreun\u0103 cu tine, converte\u0219te-l \u00een formatul Documente Google."
+  },
+  "word_share_promo_office_editing_mode_msg": {
+    "message": "Acum po\u021bi s\u0103 editezi \u0219i s\u0103 salvezi fi\u0219iere Office direct \u00een Documente Google pentru a invita alte persoane s\u0103 editeze \u00een timp real sau s\u0103 adauge comentarii. \u00cencarc\u0103 acest fi\u0219ier \u00een Google Drive. Formatul fi\u0219ierului nu se va schimba."
+  },
+  "working_in_basic_editor_banner_text": {
+    "message": "Lucrezi \u00een Editorul de baz\u0103 pentru fi\u0219iere Microsoft"
+  },
+  "wraptext_aria_spoken_word": {
+    "message": "\u00eencadreaz\u0103 textul"
+  },
+  "zoomin_aria_spoken_word": {
+    "message": "m\u0103re\u0219te"
+  },
+  "zoomout_aria_spoken_word": {
+    "message": "mic\u0219oreaz\u0103"
+  }
+}

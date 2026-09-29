@@ -1,0 +1,78 @@
+# Copyright 2024 The ChromiumOS Authors
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+
+inotify_add_watch: 1
+inotify_init1: 1
+# TCGETS and TCSETS required to configure TTYs to query modem firmware
+# versioning over AT ports
+# USBDEVFS_CLAIMINTERFACE: 0x8004550f
+# USBDEVFS_BULK: 0xc0185502
+# USBDEVFS_IOCTL: 0xc0105512
+ioctl: arg1 == TCGETS || arg1 == TCSETS || arg1 == 0x8004550f || \
+       arg1 == 0xc0185502 || arg1 == 0xc0105512
+openat: 1
+close: 1
+newfstatat: 1
+read: 1
+getrandom: 1
+mmap: arg2 in ~PROT_EXEC || arg2 in ~PROT_WRITE
+faccessat: 1
+readlinkat: 1
+munmap: 1
+mprotect: arg2 in ~PROT_EXEC || arg2 in ~PROT_WRITE
+futex: 1
+fstatfs: 1
+write: 1
+getdents64: 1
+gettid: 1
+rt_sigprocmask: 1
+brk: 1
+lseek: 1
+ppoll: 1
+set_robust_list: 1
+wait4: 1
+rseq: 1
+# Needed to fork child processes to do miscellaneous tasks such as FW flash,
+# communication with modem, etc.
+clone: 1
+clock_nanosleep: 1
+rt_sigaction: 1
+sendto: 1
+fcntl: 1
+# Needed to fork child processes to do miscellaneous tasks such as FW flash,
+# communication with modem, etc.
+execve: 1
+set_tid_address: 1
+prlimit64: 1
+# Used by Brillo::ProcessImpl to set process name
+prctl: arg0 == PR_SET_NAME
+exit_group: 1
+eventfd2: 1
+# Policy generation from strace results in:
+# "socket: arg0 == AF_NETLINK || arg0 == AF_UNIX"
+# This is not restrictive enough. Manually add acceptable socket args:
+# allow AF_UNIX for SOCK_STREAM and SOCK_DGRAM (syslog)
+# allow NETLINK_KOBJECT_UEVENT = 15 for udev
+# allow NETLINK_GENERIC = 16 for devlink (firmware flash)
+socket: arg0 == AF_UNIX && arg2 == 0 || \
+        arg0 == AF_NETLINK && arg2 == 15 || \
+        arg0 == AF_NETLINK && arg2 == 16
+connect: 1
+getpid: 1
+dup: 1
+dup3: 1
+statx: 1
+setsockopt: 1
+pread64: 1
+bind: 1
+getsockname: 1
+kill: 1
+recvmsg: 1
+unlinkat: 1
+rt_sigreturn: 1
+restart_syscall: 1
+exit: 1
+pselect6: 1
+getuid: 1
+close_range: 1

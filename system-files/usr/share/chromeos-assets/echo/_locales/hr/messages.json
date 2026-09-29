@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Dopusti"
+    }, 
+    "consent_denied": {
+        "message": "Niste nam dali dopu\u0161tenje da potvrdimo ispunjava li uvjete va\u0161 ure\u0111aj sa sustavom Chrome. Poku\u0161ajte ponovo iskoristiti ponudu i kliknite \"Dopusti\" kako bismo potvrdili da ispunjavate uvjete."
+    }, 
+    "deny_button_string": {
+        "message": "Odbij"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Ta je ponuda istekla za va\u0161 ure\u0111aj."
+    }, 
+    "device_not_eligible": {
+        "message": "Va\u0161 ure\u0111aj ne ispunjava uvjete za tu ponudu. $1Pogledajte koje su ponude dostupne za va\u0161 ure\u0111aj$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Ta ponuda nije dostupna za va\u0161 model ure\u0111aja sa sustavom Chrome."
+    }, 
+    "dismiss_button_string": {
+        "message": "Odbaci"
+    }, 
+    "dismiss_info_string": {
+        "message": "Va\u0161 IT administrator onemogu\u0107io je Chrome pogodnosti za va\u0161 ure\u0111aj."
+    }, 
+    "error_no_regcode": {
+        "message": "\u010cini se da na va\u0161em ure\u0111aju nema koda ponude. Obratite se $1podr\u0161ci OS-a Chrome$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "\u010cini se da va\u0161 poku\u0161aj iskori\u0161tavanja te ponude potje\u010de s neregistrirane web-lokacije."
+    }, 
+    "generic_error_message": {
+        "message": "Trenuta\u010dno ne mo\u017eemo iskoristiti va\u0161u ponudu iz nepoznatog razloga. Ne znamo o \u010demu se to\u010dno radi. Provjerite ponovo kasnije."
+    }, 
+    "info_string": {
+        "message": "Saznajte vi\u0161e"
+    }, 
+    "learn_more": {
+        "message": "$1Saznajte vi\u0161e$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Ta se ponuda mo\u017ee iskoristiti samo jedanput po ure\u0111aju, a ve\u0107 je iskori\u0161tena. Mo\u017eda se neka druga osoba prijavila na ovom ure\u0111aju i prestigla vas. Ako ste kupili ovaj ure\u0111aj iz druge ruke, mo\u017eda ju je iskoristio prethodni vlasnik. Na\u017ealost, ne mo\u017eemo prenositi ponude na druge ra\u010dune i ne mo\u017eemo davati nove ponude za ure\u0111aje kupljene iz druge ruke."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Ponudu nije mogu\u0107e iskoristiti. Mo\u017eda upotrebljavate anoniman prozor ili ste prijavljeni u gostuju\u0107em na\u010dinu, a u njemu se ne mogu iskori\u0161tavati ponude. Upotrijebite uobi\u010dajeni prozor i uvjerite se da niste prijavljeni kao gost."
+    }, 
+    "notification_button": {
+        "message": "Iskoristite \u2013 jo\u0161 ovoliko dana: $1", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Iskoristite ih prije nego \u0161to bude prekasno"
+    }, 
+    "notification_title": {
+        "message": "Nabavite super stvar\u010dice za ure\u0111aj sa sustavom Chrome"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "K\u00f4d koji ste primili od podr\u0161ke za OS Chrome upotrebljava se za iskori\u0161tavanje pogre\u0161ne ponude. Ponovo se obratite $1podr\u0161ci za OS Chrome$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 \u017eeli potvrditi da upotrebljavate ure\u0111aj prikladan za OS Chrome.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Registracijski k\u00f4d na va\u0161em ure\u0111aju nije va\u017ee\u0107i."
+    }, 
+    "sorry_about_that": {
+        "message": "Ispri\u010davamo se zbog toga"
+    }
+}

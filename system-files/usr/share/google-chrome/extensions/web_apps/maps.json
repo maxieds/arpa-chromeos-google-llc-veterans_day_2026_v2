@@ -1,0 +1,18 @@
+{
+  "app_url": "https://www.google.com/maps/preview/pwa/ttinstall.html",
+  "launch_container": "window",
+  "user_type": ["unmanaged", "managed", "child"],
+  "feature_name": "MigrateDefaultChromeAppToWebAppsNonGSuite",
+  "uninstall_and_replace": ["lneaknkopdijkpnocmklfnjbeapigfbh"],
+  "disable_if_tablet_form_factor": true,
+  "load_and_await_service_worker_registration": false,
+  "only_use_offline_manifest": true,
+  "offline_manifest": {
+    "name": "Google Maps",
+    "start_url": "https://www.google.com/maps?force=tt&source=ttpwa",
+    "scope": "https://www.google.com/maps",
+    "display": "standalone",
+    "icon_any_pngs": ["maps.png"],
+    "theme_color_argb_hex": "FF1A73E8"
+  }
+}

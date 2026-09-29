@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Consenti"
+    }, 
+    "consent_denied": {
+        "message": "Non ci hai autorizzato a verificare l'idoneit\u00e0 del tuo dispositivo Chrome. Riprova a utilizzare l'offerta e fai clic su \"Consenti\" per permetterci di verificare la tua idoneit\u00e0."
+    }, 
+    "deny_button_string": {
+        "message": "Nega"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Questa offerta \u00e8 scaduta per il tuo dispositivo."
+    }, 
+    "device_not_eligible": {
+        "message": "Il tuo dispositivo non \u00e8 idoneo per questa offerta. $1Visualizza le offerte disponibili per il tuo dispositivo$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Questa offerta non \u00e8 disponibile per il tuo modello specifico di dispositivo Chrome."
+    }, 
+    "dismiss_button_string": {
+        "message": "Ignora"
+    }, 
+    "dismiss_info_string": {
+        "message": "Il tuo amministratore IT ha disattivato i componenti aggiuntivi di Chrome per il tuo dispositivo."
+    }, 
+    "error_no_regcode": {
+        "message": "Sembra che sul tuo dispositivo non sia presente un codice offerta. Contatta $1l'assistenza di Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Il tentativo di utilizzo di questa offerta sembra provenire da un sito web non registrato."
+    }, 
+    "generic_error_message": {
+        "message": "Per qualche motivo al momento non possiamo utilizzare la tua offerta. Riprova pi\u00f9 tardi."
+    }, 
+    "info_string": {
+        "message": "Ulteriori informazioni"
+    }, 
+    "learn_more": {
+        "message": "$1Ulteriori informazioni$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Puoi utilizzare questa offerta soltanto una volta per dispositivo e l'offerta \u00e8 gi\u00e0 stata utilizzata. \u00c8 possibile che un altro utente di questo dispositivo abbia eseguito l'accesso e ti abbia preceduto. \u00c8 anche possibile che, se hai acquistato un dispositivo usato, il proprietario precedente abbia approfittato dell'offerta. Purtroppo non possiamo trasferire le offerte su altri account o rinnovare le offerte su dispositivi usati."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Impossibile utilizzare l'offerta. \u00c8 possibile che tu stia utilizzando una finestra di navigazione in incognito o che tu abbia eseguito l'accesso in modalit\u00e0 Ospite, in cui non \u00e8 possibile utilizzare le offerte. Utilizza una finestra normale e assicurati di non eseguire l'accesso come ospite."
+    }, 
+    "notification_button": {
+        "message": "Utilizza - $1 giorni rimanenti", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Utilizza le offerte prima che sia troppo tardi"
+    }, 
+    "notification_title": {
+        "message": "Ricevi componenti aggiuntivi per il dispositivo Chrome"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Il codice che hai ricevuto dall'assistenza di Chrome OS \u00e8 stato utilizzato per l'offerta sbagliata. Contatta di nuovo $1l'assistenza di Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 desidera verificare che tu stia utilizzando un dispositivo Chrome OS idoneo.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Il codice di registrazione sul dispositivo non \u00e8 valido."
+    }, 
+    "sorry_about_that": {
+        "message": "Spiacenti"
+    }
+}

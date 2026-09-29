@@ -1,0 +1,190 @@
+/* Copyright 2018 The Chromium Authors. All rights reserved.
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file. */
+
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body {
+    margin: 0 0 20px 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(248, 249, 250);
+    font-family: Roboto;
+}
+
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    background: rgb(55, 103, 213);
+    color: white;
+    display: block;
+    font-size: 12pt;
+    height: 56px;
+    line-height: 56px;
+    margin-bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+
+p {
+    display: block;
+    font-size: 10pt;
+    line-height: 60px;
+    min-height: 60px;
+    text-align: center;
+}
+
+.searchContainer {
+    font-size: 10pt;
+    min-height: 40px;
+    vertical-align: middle;
+    float: right;
+    position: relative;
+}
+
+.hidden {
+    display: inline-block;
+    position: fixed;
+    overflow: hidden;
+    width: 0px;
+    height: 0px;
+    top: 0px;
+    left: 0px;
+}
+
+.container {
+    background-color: #fff;
+    box-shadow: 5px 5px 5px -5px #aaa, -5px 5px 5px -5px #aaa;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100px;
+    padding: 20px 40px 0 40px;
+    width: 646px;
+}
+
+#errorMessage {
+    font-size: 10pt;
+    line-height: 60px;
+    min-height: 60px;
+    vertical-align: middle;
+}
+
+input[type="search"] {
+    padding-bottom: 6px;
+    padding-right: 24px;
+    margin-right: 0px;
+    background: #fff;
+    border-width: 1px;
+    border-color: #000;
+    border-style: none none solid none;
+    outline-style: none;
+    transition : border-color 200ms ease-out, border-width 200ms ease-out;
+}
+
+input[type="search"]::-webkit-search-cancel-button {
+    -webkit-appearance: none;
+}
+
+input[type="search"]:focus {
+    border-width: 2px;
+    border-color: rgb(55, 103, 213);
+    border-style: none none solid none;
+    transition : border-color 200ms ease-in, border-width 200ms ease-in;
+}
+
+.searchContainer button {
+    padding-bottom: 6px;
+    position:absolute;
+    right: 0px;
+    top: 0px;
+    width: 18px;
+    height: 18px;
+    background-size: 18px 18px;
+    background-repeat: no-repeat;
+    background-image: url("baseline-cancel-24px.svg");
+    background-color: #fff;
+    border: none;
+}
+
+.searchContainer button:hover {
+    cursor: pointer;
+}
+
+.searchContainer img {
+    width: 18px;
+    height: 18px;
+    margin-bottom: -6px;
+}
+
+.option {
+    align-items: center;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    flex-direction: row;
+    font-size: 10pt;
+    line-height: 60px;
+    min-height: 60px;
+    vertical-align: middle;
+    width: 646px;
+}
+
+.option:last-child {
+    border: 0;
+}
+
+.about {
+    align-self: flex-start;
+    flex: auto;
+}
+
+.name {
+    display: inline;
+    float: left;
+}
+
+.description {
+    color: rgb(117, 117, 117);
+    display: inline;
+    margin-left: 12px;
+}
+
+.option button {
+    background-color: #fff;
+    border-color: rgb(210, 227, 252);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 0;
+    border-width: 1px;
+    color: rgb(26, 115, 232);
+    font-weight: bold;
+    height: 30px;
+    margin-left: 20px;
+    padding: 0px 20px;
+}
+
+.option button:hover {
+    background-color: rgba(66, 133, 244, 0.04);
+}
+
+.option button:active {
+    background-color: rgba(66, 133, 244, 0.15);
+}
+
+.option button:disabled {
+    color: rgb(128, 134, 139);
+    border-color: rgb(218, 220, 224);
+}
+
+.option button:disabled:hover {
+    background-color: #fff;
+}
+
+li {
+    list-style-type: none;
+}

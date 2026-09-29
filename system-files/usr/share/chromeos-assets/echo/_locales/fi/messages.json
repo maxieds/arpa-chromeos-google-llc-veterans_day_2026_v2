@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Salli"
+    }, 
+    "consent_denied": {
+        "message": "Et antanut meille lupaa vahvistaa Chrome-laitteesi kelvollisuutta. Yrit\u00e4 lunastaa tarjous uudelleen ja klikkaa Salli, jotta voimme vahvistaa kelvollisuuden."
+    }, 
+    "deny_button_string": {
+        "message": "Est\u00e4"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "T\u00e4m\u00e4 tarjous on vanhentunut laitteellasi."
+    }, 
+    "device_not_eligible": {
+        "message": "T\u00e4t\u00e4 tarjousta ei voi lunastaa laitteellasi. $1N\u00e4yt\u00e4 tarjoukset, jotka ovat saatavilla laitteellesi$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "T\u00e4m\u00e4 tarjous ei ole saatavilla Chrome-laitemallillesi."
+    }, 
+    "dismiss_button_string": {
+        "message": "Ohita"
+    }, 
+    "dismiss_info_string": {
+        "message": "IT-j\u00e4rjestelm\u00e4nvalvojasi on poistanut Chrome Goodies -tarjoukset k\u00e4yt\u00f6st\u00e4 laitteellasi."
+    }, 
+    "error_no_regcode": {
+        "message": "Laitteellasi ei vaikuta olevan tarjouskoodia. Ota yhteytt\u00e4 $1Chrome-k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4n tukeen$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Yrityksesi lunastaa t\u00e4m\u00e4 tarjous vaikuttaa tulleen rekister\u00f6im\u00e4tt\u00f6m\u00e4lt\u00e4 verkkosivustolta."
+    }, 
+    "generic_error_message": {
+        "message": "Jostakin syyst\u00e4 emme voi lunastaa tarjoustasi t\u00e4ll\u00e4 hetkell\u00e4. Mekin olemme h\u00e4mmentyneit\u00e4 t\u00e4st\u00e4. Tarkista asia my\u00f6hemmin uudelleen."
+    }, 
+    "info_string": {
+        "message": "Lis\u00e4tietoja"
+    }, 
+    "learn_more": {
+        "message": "$1Lis\u00e4tietoja$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Voit lunastaa t\u00e4m\u00e4n tarjouksen vain kerran laitetta kohti, ja tarjous on jo lunastettu. Toinen laitteen k\u00e4ytt\u00e4j\u00e4 on voinut kirjautua sis\u00e4\u00e4n ja ehti\u00e4 ennen sinua. Jos olet ostanut laitteen k\u00e4ytettyn\u00e4, edellinen omistaja on saattanut lunastaa tarjouksen. Valitettavasti emme voi siirt\u00e4\u00e4 tarjouksia muihin tileihin emmek\u00e4 voi uusia k\u00e4ytettyjen laitteiden tarjouksia."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Tarjouksen lunastaminen ep\u00e4onnistui. K\u00e4yt\u00e4t mahdollisesti incognito-ikkunaa tai olet kirjautunut vierastilassa, jolloin tarjouksia ei voi lunastaa. K\u00e4yt\u00e4 tavallista ikkunaa ja varmista, ettet k\u00e4yt\u00e4 vierailijatunnuksia."
+    }, 
+    "notification_button": {
+        "message": "Lunasta \u2013 $1 p\u00e4iv\u00e4\u00e4 j\u00e4ljell\u00e4", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Lunasta ne, ennen kuin on liian my\u00f6h\u00e4ist\u00e4"
+    }, 
+    "notification_title": {
+        "message": "Hanki lis\u00e4ominaisuuksia Chrome-laitteelle"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Chrome-k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4n tuesta saamaasi koodia k\u00e4ytet\u00e4\u00e4n v\u00e4\u00e4r\u00e4n tarjouksen lunastamiseksi. Ota uudelleen yhteytt\u00e4 $1Chrome-k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4n tukeen$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 haluaa vahvistaa, ett\u00e4 k\u00e4yt\u00e4t yhteensopivaa Chrome-k\u00e4ytt\u00f6j\u00e4rjestelm\u00e4laitetta.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Laitteesi rekister\u00f6intikoodi ei kelpaa."
+    }, 
+    "sorry_about_that": {
+        "message": "Pahoittelut"
+    }
+}

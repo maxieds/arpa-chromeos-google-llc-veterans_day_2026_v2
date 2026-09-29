@@ -1,0 +1,2333 @@
+{
+  "action_create_user_feedback": {
+    "message": "Hibabejelent\u00e9s"
+  },
+  "alt_key": {
+    "message": "Alt"
+  },
+  "always_use_office_editing_mode": {
+    "message": "Mindig ezt tegye a Drive-r\u00f3l \u00e9s a Gmailb\u0151l sz\u00e1rmaz\u00f3, t\u00e1mogatott Office-f\u00e1jlokn\u00e1l"
+  },
+  "app_error_learn_more": {
+    "message": "Tov\u00e1bbi inform\u00e1ci\u00f3"
+  },
+  "app_error_report_feedback": {
+    "message": "Visszajelz\u00e9s k\u00fcld\u00e9se"
+  },
+  "app_icon_aria_spoken_word": {
+    "message": " kezd\u0151lap"
+  },
+  "app_nacl_crash_msg": {
+    "message": "Seg\u00edtsen nek\u00fcnk a probl\u00e9ma bejelent\u00e9s\u00e9vel."
+  },
+  "app_nacl_crash_report": {
+    "message": "Probl\u00e9ma bejelent\u00e9se..."
+  },
+  "app_nacl_crash_title": {
+    "message": "Hopp\u00e1! Ennek nem kellett volna megt\u00f6rt\u00e9nnie; t\u00f6ltse be ism\u00e9t az oldalt a m\u00f3dos\u00edt\u00e1sok vissza\u00e1ll\u00edt\u00e1s\u00e1hoz."
+  },
+  "app_nacl_error_load_failed": {
+    "message": "A f\u00e1jlt sajnos nem siker\u00fclt megnyitni. Z\u00e1rja be a lapokat vagy ind\u00edtsa \u00fajra a Chrome-ot, majd pr\u00f3b\u00e1lkozzon \u00fajra. Ha a probl\u00e9ma tov\u00e1bbra is fenn\u00e1ll, jelentse al\u00e1bb."
+  },
+  "app_nacl_error_title": {
+    "message": "A f\u00e1jl nem nyithat\u00f3 meg."
+  },
+  "app_nacl_error_unsupported_device": {
+    "message": "Ez az eszk\u00f6z nem t\u00e1mogatja az Office-szerkeszt\u00e9s nev\u0171 Chrome-b\u0151v\u00edtm\u00e9nyt."
+  },
+  "app_saving_failed_error_msg": {
+    "message": "A f\u00e1jl ment\u00e9se k\u00f6zben sajnos hiba t\u00f6rt\u00e9nt. Pr\u00f3b\u00e1lja meg \u00fajra menteni a f\u00e1jlt. Ha a hiba tov\u00e1bbra sem sz\u0171nik meg, jelentse a probl\u00e9m\u00e1t."
+  },
+  "app_saving_failed_error_short_msg": {
+    "message": "A f\u00e1jlt nem lehet menteni."
+  },
+  "backgroundcolor_aria_spoken_word": {
+    "message": "a cella h\u00e1tt\u00e9rsz\u00edn\u00e9nek leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "banner_dismiss": {
+    "message": "Elvet\u00e9s"
+  },
+  "basic_editor_conversion_shortmsg": {
+    "message": "Alapszint\u0171 szerkeszt\u0151 m\u00f3dban van"
+  },
+  "basic_editor_mode": {
+    "message": "Alapszint\u0171 szerkeszt\u0151"
+  },
+  "basic_editor_promo_conversion_msg": {
+    "message": "Jelenleg a Microsoft-f\u00e1jlokhoz sz\u00e1nt Alapszint\u0171 szerkeszt\u0151vel dolgozik El\u0151fordulhat, hogy a szerkeszt\u00e9si lehet\u0151s\u00e9gek korl\u00e1tozottak. Szerkeszt\u00e9s k\u00f6zben a rendszer automatikusan menti a f\u00e1jlt."
+  },
+  "bold_aria_spoken_word": {
+    "message": "f\u00e9lk\u00f6v\u00e9r"
+  },
+  "border_all_aria_spoken_word": {
+    "message": "minden szeg\u00e9ly"
+  },
+  "border_aria_spoken_word": {
+    "message": "a szeg\u00e9ly leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "border_bottom_aria_spoken_word": {
+    "message": "als\u00f3 szeg\u00e9ly"
+  },
+  "border_horizontal_aria_spoken_word": {
+    "message": "v\u00edzszintes szeg\u00e9ly"
+  },
+  "border_inner_aria_spoken_word": {
+    "message": "bels\u0151 szeg\u00e9ly"
+  },
+  "border_left_aria_spoken_word": {
+    "message": "bal szeg\u00e9ly"
+  },
+  "border_none_aria_spoken_word": {
+    "message": "nincs szeg\u00e9ly"
+  },
+  "border_outer_aria_spoken_word": {
+    "message": "k\u00fcls\u0151 szeg\u00e9ly"
+  },
+  "border_right_aria_spoken_word": {
+    "message": "jobb szeg\u00e9ly"
+  },
+  "border_top_aria_spoken_word": {
+    "message": "fels\u0151 szeg\u00e9ly"
+  },
+  "border_vertical_aria_spoken_word": {
+    "message": "f\u00fcgg\u0151leges szeg\u00e9ly"
+  },
+  "button_drive_promo_office_editing_mode_point": {
+    "message": "Megnyit\u00e1s a Google Di\u00e1kban"
+  },
+  "button_drive_promo_office_editing_mode_sheet": {
+    "message": "Megnyit\u00e1s a Google T\u00e1bl\u00e1zatokban"
+  },
+  "button_drive_promo_office_editing_mode_word": {
+    "message": "Megnyit\u00e1s a Google Dokumentumokban"
+  },
+  "button_ocm_convert_cancel": {
+    "message": "M\u00e9gse"
+  },
+  "button_ocm_oem_cancel": {
+    "message": "M\u00e9gse"
+  },
+  "button_ocm_promo_conversion_point": {
+    "message": "Ment\u00e9s Google Di\u00e1k-form\u00e1tumban"
+  },
+  "button_ocm_promo_conversion_sheet": {
+    "message": "Ment\u00e9s Google T\u00e1bl\u00e1zatok-form\u00e1tumban"
+  },
+  "button_ocm_promo_conversion_word": {
+    "message": "Ment\u00e9s Google Dokumentumok-form\u00e1tumban"
+  },
+  "button_ocm_promo_office_editing_mode_point": {
+    "message": "Felt\u00f6lt\u00e9s a Drive-ra, majd megnyit\u00e1s a Di\u00e1kban"
+  },
+  "button_ocm_promo_office_editing_mode_sheet": {
+    "message": "Felt\u00f6lt\u00e9s a Drive-ra, majd megnyit\u00e1s a T\u00e1bl\u00e1zatokban"
+  },
+  "button_ocm_promo_office_editing_mode_word": {
+    "message": "Felt\u00f6lt\u00e9s a Drive-ra, majd megnyit\u00e1s a Dokumentumokban"
+  },
+  "button_share_convert_cancel": {
+    "message": "M\u00e9gse"
+  },
+  "button_share_oem_cancel": {
+    "message": "M\u00e9gse"
+  },
+  "button_share_promo_conversion_point": {
+    "message": "Ment\u00e9s Google Di\u00e1k-form\u00e1tumban"
+  },
+  "button_share_promo_conversion_sheet": {
+    "message": "Ment\u00e9s Google T\u00e1bl\u00e1zatok-form\u00e1tumban"
+  },
+  "button_share_promo_conversion_word": {
+    "message": "Ment\u00e9s Google Dokumentumok-form\u00e1tumban"
+  },
+  "button_share_promo_office_editing_mode": {
+    "message": "Felt\u00f6lt\u00e9s a Drive-ra a megoszt\u00e1shoz"
+  },
+  "cell_align_aria_spoken_word": {
+    "message": "Cellaigaz\u00edt\u00e1s"
+  },
+  "cellalign_aria_spoken_word": {
+    "message": "a cellaigaz\u00edt\u00e1s leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "cellhaligncenter_aria_spoken_word": {
+    "message": "V\u00edzszintesen k\u00f6z\u00e9pre"
+  },
+  "cellhalignleft_aria_spoken_word": {
+    "message": "V\u00edzszintesen balra"
+  },
+  "cellhalignright_aria_spoken_word": {
+    "message": "V\u00edzszintesen jobbra"
+  },
+  "cellvalignbottom_aria_spoken_word": {
+    "message": "F\u00fcgg\u0151legesen alulra"
+  },
+  "cellvaligncenter_aria_spoken_word": {
+    "message": "F\u00fcgg\u0151legesen k\u00f6z\u00e9pre"
+  },
+  "cellvaligntop_aria_spoken_word": {
+    "message": "F\u00fcgg\u0151legesen fel\u00fclre"
+  },
+  "char_count_label": {
+    "message": "Karakterek sz\u00e1ma"
+  },
+  "char_no_spaces_count_label": {
+    "message": "Karakterek sz\u00e1ma (sz\u00f3k\u00f6z n\u00e9lk\u00fcl)"
+  },
+  "close_dialog_aria_spoken_word": {
+    "message": "P\u00e1rbesz\u00e9dablak bez\u00e1r\u00e1sa"
+  },
+  "cmd_dropdown_initaddshape_aria_spoken_word": {
+    "message": "az alakzat leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "collapsed": {
+    "message": "\u00d6sszecsukott"
+  },
+  "collapsed_menu": {
+    "message": "$1 \u00f6sszecsukva az almen\u00fcvel egy\u00fctt.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "color_black": {
+    "message": "Fekete"
+  },
+  "color_blaze_orange": {
+    "message": "Rik\u00edt\u00f3 narancss\u00e1rga"
+  },
+  "color_blue": {
+    "message": "K\u00e9k"
+  },
+  "color_brown": {
+    "message": "Barna"
+  },
+  "color_cornflower_blue": {
+    "message": "B\u00fazavir\u00e1gk\u00e9k"
+  },
+  "color_cyan": {
+    "message": "Ci\u00e1nk\u00e9k"
+  },
+  "color_dark_blue": {
+    "message": "S\u00f6t\u00e9tk\u00e9k"
+  },
+  "color_dark_blue_1": {
+    "message": "S\u00f6t\u00e9tk\u00e9k 1"
+  },
+  "color_dark_blue_2": {
+    "message": "S\u00f6t\u00e9tk\u00e9k 2"
+  },
+  "color_dark_blue_3": {
+    "message": "S\u00f6t\u00e9tk\u00e9k 3"
+  },
+  "color_dark_blue_grey": {
+    "message": "S\u00f6t\u00e9t k\u00e9kessz\u00fcrke"
+  },
+  "color_dark_cornflower_blue_1": {
+    "message": "S\u00f6t\u00e9t b\u00fazavir\u00e1gk\u00e9k 1"
+  },
+  "color_dark_cornflower_blue_2": {
+    "message": "S\u00f6t\u00e9t b\u00fazavir\u00e1gk\u00e9k 2"
+  },
+  "color_dark_cornflower_blue_3": {
+    "message": "S\u00f6t\u00e9t b\u00fazavir\u00e1gk\u00e9k 3"
+  },
+  "color_dark_cyan": {
+    "message": "S\u00f6t\u00e9t ci\u00e1nk\u00e9k"
+  },
+  "color_dark_cyan_1": {
+    "message": "S\u00f6t\u00e9t ci\u00e1nk\u00e9k 1"
+  },
+  "color_dark_cyan_2": {
+    "message": "S\u00f6t\u00e9t ci\u00e1nk\u00e9k 2"
+  },
+  "color_dark_cyan_3": {
+    "message": "S\u00f6t\u00e9t ci\u00e1nk\u00e9k 3"
+  },
+  "color_dark_gray": {
+    "message": "S\u00f6t\u00e9tsz\u00fcrke"
+  },
+  "color_dark_gray_1": {
+    "message": "S\u00f6t\u00e9tsz\u00fcrke 1"
+  },
+  "color_dark_gray_2": {
+    "message": "S\u00f6t\u00e9tsz\u00fcrke 2"
+  },
+  "color_dark_gray_3": {
+    "message": "S\u00f6t\u00e9tsz\u00fcrke 3"
+  },
+  "color_dark_gray_4": {
+    "message": "S\u00f6t\u00e9tsz\u00fcrke 4"
+  },
+  "color_dark_green": {
+    "message": "S\u00f6t\u00e9tz\u00f6ld"
+  },
+  "color_dark_green_1": {
+    "message": "S\u00f6t\u00e9tz\u00f6ld 1"
+  },
+  "color_dark_green_2": {
+    "message": "S\u00f6t\u00e9tz\u00f6ld 2"
+  },
+  "color_dark_green_3": {
+    "message": "S\u00f6t\u00e9tz\u00f6ld 3"
+  },
+  "color_dark_green_5": {
+    "message": "S\u00f6t\u00e9tz\u00f6ld 5"
+  },
+  "color_dark_grey_2": {
+    "message": "S\u00f6t\u00e9tsz\u00fcrke 2"
+  },
+  "color_dark_grey_5": {
+    "message": "S\u00f6t\u00e9tsz\u00fcrke 5"
+  },
+  "color_dark_magenta_1": {
+    "message": "S\u00f6t\u00e9tmagenta 1"
+  },
+  "color_dark_magenta_2": {
+    "message": "S\u00f6t\u00e9tmagenta 2"
+  },
+  "color_dark_magenta_3": {
+    "message": "S\u00f6t\u00e9tmagenta 3"
+  },
+  "color_dark_olive_green": {
+    "message": "S\u00f6t\u00e9t olivaz\u00f6ld"
+  },
+  "color_dark_orange_1": {
+    "message": "S\u00f6t\u00e9t narancss\u00e1rga 1"
+  },
+  "color_dark_orange_2": {
+    "message": "S\u00f6t\u00e9t narancss\u00e1rga 2"
+  },
+  "color_dark_orange_3": {
+    "message": "S\u00f6t\u00e9t narancss\u00e1rga 3"
+  },
+  "color_dark_purple_1": {
+    "message": "S\u00f6t\u00e9tlila 1"
+  },
+  "color_dark_purple_2": {
+    "message": "S\u00f6t\u00e9tlila 2"
+  },
+  "color_dark_purple_3": {
+    "message": "S\u00f6t\u00e9tlila 3"
+  },
+  "color_dark_red": {
+    "message": "S\u00f6t\u00e9tpiros"
+  },
+  "color_dark_red_1": {
+    "message": "S\u00f6t\u00e9tpiros 1"
+  },
+  "color_dark_red_2": {
+    "message": "S\u00f6t\u00e9tpiros 2"
+  },
+  "color_dark_red_3": {
+    "message": "S\u00f6t\u00e9tpiros 3"
+  },
+  "color_dark_red_berry_1": {
+    "message": "S\u00f6t\u00e9t m\u00e1lnapiros 1"
+  },
+  "color_dark_red_berry_2": {
+    "message": "S\u00f6t\u00e9t m\u00e1lnapiros 2"
+  },
+  "color_dark_red_berry_3": {
+    "message": "S\u00f6t\u00e9t m\u00e1lnapiros 3"
+  },
+  "color_dark_slate_blue": {
+    "message": "S\u00f6t\u00e9t palak\u00e9k"
+  },
+  "color_dark_yellow_1": {
+    "message": "S\u00f6t\u00e9ts\u00e1rga 1"
+  },
+  "color_dark_yellow_2": {
+    "message": "S\u00f6t\u00e9ts\u00e1rga 2"
+  },
+  "color_dark_yellow_3": {
+    "message": "S\u00f6t\u00e9ts\u00e1rga 3"
+  },
+  "color_deep_pink": {
+    "message": "M\u00e9ly r\u00f3zsasz\u00edn"
+  },
+  "color_deep_sky_blue": {
+    "message": "M\u00e9ly \u00e9gsz\u00ednk\u00e9k"
+  },
+  "color_eucalyptus_green": {
+    "message": "Eukaliptuszz\u00f6ld"
+  },
+  "color_gold": {
+    "message": "Arany"
+  },
+  "color_gray": {
+    "message": "Sz\u00fcrke"
+  },
+  "color_green": {
+    "message": "Z\u00f6ld"
+  },
+  "color_light_blue": {
+    "message": "Vil\u00e1gosk\u00e9k"
+  },
+  "color_light_blue_1": {
+    "message": "Vil\u00e1gosk\u00e9k 1"
+  },
+  "color_light_blue_2": {
+    "message": "Vil\u00e1gosk\u00e9k 2"
+  },
+  "color_light_blue_3": {
+    "message": "Vil\u00e1gosk\u00e9k 3"
+  },
+  "color_light_cornflower_blue_1": {
+    "message": "Vil\u00e1gos b\u00fazavir\u00e1gk\u00e9k 1"
+  },
+  "color_light_cornflower_blue_2": {
+    "message": "Vil\u00e1gos b\u00fazavir\u00e1gk\u00e9k 2"
+  },
+  "color_light_cornflower_blue_3": {
+    "message": "Vil\u00e1gos b\u00fazavir\u00e1gk\u00e9k 3"
+  },
+  "color_light_cyan": {
+    "message": "Vil\u00e1gos ci\u00e1nk\u00e9k"
+  },
+  "color_light_cyan_1": {
+    "message": "Vil\u00e1gos ci\u00e1nk\u00e9k 1"
+  },
+  "color_light_cyan_2": {
+    "message": "Vil\u00e1gos ci\u00e1nk\u00e9k 2"
+  },
+  "color_light_cyan_3": {
+    "message": "Vil\u00e1gos ci\u00e1nk\u00e9k 3"
+  },
+  "color_light_gray": {
+    "message": "Vil\u00e1gossz\u00fcrke"
+  },
+  "color_light_gray_1": {
+    "message": "Vil\u00e1gossz\u00fcrke 1"
+  },
+  "color_light_gray_2": {
+    "message": "Vil\u00e1gossz\u00fcrke 2"
+  },
+  "color_light_gray_3": {
+    "message": "Vil\u00e1gossz\u00fcrke 3"
+  },
+  "color_light_green": {
+    "message": "Vil\u00e1gosz\u00f6ld"
+  },
+  "color_light_green_1": {
+    "message": "Vil\u00e1gosz\u00f6ld 1"
+  },
+  "color_light_green_2": {
+    "message": "Vil\u00e1gosz\u00f6ld 2"
+  },
+  "color_light_green_3": {
+    "message": "Vil\u00e1gosz\u00f6ld 3"
+  },
+  "color_light_magenta_1": {
+    "message": "Vil\u00e1gosmagenta 1"
+  },
+  "color_light_magenta_2": {
+    "message": "Vil\u00e1gosmagenta 2"
+  },
+  "color_light_magenta_3": {
+    "message": "Vil\u00e1gosmagenta 3"
+  },
+  "color_light_orange_1": {
+    "message": "Vil\u00e1gos narancss\u00e1rga 1"
+  },
+  "color_light_orange_2": {
+    "message": "Vil\u00e1gos narancss\u00e1rga 2"
+  },
+  "color_light_orange_3": {
+    "message": "Vil\u00e1gos narancss\u00e1rga 3"
+  },
+  "color_light_purple": {
+    "message": "Vil\u00e1goslila"
+  },
+  "color_light_purple_1": {
+    "message": "Vil\u00e1goslila 1"
+  },
+  "color_light_purple_2": {
+    "message": "Vil\u00e1goslila 2"
+  },
+  "color_light_purple_3": {
+    "message": "Vil\u00e1goslila 3"
+  },
+  "color_light_red_1": {
+    "message": "Vil\u00e1gospiros 1"
+  },
+  "color_light_red_2": {
+    "message": "Vil\u00e1gospiros 2"
+  },
+  "color_light_red_3": {
+    "message": "Vil\u00e1gospiros 3"
+  },
+  "color_light_red_berry_1": {
+    "message": "Vil\u00e1gos m\u00e1lnapiros 1"
+  },
+  "color_light_red_berry_2": {
+    "message": "Vil\u00e1gos m\u00e1lnapiros 2"
+  },
+  "color_light_red_berry_3": {
+    "message": "Vil\u00e1gos m\u00e1lnapiros 3"
+  },
+  "color_light_yellow": {
+    "message": "Vil\u00e1goss\u00e1rga"
+  },
+  "color_light_yellow_1": {
+    "message": "Vil\u00e1goss\u00e1rga 1"
+  },
+  "color_light_yellow_2": {
+    "message": "Vil\u00e1goss\u00e1rga 2"
+  },
+  "color_light_yellow_3": {
+    "message": "Vil\u00e1goss\u00e1rga 3"
+  },
+  "color_magenta": {
+    "message": "Magenta"
+  },
+  "color_maroon": {
+    "message": "V\u00f6r\u00f6sesbarna"
+  },
+  "color_midnight_blue": {
+    "message": "\u00c9jk\u00e9k"
+  },
+  "color_navy": {
+    "message": "Tenger\u00e9szk\u00e9k"
+  },
+  "color_olive": {
+    "message": "Olivaz\u00f6ld"
+  },
+  "color_orange": {
+    "message": "Narancssz\u00edn"
+  },
+  "color_peach": {
+    "message": "Baracksz\u00edn"
+  },
+  "color_pink": {
+    "message": "R\u00f3zsasz\u00edn"
+  },
+  "color_pistachio": {
+    "message": "Piszt\u00e1ciaz\u00f6ld"
+  },
+  "color_purple": {
+    "message": "Lila"
+  },
+  "color_red": {
+    "message": "Piros"
+  },
+  "color_red_berry": {
+    "message": "M\u00e1lnapiros"
+  },
+  "color_royal_blue": {
+    "message": "Kir\u00e1lyk\u00e9k"
+  },
+  "color_teal": {
+    "message": "P\u00e1vak\u00e9k"
+  },
+  "color_turquiose": {
+    "message": "T\u00fcrkizk\u00e9k"
+  },
+  "color_white": {
+    "message": "Feh\u00e9r"
+  },
+  "color_yellow": {
+    "message": "S\u00e1rga"
+  },
+  "command_key": {
+    "message": "Command"
+  },
+  "content_msg_merging_horizontally_across_vertical_section": {
+    "message": "Nem hajthat v\u00e9gre v\u00edzszintes egyes\u00edt\u00e9st f\u00fcgg\u0151legesen egyes\u00edtett r\u00e9szen."
+  },
+  "content_msg_merging_multiple_cells_with_text": {
+    "message": "A cell\u00e1k egyes\u00edt\u00e9se ut\u00e1n csak a bal oldali legfels\u0151 \u00e9rt\u00e9k marad meg. Folytatja az egyes\u00edt\u00e9st?"
+  },
+  "content_msg_merging_partially_selected_merged_cells": {
+    "message": "Az egyes\u00edt\u00e9s v\u00e9grehajt\u00e1s\u00e1hoz vagy megsz\u00fcntet\u00e9s\u00e9hez az egyes\u00edtett tartom\u00e1ny \u00f6sszes cell\u00e1j\u00e1t ki kell jel\u00f6lnie."
+  },
+  "content_msg_merging_vertically_across_horizontal_section": {
+    "message": "Nem hajthat v\u00e9gre f\u00fcgg\u0151leges egyes\u00edt\u00e9st v\u00edzszintesen egyes\u00edtett r\u00e9szen."
+  },
+  "content_render_error_msg": {
+    "message": "Probl\u00e9ma l\u00e9pett fel a dokumentum tartalm\u00e1val kapcsolatban."
+  },
+  "context_menu_clipboard_copy": {
+    "message": "M\u00e1sol\u00e1s"
+  },
+  "context_menu_delete": {
+    "message": "T\u00f6rl\u00e9s"
+  },
+  "context_menu_freeze": {
+    "message": "R\u00f6gz\u00edt\u00e9s"
+  },
+  "context_menu_insert": {
+    "message": "Beilleszt\u00e9s"
+  },
+  "context_menu_sort_collation_ascending": {
+    "message": "Rendez\u00e9s: a\u2013z"
+  },
+  "context_menu_sort_collation_descending": {
+    "message": "Rendez\u00e9s: z\u2013a"
+  },
+  "context_menu_unfreeze": {
+    "message": "Felold\u00e1s"
+  },
+  "control_key": {
+    "message": "Control"
+  },
+  "convert_attempt_for_sheet_with_large_file_size": {
+    "message": "Ez a f\u00e1jl t\u00fal nagy a Google-t\u00e1bl\u00e1zatk\u00e9nt val\u00f3 ment\u00e9shez"
+  },
+  "convert_attempt_for_slide_with_large_file_size": {
+    "message": "Ez a f\u00e1jl t\u00fal nagy a Google-diak\u00e9nt val\u00f3 ment\u00e9shez"
+  },
+  "convert_attempt_for_word_with_large_file_size": {
+    "message": "Ez a f\u00e1jl t\u00fal nagy a Google-dokumentumk\u00e9nt val\u00f3 ment\u00e9shez"
+  },
+  "convert_attempt_when_offline": {
+    "message": "A Google Dokumentumok-form\u00e1tumban val\u00f3 ment\u00e9shez csatlakoznia kell az internethez. Pr\u00f3b\u00e1lja \u00fajra, amikor a kapcsolata helyre\u00e1llt."
+  },
+  "convert_attempt_with_invalid_creds": {
+    "message": "A f\u00e1jl konvert\u00e1l\u00e1s\u00e1hoz be kell jelentkeznie Google-fi\u00f3kj\u00e1ba."
+  },
+  "convert_cancel": {
+    "message": "M\u00e9gse"
+  },
+  "convert_to_google_docs_failed": {
+    "message": "Probl\u00e9ma t\u00f6rt\u00e9nt a dokumentum Google Dokumentumok-form\u00e1tumra val\u00f3 konvert\u00e1l\u00e1sa k\u00f6zben."
+  },
+  "convert_to_google_point_fail_short_msg": {
+    "message": "Hopp\u00e1"
+  },
+  "convert_to_google_point_short_msg": {
+    "message": "Ment\u00e9s Google Di\u00e1k-form\u00e1tumban"
+  },
+  "convert_to_google_sheet_fail_short_msg": {
+    "message": "Hopp\u00e1"
+  },
+  "convert_to_google_sheet_short_msg": {
+    "message": "Ment\u00e9s Google T\u00e1bl\u00e1zatok-form\u00e1tumban"
+  },
+  "convert_to_google_word_fail_short_msg": {
+    "message": "Hopp\u00e1"
+  },
+  "convert_to_google_word_short_msg": {
+    "message": "Ment\u00e9s Google Dokumentumok-form\u00e1tumban"
+  },
+  "convert_try_again": {
+    "message": "Pr\u00f3b\u00e1lja \u00fajra"
+  },
+  "converting_to_google_point_fail_msg": {
+    "message": "Jelenleg nem tudtuk menteni a f\u00e1jlt Google Di\u00e1k-form\u00e1tumban."
+  },
+  "converting_to_google_point_msg": {
+    "message": "A prezent\u00e1ci\u00f3 \u00faj verzi\u00f3j\u00e1nak ment\u00e9se Google Di\u00e1k-form\u00e1tumban."
+  },
+  "converting_to_google_sheet_fail_msg": {
+    "message": "Jelenleg nem tudtuk menteni a f\u00e1jlt Google T\u00e1bl\u00e1zatok-form\u00e1tumban."
+  },
+  "converting_to_google_sheet_msg": {
+    "message": "A t\u00e1bl\u00e1zat \u00faj verzi\u00f3j\u00e1nak ment\u00e9se Google T\u00e1bl\u00e1zatok-form\u00e1tumban."
+  },
+  "converting_to_google_word_fail_msg": {
+    "message": "Jelenleg nem tudtuk menteni a f\u00e1jlt Google Dokumentumok-form\u00e1tumban."
+  },
+  "converting_to_google_word_msg": {
+    "message": "A dokumentum \u00faj verzi\u00f3j\u00e1nak ment\u00e9se Google Dokumentumok-form\u00e1tumban."
+  },
+  "copy_attempt_when_offline": {
+    "message": "Ahhoz, hogy m\u00e1solatot tudjon k\u00e9sz\u00edteni a Google Drive-on, csatlakoznia kell az internethez. Ha internetkapcsolata helyre\u00e1llt, pr\u00f3b\u00e1lja \u00fajra."
+  },
+  "copy_attempt_with_invalid_creds": {
+    "message": "M\u00e1solat k\u00e9sz\u00edt\u00e9s\u00e9hez be kell jelentkeznie Google-fi\u00f3kj\u00e1ba."
+  },
+  "disabled_share_button": {
+    "message": "A makr\u00f3f\u00e1jlok csak a Google Drive szolg\u00e1ltat\u00e1sb\u00f3l oszthat\u00f3k meg. Letiltott megoszt\u00e1s."
+  },
+  "disallowed_cut_copy_paste_cmd_copy": {
+    "message": "m\u00e1sol\u00e1sra"
+  },
+  "disallowed_cut_copy_paste_cmd_cut": {
+    "message": "kiv\u00e1g\u00e1sra"
+  },
+  "disallowed_cut_copy_paste_cmd_paste": {
+    "message": "beilleszt\u00e9sre"
+  },
+  "disallowed_cut_copy_paste_msg": {
+    "message": "Ezek a m\u0171veletek nem \u00e9rhet\u0151k el a Szerkeszt\u00e9s men\u00fcb\u0151l \u00e9s a helyi men\u00fcb\u0151l, de tov\u00e1bbra is haszn\u00e1lhatja a k\u00f6vetkez\u0151ket:"
+  },
+  "disallowed_cut_copy_paste_title": {
+    "message": "M\u00e1sol\u00e1s \u00e9s beilleszt\u00e9s Office-kompatibilis m\u00f3dban"
+  },
+  "dismiss": {
+    "message": "Bez\u00e1r\u00e1s"
+  },
+  "document_title_aria_spoken_word": {
+    "message": "Dokumentum c\u00edme:"
+  },
+  "down_key": {
+    "message": "Le"
+  },
+  "download_button": {
+    "message": "Let\u00f6lt\u00e9s"
+  },
+  "download_file_timeout_error_msg": {
+    "message": "A megnyitni k\u00edv\u00e1nt f\u00e1jl let\u00f6lt\u00e9se a v\u00e1rtn\u00e1l tov\u00e1bb tart. Ellen\u0151rizze a h\u00e1l\u00f3zati kapcsolatot, \u00e9s pr\u00f3b\u00e1lkozzon \u00fajra."
+  },
+  "download_file_timeout_error_short_msg": {
+    "message": "A f\u00e1jl let\u00f6lt\u00e9se a v\u00e1rtn\u00e1l tov\u00e1bb tart."
+  },
+  "download_original": {
+    "message": "Eredeti let\u00f6lt\u00e9se"
+  },
+  "drive_open_timeout_error_msg": {
+    "message": "\u00dagy t\u0171nik, probl\u00e9ma van az internetkapcsolat\u00e1val. Ellen\u0151rizze a kapcsolatot, \u00e9s pr\u00f3b\u00e1lja meg \u00fajra megnyitni a f\u00e1jlt. Ha a hiba tov\u00e1bbra is fenn\u00e1ll, mikor \u00d6n online m\u00f3dban van, k\u00e9rj\u00fck, jelentse al\u00e1bb a probl\u00e9m\u00e1t."
+  },
+  "drive_open_timeout_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "duplicate_sheet_name_message": {
+    "message": "Olyan munkalapnevet adjon meg, amelyet m\u00e9g nem haszn\u00e1l m\u00e1s munkalap"
+  },
+  "duplicate_sheet_name_title": {
+    "message": "A munkalapn\u00e9v m\u00e1r haszn\u00e1latban van"
+  },
+  "editing_options_limited_banner_text": {
+    "message": "El\u0151fordulhat, hogy a szerkeszt\u00e9si lehet\u0151s\u00e9gek korl\u00e1tozottak. Szerkeszt\u00e9s k\u00f6zben a rendszer automatikusan menti a f\u00e1jlt."
+  },
+  "edits_not_being_saved": {
+    "message": "A m\u00f3dos\u00edt\u00e1sokat nem menti automatikusan a rendszer."
+  },
+  "edits_now_being_auto_saved": {
+    "message": "A f\u00e1jl ment\u00e9se megt\u00f6rt\u00e9nt. A rendszer mostant\u00f3l automatikusan ment minden m\u00f3dos\u00edt\u00e1st."
+  },
+  "entry_point_error_msg": {
+    "message": "Pr\u00f3b\u00e1lja \u00fajra, vagy al\u00e1bb jelentse a probl\u00e9m\u00e1t."
+  },
+  "entry_point_error_short_msg": {
+    "message": "Hopp\u00e1! Nem tudtuk meghat\u00e1rozni, hogy melyik f\u00e1jlt akarta megnyitni."
+  },
+  "error_occurred": {
+    "message": "Hiba t\u00f6rt\u00e9nt."
+  },
+  "error_password_required_msg": {
+    "message": "Egyel\u0151re m\u00e9g nem t\u00e1mogatjuk a v\u00e9dett f\u00e1jlokat, de dolgozunk a megold\u00e1son."
+  },
+  "error_password_required_short_msg": {
+    "message": "Ez a f\u00e1jl jelsz\u00f3val v\u00e9dett."
+  },
+  "expanded": {
+    "message": "Kibontott"
+  },
+  "expanded_menu": {
+    "message": "$1 kibontva az almen\u00fcvel egy\u00fctt.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "extension_cros_name": {
+    "message": "Alapszint\u0171 szerkeszt\u0151 Office-f\u00e1jlokhoz"
+  },
+  "extension_description": {
+    "message": "A Google Dokumentumok, T\u00e1bl\u00e1zatok \u00e9s Di\u00e1k seg\u00edts\u00e9g\u00e9vel Microsoft Word-, Excel- \u00e9s PowerPoint-f\u00e1jlokat tekinthet meg \u00e9s szerkeszthet"
+  },
+  "extension_name": {
+    "message": "Office-szerkeszt\u00e9s"
+  },
+  "extension_popup_message_body": {
+    "message": "A megl\u00e9v\u0151 f\u00e1jlok megnyit\u00e1s\u00e1hoz h\u00fazza \u0151ket a b\u00f6ng\u00e9sz\u0151re"
+  },
+  "extension_popup_new_document_header": {
+    "message": "\u00daj..."
+  },
+  "extension_popup_new_presentation_document": {
+    "message": "PowerPoint-bemutat\u00f3"
+  },
+  "extension_popup_new_spreadsheet_document": {
+    "message": "Excel-t\u00e1bl\u00e1zat"
+  },
+  "extension_popup_new_word_document": {
+    "message": "Word-dokumentum"
+  },
+  "feedback_textbox_editing": {
+    "message": "A sz\u00f6vegmez\u0151kben l\u00e9v\u0151 sz\u00f6vegek szerkeszt\u00e9s\u00e9neki t\u00e1mogat\u00e1s\u00e1t szeretn\u00e9m k\u00e9rni."
+  },
+  "feedback_ui_template": {
+    "message": "1- K\u00e9rj\u00fck, \u00edrja le a tapasztalt probl\u00e9m\u00e1t.\n2- F\u00e1jl megnyit\u00e1sakor vagy szerkeszt\u00e9sekor mer\u00fclt fel a probl\u00e9ma?\n3- Ez a probl\u00e9ma b\u00e1rmely f\u00e1jl megnyit\u00e1sakor vagy szerkeszt\u00e9sekor jelentkezik, vagy csak bizonyos f\u00e1jlok eset\u00e9ben?\n\nHa a probl\u00e9ma csak egy bizonyos f\u00e1jln\u00e1l jelentkezik, k\u00e9rj\u00fck, ne habozzon csatolni a f\u00e1jlt a jelent\u00e9shez, hiszen ezzel jelent\u0151sen seg\u00edti munk\u00e1nkat, \u00e9s lehet\u0151v\u00e9 teszi sz\u00e1munkra, hogy a probl\u00e9m\u00e1t alaposabban \u00e1tl\u00e1ssuk."
+  },
+  "file_does_not_exist_error_details": {
+    "message": "Ez a f\u00e1jl nem l\u00e9tezik. Lehet, hogy megosztott linket vagy k\u00f6nyvjelz\u0151k k\u00f6z\u00e9 helyezett dokumentumot pr\u00f3b\u00e1lt megnyitni. Pr\u00f3b\u00e1lja meg \u00fajra megnyitni a f\u00e1jlt az eredeti forr\u00e1sb\u00f3l."
+  },
+  "file_does_not_exist_error_title": {
+    "message": "A f\u00e1jl nem tal\u00e1lhat\u00f3."
+  },
+  "file_loading_spinner_label": {
+    "message": "Bet\u00f6lt\u00e9s..."
+  },
+  "file_missing_content_msg": {
+    "message": "A f\u00e1jl teljes tartalm\u00e1nak beolvas\u00e1sa sor\u00e1n hiba t\u00f6rt\u00e9nt; javasoljuk, hogy nevezze \u00e1t, majd nyissa meg \u00fajra a f\u00e1jlt."
+  },
+  "file_missing_content_short_msg": {
+    "message": "A dokumentumb\u00f3l bizonyos tartalom hi\u00e1nyzik."
+  },
+  "file_not_found_error_msg": {
+    "message": "Egyeztessen a f\u00e1jl tulajdonos\u00e1val, hogy megbizonyosodjon r\u00f3la, hogy jogosult a hozz\u00e1f\u00e9r\u00e9sre. Ha a hiba tov\u00e1bbra is fenn\u00e1ll, k\u00e9rj\u00fck, jelentse al\u00e1bb a probl\u00e9m\u00e1t."
+  },
+  "file_not_found_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "file_not_found_exception": {
+    "message": "Lehet, hogy a k\u00e9rt f\u00e1jlt t\u00f6r\u00f6lt\u00e9k, \u00e1tnevezt\u00e9k, vagy \u00e1thelyezt\u00e9k egy m\u00e1sik helyre. A tov\u00e1bbl\u00e9p\u00e9shez kattintson a \u201eMent\u00e9s most\u201d gombra."
+  },
+  "file_not_found_link_text": {
+    "message": "A t\u00f6bb fi\u00f3kkal kapcsolatos seg\u00edts\u00e9g\u00e9rt olvassa el ezt a cikket."
+  },
+  "file_not_found_msg": {
+    "message": "A k\u00e9rt f\u00e1jl m\u00e1s helyre ker\u00fclt."
+  },
+  "file_not_found_title": {
+    "message": "A f\u00e1jl nem tal\u00e1lhat\u00f3."
+  },
+  "file_open_crash_error_msg": {
+    "message": "Ha tov\u00e1bbra is tapasztalja a hib\u00e1t, k\u00e9rj\u00fck, jelentse al\u00e1bb a probl\u00e9m\u00e1t."
+  },
+  "file_open_crash_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "file_open_error_msg": {
+    "message": "A f\u00e1jl tartalma nem hozz\u00e1f\u00e9rhet\u0151."
+  },
+  "file_open_error_short_msg": {
+    "message": "Ez a f\u00e1jl s\u00e9r\u00fcltnek t\u0171nik."
+  },
+  "file_open_fail_download_link_text": {
+    "message": "F\u00e1jl let\u00f6lt\u00e9se"
+  },
+  "file_opened_in_incognito_mode_error_details": {
+    "message": "Az Office-f\u00e1jlszerkeszt\u00e9si b\u0151v\u00edtm\u00e9ny nem m\u0171k\u00f6dik inkognit\u00f3 ablakban. Nyissa meg a f\u00e1jlt egy norm\u00e1l Chrome-ablakban. Ha a Vend\u00e9g m\u00f3dot haszn\u00e1lja, akkor a f\u00e1jlt nem siker\u00fclt megnyitni. Gy\u0151z\u0151dj\u00f6n meg r\u00f3la, hogy nem s\u00e9r\u00fclt-e a f\u00e1jl, illetve nem \u00e9rv\u00e9nytelen t\u00edpus\u00fa dokumentum-e, majd pr\u00f3b\u00e1lkozzon \u00fajra."
+  },
+  "file_opened_in_incognito_mode_error_title": {
+    "message": "Hopp\u00e1! Inkognit\u00f3 m\u00f3dban nem haszn\u00e1lhat\u00f3"
+  },
+  "file_pdf_type_rename_msg": {
+    "message": "Nevezze \u00e1t a f\u00e1jlt a k\u00f6vetkez\u0151re, majd pr\u00f3b\u00e1lja \u00fajra: $1.pdf.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_rtf_type_rename_msg": {
+    "message": "Nevezze \u00e1t a f\u00e1jlt a k\u00f6vetkez\u0151re: $1.rtf",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_type_unsupported_msg": {
+    "message": "Ez a f\u00e1jlt\u00edpus nem t\u00e1mogatott."
+  },
+  "fillcolor_aria_spoken_word": {
+    "message": "a bet\u0171sz\u00edn leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "fontface_aria_spoken_word": {
+    "message": "a bet\u0171t\u00edpus leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "fontsize_aria_spoken_word": {
+    "message": "a bet\u0171m\u00e9ret leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "forbidden_access_level_error_msg": {
+    "message": "Egyeztessen a f\u00e1jl tulajdonos\u00e1val, hogy megbizonyosodjon r\u00f3la, hogy jogosult a f\u00e1jl megnyit\u00e1s\u00e1ra. Ha a hiba tov\u00e1bbra is fenn\u00e1ll, k\u00e9rj\u00fck, jelentse al\u00e1bb a probl\u00e9m\u00e1t."
+  },
+  "forbidden_access_level_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "forbidden_app_access_error_msg": {
+    "message": "Valamilyen okn\u00e1l fogva nincs enged\u00e9ly\u00fcnk a f\u00e1jl megnyit\u00e1s\u00e1ra. K\u00e9rj\u00fck, pr\u00f3b\u00e1lja meg a Google Drive-r\u00f3l megnyitni a f\u00e1jlt, vagy jelentse al\u00e1bb a probl\u00e9m\u00e1t."
+  },
+  "forbidden_app_access_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "forbidden_app_id_error_msg": {
+    "message": "\u00dagy t\u0171nik, hogy a Chrome-b\u0151v\u00edtm\u00e9ny nincs megfelel\u0151en be\u00e1ll\u00edtva. Hogyan lehets\u00e9ges ez? Nem tudjuk eg\u00e9szen biztosan, de k\u00e9rj\u00fck, jelentse al\u00e1bb a probl\u00e9m\u00e1t."
+  },
+  "forbidden_app_id_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "forbidden_blacklist_error_msg": {
+    "message": "\u00dagy t\u0171nik, hogy ez a Chrome-b\u0151v\u00edtm\u00e9ny feketelist\u00e1ra ker\u00fclt. Ez egy\u00e9rtelm\u0171en t\u00e9ved\u00e9s, ez\u00e9rt k\u00e9rj\u00fck, jelentse al\u00e1bb a probl\u00e9m\u00e1t, \u00e9s mondja el, mi t\u00f6rt\u00e9nt."
+  },
+  "forbidden_blacklist_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "forbidden_domain_error_msg": {
+    "message": "\u00dagy t\u0171nik, hogy az \u00d6n domainje nem enged\u00e9lyezi a f\u00e1jlhoz val\u00f3 hozz\u00e1f\u00e9r\u00e9st. K\u00e9rj\u00fck, forduljon a domain rendszergazd\u00e1j\u00e1hoz, vagy jelentse al\u00e1bb a probl\u00e9m\u00e1t."
+  },
+  "forbidden_domain_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "forbidden_internal_error_msg": {
+    "message": "Sajnos a Google Drive nem megfelel\u0151en m\u0171k\u00f6dik. K\u00e9rj\u00fck, pr\u00f3b\u00e1lja meg \u00fajra megnyitni a f\u00e1jlt, vagy jelentse al\u00e1bb a probl\u00e9m\u00e1t."
+  },
+  "forbidden_internal_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "forbidden_not_installed_error_msg": {
+    "message": "\u00dagy t\u0171nik, hogy a Chrome-b\u0151v\u00edtm\u00e9ny nincs megfelel\u0151en telep\u00edtve. Hogyan lehets\u00e9ges ez? Nem tudjuk eg\u00e9szen biztosan, de k\u00e9rj\u00fck, jelentse al\u00e1bb a probl\u00e9m\u00e1t."
+  },
+  "forbidden_not_installed_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "generic_error_msg": {
+    "message": "Probl\u00e9ma l\u00e9pett fel a dokumentum tartalm\u00e1val kapcsolatban."
+  },
+  "generic_error_short_msg": {
+    "message": "Hopp\u00e1! Ennek nem kellett volna megt\u00f6rt\u00e9nnie; t\u00f6ltse be ism\u00e9t az oldalt a m\u00f3dos\u00edt\u00e1sok vissza\u00e1ll\u00edt\u00e1s\u00e1hoz."
+  },
+  "get_lists_data_error_msg": {
+    "message": "Lehets\u00e9ges, hogy a dokumentum helytelen listaform\u00e1z\u00e1ssal jelenik meg."
+  },
+  "get_lists_data_error_short_msg": {
+    "message": "Nem siker\u00fclt beolvasni a dokumentum form\u00e1z\u00e1s\u00e1t."
+  },
+  "highlightcolor_aria_spoken_word": {
+    "message": "a sz\u00f6vegkiemel\u00e9s sz\u00edn\u00e9nek leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "http_error_zero_msg": {
+    "message": "H\u00e1l\u00f3zati probl\u00e9ma eset\u00e9n ellen\u0151rizze kapcsolat\u00e1t, illetve pr\u00f3b\u00e1lkozzon \u00fajra k\u00e9s\u0151bb. Ha a probl\u00e9ma tov\u00e1bbra is fenn\u00e1ll, jelentse al\u00e1bb."
+  },
+  "http_error_zero_short_msg": {
+    "message": "A f\u00e1jlt sajnos nem siker\u00fclt megnyitni."
+  },
+  "info_file_copied": {
+    "message": "Mentve"
+  },
+  "info_file_save_cancelled": {
+    "message": "Ment\u00e9s visszavonva."
+  },
+  "info_file_save_failed": {
+    "message": "A ment\u00e9s sikertelen volt."
+  },
+  "info_file_saved_at_location": {
+    "message": "Minden v\u00e1ltoztat\u00e1s mentve itt: $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "info_file_saved_in_drive": {
+    "message": "A rendszer minden m\u00f3dos\u00edt\u00e1st ment a Drive-on"
+  },
+  "info_file_saved_locally": {
+    "message": "A rendszer minden m\u00f3dos\u00edt\u00e1st ment helyben"
+  },
+  "info_file_saved_offline": {
+    "message": "A rendszer minden m\u00f3dos\u00edt\u00e1st ment offline"
+  },
+  "info_file_saving": {
+    "message": "Ment\u00e9s..."
+  },
+  "initaddshape_aria_spoken_word": {
+    "message": "sz\u00f6vegmez\u0151 hozz\u00e1ad\u00e1sa"
+  },
+  "invalid_credentials_error_msg": {
+    "message": "A f\u00e1jlhoz val\u00f3 hozz\u00e1f\u00e9r\u00e9shez be kell jelentkeznie Google-fi\u00f3kj\u00e1ba."
+  },
+  "invalid_credentials_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "invalid_file_format_msg": {
+    "message": "B\u00e1r a f\u00e1jl Office-dokumentumnak t\u0171nik, \u00e9s Office-kiterjeszt\u00e9ssel rendelkezik, val\u00f3j\u00e1ban att\u00f3l elt\u00e9r\u0151 f\u00e1jlt\u00edpus, amelyet \u00e1tneveztek vagy m\u00e1s m\u00f3don megv\u00e1ltoztattak, vagy olyan f\u00e1jlt\u00edpus, amelyet nem t\u00e1mogatunk."
+  },
+  "invalid_file_format_short_msg": {
+    "message": "Hopp\u00e1 \u2013 \u00fagy t\u0171nik, hogy nem tudjuk megnyitni ezt a dokumentumt\u00edpust."
+  },
+  "italic_aria_spoken_word": {
+    "message": "d\u0151lt"
+  },
+  "keyboard_shortcut_group_actions": {
+    "message": "M\u0171veletek"
+  },
+  "keyboard_shortcut_group_other": {
+    "message": "Egy\u00e9b"
+  },
+  "keyboard_shortcut_group_paragraph_formatting": {
+    "message": "Bekezd\u00e9sform\u00e1z\u00e1s"
+  },
+  "keyboard_shortcut_group_text_formatting": {
+    "message": "Sz\u00f6vegform\u00e1z\u00e1s"
+  },
+  "keyboard_shortcut_group_top_menus": {
+    "message": "Men\u00fck"
+  },
+  "keyboard_shortcut_group_with_slides": {
+    "message": "Di\u00e1kkal"
+  },
+  "keyboard_shortcut_title": {
+    "message": "Billenty\u0171k\u00f3dok"
+  },
+  "large_file_size_dialog_title_for_sheet": {
+    "message": "Nem siker\u00fclt a f\u00e1jlt Google-t\u00e1bl\u00e1zatk\u00e9nt elmenteni"
+  },
+  "large_file_size_dialog_title_for_slide": {
+    "message": "Nem siker\u00fclt a f\u00e1jlt Google-diak\u00e9nt elmenteni"
+  },
+  "large_file_size_dialog_title_for_word": {
+    "message": "Nem siker\u00fclt a f\u00e1jlt Google-dokumentumk\u00e9nt elmenteni"
+  },
+  "make_a_copy_fail_msg": {
+    "message": "Jelenleg nem siker\u00fclt m\u00e1solatot k\u00e9sz\u00edteni."
+  },
+  "menu_button_data": {
+    "message": "Adatok"
+  },
+  "menu_button_edit": {
+    "message": "Szerkeszt\u00e9s"
+  },
+  "menu_button_file": {
+    "message": "F\u00e1jl"
+  },
+  "menu_button_format": {
+    "message": "Form\u00e1tum"
+  },
+  "menu_button_help": {
+    "message": "S\u00fag\u00f3"
+  },
+  "menu_button_insert": {
+    "message": "Beilleszt\u00e9s"
+  },
+  "menu_button_slide": {
+    "message": "Dia"
+  },
+  "menu_button_tools": {
+    "message": "Eszk\u00f6z\u00f6k"
+  },
+  "menu_button_view": {
+    "message": "Megtekint\u00e9s"
+  },
+  "menu_item_10_point_star": {
+    "message": "10 \u00e1g\u00fa csillag"
+  },
+  "menu_item_12_point_star": {
+    "message": "12 \u00e1g\u00fa csillag"
+  },
+  "menu_item_16_point_star": {
+    "message": "16 \u00e1g\u00fa csillag"
+  },
+  "menu_item_24_point_star": {
+    "message": "24 \u00e1g\u00fa csillag"
+  },
+  "menu_item_32_point_star": {
+    "message": "32 \u00e1g\u00fa csillag"
+  },
+  "menu_item_4_point_star": {
+    "message": "4 \u00e1g\u00fa csillag"
+  },
+  "menu_item_5_point_star": {
+    "message": "5 \u00e1g\u00fa csillag"
+  },
+  "menu_item_6_point_star": {
+    "message": "6 \u00e1g\u00fa csillag"
+  },
+  "menu_item_7_point_star": {
+    "message": "7 \u00e1g\u00fa csillag"
+  },
+  "menu_item_8_point_star": {
+    "message": "8 \u00e1g\u00fa csillag"
+  },
+  "menu_item_align": {
+    "message": "Igaz\u00edt\u00e1s"
+  },
+  "menu_item_align_center": {
+    "message": "K\u00f6z\u00e9pre"
+  },
+  "menu_item_align_justified": {
+    "message": "Sorkiz\u00e1rt"
+  },
+  "menu_item_align_left": {
+    "message": "Balra"
+  },
+  "menu_item_align_right": {
+    "message": "Jobbra"
+  },
+  "menu_item_arrows": {
+    "message": "Nyilak"
+  },
+  "menu_item_bent_arrow": {
+    "message": "Hajl\u00edtott ny\u00edl"
+  },
+  "menu_item_bent_up_arrow": {
+    "message": "Hajl\u00edtott felfel\u00e9 mutat\u00f3 ny\u00edl"
+  },
+  "menu_item_bevel": {
+    "message": "Fazetta"
+  },
+  "menu_item_block_arc": {
+    "message": "T\u00f6mb\u00f6s \u00edv"
+  },
+  "menu_item_bold": {
+    "message": "F\u00e9lk\u00f6v\u00e9r"
+  },
+  "menu_item_callouts": {
+    "message": "Feliratok"
+  },
+  "menu_item_can": {
+    "message": "Henger"
+  },
+  "menu_item_chevron": {
+    "message": "S\u00e1vny\u00edl"
+  },
+  "menu_item_chord": {
+    "message": "H\u00far"
+  },
+  "menu_item_clear_formatting": {
+    "message": "Form\u00e1z\u00e1s t\u00f6rl\u00e9se"
+  },
+  "menu_item_cloud": {
+    "message": "Felh\u0151"
+  },
+  "menu_item_cloud_callout": {
+    "message": "Felh\u0151 alak\u00fa sz\u00f6vegbubor\u00e9k"
+  },
+  "menu_item_color_none": {
+    "message": "Egy sem"
+  },
+  "menu_item_color_transparent": {
+    "message": "\u00c1tl\u00e1tsz\u00f3"
+  },
+  "menu_item_convert_to_docs": {
+    "message": "Ment\u00e9s Google Dokumentumok-form\u00e1tumban"
+  },
+  "menu_item_convert_to_sheets": {
+    "message": "Ment\u00e9s Google T\u00e1bl\u00e1zatok-form\u00e1tumban"
+  },
+  "menu_item_convert_to_slides": {
+    "message": "Ment\u00e9s Google Di\u00e1k-form\u00e1tumban"
+  },
+  "menu_item_copy": {
+    "message": "M\u00e1sol\u00e1s"
+  },
+  "menu_item_cross": {
+    "message": "Kereszt"
+  },
+  "menu_item_cube": {
+    "message": "Kocka"
+  },
+  "menu_item_curved_down_arrow": {
+    "message": "Lefel\u00e9 kanyarod\u00f3 ny\u00edl"
+  },
+  "menu_item_curved_left_arrow": {
+    "message": "Balra kanyarod\u00f3 ny\u00edl"
+  },
+  "menu_item_curved_right_arrow": {
+    "message": "Jobbra kanyarod\u00f3 ny\u00edl"
+  },
+  "menu_item_curved_up_arrow": {
+    "message": "Felfel\u00e9 kanyarod\u00f3 ny\u00edl"
+  },
+  "menu_item_cut": {
+    "message": "Kiv\u00e1g\u00e1s"
+  },
+  "menu_item_decagon": {
+    "message": "T\u00edzsz\u00f6g"
+  },
+  "menu_item_delete_column": {
+    "message": "Oszlop t\u00f6rl\u00e9se"
+  },
+  "menu_item_delete_row": {
+    "message": "Sor t\u00f6rl\u00e9se"
+  },
+  "menu_item_delete_value": {
+    "message": "\u00c9rt\u00e9k t\u00f6rl\u00e9se"
+  },
+  "menu_item_deleteslide": {
+    "message": "Dia t\u00f6rl\u00e9se"
+  },
+  "menu_item_diagonal_stripe": {
+    "message": "\u00c1tl\u00f3s s\u00e1v"
+  },
+  "menu_item_diamond": {
+    "message": "Gy\u00e9m\u00e1nt"
+  },
+  "menu_item_divide": {
+    "message": "Oszt\u00e1s"
+  },
+  "menu_item_dodecagon": {
+    "message": "Tizenk\u00e9tsz\u00f6g"
+  },
+  "menu_item_donut": {
+    "message": "F\u00e1nk"
+  },
+  "menu_item_double_brace": {
+    "message": "Dupla kapcsos z\u00e1r\u00f3jel"
+  },
+  "menu_item_double_bracket": {
+    "message": "Dupla z\u00e1r\u00f3jel"
+  },
+  "menu_item_down_arrow": {
+    "message": "Lefel\u00e9 ny\u00edl"
+  },
+  "menu_item_down_arrow_callout": {
+    "message": "K\u00e9pfelirat lefel\u00e9 mutat\u00f3 ny\u00edllal"
+  },
+  "menu_item_duplicateslide": {
+    "message": "Ism\u00e9tl\u0151d\u0151 dia"
+  },
+  "menu_item_equal": {
+    "message": "Egyenl\u0151"
+  },
+  "menu_item_equation": {
+    "message": "Egyenlet"
+  },
+  "menu_item_explosion_1": {
+    "message": "Robban\u00e1s 1"
+  },
+  "menu_item_explosion_2": {
+    "message": "Robban\u00e1s 2"
+  },
+  "menu_item_flowchart_alternate_process": {
+    "message": "Folyamat\u00e1bra: Alternat\u00edv folyamat"
+  },
+  "menu_item_flowchart_card": {
+    "message": "Folyamat\u00e1bra: Lyukk\u00e1rtya"
+  },
+  "menu_item_flowchart_collate": {
+    "message": "Folyamat\u00e1bra: V\u00e1logat\u00e1s"
+  },
+  "menu_item_flowchart_connector": {
+    "message": "Folyamat\u00e1bra: Bek\u00f6t\u00e9s"
+  },
+  "menu_item_flowchart_data": {
+    "message": "Folyamat\u00e1bra: Adatok"
+  },
+  "menu_item_flowchart_decision": {
+    "message": "Folyamat\u00e1bra: D\u00f6nt\u00e9s"
+  },
+  "menu_item_flowchart_delay": {
+    "message": "Folyamat\u00e1bra: K\u00e9sleltet\u00e9s"
+  },
+  "menu_item_flowchart_direct_access_storage": {
+    "message": "Folyamat\u00e1bra: K\u00f6zvetlen el\u00e9r\u00e9s\u0171 t\u00e1rol\u00e1s"
+  },
+  "menu_item_flowchart_display": {
+    "message": "Folyamat\u00e1bra: Kijelz\u00e9s"
+  },
+  "menu_item_flowchart_document": {
+    "message": "Folyamat\u00e1bra: Dokumentum"
+  },
+  "menu_item_flowchart_extract": {
+    "message": "Folyamat\u00e1bra: Kigy\u0171jt\u00e9s"
+  },
+  "menu_item_flowchart_internal_storage": {
+    "message": "Folyamat\u00e1bra: Bels\u0151 t\u00e1rol\u00e1s"
+  },
+  "menu_item_flowchart_magnetic_disk": {
+    "message": "Folyamat\u00e1bra: M\u00e1gneslemez"
+  },
+  "menu_item_flowchart_manual_input": {
+    "message": "Folyamat\u00e1bra: K\u00e9zi adatbevitel"
+  },
+  "menu_item_flowchart_manual_operation": {
+    "message": "Folyamat\u00e1bra: K\u00e9zi m\u0171velet"
+  },
+  "menu_item_flowchart_merge": {
+    "message": "Folyamat\u00e1bra: Egyes\u00edt\u00e9s"
+  },
+  "menu_item_flowchart_multidocument": {
+    "message": "Folyamat\u00e1bra: Dokument\u00e1ci\u00f3"
+  },
+  "menu_item_flowchart_off_page_connector": {
+    "message": "Folyamat\u00e1bra: K\u00fcls\u0151 bek\u00f6t\u00e9s"
+  },
+  "menu_item_flowchart_or": {
+    "message": "Folyamat\u00e1bra: Vagy"
+  },
+  "menu_item_flowchart_predefined_process": {
+    "message": "Folyamat\u00e1bra: El\u0151re defini\u00e1lt folyamat"
+  },
+  "menu_item_flowchart_preparation": {
+    "message": "Folyamat\u00e1bra: El\u0151k\u00e9sz\u00edt\u00e9s"
+  },
+  "menu_item_flowchart_process": {
+    "message": "Folyamat\u00e1bra: Folyamat"
+  },
+  "menu_item_flowchart_punched_tape": {
+    "message": "Folyamat\u00e1bra: Lyukszalag"
+  },
+  "menu_item_flowchart_sequential_access_storage": {
+    "message": "Folyamat\u00e1bra: Soros el\u00e9r\u00e9s\u0171 t\u00e1rol\u00e1s"
+  },
+  "menu_item_flowchart_sort": {
+    "message": "Folyamat\u00e1bra: Rendez\u00e9s"
+  },
+  "menu_item_flowchart_stored_data": {
+    "message": "Folyamat\u00e1bra: T\u00e1rolt adatok"
+  },
+  "menu_item_flowchart_summing_junction": {
+    "message": "Folyamat\u00e1bra: \u00d6sszegz\u00e9s"
+  },
+  "menu_item_flowchart_terminator": {
+    "message": "Folyamat\u00e1bra: Befejez\u00e9s"
+  },
+  "menu_item_folded_corner": {
+    "message": "Szam\u00e1rf\u00fcl"
+  },
+  "menu_item_frame": {
+    "message": "Keret"
+  },
+  "menu_item_half_frame": {
+    "message": "F\u00e9l keret"
+  },
+  "menu_item_heart": {
+    "message": "Sz\u00edv"
+  },
+  "menu_item_help_center": {
+    "message": "S\u00fag\u00f3"
+  },
+  "menu_item_heptagon": {
+    "message": "H\u00e9tsz\u00f6g"
+  },
+  "menu_item_hexagon": {
+    "message": "Hatsz\u00f6g"
+  },
+  "menu_item_hideslide": {
+    "message": "Dia elrejt\u00e9se"
+  },
+  "menu_item_insert_column": {
+    "message": "Oszlop"
+  },
+  "menu_item_insert_image": {
+    "message": "K\u00e9p"
+  },
+  "menu_item_insert_row": {
+    "message": "Sor"
+  },
+  "menu_item_insert_text_box": {
+    "message": "Sz\u00f6vegmez\u0151"
+  },
+  "menu_item_insertslide": {
+    "message": "\u00daj dia"
+  },
+  "menu_item_italic": {
+    "message": "D\u0151lt"
+  },
+  "menu_item_keyboard_shortcuts": {
+    "message": "Billenty\u0171k\u00f3dok"
+  },
+  "menu_item_l_shape": {
+    "message": "L alakzat"
+  },
+  "menu_item_left_arrow": {
+    "message": "Bal ny\u00edl"
+  },
+  "menu_item_left_arrow_callout": {
+    "message": "K\u00e9pfelirat balra mutat\u00f3 ny\u00edllal"
+  },
+  "menu_item_left_brace": {
+    "message": "Bal oldali kapcsos z\u00e1r\u00f3jel"
+  },
+  "menu_item_left_bracket": {
+    "message": "Bal oldali z\u00e1r\u00f3jel"
+  },
+  "menu_item_left_right_arrow": {
+    "message": "Jobbra \u00e9s balra mutat\u00f3 k\u00e9t\u00e1g\u00fa ny\u00edl"
+  },
+  "menu_item_left_right_arrow_callout": {
+    "message": "K\u00e9pfelirat jobbra-balra mutat\u00f3 ny\u00edllal"
+  },
+  "menu_item_left_right_up_arrow": {
+    "message": "Balra, jobbra \u00e9s felfel\u00e9 mutat\u00f3 h\u00e1rom\u00e1g\u00fa ny\u00edl"
+  },
+  "menu_item_left_up_arrow": {
+    "message": "Balra \u00e9s felfel\u00e9 mutat\u00f3 k\u00e9t\u00e1g\u00fa ny\u00edl"
+  },
+  "menu_item_lightning_bolt": {
+    "message": "Vill\u00e1m"
+  },
+  "menu_item_make_a_copy": {
+    "message": "M\u00e1solat ment\u00e9se\u2026"
+  },
+  "menu_item_merge_all": {
+    "message": "\u00d6sszes egyes\u00edt\u00e9se"
+  },
+  "menu_item_merge_cells": {
+    "message": "Cell\u00e1k egyes\u00edt\u00e9se"
+  },
+  "menu_item_merge_horizontally": {
+    "message": "Egyes\u00edt\u00e9s v\u00edzszintesen"
+  },
+  "menu_item_merge_vertically": {
+    "message": "Egyes\u00edt\u00e9s f\u00fcgg\u0151legesen"
+  },
+  "menu_item_minus": {
+    "message": "M\u00ednusz"
+  },
+  "menu_item_moon": {
+    "message": "Hold"
+  },
+  "menu_item_moveslidedown": {
+    "message": "Dia mozgat\u00e1sa lefel\u00e9"
+  },
+  "menu_item_moveslidetoend": {
+    "message": "Dia \u00e1thelyez\u00e9se a v\u00e9g\u00e9re"
+  },
+  "menu_item_moveslidetostart": {
+    "message": "Dia \u00e1thelyez\u00e9se az elej\u00e9re"
+  },
+  "menu_item_moveslideup": {
+    "message": "Dia mozgat\u00e1sa felfel\u00e9"
+  },
+  "menu_item_multiply": {
+    "message": "T\u00f6bbsz\u00f6r\u00f6z\u00e9s"
+  },
+  "menu_item_new": {
+    "message": "\u00daj"
+  },
+  "menu_item_no_symbol": {
+    "message": "Tilos jel"
+  },
+  "menu_item_not_equal": {
+    "message": "Nem egyenl\u0151"
+  },
+  "menu_item_notched_right_arrow": {
+    "message": "V\u00e1gott jobbra mutat\u00f3 ny\u00edl"
+  },
+  "menu_item_number_format": {
+    "message": "Sz\u00e1mform\u00e1tum"
+  },
+  "menu_item_number_menu": {
+    "message": "Sz\u00e1m"
+  },
+  "menu_item_numbering": {
+    "message": "$1. $2 k\u00f6z\u00fcl",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "menu_item_octagon": {
+    "message": "Nyolcsz\u00f6g"
+  },
+  "menu_item_open": {
+    "message": "Megnyit\u00e1s"
+  },
+  "menu_item_oval": {
+    "message": "Ov\u00e1lis"
+  },
+  "menu_item_oval_callout": {
+    "message": "Ov\u00e1lis k\u00e9pfelirat"
+  },
+  "menu_item_parallelogram": {
+    "message": "Paralelogramma"
+  },
+  "menu_item_paste": {
+    "message": "Beilleszt\u00e9s"
+  },
+  "menu_item_pentagon": {
+    "message": "\u00d6tsz\u00f6g"
+  },
+  "menu_item_pie": {
+    "message": "K\u00f6r"
+  },
+  "menu_item_plaque": {
+    "message": "Jelv\u00e9ny"
+  },
+  "menu_item_plus": {
+    "message": "Plusz"
+  },
+  "menu_item_present": {
+    "message": "Megjelen\u00edt\u00e9s"
+  },
+  "menu_item_print": {
+    "message": "Nyomtat\u00e1s"
+  },
+  "menu_item_quad_arrow": {
+    "message": "N\u00e9gy\u00e1g\u00fa ny\u00edl"
+  },
+  "menu_item_quad_arrow_callout": {
+    "message": "K\u00e9pfelirat n\u00e9gy\u00e1g\u00fa ny\u00edllal"
+  },
+  "menu_item_rectangle": {
+    "message": "T\u00e9glalap"
+  },
+  "menu_item_rectangular_callout": {
+    "message": "T\u00e9glalap alak\u00fa k\u00e9pfelirat"
+  },
+  "menu_item_redo": {
+    "message": "\u00dajra"
+  },
+  "menu_item_regular_pentagon": {
+    "message": "Szab\u00e1lyos \u00f6tsz\u00f6g"
+  },
+  "menu_item_report_abuse": {
+    "message": "Vissza\u00e9l\u00e9s bejelent\u00e9se"
+  },
+  "menu_item_report_issue": {
+    "message": "Hibabejelent\u00e9s"
+  },
+  "menu_item_right_arrow": {
+    "message": "Jobb ny\u00edl"
+  },
+  "menu_item_right_arrow_callout": {
+    "message": "K\u00e9pfelirat jobbra mutat\u00f3 ny\u00edllal"
+  },
+  "menu_item_right_brace": {
+    "message": "Jobb oldali kapcsos z\u00e1r\u00f3jel"
+  },
+  "menu_item_right_bracket": {
+    "message": "Jobb oldali z\u00e1r\u00f3jel"
+  },
+  "menu_item_right_triangle": {
+    "message": "Der\u00e9ksz\u00f6g\u0171 h\u00e1romsz\u00f6g"
+  },
+  "menu_item_round_diagonal_corner_rectangle": {
+    "message": "\u00c1tl\u00f3s sarkain lekerek\u00edtett t\u00e9glalap"
+  },
+  "menu_item_round_same_side_corner_rectangle": {
+    "message": "K\u00e9t szomsz\u00e9dos sark\u00e1n lekerek\u00edtett t\u00e9glalap"
+  },
+  "menu_item_round_single_corner_rectangle": {
+    "message": "Egy sark\u00e1n lekerek\u00edtett t\u00e9glalap"
+  },
+  "menu_item_rounded_rectangle": {
+    "message": "Lekerek\u00edtett t\u00e9glalap"
+  },
+  "menu_item_rounded_rectangular_callout": {
+    "message": "Lekerek\u00edtett t\u00e9glalap alak\u00fa k\u00e9pfelirat"
+  },
+  "menu_item_save": {
+    "message": "Ment\u00e9s"
+  },
+  "menu_item_save_as": {
+    "message": "Ment\u00e9s m\u00e1sk\u00e9nt..."
+  },
+  "menu_item_shapes": {
+    "message": "Alakzatok"
+  },
+  "menu_item_share": {
+    "message": "Megoszt\u00e1s"
+  },
+  "menu_item_smiley_face": {
+    "message": "Mosolyg\u00f3s arc"
+  },
+  "menu_item_snip_and_round_single_corner_rectangle": {
+    "message": "Egy-egy sark\u00e1n lev\u00e1gott, illetve lekerek\u00edtett t\u00e9glalap"
+  },
+  "menu_item_snip_diagonal_corner_rectangle": {
+    "message": "\u00c1tl\u00f3s sarkain lev\u00e1gott t\u00e9glalap"
+  },
+  "menu_item_snip_same_side_corner_rectangle": {
+    "message": "K\u00e9t szomsz\u00e9dos sark\u00e1n lev\u00e1gott t\u00e9glalap"
+  },
+  "menu_item_snip_single_corner_rectangle": {
+    "message": "Egy sark\u00e1n lev\u00e1gott t\u00e9glalap"
+  },
+  "menu_item_strikethrough": {
+    "message": "\u00c1th\u00faz\u00e1s"
+  },
+  "menu_item_striped_right_arrow": {
+    "message": "Szaggatott jobbra mutat\u00f3 ny\u00edl"
+  },
+  "menu_item_subscript": {
+    "message": "Als\u00f3 index"
+  },
+  "menu_item_sun": {
+    "message": "Nap"
+  },
+  "menu_item_superscript": {
+    "message": "Fels\u0151 index"
+  },
+  "menu_item_teardrop": {
+    "message": "K\u00f6nnycsepp"
+  },
+  "menu_item_trapezoid": {
+    "message": "Trap\u00e9z"
+  },
+  "menu_item_triangle": {
+    "message": "H\u00e1romsz\u00f6g"
+  },
+  "menu_item_u_turn_arrow": {
+    "message": "Visszakanyarod\u00f3 ny\u00edl"
+  },
+  "menu_item_underline": {
+    "message": "Al\u00e1h\u00faz\u00e1s"
+  },
+  "menu_item_undo": {
+    "message": "Visszavon\u00e1s"
+  },
+  "menu_item_unhideslide": {
+    "message": "Dia megjelen\u00edt\u00e9se"
+  },
+  "menu_item_unmerge": {
+    "message": "Egyes\u00edt\u00e9s megsz\u00fcntet\u00e9se"
+  },
+  "menu_item_up_arrow": {
+    "message": "Felfel\u00e9 ny\u00edl"
+  },
+  "menu_item_up_arrow_callout": {
+    "message": "K\u00e9pfelirat felfel\u00e9 mutat\u00f3 ny\u00edllal"
+  },
+  "menu_item_up_down_arrow": {
+    "message": "Felfel\u00e9 \u00e9s lefel\u00e9 mutat\u00f3 k\u00e9t\u00e1g\u00fa ny\u00edl"
+  },
+  "menu_item_version_info": {
+    "message": "Verzi\u00f3inform\u00e1ci\u00f3"
+  },
+  "menu_item_word_count": {
+    "message": "Szavak sz\u00e1ma"
+  },
+  "menu_item_wrap_text": {
+    "message": "Sort\u00f6r\u00e9ssel t\u00f6bb sorba"
+  },
+  "menu_item_zoom_in": {
+    "message": "Nagy\u00edt\u00e1s"
+  },
+  "menu_item_zoom_out": {
+    "message": "Kicsiny\u00edt\u00e9s"
+  },
+  "merge_all_aria_spoken_word": {
+    "message": "az \u00f6sszes egyes\u00edt\u00e9se"
+  },
+  "merge_aria_spoken_word": {
+    "message": "egyes\u00edt\u00e9s"
+  },
+  "merge_dropdown_aria_spoken_word": {
+    "message": "egyes\u00edt\u00e9s leg\u00f6rd\u00fcl\u0151 men\u00fc"
+  },
+  "merge_horizontally_aria_spoken_word": {
+    "message": "egyes\u00edt\u00e9s v\u00edzszintesen"
+  },
+  "merge_vertically_aria_spoken_word": {
+    "message": "egyes\u00edt\u00e9s f\u00fcgg\u0151legesen"
+  },
+  "modify_shape_transform_error_msg": {
+    "message": "Hiba t\u00f6rt\u00e9nt az alakzattranszform\u00e1ci\u00f3k m\u00f3dos\u00edt\u00e1sa k\u00f6zben"
+  },
+  "modify_shape_transform_error_short_msg": {
+    "message": "Hiba t\u00f6rt\u00e9nt az alakzattranszform\u00e1ci\u00f3k m\u00f3dos\u00edt\u00e1sakor."
+  },
+  "modifyshapefillcolor_aria_spoken_word": {
+    "message": "az alakzatkit\u00f6lt\u00e9s sz\u00edn\u00e9nek leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "modifyshapeoutlinecolor_aria_spoken_word": {
+    "message": "az alakzatk\u00f6rvonal sz\u00edn\u00e9nek leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "modifyshapeoutlinestyle_aria_spoken_word": {
+    "message": "az alakzatk\u00f6rvonal st\u00edlus\u00e1nak leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "modifyshapeoutlinewidth_aria_spoken_word": {
+    "message": "az alakzatk\u00f6rvonal sz\u00e9less\u00e9g\u00e9nek leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "nacl_load_error_details": {
+    "message": "Pr\u00f3b\u00e1lja meg \u00fajratelep\u00edteni a b\u0151v\u00edtm\u00e9nyt."
+  },
+  "nacl_load_error_title": {
+    "message": "Hiba t\u00f6rt\u00e9nt az alkalmaz\u00e1s bet\u00f6lt\u00e9se sor\u00e1n."
+  },
+  "non_permissible_sheet_name_details": {
+    "message": "A k\u00f6vetkez\u0151 karakterek nem enged\u00e9lyezettek: * ? [ ] ' ; : A munkalap neve legfeljebb 31 karakter lehet A munkalap nev\u00e9t nem lehet \u00fcresen hagyni"
+  },
+  "non_permissible_sheet_name_title": {
+    "message": "Az egyik munkalapn\u00e9v m\u00f3dos\u00edt\u00e1sakor \u00e9rv\u00e9nytelen \u00e9rt\u00e9ket adott meg"
+  },
+  "not_pressed": {
+    "message": "Nincs megnyomva"
+  },
+  "notselected": {
+    "message": "Nincs kiv\u00e1lasztva"
+  },
+  "number_format_label_currency_symbol": {
+    "message": "P\u00e9nznemszimb\u00f3lum"
+  },
+  "number_format_label_date_type": {
+    "message": "T\u00edpus"
+  },
+  "number_format_label_decimal_places": {
+    "message": "Tizedesjegyek"
+  },
+  "number_format_label_general": {
+    "message": "\u00c1ltal\u00e1nos"
+  },
+  "number_format_label_negative_numbers": {
+    "message": "Negat\u00edv sz\u00e1mok"
+  },
+  "number_format_label_other": {
+    "message": "Egy\u00e9b"
+  },
+  "number_format_label_red": {
+    "message": "Piros"
+  },
+  "number_format_label_text": {
+    "message": "Sz\u00f6veg"
+  },
+  "number_format_label_use_1000_separator": {
+    "message": "Ezres csoportok haszn\u00e1lata"
+  },
+  "number_format_tab_accounting": {
+    "message": "K\u00f6nyvel\u0151i"
+  },
+  "number_format_tab_currency": {
+    "message": "P\u00e9nznem"
+  },
+  "number_format_tab_date_time": {
+    "message": "D\u00e1tum/id\u0151"
+  },
+  "number_format_tab_general": {
+    "message": "\u00c1ltal\u00e1nos"
+  },
+  "number_format_tab_number": {
+    "message": "Sz\u00e1m"
+  },
+  "number_format_tab_percentage": {
+    "message": "Sz\u00e1zal\u00e9k"
+  },
+  "number_format_tab_scientific": {
+    "message": "Tudom\u00e1nyos"
+  },
+  "number_format_title": {
+    "message": "Sz\u00e1mform\u00e1tumok"
+  },
+  "ocm_promo_conversion_shortmsg": {
+    "message": "Jelenleg Office-kompatibilit\u00e1si m\u00f3dban van"
+  },
+  "ocm_promo_office_editing_mode_shortmsg": {
+    "message": "Jelenleg Office-kompatibilit\u00e1si m\u00f3dban van"
+  },
+  "office_compatibility_mode": {
+    "message": "Office-kompatibilis m\u00f3d"
+  },
+  "office_editing_mode_attempt_when_offline": {
+    "message": "Online kell lennie ahhoz, hogy meg tudja nyitni ezt a f\u00e1jlt a Google Dokumentumokban. Pr\u00f3b\u00e1lkozzon \u00fajra, miut\u00e1n a kapcsolat helyre\u00e1llt."
+  },
+  "office_editing_mode_attempt_with_invalid_creds": {
+    "message": "Ahhoz, hogy meg tudja nyitni ezt a f\u00e1jlt a Google Dokumentumokban, be kell jelentkeznie a Google-fi\u00f3kj\u00e1ba."
+  },
+  "office_editing_mode_point_fail_msg": {
+    "message": "Most nem tudtuk megnyitni a f\u00e1jlt Google Di\u00e1k-form\u00e1tumban."
+  },
+  "office_editing_mode_setting_new_create": {
+    "message": "A Drive-r\u00f3l \u00e9s a Gmailb\u0151l sz\u00e1rmaz\u00f3, t\u00e1mogatott Office-f\u00e1jlok megnyit\u00e1sa k\u00f6zvetlen\u00fcl a Dokumentumokban, a T\u00e1bl\u00e1zatokban vagy a Di\u00e1kban"
+  },
+  "office_editing_mode_sheet_fail_msg": {
+    "message": "Most nem tudtuk megnyitni a f\u00e1jlt Google T\u00e1bl\u00e1zatok-form\u00e1tumban."
+  },
+  "office_editing_mode_word_fail_msg": {
+    "message": "Most nem tudtuk megnyitni a f\u00e1jlt Google Dokumentumok-form\u00e1tumban."
+  },
+  "office_first_time_confirm": {
+    "message": "\u00c9rtem"
+  },
+  "office_first_time_message_p1": {
+    "message": "Mostant\u00f3l a Google Dokumentumok, T\u00e1bl\u00e1zatok \u00e9s Di\u00e1k seg\u00edts\u00e9g\u00e9vel szerkesztheti a merevlemez\u00e9n, a Google Drive-on, a Gmailben \u00e9s m\u00e1shol szerepl\u0151 Word-, Excel- \u00e9s Powerpoint-f\u00e1jlokat."
+  },
+  "office_first_time_message_p2": {
+    "message": "Szerkeszt\u00e9seit a rendszer automatikusan menti, \u00e9s a f\u00e1jlt b\u00e1rmikor mentheti az eredeti form\u00e1tumban is."
+  },
+  "office_first_time_title": {
+    "message": "Office-szerkeszt\u00e9s a Google Dokumentumok, T\u00e1bl\u00e1zatok \u00e9s Di\u00e1k alkalmaz\u00e1shoz"
+  },
+  "offline_error_msg": {
+    "message": "\u00dagy t\u0171nik, \u00d6n kapcsolat n\u00e9lk\u00fcli m\u00f3dban van. K\u00e9rj\u00fck, ellen\u0151rizze internetkapcsolat\u00e1t, \u00e9s pr\u00f3b\u00e1lkozzon \u00fajra. Ha a hiba online \u00e1llapotban is jelentkezik, k\u00e9rj\u00fck, jelentse al\u00e1bb a probl\u00e9m\u00e1t."
+  },
+  "offline_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni."
+  },
+  "opening_in_office_editing_mode": {
+    "message": "Megnyit\u00e1s Office-f\u00e1jlszerkeszt\u00e9si m\u00f3dban\u2026"
+  },
+  "option_key": {
+    "message": "Option (Alt)"
+  },
+  "out_of_memory_error_msg": {
+    "message": "Pr\u00f3b\u00e1lja meg bez\u00e1rni ezt a lapot, majd \u00fajra megnyitni a f\u00e1jlt, vagy bez\u00e1rni a b\u00f6ng\u00e9sz\u0151ben megnyitott t\u00f6bbi lapot. Ha a probl\u00e9ma tov\u00e1bbra is fenn\u00e1ll, jelentse a probl\u00e9m\u00e1t al\u00e1bb."
+  },
+  "out_of_memory_error_short_msg": {
+    "message": "Hopp\u00e1! Elfogyott a szabad mem\u00f3ria."
+  },
+  "page_count_label": {
+    "message": "Oldalak sz\u00e1ma"
+  },
+  "partial_cell_merge_error_msg": {
+    "message": "Nem m\u00f3dos\u00edthatja egy egyes\u00edtett cella egyik r\u00e9sz\u00e9t."
+  },
+  "partial_cell_merge_error_short_msg": {
+    "message": "Hiba"
+  },
+  "permission_fail_msg": {
+    "message": "Nincs enged\u00e9lye a f\u00e1jl szerkeszt\u00e9s\u00e9re. Friss\u00edtse az enged\u00e9lyeket, \u00e9s pr\u00f3b\u00e1lja \u00fajra."
+  },
+  "point_ocm_promo_conversion_msg": {
+    "message": "Az Office-f\u00e1jlokat k\u00f6zvetlen\u00fcl a Google Di\u00e1kban szerkesztheti \u00e9s mentheti. Ha m\u00e1sokat is meg szeretne h\u00edvni szerkeszt\u00e9shez, illetve megjegyz\u00e9sek hozz\u00e1ad\u00e1s\u00e1hoz, mentse a f\u00e1jlt Google Di\u00e1k-form\u00e1tumban."
+  },
+  "point_ocm_promo_office_editing_mode_msg": {
+    "message": "Mostant\u00f3l k\u00f6zvetlen\u00fcl a Google Di\u00e1kban szerkeszthet \u00e9s menthet Office-f\u00e1jlokat. T\u00f6ltse fel ezt a f\u00e1jlt a Google Drive-ra, hogy megh\u00edvhasson m\u00e1s felhaszn\u00e1l\u00f3kat a val\u00f3s idej\u0171 szerkeszt\u00e9sre vagy megjegyz\u00e9sek hozz\u00e1ad\u00e1s\u00e1ra. A f\u00e1jl form\u00e1tuma nem v\u00e1ltozik."
+  },
+  "point_printing_warning_msg": {
+    "message": "Dolgozunk a megold\u00e1son."
+  },
+  "point_printing_warning_short_msg": {
+    "message": "Egyel\u0151re csak az \u00e9ppen megtekintett di\u00e1t tudja kinyomtatni."
+  },
+  "point_share_promo_conversion_msg": {
+    "message": "Meg szeretn\u00e9 osztani a prezent\u00e1ci\u00f3t? Ahhoz, hogy megh\u00edvhasson m\u00e1sokat a k\u00f6z\u00f6s szerkeszt\u00e9sre, konvert\u00e1lja azt Google Di\u00e1k-form\u00e1tumra."
+  },
+  "point_share_promo_office_editing_mode_msg": {
+    "message": "Mostant\u00f3l k\u00f6zvetlen\u00fcl a Google Di\u00e1kban szerkeszthet \u00e9s menthet Office-f\u00e1jlokat. T\u00f6ltse fel ezt a f\u00e1jlt a Google Drive-ra, hogy megh\u00edvhasson m\u00e1s felhaszn\u00e1l\u00f3kat a val\u00f3s idej\u0171 szerkeszt\u00e9sre vagy megjegyz\u00e9sek hozz\u00e1ad\u00e1s\u00e1ra. A f\u00e1jl form\u00e1tuma nem v\u00e1ltozik."
+  },
+  "pointtogglebullet_aria_spoken_word": {
+    "message": "listajeles felsorol\u00e1s"
+  },
+  "pointtogglenumber_aria_spoken_word": {
+    "message": "sz\u00e1mozott felsorol\u00e1s"
+  },
+  "present_button": {
+    "message": "Megjelen\u00edt\u00e9s"
+  },
+  "pressed": {
+    "message": "Megnyomva"
+  },
+  "print_aria_spoken_word": {
+    "message": "nyomtat\u00e1s"
+  },
+  "qowt_doc_mismatch_text": {
+    "message": "A dokumentumn\u00e1l hiba l\u00e9pett fel form\u00e1z\u00e1skor.\n\nT\u00f6ltse be ism\u00e9t az oldalt a m\u00f3dos\u00edt\u00e1sok vissza\u00e1ll\u00edt\u00e1s\u00e1hoz."
+  },
+  "qowt_doc_mismatch_title": {
+    "message": "Hopp\u00e1!"
+  },
+  "qowt_hyperlink_activate_short_key": {
+    "message": "A link aktiv\u00e1l\u00e1s\u00e1hoz nyomja meg az ALT + Enter billenty\u0171k\u00f3dot."
+  },
+  "qowt_hyperlink_dialog": {
+    "message": "Link"
+  },
+  "qowt_hyperlink_dialog_message_text": {
+    "message": "Ugr\u00e1s erre a linkre:"
+  },
+  "qowt_modal_confirm_dialog_affirmative_button": {
+    "message": "OK"
+  },
+  "qowt_modal_confirm_dialog_negative_button": {
+    "message": "M\u00e9gse"
+  },
+  "qowt_modal_dialog_close_button": {
+    "message": "Bez\u00e1r\u00e1s"
+  },
+  "qowt_modal_dialog_coming_soon_title": {
+    "message": "Hamarosan v\u00e1rhat\u00f3!"
+  },
+  "qowt_modal_dialog_link_text": {
+    "message": "Tov\u00e1bbi inform\u00e1ci\u00f3"
+  },
+  "qowt_modal_dialog_ok_button": {
+    "message": "OK"
+  },
+  "qowt_modal_dialog_reload_button": {
+    "message": "\u00dajrat\u00f6lt\u00e9s"
+  },
+  "qowt_modal_dialog_textbox_editing_description": {
+    "message": "Sajnos nem t\u00e1mogatjuk a sz\u00f6vegmez\u0151k\u00f6n bel\u00fcli sz\u00f6vegek szerkeszt\u00e9s\u00e9t."
+  },
+  "qowt_modal_dialog_textbox_editing_link": {
+    "message": "K\u00e9rem, jav\u00edts\u00e1k ki!"
+  },
+  "qowt_modal_info_dialog_affirmative_button": {
+    "message": "OK"
+  },
+  "qowt_modal_multi_choice_remember_choice": {
+    "message": "Jegyezze meg a d\u00f6nt\u00e9semet"
+  },
+  "qowt_modal_query_dialog_affirmative_button": {
+    "message": "Igen"
+  },
+  "qowt_modal_query_dialog_negative_button": {
+    "message": "Nem"
+  },
+  "qowt_modal_query_dialog_reload_button": {
+    "message": "\u00dajrat\u00f6lt\u00e9s"
+  },
+  "qowt_modal_single_choice_remember_choice": {
+    "message": "Ne eml\u00e9keztessen \u00fajra"
+  },
+  "read_only": {
+    "message": "Csak olvashat\u00f3"
+  },
+  "redo_aria_spoken_word": {
+    "message": "\u00fajra"
+  },
+  "right_pointed_submenu": {
+    "message": "Jobbra ny\u00edl\u00f3 almen\u00fc"
+  },
+  "save_aria_spoken_word": {
+    "message": "ment\u00e9s"
+  },
+  "save_now": {
+    "message": "Ment\u00e9s most"
+  },
+  "security_error_msg": {
+    "message": "Ha tov\u00e1bbra is tapasztalja a hib\u00e1t, k\u00e9rj\u00fck, jelentse al\u00e1bb a probl\u00e9m\u00e1t."
+  },
+  "security_error_short_msg": {
+    "message": "Hopp\u00e1. A k\u00e9rt f\u00e1jlt nem siker\u00fclt megnyitni. Jelenleg nem t\u00e1mogatjuk a f\u00e1jlok megnyit\u00e1s\u00e1t inkognit\u00f3 m\u00f3dban. K\u00e9rj\u00fck, a f\u00e1jlt ne inkognit\u00f3 m\u00f3dban nyissa meg."
+  },
+  "selected": {
+    "message": "Kijel\u00f6lt"
+  },
+  "set_sheet_info_error_msg": {
+    "message": "Hiba t\u00f6rt\u00e9nt a munkalapn\u00e9v friss\u00edt\u00e9sekor"
+  },
+  "share_button": {
+    "message": "Megoszt\u00e1s"
+  },
+  "share_promo_conversion_shortmsg": {
+    "message": "K\u00f6z\u00f6s szerkeszt\u00e9s"
+  },
+  "share_promo_office_editing_mode_shortmsg": {
+    "message": "Megoszt\u00e1s m\u00e1sokkal"
+  },
+  "sheet_delete_column_error_msg": {
+    "message": "Hopp\u00e1! Hiba t\u00f6rt\u00e9nt az oszlop t\u00f6rl\u00e9sekor. Pr\u00f3b\u00e1lkozzon \u00fajra k\u00e9s\u0151bb."
+  },
+  "sheet_delete_row_error_msg": {
+    "message": "Hopp\u00e1! Hiba t\u00f6rt\u00e9nt a sor t\u00f6rl\u00e9sekor. Pr\u00f3b\u00e1lkozzon \u00fajra k\u00e9s\u0151bb."
+  },
+  "sheet_format_cells_error_msg": {
+    "message": "Form\u00e1z\u00e1si hiba t\u00f6rt\u00e9nt. Pr\u00f3b\u00e1lkozzon \u00fajra."
+  },
+  "sheet_insert_column_error_msg": {
+    "message": "Hopp\u00e1! Hiba t\u00f6rt\u00e9nt az oszlop beilleszt\u00e9sekor. Pr\u00f3b\u00e1lkozzon \u00fajra k\u00e9s\u0151bb."
+  },
+  "sheet_insert_column_exceed_error_msg": {
+    "message": "Sajnos t\u00f6bb oszlop nem illeszthet\u0151 be a t\u00e1bl\u00e1zatba, mert csak 256 oszlopot t\u00e1mogatunk."
+  },
+  "sheet_insert_column_exceed_error_short_msg": {
+    "message": "Eln\u00e9z\u00e9st!"
+  },
+  "sheet_insert_row_error_msg": {
+    "message": "Hopp\u00e1! Hiba t\u00f6rt\u00e9nt a sor beilleszt\u00e9sekor. Pr\u00f3b\u00e1lkozzon \u00fajra k\u00e9s\u0151bb."
+  },
+  "sheet_insert_row_exceed_error_msg": {
+    "message": "Sajnos t\u00f6bb sor nem illeszthet\u0151 be a t\u00e1bl\u00e1zatba, mert csak 65536 sort t\u00e1mogatunk."
+  },
+  "sheet_insert_row_exceed_error_short_msg": {
+    "message": "Eln\u00e9z\u00e9st!"
+  },
+  "sheet_ocm_promo_conversion_msg": {
+    "message": "Az Office-f\u00e1jlokat k\u00f6zvetlen\u00fcl a Google T\u00e1bl\u00e1zatokban szerkesztheti. Ha m\u00e1sokat is szeretne megh\u00edvni szerkeszt\u00e9shez, illetve megjegyz\u00e9sek hozz\u00e1ad\u00e1s\u00e1hoz, mentse a f\u00e1jlt Google Di\u00e1k-form\u00e1tumban. K\u00e9s\u0151bb b\u00e1rmikor mentheti a f\u00e1jlt az eredeti form\u00e1tumban."
+  },
+  "sheet_ocm_promo_office_editing_mode_msg": {
+    "message": "Mostant\u00f3l k\u00f6zvetlen\u00fcl a Google T\u00e1bl\u00e1zatokban szerkeszthet \u00e9s menthet Office-f\u00e1jlokat. T\u00f6ltse fel ezt a f\u00e1jlt a Google Drive-ra, megh\u00edvhasson m\u00e1s felhaszn\u00e1l\u00f3kat a val\u00f3s idej\u0171 szerkeszt\u00e9sre vagy megjegyz\u00e9sek hozz\u00e1ad\u00e1s\u00e1ra. A f\u00e1jl form\u00e1tuma nem v\u00e1ltozik."
+  },
+  "sheet_set_cell_content_invalid_error_msg": {
+    "message": "A megadott k\u00e9pletben hiba van. K\u00e9rj\u00fck, jav\u00edtsa ki."
+  },
+  "sheet_share_promo_conversion_msg": {
+    "message": "Meg szeretn\u00e9 osztani a t\u00e1bl\u00e1zatot? Ahhoz, hogy megh\u00edvhasson m\u00e1sokat a k\u00f6z\u00f6s szerkeszt\u00e9sre, konvert\u00e1lja azt Google T\u00e1bl\u00e1zatok-form\u00e1tumra."
+  },
+  "sheet_share_promo_office_editing_mode_msg": {
+    "message": "Mostant\u00f3l k\u00f6zvetlen\u00fcl a Google T\u00e1bl\u00e1zatokban szerkeszthet \u00e9s menthet Office-f\u00e1jlokat. T\u00f6ltse fel ezt a f\u00e1jlt a Google Drive-ra, megh\u00edvhasson m\u00e1s felhaszn\u00e1l\u00f3kat a val\u00f3s idej\u0171 szerkeszt\u00e9sre vagy megjegyz\u00e9sek hozz\u00e1ad\u00e1s\u00e1ra. A f\u00e1jl form\u00e1tuma nem v\u00e1ltozik."
+  },
+  "sheet_sort_error_title": {
+    "message": "Hiba t\u00f6rt\u00e9nt a cellatartom\u00e1ny rendez\u00e9se sor\u00e1n."
+  },
+  "sheet_sort_failure_msg": {
+    "message": "Hiba t\u00f6rt\u00e9nt a cellatartom\u00e1ny rendez\u00e9se sor\u00e1n."
+  },
+  "sheet_sort_merged_cell_error": {
+    "message": "Egyes\u00edtett cell\u00e1kat nem lehet rendezni."
+  },
+  "sheet_sort_merged_cell_error_title": {
+    "message": "Hiba t\u00f6rt\u00e9nt a cellatartom\u00e1ny rendez\u00e9se sor\u00e1n."
+  },
+  "sheet_sort_one_cell_error": {
+    "message": "K\u00e9rj\u00fck, a rendez\u00e9shez egyn\u00e9l t\u00f6bb cell\u00e1t v\u00e1lasszon ki."
+  },
+  "sheet_sort_one_cell_error_title": {
+    "message": "Hiba t\u00f6rt\u00e9nt a cellatartom\u00e1ny rendez\u00e9se sor\u00e1n."
+  },
+  "shift_key": {
+    "message": "Shift"
+  },
+  "shortcut": {
+    "message": "$1 billenty\u0171k\u00f3d",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "sign_in": {
+    "message": "Bejelentkez\u00e9s"
+  },
+  "slash_key": {
+    "message": "T\u00f6rtvonal"
+  },
+  "something_not_right": {
+    "message": "Valami nincs rendben"
+  },
+  "storage_quota_exceed_error_msg": {
+    "message": "Z\u00e1rjon be a Chrome-ban minden Office-dokumentumot, majd pr\u00f3b\u00e1lkozzon \u00fajra. Ha a probl\u00e9ma tov\u00e1bbra is fenn\u00e1ll, jelentse al\u00e1bb."
+  },
+  "storage_quota_exceed_error_short_msg": {
+    "message": "A f\u00e1jlt sajnos nem siker\u00fclt megnyitni."
+  },
+  "strikethrough_aria_spoken_word": {
+    "message": "\u00e1th\u00faz\u00e1s"
+  },
+  "style_aria_spoken_word": {
+    "message": "a st\u00edlus leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "submenu_spoken_text": {
+    "message": "$1 $2 $3 $4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "temporary_unable_to_open_error_msg": {
+    "message": "Pr\u00f3b\u00e1lkozzon \u00fajra, illetve ha a hiba tov\u00e1bbra sem sz\u0171nik meg, jelentse a probl\u00e9m\u00e1t al\u00e1bb."
+  },
+  "temporary_unable_to_open_error_short_msg": {
+    "message": "A f\u00e1jlt sajnos ideiglenesen nem lehet megnyitni."
+  },
+  "textaligncenter_aria_spoken_word": {
+    "message": "sz\u00f6veg igaz\u00edt\u00e1sa k\u00f6z\u00e9pre"
+  },
+  "textalignjustify_aria_spoken_word": {
+    "message": "sz\u00f6veg igaz\u00edt\u00e1sa sorkiz\u00e1rtra"
+  },
+  "textalignleft_aria_spoken_word": {
+    "message": "sz\u00f6veg igaz\u00edt\u00e1sa balra"
+  },
+  "textalignright_aria_spoken_word": {
+    "message": "sz\u00f6veg igaz\u00edt\u00e1sa jobbra"
+  },
+  "textcolor_aria_spoken_word": {
+    "message": "a bet\u0171sz\u00edn leg\u00f6rd\u00fcl\u0151 list\u00e1ja"
+  },
+  "textual_edit_error_msg": {
+    "message": "A dokumentumn\u00e1l hiba l\u00e9pett fel form\u00e1z\u00e1skor.\n\nT\u00f6ltse be ism\u00e9t az oldalt a m\u00f3dos\u00edt\u00e1sok vissza\u00e1ll\u00edt\u00e1s\u00e1hoz."
+  },
+  "textual_edit_error_short_msg": {
+    "message": "Hopp\u00e1!"
+  },
+  "title_error_msg_for_merge_cells": {
+    "message": "Probl\u00e9ma mer\u00fclt fel"
+  },
+  "title_msg_merging_multiple_cells_with_text": {
+    "message": "Figyelem!"
+  },
+  "togglebulleted_aria_spoken_word": {
+    "message": "listajeles felsorol\u00e1s"
+  },
+  "togglenumbered_aria_spoken_word": {
+    "message": "sz\u00e1mozott felsorol\u00e1s"
+  },
+  "togglezoom_aria_spoken_word": {
+    "message": "nagy\u00edt\u00e1s/kicsiny\u00edt\u00e9s"
+  },
+  "tooltip_background_color": {
+    "message": "Kit\u00f6lt\u00e9s sz\u00edne"
+  },
+  "tooltip_bold": {
+    "message": "F\u00e9lk\u00f6v\u00e9r"
+  },
+  "tooltip_border": {
+    "message": "Szeg\u00e9lyek"
+  },
+  "tooltip_border_all": {
+    "message": "\u00d6sszes szeg\u00e9ly"
+  },
+  "tooltip_border_bottom": {
+    "message": "Als\u00f3 szeg\u00e9lyek"
+  },
+  "tooltip_border_horizontal": {
+    "message": "V\u00edzszintes szeg\u00e9lyek"
+  },
+  "tooltip_border_inner": {
+    "message": "Bels\u0151 szeg\u00e9lyek"
+  },
+  "tooltip_border_left": {
+    "message": "Bal oldali szeg\u00e9lyek"
+  },
+  "tooltip_border_none": {
+    "message": "Nincsenek szeg\u00e9lyek"
+  },
+  "tooltip_border_outer": {
+    "message": "K\u00fcls\u0151 szeg\u00e9lyek"
+  },
+  "tooltip_border_right": {
+    "message": "Jobb oldali szeg\u00e9lyek"
+  },
+  "tooltip_border_top": {
+    "message": "Fels\u0151 szeg\u00e9lyek"
+  },
+  "tooltip_border_vertical": {
+    "message": "F\u00fcgg\u0151leges szeg\u00e9lyek"
+  },
+  "tooltip_cell_align": {
+    "message": "Cellaigaz\u00edt\u00e1s"
+  },
+  "tooltip_cell_h_align_center": {
+    "message": "V\u00edzszintesen k\u00f6z\u00e9pre"
+  },
+  "tooltip_cell_h_align_left": {
+    "message": "V\u00edzszintesen balra"
+  },
+  "tooltip_cell_h_align_right": {
+    "message": "V\u00edzszintesen jobbra"
+  },
+  "tooltip_cell_v_align_bottom": {
+    "message": "F\u00fcgg\u0151legesen alulra"
+  },
+  "tooltip_cell_v_align_center": {
+    "message": "F\u00fcgg\u0151legesen k\u00f6z\u00e9pre"
+  },
+  "tooltip_cell_v_align_top": {
+    "message": "F\u00fcgg\u0151legesen fel\u00fclre"
+  },
+  "tooltip_download": {
+    "message": "Let\u00f6lt\u00e9s"
+  },
+  "tooltip_download_original": {
+    "message": "Eredeti let\u00f6lt\u00e9se"
+  },
+  "tooltip_dropdown_init_add_shape": {
+    "message": "Alakzat"
+  },
+  "tooltip_fill_color": {
+    "message": "Bet\u0171sz\u00edn"
+  },
+  "tooltip_font_face": {
+    "message": "Bet\u0171t\u00edpus"
+  },
+  "tooltip_font_size": {
+    "message": "Bet\u0171m\u00e9ret"
+  },
+  "tooltip_highlight_color": {
+    "message": "Kiemel\u00e9s sz\u00edne"
+  },
+  "tooltip_init_add_shape": {
+    "message": "Sz\u00f6vegmez\u0151"
+  },
+  "tooltip_italic": {
+    "message": "D\u0151lt"
+  },
+  "tooltip_merge": {
+    "message": "Cell\u00e1k egyes\u00edt\u00e9se"
+  },
+  "tooltip_merge_dropdown": {
+    "message": "V\u00e1lasszon egyes\u00edt\u00e9si t\u00edpust\u2026"
+  },
+  "tooltip_modify_shape_fill_color": {
+    "message": "Kit\u00f6lt\u00e9s sz\u00edne"
+  },
+  "tooltip_modify_shape_outline_color": {
+    "message": "Vonal sz\u00edne"
+  },
+  "tooltip_modify_shape_outline_style": {
+    "message": "Szaggatott vonal"
+  },
+  "tooltip_modify_shape_outline_width": {
+    "message": "Vonalvastags\u00e1g"
+  },
+  "tooltip_move_slide": {
+    "message": "$1 dia \u00e1thelyez\u00e9se",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "tooltip_point": {
+    "message": "Di\u00e1k kezd\u0151lapja"
+  },
+  "tooltip_point_toggle_bullet": {
+    "message": "Listajeles felsorol\u00e1s"
+  },
+  "tooltip_point_toggle_number": {
+    "message": "Sz\u00e1mozott felsorol\u00e1s"
+  },
+  "tooltip_presentation": {
+    "message": "Bemutat\u00f3"
+  },
+  "tooltip_print": {
+    "message": "Nyomtat\u00e1s"
+  },
+  "tooltip_redo": {
+    "message": "\u00dajra"
+  },
+  "tooltip_share": {
+    "message": "Megoszt\u00e1s"
+  },
+  "tooltip_share_for_macroenabledfiles": {
+    "message": "A makr\u00f3f\u00e1jlok csak a Google Drive szolg\u00e1ltat\u00e1sb\u00f3l oszthat\u00f3k meg"
+  },
+  "tooltip_sheet": {
+    "message": "T\u00e1bl\u00e1zatok kezd\u0151lapja"
+  },
+  "tooltip_strikethrough": {
+    "message": "\u00c1th\u00faz\u00e1s"
+  },
+  "tooltip_style": {
+    "message": "St\u00edlusok"
+  },
+  "tooltip_text_align_center": {
+    "message": "K\u00f6z\u00e9pre z\u00e1r\u00e1s"
+  },
+  "tooltip_text_align_justify": {
+    "message": "Sorkiz\u00e1r\u00e1s"
+  },
+  "tooltip_text_align_left": {
+    "message": "Balra igaz\u00edt\u00e1s"
+  },
+  "tooltip_text_align_right": {
+    "message": "Jobbra igaz\u00edt\u00e1s"
+  },
+  "tooltip_text_color": {
+    "message": "Bet\u0171sz\u00edn"
+  },
+  "tooltip_toggle_bulleted": {
+    "message": "Listajeles felsorol\u00e1s"
+  },
+  "tooltip_toggle_numbered": {
+    "message": "Sz\u00e1mozott felsorol\u00e1s"
+  },
+  "tooltip_toggle_zoom": {
+    "message": "Nagy\u00edt\u00e1s/kicsiny\u00edt\u00e9s"
+  },
+  "tooltip_underline": {
+    "message": "Al\u00e1h\u00faz\u00e1s"
+  },
+  "tooltip_undo": {
+    "message": "Visszavon\u00e1s"
+  },
+  "tooltip_word": {
+    "message": "Dokumentumok kezd\u0151lapja"
+  },
+  "tooltip_wrap_text": {
+    "message": "Sort\u00f6r\u00e9ssel t\u00f6bb sorba"
+  },
+  "tooltip_zoom_in": {
+    "message": "Nagy\u00edt\u00e1s"
+  },
+  "tooltip_zoom_out": {
+    "message": "Kicsiny\u00edt\u00e9s"
+  },
+  "try_again": {
+    "message": "\u00dajra"
+  },
+  "unable_to_execute_msg": {
+    "message": "Nem siker\u00fclt megnyitni ezt a dokumentumot."
+  },
+  "underline_aria_spoken_word": {
+    "message": "al\u00e1h\u00faz\u00e1s"
+  },
+  "undo_aria_spoken_word": {
+    "message": "visszavon\u00e1s"
+  },
+  "unmerge_aria_spoken_word": {
+    "message": "egyes\u00edt\u00e9s megsz\u00fcntet\u00e9se"
+  },
+  "unsaved_changes": {
+    "message": "Nem mentett m\u00f3dos\u00edt\u00e1sok"
+  },
+  "unsaved_changes_warning": {
+    "message": "Nem mentett m\u00f3dos\u00edt\u00e1sok vannak a f\u00e1jlban. Ha ment\u00e9s n\u00e9lk\u00fcl hagyja el az oldalt, az elv\u00e9gzett m\u0171veletek \u00f6r\u00f6kre elvesznek."
+  },
+  "unsupported_file_format_error_details_p1": {
+    "message": "Ebben a f\u00e1jlban a Microsoft\u00ae Office '95 vagy kor\u00e1bbi verzi\u00f3b\u00f3l sz\u00e1rmaz\u00f3 tartalom van, amelyet sajnos nem tudunk megnyitni."
+  },
+  "unsupported_file_format_error_details_p2": {
+    "message": "Ha a f\u00e1jlt szeretn\u00e9 \u00e1talak\u00edtani a Google Dokumentumok form\u00e1tum\u00e1ba, kattintson az al\u00e1bbi linkre."
+  },
+  "unsupported_file_format_error_title": {
+    "message": "Hopp\u00e1!"
+  },
+  "unsupported_link_message": {
+    "message": "Jelenleg nem t\u00e1mogatjuk az ilyen t\u00edpus\u00fa URL-eket."
+  },
+  "up_key": {
+    "message": "Fel"
+  },
+  "updated_shortcut_message": {
+    "message": "Friss\u00edtett\u00fck a billenty\u0171parancsokat, hogy az \u00f6sszes Google Dokumentumok-term\u00e9kben ugyanazokat haszn\u00e1lhassa. A s\u00fag\u00f3ban megtekintheti a friss\u00edtett billenty\u0171parancsokat."
+  },
+  "updated_shortcut_title": {
+    "message": "Friss\u00edtett billenty\u0171parancsok"
+  },
+  "uploading_to_drive_for_office_editing_mode_point": {
+    "message": "Felt\u00f6lt\u00e9s a Drive-ra, majd megnyit\u00e1s a Di\u00e1kban\u2026"
+  },
+  "uploading_to_drive_for_office_editing_mode_sheet": {
+    "message": "Felt\u00f6lt\u00e9s a Drive-ra, majd megnyit\u00e1s a T\u00e1bl\u00e1zatokban\u2026"
+  },
+  "uploading_to_drive_for_office_editing_mode_word": {
+    "message": "Felt\u00f6lt\u00e9s a Drive-ra, majd megnyit\u00e1s a Dokumentumokban\u2026"
+  },
+  "uploading_to_drive_msg_for_point": {
+    "message": "A f\u00e1jl felt\u00f6lt\u00e9se a Drive-ra, majd megnyit\u00e1s a Google Di\u00e1kban\u2026"
+  },
+  "uploading_to_drive_msg_for_sheet": {
+    "message": "A f\u00e1jl felt\u00f6lt\u00e9se a Drive-ra, majd megnyit\u00e1s a Google T\u00e1bl\u00e1zatokban\u2026"
+  },
+  "uploading_to_drive_msg_for_word": {
+    "message": "A f\u00e1jl felt\u00f6lt\u00e9se a Drive-ra, majd megnyit\u00e1s a Google Dokumentumokban\u2026"
+  },
+  "version_info_msg": {
+    "message": "Az Office-kompatibilis m\u00f3d \u00d6n \u00e1ltal haszn\u00e1lt verzi\u00f3ja:"
+  },
+  "word_binary_upsave_learnmore": {
+    "message": "Tov\u00e1bbi inform\u00e1ci\u00f3"
+  },
+  "word_binary_upsave_msg": {
+    "message": "A f\u00e1jl nem t\u00e1mogatott form\u00e1tumban van. A ment\u00e9shez enged\u00e9lyeznie kell annak konvert\u00e1l\u00e1s\u00e1t \u00fajabb form\u00e1tumra; ez nem lesz hat\u00e1ssal az eredeti f\u00e1jlra."
+  },
+  "word_binary_upsave_shortmsg": {
+    "message": "Dokumentum friss\u00edt\u00e9se"
+  },
+  "word_count_label": {
+    "message": "Szavak sz\u00e1ma"
+  },
+  "word_count_title": {
+    "message": "Szavak sz\u00e1ma"
+  },
+  "word_ocm_promo_conversion_msg": {
+    "message": "Az Office-f\u00e1jlokat k\u00f6zvetlen\u00fcl a Google Dokumentumokban szerkesztheti \u00e9s mentheti. Ha m\u00e1sokat is szeretne megh\u00edvni szerkeszt\u00e9shez, illetve megjegyz\u00e9sek hozz\u00e1ad\u00e1s\u00e1hoz, mentse a f\u00e1jlt Google Di\u00e1k-form\u00e1tumban. K\u00e9s\u0151bb b\u00e1rmikor mentheti a f\u00e1jlt az eredeti form\u00e1tumban."
+  },
+  "word_ocm_promo_office_editing_mode_msg": {
+    "message": "Mostant\u00f3l k\u00f6zvetlen\u00fcl a Google Dokumentumokban szerkeszthet \u00e9s menthet Office-f\u00e1jlokat. T\u00f6ltse fel ezt a f\u00e1jlt a Google Drive-ra, hogy megh\u00edvhasson m\u00e1s felhaszn\u00e1l\u00f3kat a val\u00f3s idej\u0171 szerkeszt\u00e9sre vagy megjegyz\u00e9sek hozz\u00e1ad\u00e1s\u00e1ra. A f\u00e1jl form\u00e1tuma nem v\u00e1ltozik."
+  },
+  "word_share_promo_conversion_msg": {
+    "message": "Meg szeretn\u00e9 osztani a dokumentumot? Ahhoz, hogy megh\u00edvhasson m\u00e1sokat a k\u00f6z\u00f6s szerkeszt\u00e9sre, konvert\u00e1lja azt Google Dokumentumok-form\u00e1tumra."
+  },
+  "working_in_basic_editor_banner_text": {
+    "message": "Jelenleg a Microsoft-f\u00e1jlokhoz sz\u00e1nt Alapszint\u0171 szerkeszt\u0151vel dolgozik"
+  },
+  "word_share_promo_office_editing_mode_msg": {
+    "message": "Mostant\u00f3l k\u00f6zvetlen\u00fcl a Google Dokumentumokban szerkeszthet \u00e9s menthet Office-f\u00e1jlokat. T\u00f6ltse fel ezt a f\u00e1jlt a Google Drive-ra, hogy megh\u00edvhasson m\u00e1s felhaszn\u00e1l\u00f3kat a val\u00f3s idej\u0171 szerkeszt\u00e9sre vagy megjegyz\u00e9sek hozz\u00e1ad\u00e1s\u00e1ra. A f\u00e1jl form\u00e1tuma nem v\u00e1ltozik."
+  },
+  "wraptext_aria_spoken_word": {
+    "message": "sort\u00f6r\u00e9ssel t\u00f6bb sorba"
+  },
+  "zoomin_aria_spoken_word": {
+    "message": "nagy\u00edt\u00e1s"
+  },
+  "zoomout_aria_spoken_word": {
+    "message": "kicsiny\u00edt\u00e9s"
+  }
+}

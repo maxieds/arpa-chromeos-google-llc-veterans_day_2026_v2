@@ -1,0 +1,164 @@
+{
+    "manifest_version": 1,
+    "ec_version": "krabby-15194.270.0",
+    "component_list": [
+        {
+            "component_type": "charger",
+            "component_name": "richtek,rt9490",
+            "i2c": {
+                "port": 0,
+                "addr": "0x53",
+                "expect": [
+                    {
+                        "reg": "0x48",
+                        "mask": "0xff",
+                        "value": "0x60"
+                    }
+                ]
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "bc12",
+            "component_name": "richtek,rt1739",
+            "i2c": {
+                "port": 2,
+                "addr": "0x70",
+                "expect": [
+                    {
+                        "reg": "0x00",
+                        "mask": "0xff",
+                        "value": "0x39"
+                    },
+                    {
+                        "reg": "0x01",
+                        "mask": "0xff",
+                        "value": "0x17"
+                    },
+                    {
+                        "reg": "0x02",
+                        "mask": "0xff",
+                        "value": "0x14"
+                    },
+                    {
+                        "reg": "0x03",
+                        "mask": "0xff",
+                        "value": "0x46"
+                    }
+                ]
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "ppc",
+            "component_name": "richtek,rt1739-bc12",
+            "i2c": {
+                "port": 2,
+                "addr": "0x70"
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "mux",
+            "component_name": "ite,it5205",
+            "i2c": {
+                "port": 2,
+                "addr": "0x48"
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "bc12",
+            "component_name": "richtek,rt9490",
+            "i2c": {
+                "port": 0,
+                "addr": "0x53",
+                "expect": [
+                    {
+                        "reg": "0x48",
+                        "mask": "0xff",
+                        "value": "0x60"
+                    }
+                ]
+            },
+            "usbc": {
+                "port": 1
+            }
+        },
+        {
+            "component_type": "ppc",
+            "component_name": "silergy,syv682x",
+            "i2c": {
+                "port": 4,
+                "addr": "0x40"
+            },
+            "usbc": {
+                "port": 1
+            }
+        },
+        {
+            "component_type": "mux",
+            "component_name": "ti,tusb546",
+            "i2c": {
+                "port": 4,
+                "addr": "0x44"
+            },
+            "usbc": {
+                "port": 1
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "st,lis2dw12",
+            "i2c": {
+                "port": 3,
+                "addr": "0x19",
+                "expect": [
+                    {
+                        "reg": "0x0f",
+                        "mask": "0xff",
+                        "value": "0x44"
+                    }
+                ]
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "invensense,icm42607p",
+            "i2c": {
+                "port": 3,
+                "addr": "0x68",
+                "expect": [
+                    {
+                        "reg": "0x75",
+                        "mask": "0xff",
+                        "value": "0x60"
+                    }
+                ]
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "invensense,icm42608p",
+            "i2c": {
+                "port": 3,
+                "addr": "0x68",
+                "expect": [
+                    {
+                        "reg": "0x75",
+                        "mask": "0xff",
+                        "value": "0x3f"
+                    }
+                ]
+            }
+        }
+    ]
+}

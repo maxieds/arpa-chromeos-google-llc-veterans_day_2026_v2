@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Payagan"
+    }, 
+    "consent_denied": {
+        "message": "Hindi mo kami binigyan ng pahintulot na i-verify ang kwalipikasyon ng iyong Chrome device. Pakisubukang kuning muli ang alok, at i-click ang \"Payagan\" upang hayaan kaming i-verify ang iyong kwalipikasyon."
+    }, 
+    "deny_button_string": {
+        "message": "Tanggihan"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Nag-expire na ang alok na ito para sa iyong device."
+    }, 
+    "device_not_eligible": {
+        "message": "Hindi karapat-dapat ang iyong device para sa alok na ito. $1Tumingin ng mga available na alok para sa iyong device$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Hindi available ang alok na ito para sa partikular na modelo ng iyong Chrome device."
+    }, 
+    "dismiss_button_string": {
+        "message": "I-dismiss"
+    }, 
+    "dismiss_info_string": {
+        "message": "Hindi pinagana ng iyong IT administrator ang Chrome Goodies para sa iyong device."
+    }, 
+    "error_no_regcode": {
+        "message": "Mukhang walang code ng alok ang iyong device. Mangyaring makipag-ugnayan sa $1suporta sa Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Lumalabas na mula sa isang hindi nakarehistrong website ang iyong tangkang pagkuha sa alok na ito."
+    }, 
+    "generic_error_message": {
+        "message": "Sa ilang kadahilanan, hindi namin makuha ang iyong alok sa oras na ito. Naguguluhan din kami rito. Mangyaring bumalik muli sa ibang pagkakataon."
+    }, 
+    "info_string": {
+        "message": "Matuto Nang Higit Pa"
+    }, 
+    "learn_more": {
+        "message": "$1Matuto nang higit pa$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Isang beses mo lang makukuha ang alok na ito sa bawat device, at nakuha na ito. Maaaring nag-log in ang isa pang tao sa device na ito at naunahan ka. O kaya, kung binili mo ang device na ito bilang isang open-box na device, maaaring nakuha na ito ng dating may-ari. Sa kasamaang palad, hindi kami maaaring maglipat ng mga alok sa ibang mga account, at hindi kami maaaring mag-renew ng mga alok sa mga open-box na device."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Hindi makuha ang alok. Maaaring gumagamit ka ng Incognito window o naka-log in sa Guest mode kung saan hindi makukuha ang mga alok. Mangyaring gumamit ng isang regular na window at tiyaking hindi ka gumagamit ng Guest login."
+    }, 
+    "notification_button": {
+        "message": "Kunin - $1 (na) araw ang natitira", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Kunin ang mga ito bago mahuli ang lahat"
+    }, 
+    "notification_title": {
+        "message": "Kumuha ng mga produkto para sa Chrome device"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Ang code na iyong natanggap mula sa suporta sa Chrome OS ay ginagamit upang kunin ang maling alok. Mangyaring makipag-ugnayang muli sa $1suporta sa Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "Nais i-verify ni $1 na gumagamit ka ng isang karapat-dapat na Chrome OS na device.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Hindi wasto ang code sa pagpaparehistro na nasa iyong device."
+    }, 
+    "sorry_about_that": {
+        "message": "Paumanhin doon"
+    }
+}

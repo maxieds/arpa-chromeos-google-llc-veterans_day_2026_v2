@@ -1,0 +1,118 @@
+{
+    "manifest_version": 1,
+    "ec_version": "veluza-15194.347.0",
+    "component_list": [
+        {
+            "component_type": "charger",
+            "component_name": "richtek,rt9490",
+            "i2c": {
+                "port": 0,
+                "addr": "0x53",
+                "expect": [
+                    {
+                        "reg": "0x48",
+                        "mask": "0xff",
+                        "value": "0x60"
+                    }
+                ]
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "ppc",
+            "component_name": "silergy,syv682x",
+            "i2c": {
+                "port": 2,
+                "addr": "0x40"
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "mux",
+            "component_name": "ite,it5205",
+            "i2c": {
+                "port": 2,
+                "addr": "0x48"
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "bosch,bma422",
+            "i2c": {
+                "port": 3,
+                "addr": "0x18",
+                "expect": [
+                    {
+                        "reg": "0x00",
+                        "mask": "0xff",
+                        "value": "0x12"
+                    }
+                ]
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "bosch,bmi323",
+            "i2c": {
+                "port": 3,
+                "addr": "0x68",
+                "expect": [
+                    {
+                        "reg": "0x00",
+                        "mask": "0xff",
+                        "value": "0x43"
+                    }
+                ]
+            },
+            "ssfc": {
+                "mask": "0x1",
+                "value": 0
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "bosch,bmi260",
+            "i2c": {
+                "port": 3,
+                "addr": "0x68",
+                "expect": [
+                    {
+                        "reg": "0x00",
+                        "mask": "0xff",
+                        "value": "0x27"
+                    }
+                ]
+            },
+            "ssfc": {
+                "mask": "0x1",
+                "value": 1
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "bosch,bmi220",
+            "i2c": {
+                "port": 3,
+                "addr": "0x68",
+                "expect": [
+                    {
+                        "reg": "0x00",
+                        "mask": "0xff",
+                        "value": "0x26"
+                    }
+                ]
+            },
+            "ssfc": {
+                "mask": "0x1",
+                "value": 1
+            }
+        }
+    ]
+}

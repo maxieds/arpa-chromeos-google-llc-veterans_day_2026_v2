@@ -1,0 +1,2333 @@
+{
+  "action_create_user_feedback": {
+    "message": "Zi\u0146ot par probl\u0113mu"
+  },
+  "alt_key": {
+    "message": "Altern\u0113\u0161anas tausti\u0146\u0161"
+  },
+  "always_use_office_editing_mode": {
+    "message": "Dar\u012bt t\u0101 vienm\u0113r ar atbalst\u012btiem Office failiem no pakalpojumiem Disks un Gmail"
+  },
+  "app_error_learn_more": {
+    "message": "Uzziniet vair\u0101k"
+  },
+  "app_error_report_feedback": {
+    "message": "Sniegt atsauksmes"
+  },
+  "app_icon_aria_spoken_word": {
+    "message": " s\u0101kums"
+  },
+  "app_nacl_crash_msg": {
+    "message": "Pal\u012bdziet mums, zi\u0146ojot par probl\u0113mu."
+  },
+  "app_nacl_crash_report": {
+    "message": "Zi\u0146ot par probl\u0113mu..."
+  },
+  "app_nacl_crash_title": {
+    "message": "Diem\u017e\u0113l rad\u0101s k\u013c\u016bme\u00a0\u2014 atk\u0101rtoti iel\u0101d\u0113jiet lapu, lai atg\u016btu izmai\u0146as"
+  },
+  "app_nacl_error_load_failed": {
+    "message": "Diem\u017e\u0113l nevar\u0113j\u0101m atv\u0113rt failu. Aizveriet p\u0101r\u0113j\u0101s Chrome cilnes vai restart\u0113jiet Chrome, p\u0113c tam m\u0113\u0123iniet v\u0113lreiz. Ja probl\u0113mu neizdodas nov\u0113rst, zi\u0146ojiet par to t\u0101l\u0101k."
+  },
+  "app_nacl_error_title": {
+    "message": "Failu nevar atv\u0113rt."
+  },
+  "app_nacl_error_unsupported_device": {
+    "message": "\u0160\u012b ier\u012bce neatbalsta Chrome papla\u0161in\u0101jumu \u201cOffice failu redi\u0123\u0113\u0161ana dokumentiem, izkl\u0101jlap\u0101m un prezent\u0101cij\u0101m\u201d."
+  },
+  "app_saving_failed_error_msg": {
+    "message": "Diem\u017e\u0113l rad\u0101s probl\u0113mas ar faila saglab\u0101\u0161anu. M\u0113\u0123iniet saglab\u0101t v\u0113lreiz. Ja probl\u0113mu neizdodas nov\u0113rst, l\u016bdzu, zi\u0146ojiet par to."
+  },
+  "app_saving_failed_error_short_msg": {
+    "message": "Failu nevar saglab\u0101t."
+  },
+  "backgroundcolor_aria_spoken_word": {
+    "message": "\u0161\u016bnas fona kr\u0101sas nolai\u017eamais saraksts"
+  },
+  "banner_dismiss": {
+    "message": "Ner\u0101d\u012bt"
+  },
+  "basic_editor_conversion_shortmsg": {
+    "message": "Ir aktiviz\u0113ts pamata redaktora re\u017e\u012bms"
+  },
+  "basic_editor_mode": {
+    "message": "Pamata redaktors"
+  },
+  "basic_editor_promo_conversion_msg": {
+    "message": "J\u016bs str\u0101d\u0101jat ar Microsoft failu pamata redaktoru. Redi\u0123\u0113\u0161anas opcijas var b\u016bt ierobe\u017eotas. Redi\u0123\u0113\u0161anas laik\u0101 fails tiks autom\u0101tiski saglab\u0101ts."
+  },
+  "bold_aria_spoken_word": {
+    "message": "treknraksts"
+  },
+  "border_all_aria_spoken_word": {
+    "message": "visas apmales"
+  },
+  "border_aria_spoken_word": {
+    "message": "apmales nolai\u017eamais saraksts"
+  },
+  "border_bottom_aria_spoken_word": {
+    "message": "apak\u0161\u0113j\u0101 apmale"
+  },
+  "border_horizontal_aria_spoken_word": {
+    "message": "horizont\u0101la apmale"
+  },
+  "border_inner_aria_spoken_word": {
+    "message": "iek\u0161\u0113j\u0101 apmale"
+  },
+  "border_left_aria_spoken_word": {
+    "message": "kreis\u0101 apmale"
+  },
+  "border_none_aria_spoken_word": {
+    "message": "bez apmal\u0113m"
+  },
+  "border_outer_aria_spoken_word": {
+    "message": "\u0101r\u0113j\u0101 apmale"
+  },
+  "border_right_aria_spoken_word": {
+    "message": "lab\u0101 apmale"
+  },
+  "border_top_aria_spoken_word": {
+    "message": "aug\u0161\u0113j\u0101 apmale"
+  },
+  "border_vertical_aria_spoken_word": {
+    "message": "vertik\u0101la apmale"
+  },
+  "button_drive_promo_office_editing_mode_point": {
+    "message": "Atv\u0113rt programm\u0101 Google prezent\u0101cijas"
+  },
+  "button_drive_promo_office_editing_mode_sheet": {
+    "message": "Atv\u0113rt programm\u0101 Google izkl\u0101jlapas"
+  },
+  "button_drive_promo_office_editing_mode_word": {
+    "message": "Atv\u0113rt programm\u0101 Google dokumenti"
+  },
+  "button_ocm_convert_cancel": {
+    "message": "Atcelt"
+  },
+  "button_ocm_oem_cancel": {
+    "message": "Atcelt"
+  },
+  "button_ocm_promo_conversion_point": {
+    "message": "Saglab\u0101t k\u0101 Google prezent\u0101ciju"
+  },
+  "button_ocm_promo_conversion_sheet": {
+    "message": "Saglab\u0101t k\u0101 Google izkl\u0101jlapu"
+  },
+  "button_ocm_promo_conversion_word": {
+    "message": "Saglab\u0101t k\u0101 Google dokumentu"
+  },
+  "button_ocm_promo_office_editing_mode_point": {
+    "message": "Aug\u0161upiel\u0101d\u0113t pakalpojum\u0101 Disks un atv\u0113rt programm\u0101 Prezent\u0101cijas"
+  },
+  "button_ocm_promo_office_editing_mode_sheet": {
+    "message": "Aug\u0161upiel\u0101d\u0113t pakalpojum\u0101 Disks un atv\u0113rt programm\u0101 Izkl\u0101jlapas"
+  },
+  "button_ocm_promo_office_editing_mode_word": {
+    "message": "Aug\u0161upiel\u0101d\u0113t pakalpojum\u0101 Disks un atv\u0113rt programm\u0101 Dokumenti"
+  },
+  "button_share_convert_cancel": {
+    "message": "Atcelt"
+  },
+  "button_share_oem_cancel": {
+    "message": "Atcelt"
+  },
+  "button_share_promo_conversion_point": {
+    "message": "Saglab\u0101t k\u0101 Google prezent\u0101ciju"
+  },
+  "button_share_promo_conversion_sheet": {
+    "message": "Saglab\u0101t k\u0101 Google izkl\u0101jlapu"
+  },
+  "button_share_promo_conversion_word": {
+    "message": "Saglab\u0101t k\u0101 Google dokumentu"
+  },
+  "button_share_promo_office_editing_mode": {
+    "message": "Aug\u0161upiel\u0101d\u0113t pakalpojum\u0101 Disks, lai kop\u012bgotu"
+  },
+  "cell_align_aria_spoken_word": {
+    "message": "\u0160\u016bnu izl\u012bdzin\u0101\u0161ana"
+  },
+  "cellalign_aria_spoken_word": {
+    "message": "\u0161\u016bnas izl\u012bdzin\u0101\u0161anas nolai\u017eamais saraksts"
+  },
+  "cellhaligncenter_aria_spoken_word": {
+    "message": "Horizont\u0101ls l\u012bdzin\u0101jums centr\u0101"
+  },
+  "cellhalignleft_aria_spoken_word": {
+    "message": "Horizont\u0101ls l\u012bdzin\u0101jums pa kreisi"
+  },
+  "cellhalignright_aria_spoken_word": {
+    "message": "Horizont\u0101ls l\u012bdzin\u0101jums pa labi"
+  },
+  "cellvalignbottom_aria_spoken_word": {
+    "message": "Vertik\u0101ls l\u012bdzin\u0101jums apak\u0161da\u013c\u0101"
+  },
+  "cellvaligncenter_aria_spoken_word": {
+    "message": "Vertik\u0101ls l\u012bdzin\u0101jums centr\u0101"
+  },
+  "cellvaligntop_aria_spoken_word": {
+    "message": "Vertik\u0101ls l\u012bdzin\u0101jums aug\u0161da\u013c\u0101"
+  },
+  "char_count_label": {
+    "message": "Rakstz\u012bmes"
+  },
+  "char_no_spaces_count_label": {
+    "message": "Rakstz\u012bmes, iz\u0146emot atstarpes"
+  },
+  "close_dialog_aria_spoken_word": {
+    "message": "Aizv\u0113rt dialoglodzi\u0146u"
+  },
+  "cmd_dropdown_initaddshape_aria_spoken_word": {
+    "message": "formas nolai\u017eamais saraksts"
+  },
+  "collapsed": {
+    "message": "Sak\u013cauts"
+  },
+  "collapsed_menu": {
+    "message": "$1: sak\u013cauts ar apak\u0161izv\u0113lni.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "color_black": {
+    "message": "Melns"
+  },
+  "color_blaze_orange": {
+    "message": "Spilgti oran\u017es"
+  },
+  "color_blue": {
+    "message": "Zils"
+  },
+  "color_brown": {
+    "message": "Br\u016bns"
+  },
+  "color_cornflower_blue": {
+    "message": "Rudzupu\u0137u zils"
+  },
+  "color_cyan": {
+    "message": "Ci\u0101nzils"
+  },
+  "color_dark_blue": {
+    "message": "Tum\u0161i zils"
+  },
+  "color_dark_blue_1": {
+    "message": "Tum\u0161i zils\u00a01"
+  },
+  "color_dark_blue_2": {
+    "message": "Tum\u0161i zils\u00a02"
+  },
+  "color_dark_blue_3": {
+    "message": "Tum\u0161i zils\u00a03"
+  },
+  "color_dark_blue_grey": {
+    "message": "Tum\u0161zili pel\u0113ks"
+  },
+  "color_dark_cornflower_blue_1": {
+    "message": "Rudzupu\u0137u tum\u0161i zils\u00a01"
+  },
+  "color_dark_cornflower_blue_2": {
+    "message": "Rudzupu\u0137u tum\u0161i zils\u00a02"
+  },
+  "color_dark_cornflower_blue_3": {
+    "message": "Rudzupu\u0137u tum\u0161i zils\u00a03"
+  },
+  "color_dark_cyan": {
+    "message": "Tum\u0161i ci\u0101nzils"
+  },
+  "color_dark_cyan_1": {
+    "message": "Tum\u0161i ci\u0101nzils\u00a01"
+  },
+  "color_dark_cyan_2": {
+    "message": "Tum\u0161i ci\u0101nzils\u00a02"
+  },
+  "color_dark_cyan_3": {
+    "message": "Tum\u0161i ci\u0101nzils\u00a03"
+  },
+  "color_dark_gray": {
+    "message": "Tum\u0161i pel\u0113ks"
+  },
+  "color_dark_gray_1": {
+    "message": "Tum\u0161i pel\u0113ks\u00a01"
+  },
+  "color_dark_gray_2": {
+    "message": "Tum\u0161i pel\u0113ks\u00a02"
+  },
+  "color_dark_gray_3": {
+    "message": "Tum\u0161i pel\u0113ks\u00a03"
+  },
+  "color_dark_gray_4": {
+    "message": "Tum\u0161i pel\u0113ks\u00a04"
+  },
+  "color_dark_green": {
+    "message": "Tum\u0161i za\u013c\u0161"
+  },
+  "color_dark_green_1": {
+    "message": "Tum\u0161i za\u013c\u0161\u00a01"
+  },
+  "color_dark_green_2": {
+    "message": "Tum\u0161i za\u013c\u0161\u00a02"
+  },
+  "color_dark_green_3": {
+    "message": "Tum\u0161i za\u013c\u0161\u00a03"
+  },
+  "color_dark_green_5": {
+    "message": "Tum\u0161i za\u013c\u0161\u00a05"
+  },
+  "color_dark_grey_2": {
+    "message": "Tum\u0161i pel\u0113ks\u00a02"
+  },
+  "color_dark_grey_5": {
+    "message": "Tum\u0161i pel\u0113ks\u00a05"
+  },
+  "color_dark_magenta_1": {
+    "message": "Tum\u0161i fuks\u012bnsarkans\u00a01"
+  },
+  "color_dark_magenta_2": {
+    "message": "Tum\u0161i fuks\u012bnsarkans\u00a02"
+  },
+  "color_dark_magenta_3": {
+    "message": "Tum\u0161i fuks\u012bnsarkans\u00a03"
+  },
+  "color_dark_olive_green": {
+    "message": "Tum\u0161i ol\u012bvza\u013c\u0161"
+  },
+  "color_dark_orange_1": {
+    "message": "Tum\u0161i oran\u017es\u00a01"
+  },
+  "color_dark_orange_2": {
+    "message": "Tum\u0161i oran\u017es\u00a02"
+  },
+  "color_dark_orange_3": {
+    "message": "Tum\u0161i oran\u017es\u00a03"
+  },
+  "color_dark_purple_1": {
+    "message": "Tum\u0161i violets\u00a01"
+  },
+  "color_dark_purple_2": {
+    "message": "Tum\u0161i violets\u00a02"
+  },
+  "color_dark_purple_3": {
+    "message": "Tum\u0161i violets\u00a03"
+  },
+  "color_dark_red": {
+    "message": "Tum\u0161i sarkans"
+  },
+  "color_dark_red_1": {
+    "message": "Tum\u0161i sarkans\u00a01"
+  },
+  "color_dark_red_2": {
+    "message": "Tum\u0161i sarkans\u00a02"
+  },
+  "color_dark_red_3": {
+    "message": "Tum\u0161i sarkans\u00a03"
+  },
+  "color_dark_red_berry_1": {
+    "message": "Br\u016bkle\u0146u tum\u0161i sarkans\u00a01"
+  },
+  "color_dark_red_berry_2": {
+    "message": "Br\u016bkle\u0146u tum\u0161i sarkans\u00a02"
+  },
+  "color_dark_red_berry_3": {
+    "message": "Br\u016bkle\u0146u tum\u0161i sarkans\u00a03"
+  },
+  "color_dark_slate_blue": {
+    "message": "Tum\u0161i zilganpel\u0113ks"
+  },
+  "color_dark_yellow_1": {
+    "message": "Tum\u0161i dzeltens\u00a01"
+  },
+  "color_dark_yellow_2": {
+    "message": "Tum\u0161i dzeltens\u00a02"
+  },
+  "color_dark_yellow_3": {
+    "message": "Tum\u0161i dzeltens\u00a03"
+  },
+  "color_deep_pink": {
+    "message": "Pies\u0101tin\u0101ti roz\u0101"
+  },
+  "color_deep_sky_blue": {
+    "message": "Pies\u0101tin\u0101ti debeszils"
+  },
+  "color_eucalyptus_green": {
+    "message": "Eikalipta za\u013c\u0161"
+  },
+  "color_gold": {
+    "message": "Zelts"
+  },
+  "color_gray": {
+    "message": "Pel\u0113ks"
+  },
+  "color_green": {
+    "message": "Za\u013c\u0161"
+  },
+  "color_light_blue": {
+    "message": "Gai\u0161i zils"
+  },
+  "color_light_blue_1": {
+    "message": "Gai\u0161i zils\u00a01"
+  },
+  "color_light_blue_2": {
+    "message": "Gai\u0161i zils\u00a02"
+  },
+  "color_light_blue_3": {
+    "message": "Gai\u0161i zils\u00a03"
+  },
+  "color_light_cornflower_blue_1": {
+    "message": "Rudzupu\u0137u gai\u0161i zils\u00a01"
+  },
+  "color_light_cornflower_blue_2": {
+    "message": "Rudzupu\u0137u gai\u0161i zils\u00a02"
+  },
+  "color_light_cornflower_blue_3": {
+    "message": "Rudzupu\u0137u gai\u0161i zils\u00a03"
+  },
+  "color_light_cyan": {
+    "message": "Gai\u0161i ci\u0101nzils"
+  },
+  "color_light_cyan_1": {
+    "message": "Gai\u0161i ci\u0101nzils\u00a01"
+  },
+  "color_light_cyan_2": {
+    "message": "Gai\u0161i ci\u0101nzils\u00a02"
+  },
+  "color_light_cyan_3": {
+    "message": "Gai\u0161i ci\u0101nzils\u00a03"
+  },
+  "color_light_gray": {
+    "message": "Gai\u0161i pel\u0113ks"
+  },
+  "color_light_gray_1": {
+    "message": "Gai\u0161i pel\u0113ks\u00a01"
+  },
+  "color_light_gray_2": {
+    "message": "Gai\u0161i pel\u0113ks\u00a02"
+  },
+  "color_light_gray_3": {
+    "message": "Gai\u0161i pel\u0113ks\u00a03"
+  },
+  "color_light_green": {
+    "message": "Gai\u0161i za\u013c\u0161"
+  },
+  "color_light_green_1": {
+    "message": "Gai\u0161i za\u013c\u0161\u00a01"
+  },
+  "color_light_green_2": {
+    "message": "Gai\u0161i za\u013c\u0161\u00a02"
+  },
+  "color_light_green_3": {
+    "message": "Gai\u0161i za\u013c\u0161\u00a03"
+  },
+  "color_light_magenta_1": {
+    "message": "Gai\u0161i fuks\u012bnsarkans\u00a01"
+  },
+  "color_light_magenta_2": {
+    "message": "Gai\u0161i fuks\u012bnsarkans\u00a02"
+  },
+  "color_light_magenta_3": {
+    "message": "Gai\u0161i fuks\u012bnsarkans\u00a03"
+  },
+  "color_light_orange_1": {
+    "message": "Gai\u0161i oran\u017es\u00a01"
+  },
+  "color_light_orange_2": {
+    "message": "Gai\u0161i oran\u017es\u00a02"
+  },
+  "color_light_orange_3": {
+    "message": "Gai\u0161i oran\u017es\u00a03"
+  },
+  "color_light_purple": {
+    "message": "Gai\u0161i violets"
+  },
+  "color_light_purple_1": {
+    "message": "Gai\u0161i violets\u00a01"
+  },
+  "color_light_purple_2": {
+    "message": "Gai\u0161i violets\u00a02"
+  },
+  "color_light_purple_3": {
+    "message": "Gai\u0161i violets\u00a03"
+  },
+  "color_light_red_1": {
+    "message": "Gai\u0161i sarkans\u00a01"
+  },
+  "color_light_red_2": {
+    "message": "Gai\u0161i sarkans\u00a02"
+  },
+  "color_light_red_3": {
+    "message": "Gai\u0161i sarkans\u00a03"
+  },
+  "color_light_red_berry_1": {
+    "message": "Br\u016bkle\u0146u gai\u0161i sarkans\u00a01"
+  },
+  "color_light_red_berry_2": {
+    "message": "Br\u016bkle\u0146u gai\u0161i sarkans\u00a02"
+  },
+  "color_light_red_berry_3": {
+    "message": "Br\u016bkle\u0146u gai\u0161i sarkans\u00a03"
+  },
+  "color_light_yellow": {
+    "message": "Gai\u0161i dzeltens"
+  },
+  "color_light_yellow_1": {
+    "message": "Gai\u0161i dzeltens\u00a01"
+  },
+  "color_light_yellow_2": {
+    "message": "Gai\u0161i dzeltens\u00a02"
+  },
+  "color_light_yellow_3": {
+    "message": "Gai\u0161i dzeltens\u00a03"
+  },
+  "color_magenta": {
+    "message": "Fuks\u012bnsarkans"
+  },
+  "color_maroon": {
+    "message": "Sarkanbr\u016bns"
+  },
+  "color_midnight_blue": {
+    "message": "Pusnakts zils"
+  },
+  "color_navy": {
+    "message": "Tum\u0161zils"
+  },
+  "color_olive": {
+    "message": "Ol\u012bvkr\u0101sa"
+  },
+  "color_orange": {
+    "message": "Oran\u017es"
+  },
+  "color_peach": {
+    "message": "Persiku kr\u0101sa"
+  },
+  "color_pink": {
+    "message": "Roz\u0101"
+  },
+  "color_pistachio": {
+    "message": "Pist\u0101ciju kr\u0101sa"
+  },
+  "color_purple": {
+    "message": "Violets"
+  },
+  "color_red": {
+    "message": "Sarkans"
+  },
+  "color_red_berry": {
+    "message": "Br\u016bkle\u0146u sarkans"
+  },
+  "color_royal_blue": {
+    "message": "Karaliski zils"
+  },
+  "color_teal": {
+    "message": "Zilganza\u013c\u0161"
+  },
+  "color_turquiose": {
+    "message": "Tirk\u012bzzils"
+  },
+  "color_white": {
+    "message": "Balts"
+  },
+  "color_yellow": {
+    "message": "Dzeltens"
+  },
+  "command_key": {
+    "message": "Komandtausti\u0146\u0161"
+  },
+  "content_msg_merging_horizontally_across_vertical_section": {
+    "message": "J\u016bs nevarat sapludin\u0101t \u0161\u016bnas horizont\u0101li p\u0101ri eso\u0161ai vertik\u0101li apvienotai sada\u013cai."
+  },
+  "content_msg_merging_multiple_cells_with_text": {
+    "message": "Sapludinot \u0161\u016bnas, tiks saglab\u0101ta tikai v\u0113rt\u012bba, kas atrodas aug\u0161da\u013c\u0101, vist\u0101l\u0101k pa kreisi. Vai tom\u0113r sapludin\u0101t?"
+  },
+  "content_msg_merging_partially_selected_merged_cells": {
+    "message": "Lai apvienotu vai no\u0146emtu sapludin\u0101\u0161anu, ir j\u0101atlasa \u0161\u016bnas apvienotaj\u0101 diapazon\u0101."
+  },
+  "content_msg_merging_vertically_across_horizontal_section": {
+    "message": "J\u016bs nevarat sapludin\u0101t \u0161\u016bnas vertik\u0101li p\u0101ri eso\u0161ai horizont\u0101li apvienotai sada\u013cai."
+  },
+  "content_render_error_msg": {
+    "message": "Rad\u0101s probl\u0113ma saist\u012bb\u0101 ar \u0161\u012b dokumenta saturu."
+  },
+  "context_menu_clipboard_copy": {
+    "message": "Kop\u0113t"
+  },
+  "context_menu_delete": {
+    "message": "Dz\u0113st"
+  },
+  "context_menu_freeze": {
+    "message": "Sasald\u0113t"
+  },
+  "context_menu_insert": {
+    "message": "Ievietot"
+  },
+  "context_menu_sort_collation_ascending": {
+    "message": "K\u0101rtot sec\u012bb\u0101\u00a0A\u2013Z"
+  },
+  "context_menu_sort_collation_descending": {
+    "message": "K\u0101rtot sec\u012bb\u0101\u00a0Z\u2013A"
+  },
+  "context_menu_unfreeze": {
+    "message": "Atsald\u0113t"
+  },
+  "control_key": {
+    "message": "Vad\u012b\u0161anas tausti\u0146\u0161"
+  },
+  "convert_attempt_for_sheet_with_large_file_size": {
+    "message": "\u0160o failu nevar saglab\u0101t Google izkl\u0101jlapu form\u0101t\u0101, jo tas ir p\u0101r\u0101k liels."
+  },
+  "convert_attempt_for_slide_with_large_file_size": {
+    "message": "\u0160o failu nevar saglab\u0101t Google prezent\u0101ciju form\u0101t\u0101, jo tas ir p\u0101r\u0101k liels."
+  },
+  "convert_attempt_for_word_with_large_file_size": {
+    "message": "\u0160o failu nevar saglab\u0101t Google dokumentu form\u0101t\u0101, jo tas ir p\u0101r\u0101k liels."
+  },
+  "convert_attempt_when_offline": {
+    "message": "Lai vienumu var\u0113tu saglab\u0101t k\u0101 Google dokumentu, jums ir j\u0101b\u016bt tie\u0161saistes re\u017e\u012bm\u0101. M\u0113\u0123iniet v\u0113lreiz, kad savienojums b\u016bs atjaunots."
+  },
+  "convert_attempt_with_invalid_creds": {
+    "message": "Lai konvert\u0113tu \u0161o failu, jums ir j\u0101pierakst\u0101s sav\u0101 Google\u00a0kont\u0101."
+  },
+  "convert_cancel": {
+    "message": "Atcelt"
+  },
+  "convert_to_google_docs_failed": {
+    "message": "P\u0101rv\u0113r\u0161ot dokumentu par Google dokumentu, rad\u0101s probl\u0113ma."
+  },
+  "convert_to_google_point_fail_short_msg": {
+    "message": "Hmm..."
+  },
+  "convert_to_google_point_short_msg": {
+    "message": "Fails tiek saglab\u0101ts k\u0101 Google prezent\u0101cija"
+  },
+  "convert_to_google_sheet_fail_short_msg": {
+    "message": "Hmm..."
+  },
+  "convert_to_google_sheet_short_msg": {
+    "message": "Fails tiek saglab\u0101ts k\u0101 Google izkl\u0101jlapa"
+  },
+  "convert_to_google_word_fail_short_msg": {
+    "message": "Hmm..."
+  },
+  "convert_to_google_word_short_msg": {
+    "message": "Fails tiek saglab\u0101ts k\u0101 Google dokuments"
+  },
+  "convert_try_again": {
+    "message": "M\u0113\u0123in\u0101t v\u0113lreiz"
+  },
+  "converting_to_google_point_fail_msg": {
+    "message": "Pa\u0161laik failu nevar saglab\u0101t k\u0101 Google prezent\u0101ciju."
+  },
+  "converting_to_google_point_msg": {
+    "message": "Jauna prezent\u0101cijas versija tiek saglab\u0101ta Google prezent\u0101ciju form\u0101t\u0101."
+  },
+  "converting_to_google_sheet_fail_msg": {
+    "message": "Pa\u0161laik failu nevar saglab\u0101t Google izkl\u0101jlapu form\u0101t\u0101."
+  },
+  "converting_to_google_sheet_msg": {
+    "message": "Jauna izkl\u0101jlapas versija tiek saglab\u0101ta Google izkl\u0101jlapu form\u0101t\u0101."
+  },
+  "converting_to_google_word_fail_msg": {
+    "message": "Pa\u0161laik failu nevar saglab\u0101t Google dokumentu form\u0101t\u0101."
+  },
+  "converting_to_google_word_msg": {
+    "message": "Jauna dokumenta versija tiek saglab\u0101ta Google dokumentu form\u0101t\u0101."
+  },
+  "copy_attempt_when_offline": {
+    "message": "Lai izveidotu kopiju Google\u00a0disk\u0101, jums j\u0101b\u016bt tie\u0161saist\u0113. Kad savienojums b\u016bs atjaunots, m\u0113\u0123iniet v\u0113lreiz."
+  },
+  "copy_attempt_with_invalid_creds": {
+    "message": "Lai izveidotu kopiju, jums ir j\u0101pierakst\u0101s sav\u0101 Google\u00a0kont\u0101."
+  },
+  "disabled_share_button": {
+    "message": "Failus ar iesp\u0113jotiem makro var kop\u012bgot tikai no Google\u00a0diska. Kop\u012bgo\u0161ana atsp\u0113jota."
+  },
+  "disallowed_cut_copy_paste_cmd_copy": {
+    "message": "kop\u0113\u0161anai"
+  },
+  "disallowed_cut_copy_paste_cmd_cut": {
+    "message": "izgrie\u0161anai"
+  },
+  "disallowed_cut_copy_paste_cmd_paste": {
+    "message": "iel\u012bm\u0113\u0161anai"
+  },
+  "disallowed_cut_copy_paste_msg": {
+    "message": "Izmantojot izv\u0113lnes Redi\u0123\u0113t un Konteksts, \u0161\u012bs darb\u012bbas nav pieejamas, ta\u010du j\u016bs joproj\u0101m varat izmantot:"
+  },
+  "disallowed_cut_copy_paste_title": {
+    "message": "Kop\u0113\u0161ana un iel\u012bm\u0113\u0161ana Office savietojam\u012bbas re\u017e\u012bm\u0101"
+  },
+  "dismiss": {
+    "message": "Ner\u0101d\u012bt"
+  },
+  "document_title_aria_spoken_word": {
+    "message": "Dokumenta nosaukums:"
+  },
+  "down_key": {
+    "message": "Lejup"
+  },
+  "download_button": {
+    "message": "Lejupiel\u0101d\u0113t"
+  },
+  "download_file_timeout_error_msg": {
+    "message": "Faila iel\u0101dei ir nepiecie\u0161ams ilg\u0101ks laiks, nek\u0101 paredz\u0113ts. P\u0101rbaudiet t\u012bkla savienojumu un m\u0113\u0123iniet v\u0113lreiz."
+  },
+  "download_file_timeout_error_short_msg": {
+    "message": "Faila atv\u0113r\u0161anai ir nepiecie\u0161ams ilg\u0101ks laiks, nek\u0101 paredz\u0113ts"
+  },
+  "download_original": {
+    "message": "Lejupiel\u0101d\u0113t ori\u0123in\u0101lu"
+  },
+  "drive_open_timeout_error_msg": {
+    "message": "\u0160\u0137iet, ka ir radusies probl\u0113ma ar j\u016bsu interneta savienojumu. L\u016bdzu, p\u0101rbaudiet interneta savienojumu un v\u0113lreiz m\u0113\u0123iniet atv\u0113rt failu. Ja savienojums ir stabils un joproj\u0101m tiek r\u0101d\u012bts \u0161is k\u013c\u016bdas zi\u0146ojums, l\u016bdzu, zi\u0146ojiet par probl\u0113mu."
+  },
+  "drive_open_timeout_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "duplicate_sheet_name_message": {
+    "message": "Ievadiet lapas nosaukumu, kas netiek izmantots citai lapai."
+  },
+  "duplicate_sheet_name_title": {
+    "message": "\u0160\u0101ds lapas nosaukums jau tiek izmantots."
+  },
+  "editing_options_limited_banner_text": {
+    "message": "Redi\u0123\u0113\u0161anas opcijas var b\u016bt ierobe\u017eotas. Redi\u0123\u0113\u0161anas laik\u0101 fails tiks autom\u0101tiski saglab\u0101ts."
+  },
+  "edits_not_being_saved": {
+    "message": "Labojumi netiks autom\u0101tiski saglab\u0101ti."
+  },
+  "edits_now_being_auto_saved": {
+    "message": "Fails saglab\u0101ts. Tagad visi labojumi tiks autom\u0101tiski saglab\u0101ti."
+  },
+  "entry_point_error_msg": {
+    "message": "L\u016bdzu, m\u0113\u0123iniet v\u0113lreiz vai t\u0101l\u0101k zi\u0146ojiet par probl\u0113mu."
+  },
+  "entry_point_error_short_msg": {
+    "message": "Diem\u017e\u0113l nevar\u0113ja noteikt, kuru failu v\u0113laties atv\u0113rt"
+  },
+  "error_occurred": {
+    "message": "Rad\u0101s k\u013c\u016bda."
+  },
+  "error_password_required_msg": {
+    "message": "Pa\u0161laik netiek atbalst\u012bti aizsarg\u0101ti faili, tom\u0113r m\u0113s pie t\u0101 str\u0101d\u0101jam."
+  },
+  "error_password_required_short_msg": {
+    "message": "\u0160is fails ir aizsarg\u0101ts ar paroli."
+  },
+  "expanded": {
+    "message": "Izv\u0113rsts"
+  },
+  "expanded_menu": {
+    "message": "$1: izv\u0113rsts ar apak\u0161izv\u0113lni.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "extension_cros_name": {
+    "message": "Office failu pamata redaktors"
+  },
+  "extension_description": {
+    "message": "Skatiet un redi\u0123\u0113jiet Microsoft Word, Excel un PowerPoint failus Google dokumentos, Izkl\u0101jlap\u0101s un Prezent\u0101cij\u0101s."
+  },
+  "extension_name": {
+    "message": "Office failu redi\u0123\u0113\u0161ana"
+  },
+  "extension_popup_message_body": {
+    "message": "Lai atv\u0113rtu eso\u0161os failus, velciet un nometiet tos p\u0101rl\u016bkprogramm\u0101."
+  },
+  "extension_popup_new_document_header": {
+    "message": "Jauns..."
+  },
+  "extension_popup_new_presentation_document": {
+    "message": "PowerPoint prezent\u0101cija"
+  },
+  "extension_popup_new_spreadsheet_document": {
+    "message": "Excel izkl\u0101jlapa"
+  },
+  "extension_popup_new_word_document": {
+    "message": "Word dokuments"
+  },
+  "feedback_textbox_editing": {
+    "message": "L\u016bdzu, nodro\u0161iniet teksta redi\u0123\u0113\u0161anas iesp\u0113ju tekstlodzi\u0146os."
+  },
+  "feedback_ui_template": {
+    "message": "1.\u00a0L\u016bdzu, aprakstiet radu\u0161os probl\u0113mu.\n2.\u00a0Vai probl\u0113ma rad\u0101s, kad m\u0113\u0123in\u0101j\u0101t atv\u0113rt failu, vai tad, kad m\u0113\u0123in\u0101j\u0101t to redi\u0123\u0113t?\n3.\u00a0Vai \u0161\u012b probl\u0113ma rodas ikreiz, kad m\u0113\u0123in\u0101t atv\u0113rt k\u0101du failu, vai tikai ar konkr\u0113tiem failiem?\n\nJa \u0161\u012b probl\u0113ma rodas tikai ar konkr\u0113tu failu, varat pievienot \u0161o failu savam zi\u0146ojumam, jo tas mums \u013coti pal\u012bdz\u0113s pamat\u012bg\u0101k izp\u0113t\u012bt radu\u0161os probl\u0113mu."
+  },
+  "file_does_not_exist_error_details": {
+    "message": "\u0160is fails nepast\u0101v. Iesp\u0113jams, m\u0113\u0123in\u0101j\u0101t atv\u0113rt kop\u012bgo\u0161anas saiti vai dokumentu, kas saglab\u0101ts k\u0101 gr\u0101matz\u012bme. L\u016bdzu, v\u0113lreiz m\u0113\u0123iniet atv\u0113rt failu no s\u0101kotn\u0113j\u0101 avota."
+  },
+  "file_does_not_exist_error_title": {
+    "message": "Fails nav atrasts."
+  },
+  "file_loading_spinner_label": {
+    "message": "Notiek iel\u0101de"
+  },
+  "file_missing_content_msg": {
+    "message": "M\u0113\u0123inot nolas\u012bt visu faila saturu, rad\u0101s probl\u0113ma. Ieteicams p\u0101rd\u0113v\u0113t failu un atv\u0113rt to v\u0113lreiz."
+  },
+  "file_missing_content_short_msg": {
+    "message": "Dokument\u0101 nav ietverts viss saturs."
+  },
+  "file_not_found_error_msg": {
+    "message": "L\u016bdzu, sazinieties ar faila \u012bpa\u0161nieku, lai noskaidrotu, vai jums ir at\u013cauja piek\u013c\u016bt \u0161im failam. Ja jums ir at\u013cauja un joproj\u0101m tiek r\u0101d\u012bts \u0161is k\u013c\u016bdas zi\u0146ojums, l\u016bdzu, zi\u0146ojiet par probl\u0113mu."
+  },
+  "file_not_found_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "file_not_found_exception": {
+    "message": "Piepras\u012btais fails, iesp\u0113jams, ir dz\u0113sts, p\u0101rd\u0113v\u0113ts vai p\u0101rvietots. Lai turpin\u0101tu, noklik\u0161\u0137iniet uz \u201cSaglab\u0101t t\u016bl\u012bt\u201d."
+  },
+  "file_not_found_link_text": {
+    "message": "Lai sa\u0146emtu pal\u012bdz\u012bbu saist\u012bb\u0101 ar vair\u0101ku kontu izmanto\u0161anu, l\u016bdzu, skatiet \u0161o rakstu."
+  },
+  "file_not_found_msg": {
+    "message": "J\u016bsu piepras\u012btais fails ir p\u0101rvietots."
+  },
+  "file_not_found_title": {
+    "message": "Fails nav atrasts."
+  },
+  "file_open_crash_error_msg": {
+    "message": "Ja joproj\u0101m saskaraties ar k\u013c\u016bdu, l\u016bdzu, zi\u0146ojiet par probl\u0113mu."
+  },
+  "file_open_crash_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "file_open_error_msg": {
+    "message": "\u0160\u012b faila saturs nav pieejams."
+  },
+  "file_open_error_short_msg": {
+    "message": "\u0160\u0137iet, ka \u0161is fails ir boj\u0101ts."
+  },
+  "file_open_fail_download_link_text": {
+    "message": "Lejupiel\u0101d\u0113t failu"
+  },
+  "file_opened_in_incognito_mode_error_details": {
+    "message": "Office failu redi\u0123\u0113\u0161anas papla\u0161in\u0101jums nedarbojas inkognito re\u017e\u012bm\u0101. L\u016bdzu, atveriet \u0161o failu, izmantojot parastu Chrome logu. Ja izmantojat viesa re\u017e\u012bmu, failu neizdev\u0101s atv\u0113rt. L\u016bdzu, p\u0101rliecinieties, vai fails nav boj\u0101ts vai neder\u012bgs dokumenta veids, un m\u0113\u0123iniet v\u0113lreiz."
+  },
+  "file_opened_in_incognito_mode_error_title": {
+    "message": "Ak vai! Inkognito re\u017e\u012bms netiek atbalst\u012bts"
+  },
+  "file_pdf_type_rename_msg": {
+    "message": "P\u0101rd\u0113v\u0113jiet failu par $1.pdf un m\u0113\u0123iniet v\u0113lreiz.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_rtf_type_rename_msg": {
+    "message": "P\u0101rd\u0113v\u0113jiet failu par $1.rtf.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_type_unsupported_msg": {
+    "message": "\u0160is faila tips netiek atbalst\u012bts."
+  },
+  "fillcolor_aria_spoken_word": {
+    "message": "teksta kr\u0101sas nolai\u017eamais saraksts"
+  },
+  "fontface_aria_spoken_word": {
+    "message": "fonta veidola nolai\u017eamais saraksts"
+  },
+  "fontsize_aria_spoken_word": {
+    "message": "fonta lieluma nolai\u017eamais saraksts"
+  },
+  "forbidden_access_level_error_msg": {
+    "message": "L\u016bdzu, sazinieties ar faila \u012bpa\u0161nieku, lai noskaidrotu, vai jums ir at\u013cauja atv\u0113rt \u0161o failu. Ja jums ir at\u013cauja un joproj\u0101m tiek r\u0101d\u012bts \u0161is k\u013c\u016bdas zi\u0146ojums, l\u016bdzu, zi\u0146ojiet par probl\u0113mu."
+  },
+  "forbidden_access_level_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "forbidden_app_access_error_msg": {
+    "message": "Nezin\u0101ma iemesla d\u0113\u013c mums nav at\u013caujas atv\u0113rt \u0161o failu. L\u016bdzu, m\u0113\u0123iniet atv\u0113rt \u0161o failu Google\u00a0disk\u0101 vai zi\u0146ojiet par probl\u0113mu."
+  },
+  "forbidden_app_access_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "forbidden_app_id_error_msg": {
+    "message": "\u0160\u0137iet, ka Chrome papla\u0161in\u0101jums nav pareizi konfigur\u0113ts. K\u0101 tas ir iesp\u0113jams? M\u0113s neesam piln\u012bb\u0101 p\u0101rliecin\u0101ti par c\u0113loni, ta\u010du, l\u016bdzu, zi\u0146ojiet par probl\u0113mu."
+  },
+  "forbidden_app_id_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "forbidden_blacklist_error_msg": {
+    "message": "\u0160\u0137iet, ka \u0161is Chrome papla\u0161in\u0101jums ir iek\u013cauts melnaj\u0101 sarakst\u0101. T\u0101 noteikti ir k\u013c\u016bda, t\u0101p\u0113c, l\u016bdzu, zi\u0146ojiet par probl\u0113mu."
+  },
+  "forbidden_blacklist_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "forbidden_domain_error_msg": {
+    "message": "\u0160\u0137iet, ka j\u016bsu dom\u0113ns ir aizliedzis piek\u013c\u016bt \u0161im failam. L\u016bdzu, sazinieties ar dom\u0113na administratoru vai zi\u0146ojiet par probl\u0113mu."
+  },
+  "forbidden_domain_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "forbidden_internal_error_msg": {
+    "message": "Diem\u017e\u0113l Google\u00a0disks nedarbojas, k\u0101 paredz\u0113ts. L\u016bdzu, v\u0113lreiz m\u0113\u0123iniet atv\u0113rt failu vai zi\u0146ojiet par probl\u0113mu."
+  },
+  "forbidden_internal_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "forbidden_not_installed_error_msg": {
+    "message": "\u0160\u0137iet, ka Chrome papla\u0161in\u0101jums nav pareizi instal\u0113ts. K\u0101 tas ir iesp\u0113jams? M\u0113s neesam piln\u012bb\u0101 p\u0101rliecin\u0101ti par c\u0113loni, ta\u010du, l\u016bdzu, zi\u0146ojiet par probl\u0113mu."
+  },
+  "forbidden_not_installed_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "generic_error_msg": {
+    "message": "Rad\u0101s probl\u0113ma saist\u012bb\u0101 ar \u0161\u012b dokumenta saturu."
+  },
+  "generic_error_short_msg": {
+    "message": "Diem\u017e\u0113l rad\u0101s k\u013c\u016bme\u00a0\u2014 atk\u0101rtoti iel\u0101d\u0113jiet lapu, lai atg\u016btu izmai\u0146as"
+  },
+  "get_lists_data_error_msg": {
+    "message": "Dokuments var tikt atveidots ar nepareizu saraksta format\u0113jumu."
+  },
+  "get_lists_data_error_short_msg": {
+    "message": "Nevar\u0113ja izg\u016bt dokumenta format\u0113jumu."
+  },
+  "highlightcolor_aria_spoken_word": {
+    "message": "teksta iez\u012bm\u0113\u0161anas kr\u0101sas nolai\u017eamais saraksts"
+  },
+  "http_error_zero_msg": {
+    "message": "Ja radusies t\u012bkla probl\u0113ma, l\u016bdzu, p\u0101rbaudiet savienojumu vai v\u0113l\u0101k m\u0113\u0123iniet v\u0113lreiz. Ja probl\u0113mu neizdodas nov\u0113rst, zi\u0146ojiet par to t\u0101l\u0101k."
+  },
+  "http_error_zero_short_msg": {
+    "message": "Diem\u017e\u0113l nevar\u0113j\u0101m atv\u0113rt failu."
+  },
+  "info_file_copied": {
+    "message": "Saglab\u0101ts"
+  },
+  "info_file_save_cancelled": {
+    "message": "Saglab\u0101\u0161ana tika atcelta."
+  },
+  "info_file_save_failed": {
+    "message": "Saglab\u0101\u0161ana neizdev\u0101s."
+  },
+  "info_file_saved_at_location": {
+    "message": "Visas izmai\u0146as saglab\u0101tas \u0161eit: $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "info_file_saved_in_drive": {
+    "message": "Visas izmai\u0146as tika saglab\u0101tas Disk\u0101."
+  },
+  "info_file_saved_locally": {
+    "message": "Visas izmai\u0146as tika saglab\u0101tas lok\u0101li."
+  },
+  "info_file_saved_offline": {
+    "message": "Visas izmai\u0146as tika saglab\u0101tas bezsaist\u0113."
+  },
+  "info_file_saving": {
+    "message": "Notiek saglab\u0101\u0161ana\u2026"
+  },
+  "initaddshape_aria_spoken_word": {
+    "message": "pievienot tekstlodzi\u0146u"
+  },
+  "invalid_credentials_error_msg": {
+    "message": "Lai piek\u013c\u016btu \u0161im failam, jums j\u0101pierakst\u0101s sav\u0101 Google\u00a0kont\u0101."
+  },
+  "invalid_credentials_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "invalid_file_format_msg": {
+    "message": "Kaut ar\u012b \u0161is fails izskat\u0101s k\u0101 Office dokuments un tam ir Office faila papla\u0161in\u0101jums, paties\u012bb\u0101 tas ir cita veida fails, kur\u0161 ir p\u0101rd\u0113v\u0113ts vai main\u012bts vai kuru m\u0113s neatbalst\u0101m."
+  },
+  "invalid_file_format_short_msg": {
+    "message": "Hmm... \u0161\u0137iet, ka nevaram atv\u0113rt \u0161\u0101da veida dokumentu."
+  },
+  "italic_aria_spoken_word": {
+    "message": "kurs\u012bvs"
+  },
+  "keyboard_shortcut_group_actions": {
+    "message": "Darb\u012bbas"
+  },
+  "keyboard_shortcut_group_other": {
+    "message": "Citi"
+  },
+  "keyboard_shortcut_group_paragraph_formatting": {
+    "message": "Rindkopas format\u0113jums"
+  },
+  "keyboard_shortcut_group_text_formatting": {
+    "message": "Teksta format\u0113\u0161ana"
+  },
+  "keyboard_shortcut_group_top_menus": {
+    "message": "Izv\u0113lnes"
+  },
+  "keyboard_shortcut_group_with_slides": {
+    "message": "Ar slaidiem"
+  },
+  "keyboard_shortcut_title": {
+    "message": "\u012asin\u0101jumtausti\u0146i"
+  },
+  "large_file_size_dialog_title_for_sheet": {
+    "message": "Failu nevar saglab\u0101t Google izkl\u0101jlapu form\u0101t\u0101"
+  },
+  "large_file_size_dialog_title_for_slide": {
+    "message": "Failu nevar saglab\u0101t Google prezent\u0101ciju form\u0101t\u0101"
+  },
+  "large_file_size_dialog_title_for_word": {
+    "message": "Failu nevar saglab\u0101t Google dokumentu form\u0101t\u0101"
+  },
+  "make_a_copy_fail_msg": {
+    "message": "M\u0113s pa\u0161laik nevar\u0113j\u0101m izveidot kopiju."
+  },
+  "menu_button_data": {
+    "message": "Dati"
+  },
+  "menu_button_edit": {
+    "message": "Redi\u0123\u0113t"
+  },
+  "menu_button_file": {
+    "message": "Fails"
+  },
+  "menu_button_format": {
+    "message": "Form\u0101ts"
+  },
+  "menu_button_help": {
+    "message": "Pal\u012bdz\u012bba"
+  },
+  "menu_button_insert": {
+    "message": "Ievietot"
+  },
+  "menu_button_slide": {
+    "message": "Prezent\u0101cija"
+  },
+  "menu_button_tools": {
+    "message": "R\u012bki"
+  },
+  "menu_button_view": {
+    "message": "Skat\u012bt"
+  },
+  "menu_item_10_point_star": {
+    "message": "10\u00a0staru zvaigzne"
+  },
+  "menu_item_12_point_star": {
+    "message": "12\u00a0staru zvaigzne"
+  },
+  "menu_item_16_point_star": {
+    "message": "16\u00a0staru zvaigzne"
+  },
+  "menu_item_24_point_star": {
+    "message": "24\u00a0staru zvaigzne"
+  },
+  "menu_item_32_point_star": {
+    "message": "32\u00a0staru zvaigzne"
+  },
+  "menu_item_4_point_star": {
+    "message": "4\u00a0staru zvaigzne"
+  },
+  "menu_item_5_point_star": {
+    "message": "5\u00a0staru zvaigzne"
+  },
+  "menu_item_6_point_star": {
+    "message": "6\u00a0staru zvaigzne"
+  },
+  "menu_item_7_point_star": {
+    "message": "7\u00a0staru zvaigzne"
+  },
+  "menu_item_8_point_star": {
+    "message": "8\u00a0staru zvaigzne"
+  },
+  "menu_item_align": {
+    "message": "Izl\u012bdzin\u0101t"
+  },
+  "menu_item_align_center": {
+    "message": "Centr\u0113t"
+  },
+  "menu_item_align_justified": {
+    "message": "Taisnots"
+  },
+  "menu_item_align_left": {
+    "message": "Pa kreisi"
+  },
+  "menu_item_align_right": {
+    "message": "Pa labi"
+  },
+  "menu_item_arrows": {
+    "message": "Bulti\u0146as"
+  },
+  "menu_item_bent_arrow": {
+    "message": "Saliekta bulti\u0146a"
+  },
+  "menu_item_bent_up_arrow": {
+    "message": "Saliekta aug\u0161upv\u0113rsta bulti\u0146a"
+  },
+  "menu_item_bevel": {
+    "message": "R\u0101mis ar sl\u012bpu griezumu"
+  },
+  "menu_item_block_arc": {
+    "message": "Blokl\u012bkne"
+  },
+  "menu_item_bold": {
+    "message": "Treknraksts"
+  },
+  "menu_item_callouts": {
+    "message": "Remarkas"
+  },
+  "menu_item_can": {
+    "message": "Cilindrs"
+  },
+  "menu_item_chevron": {
+    "message": "Skuji\u0146a"
+  },
+  "menu_item_chord": {
+    "message": "Aplis ar hordas nogriezni"
+  },
+  "menu_item_clear_formatting": {
+    "message": "Not\u012br\u012bt format\u0113jumu"
+  },
+  "menu_item_cloud": {
+    "message": "M\u0101konis"
+  },
+  "menu_item_cloud_callout": {
+    "message": "M\u0101ko\u0146a remarka"
+  },
+  "menu_item_color_none": {
+    "message": "Nav"
+  },
+  "menu_item_color_transparent": {
+    "message": "Caursp\u012bd\u012bgs"
+  },
+  "menu_item_convert_to_docs": {
+    "message": "Saglab\u0101t k\u0101 Google dokumentu"
+  },
+  "menu_item_convert_to_sheets": {
+    "message": "Saglab\u0101t k\u0101 Google izkl\u0101jlapu"
+  },
+  "menu_item_convert_to_slides": {
+    "message": "Saglab\u0101t k\u0101 Google prezent\u0101ciju"
+  },
+  "menu_item_copy": {
+    "message": "Kop\u0113t"
+  },
+  "menu_item_cross": {
+    "message": "Krusts"
+  },
+  "menu_item_cube": {
+    "message": "Kubs"
+  },
+  "menu_item_curved_down_arrow": {
+    "message": "Izliekta lejupv\u0113rsta bulti\u0146a"
+  },
+  "menu_item_curved_left_arrow": {
+    "message": "Izliekta kreis\u0101 bulti\u0146a"
+  },
+  "menu_item_curved_right_arrow": {
+    "message": "Izliekta lab\u0101 bulti\u0146a"
+  },
+  "menu_item_curved_up_arrow": {
+    "message": "Izliekta aug\u0161upv\u0113rsta bulti\u0146a"
+  },
+  "menu_item_cut": {
+    "message": "Izgriezt"
+  },
+  "menu_item_decagon": {
+    "message": "Desmitst\u016bris"
+  },
+  "menu_item_delete_column": {
+    "message": "Dz\u0113st kolonnu"
+  },
+  "menu_item_delete_row": {
+    "message": "Dz\u0113st rindu"
+  },
+  "menu_item_delete_value": {
+    "message": "Dz\u0113st v\u0113rt\u012bbu"
+  },
+  "menu_item_deleteslide": {
+    "message": "Dz\u0113st prezent\u0101ciju"
+  },
+  "menu_item_diagonal_stripe": {
+    "message": "Diagon\u0101la josla"
+  },
+  "menu_item_diamond": {
+    "message": "Rombs"
+  },
+  "menu_item_divide": {
+    "message": "Dal\u012b\u0161anas z\u012bme"
+  },
+  "menu_item_dodecagon": {
+    "message": "Divpadsmitst\u016bris"
+  },
+  "menu_item_donut": {
+    "message": "Gredzens"
+  },
+  "menu_item_double_brace": {
+    "message": "Fig\u016briekavu p\u0101ris"
+  },
+  "menu_item_double_bracket": {
+    "message": "Iekavu p\u0101ris"
+  },
+  "menu_item_down_arrow": {
+    "message": "Lejupv\u0113rsta bulti\u0146a"
+  },
+  "menu_item_down_arrow_callout": {
+    "message": "Lejupv\u0113rstas bulti\u0146as remarka"
+  },
+  "menu_item_duplicateslide": {
+    "message": "Dublic\u0113t slaidu"
+  },
+  "menu_item_equal": {
+    "message": "Vien\u0101d\u012bbas z\u012bme"
+  },
+  "menu_item_equation": {
+    "message": "Vien\u0101dojums"
+  },
+  "menu_item_explosion_1": {
+    "message": "1.\u00a0spr\u0101dziena forma"
+  },
+  "menu_item_explosion_2": {
+    "message": "2.\u00a0spr\u0101dziena forma"
+  },
+  "menu_item_flowchart_alternate_process": {
+    "message": "Bloksh\u0113ma: alternat\u012bvs process"
+  },
+  "menu_item_flowchart_card": {
+    "message": "Bloksh\u0113ma: kart\u012bte"
+  },
+  "menu_item_flowchart_collate": {
+    "message": "Bloksh\u0113ma: sakopo\u0161ana"
+  },
+  "menu_item_flowchart_connector": {
+    "message": "Bloksh\u0113ma: savienot\u0101js"
+  },
+  "menu_item_flowchart_data": {
+    "message": "Bloksh\u0113ma: dati"
+  },
+  "menu_item_flowchart_decision": {
+    "message": "Bloksh\u0113ma: l\u0113mums"
+  },
+  "menu_item_flowchart_delay": {
+    "message": "Bloksh\u0113ma: aizkave"
+  },
+  "menu_item_flowchart_direct_access_storage": {
+    "message": "Bloksh\u0113ma: tie\u0161\u0101s piek\u013cuves kr\u0101tuve"
+  },
+  "menu_item_flowchart_display": {
+    "message": "Bloksh\u0113ma: att\u0113lojums"
+  },
+  "menu_item_flowchart_document": {
+    "message": "Bloksh\u0113ma: dokuments"
+  },
+  "menu_item_flowchart_extract": {
+    "message": "Bloksh\u0113ma: nodal\u012b\u0161ana"
+  },
+  "menu_item_flowchart_internal_storage": {
+    "message": "Bloksh\u0113ma: iek\u0161\u0113j\u0101 kr\u0101tuve"
+  },
+  "menu_item_flowchart_magnetic_disk": {
+    "message": "Bloksh\u0113ma: magn\u0113tiskais disks"
+  },
+  "menu_item_flowchart_manual_input": {
+    "message": "Bloksh\u0113ma: manu\u0101la ievade"
+  },
+  "menu_item_flowchart_manual_operation": {
+    "message": "Bloksh\u0113ma: manu\u0101la darb\u012bba"
+  },
+  "menu_item_flowchart_merge": {
+    "message": "Bloksh\u0113ma: apvieno\u0161ana"
+  },
+  "menu_item_flowchart_multidocument": {
+    "message": "Bloksh\u0113ma: vair\u0101ki dokumenti"
+  },
+  "menu_item_flowchart_off_page_connector": {
+    "message": "Bloksh\u0113ma: \u0101rpuslapas savienot\u0101js"
+  },
+  "menu_item_flowchart_or": {
+    "message": "Bloksh\u0113ma: vai"
+  },
+  "menu_item_flowchart_predefined_process": {
+    "message": "Bloksh\u0113ma: iepriek\u0161 defin\u0113ts process"
+  },
+  "menu_item_flowchart_preparation": {
+    "message": "Bloksh\u0113ma: sagatavo\u0161ana"
+  },
+  "menu_item_flowchart_process": {
+    "message": "Bloksh\u0113ma: process"
+  },
+  "menu_item_flowchart_punched_tape": {
+    "message": "Bloksh\u0113ma: perfolente"
+  },
+  "menu_item_flowchart_sequential_access_storage": {
+    "message": "Bloksh\u0113ma: sec\u012bgas piek\u013cuves kr\u0101tuve"
+  },
+  "menu_item_flowchart_sort": {
+    "message": "Bloksh\u0113ma: k\u0101rto\u0161ana"
+  },
+  "menu_item_flowchart_stored_data": {
+    "message": "Bloksh\u0113ma: saglab\u0101tie dati"
+  },
+  "menu_item_flowchart_summing_junction": {
+    "message": "Bloksh\u0113ma: summ\u0113jo\u0161ais savienojums"
+  },
+  "menu_item_flowchart_terminator": {
+    "message": "Bloksh\u0113ma: galapunkts"
+  },
+  "menu_item_folded_corner": {
+    "message": "Noloc\u012bts st\u016bris"
+  },
+  "menu_item_frame": {
+    "message": "R\u0101mis"
+  },
+  "menu_item_half_frame": {
+    "message": "Pusr\u0101mis"
+  },
+  "menu_item_heart": {
+    "message": "Sirds"
+  },
+  "menu_item_help_center": {
+    "message": "Pal\u012bdz\u012bbas centrs"
+  },
+  "menu_item_heptagon": {
+    "message": "Septi\u0146st\u016bris"
+  },
+  "menu_item_hexagon": {
+    "message": "Se\u0161st\u016bris"
+  },
+  "menu_item_hideslide": {
+    "message": "Sl\u0113pt prezent\u0101ciju"
+  },
+  "menu_item_insert_column": {
+    "message": "Kolonna"
+  },
+  "menu_item_insert_image": {
+    "message": "Att\u0113ls"
+  },
+  "menu_item_insert_row": {
+    "message": "Rinda"
+  },
+  "menu_item_insert_text_box": {
+    "message": "Tekstlodzi\u0146\u0161"
+  },
+  "menu_item_insertslide": {
+    "message": "Jauna prezent\u0101cija"
+  },
+  "menu_item_italic": {
+    "message": "Sl\u012bpraksts"
+  },
+  "menu_item_keyboard_shortcuts": {
+    "message": "\u012asin\u0101jumtausti\u0146i"
+  },
+  "menu_item_l_shape": {
+    "message": "L\u00a0forma"
+  },
+  "menu_item_left_arrow": {
+    "message": "Kreis\u0101 bulti\u0146a"
+  },
+  "menu_item_left_arrow_callout": {
+    "message": "Kreis\u0101s bulti\u0146as remarka"
+  },
+  "menu_item_left_brace": {
+    "message": "Kreis\u0101 fig\u016briekava"
+  },
+  "menu_item_left_bracket": {
+    "message": "Kreis\u0101 iekava"
+  },
+  "menu_item_left_right_arrow": {
+    "message": "Kreis\u0101/lab\u0101 virziena bulti\u0146a"
+  },
+  "menu_item_left_right_arrow_callout": {
+    "message": "Kreis\u0101/lab\u0101 virziena bulti\u0146as remarka"
+  },
+  "menu_item_left_right_up_arrow": {
+    "message": "Kreis\u0101/lab\u0101 virziena aug\u0161upv\u0113rsta bulti\u0146a"
+  },
+  "menu_item_left_up_arrow": {
+    "message": "Kreis\u0101 aug\u0161upv\u0113rsta bulti\u0146a"
+  },
+  "menu_item_lightning_bolt": {
+    "message": "Zibens"
+  },
+  "menu_item_make_a_copy": {
+    "message": "Izveidot kopiju..."
+  },
+  "menu_item_merge_all": {
+    "message": "Sapludin\u0101t visu"
+  },
+  "menu_item_merge_cells": {
+    "message": "Apvienot \u0161\u016bnas"
+  },
+  "menu_item_merge_horizontally": {
+    "message": "Sapludin\u0101t horizont\u0101li"
+  },
+  "menu_item_merge_vertically": {
+    "message": "Sapludin\u0101t vertik\u0101li"
+  },
+  "menu_item_minus": {
+    "message": "M\u012bnusz\u012bme"
+  },
+  "menu_item_moon": {
+    "message": "M\u0113ness"
+  },
+  "menu_item_moveslidedown": {
+    "message": "P\u0101rvietot slaidu uz leju"
+  },
+  "menu_item_moveslidetoend": {
+    "message": "P\u0101rvietot slaidu uz beig\u0101m"
+  },
+  "menu_item_moveslidetostart": {
+    "message": "P\u0101rvietot slaidu uz s\u0101kumu"
+  },
+  "menu_item_moveslideup": {
+    "message": "P\u0101rvietot slaidu uz aug\u0161u"
+  },
+  "menu_item_multiply": {
+    "message": "Reizin\u0101\u0161anas z\u012bme"
+  },
+  "menu_item_new": {
+    "message": "Jaunums"
+  },
+  "menu_item_no_symbol": {
+    "message": "Aizlieguma simbols"
+  },
+  "menu_item_not_equal": {
+    "message": "Nav vien\u0101ds"
+  },
+  "menu_item_notched_right_arrow": {
+    "message": "Lab\u0101 bulti\u0146a ar ierobojumu"
+  },
+  "menu_item_number_format": {
+    "message": "Skait\u013cu form\u0101ts"
+  },
+  "menu_item_number_menu": {
+    "message": "Skaitlis"
+  },
+  "menu_item_numbering": {
+    "message": "$1.\u00a0no\u00a0$2",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "menu_item_octagon": {
+    "message": "Asto\u0146st\u016bris"
+  },
+  "menu_item_open": {
+    "message": "Atv\u0113rt"
+  },
+  "menu_item_oval": {
+    "message": "Ov\u0101ls"
+  },
+  "menu_item_oval_callout": {
+    "message": "Ov\u0101la remarka"
+  },
+  "menu_item_parallelogram": {
+    "message": "Paralelograms"
+  },
+  "menu_item_paste": {
+    "message": "Iel\u012bm\u0113t"
+  },
+  "menu_item_pentagon": {
+    "message": "Piecst\u016bris"
+  },
+  "menu_item_pie": {
+    "message": "Tr\u012bs ceturtda\u013cu aplis"
+  },
+  "menu_item_plaque": {
+    "message": "Pl\u0101ksne"
+  },
+  "menu_item_plus": {
+    "message": "Plusz\u012bme"
+  },
+  "menu_item_present": {
+    "message": "R\u0101d\u012bt"
+  },
+  "menu_item_print": {
+    "message": "Druk\u0101t"
+  },
+  "menu_item_quad_arrow": {
+    "message": "\u010cetrvirzienu bulti\u0146a"
+  },
+  "menu_item_quad_arrow_callout": {
+    "message": "\u010cetrvirzienu bulti\u0146as remarka"
+  },
+  "menu_item_rectangle": {
+    "message": "Taisnst\u016bris"
+  },
+  "menu_item_rectangular_callout": {
+    "message": "Taisnst\u016brveida remarka"
+  },
+  "menu_item_redo": {
+    "message": "Atcelt atsauk\u0161anu"
+  },
+  "menu_item_regular_pentagon": {
+    "message": "Regul\u0101rs piecst\u016bris"
+  },
+  "menu_item_report_abuse": {
+    "message": "Zi\u0146ot par p\u0101rk\u0101pumu"
+  },
+  "menu_item_report_issue": {
+    "message": "Zi\u0146ot par probl\u0113mu"
+  },
+  "menu_item_right_arrow": {
+    "message": "Lab\u0101 bulti\u0146a"
+  },
+  "menu_item_right_arrow_callout": {
+    "message": "Lab\u0101s bulti\u0146as remarka"
+  },
+  "menu_item_right_brace": {
+    "message": "Lab\u0101 fig\u016briekava"
+  },
+  "menu_item_right_bracket": {
+    "message": "Lab\u0101 iekava"
+  },
+  "menu_item_right_triangle": {
+    "message": "Taisnle\u0146\u0137a tr\u012bsst\u016bris"
+  },
+  "menu_item_round_diagonal_corner_rectangle": {
+    "message": "Taisnst\u016bris ar noapa\u013cotiem diagon\u0101lajiem st\u016briem"
+  },
+  "menu_item_round_same_side_corner_rectangle": {
+    "message": "Taisnst\u016bris ar vien\u0101 mal\u0101 noapa\u013cotiem st\u016briem"
+  },
+  "menu_item_round_single_corner_rectangle": {
+    "message": "Taisnst\u016bris ar vienu noapa\u013cotu st\u016bri"
+  },
+  "menu_item_rounded_rectangle": {
+    "message": "Taisnst\u016bris ar noapa\u013cotiem st\u016briem"
+  },
+  "menu_item_rounded_rectangular_callout": {
+    "message": "Taisnst\u016brveida remarka ar noapa\u013cotiem st\u016briem"
+  },
+  "menu_item_save": {
+    "message": "Saglab\u0101t"
+  },
+  "menu_item_save_as": {
+    "message": "Saglab\u0101t k\u0101\u2026"
+  },
+  "menu_item_shapes": {
+    "message": "Formas"
+  },
+  "menu_item_share": {
+    "message": "Kop\u012bgot"
+  },
+  "menu_item_smiley_face": {
+    "message": "Smaido\u0161a seja"
+  },
+  "menu_item_snip_and_round_single_corner_rectangle": {
+    "message": "Taisnst\u016bris ar vienu nogrieztu un vienu noapa\u013cotu st\u016bri"
+  },
+  "menu_item_snip_diagonal_corner_rectangle": {
+    "message": "Taisnst\u016bris ar nogrieztiem diagon\u0101lajiem st\u016briem"
+  },
+  "menu_item_snip_same_side_corner_rectangle": {
+    "message": "Taisnst\u016bris ar vien\u0101 mal\u0101 nogrieztiem st\u016briem"
+  },
+  "menu_item_snip_single_corner_rectangle": {
+    "message": "Taisnst\u016bris ar vienu nogrieztu st\u016bri"
+  },
+  "menu_item_strikethrough": {
+    "message": "P\u0101rsv\u012btrojums"
+  },
+  "menu_item_striped_right_arrow": {
+    "message": "Lab\u0101 bulti\u0146a ar sv\u012btr\u0101m"
+  },
+  "menu_item_subscript": {
+    "message": "Apak\u0161raksts"
+  },
+  "menu_item_sun": {
+    "message": "Saule"
+  },
+  "menu_item_superscript": {
+    "message": "Aug\u0161raksts"
+  },
+  "menu_item_teardrop": {
+    "message": "L\u0101se"
+  },
+  "menu_item_trapezoid": {
+    "message": "Trapece"
+  },
+  "menu_item_triangle": {
+    "message": "Tr\u012bsst\u016bris"
+  },
+  "menu_item_u_turn_arrow": {
+    "message": "Apgrie\u0161an\u0101s bulti\u0146a"
+  },
+  "menu_item_underline": {
+    "message": "Pasv\u012btrojums"
+  },
+  "menu_item_undo": {
+    "message": "Atsaukt"
+  },
+  "menu_item_unhideslide": {
+    "message": "Par\u0101d\u012bt sl\u0113pto prezent\u0101ciju"
+  },
+  "menu_item_unmerge": {
+    "message": "No\u0146emt sapludin\u0101\u0161anu"
+  },
+  "menu_item_up_arrow": {
+    "message": "Aug\u0161upv\u0113rsta bulti\u0146a"
+  },
+  "menu_item_up_arrow_callout": {
+    "message": "Aug\u0161upv\u0113rstas bulti\u0146as remarka"
+  },
+  "menu_item_up_down_arrow": {
+    "message": "Aug\u0161upv\u0113rsta/lejupv\u0113rsta bulti\u0146a"
+  },
+  "menu_item_version_info": {
+    "message": "Inform\u0101cija par versiju"
+  },
+  "menu_item_word_count": {
+    "message": "V\u0101rdu skaits"
+  },
+  "menu_item_wrap_text": {
+    "message": "Aplauzt tekstu"
+  },
+  "menu_item_zoom_in": {
+    "message": "Tuvin\u0101t"
+  },
+  "menu_item_zoom_out": {
+    "message": "T\u0101lin\u0101t"
+  },
+  "merge_all_aria_spoken_word": {
+    "message": "sapludin\u0101t visu"
+  },
+  "merge_aria_spoken_word": {
+    "message": "sapludin\u0101t"
+  },
+  "merge_dropdown_aria_spoken_word": {
+    "message": "sapludin\u0101\u0161anas nolai\u017eam\u0101 izv\u0113lne"
+  },
+  "merge_horizontally_aria_spoken_word": {
+    "message": "sapludin\u0101t horizont\u0101li"
+  },
+  "merge_vertically_aria_spoken_word": {
+    "message": "sapludin\u0101t vertik\u0101li"
+  },
+  "modify_shape_transform_error_msg": {
+    "message": "Mainot formu p\u0101rveido\u0161anas iesp\u0113jas, rad\u0101s k\u013c\u016bda."
+  },
+  "modify_shape_transform_error_short_msg": {
+    "message": "K\u013c\u016bda, mainot formu p\u0101rveido\u0161anas iesp\u0113jas"
+  },
+  "modifyshapefillcolor_aria_spoken_word": {
+    "message": "formas aizpild\u012bjuma kr\u0101sas nolai\u017eamais saraksts"
+  },
+  "modifyshapeoutlinecolor_aria_spoken_word": {
+    "message": "formas kont\u016bras kr\u0101sas nolai\u017eamais saraksts"
+  },
+  "modifyshapeoutlinestyle_aria_spoken_word": {
+    "message": "formas kont\u016bras stila nolai\u017eamais saraksts"
+  },
+  "modifyshapeoutlinewidth_aria_spoken_word": {
+    "message": "formas kont\u016bras platuma nolai\u017eamais saraksts"
+  },
+  "nacl_load_error_details": {
+    "message": "V\u0113lreiz m\u0113\u0123iniet instal\u0113t papla\u0161in\u0101jumu."
+  },
+  "nacl_load_error_title": {
+    "message": "Iel\u0101d\u0113jot lietojumprogrammu, rad\u0101s probl\u0113ma."
+  },
+  "non_permissible_sheet_name_details": {
+    "message": "Nav at\u013cautas \u0161\u0101das rakstz\u012bmes: * ? [ ] ' ; : Lapas nosaukuma garums nedr\u012bkst p\u0101rsniegt 31\u00a0rakstz\u012bmi. Lapas nosaukums ir j\u0101nor\u0101da oblig\u0101ti."
+  },
+  "non_permissible_sheet_name_title": {
+    "message": "P\u0101rd\u0113v\u0113jot lapu, tika ievad\u012bts neder\u012bgs nosaukums."
+  },
+  "not_pressed": {
+    "message": "Nav nospiesta"
+  },
+  "notselected": {
+    "message": "Nav atlas\u012bts"
+  },
+  "number_format_label_currency_symbol": {
+    "message": "Val\u016btas simbols"
+  },
+  "number_format_label_date_type": {
+    "message": "Veids"
+  },
+  "number_format_label_decimal_places": {
+    "message": "Decim\u0101lda\u013cskait\u013ci"
+  },
+  "number_format_label_general": {
+    "message": "Visp\u0101r\u012bgi"
+  },
+  "number_format_label_negative_numbers": {
+    "message": "Negat\u012bvi skait\u013ci"
+  },
+  "number_format_label_other": {
+    "message": "Cits"
+  },
+  "number_format_label_red": {
+    "message": "Sarkan\u0101 kr\u0101s\u0101"
+  },
+  "number_format_label_text": {
+    "message": "Teksts"
+  },
+  "number_format_label_use_1000_separator": {
+    "message": "Izmantojiet t\u016bksto\u0161u atdal\u012bt\u0101ju"
+  },
+  "number_format_tab_accounting": {
+    "message": "Gr\u0101matved\u012bba"
+  },
+  "number_format_tab_currency": {
+    "message": "Val\u016bta"
+  },
+  "number_format_tab_date_time": {
+    "message": "Datums un laiks"
+  },
+  "number_format_tab_general": {
+    "message": "Visp\u0101r\u012bgi"
+  },
+  "number_format_tab_number": {
+    "message": "Skaitlis"
+  },
+  "number_format_tab_percentage": {
+    "message": "Procenti"
+  },
+  "number_format_tab_scientific": {
+    "message": "Zin\u0101tniski"
+  },
+  "number_format_title": {
+    "message": "Skait\u013cu form\u0101ti"
+  },
+  "ocm_promo_conversion_shortmsg": {
+    "message": "Ir aktiviz\u0113ts Office sader\u012bbas re\u017e\u012bms"
+  },
+  "ocm_promo_office_editing_mode_shortmsg": {
+    "message": "Ir aktiviz\u0113ts Office savietojam\u012bbas re\u017e\u012bms"
+  },
+  "office_compatibility_mode": {
+    "message": "Office savietojam\u012bbas re\u017e\u012bms"
+  },
+  "office_editing_mode_attempt_when_offline": {
+    "message": "Lai atv\u0113rtu \u0161o failu programm\u0101 Google dokumenti, jums j\u0101b\u016bt tie\u0161saist\u0113. M\u0113\u0123iniet v\u0113lreiz, kad savienojums b\u016bs atjaunots."
+  },
+  "office_editing_mode_attempt_with_invalid_creds": {
+    "message": "Lai atv\u0113rtu \u0161o failu programm\u0101 Google dokumenti, jums j\u0101pierakst\u0101s Google\u00a0kont\u0101."
+  },
+  "office_editing_mode_point_fail_msg": {
+    "message": "Pa\u0161laik failu nevar atv\u0113rt k\u0101 Google prezent\u0101ciju."
+  },
+  "office_editing_mode_setting_new_create": {
+    "message": "Atbalst\u012btus Office failus no pakalpojumiem Disks un Gmail atv\u0113rt tie\u0161i programm\u0101 Dokumenti, Izkl\u0101jlapas vai Prezent\u0101cijas"
+  },
+  "office_editing_mode_sheet_fail_msg": {
+    "message": "Pa\u0161laik failu nevar atv\u0113rt k\u0101 Google izkl\u0101jlapu."
+  },
+  "office_editing_mode_word_fail_msg": {
+    "message": "Pa\u0161laik failu nevar atv\u0113rt k\u0101 Google dokumentu."
+  },
+  "office_first_time_confirm": {
+    "message": "Sapratu!"
+  },
+  "office_first_time_message_p1": {
+    "message": "Tagad varat redi\u0123\u0113t savus cietaj\u0101 disk\u0101, Google\u00a0disk\u0101, pakalpojum\u0101 Gmail un citur saglab\u0101tos Word, Excel un PowerPoint failus, izmantojot pakalpojumus Dokumenti, Izkl\u0101jlapas un Prezent\u0101cijas."
+  },
+  "office_first_time_message_p2": {
+    "message": "Visi j\u016bsu labojumi tiek autom\u0101tiski saglab\u0101ti, un failus vienm\u0113r var saglab\u0101t ar\u012b s\u0101kotn\u0113j\u0101 form\u0101t\u0101."
+  },
+  "office_first_time_title": {
+    "message": "Lietojumprogramma Office\u00a0failu redig\u0113\u0161ana"
+  },
+  "offline_error_msg": {
+    "message": "\u0160\u0137iet, ka nav interneta savienojuma. L\u016bdzu, p\u0101rbaudiet interneta savienojumu un m\u0113\u0123iniet v\u0113lreiz. Ja \u0161is k\u013c\u016bdas zi\u0146ojums tiek r\u0101d\u012bts ar\u012b tad, kad ir izveidots interneta savienojums, l\u016bdzu, zi\u0146ojiet par probl\u0113mu."
+  },
+  "offline_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt."
+  },
+  "opening_in_office_editing_mode": {
+    "message": "Notiek atv\u0113r\u0161ana Office failu redi\u0123\u0113\u0161anas re\u017e\u012bm\u0101"
+  },
+  "option_key": {
+    "message": "Opcijas tausti\u0146\u0161"
+  },
+  "out_of_memory_error_msg": {
+    "message": "Aizveriet \u0161o cilni un atk\u0101rtoti atveriet failu vai aizveriet citas p\u0101rl\u016bk\u0101 atv\u0113rt\u0101s cilnes. Ja probl\u0113ma joproj\u0101m past\u0101v, l\u016bdzu, zi\u0146ojiet par probl\u0113mu t\u0101l\u0101k."
+  },
+  "out_of_memory_error_short_msg": {
+    "message": "Diem\u017e\u0113l atmi\u0146\u0101 nepietika vietas."
+  },
+  "page_count_label": {
+    "message": "Lapas"
+  },
+  "partial_cell_merge_error_msg": {
+    "message": "Sapludin\u0101tas \u0161\u016bnas da\u013cu nevar main\u012bt."
+  },
+  "partial_cell_merge_error_short_msg": {
+    "message": "K\u013c\u016bda"
+  },
+  "permission_fail_msg": {
+    "message": "Jums nav at\u013caujas redi\u0123\u0113t \u0161o failu. Atjauniniet at\u013caujas un m\u0113\u0123iniet v\u0113lreiz."
+  },
+  "point_ocm_promo_conversion_msg": {
+    "message": "Varat redi\u0123\u0113t un saglab\u0101t Office failus tie\u0161i pakalpojum\u0101 Prezent\u0101cijas. Lai uzaicin\u0101tu citus lietot\u0101jus redi\u0123\u0113t vai pievienot koment\u0101rus, saglab\u0101jiet tos Google prezent\u0101ciju form\u0101t\u0101. Jebkur\u0101 br\u012bd\u012b varat atkal saglab\u0101t failus s\u0101kotn\u0113j\u0101 form\u0101t\u0101."
+  },
+  "point_ocm_promo_office_editing_mode_msg": {
+    "message": "Tagad varat tie\u0161i redi\u0123\u0113t un saglab\u0101t Office failus programm\u0101 Google prezent\u0101cijas. Lai uzaicin\u0101tu citus lietot\u0101jus redi\u0123\u0113t failu re\u0101llaik\u0101 vai pievienot koment\u0101rus, aug\u0161upiel\u0101d\u0113jiet \u0161o failu pakalpojum\u0101 Google disks. \u0160\u012b faila form\u0101ts netiks main\u012bts."
+  },
+  "point_printing_warning_msg": {
+    "message": "M\u0113s str\u0101d\u0101jam, lai nov\u0113rstu \u0161o probl\u0113mu."
+  },
+  "point_printing_warning_short_msg": {
+    "message": "Pa\u0161laik varat druk\u0101t tikai slaidu, kuru skat\u0101ties."
+  },
+  "point_share_promo_conversion_msg": {
+    "message": "Vai m\u0113\u0123in\u0101t kop\u012bgot \u0161o prezent\u0101ciju? Lai uzaicin\u0101tu citas personas to redi\u0123\u0113t kop\u012bgi ar jums, p\u0101rv\u0113rtiet prezent\u0101ciju par Google prezent\u0101ciju."
+  },
+  "point_share_promo_office_editing_mode_msg": {
+    "message": "Tagad varat tie\u0161i redi\u0123\u0113t un saglab\u0101t Office failus programm\u0101 Google prezent\u0101cijas. Lai uzaicin\u0101tu citus lietot\u0101jus redi\u0123\u0113t failu re\u0101llaik\u0101 vai pievienot koment\u0101rus, aug\u0161upiel\u0101d\u0113jiet \u0161o failu pakalpojum\u0101 Google disks. \u0160\u012b faila form\u0101ts netiks main\u012bts."
+  },
+  "pointtogglebullet_aria_spoken_word": {
+    "message": "saraksts ar aizz\u012bm\u0113m"
+  },
+  "pointtogglenumber_aria_spoken_word": {
+    "message": "numur\u0113ts saraksts"
+  },
+  "present_button": {
+    "message": "R\u0101d\u012bt"
+  },
+  "pressed": {
+    "message": "Nospiesta"
+  },
+  "print_aria_spoken_word": {
+    "message": "druk\u0101t"
+  },
+  "qowt_doc_mismatch_text": {
+    "message": "Format\u0113jot dokumentu, rad\u0101s k\u013c\u016bda.\n\nAtk\u0101rtoti iel\u0101d\u0113jiet lapu, lai atg\u016btu izmai\u0146as."
+  },
+  "qowt_doc_mismatch_title": {
+    "message": "Ak, vai!"
+  },
+  "qowt_hyperlink_activate_short_key": {
+    "message": "Lai aktiviz\u0113tu saiti, nospiediet tausti\u0146u kombin\u0101ciju ALT+Enter."
+  },
+  "qowt_hyperlink_dialog": {
+    "message": "Hipersaite"
+  },
+  "qowt_hyperlink_dialog_message_text": {
+    "message": "Atv\u0113rt saiti:"
+  },
+  "qowt_modal_confirm_dialog_affirmative_button": {
+    "message": "Labi"
+  },
+  "qowt_modal_confirm_dialog_negative_button": {
+    "message": "Atcelt"
+  },
+  "qowt_modal_dialog_close_button": {
+    "message": "Aizv\u0113rt"
+  },
+  "qowt_modal_dialog_coming_soon_title": {
+    "message": "Dr\u012bzum\u0101 b\u016bs pieejamas!"
+  },
+  "qowt_modal_dialog_link_text": {
+    "message": "Uzziniet vair\u0101k"
+  },
+  "qowt_modal_dialog_ok_button": {
+    "message": "Labi"
+  },
+  "qowt_modal_dialog_reload_button": {
+    "message": "Atk\u0101rtoti iel\u0101d\u0113t"
+  },
+  "qowt_modal_dialog_textbox_editing_description": {
+    "message": "Diem\u017e\u0113l teksta redi\u0123\u0113\u0161ana tekstlodzi\u0146os netiek atbalst\u012bta."
+  },
+  "qowt_modal_dialog_textbox_editing_link": {
+    "message": "L\u016bdzu, nov\u0113rsiet \u0161o!"
+  },
+  "qowt_modal_info_dialog_affirmative_button": {
+    "message": "Labi"
+  },
+  "qowt_modal_multi_choice_remember_choice": {
+    "message": "Atcer\u0113ties manu izv\u0113li"
+  },
+  "qowt_modal_query_dialog_affirmative_button": {
+    "message": "J\u0101"
+  },
+  "qowt_modal_query_dialog_negative_button": {
+    "message": "N\u0113"
+  },
+  "qowt_modal_query_dialog_reload_button": {
+    "message": "Atk\u0101rtoti iel\u0101d\u0113t"
+  },
+  "qowt_modal_single_choice_remember_choice": {
+    "message": "Turpm\u0101k vairs neatg\u0101din\u0101t"
+  },
+  "read_only": {
+    "message": "Tikai las\u0101ms"
+  },
+  "redo_aria_spoken_word": {
+    "message": "atcelt atsauk\u0161anu"
+  },
+  "right_pointed_submenu": {
+    "message": "Labais r\u0101d\u012bt\u0101js ar apak\u0161izv\u0113lni"
+  },
+  "save_aria_spoken_word": {
+    "message": "saglab\u0101t"
+  },
+  "save_now": {
+    "message": "Saglab\u0101t t\u016bl\u012bt"
+  },
+  "security_error_msg": {
+    "message": "Ja joproj\u0101m saskaraties ar k\u013c\u016bdu, l\u016bdzu, zi\u0146ojiet par probl\u0113mu."
+  },
+  "security_error_short_msg": {
+    "message": "Diem\u017e\u0113l piepras\u012bto failu nevar\u0113ja atv\u0113rt. Pa\u0161laik netiek atbalst\u012bta failu atv\u0113r\u0161ana inkognito re\u017e\u012bm\u0101. L\u016bdzu, atveriet failu cit\u0101 re\u017e\u012bm\u0101."
+  },
+  "selected": {
+    "message": "Atlas\u012bts"
+  },
+  "set_sheet_info_error_msg": {
+    "message": "Atjauninot lapas nosaukumu, rad\u0101s k\u013c\u016bda."
+  },
+  "share_button": {
+    "message": "Kop\u012bgot"
+  },
+  "share_promo_conversion_shortmsg": {
+    "message": "Redi\u0123\u0113t kop\u012bgi ar citiem"
+  },
+  "share_promo_office_editing_mode_shortmsg": {
+    "message": "Kop\u012bgo\u0161ana"
+  },
+  "sheet_delete_column_error_msg": {
+    "message": "Diem\u017e\u0113l, dz\u0113\u0161ot kolonnu, rad\u0101s k\u013c\u016bda. L\u016bdzu, m\u0113\u0123iniet v\u0113lreiz."
+  },
+  "sheet_delete_row_error_msg": {
+    "message": "Diem\u017e\u0113l, dz\u0113\u0161ot rindu, rad\u0101s k\u013c\u016bda. L\u016bdzu, m\u0113\u0123iniet v\u0113lreiz."
+  },
+  "sheet_format_cells_error_msg": {
+    "message": "Rad\u0101s format\u0113\u0161anas k\u013c\u016bda. L\u016bdzu, m\u0113\u0123iniet v\u0113lreiz."
+  },
+  "sheet_insert_column_error_msg": {
+    "message": "Diem\u017e\u0113l, ievietojot kolonnu, rad\u0101s k\u013c\u016bda. L\u016bdzu, m\u0113\u0123iniet v\u0113lreiz."
+  },
+  "sheet_insert_column_exceed_error_msg": {
+    "message": "Diem\u017e\u0113l j\u016bs nevarat ievietot vair\u0101k kolonnu \u0161aj\u0101 izkl\u0101jlap\u0101, jo tiek atbalst\u012btas tikai 256\u00a0kolonnas."
+  },
+  "sheet_insert_column_exceed_error_short_msg": {
+    "message": "K\u013c\u016bda!"
+  },
+  "sheet_insert_row_error_msg": {
+    "message": "Diem\u017e\u0113l, ievietojot rindu, rad\u0101s k\u013c\u016bda. L\u016bdzu, m\u0113\u0123iniet v\u0113lreiz."
+  },
+  "sheet_insert_row_exceed_error_msg": {
+    "message": "Diem\u017e\u0113l j\u016bs nevarat ievietot vair\u0101k rindu \u0161aj\u0101 izkl\u0101jlap\u0101, jo tiek atbalst\u012btas tikai 65\u00a0536\u00a0rindas."
+  },
+  "sheet_insert_row_exceed_error_short_msg": {
+    "message": "K\u013c\u016bda!"
+  },
+  "sheet_ocm_promo_conversion_msg": {
+    "message": "Varat redi\u0123\u0113t un saglab\u0101t Office failus tie\u0161i pakalpojum\u0101 Izkl\u0101jlapas. Lai uzaicin\u0101tu citus lietot\u0101jus redi\u0123\u0113t vai pievienot koment\u0101rus, saglab\u0101jiet tos k\u0101 Google izkl\u0101jlapu form\u0101t\u0101. Jebkur\u0101 br\u012bd\u012b varat atkal saglab\u0101t failus s\u0101kotn\u0113j\u0101 form\u0101t\u0101."
+  },
+  "sheet_ocm_promo_office_editing_mode_msg": {
+    "message": "Tagad varat tie\u0161i redi\u0123\u0113t un saglab\u0101t Office failus programm\u0101 Google izkl\u0101jlapas. Lai uzaicin\u0101tu citus lietot\u0101jus redi\u0123\u0113t failu re\u0101llaik\u0101 vai pievienot koment\u0101rus, aug\u0161upiel\u0101d\u0113jiet \u0161o failu pakalpojum\u0101 Google disks. \u0160\u012b faila form\u0101ts netiks main\u012bts."
+  },
+  "sheet_set_cell_content_invalid_error_msg": {
+    "message": "Ievad\u012btaj\u0101 formul\u0101 ir k\u013c\u016bda. L\u016bdzu, izlabojiet to."
+  },
+  "sheet_share_promo_conversion_msg": {
+    "message": "Vai m\u0113\u0123in\u0101t kop\u012bgot \u0161o izkl\u0101jlapu? Lai uzaicin\u0101tu citas personas to redi\u0123\u0113t kop\u012bgi ar jums, p\u0101rv\u0113rtiet izkl\u0101jlapu par Google izkl\u0101jlapu."
+  },
+  "sheet_share_promo_office_editing_mode_msg": {
+    "message": "Tagad varat tie\u0161i redi\u0123\u0113t un saglab\u0101t Office failus programm\u0101 Google izkl\u0101jlapas. Lai uzaicin\u0101tu citus lietot\u0101jus redi\u0123\u0113t failu re\u0101llaik\u0101 vai pievienot koment\u0101rus, aug\u0161upiel\u0101d\u0113jiet \u0161o failu pakalpojum\u0101 Google disks. \u0160\u012b faila form\u0101ts netiks main\u012bts."
+  },
+  "sheet_sort_error_title": {
+    "message": "K\u0101rtojot \u0161o \u0161\u016bnu diapazonu, rad\u0101s k\u013c\u016bda."
+  },
+  "sheet_sort_failure_msg": {
+    "message": "K\u0101rtojot \u0161o \u0161\u016bnu diapazonu, rad\u0101s k\u013c\u016bda."
+  },
+  "sheet_sort_merged_cell_error": {
+    "message": "Nevar k\u0101rtot sapludin\u0101tas \u0161\u016bnas."
+  },
+  "sheet_sort_merged_cell_error_title": {
+    "message": "K\u0101rtojot \u0161o \u0161\u016bnu diapazonu, rad\u0101s k\u013c\u016bda."
+  },
+  "sheet_sort_one_cell_error": {
+    "message": "L\u016bdzu, k\u0101rto\u0161anai atlasiet vair\u0101k nek\u0101 vienu \u0161\u016bnu."
+  },
+  "sheet_sort_one_cell_error_title": {
+    "message": "K\u0101rtojot \u0161o \u0161\u016bnu diapazonu, rad\u0101s k\u013c\u016bda."
+  },
+  "shift_key": {
+    "message": "P\u0101rsl\u0113g\u0161anas tausti\u0146\u0161"
+  },
+  "shortcut": {
+    "message": "\u012asin\u0101jumtausti\u0146i $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "sign_in": {
+    "message": "Pierakst\u012bties"
+  },
+  "slash_key": {
+    "message": "Sl\u012bpsv\u012btra"
+  },
+  "something_not_right": {
+    "message": "Rad\u0101s probl\u0113ma"
+  },
+  "storage_quota_exceed_error_msg": {
+    "message": "Aizveriet visus p\u0101rl\u016bk\u0101 Chrome atv\u0113rtos Office dokumentus, p\u0113c tam m\u0113\u0123iniet v\u0113lreiz. Ja probl\u0113mu neizdodas nov\u0113rst, zi\u0146ojiet par to t\u0101l\u0101k."
+  },
+  "storage_quota_exceed_error_short_msg": {
+    "message": "Diem\u017e\u0113l nevar\u0113j\u0101m atv\u0113rt failu."
+  },
+  "strikethrough_aria_spoken_word": {
+    "message": "p\u0101rsv\u012btrojums"
+  },
+  "style_aria_spoken_word": {
+    "message": "stila nolai\u017eamais saraksts"
+  },
+  "submenu_spoken_text": {
+    "message": "$1 $2 $3 $4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "temporary_unable_to_open_error_msg": {
+    "message": "V\u0113l\u0101k m\u0113\u0123iniet v\u0113lreiz vai zi\u0146ojiet par probl\u0113mu t\u0101l\u0101k, ja to neizdodas nov\u0113rst."
+  },
+  "temporary_unable_to_open_error_short_msg": {
+    "message": "Diem\u017e\u0113l m\u0113s \u012bslaic\u012bgi nevaram atv\u0113rt failu."
+  },
+  "textaligncenter_aria_spoken_word": {
+    "message": "teksta izl\u012bdzin\u0101\u0161ana centr\u0101"
+  },
+  "textalignjustify_aria_spoken_word": {
+    "message": "teksta taisno\u0161ana izl\u012bdzinot"
+  },
+  "textalignleft_aria_spoken_word": {
+    "message": "teksta izl\u012bdzin\u0101\u0161ana pa kreisi"
+  },
+  "textalignright_aria_spoken_word": {
+    "message": "teksta izl\u012bdzin\u0101\u0161ana pa labi"
+  },
+  "textcolor_aria_spoken_word": {
+    "message": "teksta kr\u0101sas nolai\u017eamais saraksts"
+  },
+  "textual_edit_error_msg": {
+    "message": "Format\u0113jot dokumentu, rad\u0101s k\u013c\u016bda.\n\nAtk\u0101rtoti iel\u0101d\u0113jiet lapu, lai atg\u016btu izmai\u0146as."
+  },
+  "textual_edit_error_short_msg": {
+    "message": "Ak, vai!"
+  },
+  "title_error_msg_for_merge_cells": {
+    "message": "Rad\u0101s probl\u0113ma"
+  },
+  "title_msg_merging_multiple_cells_with_text": {
+    "message": "Uzman\u012bbu!"
+  },
+  "togglebulleted_aria_spoken_word": {
+    "message": "saraksts ar aizz\u012bm\u0113m"
+  },
+  "togglenumbered_aria_spoken_word": {
+    "message": "numur\u0113ts saraksts"
+  },
+  "togglezoom_aria_spoken_word": {
+    "message": "t\u0101lummai\u0146a"
+  },
+  "tooltip_background_color": {
+    "message": "Aizpild\u012bjuma kr\u0101sa"
+  },
+  "tooltip_bold": {
+    "message": "Treknraksts"
+  },
+  "tooltip_border": {
+    "message": "Apmales"
+  },
+  "tooltip_border_all": {
+    "message": "Visas apmales"
+  },
+  "tooltip_border_bottom": {
+    "message": "Apak\u0161\u0113j\u0101s apmales"
+  },
+  "tooltip_border_horizontal": {
+    "message": "Horizont\u0101l\u0101s apmales"
+  },
+  "tooltip_border_inner": {
+    "message": "Iek\u0161\u0113j\u0101s apmales"
+  },
+  "tooltip_border_left": {
+    "message": "Kreis\u0101s apmales"
+  },
+  "tooltip_border_none": {
+    "message": "Bez apmal\u0113m"
+  },
+  "tooltip_border_outer": {
+    "message": "\u0100r\u0113j\u0101s apmales"
+  },
+  "tooltip_border_right": {
+    "message": "Lab\u0101s apmales"
+  },
+  "tooltip_border_top": {
+    "message": "Aug\u0161\u0113j\u0101s apmales"
+  },
+  "tooltip_border_vertical": {
+    "message": "Vertik\u0101l\u0101s apmales"
+  },
+  "tooltip_cell_align": {
+    "message": "\u0160\u016bnu izl\u012bdzin\u0101\u0161ana"
+  },
+  "tooltip_cell_h_align_center": {
+    "message": "Horizont\u0101ls l\u012bdzin\u0101jums centr\u0101"
+  },
+  "tooltip_cell_h_align_left": {
+    "message": "Horizont\u0101ls l\u012bdzin\u0101jums pa kreisi"
+  },
+  "tooltip_cell_h_align_right": {
+    "message": "Horizont\u0101ls l\u012bdzin\u0101jums pa labi"
+  },
+  "tooltip_cell_v_align_bottom": {
+    "message": "Vertik\u0101ls l\u012bdzin\u0101jums apak\u0161da\u013c\u0101"
+  },
+  "tooltip_cell_v_align_center": {
+    "message": "Vertik\u0101ls l\u012bdzin\u0101jums centr\u0101"
+  },
+  "tooltip_cell_v_align_top": {
+    "message": "Vertik\u0101ls l\u012bdzin\u0101jums aug\u0161da\u013c\u0101"
+  },
+  "tooltip_download": {
+    "message": "Lejupiel\u0101d\u0113t"
+  },
+  "tooltip_download_original": {
+    "message": "Lejupiel\u0101d\u0113t ori\u0123in\u0101lu"
+  },
+  "tooltip_dropdown_init_add_shape": {
+    "message": "Forma"
+  },
+  "tooltip_fill_color": {
+    "message": "Teksta kr\u0101sa"
+  },
+  "tooltip_font_face": {
+    "message": "Fonts"
+  },
+  "tooltip_font_size": {
+    "message": "Fonta lielums"
+  },
+  "tooltip_highlight_color": {
+    "message": "Izc\u0113luma kr\u0101sa"
+  },
+  "tooltip_init_add_shape": {
+    "message": "Tekstlodzi\u0146\u0161"
+  },
+  "tooltip_italic": {
+    "message": "Sl\u012bpraksts"
+  },
+  "tooltip_merge": {
+    "message": "Sapludin\u0101t \u0161\u016bnas"
+  },
+  "tooltip_merge_dropdown": {
+    "message": "Atlasiet sapludin\u0101\u0161anas veidu\u2026"
+  },
+  "tooltip_modify_shape_fill_color": {
+    "message": "Aizpild\u012bjuma kr\u0101sa"
+  },
+  "tooltip_modify_shape_outline_color": {
+    "message": "L\u012bnijas kr\u0101sa"
+  },
+  "tooltip_modify_shape_outline_style": {
+    "message": "P\u0101rtraukta l\u012bnija"
+  },
+  "tooltip_modify_shape_outline_width": {
+    "message": "L\u012bnijas biezums"
+  },
+  "tooltip_move_slide": {
+    "message": "P\u0101rvietojiet $1\u00a0slaidu(-s)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "tooltip_point": {
+    "message": "Lietotnes Prezent\u0101cijas s\u0101kums"
+  },
+  "tooltip_point_toggle_bullet": {
+    "message": "Saraksts ar aizz\u012bm\u0113m"
+  },
+  "tooltip_point_toggle_number": {
+    "message": "Numur\u0113ts saraksts"
+  },
+  "tooltip_presentation": {
+    "message": "Prezent\u0101cija"
+  },
+  "tooltip_print": {
+    "message": "Druk\u0101t"
+  },
+  "tooltip_redo": {
+    "message": "Atcelt atsauk\u0161anu"
+  },
+  "tooltip_share": {
+    "message": "Kop\u012bgot"
+  },
+  "tooltip_share_for_macroenabledfiles": {
+    "message": "Failus ar iesp\u0113jotiem makro var kop\u012bgot tikai no Google\u00a0diska."
+  },
+  "tooltip_sheet": {
+    "message": "Lietotnes Izkl\u0101jlapas s\u0101kums"
+  },
+  "tooltip_strikethrough": {
+    "message": "P\u0101rsv\u012btrojums"
+  },
+  "tooltip_style": {
+    "message": "Stili"
+  },
+  "tooltip_text_align_center": {
+    "message": "Centr\u0113t"
+  },
+  "tooltip_text_align_justify": {
+    "message": "L\u012bdzin\u0101t"
+  },
+  "tooltip_text_align_left": {
+    "message": "Izl\u012bdzin\u0101t pa kreisi"
+  },
+  "tooltip_text_align_right": {
+    "message": "Izl\u012bdzin\u0101t pa labi"
+  },
+  "tooltip_text_color": {
+    "message": "Teksta kr\u0101sa"
+  },
+  "tooltip_toggle_bulleted": {
+    "message": "Saraksts ar aizz\u012bm\u0113m"
+  },
+  "tooltip_toggle_numbered": {
+    "message": "Numur\u0113ts saraksts"
+  },
+  "tooltip_toggle_zoom": {
+    "message": "P\u0101rsl\u0113gt t\u0101lummai\u0146u"
+  },
+  "tooltip_underline": {
+    "message": "Pasv\u012btrojums"
+  },
+  "tooltip_undo": {
+    "message": "Atsaukt"
+  },
+  "tooltip_word": {
+    "message": "Lietotnes Dokumenti s\u0101kums"
+  },
+  "tooltip_wrap_text": {
+    "message": "Aplauzt tekstu"
+  },
+  "tooltip_zoom_in": {
+    "message": "Tuvin\u0101t"
+  },
+  "tooltip_zoom_out": {
+    "message": "T\u0101lin\u0101t"
+  },
+  "try_again": {
+    "message": "M\u0113\u0123in\u0101t v\u0113lreiz"
+  },
+  "unable_to_execute_msg": {
+    "message": "Nevar atv\u0113rt \u0161o dokumentu."
+  },
+  "underline_aria_spoken_word": {
+    "message": "pasv\u012btrojums"
+  },
+  "undo_aria_spoken_word": {
+    "message": "atsaukt"
+  },
+  "unmerge_aria_spoken_word": {
+    "message": "no\u0146emt sapludin\u0101\u0161anu"
+  },
+  "unsaved_changes": {
+    "message": "Nesaglab\u0101tas izmai\u0146as"
+  },
+  "unsaved_changes_warning": {
+    "message": "\u0160aj\u0101 fail\u0101 ir nesaglab\u0101tas izmai\u0146as. Ja iziesiet no lapas un nesaglab\u0101siet izmai\u0146as, j\u016bsu darbs tiks neatgriezeniski zaud\u0113ts."
+  },
+  "unsupported_file_format_error_details_p1": {
+    "message": "Diem\u017e\u0113l \u0161aj\u0101 fail\u0101 ir ietverts programmat\u016br\u0101 Microsoft\u00ae Office\u00a095 vai vec\u0101k\u0101 versij\u0101 veidots saturs, ko nevar atv\u0113rt."
+  },
+  "unsupported_file_format_error_details_p2": {
+    "message": "Ja v\u0113laties konvert\u0113t failu uz Google\u00a0dokumentiem, noklik\u0161\u0137iniet uz t\u0101l\u0101k eso\u0161\u0101s saites."
+  },
+  "unsupported_file_format_error_title": {
+    "message": "Ak, vai!"
+  },
+  "unsupported_link_message": {
+    "message": "Diem\u017e\u0113l pa\u0161laik netiek atbalst\u012bti \u0161\u0101da veida\u00a0URL."
+  },
+  "up_key": {
+    "message": "Aug\u0161up"
+  },
+  "updated_shortcut_message": {
+    "message": "Tika atjaunin\u0101tas tastat\u016bras \u012bsin\u0101jumtausti\u0146us kombin\u0101cijas\u00a0\u2014 to lietojums tika vien\u0101dots visos Google\u00a0dokumentu produktos. Pla\u0161\u0101ka inform\u0101cija par atjaunin\u0101taj\u0101m \u012bsin\u0101jumtausti\u0146u kombin\u0101cij\u0101m pieejama sada\u013c\u0101 Pal\u012bdz\u012bba."
+  },
+  "updated_shortcut_title": {
+    "message": "Atjaunin\u0101tas tastat\u016bras \u012bsin\u0101jumtausti\u0146u kombin\u0101cijas"
+  },
+  "uploading_to_drive_for_office_editing_mode_point": {
+    "message": "Notiek aug\u0161upiel\u0101de pakalpojum\u0101 Disks un atv\u0113r\u0161ana programm\u0101 Prezent\u0101cijas"
+  },
+  "uploading_to_drive_for_office_editing_mode_sheet": {
+    "message": "Notiek aug\u0161upiel\u0101de pakalpojum\u0101 Disks un atv\u0113r\u0161ana programm\u0101 Izkl\u0101jlapas"
+  },
+  "uploading_to_drive_for_office_editing_mode_word": {
+    "message": "Notiek aug\u0161upiel\u0101de pakalpojum\u0101 Disks un atv\u0113r\u0161ana programm\u0101 Dokumenti"
+  },
+  "uploading_to_drive_msg_for_point": {
+    "message": "Notiek \u0161\u012b faila aug\u0161upiel\u0101de pakalpojum\u0101 Disks un atv\u0113r\u0161ana programm\u0101 Google prezent\u0101cijas."
+  },
+  "uploading_to_drive_msg_for_sheet": {
+    "message": "Notiek \u0161\u012b faila aug\u0161upiel\u0101de pakalpojum\u0101 Disks un atv\u0113r\u0161ana programm\u0101 Google izkl\u0101jlapas."
+  },
+  "uploading_to_drive_msg_for_word": {
+    "message": "Notiek \u0161\u012b faila aug\u0161upiel\u0101de pakalpojum\u0101 Disks un atv\u0113r\u0161ana programm\u0101 Google dokumenti."
+  },
+  "version_info_msg": {
+    "message": "J\u016bsu Office savietojam\u012bbas re\u017e\u012bma versija ir"
+  },
+  "word_binary_upsave_learnmore": {
+    "message": "Uzziniet vair\u0101k"
+  },
+  "word_binary_upsave_msg": {
+    "message": "\u0160is faila form\u0101ts netiek atbalst\u012bts. Lai var\u0113tu saglab\u0101t failu, mums ir nepiecie\u0161ama j\u016bsu at\u013cauja t\u0101 p\u0101rv\u0113r\u0161anai jaun\u0101k\u0101 faila form\u0101t\u0101. S\u0101kotn\u0113jais fails netiks ietekm\u0113ts."
+  },
+  "word_binary_upsave_shortmsg": {
+    "message": "Dokumenta atjaunin\u0101\u0161ana"
+  },
+  "word_count_label": {
+    "message": "V\u0101rdi"
+  },
+  "word_count_title": {
+    "message": "V\u0101rdu skaits"
+  },
+  "word_ocm_promo_conversion_msg": {
+    "message": "Varat redi\u0123\u0113t un saglab\u0101t Office failus tie\u0161i pakalpojum\u0101 Dokumenti. Lai uzaicin\u0101tu citus lietot\u0101jus redi\u0123\u0113t vai pievienot koment\u0101rus, saglab\u0101jiet tos k\u0101 Google dokumentu form\u0101t\u0101. Jebkur\u0101 br\u012bd\u012b varat atkal saglab\u0101t failus s\u0101kotn\u0113j\u0101 form\u0101t\u0101."
+  },
+  "word_ocm_promo_office_editing_mode_msg": {
+    "message": "Tagad varat tie\u0161i redi\u0123\u0113t un saglab\u0101t Office failus programm\u0101 Google dokumenti. Lai uzaicin\u0101tu citus lietot\u0101jus redi\u0123\u0113t failu re\u0101llaik\u0101 vai pievienot koment\u0101rus, aug\u0161upiel\u0101d\u0113jiet \u0161o failu pakalpojum\u0101 Google disks. \u0160\u012b faila form\u0101ts netiks main\u012bts."
+  },
+  "word_share_promo_conversion_msg": {
+    "message": "Vai m\u0113\u0123in\u0101t kop\u012bgot \u0161o dokumentu? Lai uzaicin\u0101tu citas personas to redi\u0123\u0113t kop\u012bgi ar jums, p\u0101rv\u0113rtiet dokumentu par Google dokumentu."
+  },
+  "word_share_promo_office_editing_mode_msg": {
+    "message": "Tagad varat tie\u0161i redi\u0123\u0113t un saglab\u0101t Office failus programm\u0101 Google dokumenti. Lai uzaicin\u0101tu citus lietot\u0101jus redi\u0123\u0113t failu re\u0101llaik\u0101 vai pievienot koment\u0101rus, aug\u0161upiel\u0101d\u0113jiet \u0161o failu pakalpojum\u0101 Google disks. \u0160\u012b faila form\u0101ts netiks main\u012bts."
+  },
+  "working_in_basic_editor_banner_text": {
+    "message": "J\u016bs str\u0101d\u0101jat ar Microsoft failu pamata redaktoru"
+  },
+  "wraptext_aria_spoken_word": {
+    "message": "aplauzt tekstu"
+  },
+  "zoomin_aria_spoken_word": {
+    "message": "tuvin\u0101t"
+  },
+  "zoomout_aria_spoken_word": {
+    "message": "t\u0101lin\u0101t"
+  }
+}

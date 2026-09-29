@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Izinkan"
+    }, 
+    "consent_denied": {
+        "message": "Anda tidak memberikan izin kepada kami untuk memverifikasi kelayakan perangkat Chrome Anda. Cobalah untuk menukarkan penawaran lagi dan klik \"Izinkan\" agar kami dapat memverifikasi kelayakan Anda."
+    }, 
+    "deny_button_string": {
+        "message": "Tolak"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Masa berlaku penawaran ini untuk perangkat Anda telah habis."
+    }, 
+    "device_not_eligible": {
+        "message": "Perangkat Anda tidak berhak atas penawaran ini. $1Lihat penawaran yang tersedia untuk perangkat Anda$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Penawaran ini tidak tersedia untuk model perangkat Chrome khusus Anda."
+    }, 
+    "dismiss_button_string": {
+        "message": "Tutup"
+    }, 
+    "dismiss_info_string": {
+        "message": "Administrator TI Anda telah menonaktifkan Chrome Goodies untuk perangkat Anda."
+    }, 
+    "error_no_regcode": {
+        "message": "Tampaknya perangkat Anda tidak memiliki kode penawaran. Hubungi $1dukungan Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Upaya Anda untuk menukarkan penawaran ini tampaknya berasal dari situs web yang tidak terdaftar."
+    }, 
+    "generic_error_message": {
+        "message": "Kami tidak dapat menukarkan penawaran Anda saat ini. Kami juga bingung. Periksa lagi nanti."
+    }, 
+    "info_string": {
+        "message": "Pelajari Selengkapnya"
+    }, 
+    "learn_more": {
+        "message": "$1Pelajari lebih lanjut$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Anda hanya dapat menukarkan penawaran ini satu kali per perangkat dan penawaran sudah ditukarkan. Seseorang mungkin telah masuk ke perangkat ini dan menukarkan penawaran. Atau, jika Anda membeli perangkat ini sebagai barang bekas, pemilik sebelumnya mungkin telah menukarkannya. Sayangnya, kami tidak dapat mentransfer penawaran ke akun lain dan kami tidak dapat memperbarui penawaran pada perangkat yang sudah pernah dipakai."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Tidak dapat menukarkan penawaran. Mungkin Anda menggunakan jendela Penyamaran atau masuk ke mode Tamu yang tidak dapat digunakan untuk menukarkan penawaran. Gunakan jendela reguler dan pastikan Anda tidak masuk sebagai Tamu."
+    }, 
+    "notification_button": {
+        "message": "Tukarkan - sisa $1 hari", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Tukarkan sebelum terlambat"
+    }, 
+    "notification_title": {
+        "message": "Dapatkan pernak-pernik untuk perangkat Chrome"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Kode yang Anda terima dari dukungan Chrome OS sedang digunakan untuk menukarkan penawaran yang salah. Hubungi $1dukungan Chrome OS$2 lagi.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 ingin memverifikasi bahwa Anda menggunakan perangkat Chrome OS yang memenuhi syarat.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Kode registrasi di perangkat Anda tidak valid."
+    }, 
+    "sorry_about_that": {
+        "message": "Mohon maaf mengenai hal ini"
+    }
+}

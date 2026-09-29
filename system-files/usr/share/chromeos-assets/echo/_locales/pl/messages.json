@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Zezw\u00f3l"
+    }, 
+    "consent_denied": {
+        "message": "Nie pozwalasz nam zweryfikowa\u0107, czy Twoje urz\u0105dzenie z Chrome spe\u0142nia odpowiednie kryteria. Aby nam to umo\u017cliwi\u0107, spr\u00f3buj ponownie wykorzysta\u0107 ofert\u0119 i kliknij \u201ePozw\u00f3l\u201d."
+    }, 
+    "deny_button_string": {
+        "message": "Odm\u00f3w"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Ta oferta nie jest ju\u017c wa\u017cna na Twoim urz\u0105dzeniu."
+    }, 
+    "device_not_eligible": {
+        "message": "Nie mo\u017cesz skorzysta\u0107 z tej oferty na tym urz\u0105dzeniu. $1Zobacz oferty, kt\u00f3re s\u0105 na nim dost\u0119pne$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Ta oferta nie jest dost\u0119pna dla tego modelu urz\u0105dzenia z Chrome."
+    }, 
+    "dismiss_button_string": {
+        "message": "Zamknij"
+    }, 
+    "dismiss_info_string": {
+        "message": "Tw\u00f3j administrator IT wy\u0142\u0105czy\u0142 mo\u017cliwo\u015b\u0107 korzystania z bonus\u00f3w Chrome na tym urz\u0105dzeniu."
+    }, 
+    "error_no_regcode": {
+        "message": "Wygl\u0105da na to, \u017ce na Twoim urz\u0105dzeniu nie ma kodu oferty. Skontaktuj si\u0119 z $1zespo\u0142em pomocy do Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Wygl\u0105da na to, \u017ce pr\u00f3bujesz skorzysta\u0107 z oferty w niezarejestrowanej witrynie."
+    }, 
+    "generic_error_message": {
+        "message": "Z jakiego\u015b powodu nie mo\u017cemy w tej chwili zrealizowa\u0107 tej oferty. Nas te\u017c to zdziwi\u0142o. Spr\u00f3buj ponownie p\u00f3\u017aniej."
+    }, 
+    "info_string": {
+        "message": "Wi\u0119cej informacji"
+    }, 
+    "learn_more": {
+        "message": "$1Wi\u0119cej informacji$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Z tej oferty mo\u017cna skorzysta\u0107 tylko raz na jednym urz\u0105dzeniu i kto\u015b ju\u017c to zrobi\u0142 \u2013 mo\u017ce inny u\u017cytkownik tego urz\u0105dzenia albo jego poprzedni w\u0142a\u015bciciel, je\u015bli kupi\u0142e\u015b urz\u0105dzenie u\u017cywane. Nie mo\u017cemy przenosi\u0107 ofert na inne konta ani odnawia\u0107 ofert na urz\u0105dzeniach z drugiej r\u0119ki."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Nie mo\u017cna zrealizowa\u0107 oferty \u2013 by\u0107 mo\u017ce dlatego, \u017ce u\u017cywasz okna incognito lub trybu go\u015bcia. Otw\u00f3rz normalne okno i nie loguj si\u0119 jako go\u015b\u0107."
+    }, 
+    "notification_button": {
+        "message": "Wykorzystaj \u2013 masz na to jeszcze $1 dni", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Wykorzystaj te oferty, zanim b\u0119dzie za p\u00f3\u017ano"
+    }, 
+    "notification_title": {
+        "message": "Pobierz bonusy na swoje urz\u0105dzenie z Chrome"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "U\u017cywasz kodu otrzymanego od zespo\u0142u pomocy do Chrome OS, by wykorzysta\u0107 nieodpowiedni\u0105 ofert\u0119. Jeszcze raz skontaktuj si\u0119 z $1tym zespo\u0142em$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 chce zweryfikowa\u0107, czy u\u017cywasz odpowiedniego urz\u0105dzenia z systemem operacyjnym Chrome.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Kod rejestracyjny na urz\u0105dzeniu jest nieprawid\u0142owy."
+    }, 
+    "sorry_about_that": {
+        "message": "Przepraszamy"
+    }
+}

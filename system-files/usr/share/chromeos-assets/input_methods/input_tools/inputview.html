@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<meta charset="UTF-8" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<title>Chrome OS Virtual Keyboard</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="cros_stylesheet.css">
+<!-- LINT.IfChange -->
+<link rel="stylesheet" href="chrome://theme/colors.css?sets=legacy">
+<!-- LINT.ThenChange(//depot/google3/chrome/inputs/vk/ui/components/longform/longform_client.ts) -->
+<script src="chos_background.js"></script>
+<script src="static_version.js"></script>
+<script src="init_chromeos.js"></script>
+<body>
+  <div class="keyboards-container">
+    <div class="keyboards"><div aria-live="polite" id="ChromeVoxUpdateRegion" style="z-index: -2; position:absolute; color: transparent"></div></div>
+  </div>
+</body>

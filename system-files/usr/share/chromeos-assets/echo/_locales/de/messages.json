@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Zulassen"
+    }, 
+    "consent_denied": {
+        "message": "Sie haben uns nicht gestattet, die Anspruchsberechtigung Ihres Chrome-Ger\u00e4ts f\u00fcr dieses Angebot zu pr\u00fcfen. Bitte versuchen Sie, das Angebot erneut einzul\u00f6sen, und klicken Sie auf \"Zulassen\", damit wir Ihre Anspruchsberechtigung pr\u00fcfen k\u00f6nnen."
+    }, 
+    "deny_button_string": {
+        "message": "Ablehnen"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Dieses Angebot ist f\u00fcr Ihr Ger\u00e4t abgelaufen."
+    }, 
+    "device_not_eligible": {
+        "message": "Dieses Angebot gilt nicht f\u00fcr Ihr Ger\u00e4t. $1Verf\u00fcgbare Angebote f\u00fcr Ihr Ger\u00e4t ansehen$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Dieses Angebot ist f\u00fcr Ihr bestimmtes Chrome-Ger\u00e4temodell nicht verf\u00fcgbar."
+    }, 
+    "dismiss_button_string": {
+        "message": "Schlie\u00dfen"
+    }, 
+    "dismiss_info_string": {
+        "message": "Ihr IT-Administrator hat Chrome-Extras f\u00fcr Ihr Ger\u00e4t deaktiviert."
+    }, 
+    "error_no_regcode": {
+        "message": "Ihr Ger\u00e4t enth\u00e4lt offenbar keinen Angebotscode. Bitte wenden Sie sich an den $1Chrome OS-Support$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Ihr Versuch, dieses Angebot einzul\u00f6sen, ist offenbar \u00fcber eine nicht registrierte Website erfolgt."
+    }, 
+    "generic_error_message": {
+        "message": "Aus irgendeinem Grund k\u00f6nnen wir Ihr Angebot zurzeit nicht einl\u00f6sen. Bitte versuchen Sie es sp\u00e4ter erneut."
+    }, 
+    "info_string": {
+        "message": "Weitere Informationen"
+    }, 
+    "learn_more": {
+        "message": "$1Weitere Informationen$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Dieses Angebot kann nur einmal pro Ger\u00e4t eingel\u00f6st werden und die Einl\u00f6sung ist bereits erfolgt. M\u00f6glicherweise hat sich eine andere Person auf dem Ger\u00e4t angemeldet und ist Ihnen zuvorgekommen. Wenn die Verpackung des Ger\u00e4ts nicht mehr versiegelt war, hat der Vorbesitzer das Angebot m\u00f6glicherweise bereits eingel\u00f6st. Leider k\u00f6nnen Angebote nicht auf andere Konten \u00fcbertragen oder im Falle von Ger\u00e4ten mit bereits ge\u00f6ffneter Verpackung nicht erneuert werden."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Das Angebot kann nicht eingel\u00f6st werden. M\u00f6glicherweise verwenden Sie ein Inkognito-Fenster oder sind als Gast angemeldet. Verwenden Sie ein regul\u00e4res Fenster und stellen Sie sicher, dass Sie nicht als Gast angemeldet sind."
+    }, 
+    "notification_button": {
+        "message": "Einl\u00f6sen \u2013 noch $1 Tage", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "L\u00f6sen Sie das Angebot ein, bevor es zu sp\u00e4t ist!"
+    }, 
+    "notification_title": {
+        "message": "Extras f\u00fcr Chrome-Ger\u00e4t"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Der Code, den Sie vom Chrome OS-Support erhalten haben, wurde zum Einl\u00f6sen des falschen Angebots verwendet. Bitte wenden Sie sich erneut an den $1Chrome OS-Support$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 m\u00f6chte verifizieren, dass Sie ein unterst\u00fctztes Chrome OS-Ger\u00e4t verwenden.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Der Registrierungscode auf Ihrem Ger\u00e4t ist ung\u00fcltig."
+    }, 
+    "sorry_about_that": {
+        "message": "Tut uns leid!"
+    }
+}

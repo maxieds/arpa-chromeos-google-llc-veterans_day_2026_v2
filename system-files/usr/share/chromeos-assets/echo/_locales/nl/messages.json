@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Toestaan"
+    }, 
+    "consent_denied": {
+        "message": "Je hebt geen toestemming gegeven om de geschiktheid van je Chrome-apparaat te controleren. Probeer de aanbieding opnieuw in te wisselen en klik op 'Toestaan' om ons te laten controleren of je hiervoor in aanmerking komt."
+    }, 
+    "deny_button_string": {
+        "message": "Weigeren"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Deze aanbieding is verlopen voor je apparaat."
+    }, 
+    "device_not_eligible": {
+        "message": "Je apparaat komt niet in aanmerking voor deze aanbieding. $1Beschikbare aanbiedingen voor je apparaat bekijken$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Deze aanbieding is niet beschikbaar voor je specifieke Chrome-apparaatmodel."
+    }, 
+    "dismiss_button_string": {
+        "message": "Sluiten"
+    }, 
+    "dismiss_info_string": {
+        "message": "Je IT-beheerder heeft Chrome Goodies uitgeschakeld voor je apparaat."
+    }, 
+    "error_no_regcode": {
+        "message": "Je apparaat lijkt geen aanbiedingscode te bevatten. Neem contact op met $1Chrome OS-ondersteuning$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Je poging om deze aanbieding in te wisselen, lijkt afkomstig te zijn van een niet-geregistreerde website."
+    }, 
+    "generic_error_message": {
+        "message": "We kunnen je aanbieding om onbekende reden niet inwisselen. Probeer het later opnieuw."
+    }, 
+    "info_string": {
+        "message": "Meer informatie"
+    }, 
+    "learn_more": {
+        "message": "$1Meer informatie$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Je kunt deze aanbieding maar \u00e9\u00e9n keer per apparaat inwisselen, en dat is al gebeurd op dit apparaat. Misschien heeft iemand anders op dit apparaat ingelogd en is die je voor geweest. Als je dit apparaat niet nieuw en in een gesloten verpakking hebt gekocht, heeft een eerdere eigenaar de aanbieding misschien ingewisseld. We kunnen aanbiedingen helaas niet overzetten naar andere accounts en we kunnen aanbiedingen niet vernieuwen voor nieuwe apparaateigenaren."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Kan aanbieding niet inwisselen. Misschien gebruik je een incognitovenster of ben je ingelogd bij de gastmodus, waarin aanbiedingen niet kunnen worden ingewisseld. Gebruik een gewoon browservenster en zorg ervoor dat je niet als gast bent ingelogd."
+    }, 
+    "notification_button": {
+        "message": "Inwisselen - nog $1 dagen resterend", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Wissel je aanbieding in voordat het te laat is"
+    }, 
+    "notification_title": {
+        "message": "Extra's voor je Chrome-apparaat"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "De code die je hebt ontvangen van het ondersteuningsteam voor Chrome OS, wordt gebruikt om de verkeerde aanbieding in te wisselen. Neem opnieuw contact op met het $1ondersteuningsteam voor Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 wil controleren of je een geschikt Chrome OS-apparaat gebruikt.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "De registratiecode op je apparaat is ongeldig."
+    }, 
+    "sorry_about_that": {
+        "message": "Onze excuses"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "manifest_version": 1,
+    "ec_version": "tentacruel-15194.200.0",
+    "component_list": [
+        {
+            "component_type": "charger",
+            "component_name": "richtek,rt9490",
+            "i2c": {
+                "port": 0,
+                "addr": "0x53"
+            }
+        },
+        {
+            "component_type": "bc12",
+            "component_name": "pericom,pi3usb9201",
+            "i2c": {
+                "port": 2,
+                "addr": "0x5f"
+            }
+        },
+        {
+            "component_type": "ppc",
+            "component_name": "richtek,rt1739-bc12",
+            "i2c": {
+                "port": 2,
+                "addr": "0x70"
+            }
+        },
+        {
+            "component_type": "ppc",
+            "component_name": "silergy,syv682x",
+            "i2c": {
+                "port": 2,
+                "addr": "0x40"
+            }
+        },
+        {
+            "component_type": "bc12",
+            "component_name": "richtek,rt9490",
+            "i2c": {
+                "port": 0,
+                "addr": "0x53"
+            },
+            "usbc": {
+                "port": 1
+            }
+        },
+        {
+            "component_type": "ppc",
+            "component_name": "silergy,syv682x",
+            "i2c": {
+                "port": 4,
+                "addr": "0x40"
+            },
+            "usbc": {
+                "port": 1
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "cros-ec,lis2dw12",
+            "i2c": {
+                "port": 3,
+                "addr": "0x19"
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "cros-ec,icm42607",
+            "i2c": {
+                "port": 3,
+                "addr": "0x68"
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "cros-ec,bma4xx",
+            "i2c": {
+                "port": 3,
+                "addr": "0x19"
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "cros-ec,bmi3xx",
+            "i2c": {
+                "port": 3,
+                "addr": "0x68"
+            }
+        }
+    ]
+}

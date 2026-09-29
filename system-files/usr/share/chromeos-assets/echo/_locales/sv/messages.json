@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Till\u00e5t"
+    }, 
+    "consent_denied": {
+        "message": "Du har inte gett oss till\u00e5telse att verifiera att erbjudandet g\u00e4ller f\u00f6r din Chrome-enhet. Testa att l\u00f6sa in erbjudandet igen och klicka p\u00e5 Till\u00e5t s\u00e5 att vi kan verifiera enheten."
+    }, 
+    "deny_button_string": {
+        "message": "Neka"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Det h\u00e4r erbjudandet har upph\u00f6rt att g\u00e4lla f\u00f6r enheten."
+    }, 
+    "device_not_eligible": {
+        "message": "Det h\u00e4r erbjudandet g\u00e4ller inte f\u00f6r enheten. $1Visa erbjudanden som \u00e4r tillg\u00e4ngliga f\u00f6r enheten$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Det h\u00e4r erbjudandet g\u00e4ller inte f\u00f6r den Chrome-enhetsmodell du har."
+    }, 
+    "dismiss_button_string": {
+        "message": "St\u00e4ng"
+    }, 
+    "dismiss_info_string": {
+        "message": "IT-administrat\u00f6ren har inaktiverat Godbitar fr\u00e5n Chrome f\u00f6r din enhet."
+    }, 
+    "error_no_regcode": {
+        "message": "Enheten verkar inte ha n\u00e5gon erbjudandekod. Kontakta $1supporten f\u00f6r Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "F\u00f6rs\u00f6ket att l\u00f6sa in erbjudandet verkar komma fr\u00e5n en oregistrerad webbplats."
+    }, 
+    "generic_error_message": {
+        "message": "Av n\u00e5gon anledning g\u00e5r det inte att l\u00f6sa in erbjudandet just nu. Vi vet inte heller vad det beror p\u00e5. F\u00f6rs\u00f6k igen senare."
+    }, 
+    "info_string": {
+        "message": "L\u00e4s mer"
+    }, 
+    "learn_more": {
+        "message": "$1L\u00e4s mer$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Erbjudandet kan endast l\u00f6sas in en g\u00e5ng per enhet och det h\u00e4r erbjudandet har redan l\u00f6sts in. En annan person som anv\u00e4nder enheten kanske har loggat in och hunnit f\u00f6re dig. Om du k\u00f6pte enheten i andra hand kan den tidigare \u00e4garen ha anv\u00e4nt den. Tyv\u00e4rr g\u00e5r det inte att f\u00f6ra \u00f6ver erbjudanden till andra konton och vi kan inte f\u00f6rnya erbjudanden p\u00e5 andrahandsenheter."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Det g\u00e5r inte att l\u00f6sa in erbjudandet. Det kan bero p\u00e5 att du anv\u00e4nder ett inkognitof\u00f6nster eller \u00e4r inloggad som g\u00e4st. Anv\u00e4nd ett vanligt f\u00f6nster eller kontrollera att du inte \u00e4r inloggad som g\u00e4st."
+    }, 
+    "notification_button": {
+        "message": "L\u00f6s in \u2013 $1 dagar kvar", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "L\u00f6s in dina erbjudanden innan det \u00e4r f\u00f6r sent"
+    }, 
+    "notification_title": {
+        "message": "F\u00e5 godbitar f\u00f6r Chrome-enheten"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Du f\u00f6rs\u00f6ker anv\u00e4nda koden fr\u00e5n supporten f\u00f6r Chrome OS p\u00e5 fel erbjudande. Kontakta $1supporten f\u00f6r Chrome OS$2 igen.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 vill verifiera att du anv\u00e4nder en godk\u00e4nd Chrome OS-enhet.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Registreringskoden p\u00e5 enheten \u00e4r ogiltig."
+    }, 
+    "sorry_about_that": {
+        "message": "Vi ber om urs\u00e4kt f\u00f6r detta"
+    }
+}

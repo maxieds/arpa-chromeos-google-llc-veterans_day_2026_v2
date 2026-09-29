@@ -1,0 +1,2333 @@
+{
+  "action_create_user_feedback": {
+    "message": "Rapportera ett problem"
+  },
+  "alt_key": {
+    "message": "Alt"
+  },
+  "always_use_office_editing_mode": {
+    "message": "G\u00f6r alltid detta f\u00f6r Office-filer fr\u00e5n Drive och Gmail som st\u00f6ds"
+  },
+  "app_error_learn_more": {
+    "message": "L\u00e4s mer"
+  },
+  "app_error_report_feedback": {
+    "message": "Ge feedback"
+  },
+  "app_icon_aria_spoken_word": {
+    "message": " \u2013 startsida"
+  },
+  "app_nacl_crash_msg": {
+    "message": "Hj\u00e4lp oss genom att rapportera problemet."
+  },
+  "app_nacl_crash_report": {
+    "message": "Rapportera ett problem ..."
+  },
+  "app_nacl_crash_title": {
+    "message": "Aj. Det var inte s\u00e5 d\u00e4r det var t\u00e4nkt. \u00c5terst\u00e4ll \u00e4ndringarna genom att l\u00e4sa in sidan p\u00e5 nytt."
+  },
+  "app_nacl_error_load_failed": {
+    "message": "Det gick inte att \u00f6ppna filen. St\u00e4ng andra flikar i Chrome eller starta om Chrome och f\u00f6rs\u00f6k sedan igen. Om problemet kvarst\u00e5r rapporterar du det nedan."
+  },
+  "app_nacl_error_title": {
+    "message": "Det g\u00e5r inte att \u00f6ppna filen."
+  },
+  "app_nacl_error_unsupported_device": {
+    "message": "Enheten st\u00f6der inte Chrome-till\u00e4gget Redigering av Office-filer i Dokument, Kalkylark och Presentationer."
+  },
+  "app_saving_failed_error_msg": {
+    "message": "Det gick inte att spara filen. Testa att spara igen. Om problemet kvarst\u00e5r rapporterar du det nedan."
+  },
+  "app_saving_failed_error_short_msg": {
+    "message": "Det g\u00e5r inte att spara filen."
+  },
+  "backgroundcolor_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r cellers bakgrundsf\u00e4rg"
+  },
+  "banner_dismiss": {
+    "message": "Ignorera"
+  },
+  "basic_editor_conversion_shortmsg": {
+    "message": "Du anv\u00e4nder det grundl\u00e4ggande redigeringsl\u00e4get"
+  },
+  "basic_editor_mode": {
+    "message": "Grundl\u00e4ggande redigering"
+  },
+  "basic_editor_promo_conversion_msg": {
+    "message": "Du anv\u00e4nder det grundl\u00e4ggande redigeringsl\u00e4get f\u00f6r Microsoft-filer. Redigeringsalternativen kan vara begr\u00e4nsade. Filen sparas automatiskt under redigering."
+  },
+  "bold_aria_spoken_word": {
+    "message": "fet"
+  },
+  "border_all_aria_spoken_word": {
+    "message": "alla kantlinjer"
+  },
+  "border_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r kantlinje"
+  },
+  "border_bottom_aria_spoken_word": {
+    "message": "nedre kantlinje"
+  },
+  "border_horizontal_aria_spoken_word": {
+    "message": "v\u00e5gr\u00e4t kantlinje"
+  },
+  "border_inner_aria_spoken_word": {
+    "message": "inre kantlinje"
+  },
+  "border_left_aria_spoken_word": {
+    "message": "v\u00e4nster kantlinje"
+  },
+  "border_none_aria_spoken_word": {
+    "message": "ingen kant"
+  },
+  "border_outer_aria_spoken_word": {
+    "message": "yttre kantlinje"
+  },
+  "border_right_aria_spoken_word": {
+    "message": "h\u00f6ger kantlinje"
+  },
+  "border_top_aria_spoken_word": {
+    "message": "\u00f6vre kantlinje"
+  },
+  "border_vertical_aria_spoken_word": {
+    "message": "lodr\u00e4t kantlinje"
+  },
+  "button_drive_promo_office_editing_mode_point": {
+    "message": "\u00d6ppna i Google Presentationer"
+  },
+  "button_drive_promo_office_editing_mode_sheet": {
+    "message": "\u00d6ppna i Google Kalkylark"
+  },
+  "button_drive_promo_office_editing_mode_word": {
+    "message": "\u00d6ppna i Google Dokument"
+  },
+  "button_ocm_convert_cancel": {
+    "message": "Avbryt"
+  },
+  "button_ocm_oem_cancel": {
+    "message": "Avbryt"
+  },
+  "button_ocm_promo_conversion_point": {
+    "message": "Spara i Google Presentationer"
+  },
+  "button_ocm_promo_conversion_sheet": {
+    "message": "Spara i Google Kalkylark"
+  },
+  "button_ocm_promo_conversion_word": {
+    "message": "Spara i Google Dokument"
+  },
+  "button_ocm_promo_office_editing_mode_point": {
+    "message": "Ladda upp till Drive och \u00f6ppna i Presentationer"
+  },
+  "button_ocm_promo_office_editing_mode_sheet": {
+    "message": "Ladda upp till Drive och \u00f6ppna i Kalkylark"
+  },
+  "button_ocm_promo_office_editing_mode_word": {
+    "message": "Ladda upp till Drive och \u00f6ppna i Dokument"
+  },
+  "button_share_convert_cancel": {
+    "message": "Avbryt"
+  },
+  "button_share_oem_cancel": {
+    "message": "Avbryt"
+  },
+  "button_share_promo_conversion_point": {
+    "message": "Spara i Google Presentationer"
+  },
+  "button_share_promo_conversion_sheet": {
+    "message": "Spara i Google Kalkylark"
+  },
+  "button_share_promo_conversion_word": {
+    "message": "Spara i Google Dokument"
+  },
+  "button_share_promo_office_editing_mode": {
+    "message": "Ladda upp till Drive om du vill dela"
+  },
+  "cell_align_aria_spoken_word": {
+    "message": "Celljustering"
+  },
+  "cellalign_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r celljustering"
+  },
+  "cellhaligncenter_aria_spoken_word": {
+    "message": "Centrera v\u00e5gr\u00e4tt"
+  },
+  "cellhalignleft_aria_spoken_word": {
+    "message": "V\u00e4nsterjustera"
+  },
+  "cellhalignright_aria_spoken_word": {
+    "message": "H\u00f6gerjustera"
+  },
+  "cellvalignbottom_aria_spoken_word": {
+    "message": "Lodr\u00e4t underkant"
+  },
+  "cellvaligncenter_aria_spoken_word": {
+    "message": "Centrera lodr\u00e4tt"
+  },
+  "cellvaligntop_aria_spoken_word": {
+    "message": "\u00d6verkant"
+  },
+  "char_count_label": {
+    "message": "Tecken"
+  },
+  "char_no_spaces_count_label": {
+    "message": "Tecken utan blanksteg"
+  },
+  "close_dialog_aria_spoken_word": {
+    "message": "St\u00e4ng dialogrutan"
+  },
+  "cmd_dropdown_initaddshape_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r former"
+  },
+  "collapsed": {
+    "message": "Komprimerad"
+  },
+  "collapsed_menu": {
+    "message": "$1 Komprimerad med undermeny.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "color_black": {
+    "message": "Svart"
+  },
+  "color_blaze_orange": {
+    "message": "Brandgul"
+  },
+  "color_blue": {
+    "message": "Bl\u00e5"
+  },
+  "color_brown": {
+    "message": "Brun"
+  },
+  "color_cornflower_blue": {
+    "message": "Kornbl\u00e5"
+  },
+  "color_cyan": {
+    "message": "Cyanbl\u00e5"
+  },
+  "color_dark_blue": {
+    "message": "M\u00f6rkbl\u00e5"
+  },
+  "color_dark_blue_1": {
+    "message": "M\u00f6rkbl\u00e5 1"
+  },
+  "color_dark_blue_2": {
+    "message": "M\u00f6rkbl\u00e5 2"
+  },
+  "color_dark_blue_3": {
+    "message": "M\u00f6rkbl\u00e5 3"
+  },
+  "color_dark_blue_grey": {
+    "message": "M\u00f6rkt bl\u00e5gr\u00e5"
+  },
+  "color_dark_cornflower_blue_1": {
+    "message": "M\u00f6rkt kornbl\u00e5 1"
+  },
+  "color_dark_cornflower_blue_2": {
+    "message": "M\u00f6rkt kornbl\u00e5 2"
+  },
+  "color_dark_cornflower_blue_3": {
+    "message": "M\u00f6rkt kornbl\u00e5 3"
+  },
+  "color_dark_cyan": {
+    "message": "M\u00f6rkt cyanbl\u00e5"
+  },
+  "color_dark_cyan_1": {
+    "message": "M\u00f6rkt cyanbl\u00e5 1"
+  },
+  "color_dark_cyan_2": {
+    "message": "M\u00f6rkt cyanbl\u00e5 2"
+  },
+  "color_dark_cyan_3": {
+    "message": "M\u00f6rkt cyanbl\u00e5 3"
+  },
+  "color_dark_gray": {
+    "message": "M\u00f6rkgr\u00e5"
+  },
+  "color_dark_gray_1": {
+    "message": "M\u00f6rkgr\u00e5 1"
+  },
+  "color_dark_gray_2": {
+    "message": "M\u00f6rkgr\u00e5 2"
+  },
+  "color_dark_gray_3": {
+    "message": "M\u00f6rkgr\u00e5 3"
+  },
+  "color_dark_gray_4": {
+    "message": "M\u00f6rkgr\u00e5 4"
+  },
+  "color_dark_green": {
+    "message": "M\u00f6rkgr\u00f6n"
+  },
+  "color_dark_green_1": {
+    "message": "M\u00f6rkgr\u00f6n 1"
+  },
+  "color_dark_green_2": {
+    "message": "M\u00f6rkgr\u00f6n 2"
+  },
+  "color_dark_green_3": {
+    "message": "M\u00f6rkgr\u00f6n 3"
+  },
+  "color_dark_green_5": {
+    "message": "M\u00f6rkgr\u00f6n 5"
+  },
+  "color_dark_grey_2": {
+    "message": "M\u00f6rkgr\u00e5 2"
+  },
+  "color_dark_grey_5": {
+    "message": "M\u00f6rkgr\u00e5 5"
+  },
+  "color_dark_magenta_1": {
+    "message": "M\u00f6rk magenta 1"
+  },
+  "color_dark_magenta_2": {
+    "message": "M\u00f6rk magenta 2"
+  },
+  "color_dark_magenta_3": {
+    "message": "M\u00f6rk magenta 3"
+  },
+  "color_dark_olive_green": {
+    "message": "M\u00f6rkt olivgr\u00f6n"
+  },
+  "color_dark_orange_1": {
+    "message": "M\u00f6rkorange 1"
+  },
+  "color_dark_orange_2": {
+    "message": "M\u00f6rkorange 2"
+  },
+  "color_dark_orange_3": {
+    "message": "M\u00f6rkorange 3"
+  },
+  "color_dark_purple_1": {
+    "message": "M\u00f6rklila 1"
+  },
+  "color_dark_purple_2": {
+    "message": "M\u00f6rklila 2"
+  },
+  "color_dark_purple_3": {
+    "message": "M\u00f6rklila 3"
+  },
+  "color_dark_red": {
+    "message": "M\u00f6rkr\u00f6d"
+  },
+  "color_dark_red_1": {
+    "message": "M\u00f6rkr\u00f6d 1"
+  },
+  "color_dark_red_2": {
+    "message": "M\u00f6rkr\u00f6d 2"
+  },
+  "color_dark_red_3": {
+    "message": "M\u00f6rkr\u00f6d 3"
+  },
+  "color_dark_red_berry_1": {
+    "message": "M\u00f6rkr\u00f6da b\u00e4r 1"
+  },
+  "color_dark_red_berry_2": {
+    "message": "M\u00f6rkr\u00f6da b\u00e4r 2"
+  },
+  "color_dark_red_berry_3": {
+    "message": "M\u00f6rkr\u00f6da b\u00e4r 3"
+  },
+  "color_dark_slate_blue": {
+    "message": "M\u00f6rkt skifferbl\u00e5"
+  },
+  "color_dark_yellow_1": {
+    "message": "M\u00f6rkgul 1"
+  },
+  "color_dark_yellow_2": {
+    "message": "M\u00f6rkgul 2"
+  },
+  "color_dark_yellow_3": {
+    "message": "M\u00f6rkgul 3"
+  },
+  "color_deep_pink": {
+    "message": "Djuprosa"
+  },
+  "color_deep_sky_blue": {
+    "message": "Djupt himmelsbl\u00e5"
+  },
+  "color_eucalyptus_green": {
+    "message": "Eukalyptusgr\u00f6n"
+  },
+  "color_gold": {
+    "message": "Guld"
+  },
+  "color_gray": {
+    "message": "Gr\u00e5"
+  },
+  "color_green": {
+    "message": "Gr\u00f6n"
+  },
+  "color_light_blue": {
+    "message": "Ljusbl\u00e5"
+  },
+  "color_light_blue_1": {
+    "message": "Ljusbl\u00e5 1"
+  },
+  "color_light_blue_2": {
+    "message": "Ljusbl\u00e5 2"
+  },
+  "color_light_blue_3": {
+    "message": "Ljusbl\u00e5 3"
+  },
+  "color_light_cornflower_blue_1": {
+    "message": "Ljust kornbl\u00e5 1"
+  },
+  "color_light_cornflower_blue_2": {
+    "message": "Ljust kornbl\u00e5 2"
+  },
+  "color_light_cornflower_blue_3": {
+    "message": "Ljust kornbl\u00e5 3"
+  },
+  "color_light_cyan": {
+    "message": "Ljust cyanbl\u00e5"
+  },
+  "color_light_cyan_1": {
+    "message": "Ljust cyanbl\u00e5 1"
+  },
+  "color_light_cyan_2": {
+    "message": "Ljust cyanbl\u00e5 2"
+  },
+  "color_light_cyan_3": {
+    "message": "Ljust cyanbl\u00e5 3"
+  },
+  "color_light_gray": {
+    "message": "Ljusgr\u00e5"
+  },
+  "color_light_gray_1": {
+    "message": "Ljusgr\u00e5 1"
+  },
+  "color_light_gray_2": {
+    "message": "Ljusgr\u00e5 2"
+  },
+  "color_light_gray_3": {
+    "message": "Ljusgr\u00e5 3"
+  },
+  "color_light_green": {
+    "message": "Ljusgr\u00f6n"
+  },
+  "color_light_green_1": {
+    "message": "Ljusgr\u00f6n 1"
+  },
+  "color_light_green_2": {
+    "message": "Ljusgr\u00f6n 2"
+  },
+  "color_light_green_3": {
+    "message": "Ljusgr\u00f6n 3"
+  },
+  "color_light_magenta_1": {
+    "message": "Ljus magenta 1"
+  },
+  "color_light_magenta_2": {
+    "message": "Ljus magenta 2"
+  },
+  "color_light_magenta_3": {
+    "message": "Ljus magenta 3"
+  },
+  "color_light_orange_1": {
+    "message": "Ljusorange 1"
+  },
+  "color_light_orange_2": {
+    "message": "Ljusorange 2"
+  },
+  "color_light_orange_3": {
+    "message": "Ljusorange 3"
+  },
+  "color_light_purple": {
+    "message": "Ljuslila"
+  },
+  "color_light_purple_1": {
+    "message": "Ljuslila 1"
+  },
+  "color_light_purple_2": {
+    "message": "Ljuslila 2"
+  },
+  "color_light_purple_3": {
+    "message": "Ljuslila 3"
+  },
+  "color_light_red_1": {
+    "message": "Ljusr\u00f6d 1"
+  },
+  "color_light_red_2": {
+    "message": "Ljusr\u00f6d 2"
+  },
+  "color_light_red_3": {
+    "message": "Ljusr\u00f6d 3"
+  },
+  "color_light_red_berry_1": {
+    "message": "Ljusr\u00f6da b\u00e4r 1"
+  },
+  "color_light_red_berry_2": {
+    "message": "Ljusr\u00f6da b\u00e4r 2"
+  },
+  "color_light_red_berry_3": {
+    "message": "Ljusr\u00f6da b\u00e4r 3"
+  },
+  "color_light_yellow": {
+    "message": "Ljusgul"
+  },
+  "color_light_yellow_1": {
+    "message": "Ljusgul 1"
+  },
+  "color_light_yellow_2": {
+    "message": "Ljusgul 2"
+  },
+  "color_light_yellow_3": {
+    "message": "Ljusgul 3"
+  },
+  "color_magenta": {
+    "message": "Magenta"
+  },
+  "color_maroon": {
+    "message": "R\u00f6dbrun"
+  },
+  "color_midnight_blue": {
+    "message": "Midnattsbl\u00e5"
+  },
+  "color_navy": {
+    "message": "Marinbl\u00e5"
+  },
+  "color_olive": {
+    "message": "Oliv"
+  },
+  "color_orange": {
+    "message": "Orange"
+  },
+  "color_peach": {
+    "message": "Persika"
+  },
+  "color_pink": {
+    "message": "Rosa"
+  },
+  "color_pistachio": {
+    "message": "Pistasch"
+  },
+  "color_purple": {
+    "message": "Lila"
+  },
+  "color_red": {
+    "message": "R\u00f6d"
+  },
+  "color_red_berry": {
+    "message": "R\u00f6da b\u00e4r"
+  },
+  "color_royal_blue": {
+    "message": "Kungsbl\u00e5"
+  },
+  "color_teal": {
+    "message": "Bl\u00e5gr\u00f6n"
+  },
+  "color_turquiose": {
+    "message": "Turkos"
+  },
+  "color_white": {
+    "message": "Vit"
+  },
+  "color_yellow": {
+    "message": "Gul"
+  },
+  "command_key": {
+    "message": "Kommando"
+  },
+  "content_msg_merging_horizontally_across_vertical_section": {
+    "message": "N\u00e4r du sammanfogar celler v\u00e5gr\u00e4tt kan markeringen inte str\u00e4cka sig \u00f6ver en grupp celler som redan har sammanfogats lodr\u00e4tt."
+  },
+  "content_msg_merging_multiple_cells_with_text": {
+    "message": "Bara v\u00e4rdet f\u00f6r cellen \u00f6verst till v\u00e4nster sparas n\u00e4r du sammanfogar celler. Vill du forts\u00e4tta?"
+  },
+  "content_msg_merging_partially_selected_merged_cells": {
+    "message": "N\u00e4r du sammanfogar eller delar upp celler m\u00e5ste alla celler i en redan sammanfogad grupp vara markerade."
+  },
+  "content_msg_merging_vertically_across_horizontal_section": {
+    "message": "N\u00e4r du sammanfogar celler lodr\u00e4tt kan markeringen inte str\u00e4cka sig \u00f6ver en grupp celler som redan har sammanfogats v\u00e5gr\u00e4tt."
+  },
+  "content_render_error_msg": {
+    "message": "Det uppstod ett problem med dokumentets inneh\u00e5ll."
+  },
+  "context_menu_clipboard_copy": {
+    "message": "Kopiera"
+  },
+  "context_menu_delete": {
+    "message": "Ta bort"
+  },
+  "context_menu_freeze": {
+    "message": "L\u00e5s"
+  },
+  "context_menu_insert": {
+    "message": "Infoga"
+  },
+  "context_menu_sort_collation_ascending": {
+    "message": "Sortera A\u2013\u00d6"
+  },
+  "context_menu_sort_collation_descending": {
+    "message": "Sortera \u00d6\u2013A"
+  },
+  "context_menu_unfreeze": {
+    "message": "L\u00e5s upp"
+  },
+  "control_key": {
+    "message": "Control"
+  },
+  "convert_attempt_for_sheet_with_large_file_size": {
+    "message": "Filen \u00e4r f\u00f6r stor f\u00f6r att sparas som Google-kalkylark"
+  },
+  "convert_attempt_for_slide_with_large_file_size": {
+    "message": "Filen \u00e4r f\u00f6r stor f\u00f6r att sparas som Google-presentation"
+  },
+  "convert_attempt_for_word_with_large_file_size": {
+    "message": "Filen \u00e4r f\u00f6r stor f\u00f6r att sparas som Google-dokument"
+  },
+  "convert_attempt_when_offline": {
+    "message": "Du kan bara spara i  Google Dokument n\u00e4r du \u00e4r online. F\u00f6rs\u00f6k igen n\u00e4r anslutningen \u00e4r tillbaka."
+  },
+  "convert_attempt_with_invalid_creds": {
+    "message": "Du m\u00e5ste logga in p\u00e5 ditt Google-konto f\u00f6r att kunna konvertera filen."
+  },
+  "convert_cancel": {
+    "message": "Avbryt"
+  },
+  "convert_to_google_docs_failed": {
+    "message": "Det gick inte att konvertera dokumentet till Google Dokument."
+  },
+  "convert_to_google_point_fail_short_msg": {
+    "message": "Hoppsan"
+  },
+  "convert_to_google_point_short_msg": {
+    "message": "Sparar i Google Presentationer"
+  },
+  "convert_to_google_sheet_fail_short_msg": {
+    "message": "Hoppsan"
+  },
+  "convert_to_google_sheet_short_msg": {
+    "message": "Sparar i Google Kalkylark"
+  },
+  "convert_to_google_word_fail_short_msg": {
+    "message": "Hoppsan"
+  },
+  "convert_to_google_word_short_msg": {
+    "message": "Sparar i Google Dokument"
+  },
+  "convert_try_again": {
+    "message": "F\u00f6rs\u00f6k igen"
+  },
+  "converting_to_google_point_fail_msg": {
+    "message": "Det gick inte att spara filen i Google Presentationer just nu."
+  },
+  "converting_to_google_point_msg": {
+    "message": "En ny version av presentationen sparas i Google Presentationer."
+  },
+  "converting_to_google_sheet_fail_msg": {
+    "message": "Det gick inte att spara filen i Google Kalkylark just nu."
+  },
+  "converting_to_google_sheet_msg": {
+    "message": "En ny version av kalkylarket sparas i Google Kalkylark."
+  },
+  "converting_to_google_word_fail_msg": {
+    "message": "Det gick inte att spara filen i Google Dokument just nu."
+  },
+  "converting_to_google_word_msg": {
+    "message": "En ny version av dokumentet sparas i Google Dokument."
+  },
+  "copy_attempt_when_offline": {
+    "message": "Du m\u00e5ste vara online f\u00f6r att kunna spara en kopia i Google Drive. F\u00f6rs\u00f6k igen n\u00e4r du \u00e4r ansluten."
+  },
+  "copy_attempt_with_invalid_creds": {
+    "message": "Du m\u00e5ste logga in p\u00e5 ditt Google-konto f\u00f6r att kunna g\u00f6ra en kopia."
+  },
+  "disabled_share_button": {
+    "message": "Makroaktiverade filer kan bara delas fr\u00e5n Google Drive. Delning har inaktiverats."
+  },
+  "disallowed_cut_copy_paste_cmd_copy": {
+    "message": "kopiera"
+  },
+  "disallowed_cut_copy_paste_cmd_cut": {
+    "message": "klipp ut"
+  },
+  "disallowed_cut_copy_paste_cmd_paste": {
+    "message": "klistra in"
+  },
+  "disallowed_cut_copy_paste_msg": {
+    "message": "Dessa \u00e5tg\u00e4rder \u00e4r inte tillg\u00e4ngliga via Redigera- och Kontext-menyerna, men du kan anv\u00e4nda:"
+  },
+  "disallowed_cut_copy_paste_title": {
+    "message": "Kopiera och klistra in i kompatibilitetsl\u00e4get f\u00f6r Office"
+  },
+  "dismiss": {
+    "message": "St\u00e4ng"
+  },
+  "document_title_aria_spoken_word": {
+    "message": "Dokumentets titel:"
+  },
+  "down_key": {
+    "message": "Ned"
+  },
+  "download_button": {
+    "message": "Ladda ned"
+  },
+  "download_file_timeout_error_msg": {
+    "message": "Det tar l\u00e4ngre tid \u00e4n f\u00f6rv\u00e4ntat att l\u00e4sa in den h\u00e4r filen. Kontrollera n\u00e4tverksanslutningen och f\u00f6rs\u00f6k igen."
+  },
+  "download_file_timeout_error_short_msg": {
+    "message": "Det ta l\u00e4ngre tid \u00e4n f\u00f6rv\u00e4ntat att h\u00e4mta filen"
+  },
+  "download_original": {
+    "message": "Ladda ned original"
+  },
+  "drive_open_timeout_error_msg": {
+    "message": "Det verkar som om det \u00e4r problem med internetanslutningen. Kontrollera anslutningen och testa att \u00f6ppna filen p\u00e5 nytt. Om felet kvarst\u00e5r n\u00e4r du \u00e4r ansluten till internet rapporterar du problemet nedan."
+  },
+  "drive_open_timeout_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "duplicate_sheet_name_message": {
+    "message": "Ge arbetsbladet ett namn som inte anv\u00e4nds av n\u00e5got annat arbetsblad"
+  },
+  "duplicate_sheet_name_title": {
+    "message": "Det finns redan ett arbetsblad med det namnet"
+  },
+  "editing_options_limited_banner_text": {
+    "message": "Redigeringsalternativen kan vara begr\u00e4nsade. Filen sparas automatiskt under redigering."
+  },
+  "edits_not_being_saved": {
+    "message": "\u00c4ndringar sparas inte automatiskt."
+  },
+  "edits_now_being_auto_saved": {
+    "message": "Filen har sparats. Alla \u00e4ndringar sparas nu automatiskt."
+  },
+  "entry_point_error_msg": {
+    "message": "F\u00f6rs\u00f6k igen eller rapportera ett problem nedan."
+  },
+  "entry_point_error_short_msg": {
+    "message": "Det gick inte att avg\u00f6ra vilken fil du ville \u00f6ppna."
+  },
+  "error_occurred": {
+    "message": "Det har uppst\u00e5tt ett fel."
+  },
+  "error_password_required_msg": {
+    "message": "Skyddade filer st\u00f6ds inte i nul\u00e4get, men vi jobbar p\u00e5 det."
+  },
+  "error_password_required_short_msg": {
+    "message": "Filen \u00e4r l\u00f6senordsskyddad."
+  },
+  "expanded": {
+    "message": "Ut\u00f6kad"
+  },
+  "expanded_menu": {
+    "message": "$1 Ut\u00f6kad med undermeny",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "extension_cros_name": {
+    "message": "Grundl\u00e4ggande redigeringsl\u00e4ge f\u00f6r Office-filer"
+  },
+  "extension_description": {
+    "message": "Visa och redigera filer fr\u00e5n Microsoft Word, Excel och PowerPoint med Google Dokument, Kalkylark och Presentationer."
+  },
+  "extension_name": {
+    "message": "Redigering av Office-filer"
+  },
+  "extension_popup_message_body": {
+    "message": "\u00d6ppna befintliga filer genom att dra och sl\u00e4ppa dem i webbl\u00e4saren"
+  },
+  "extension_popup_new_document_header": {
+    "message": "Nytt ..."
+  },
+  "extension_popup_new_presentation_document": {
+    "message": "PowerPoint-presentation"
+  },
+  "extension_popup_new_spreadsheet_document": {
+    "message": "Excel-kalkylark"
+  },
+  "extension_popup_new_word_document": {
+    "message": "Word-dokument"
+  },
+  "feedback_textbox_editing": {
+    "message": "Det vore bra om det fanns st\u00f6d f\u00f6r att redigera text i textrutor."
+  },
+  "feedback_ui_template": {
+    "message": "1- Beskriv det aktuella problemet.\n2- Uppstod problemet n\u00e4r du f\u00f6rs\u00f6kte \u00f6ppna en fil eller redigera en fil?\n3- Uppst\u00e5r det h\u00e4r problemet alltid n\u00e4r du f\u00f6rs\u00f6ker \u00f6ppna eller redigera filer eller bara med vissa filer?\n\nOm problemet g\u00e4ller en specifik fil f\u00e5r du g\u00e4rna bifoga filen i den h\u00e4r rapporten. Det underl\u00e4ttar fels\u00f6kningen avsev\u00e4rt."
+  },
+  "file_does_not_exist_error_details": {
+    "message": "Filen finns inte. Du kanske f\u00f6rs\u00f6kte \u00f6ppna en delad l\u00e4nk eller ett dokumentbokm\u00e4rke. Testa att \u00f6ppna filen igen p\u00e5 dess ursprungliga plats."
+  },
+  "file_does_not_exist_error_title": {
+    "message": "Filen hittades inte."
+  },
+  "file_loading_spinner_label": {
+    "message": "L\u00e4ser in"
+  },
+  "file_missing_content_msg": {
+    "message": "Det uppstod ett problem n\u00e4r filens inneh\u00e5ll skulle l\u00e4sas in. Vi rekommenderar att du d\u00f6per om filen och \u00f6ppnar den igen."
+  },
+  "file_missing_content_short_msg": {
+    "message": "Dokumentet har inget inneh\u00e5ll."
+  },
+  "file_not_found_error_msg": {
+    "message": "Kontakta filens \u00e4gare och kontrollera att du har beh\u00f6righet att komma \u00e5t den. Om du har beh\u00f6righet och problemet kvarst\u00e5r rapporterar du detta nedan."
+  },
+  "file_not_found_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "file_not_found_exception": {
+    "message": "Den beg\u00e4rda filen kan tas bort, f\u00e5 nytt namn eller flyttas till en annan plats. Klicka p\u00e5 Spara nu f\u00f6r att g\u00e5 vidare."
+  },
+  "file_not_found_link_text": {
+    "message": "Om du vill ha hj\u00e4lp med flera konton l\u00e4ser du den h\u00e4r artikeln"
+  },
+  "file_not_found_msg": {
+    "message": "Den beg\u00e4rda filen verkar ha g\u00e5tt och flyttat p\u00e5 sig."
+  },
+  "file_not_found_title": {
+    "message": "Filen hittades inte."
+  },
+  "file_open_crash_error_msg": {
+    "message": "Om problemet kvarst\u00e5r rapporterar du det nedan."
+  },
+  "file_open_crash_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "file_open_error_msg": {
+    "message": "Inneh\u00e5llet i den h\u00e4r filen \u00e4r inte tillg\u00e4ngligt."
+  },
+  "file_open_error_short_msg": {
+    "message": "Filen verkar vara skadad."
+  },
+  "file_open_fail_download_link_text": {
+    "message": "Ladda ned filen"
+  },
+  "file_opened_in_incognito_mode_error_details": {
+    "message": "Till\u00e4gget f\u00f6r Office-redigering fungerar inte i inkognitol\u00e4ge. \u00d6ppna filen med ett vanligt f\u00f6nster i Chrome. Om du anv\u00e4nder g\u00e4stl\u00e4ge g\u00e5r detinte att \u00f6ppna filen. Kontrollera att filen inte \u00e4r skadad eller har en ogiltig dokumenttyp. F\u00f6rs\u00f6k sedan igen."
+  },
+  "file_opened_in_incognito_mode_error_title": {
+    "message": "Hoppsan! Inkognitol\u00e4ge st\u00f6ds inte"
+  },
+  "file_pdf_type_rename_msg": {
+    "message": "D\u00f6p om filen till $1.pdf och f\u00f6rs\u00f6k igen.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_rtf_type_rename_msg": {
+    "message": "D\u00f6p om filen till $1.rtf",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_type_unsupported_msg": {
+    "message": "Den h\u00e4r filtypen st\u00f6ds inte."
+  },
+  "fillcolor_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r teckenf\u00e4rg"
+  },
+  "fontface_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r teckensnitt"
+  },
+  "fontsize_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r teckenstorlek"
+  },
+  "forbidden_access_level_error_msg": {
+    "message": "Kontakta filens \u00e4gare och kontrollera att du har beh\u00f6righet att \u00f6ppna den. Om du har beh\u00f6righet och problemet kvarst\u00e5r rapporterar du detta nedan."
+  },
+  "forbidden_access_level_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "forbidden_app_access_error_msg": {
+    "message": "Av n\u00e5gon anledning har vi inte beh\u00f6righet att \u00f6ppna den h\u00e4r filen. Testa att \u00f6ppna filen fr\u00e5n Google Drive eller rapportera problemet nedan."
+  },
+  "forbidden_app_access_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "forbidden_app_id_error_msg": {
+    "message": "Det verkar som om Chrome-till\u00e4gget inte har konfigurerats ordentligt. Hur kan detta ske? Vi vet inte riktigt, men rapportera g\u00e4rna problemet nedan."
+  },
+  "forbidden_app_id_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "forbidden_blacklist_error_msg": {
+    "message": "Det verkar som om det h\u00e4r Chrome-till\u00e4gget har svartlistats. Detta \u00e4r helt klart ett misstag, s\u00e5 kontakta oss genom att rapportera problemet nedan."
+  },
+  "forbidden_blacklist_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "forbidden_domain_error_msg": {
+    "message": "Det verkar som om \u00e5tkomsten till den h\u00e4r filen har blockerats p\u00e5 dom\u00e4nen. Kontakta dom\u00e4nadministrat\u00f6ren eller rapportera felet nedan."
+  },
+  "forbidden_domain_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "forbidden_internal_error_msg": {
+    "message": "Google Drive fungerar tyv\u00e4rr inte som f\u00f6rv\u00e4ntat. Testa att \u00f6ppna filen igen eller rapportera problemet nedan."
+  },
+  "forbidden_internal_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "forbidden_not_installed_error_msg": {
+    "message": "Det verkar som om Chrome-till\u00e4gget inte har installerats ordentligt. Hur kan detta ske? Vi vet inte riktigt, men rapportera g\u00e4rna problemet nedan."
+  },
+  "forbidden_not_installed_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "generic_error_msg": {
+    "message": "Det uppstod ett problem med dokumentets inneh\u00e5ll."
+  },
+  "generic_error_short_msg": {
+    "message": "Aj. Det var inte s\u00e5 d\u00e4r det var t\u00e4nkt. \u00c5terst\u00e4ll \u00e4ndringarna genom att l\u00e4sa in sidan p\u00e5 nytt."
+  },
+  "get_lists_data_error_msg": {
+    "message": "Listor kanske inte formateras korrekt i det \u00e5tergivna dokumentet."
+  },
+  "get_lists_data_error_short_msg": {
+    "message": "Det gick inte att h\u00e4mta formatinformation fr\u00e5n dokumentet."
+  },
+  "highlightcolor_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r markeringsf\u00e4rg f\u00f6r text"
+  },
+  "http_error_zero_msg": {
+    "message": "Problemet kanske orsakas av ett n\u00e4tverksfel s\u00e5 kontrollera anslutningen och f\u00f6rs\u00f6k igen. Om problemet kvarst\u00e5r rapporterar du det nedan."
+  },
+  "http_error_zero_short_msg": {
+    "message": "Det g\u00e5r inte att \u00f6ppna filen."
+  },
+  "info_file_copied": {
+    "message": "Filen sparades"
+  },
+  "info_file_save_cancelled": {
+    "message": "Filen sparades inte."
+  },
+  "info_file_save_failed": {
+    "message": "Det gick inte att spara."
+  },
+  "info_file_saved_at_location": {
+    "message": "Alla \u00e4ndringar har sparats p\u00e5 $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "info_file_saved_in_drive": {
+    "message": "Alla \u00e4ndringar har sparats i Drive"
+  },
+  "info_file_saved_locally": {
+    "message": "Alla \u00e4ndringar har sparats lokalt"
+  },
+  "info_file_saved_offline": {
+    "message": "Alla \u00e4ndringar har sparats offline"
+  },
+  "info_file_saving": {
+    "message": "Sparar ..."
+  },
+  "initaddshape_aria_spoken_word": {
+    "message": "l\u00e4gg till textruta"
+  },
+  "invalid_credentials_error_msg": {
+    "message": "Du m\u00e5ste logga in p\u00e5 ditt Google-konto f\u00f6r att f\u00e5 \u00e5tkomst till den h\u00e4r filen."
+  },
+  "invalid_credentials_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "invalid_file_format_msg": {
+    "message": "Filen ser ut som ett Office-dokument, och har ett s\u00e5dant filnamnstill\u00e4gg, men i sj\u00e4lva verket \u00e4r det en annan filtyp som n\u00e5gon har bytt namn p\u00e5 eller \u00e4ndrat p\u00e5 n\u00e5got annat s\u00e4tt. Det kan ocks\u00e5 vara en filtyp som vi inte st\u00f6der."
+  },
+  "invalid_file_format_short_msg": {
+    "message": "Hoppsan! Det verkar som om vi inte kan \u00f6ppna den h\u00e4r sortens dokument."
+  },
+  "italic_aria_spoken_word": {
+    "message": "kursiv"
+  },
+  "keyboard_shortcut_group_actions": {
+    "message": "\u00c5tg\u00e4rder"
+  },
+  "keyboard_shortcut_group_other": {
+    "message": "Annat"
+  },
+  "keyboard_shortcut_group_paragraph_formatting": {
+    "message": "Styckeformattering"
+  },
+  "keyboard_shortcut_group_text_formatting": {
+    "message": "Textformatering"
+  },
+  "keyboard_shortcut_group_top_menus": {
+    "message": "Menyer"
+  },
+  "keyboard_shortcut_group_with_slides": {
+    "message": "Med Presentationer"
+  },
+  "keyboard_shortcut_title": {
+    "message": "Kortkommandon"
+  },
+  "large_file_size_dialog_title_for_sheet": {
+    "message": "Det gick inte att spara filen som Google-kalkylark"
+  },
+  "large_file_size_dialog_title_for_slide": {
+    "message": "Det gick inte att spara filen som Google-presentation"
+  },
+  "large_file_size_dialog_title_for_word": {
+    "message": "Det gick inte att spara filen som Google-dokument"
+  },
+  "make_a_copy_fail_msg": {
+    "message": "Det gick inte att g\u00f6ra en kopia just nu."
+  },
+  "menu_button_data": {
+    "message": "Data"
+  },
+  "menu_button_edit": {
+    "message": "Redigera"
+  },
+  "menu_button_file": {
+    "message": "Arkiv"
+  },
+  "menu_button_format": {
+    "message": "Format"
+  },
+  "menu_button_help": {
+    "message": "Hj\u00e4lp"
+  },
+  "menu_button_insert": {
+    "message": "Infoga"
+  },
+  "menu_button_slide": {
+    "message": "Bild"
+  },
+  "menu_button_tools": {
+    "message": "Verktyg"
+  },
+  "menu_button_view": {
+    "message": "Visa"
+  },
+  "menu_item_10_point_star": {
+    "message": "10-udd"
+  },
+  "menu_item_12_point_star": {
+    "message": "12-udd"
+  },
+  "menu_item_16_point_star": {
+    "message": "16-udd"
+  },
+  "menu_item_24_point_star": {
+    "message": "24-udd"
+  },
+  "menu_item_32_point_star": {
+    "message": "32-udd"
+  },
+  "menu_item_4_point_star": {
+    "message": "4-udd"
+  },
+  "menu_item_5_point_star": {
+    "message": "5-udd"
+  },
+  "menu_item_6_point_star": {
+    "message": "6-udd"
+  },
+  "menu_item_7_point_star": {
+    "message": "7-udd"
+  },
+  "menu_item_8_point_star": {
+    "message": "8-udd"
+  },
+  "menu_item_align": {
+    "message": "Justera"
+  },
+  "menu_item_align_center": {
+    "message": "Centrera"
+  },
+  "menu_item_align_justified": {
+    "message": "Marginaljusterad"
+  },
+  "menu_item_align_left": {
+    "message": "V\u00e4nster"
+  },
+  "menu_item_align_right": {
+    "message": "H\u00f6ger"
+  },
+  "menu_item_arrows": {
+    "message": "Pilar"
+  },
+  "menu_item_bent_arrow": {
+    "message": "Vinklad pil"
+  },
+  "menu_item_bent_up_arrow": {
+    "message": "Upp\u00e5tvinklad pil"
+  },
+  "menu_item_bevel": {
+    "message": "Fasning"
+  },
+  "menu_item_block_arc": {
+    "message": "Blockb\u00e5ge"
+  },
+  "menu_item_bold": {
+    "message": "Fet"
+  },
+  "menu_item_callouts": {
+    "message": "Beskrivning"
+  },
+  "menu_item_can": {
+    "message": "Burk"
+  },
+  "menu_item_chevron": {
+    "message": "V-form"
+  },
+  "menu_item_chord": {
+    "message": "Str\u00e4ng"
+  },
+  "menu_item_clear_formatting": {
+    "message": "Radera formatering"
+  },
+  "menu_item_cloud": {
+    "message": "Moln"
+  },
+  "menu_item_cloud_callout": {
+    "message": "Molnbeskrivning"
+  },
+  "menu_item_color_none": {
+    "message": "Inga"
+  },
+  "menu_item_color_transparent": {
+    "message": "Genomskinlig"
+  },
+  "menu_item_convert_to_docs": {
+    "message": "Spara i Google Dokument"
+  },
+  "menu_item_convert_to_sheets": {
+    "message": "Spara i Google Kalkylark"
+  },
+  "menu_item_convert_to_slides": {
+    "message": "Spara i Google Presentationer"
+  },
+  "menu_item_copy": {
+    "message": "Kopiera"
+  },
+  "menu_item_cross": {
+    "message": "Kors"
+  },
+  "menu_item_cube": {
+    "message": "Kub"
+  },
+  "menu_item_curved_down_arrow": {
+    "message": "Ned\u00e5tb\u00f6jd pil"
+  },
+  "menu_item_curved_left_arrow": {
+    "message": "V\u00e4nsterb\u00f6jd pil"
+  },
+  "menu_item_curved_right_arrow": {
+    "message": "H\u00f6gerb\u00f6jd pil"
+  },
+  "menu_item_curved_up_arrow": {
+    "message": "Upp\u00e5tb\u00f6jd pil"
+  },
+  "menu_item_cut": {
+    "message": "Klipp ut"
+  },
+  "menu_item_decagon": {
+    "message": "Tioh\u00f6rning"
+  },
+  "menu_item_delete_column": {
+    "message": "Ta bort kolumn"
+  },
+  "menu_item_delete_row": {
+    "message": "Ta bort rad"
+  },
+  "menu_item_delete_value": {
+    "message": "Ta bort v\u00e4rde"
+  },
+  "menu_item_deleteslide": {
+    "message": "Ta bort bild"
+  },
+  "menu_item_diagonal_stripe": {
+    "message": "Diagonal rand"
+  },
+  "menu_item_diamond": {
+    "message": "Diamant"
+  },
+  "menu_item_divide": {
+    "message": "Division"
+  },
+  "menu_item_dodecagon": {
+    "message": "Tolvh\u00f6rning"
+  },
+  "menu_item_donut": {
+    "message": "Ring"
+  },
+  "menu_item_double_brace": {
+    "message": "Dubbel klammerparentes"
+  },
+  "menu_item_double_bracket": {
+    "message": "Dubbel hakparentes"
+  },
+  "menu_item_down_arrow": {
+    "message": "Ned\u00e5tpil"
+  },
+  "menu_item_down_arrow_callout": {
+    "message": "Beskrivning med ned\u00e5tpil"
+  },
+  "menu_item_duplicateslide": {
+    "message": "Presentationen \u00e4r en dubblett"
+  },
+  "menu_item_equal": {
+    "message": "Lika med"
+  },
+  "menu_item_equation": {
+    "message": "Ekvation"
+  },
+  "menu_item_explosion_1": {
+    "message": "Explosion 1"
+  },
+  "menu_item_explosion_2": {
+    "message": "Explosion 2"
+  },
+  "menu_item_flowchart_alternate_process": {
+    "message": "Fl\u00f6desschema: alternativ process"
+  },
+  "menu_item_flowchart_card": {
+    "message": "Fl\u00f6desschema: kort"
+  },
+  "menu_item_flowchart_collate": {
+    "message": "Fl\u00f6desschema: sammanf\u00f6r och sortera"
+  },
+  "menu_item_flowchart_connector": {
+    "message": "Fl\u00f6desschema: koppling"
+  },
+  "menu_item_flowchart_data": {
+    "message": "Fl\u00f6desschema: data"
+  },
+  "menu_item_flowchart_decision": {
+    "message": "Fl\u00f6desschema: beslut"
+  },
+  "menu_item_flowchart_delay": {
+    "message": "Fl\u00f6desschema: uppeh\u00e5ll"
+  },
+  "menu_item_flowchart_direct_access_storage": {
+    "message": "Fl\u00f6desschema: lagring med direkt \u00e5tkomst"
+  },
+  "menu_item_flowchart_display": {
+    "message": "Fl\u00f6desschema: visa"
+  },
+  "menu_item_flowchart_document": {
+    "message": "Fl\u00f6desschema: dokument"
+  },
+  "menu_item_flowchart_extract": {
+    "message": "Fl\u00f6desschema: extrahera"
+  },
+  "menu_item_flowchart_internal_storage": {
+    "message": "Fl\u00f6desschema: intern lagring"
+  },
+  "menu_item_flowchart_magnetic_disk": {
+    "message": "Fl\u00f6desschema: magnetskiva"
+  },
+  "menu_item_flowchart_manual_input": {
+    "message": "Fl\u00f6desschema: manuell inmatning"
+  },
+  "menu_item_flowchart_manual_operation": {
+    "message": "Fl\u00f6desschema: manuell \u00e5tg\u00e4rd"
+  },
+  "menu_item_flowchart_merge": {
+    "message": "Fl\u00f6desschema: sl\u00e5 samman"
+  },
+  "menu_item_flowchart_multidocument": {
+    "message": "Fl\u00f6desschema: multidokument"
+  },
+  "menu_item_flowchart_off_page_connector": {
+    "message": "Fl\u00f6desschema: sidbrytningskoppling"
+  },
+  "menu_item_flowchart_or": {
+    "message": "Fl\u00f6desschema: eller"
+  },
+  "menu_item_flowchart_predefined_process": {
+    "message": "Fl\u00f6desschema: f\u00f6rdefinierad process"
+  },
+  "menu_item_flowchart_preparation": {
+    "message": "Fl\u00f6desschema: f\u00f6rberedelse"
+  },
+  "menu_item_flowchart_process": {
+    "message": "Fl\u00f6desschema: process"
+  },
+  "menu_item_flowchart_punched_tape": {
+    "message": "Fl\u00f6desschema: h\u00e5lremsa"
+  },
+  "menu_item_flowchart_sequential_access_storage": {
+    "message": "Fl\u00f6desschema: lagring med sekventiell \u00e5tkomst"
+  },
+  "menu_item_flowchart_sort": {
+    "message": "Fl\u00f6desschema: sortera"
+  },
+  "menu_item_flowchart_stored_data": {
+    "message": "Fl\u00f6desschema: lagrade data"
+  },
+  "menu_item_flowchart_summing_junction": {
+    "message": "Fl\u00f6desschema: summeringspunkt"
+  },
+  "menu_item_flowchart_terminator": {
+    "message": "Fl\u00f6desschema: begr\u00e4nsare"
+  },
+  "menu_item_folded_corner": {
+    "message": "Vikt h\u00f6rn"
+  },
+  "menu_item_frame": {
+    "message": "Ram"
+  },
+  "menu_item_half_frame": {
+    "message": "Halv ram"
+  },
+  "menu_item_heart": {
+    "message": "Hj\u00e4rta"
+  },
+  "menu_item_help_center": {
+    "message": "Hj\u00e4lpcenter"
+  },
+  "menu_item_heptagon": {
+    "message": "Sjuh\u00f6rning"
+  },
+  "menu_item_hexagon": {
+    "message": "Sexh\u00f6rning"
+  },
+  "menu_item_hideslide": {
+    "message": "D\u00f6lj bild"
+  },
+  "menu_item_insert_column": {
+    "message": "Kolumn"
+  },
+  "menu_item_insert_image": {
+    "message": "Bild"
+  },
+  "menu_item_insert_row": {
+    "message": "Rad"
+  },
+  "menu_item_insert_text_box": {
+    "message": "Textruta"
+  },
+  "menu_item_insertslide": {
+    "message": "Ny bild"
+  },
+  "menu_item_italic": {
+    "message": "Kursiv"
+  },
+  "menu_item_keyboard_shortcuts": {
+    "message": "Kortkommandon"
+  },
+  "menu_item_l_shape": {
+    "message": "L-form"
+  },
+  "menu_item_left_arrow": {
+    "message": "V\u00e4nsterpil"
+  },
+  "menu_item_left_arrow_callout": {
+    "message": "Beskrivning v\u00e4nster"
+  },
+  "menu_item_left_brace": {
+    "message": "V\u00e4nster klammerparentes"
+  },
+  "menu_item_left_bracket": {
+    "message": "V\u00e4nster hakparentes"
+  },
+  "menu_item_left_right_arrow": {
+    "message": "V\u00e4nster/h\u00f6ger-pil"
+  },
+  "menu_item_left_right_arrow_callout": {
+    "message": "Beskrivning v\u00e4nster/h\u00f6ger"
+  },
+  "menu_item_left_right_up_arrow": {
+    "message": "V\u00e4nster/h\u00f6ger-upp\u00e5tpil"
+  },
+  "menu_item_left_up_arrow": {
+    "message": "V\u00e4nster-upp\u00e5tvinklad pil"
+  },
+  "menu_item_lightning_bolt": {
+    "message": "Blixt"
+  },
+  "menu_item_make_a_copy": {
+    "message": "Kopiera \u2026"
+  },
+  "menu_item_merge_all": {
+    "message": "Sammanfoga alla"
+  },
+  "menu_item_merge_cells": {
+    "message": "Sammanfoga celler"
+  },
+  "menu_item_merge_horizontally": {
+    "message": "Sammanfoga v\u00e5gr\u00e4tt"
+  },
+  "menu_item_merge_vertically": {
+    "message": "Sammanfoga lodr\u00e4tt"
+  },
+  "menu_item_minus": {
+    "message": "Minus"
+  },
+  "menu_item_moon": {
+    "message": "M\u00e5ne"
+  },
+  "menu_item_moveslidedown": {
+    "message": "Flytta ned bilden"
+  },
+  "menu_item_moveslidetoend": {
+    "message": "Flytta bilden och l\u00e4gg den sist"
+  },
+  "menu_item_moveslidetostart": {
+    "message": "Flytta bilden och l\u00e4gg den f\u00f6rst"
+  },
+  "menu_item_moveslideup": {
+    "message": "Flytta upp bilden"
+  },
+  "menu_item_multiply": {
+    "message": "Multiplicera"
+  },
+  "menu_item_new": {
+    "message": "Nytt"
+  },
+  "menu_item_no_symbol": {
+    "message": "Ingen symbol"
+  },
+  "menu_item_not_equal": {
+    "message": "Inte lika med"
+  },
+  "menu_item_notched_right_arrow": {
+    "message": "V-form h\u00f6gerpil"
+  },
+  "menu_item_number_format": {
+    "message": "Talformat"
+  },
+  "menu_item_number_menu": {
+    "message": "Tal"
+  },
+  "menu_item_numbering": {
+    "message": "$1 av $2",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "menu_item_octagon": {
+    "message": "\u00c5ttah\u00f6rning"
+  },
+  "menu_item_open": {
+    "message": "\u00d6ppna"
+  },
+  "menu_item_oval": {
+    "message": "Oval"
+  },
+  "menu_item_oval_callout": {
+    "message": "Oval beskrivning"
+  },
+  "menu_item_parallelogram": {
+    "message": "Parallellogram"
+  },
+  "menu_item_paste": {
+    "message": "Klistra in"
+  },
+  "menu_item_pentagon": {
+    "message": "Femh\u00f6rning"
+  },
+  "menu_item_pie": {
+    "message": "Cirkel"
+  },
+  "menu_item_plaque": {
+    "message": "Plakett"
+  },
+  "menu_item_plus": {
+    "message": "Plus"
+  },
+  "menu_item_present": {
+    "message": "Presentera"
+  },
+  "menu_item_print": {
+    "message": "Skriv ut"
+  },
+  "menu_item_quad_arrow": {
+    "message": "Kvadratisk pil"
+  },
+  "menu_item_quad_arrow_callout": {
+    "message": "Beskrivning kvadratisk pil"
+  },
+  "menu_item_rectangle": {
+    "message": "Rektangel"
+  },
+  "menu_item_rectangular_callout": {
+    "message": "Rektangul\u00e4r beskrivning"
+  },
+  "menu_item_redo": {
+    "message": "Upprepa"
+  },
+  "menu_item_regular_pentagon": {
+    "message": "Regelbunden femh\u00f6rning"
+  },
+  "menu_item_report_abuse": {
+    "message": "Anm\u00e4l otill\u00e5ten anv\u00e4ndning"
+  },
+  "menu_item_report_issue": {
+    "message": "Rapportera ett problem"
+  },
+  "menu_item_right_arrow": {
+    "message": "H\u00f6gerpil"
+  },
+  "menu_item_right_arrow_callout": {
+    "message": "Beskrivning h\u00f6ger"
+  },
+  "menu_item_right_brace": {
+    "message": "H\u00f6ger klammerparentes"
+  },
+  "menu_item_right_bracket": {
+    "message": "H\u00f6ger hakparentes"
+  },
+  "menu_item_right_triangle": {
+    "message": "R\u00e4tvinklig triangel"
+  },
+  "menu_item_round_diagonal_corner_rectangle": {
+    "message": "Rektangel med diagonalt rundade h\u00f6rn"
+  },
+  "menu_item_round_same_side_corner_rectangle": {
+    "message": "Rektangel med rundade h\u00f6rn p\u00e5 samma sida"
+  },
+  "menu_item_round_single_corner_rectangle": {
+    "message": "Rektangel med rundat h\u00f6rn"
+  },
+  "menu_item_rounded_rectangle": {
+    "message": "Rektangel med rundade h\u00f6rn"
+  },
+  "menu_item_rounded_rectangular_callout": {
+    "message": "Rundad rektangul\u00e4r beskrivning"
+  },
+  "menu_item_save": {
+    "message": "Spara"
+  },
+  "menu_item_save_as": {
+    "message": "Spara som ..."
+  },
+  "menu_item_shapes": {
+    "message": "Former"
+  },
+  "menu_item_share": {
+    "message": "Dela"
+  },
+  "menu_item_smiley_face": {
+    "message": "Uttryckssymbol"
+  },
+  "menu_item_snip_and_round_single_corner_rectangle": {
+    "message": "Rektangel med klippt och rundat h\u00f6rn"
+  },
+  "menu_item_snip_diagonal_corner_rectangle": {
+    "message": "Rektangel med diagonalt klippta h\u00f6rn"
+  },
+  "menu_item_snip_same_side_corner_rectangle": {
+    "message": "Rektangel med klippta h\u00f6rn p\u00e5 samma sida"
+  },
+  "menu_item_snip_single_corner_rectangle": {
+    "message": "Rektangel med klippt h\u00f6rn"
+  },
+  "menu_item_strikethrough": {
+    "message": "Genomstruken"
+  },
+  "menu_item_striped_right_arrow": {
+    "message": "Streckad h\u00f6gerpil"
+  },
+  "menu_item_subscript": {
+    "message": "Neds\u00e4nkt"
+  },
+  "menu_item_sun": {
+    "message": "Sol"
+  },
+  "menu_item_superscript": {
+    "message": "Upph\u00f6jd"
+  },
+  "menu_item_teardrop": {
+    "message": "Droppe"
+  },
+  "menu_item_trapezoid": {
+    "message": "Parallelltrapets"
+  },
+  "menu_item_triangle": {
+    "message": "Triangel"
+  },
+  "menu_item_u_turn_arrow": {
+    "message": "U-sv\u00e4ngd pil"
+  },
+  "menu_item_underline": {
+    "message": "Understruken"
+  },
+  "menu_item_undo": {
+    "message": "\u00c5ngra"
+  },
+  "menu_item_unhideslide": {
+    "message": "Ta fram bild"
+  },
+  "menu_item_unmerge": {
+    "message": "Dela upp igen"
+  },
+  "menu_item_up_arrow": {
+    "message": "Upp\u00e5tpil"
+  },
+  "menu_item_up_arrow_callout": {
+    "message": "Beskrivning med upp\u00e5tpil"
+  },
+  "menu_item_up_down_arrow": {
+    "message": "Upp\u00e5t-/ned\u00e5t-pil"
+  },
+  "menu_item_version_info": {
+    "message": "Versionsinformation"
+  },
+  "menu_item_word_count": {
+    "message": "R\u00e4kna ord"
+  },
+  "menu_item_wrap_text": {
+    "message": "Radbyte"
+  },
+  "menu_item_zoom_in": {
+    "message": "Zooma in"
+  },
+  "menu_item_zoom_out": {
+    "message": "Zooma ut"
+  },
+  "merge_all_aria_spoken_word": {
+    "message": "sammanfoga alla"
+  },
+  "merge_aria_spoken_word": {
+    "message": "sammanfoga"
+  },
+  "merge_dropdown_aria_spoken_word": {
+    "message": "rullgardinsmeny f\u00f6r sammanfogning"
+  },
+  "merge_horizontally_aria_spoken_word": {
+    "message": "sammanfoga v\u00e5gr\u00e4tt"
+  },
+  "merge_vertically_aria_spoken_word": {
+    "message": "sammanfoga lodr\u00e4tt"
+  },
+  "modify_shape_transform_error_msg": {
+    "message": "Ett fel uppstod n\u00e4r formomvandlingarna skulle \u00e4ndras"
+  },
+  "modify_shape_transform_error_short_msg": {
+    "message": "Ett fel uppstod vid \u00e4ndringen av formomvandlingarna."
+  },
+  "modifyshapefillcolor_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r fyllningsf\u00e4rg p\u00e5 former"
+  },
+  "modifyshapeoutlinecolor_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r konturf\u00e4rg p\u00e5 former"
+  },
+  "modifyshapeoutlinestyle_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r konturformat p\u00e5 former"
+  },
+  "modifyshapeoutlinewidth_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r linjebredd p\u00e5 former"
+  },
+  "nacl_load_error_details": {
+    "message": "Testa att installera om till\u00e4gget."
+  },
+  "nacl_load_error_title": {
+    "message": "Det gick inte att l\u00e4sa in appen."
+  },
+  "non_permissible_sheet_name_details": {
+    "message": "F\u00f6ljande tecken \u00e4r inte till\u00e5tna * ? [ ] ' ; : Arbetsbladets namn f\u00e5r inte vara l\u00e4ngre \u00e4n 31 tecken Ett namn p\u00e5 arbetsbladet m\u00e5ste anges"
+  },
+  "non_permissible_sheet_name_title": {
+    "message": "Du angav ett ogiltigt namn n\u00e4r du skulle byta namn p\u00e5 ett arbetsblad"
+  },
+  "not_pressed": {
+    "message": "Inte nedtryckt"
+  },
+  "notselected": {
+    "message": "Inte markerat"
+  },
+  "number_format_label_currency_symbol": {
+    "message": "Valutasymbol"
+  },
+  "number_format_label_date_type": {
+    "message": "Typ"
+  },
+  "number_format_label_decimal_places": {
+    "message": "Decimaler"
+  },
+  "number_format_label_general": {
+    "message": "Allm\u00e4nt"
+  },
+  "number_format_label_negative_numbers": {
+    "message": "Negativa tal"
+  },
+  "number_format_label_other": {
+    "message": "Annat"
+  },
+  "number_format_label_red": {
+    "message": "R\u00f6da"
+  },
+  "number_format_label_text": {
+    "message": "Text"
+  },
+  "number_format_label_use_1000_separator": {
+    "message": "Anv\u00e4nd tusentalsavgr\u00e4nsare"
+  },
+  "number_format_tab_accounting": {
+    "message": "Redovisning"
+  },
+  "number_format_tab_currency": {
+    "message": "Valuta"
+  },
+  "number_format_tab_date_time": {
+    "message": "Datum och tid"
+  },
+  "number_format_tab_general": {
+    "message": "Allm\u00e4nt"
+  },
+  "number_format_tab_number": {
+    "message": "Tal"
+  },
+  "number_format_tab_percentage": {
+    "message": "Procent"
+  },
+  "number_format_tab_scientific": {
+    "message": "Vetenskapligt"
+  },
+  "number_format_title": {
+    "message": "Talformat"
+  },
+  "ocm_promo_conversion_shortmsg": {
+    "message": "Office-kompatibilitetsl\u00e4get har aktiverats"
+  },
+  "ocm_promo_office_editing_mode_shortmsg": {
+    "message": "Office-kompatibilitetsl\u00e4get har aktiverats"
+  },
+  "office_compatibility_mode": {
+    "message": "Office-kompatibilitetsl\u00e4ge"
+  },
+  "office_editing_mode_attempt_when_offline": {
+    "message": "Du m\u00e5ste vara online f\u00f6r att \u00f6ppna den h\u00e4r filen i Google Dokument. F\u00f6rs\u00f6k igen n\u00e4r du \u00e4r ansluten."
+  },
+  "office_editing_mode_attempt_with_invalid_creds": {
+    "message": "Du m\u00e5ste logga in p\u00e5 ditt Google-konto f\u00f6r att \u00f6ppna den h\u00e4r filen i Google Dokument"
+  },
+  "office_editing_mode_point_fail_msg": {
+    "message": "Det gick inte att \u00f6ppna filen i Google Presentationer just nu."
+  },
+  "office_editing_mode_setting_new_create": {
+    "message": "\u00d6ppna Office-filer fr\u00e5n Drive och Gmail som st\u00f6ds direkt i Dokument, Kalkylark eller Presentationer"
+  },
+  "office_editing_mode_sheet_fail_msg": {
+    "message": "Det gick inte att \u00f6ppna filen som ett Google-kalkylark just nu."
+  },
+  "office_editing_mode_word_fail_msg": {
+    "message": "Det gick inte att \u00f6ppna filen som ett Google-dokument just nu."
+  },
+  "office_first_time_confirm": {
+    "message": "Uppfattat"
+  },
+  "office_first_time_message_p1": {
+    "message": "Du kan anv\u00e4nda Dokument, Kalkylark och Presentationer f\u00f6r att redigera Word-, Excel- och Powerpoint-filer fr\u00e5n h\u00e5rddisken, Google Drive, Gmail med flera."
+  },
+  "office_first_time_message_p2": {
+    "message": "Dina \u00e4ndringar sparas automatiskt och du kan alltid spara i originalformatet."
+  },
+  "office_first_time_title": {
+    "message": "Redigering av Office-filer f\u00f6r Dokument, Kalkylark och Presentationer"
+  },
+  "offline_error_msg": {
+    "message": "Det verkar som om du \u00e4r offline. Kontrollera internetanslutningen och testa igen. Om felet kvarst\u00e5r n\u00e4r du \u00e4r ansluten till internet rapporterar du problemet nedan."
+  },
+  "offline_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen."
+  },
+  "opening_in_office_editing_mode": {
+    "message": "\u00d6ppnas i Office-redigeringsl\u00e4ge"
+  },
+  "option_key": {
+    "message": "Alternativ"
+  },
+  "out_of_memory_error_msg": {
+    "message": "Testa att st\u00e4nga den h\u00e4r fliken och \u00f6ppna filen p\u00e5 nytt eller att st\u00e4nga andra \u00f6ppna flikar i webbl\u00e4saren. Om problemet kvarst\u00e5r g\u00f6r du en felanm\u00e4lan nedan."
+  },
+  "out_of_memory_error_short_msg": {
+    "message": "Oj, minnet tog slut!"
+  },
+  "page_count_label": {
+    "message": "Sidor"
+  },
+  "partial_cell_merge_error_msg": {
+    "message": "Det g\u00e5r inte att \u00e4ndra en del av en sammanslagen cell."
+  },
+  "partial_cell_merge_error_short_msg": {
+    "message": "Fel"
+  },
+  "permission_fail_msg": {
+    "message": "Du har inte beh\u00f6righet att redigera den h\u00e4r filen. Uppdatera beh\u00f6righeterna och f\u00f6rs\u00f6k igen."
+  },
+  "point_ocm_promo_conversion_msg": {
+    "message": "Du kan redigera och spara Office-filer direkt i Presentationer. Om du vill bjuda in andra s\u00e5 att de kan redigera och kommentera filerna sparar du dem i Google Presentationer. Du kan n\u00e4r som helst spara i originalformatet igen."
+  },
+  "point_ocm_promo_office_editing_mode_msg": {
+    "message": "Nu kan du redigera och spara Office-filer direkt i Google Presentationer. Om du vill bjuda in andra att redigera i realtid eller l\u00e4gga till kommentarer laddar du upp filen till Google Drive. Formatet p\u00e5 den h\u00e4r filen \u00e4ndras inte."
+  },
+  "point_printing_warning_msg": {
+    "message": "Vi jobbar p\u00e5 att \u00e5tg\u00e4rda detta."
+  },
+  "point_printing_warning_short_msg": {
+    "message": "F\u00f6r n\u00e4rvarande g\u00e5r det bara skriva ut den bild som visas just nu."
+  },
+  "point_share_promo_conversion_msg": {
+    "message": "Vill du dela presentationen? Om du vill bjuda in andra s\u00e5 att ni kan redigera tillsammans konverterar du den till Google Presentationer."
+  },
+  "point_share_promo_office_editing_mode_msg": {
+    "message": "Nu kan du redigera och spara Office-filer direkt i Google Presentationer. Om du vill bjuda in andra att redigera i realtid eller l\u00e4gga till kommentarer laddar du upp filen till Google Drive. Formatet p\u00e5 den h\u00e4r filen \u00e4ndras inte."
+  },
+  "pointtogglebullet_aria_spoken_word": {
+    "message": "punktlista"
+  },
+  "pointtogglenumber_aria_spoken_word": {
+    "message": "numrerad lista"
+  },
+  "present_button": {
+    "message": "Presentera"
+  },
+  "pressed": {
+    "message": "Nedtryckt"
+  },
+  "print_aria_spoken_word": {
+    "message": "skriv ut"
+  },
+  "qowt_doc_mismatch_text": {
+    "message": "Ett fel uppstod n\u00e4r dokumentet skulle formateras.\n\n\u00c5terst\u00e4ll \u00e4ndringarna genom att l\u00e4sa in sidan igen."
+  },
+  "qowt_doc_mismatch_title": {
+    "message": "Oj!"
+  },
+  "qowt_hyperlink_activate_short_key": {
+    "message": "Aktivera l\u00e4nken med ALT + Retur."
+  },
+  "qowt_hyperlink_dialog": {
+    "message": "Hyperl\u00e4nk"
+  },
+  "qowt_hyperlink_dialog_message_text": {
+    "message": "\u00d6ppna l\u00e4nk:"
+  },
+  "qowt_modal_confirm_dialog_affirmative_button": {
+    "message": "OK"
+  },
+  "qowt_modal_confirm_dialog_negative_button": {
+    "message": "Avbryt"
+  },
+  "qowt_modal_dialog_close_button": {
+    "message": "St\u00e4ng"
+  },
+  "qowt_modal_dialog_coming_soon_title": {
+    "message": "Kommer snart!"
+  },
+  "qowt_modal_dialog_link_text": {
+    "message": "L\u00e4s mer"
+  },
+  "qowt_modal_dialog_ok_button": {
+    "message": "Ok"
+  },
+  "qowt_modal_dialog_reload_button": {
+    "message": "L\u00e4s in igen"
+  },
+  "qowt_modal_dialog_textbox_editing_description": {
+    "message": "Tyv\u00e4rr g\u00e5r det inte att redigera text i textrutor."
+  },
+  "qowt_modal_dialog_textbox_editing_link": {
+    "message": "\u00c5tg\u00e4rda detta!"
+  },
+  "qowt_modal_info_dialog_affirmative_button": {
+    "message": "OK"
+  },
+  "qowt_modal_multi_choice_remember_choice": {
+    "message": "Kom ih\u00e5g mitt val"
+  },
+  "qowt_modal_query_dialog_affirmative_button": {
+    "message": "Ja"
+  },
+  "qowt_modal_query_dialog_negative_button": {
+    "message": "Nej"
+  },
+  "qowt_modal_query_dialog_reload_button": {
+    "message": "L\u00e4s in igen"
+  },
+  "qowt_modal_single_choice_remember_choice": {
+    "message": "P\u00e5minn mig inte igen"
+  },
+  "read_only": {
+    "message": "Skrivskyddat"
+  },
+  "redo_aria_spoken_word": {
+    "message": "upprepa"
+  },
+  "right_pointed_submenu": {
+    "message": "H\u00f6ger muspekare med undermeny"
+  },
+  "save_aria_spoken_word": {
+    "message": "spara"
+  },
+  "save_now": {
+    "message": "Spara nu"
+  },
+  "security_error_msg": {
+    "message": "Om problemet kvarst\u00e5r rapporterar du det nedan."
+  },
+  "security_error_short_msg": {
+    "message": "Hoppsan! Det gick inte att \u00f6ppna filen. F\u00f6r n\u00e4rvarande g\u00e5r det inte att \u00f6ppna filer i inkognitol\u00e4ge. Avsluta inkognitol\u00e4get innan du \u00f6ppnar filen."
+  },
+  "selected": {
+    "message": "Markerad"
+  },
+  "set_sheet_info_error_msg": {
+    "message": "Ett fel uppstod n\u00e4r arbetsbladets namn skulle uppdateras"
+  },
+  "share_button": {
+    "message": "Dela"
+  },
+  "share_promo_conversion_shortmsg": {
+    "message": "Redigera tillsammans med andra"
+  },
+  "share_promo_office_editing_mode_shortmsg": {
+    "message": "Dela med andra"
+  },
+  "sheet_delete_column_error_msg": {
+    "message": "Hoppsan. Det gick inte att ta bort kolumnen. F\u00f6rs\u00f6k igen"
+  },
+  "sheet_delete_row_error_msg": {
+    "message": "Hoppsan. Det gick inte att ta bort raden. F\u00f6rs\u00f6k igen"
+  },
+  "sheet_format_cells_error_msg": {
+    "message": "Ett formateringsfel uppstod. F\u00f6rs\u00f6k igen."
+  },
+  "sheet_insert_column_error_msg": {
+    "message": "Hoppsan. Det gick inte att infoga kolumnen. F\u00f6rs\u00f6k igen"
+  },
+  "sheet_insert_column_exceed_error_msg": {
+    "message": "Det g\u00e5r tyv\u00e4rr inte att infoga fler kolumner i kalkylarket eftersom det bara finns st\u00f6d f\u00f6r 256 kolumner."
+  },
+  "sheet_insert_column_exceed_error_short_msg": {
+    "message": "F\u00f6rl\u00e5t!"
+  },
+  "sheet_insert_row_error_msg": {
+    "message": "Hoppsan. Det gick inte att infoga raden. F\u00f6rs\u00f6k igen"
+  },
+  "sheet_insert_row_exceed_error_msg": {
+    "message": "Det g\u00e5r tyv\u00e4rr inte att infoga fler rader i kalkylarket eftersom det bara finns st\u00f6d f\u00f6r 65536 rader."
+  },
+  "sheet_insert_row_exceed_error_short_msg": {
+    "message": "F\u00f6rl\u00e5t!"
+  },
+  "sheet_ocm_promo_conversion_msg": {
+    "message": "Du kan redigera Office-filer direkt i Kalkylark. Om du vill bjuda in andra s\u00e5 att de kan redigera och kommentera filerna sparar du dem i Google Kalkylark. Du kan n\u00e4r som helst spara i originalformatet igen."
+  },
+  "sheet_ocm_promo_office_editing_mode_msg": {
+    "message": "Nu kan du redigera och spara Office-filer direkt i Google Kalkylark. Om du vill bjuda in andra att redigera i realtid eller l\u00e4gga till kommentarer laddar du upp filen till Google Drive. Formatet p\u00e5 den h\u00e4r filen \u00e4ndras inte."
+  },
+  "sheet_set_cell_content_invalid_error_msg": {
+    "message": "Den angivna formeln inneh\u00f6ll ett fel. R\u00e4tta till felet."
+  },
+  "sheet_share_promo_conversion_msg": {
+    "message": "Vill du dela kalkylarket? Om du vill bjuda in andra s\u00e5 att ni kan redigera tillsammans konverterar du den till Google Kalkylark."
+  },
+  "sheet_share_promo_office_editing_mode_msg": {
+    "message": "Nu kan du redigera och spara Office-filer direkt i Google Kalkylark. Om du vill bjuda in andra att redigera i realtid eller l\u00e4gga till kommentarer laddar du upp filen till Google Drive. Formatet p\u00e5 den h\u00e4r filen \u00e4ndras inte."
+  },
+  "sheet_sort_error_title": {
+    "message": "Ett fel uppstod n\u00e4r cellintervallet skulle sorteras."
+  },
+  "sheet_sort_failure_msg": {
+    "message": "Ett fel uppstod n\u00e4r cellintervallet skulle sorteras."
+  },
+  "sheet_sort_merged_cell_error": {
+    "message": "Det g\u00e5r inte att sortera sammanfogade celler."
+  },
+  "sheet_sort_merged_cell_error_title": {
+    "message": "Ett fel uppstod n\u00e4r cellintervallet skulle sorteras."
+  },
+  "sheet_sort_one_cell_error": {
+    "message": "V\u00e4lj fler \u00e4n en cell att sortera."
+  },
+  "sheet_sort_one_cell_error_title": {
+    "message": "Ett fel uppstod n\u00e4r cellintervallet skulle sorteras."
+  },
+  "shift_key": {
+    "message": "Skift"
+  },
+  "shortcut": {
+    "message": "Kortkommando $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "sign_in": {
+    "message": "Logga in"
+  },
+  "slash_key": {
+    "message": "Snedstreck"
+  },
+  "something_not_right": {
+    "message": "N\u00e5gonting \u00e4r fel"
+  },
+  "storage_quota_exceed_error_msg": {
+    "message": "St\u00e4ng alla Office-dokument som \u00e4r \u00f6ppna i Chrome och f\u00f6rs\u00f6k igen. Om problemet kvarst\u00e5r rapporterar du problemet nedan."
+  },
+  "storage_quota_exceed_error_short_msg": {
+    "message": "Det g\u00e5r inte att \u00f6ppna filen."
+  },
+  "strikethrough_aria_spoken_word": {
+    "message": "genomstruken"
+  },
+  "style_aria_spoken_word": {
+    "message": "rullgardinsmeny f\u00f6r format"
+  },
+  "submenu_spoken_text": {
+    "message": "$1 $2 $3 $4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "temporary_unable_to_open_error_msg": {
+    "message": "F\u00f6rs\u00f6k igen senare eller rapportera problemet nedan om det kvarst\u00e5r."
+  },
+  "temporary_unable_to_open_error_short_msg": {
+    "message": "Det g\u00e5r inte att \u00f6ppna filen just nu."
+  },
+  "textaligncenter_aria_spoken_word": {
+    "message": "centrerad text"
+  },
+  "textalignjustify_aria_spoken_word": {
+    "message": "marginaljusterad text"
+  },
+  "textalignleft_aria_spoken_word": {
+    "message": "v\u00e4nsterjusterad text"
+  },
+  "textalignright_aria_spoken_word": {
+    "message": "h\u00f6gerjusterad text"
+  },
+  "textcolor_aria_spoken_word": {
+    "message": "rullgardinslista f\u00f6r teckenf\u00e4rg"
+  },
+  "textual_edit_error_msg": {
+    "message": "Ett fel uppstod n\u00e4r dokumentet skulle formateras.\n\n\u00c5terst\u00e4ll \u00e4ndringarna genom att l\u00e4sa in sidan igen."
+  },
+  "textual_edit_error_short_msg": {
+    "message": "Oj!"
+  },
+  "title_error_msg_for_merge_cells": {
+    "message": "Ett problem uppstod"
+  },
+  "title_msg_merging_multiple_cells_with_text": {
+    "message": "Obs!"
+  },
+  "togglebulleted_aria_spoken_word": {
+    "message": "punktlista"
+  },
+  "togglenumbered_aria_spoken_word": {
+    "message": "numrerad lista"
+  },
+  "togglezoom_aria_spoken_word": {
+    "message": "zoom p\u00e5/av"
+  },
+  "tooltip_background_color": {
+    "message": "Fyllningsf\u00e4rg"
+  },
+  "tooltip_bold": {
+    "message": "Fet"
+  },
+  "tooltip_border": {
+    "message": "Kantlinjer"
+  },
+  "tooltip_border_all": {
+    "message": "Alla kantlinjer"
+  },
+  "tooltip_border_bottom": {
+    "message": "Nedre kantlinje"
+  },
+  "tooltip_border_horizontal": {
+    "message": "V\u00e5gr\u00e4ta kanlinjer"
+  },
+  "tooltip_border_inner": {
+    "message": "Inre kantlinjer"
+  },
+  "tooltip_border_left": {
+    "message": "V\u00e4nster kantlinje"
+  },
+  "tooltip_border_none": {
+    "message": "Inga kantlinjer"
+  },
+  "tooltip_border_outer": {
+    "message": "Yttre kantlinjer"
+  },
+  "tooltip_border_right": {
+    "message": "H\u00f6ger kantlinje"
+  },
+  "tooltip_border_top": {
+    "message": "\u00d6vre kantlinje"
+  },
+  "tooltip_border_vertical": {
+    "message": "Lodr\u00e4ta kantlinjer"
+  },
+  "tooltip_cell_align": {
+    "message": "Celljustering"
+  },
+  "tooltip_cell_h_align_center": {
+    "message": "Centrera v\u00e5gr\u00e4tt"
+  },
+  "tooltip_cell_h_align_left": {
+    "message": "V\u00e4nsterjustera"
+  },
+  "tooltip_cell_h_align_right": {
+    "message": "H\u00f6gerjustera"
+  },
+  "tooltip_cell_v_align_bottom": {
+    "message": "Underkant"
+  },
+  "tooltip_cell_v_align_center": {
+    "message": "Centrera lodr\u00e4tt"
+  },
+  "tooltip_cell_v_align_top": {
+    "message": "\u00d6verkant"
+  },
+  "tooltip_download": {
+    "message": "Ladda ned"
+  },
+  "tooltip_download_original": {
+    "message": "Ladda ned original"
+  },
+  "tooltip_dropdown_init_add_shape": {
+    "message": "Form"
+  },
+  "tooltip_fill_color": {
+    "message": "Textf\u00e4rg"
+  },
+  "tooltip_font_face": {
+    "message": "Teckensnitt"
+  },
+  "tooltip_font_size": {
+    "message": "Teckenstorlek"
+  },
+  "tooltip_highlight_color": {
+    "message": "Markeringsf\u00e4rg"
+  },
+  "tooltip_init_add_shape": {
+    "message": "Textruta"
+  },
+  "tooltip_italic": {
+    "message": "Kursiv"
+  },
+  "tooltip_merge": {
+    "message": "Sammanfoga celler"
+  },
+  "tooltip_merge_dropdown": {
+    "message": "V\u00e4lj sammanfogningstyp \u2026"
+  },
+  "tooltip_modify_shape_fill_color": {
+    "message": "Fyllningsf\u00e4rg"
+  },
+  "tooltip_modify_shape_outline_color": {
+    "message": "Linjef\u00e4rg"
+  },
+  "tooltip_modify_shape_outline_style": {
+    "message": "Streckad linje"
+  },
+  "tooltip_modify_shape_outline_width": {
+    "message": "Linjebredd"
+  },
+  "tooltip_move_slide": {
+    "message": "Flytta $1 bild(er)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "tooltip_point": {
+    "message": "Startsida f\u00f6r Presentationer"
+  },
+  "tooltip_point_toggle_bullet": {
+    "message": "Punktlista"
+  },
+  "tooltip_point_toggle_number": {
+    "message": "Numrerad lista"
+  },
+  "tooltip_presentation": {
+    "message": "Presentation"
+  },
+  "tooltip_print": {
+    "message": "Skriv ut"
+  },
+  "tooltip_redo": {
+    "message": "Upprepa"
+  },
+  "tooltip_share": {
+    "message": "Dela"
+  },
+  "tooltip_share_for_macroenabledfiles": {
+    "message": "Makroaktiverade filer kan bara delas fr\u00e5n Google Drive."
+  },
+  "tooltip_sheet": {
+    "message": "Startsida f\u00f6r Kalkylark"
+  },
+  "tooltip_strikethrough": {
+    "message": "Genomstruken"
+  },
+  "tooltip_style": {
+    "message": "Format"
+  },
+  "tooltip_text_align_center": {
+    "message": "Centrera"
+  },
+  "tooltip_text_align_justify": {
+    "message": "Justera"
+  },
+  "tooltip_text_align_left": {
+    "message": "V\u00e4nsterjustera"
+  },
+  "tooltip_text_align_right": {
+    "message": "H\u00f6gerjustera"
+  },
+  "tooltip_text_color": {
+    "message": "Textf\u00e4rg"
+  },
+  "tooltip_toggle_bulleted": {
+    "message": "Punktlista"
+  },
+  "tooltip_toggle_numbered": {
+    "message": "Numrerad lista"
+  },
+  "tooltip_toggle_zoom": {
+    "message": "Aktivera/inaktivera zoomverktyget"
+  },
+  "tooltip_underline": {
+    "message": "Understruken"
+  },
+  "tooltip_undo": {
+    "message": "\u00c5ngra"
+  },
+  "tooltip_word": {
+    "message": "Startsida f\u00f6r Dokument"
+  },
+  "tooltip_wrap_text": {
+    "message": "Radbyte"
+  },
+  "tooltip_zoom_in": {
+    "message": "Zooma in"
+  },
+  "tooltip_zoom_out": {
+    "message": "Zooma ut"
+  },
+  "try_again": {
+    "message": "F\u00f6rs\u00f6k igen"
+  },
+  "unable_to_execute_msg": {
+    "message": "Det gick inte att \u00f6ppna dokumentet."
+  },
+  "underline_aria_spoken_word": {
+    "message": "understruken"
+  },
+  "undo_aria_spoken_word": {
+    "message": "\u00e5ngra"
+  },
+  "unmerge_aria_spoken_word": {
+    "message": "separera"
+  },
+  "unsaved_changes": {
+    "message": "\u00c4ndringar som inte har sparats"
+  },
+  "unsaved_changes_warning": {
+    "message": "Det finns \u00e4ndringar som inte har sparats i filen. Om du l\u00e4mnar sidan utan att spara g\u00e5r alla \u00e4ndringar f\u00f6rlorade."
+  },
+  "unsupported_file_format_error_details_p1": {
+    "message": "Det g\u00e5r inte att \u00f6ppna den h\u00e4r filen eftersom det finns inneh\u00e5ll fr\u00e5n Microsoft\u00ae Office 95 eller tidigare i den."
+  },
+  "unsupported_file_format_error_details_p2": {
+    "message": "Klicka p\u00e5 l\u00e4nken nedan om du vill konvertera filen till Google Dokument-format."
+  },
+  "unsupported_file_format_error_title": {
+    "message": "Hoppsan!"
+  },
+  "unsupported_link_message": {
+    "message": "Webbadresser av den h\u00e4r typen st\u00f6ds inte f\u00f6r n\u00e4rvarande."
+  },
+  "up_key": {
+    "message": "Upp"
+  },
+  "updated_shortcut_message": {
+    "message": "Vi har uppdaterat v\u00e5ra kortkommandon s\u00e5 att samma kommandon anv\u00e4nds p\u00e5 alla Google Dokuments produkter. Du kan se de uppdaterade kortkommandona i hj\u00e4lpavsnittet."
+  },
+  "updated_shortcut_title": {
+    "message": "Uppdaterade kortkommandon"
+  },
+  "uploading_to_drive_for_office_editing_mode_point": {
+    "message": "Laddar upp till Drive och \u00f6ppnar i Presentationer"
+  },
+  "uploading_to_drive_for_office_editing_mode_sheet": {
+    "message": "Laddar upp till Drive och \u00f6ppnar i Kalkylark"
+  },
+  "uploading_to_drive_for_office_editing_mode_word": {
+    "message": "Laddar upp till Drive och \u00f6ppnar i Dokument"
+  },
+  "uploading_to_drive_msg_for_point": {
+    "message": "Laddar upp den h\u00e4r filen till Drive och \u00f6ppnar den i Google Presentationer."
+  },
+  "uploading_to_drive_msg_for_sheet": {
+    "message": "Laddar upp den h\u00e4r filen till Drive och \u00f6ppnar den i Google Kalkylark."
+  },
+  "uploading_to_drive_msg_for_word": {
+    "message": "Laddar upp den h\u00e4r filen till Drive och \u00f6ppnar den i Google Dokument."
+  },
+  "version_info_msg": {
+    "message": "Du anv\u00e4nder f\u00f6ljande version av Office-kompatibilitetsl\u00e4ge:"
+  },
+  "word_binary_upsave_learnmore": {
+    "message": "L\u00e4s mer"
+  },
+  "word_binary_upsave_msg": {
+    "message": "Det h\u00e4r filformatet st\u00f6ds inte. Innan vi kan spara filen beh\u00f6ver vi ditt tillst\u00e5nd att konvertera den till ett senare filformat. Originalfilen p\u00e5verkas inte."
+  },
+  "word_binary_upsave_shortmsg": {
+    "message": "Uppdatera dokumentet"
+  },
+  "word_count_label": {
+    "message": "Ord"
+  },
+  "word_count_title": {
+    "message": "R\u00e4kna ord"
+  },
+  "word_ocm_promo_conversion_msg": {
+    "message": "Du kan redigera Office-filer direkt i Dokument. Om du vill bjuda in andra s\u00e5 att de kan redigera och kommentera filerna sparar du dem i Google Dokument. Du kan n\u00e4r som helst spara i originalformatet igen."
+  },
+  "word_ocm_promo_office_editing_mode_msg": {
+    "message": "Nu kan du redigera och spara Office-filer direkt i Google Dokument. Om du vill bjuda in andra att redigera i realtid eller l\u00e4gga till kommentarer laddar du upp filen till Google Drive. Formatet p\u00e5 den h\u00e4r filen \u00e4ndras inte."
+  },
+  "word_share_promo_conversion_msg": {
+    "message": "Vill du dela dokumentet? Om du vill bjuda in andra s\u00e5 att ni kan redigera tillsammans konverterar du den till Google Dokument."
+  },
+  "word_share_promo_office_editing_mode_msg": {
+    "message": "Nu kan du redigera och spara Office-filer direkt i Google Dokument. Om du vill bjuda in andra att redigera i realtid eller l\u00e4gga till kommentarer laddar du upp filen till Google Drive. Formatet p\u00e5 den h\u00e4r filen \u00e4ndras inte."
+  },
+  "working_in_basic_editor_banner_text": {
+    "message": "Du anv\u00e4nder det grundl\u00e4ggande redigeringsl\u00e4get f\u00f6r Microsoft-filer"
+  },
+  "wraptext_aria_spoken_word": {
+    "message": "radbyte"
+  },
+  "zoomin_aria_spoken_word": {
+    "message": "zooma in"
+  },
+  "zoomout_aria_spoken_word": {
+    "message": "zooma ut"
+  }
+}

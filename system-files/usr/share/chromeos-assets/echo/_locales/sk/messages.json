@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Povoli\u0165"
+    }, 
+    "consent_denied": {
+        "message": "Neudelili ste n\u00e1m povolenie na overenie vhodnosti svojho zariadenia Chrome. Sk\u00faste ponuku uplatni\u0165 znovu a kliknite na mo\u017enos\u0165 Povoli\u0165, \u010d\u00edm n\u00e1m umo\u017en\u00edte overi\u0165 jeho vhodnos\u0165."
+    }, 
+    "deny_button_string": {
+        "message": "Odmietnu\u0165"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Platnos\u0165 ponuky pre va\u0161e zariadenie vypr\u0161ala."
+    }, 
+    "device_not_eligible": {
+        "message": "Ponuka sa nevz\u0165ahuje na va\u0161e zariadenie. $1Zobrazi\u0165 dostupn\u00e9 ponuky pre zariadenie$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "T\u00e1to ponuka nie je dostupn\u00e1 pre tento konkr\u00e9tny model zariadenia Chrome."
+    }, 
+    "dismiss_button_string": {
+        "message": "Zru\u0161i\u0165"
+    }, 
+    "dismiss_info_string": {
+        "message": "V\u00e1\u0161 spr\u00e1vca IT zak\u00e1zal na va\u0161om zariaden\u00ed doplnky Chrome Goodies."
+    }, 
+    "error_no_regcode": {
+        "message": "Zd\u00e1 sa, \u017ee na va\u0161om zariaden\u00ed nie je uveden\u00fd k\u00f3d ponuky. Kontaktujte $1podporu syst\u00e9mu OS Chrome$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Zd\u00e1 sa, \u017ee v\u00e1\u0161 pokus uplatni\u0165 t\u00fato ponuku poch\u00e1dza z neregistrovan\u00fdch webov\u00fdch str\u00e1nok."
+    }, 
+    "generic_error_message": {
+        "message": "Z nezn\u00e1mych d\u00f4vodov moment\u00e1lne nie je mo\u017en\u00e9 uplatni\u0165 va\u0161u ponuku. Sme z toho takisto zm\u00e4ten\u00ed. Sk\u00faste to nesk\u00f4r."
+    }, 
+    "info_string": {
+        "message": "Viac inform\u00e1ci\u00ed"
+    }, 
+    "learn_more": {
+        "message": "$1Viac inform\u00e1ci\u00ed$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Na ka\u017edom zariaden\u00ed m\u00f4\u017eete ponuku uplatni\u0165 iba raz a ponuka u\u017e bola uplatnen\u00e1. Na zariaden\u00ed sa mohol prihl\u00e1si\u0165 in\u00fd pou\u017e\u00edvate\u013e a predbehn\u00fa\u0165 v\u00e1s. Ak ste zariadenie k\u00fapili od v\u00fdrobcu ako repasovan\u00e9, ponuku mohol uplatni\u0165 predch\u00e1dzaj\u00faci majite\u013e. Ponuky nem\u00f4\u017eeme pren\u00e1\u0161a\u0165 na in\u00e9 \u00fa\u010dty ani ich obnovi\u0165 v pr\u00edpade repasovan\u00fdch zariaden\u00ed."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Ponuku sa nepodarilo uplatni\u0165. Mo\u017eno pou\u017e\u00edvate okno inkognito alebo ste prihl\u00e1sen\u00fd/-\u00e1 v re\u017eime hos\u0165a, kde ponuky nie je mo\u017en\u00e9 uplatni\u0165. Pou\u017eite \u0161tandardn\u00e9 okno a uistite sa, \u017ee nepou\u017e\u00edvate prihl\u00e1senie v re\u017eime hos\u0165a."
+    }, 
+    "notification_button": {
+        "message": "Uplatni\u0165 \u2013 po\u010det zost\u00e1vaj\u00facich dn\u00ed: $1", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Uplatnite svoje ponuky, k\u00fdm nie je neskoro"
+    }, 
+    "notification_title": {
+        "message": "Z\u00edskajte doplnky Goodies pre zariadenie Chrome"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "K\u00f3d, ktor\u00fd ste dostali od podpory syst\u00e9mu OS Chrome, sa uplat\u0148uje pre nespr\u00e1vnu ponuku. Kontaktujte znovu $1podporu syst\u00e9mu OS Chrome$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "Poskytovate\u013e $1 chce verifikova\u0165, \u010di pou\u017e\u00edvate vhodn\u00e9 zariadenie so syst\u00e9mom OS Chrome.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Registra\u010dn\u00fd k\u00f3d na va\u0161om zariaden\u00ed je neplatn\u00fd."
+    }, 
+    "sorry_about_that": {
+        "message": "Je n\u00e1m to \u013e\u00fato"
+    }
+}

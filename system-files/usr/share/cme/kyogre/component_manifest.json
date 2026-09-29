@@ -1,0 +1,105 @@
+{
+    "manifest_version": 1,
+    "ec_version": "kyogre-15194.270.0",
+    "component_list": [
+        {
+            "component_type": "charger",
+            "component_name": "intersil,isl9238",
+            "i2c": {
+                "port": 3,
+                "addr": "0x9",
+                "expect": [
+                    {
+                        "reg": "0xff",
+                        "mask": "0xff",
+                        "value": "0x0c"
+                    }
+                ]
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "charger",
+            "component_name": "intersil,isl9237",
+            "i2c": {
+                "port": 3,
+                "addr": "0x9",
+                "expect": [
+                    {
+                        "reg": "0xff",
+                        "mask": "0xff",
+                        "value": "0x0a"
+                    }
+                ]
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "ppc",
+            "component_name": "nxp,nx20p348x",
+            "i2c": {
+                "port": 7,
+                "addr": "0x72"
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "tcpc",
+            "component_name": "analogix,anx7447",
+            "i2c": {
+                "port": 7,
+                "addr": "0x2c"
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "mux",
+            "component_name": "parade,ps8743",
+            "i2c": {
+                "port": 2,
+                "addr": "0x10"
+            },
+            "usbc": {
+                "port": 1
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "st,lis2dw12",
+            "i2c": {
+                "port": 0,
+                "addr": "0x19",
+                "expect": [
+                    {
+                        "reg": "0x0f",
+                        "mask": "0xff",
+                        "value": "0x44"
+                    }
+                ]
+            }
+        },
+        {
+            "component_type": "accel",
+            "component_name": "st,lsm6dso",
+            "i2c": {
+                "port": 0,
+                "addr": "0x6b",
+                "expect": [
+                    {
+                        "reg": "0x0f",
+                        "mask": "0xff",
+                        "value": "0x6C"
+                    }
+                ]
+            }
+        }
+    ]
+}

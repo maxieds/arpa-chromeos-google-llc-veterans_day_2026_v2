@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Tillat"
+    }, 
+    "consent_denied": {
+        "message": "Du ga oss ikke tillatelse til \u00e5 bekrefte at Chrome-enheten din er kvalifisert. Pr\u00f8v \u00e5 l\u00f8se inn tilbudet p\u00e5 nytt, og klikk p\u00e5 \u00abTillat\u00bb for \u00e5 la oss sjekke om du er kvalifisert."
+    }, 
+    "deny_button_string": {
+        "message": "Ikke tillat"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Dette tilbudet er utl\u00f8pt for enheten din."
+    }, 
+    "device_not_eligible": {
+        "message": "Enheten din er ikke kvalifisert for dette tilbudet. $1Se tilgjengelige tilbud for enheten din$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Dette tilbudet er ikke tilgjengelig for Chrome-enhetsmodellen du bruker."
+    }, 
+    "dismiss_button_string": {
+        "message": "Avvis"
+    }, 
+    "dismiss_info_string": {
+        "message": "IT-administratoren din har deaktivert ekstrafunksjoner for Chrome p\u00e5 enheten din."
+    }, 
+    "error_no_regcode": {
+        "message": "Enheten ser ikke ut til \u00e5 ha noen tilbudskode. Ta kontakt med $1Chrome OS-brukerst\u00f8tten$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Fors\u00f8ket ditt p\u00e5 \u00e5 l\u00f8se inn dette tilbudet ser ut til \u00e5 ha kommet fra et uregistrert nettsted."
+    }, 
+    "generic_error_message": {
+        "message": "Av ukjente \u00e5rsaker kan vi ikke l\u00f8se inn tilbudet p\u00e5 dette tidspunktet. Dette forvirrer oss ogs\u00e5. Pr\u00f8v p\u00e5 nytt senere."
+    }, 
+    "info_string": {
+        "message": "Finn ut mer"
+    }, 
+    "learn_more": {
+        "message": "$1Finn ut mer$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Du kan bare l\u00f8se inn dette tilbudet \u00e9n gang per enhet, og det er allerede innl\u00f8st. En annen person p\u00e5 denne enheten kan ha logget p\u00e5 og innl\u00f8st det f\u00f8r deg. Hvis du eventuelt kj\u00f8pte denne enheten som et produkt med brutt forsegling, kan den forrige eieren ha benyttet seg av tilbudet. Dessverre kan vi ikke overf\u00f8re tilbud til andre kontoer, og vi kan ikke fornye tilbud p\u00e5 enheter kj\u00f8pt med brutt forsegling."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Tilbudet kan ikke l\u00f8ses inn. Hvis du bruker et inkognito-vindu eller er logget p\u00e5 i gjestemodus kan du ikke innl\u00f8se tilbud. Bruk et vanlig vindu og sjekk at du ikke bruker gjestep\u00e5logging."
+    }, 
+    "notification_button": {
+        "message": "L\u00f8s inn \u2013 $1 dager igjen", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Innl\u00f8s dem f\u00f8r det er for sent"
+    }, 
+    "notification_title": {
+        "message": "F\u00e5 tilbeh\u00f8r til Chrome-enheten din"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Koden du mottok fra Chrome OS-brukerst\u00f8tten blir brukt til \u00e5 innl\u00f8se feil tilbud. Ta kontakt med $1Chrome OS-brukerst\u00f8tten$2 igjen.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 \u00f8nsker \u00e5 bekrefte at du bruker en kompatibel Chrome OS-enhet.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Registreringskoden p\u00e5 enheten din er ikke gyldig."
+    }, 
+    "sorry_about_that": {
+        "message": "Vi beklager dette"
+    }
+}

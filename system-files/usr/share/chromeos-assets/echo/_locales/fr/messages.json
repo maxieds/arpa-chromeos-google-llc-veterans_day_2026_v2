@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Autoriser"
+    }, 
+    "consent_denied": {
+        "message": "Vous ne nous avez pas autoris\u00e9s \u00e0 v\u00e9rifier l'\u00e9ligibilit\u00e9 de votre appareil Chrome. Veuillez r\u00e9essayer d'utiliser l'offre et cliquer sur \"Autoriser\" pour que nous puissions v\u00e9rifier votre \u00e9ligibilit\u00e9."
+    }, 
+    "deny_button_string": {
+        "message": "Refuser"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Cette offre est arriv\u00e9e \u00e0 expiration pour cet appareil."
+    }, 
+    "device_not_eligible": {
+        "message": "Votre appareil ne remplit pas les conditions requises pour cette offre. $1Afficher les offres disponibles pour cet appareil$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Cette offre n'est pas disponible pour ce mod\u00e8le sp\u00e9cifique d'appareil Chrome."
+    }, 
+    "dismiss_button_string": {
+        "message": "Ignorer"
+    }, 
+    "dismiss_info_string": {
+        "message": "Votre administrateur informatique a d\u00e9sactiv\u00e9 les bonus Chrome pour votre appareil."
+    }, 
+    "error_no_regcode": {
+        "message": "Votre appareil ne semble pas avoir de code d'offre. Veuillez contacter l'$1assistance Chrome\u00a0OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Il semblerait que vous ayez tent\u00e9 d'utiliser cette offre \u00e0 partir d'un site Web non reconnu."
+    }, 
+    "generic_error_message": {
+        "message": "Pour une raison inconnue, nous ne sommes pas en mesure de vous faire b\u00e9n\u00e9ficier de cette offre pour le moment. Nous ne savons pas \u00e0 quoi cela est d\u00fb. Veuillez r\u00e9essayer plus tard."
+    }, 
+    "info_string": {
+        "message": "En savoir plus"
+    }, 
+    "learn_more": {
+        "message": "$1En savoir plus$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Vous ne pouvez utiliser cette offre qu'une seule fois par appareil, et celle-ci a d\u00e9j\u00e0 \u00e9t\u00e9 utilis\u00e9e. Il est possible qu'une autre personne utilisant cet appareil se soit connect\u00e9e et vous ait devanc\u00e9. Ou, s'il s'agit d'un appareil achet\u00e9 apr\u00e8s avoir \u00e9t\u00e9 retourn\u00e9 dans son emballage, le propri\u00e9taire pr\u00e9c\u00e9dent peut l'avoir utilis\u00e9e. Malheureusement, nous ne pouvons pas transf\u00e9rer les offres vers d'autres comptes ni renouveler les offres se rapportant \u00e0 des appareils achet\u00e9s apr\u00e8s avoir \u00e9t\u00e9 retourn\u00e9s dans leur emballage."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Impossible d'utiliser l'offre. Il est possible que vous utilisiez une fen\u00eatre de navigation priv\u00e9e ou que vous soyez connect\u00e9 en mode Invit\u00e9, auxquels cas vous ne pouvez pas utiliser cette offre. Ouvrez une fen\u00eatre standard, et assurez-vous que vous n'\u00eates pas connect\u00e9 en tant qu'invit\u00e9."
+    }, 
+    "notification_button": {
+        "message": "Utiliser\u00a0\u2013\u00a0$1\u00a0jours restants", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Utilisez-les avant qu'ils n'expirent."
+    }, 
+    "notification_title": {
+        "message": "Obtenir des bonus pour l'appareil Chrome"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Le code que vous avez re\u00e7u de la part de l'assistance Chrome\u00a0OS est utilis\u00e9 pour faire valoir la mauvaise offre. Veuillez contacter de nouveau l'$1assistance Chrome\u00a0OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 veut s'assurer que vous utilisez un appareil Google\u00a0Chrome\u00a0OS \u00e9ligible.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Le code d'enregistrement de votre appareil n'est pas valide."
+    }, 
+    "sorry_about_that": {
+        "message": "Nous sommes d\u00e9sol\u00e9s."
+    }
+}

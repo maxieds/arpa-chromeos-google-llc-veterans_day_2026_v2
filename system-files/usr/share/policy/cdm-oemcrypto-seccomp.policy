@@ -1,0 +1,105 @@
+# Copyright 2017 The ChromiumOS Authors
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+rseq: 1
+epoll_pwait: 1
+gettid: 1
+sendto: 1
+read: 1
+close: 1
+openat: 1
+statx: 1
+faccessat: 1
+faccessat2: 1
+write: 1
+# Make sure PROT_WRITE (bit 1) and PROT_EXEC (bit 2) are not both set.
+mmap: arg2 in 0xfffffffb || arg2 in 0xfffffffd
+sendmsg: 1
+munmap: 1
+futex: 1
+# Disallow mprotect with PROT_EXEC set.
+mprotect: arg2 in 0xfffffffb
+fstat: 1
+rt_sigaction: 1
+recvmsg: 1
+ppoll: 1
+connect: 1
+brk: 1
+getsockname: 1
+fcntl: 1
+rt_sigprocmask: 1
+getuid: 1
+epoll_ctl: 1
+geteuid: 1
+getgid: 1
+getegid: 1
+getpid: 1
+socket: arg0 == AF_UNIX || arg0 == AF_INET || arg0 == AF_INET6 || arg0 == AF_NETLINK
+signalfd4: 1
+clone: 1
+pipe2: 1
+restart_syscall: 1
+exit: 1
+exit_group: 1
+rt_sigreturn: 1
+lseek: 1
+epoll_create1: 1
+getresuid: 1
+clock_getres: 1
+bind: 1
+getsockopt: 1
+getresgid: 1
+dup: 1
+dup3: 1
+getrlimit: 1
+set_tid_address: 1
+setsockopt: 1
+set_robust_list: 1
+# Allow ioctl(request==FIONREAD)
+# The following are for Op-Tee.
+# 0x800ca400 == TEE_IOC_VERSION
+# 0xc010a401 == TEE_IOC_SHM_ALLOC
+# 0x8010a402 == TEE_IOC_OPEN_SESSION
+# 0x8010a403 == TEE_IOC_INVOKE
+# 0x8008a404 == TEE_IOC_CANCEL
+# 0x8004a405 == TEE_IOC_CLOSE_SESSION
+# 0xc018a409 == TEE_IOC_SHM_REGISTER
+# For secure DMA buf allocation.
+# 0xc0184800 == DMA_HEAP_IOCTL_ALLOC
+ioctl: arg1 == 0x541B || arg1 == 0x800ca400 || arg1 == 0xc010a401 || \
+       arg1 == 0x8010a402 || arg1 == 0x8010a403 || arg1 == 0x8008a404 || \
+       arg1 == 0x8004a405 || arg1 == 0xc018a409 || arg1 == 0xc0184800
+getpeername: 1
+sysinfo: 1
+wait4: 1
+recvfrom: 1
+# allow setpriority(which==PRIO_PROCESS)
+setpriority: arg0 == 0x0
+# Allow PR_SET_NAME from libchrome's base::PlatformThread::SetName()
+# allow prctl(option==PR_SET_NO_NEW_PRIVS)
+prctl: arg0 == 0xf || arg0 == 0x26
+getdents64: 1
+madvise: 1
+readlinkat: 1
+renameat: 1
+unlinkat: 1
+sched_yield: 1
+tgkill: 1
+nanosleep: 1
+clock_nanosleep: 1
+clock_gettime: 1
+setitimer: 1
+gettimeofday: 1
+uname: 1
+prlimit64: arg2 == 0 && arg3 != 0
+getrandom: 1
+newfstatat: 1
+mlock: 1
+munlock: 1
+socketpair: 1
+sched_setattr: 1
+sched_getattr: 1
+fstatfs: 1
+eventfd2: 1
+memfd_create: 1
+process_vm_readv: 1

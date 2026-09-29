@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Dovoli"
+    }, 
+    "consent_denied": {
+        "message": "Niste nam dovolili, da preverimo ustreznost va\u0161e naprave Chrome. Poskusite znova unov\u010diti ponudbo in kliknite \u00bbDovoli\u00ab, da bomo lahko preverili ustreznost."
+    }, 
+    "deny_button_string": {
+        "message": "Ne dovoli"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Ta ponudba je potekla za va\u0161o napravo."
+    }, 
+    "device_not_eligible": {
+        "message": "Va\u0161a naprava ni ustrezna za to ponudbo. $1Oglejte si razpolo\u017eljive ponudbe za va\u0161o napravo$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Ta ponudba ni na voljo za model va\u0161e naprave Chrome."
+    }, 
+    "dismiss_button_string": {
+        "message": "Opusti"
+    }, 
+    "dismiss_info_string": {
+        "message": "Skrbnik za IT je za va\u0161o napravo onemogo\u010dil dodatke za Chrome."
+    }, 
+    "error_no_regcode": {
+        "message": "Videti je, da va\u0161a naprava nima kode ponudbe. Obrnite se na $1podporo za Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Videti je, da va\u0161 poskus unov\u010denja te ponudbe izvira z neregistriranega spletnega mesta."
+    }, 
+    "generic_error_message": {
+        "message": "Iz neznanega razloga va\u0161e ponudbe trenutno ne moremo unov\u010diti. Preverite znova pozneje."
+    }, 
+    "info_string": {
+        "message": "Ve\u010d o tem"
+    }, 
+    "learn_more": {
+        "message": "$1Ve\u010d o tem$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "To ponudbo lahko unov\u010dite samo enkrat na napravo, pri \u010demer je ta ponudba \u017ee unov\u010dena. Morda se je v tej napravi prijavila druga oseba in vas je prehitela. \u010ce ste kupili rabljeno napravo, je ponudbo morda unov\u010dil prej\u0161nji lastnik. Ponudb \u017eal ne moremo prenesti na druge ra\u010dune in pri rabljenih napravah ponudb ne moremo obnoviti."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Ponudbe ni mogo\u010de unov\u010diti. Morda uporabljate okno brez bele\u017eenja zgodovine ali ste se prijavili v na\u010din za goste. Uporabite obi\u010dajno okno in preverite, ali ne uporabljate na\u010dina za goste."
+    }, 
+    "notification_button": {
+        "message": "Unov\u010denje \u2013 \u0161e toliko dni: $1", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Unov\u010dite jih, preden bo prepozno"
+    }, 
+    "notification_title": {
+        "message": "Dodatki za napravo Chrome"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Koda, ki ste jo prejeli od podpore za Chrome OS, se uporablja za unov\u010denje napa\u010dne ponudbe. Znova se obrnite na $1podporo za Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 \u017eeli preveriti, ali uporabljate upravi\u010deno napravo Chrome OS.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Registracijska koda naprave ni veljavna."
+    }, 
+    "sorry_about_that": {
+        "message": "Oprostite"
+    }
+}

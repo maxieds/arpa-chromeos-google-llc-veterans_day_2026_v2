@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Allow"
+    }, 
+    "consent_denied": {
+        "message": "You did not give us permission to verify the eligibility of your Chrome device. Please try to redeem the offer again and click \"Allow\" to let us verify your eligibility."
+    }, 
+    "deny_button_string": {
+        "message": "Deny"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "This offer has expired for your device."
+    }, 
+    "device_not_eligible": {
+        "message": "Your device is not eligible for this offer. $1View available offers for your device$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "This offer is not available for your specific Chrome device model."
+    }, 
+    "dismiss_button_string": {
+        "message": "Dismiss"
+    }, 
+    "dismiss_info_string": {
+        "message": "Your IT administrator has disabled Chrome Goodies for your device."
+    }, 
+    "error_no_regcode": {
+        "message": "Your device does not appear to have an offer code on it. Please contact $1Chrome OS support$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Your attempt to redeem this offer appears to have come from an unregistered website."
+    }, 
+    "generic_error_message": {
+        "message": "For some reason, we can't redeem your offer at this time. We're also confused by this. Please check back later."
+    }, 
+    "info_string": {
+        "message": "Learn More"
+    }, 
+    "learn_more": {
+        "message": "$1Learn more$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "You can only redeem this offer once per device, and it has already been redeemed. Another person on this device may have logged in and beat you to it. Or, if you bought this device as an open-box device, the previous owner may have grabbed it. Unfortunately, we cannot transfer offers to other accounts and we can't renew offers on open-box devices."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Unable to redeem offer. You may be using an Incognito window or logged into Guest mode where offers cannot be redeemed. Please use a regular window and ensure that you are not using a Guest login."
+    }, 
+    "notification_button": {
+        "message": "Redeem \u2013 $1 days left", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Redeem them before it's too late"
+    }, 
+    "notification_title": {
+        "message": "Get goodies for Chrome device"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "The code that you received from Chrome OS support is being used to redeem the wrong offer. Please contact $1Chrome OS support$2 again.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 wants to verify that you are using an eligible Chrome OS device.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "The registration code on your device is not valid."
+    }, 
+    "sorry_about_that": {
+        "message": "Sorry about that"
+    }
+}

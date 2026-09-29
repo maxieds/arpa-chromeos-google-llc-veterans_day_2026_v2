@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Permitir"
+    }, 
+    "consent_denied": {
+        "message": "Voc\u00ea n\u00e3o nos deu permiss\u00e3o para confirmar se seu dispositivo Chrome est\u00e1 qualificado. Tente resgatar a oferta novamente e clique em \"Permitir\" para que possamos confirmar sua qualifica\u00e7\u00e3o."
+    }, 
+    "deny_button_string": {
+        "message": "Negar"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Esta oferta expirou para seu dispositivo."
+    }, 
+    "device_not_eligible": {
+        "message": "Seu dispositivo n\u00e3o est\u00e1 qualificado para esta oferta. $1Visualize as ofertas dispon\u00edveis para seu dispositivo$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Esta oferta n\u00e3o est\u00e1 dispon\u00edvel para seu modelo espec\u00edfico de dispositivo Chrome."
+    }, 
+    "dismiss_button_string": {
+        "message": "Dispensar"
+    }, 
+    "dismiss_info_string": {
+        "message": "Seu administrador de TI desativou os Goodies do Google Chrome para seu dispositivo."
+    }, 
+    "error_no_regcode": {
+        "message": "Parece que seu dispositivo n\u00e3o tem um c\u00f3digo de oferta. Entre em contato com o $1Suporte do Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Sua tentativa de resgatar esta oferta parece ser proveniente de um website n\u00e3o registrado."
+    }, 
+    "generic_error_message": {
+        "message": "Por alguma raz\u00e3o, n\u00e3o podemos resgatar sua oferta neste momento. Tamb\u00e9m n\u00e3o sabemos muito sobre o motivo deste erro. Volte mais tarde."
+    }, 
+    "info_string": {
+        "message": "Saiba mais"
+    }, 
+    "learn_more": {
+        "message": "$1Saiba mais$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "S\u00f3 \u00e9 poss\u00edvel resgatar esta oferta uma vez por dispositivo, e ela j\u00e1 foi resgatada. Outro usu\u00e1rio deste dispositivo pode ter feito login e chegado na sua frente. Ou, caso voc\u00ea tenha comprado este dispositivo com a caixa aberta, o propriet\u00e1rio anterior pode ter resgatado a oferta. Infelizmente, n\u00e3o podemos transferir ofertas para outras contas, nem renovar ofertas em dispositivos adquiridos em caixa aberta."
+    }, 
+    "nonregular_mode_message": {
+        "message": "N\u00e3o \u00e9 poss\u00edvel resgatar a oferta. Voc\u00ea pode estar usando uma janela an\u00f4nima ou conectado no modo de convidado, o que impede o resgate das ofertas. Use uma janela normal e verifique se n\u00e3o est\u00e1 utilizando um login de convidado."
+    }, 
+    "notification_button": {
+        "message": "Resgatar: $1 dias restantes", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Resgate antes que seja tarde demais"
+    }, 
+    "notification_title": {
+        "message": "Resgatar Goodies para o dispositivo Chrome"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "O c\u00f3digo que voc\u00ea recebeu do Suporte do Chrome OS est\u00e1 sendo usado para resgatar a oferta errada. Entre em contato com o $1Suporte do Chrome OS$2 novamente.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 quer confirmar se voc\u00ea est\u00e1 usando um dispositivo Chrome OS qualificado.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "O c\u00f3digo de registro no seu dispositivo n\u00e3o \u00e9 v\u00e1lido."
+    }, 
+    "sorry_about_that": {
+        "message": "Lamentamos por isso"
+    }
+}

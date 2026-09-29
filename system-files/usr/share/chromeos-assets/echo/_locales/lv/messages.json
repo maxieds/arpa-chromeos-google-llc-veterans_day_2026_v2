@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "At\u013caut"
+    }, 
+    "consent_denied": {
+        "message": "J\u016bs neat\u013c\u0101v\u0101t mums p\u0101rbaud\u012bt j\u016bsu Chrome ier\u012bces piem\u0113rot\u012bbu. L\u016bdzu, m\u0113\u0123iniet v\u0113lreiz izpirkt pied\u0101v\u0101jumu un noklik\u0161\u0137iniet uz \u201cAt\u013caut\u201d, lai at\u013cautu p\u0101rbaud\u012bt piem\u0113rot\u012bbu."
+    }, 
+    "deny_button_string": {
+        "message": "Noraid\u012bt"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "\u0160is pied\u0101v\u0101jums j\u016bsu ier\u012bcei vairs nav sp\u0113k\u0101."
+    }, 
+    "device_not_eligible": {
+        "message": "J\u016bsu ier\u012bce nav piem\u0113rota \u0161im pied\u0101v\u0101jumam. $1Skatiet ier\u012bcei pieejamos pied\u0101v\u0101jumus$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "\u0160is pied\u0101v\u0101jums nav pieejams konkr\u0113tajam j\u016bsu Chrome ier\u012bces modelim."
+    }, 
+    "dismiss_button_string": {
+        "message": "Ner\u0101d\u012bt"
+    }, 
+    "dismiss_info_string": {
+        "message": "IT\u00a0administrators ir atsp\u0113jojis Chrome pied\u0101v\u0101jumus j\u016bsu ier\u012bcei."
+    }, 
+    "error_no_regcode": {
+        "message": "\u0160\u0137iet, ka ier\u012bc\u0113 nav pied\u0101v\u0101juma koda. L\u016bdzu, sazinieties ar $1Chrome\u00a0OS atbalsta dienestu$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "\u0160\u0137iet, ka m\u0113\u0123in\u0101j\u0101t izpirkt \u0161o pied\u0101v\u0101jumu no nere\u0123istr\u0113tas vietnes."
+    }, 
+    "generic_error_message": {
+        "message": "Nenoteiktu iemeslu d\u0113\u013c pa\u0161laik nevaram izpirkt j\u016bsu pied\u0101v\u0101jumu. Ar\u012b m\u016bs uztrauc \u0161\u012b probl\u0113ma. L\u016bdzu, v\u0113l\u0101k p\u0101rbaudiet v\u0113lreiz."
+    }, 
+    "info_string": {
+        "message": "Uzziniet vair\u0101k"
+    }, 
+    "learn_more": {
+        "message": "$1Uzziniet vair\u0101k$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "\u0160o pied\u0101v\u0101jumu vienai ier\u012bcei var izpirkt tikai vienu reizi, un pied\u0101v\u0101jums jau ir izpirkts. Iesp\u0113jams, cits \u0161\u012bs ier\u012bces lietot\u0101js ir pieteicies un j\u016bs apsteidzis. Savuk\u0101rt, ja esat ieg\u0101d\u0101jies lietotu ier\u012bci, iesp\u0113jams, iepriek\u0161\u0113jais lietot\u0101js jau ir izpircis \u0161o pied\u0101v\u0101jumu. Diem\u017e\u0113l pied\u0101v\u0101jumus nevar p\u0101rs\u016bt\u012bt uz citiem kontiem un nevar atjaunot pied\u0101v\u0101jumus lietot\u0101m ier\u012bc\u0113m."
+    }, 
+    "nonregular_mode_message": {
+        "message": "Nevar izpirkt pied\u0101v\u0101jumu. Iesp\u0113jams, j\u016bs izmantojat inkognito logu vai esat pieteicies viesa re\u017e\u012bm\u0101, kur pied\u0101v\u0101jumus nevar izpirkt. L\u016bdzu, izmantojiet parastu logu un piesakieties ar savu kontu, nevis k\u0101 viesis."
+    }, 
+    "notification_button": {
+        "message": "Izpirk\u0161ana\u00a0\u2014 palikusi(-\u0161as) $1\u00a0diena(-as)", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Izp\u0113rciet pied\u0101v\u0101jumus, kam\u0113r tie ir sp\u0113k\u0101."
+    }, 
+    "notification_title": {
+        "message": "Sa\u0146emiet pied\u0101v\u0101jumus Chrome ier\u012bcei"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Kods, kuru sa\u0146\u0113m\u0101t no Chrome\u00a0OS atbalsta dienesta, tiek izmantots, lai izpirktu citu pied\u0101v\u0101jumu. L\u016bdzu, v\u0113lreiz sazinieties ar $1Chrome\u00a0OS atbalsta dienestu$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 v\u0113las p\u0101rbaud\u012bt, vai izmantojat piem\u0113rotu Chrome\u00a0OS ier\u012bci.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "Ier\u012bc\u0113 eso\u0161ais re\u0123istr\u0101cijas kods nav der\u012bgs."
+    }, 
+    "sorry_about_that": {
+        "message": "Atvainojiet par sag\u0101d\u0101taj\u0101m ne\u0113rt\u012bb\u0101m!"
+    }
+}

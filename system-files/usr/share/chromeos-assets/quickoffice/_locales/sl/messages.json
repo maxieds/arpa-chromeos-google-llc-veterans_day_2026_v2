@@ -1,0 +1,2333 @@
+{
+  "action_create_user_feedback": {
+    "message": "Prijava te\u017eave"
+  },
+  "alt_key": {
+    "message": "Alt"
+  },
+  "always_use_office_editing_mode": {
+    "message": "Vedno to izvedi za podprte datoteke zbirke Office v Googlu Drive in Gmailu"
+  },
+  "app_error_learn_more": {
+    "message": "Ve\u010d o tem"
+  },
+  "app_error_report_feedback": {
+    "message": "Po\u0161iljanje povratnih informacij"
+  },
+  "app_icon_aria_spoken_word": {
+    "message": " za\u010detna stran"
+  },
+  "app_nacl_crash_msg": {
+    "message": "Pomagajte nam. Prijavite te\u017eavo."
+  },
+  "app_nacl_crash_report": {
+    "message": "Prijavite te\u017eavo ..."
+  },
+  "app_nacl_crash_title": {
+    "message": "Ups. To se ne bi smelo zgoditi. Znova nalo\u017eite stran, \u010de \u017eelite obnoviti spremembe."
+  },
+  "app_nacl_error_load_failed": {
+    "message": "Datoteke ni bilo mogo\u010de odpreti. Zaprite Chromove zavihke ali ga znova za\u017eenite in poskusite znova. \u010ce te\u017eave s tem ne odpravite, nas o njej obvestite spodaj."
+  },
+  "app_nacl_error_title": {
+    "message": "Datoteke ni mogo\u010de odpreti."
+  },
+  "app_nacl_error_unsupported_device": {
+    "message": "Ta naprava ne podpira Chromove raz\u0161iritve za urejanje dokumentov zbirke Office za Google Dokumente, Google Preglednice in Google Predstavitve."
+  },
+  "app_saving_failed_error_msg": {
+    "message": "Pri shranjevanju datoteke je pri\u0161lo do te\u017eave. Poskusite znova pozneje. \u010ce te\u017eave ne morete odpraviti, nas o njej obvestite."
+  },
+  "app_saving_failed_error_short_msg": {
+    "message": "Datoteke ni mogo\u010de shraniti."
+  },
+  "backgroundcolor_aria_spoken_word": {
+    "message": "spustni seznam za barvo ozadja celice"
+  },
+  "banner_dismiss": {
+    "message": "Opusti"
+  },
+  "basic_editor_conversion_shortmsg": {
+    "message": "Ste v na\u010dinu osnovnega urejevalnika"
+  },
+  "basic_editor_mode": {
+    "message": "Osnovni urejevalnik"
+  },
+  "basic_editor_promo_conversion_msg": {
+    "message": "Delate v osnovnem urejevalniku datotek Microsoft. Mo\u017enosti urejanja so morda omejene. Datoteka se bo med urejanjem samodejno shranila."
+  },
+  "bold_aria_spoken_word": {
+    "message": "krepko"
+  },
+  "border_all_aria_spoken_word": {
+    "message": "vse obrobe"
+  },
+  "border_aria_spoken_word": {
+    "message": "spustni seznam za obrobo"
+  },
+  "border_bottom_aria_spoken_word": {
+    "message": "spodnja obroba"
+  },
+  "border_horizontal_aria_spoken_word": {
+    "message": "vodoravna obroba"
+  },
+  "border_inner_aria_spoken_word": {
+    "message": "notranja obroba"
+  },
+  "border_left_aria_spoken_word": {
+    "message": "leva obroba"
+  },
+  "border_none_aria_spoken_word": {
+    "message": "brez obrobe"
+  },
+  "border_outer_aria_spoken_word": {
+    "message": "zunanja obroba"
+  },
+  "border_right_aria_spoken_word": {
+    "message": "desna obroba"
+  },
+  "border_top_aria_spoken_word": {
+    "message": "zgornja obroba"
+  },
+  "border_vertical_aria_spoken_word": {
+    "message": "navpi\u010dna obroba"
+  },
+  "button_drive_promo_office_editing_mode_point": {
+    "message": "Odpri v Google Predstavitvah"
+  },
+  "button_drive_promo_office_editing_mode_sheet": {
+    "message": "Odpri v Google Preglednicah"
+  },
+  "button_drive_promo_office_editing_mode_word": {
+    "message": "Odpri v Google Dokumentih"
+  },
+  "button_ocm_convert_cancel": {
+    "message": "Prekli\u010di"
+  },
+  "button_ocm_oem_cancel": {
+    "message": "Prekli\u010di"
+  },
+  "button_ocm_promo_conversion_point": {
+    "message": "Shrani kot datoteko Google Predstavitev"
+  },
+  "button_ocm_promo_conversion_sheet": {
+    "message": "Shrani kot datoteko Google Preglednic"
+  },
+  "button_ocm_promo_conversion_word": {
+    "message": "Shrani kot datoteko Google Dokumentov"
+  },
+  "button_ocm_promo_office_editing_mode_point": {
+    "message": "Nalo\u017ei v Google Drive in odpri v Predstavitvah"
+  },
+  "button_ocm_promo_office_editing_mode_sheet": {
+    "message": "Nalo\u017ei v Google Drive in odpri v Preglednicah"
+  },
+  "button_ocm_promo_office_editing_mode_word": {
+    "message": "Nalo\u017ei v Google Drive in odpri v Dokumentih"
+  },
+  "button_share_convert_cancel": {
+    "message": "Prekli\u010di"
+  },
+  "button_share_oem_cancel": {
+    "message": "Prekli\u010di"
+  },
+  "button_share_promo_conversion_point": {
+    "message": "Shrani kot datoteko Google Predstavitev"
+  },
+  "button_share_promo_conversion_sheet": {
+    "message": "Shrani kot datoteko Google Preglednic"
+  },
+  "button_share_promo_conversion_word": {
+    "message": "Shrani kot datoteko Google Dokumentov"
+  },
+  "button_share_promo_office_editing_mode": {
+    "message": "Nalo\u017ei v Google Drive za deljenje"
+  },
+  "cell_align_aria_spoken_word": {
+    "message": "Poravnava celic"
+  },
+  "cellalign_aria_spoken_word": {
+    "message": "spustni seznam za poravnavo celic"
+  },
+  "cellhaligncenter_aria_spoken_word": {
+    "message": "Vodoravna poravnava na sredino"
+  },
+  "cellhalignleft_aria_spoken_word": {
+    "message": "Vodoravna poravnava levo"
+  },
+  "cellhalignright_aria_spoken_word": {
+    "message": "Vodoravna poravnava desno"
+  },
+  "cellvalignbottom_aria_spoken_word": {
+    "message": "Navpi\u010dna poravnava spodaj"
+  },
+  "cellvaligncenter_aria_spoken_word": {
+    "message": "Navpi\u010dna poravnava na sredino"
+  },
+  "cellvaligntop_aria_spoken_word": {
+    "message": "Navpi\u010dna poravnava zgoraj"
+  },
+  "char_count_label": {
+    "message": "\u0160tevilo znakov"
+  },
+  "char_no_spaces_count_label": {
+    "message": "\u0160tevilo znakov brez presledkov"
+  },
+  "close_dialog_aria_spoken_word": {
+    "message": "Zapri pogovorno okno"
+  },
+  "cmd_dropdown_initaddshape_aria_spoken_word": {
+    "message": "spustni seznam za oblike"
+  },
+  "collapsed": {
+    "message": "Strnjeno"
+  },
+  "collapsed_menu": {
+    "message": "$1 Strnjeno s podmenijem.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "color_black": {
+    "message": "\u010crna"
+  },
+  "color_blaze_orange": {
+    "message": "\u017dare\u010da oran\u017ena"
+  },
+  "color_blue": {
+    "message": "Modra"
+  },
+  "color_brown": {
+    "message": "Rjava"
+  },
+  "color_cornflower_blue": {
+    "message": "Plavi\u010dasto modra"
+  },
+  "color_cyan": {
+    "message": "Cianova"
+  },
+  "color_dark_blue": {
+    "message": "Temno modra"
+  },
+  "color_dark_blue_1": {
+    "message": "Temno modra 1"
+  },
+  "color_dark_blue_2": {
+    "message": "Temno modra 2"
+  },
+  "color_dark_blue_3": {
+    "message": "Temno modra 3"
+  },
+  "color_dark_blue_grey": {
+    "message": "Temno modro siva"
+  },
+  "color_dark_cornflower_blue_1": {
+    "message": "Temno plavi\u010dasto modra 1"
+  },
+  "color_dark_cornflower_blue_2": {
+    "message": "Temno plavi\u010dasto modra 2"
+  },
+  "color_dark_cornflower_blue_3": {
+    "message": "Temno plavi\u010dasto modra 3"
+  },
+  "color_dark_cyan": {
+    "message": "Temno cianova"
+  },
+  "color_dark_cyan_1": {
+    "message": "Temno cianova 1"
+  },
+  "color_dark_cyan_2": {
+    "message": "Temno cianova 2"
+  },
+  "color_dark_cyan_3": {
+    "message": "Temno cianova 3"
+  },
+  "color_dark_gray": {
+    "message": "Temno siva"
+  },
+  "color_dark_gray_1": {
+    "message": "Temno siva 1"
+  },
+  "color_dark_gray_2": {
+    "message": "Temno siva 2"
+  },
+  "color_dark_gray_3": {
+    "message": "Temno siva 3"
+  },
+  "color_dark_gray_4": {
+    "message": "Temno siva 4"
+  },
+  "color_dark_green": {
+    "message": "Temno zelena"
+  },
+  "color_dark_green_1": {
+    "message": "Temno zelena 1"
+  },
+  "color_dark_green_2": {
+    "message": "Temno zelena 2"
+  },
+  "color_dark_green_3": {
+    "message": "Temno zelena 3"
+  },
+  "color_dark_green_5": {
+    "message": "Temno zelena 4"
+  },
+  "color_dark_grey_2": {
+    "message": "Temno siva 2"
+  },
+  "color_dark_grey_5": {
+    "message": "Temno siva 5"
+  },
+  "color_dark_magenta_1": {
+    "message": "Temno \u0161krlatna 1"
+  },
+  "color_dark_magenta_2": {
+    "message": "Temno \u0161krlatna 2"
+  },
+  "color_dark_magenta_3": {
+    "message": "Temno \u0161krlatna 3"
+  },
+  "color_dark_olive_green": {
+    "message": "Temno olivno zelena"
+  },
+  "color_dark_orange_1": {
+    "message": "Temno oran\u017ena 1"
+  },
+  "color_dark_orange_2": {
+    "message": "Temno oran\u017ena 2"
+  },
+  "color_dark_orange_3": {
+    "message": "Temno oran\u017ena 3"
+  },
+  "color_dark_purple_1": {
+    "message": "Temno vijoli\u010dna 1"
+  },
+  "color_dark_purple_2": {
+    "message": "Temno vijoli\u010dna 2"
+  },
+  "color_dark_purple_3": {
+    "message": "Temno vijoli\u010dna 3"
+  },
+  "color_dark_red": {
+    "message": "Temno rde\u010da"
+  },
+  "color_dark_red_1": {
+    "message": "Temno rde\u010da 1"
+  },
+  "color_dark_red_2": {
+    "message": "Temno rde\u010da 2"
+  },
+  "color_dark_red_3": {
+    "message": "Temno rde\u010da 3"
+  },
+  "color_dark_red_berry_1": {
+    "message": "Temno rde\u010da jagodi\u010dasta 1"
+  },
+  "color_dark_red_berry_2": {
+    "message": "Temno rde\u010da jagodi\u010dasta 2"
+  },
+  "color_dark_red_berry_3": {
+    "message": "Temno rde\u010da jagodi\u010dasta 3"
+  },
+  "color_dark_slate_blue": {
+    "message": "Temno skrilasto modra"
+  },
+  "color_dark_yellow_1": {
+    "message": "Temno rumena 1"
+  },
+  "color_dark_yellow_2": {
+    "message": "Temno rumena 2"
+  },
+  "color_dark_yellow_3": {
+    "message": "Temno rumena 3"
+  },
+  "color_deep_pink": {
+    "message": "Globoko ro\u017enata"
+  },
+  "color_deep_sky_blue": {
+    "message": "Temno nebesno modra"
+  },
+  "color_eucalyptus_green": {
+    "message": "Evkaliptno zelena"
+  },
+  "color_gold": {
+    "message": "Zlata"
+  },
+  "color_gray": {
+    "message": "Siva"
+  },
+  "color_green": {
+    "message": "Zelena"
+  },
+  "color_light_blue": {
+    "message": "Svetlo modra"
+  },
+  "color_light_blue_1": {
+    "message": "Svetlo modra 1"
+  },
+  "color_light_blue_2": {
+    "message": "Svetlo modra 2"
+  },
+  "color_light_blue_3": {
+    "message": "Svetlo modra 3"
+  },
+  "color_light_cornflower_blue_1": {
+    "message": "Svetlo plavi\u010dasto modra 1"
+  },
+  "color_light_cornflower_blue_2": {
+    "message": "Svetlo plavi\u010dasto modra 2"
+  },
+  "color_light_cornflower_blue_3": {
+    "message": "Svetlo plavi\u010dasto modra 3"
+  },
+  "color_light_cyan": {
+    "message": "Svetlo cianova"
+  },
+  "color_light_cyan_1": {
+    "message": "Svetlo cianova 1"
+  },
+  "color_light_cyan_2": {
+    "message": "Svetlo cianova 2"
+  },
+  "color_light_cyan_3": {
+    "message": "Svetlo cianova 3"
+  },
+  "color_light_gray": {
+    "message": "Svetlo siva"
+  },
+  "color_light_gray_1": {
+    "message": "Svetlo siva 1"
+  },
+  "color_light_gray_2": {
+    "message": "Svetlo siva 2"
+  },
+  "color_light_gray_3": {
+    "message": "Svetlo siva 3"
+  },
+  "color_light_green": {
+    "message": "Svetlo zelena"
+  },
+  "color_light_green_1": {
+    "message": "Svetlo zelena 1"
+  },
+  "color_light_green_2": {
+    "message": "Svetlo zelena 2"
+  },
+  "color_light_green_3": {
+    "message": "Svetlo zelena 3"
+  },
+  "color_light_magenta_1": {
+    "message": "Svetlo \u0161krlatna 1"
+  },
+  "color_light_magenta_2": {
+    "message": "Svetlo \u0161krlatna 2"
+  },
+  "color_light_magenta_3": {
+    "message": "Svetlo \u0161krlatna 3"
+  },
+  "color_light_orange_1": {
+    "message": "Svetlo oran\u017ena 1"
+  },
+  "color_light_orange_2": {
+    "message": "Svetlo oran\u017ena 2"
+  },
+  "color_light_orange_3": {
+    "message": "Svetlo oran\u017ena 3"
+  },
+  "color_light_purple": {
+    "message": "Svetlo vijoli\u010dna"
+  },
+  "color_light_purple_1": {
+    "message": "Svetlo vijoli\u010dna 1"
+  },
+  "color_light_purple_2": {
+    "message": "Svetlo vijoli\u010dna 2"
+  },
+  "color_light_purple_3": {
+    "message": "Svetlo vijoli\u010dna 3"
+  },
+  "color_light_red_1": {
+    "message": "Svetlo rde\u010da 1"
+  },
+  "color_light_red_2": {
+    "message": "Svetlo rde\u010da 2"
+  },
+  "color_light_red_3": {
+    "message": "Svetlo rde\u010da 3"
+  },
+  "color_light_red_berry_1": {
+    "message": "Svetlo rde\u010da jagodi\u010dasta 1"
+  },
+  "color_light_red_berry_2": {
+    "message": "Svetlo rde\u010da jagodi\u010dasta 2"
+  },
+  "color_light_red_berry_3": {
+    "message": "Svetlo rde\u010da jagodi\u010dasta 3"
+  },
+  "color_light_yellow": {
+    "message": "Svetlo rumena"
+  },
+  "color_light_yellow_1": {
+    "message": "Svetlo rumena 1"
+  },
+  "color_light_yellow_2": {
+    "message": "Svetlo rumena 2"
+  },
+  "color_light_yellow_3": {
+    "message": "Svetlo rumena 3"
+  },
+  "color_magenta": {
+    "message": "\u0160krlatna"
+  },
+  "color_maroon": {
+    "message": "Kostanjeva"
+  },
+  "color_midnight_blue": {
+    "message": "Polno\u010dno modra"
+  },
+  "color_navy": {
+    "message": "Mornarsko modra"
+  },
+  "color_olive": {
+    "message": "Olivna"
+  },
+  "color_orange": {
+    "message": "Oran\u017ena"
+  },
+  "color_peach": {
+    "message": "Breskova"
+  },
+  "color_pink": {
+    "message": "Ro\u017enata"
+  },
+  "color_pistachio": {
+    "message": "Pistacija"
+  },
+  "color_purple": {
+    "message": "Vijoli\u010dna"
+  },
+  "color_red": {
+    "message": "Rde\u010da"
+  },
+  "color_red_berry": {
+    "message": "Rde\u010da jagodi\u010dasta"
+  },
+  "color_royal_blue": {
+    "message": "Kraljevsko modra"
+  },
+  "color_teal": {
+    "message": "Zelenomodra"
+  },
+  "color_turquiose": {
+    "message": "Turkizna"
+  },
+  "color_white": {
+    "message": "Bela"
+  },
+  "color_yellow": {
+    "message": "Rumena"
+  },
+  "command_key": {
+    "message": "Command"
+  },
+  "content_msg_merging_horizontally_across_vertical_section": {
+    "message": "Vodoravno zdru\u017eevanje \u010dez obstoje\u010di navpi\u010dno zdru\u017een razdelek ni mogo\u010de."
+  },
+  "content_msg_merging_multiple_cells_with_text": {
+    "message": "Pri zdru\u017eevanju celic bo ohranjena samo skrajna leva vrednost zgoraj. \u017delite vseeno zdru\u017eiti?"
+  },
+  "content_msg_merging_partially_selected_merged_cells": {
+    "message": "\u010ce \u017eelite zdru\u017eiti ali razdru\u017eiti celice, morate izbrati vse celice v zdru\u017eenem obsegu."
+  },
+  "content_msg_merging_vertically_across_horizontal_section": {
+    "message": "Navpi\u010dno zdru\u017eevanje \u010dez obstoje\u010di vodoravno zdru\u017een razdelek ni mogo\u010de."
+  },
+  "content_render_error_msg": {
+    "message": "Nekaj je bilo narobe z vsebino tega dokumenta."
+  },
+  "context_menu_clipboard_copy": {
+    "message": "Kopiraj"
+  },
+  "context_menu_delete": {
+    "message": "Izbri\u0161i"
+  },
+  "context_menu_freeze": {
+    "message": "Zamrzni"
+  },
+  "context_menu_insert": {
+    "message": "Vstavi"
+  },
+  "context_menu_sort_collation_ascending": {
+    "message": "Razvrsti od A\u2013\u017d"
+  },
+  "context_menu_sort_collation_descending": {
+    "message": "Razvrsti od \u017d\u2013A"
+  },
+  "context_menu_unfreeze": {
+    "message": "Odmrzni"
+  },
+  "control_key": {
+    "message": "Control"
+  },
+  "convert_attempt_for_sheet_with_large_file_size": {
+    "message": "Ta datoteka je prevelika za shranjevanje kot Google Preglednico."
+  },
+  "convert_attempt_for_slide_with_large_file_size": {
+    "message": "Ta datoteka je prevelika za shranjevanje kot Google Predstavitev."
+  },
+  "convert_attempt_for_word_with_large_file_size": {
+    "message": "Ta datoteka je prevelika za shranjevanje kot Google Dokument."
+  },
+  "convert_attempt_when_offline": {
+    "message": "\u010ce \u017eelite shraniti kot datoteko Google Dokumentov, morate biti povezani v splet. Poskusite znova, ko bo povezava vzpostavljena."
+  },
+  "convert_attempt_with_invalid_creds": {
+    "message": "\u010ce \u017eelite pretvoriti to datoteko, se morate prijaviti v Google Ra\u010dun."
+  },
+  "convert_cancel": {
+    "message": "Prekli\u010di"
+  },
+  "convert_to_google_docs_failed": {
+    "message": "Pri pretvorbi dokumenta v datoteko Google Dokumentov je pri\u0161lo do te\u017eave."
+  },
+  "convert_to_google_point_fail_short_msg": {
+    "message": "Ojoj"
+  },
+  "convert_to_google_point_short_msg": {
+    "message": "Shranjevanje kot datoteko Google Predstavitev"
+  },
+  "convert_to_google_sheet_fail_short_msg": {
+    "message": "Ojoj"
+  },
+  "convert_to_google_sheet_short_msg": {
+    "message": "Shranjevanje kot datoteko Google Preglednic"
+  },
+  "convert_to_google_word_fail_short_msg": {
+    "message": "Ojoj"
+  },
+  "convert_to_google_word_short_msg": {
+    "message": "Shranjevanje kot datoteko Google Dokumentov"
+  },
+  "convert_try_again": {
+    "message": "Vnovi\u010dni poskus"
+  },
+  "converting_to_google_point_fail_msg": {
+    "message": "Va\u0161e datoteke ni bilo mogo\u010de shraniti kot datoteko Google Predstavitev."
+  },
+  "converting_to_google_point_msg": {
+    "message": "Shranjevanje nove razli\u010dice predstavitve kot datoteko Google Predstavitev."
+  },
+  "converting_to_google_sheet_fail_msg": {
+    "message": "Va\u0161e datoteke ni bilo mogo\u010de shraniti kot datoteko Google Preglednic."
+  },
+  "converting_to_google_sheet_msg": {
+    "message": "Shranjevanje nove razli\u010dice preglednice kot datoteko Google Preglednic."
+  },
+  "converting_to_google_word_fail_msg": {
+    "message": "Va\u0161e datoteke ni bilo mogo\u010de shraniti kot datoteko Google Dokumentov."
+  },
+  "converting_to_google_word_msg": {
+    "message": "Shranjevanje nove razli\u010dice dokumenta kot datoteko Google Dokumentov."
+  },
+  "copy_attempt_when_offline": {
+    "message": "\u010ce \u017eelite ustvariti kopijo v Googlu Drive, morate biti povezani v splet. Poskusite znova, ko bo povezava vnovi\u010d vzpostavljena."
+  },
+  "copy_attempt_with_invalid_creds": {
+    "message": "\u010ce \u017eelite ustvariti kopijo, se morate prijaviti v Google Ra\u010dun."
+  },
+  "disabled_share_button": {
+    "message": "Datoteke z omogo\u010denimi makri je mogo\u010de dati v skupno rabo samo v storitvi Google Drive. Skupna raba je bila onemogo\u010dena."
+  },
+  "disallowed_cut_copy_paste_cmd_copy": {
+    "message": "za kopiranje"
+  },
+  "disallowed_cut_copy_paste_cmd_cut": {
+    "message": "za izrezovanje"
+  },
+  "disallowed_cut_copy_paste_cmd_paste": {
+    "message": "za lepljenje"
+  },
+  "disallowed_cut_copy_paste_msg": {
+    "message": "Ta dejanja niso na voljo v menijih \u00bbUrejanje\u00ab in \u00bbKontekst\u00ab, vendar lahko kljub temu uporabite:"
+  },
+  "disallowed_cut_copy_paste_title": {
+    "message": "Kopiranje in lepljenje v zdru\u017eljivostnem na\u010dinu za Office"
+  },
+  "dismiss": {
+    "message": "Opusti"
+  },
+  "document_title_aria_spoken_word": {
+    "message": "Naslov dokumenta:"
+  },
+  "down_key": {
+    "message": "Dol"
+  },
+  "download_button": {
+    "message": "Prenos"
+  },
+  "download_file_timeout_error_msg": {
+    "message": "Nalaganje datoteke, ki jo odpirate, traja dlje, kot je pri\u010dakovano. Preverite omre\u017eno povezavo in poskusite znova."
+  },
+  "download_file_timeout_error_short_msg": {
+    "message": "Prenos datoteke traja dlje, kot je pri\u010dakovano"
+  },
+  "download_original": {
+    "message": "Prenesi izvirnik"
+  },
+  "drive_open_timeout_error_msg": {
+    "message": "Videti je, da je morda te\u017eava z va\u0161o internetno povezavo. Preverite jo in poskusite znova odpreti datoteko. \u010ce se napaka ne neha prikazovati in ste povezani s spletom, spodaj prijavite te\u017eavo."
+  },
+  "drive_open_timeout_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "duplicate_sheet_name_message": {
+    "message": "Vnesite ime preglednice, ki ga ne uporablja druga preglednica."
+  },
+  "duplicate_sheet_name_title": {
+    "message": "To ime preglednice se \u017ee uporablja"
+  },
+  "editing_options_limited_banner_text": {
+    "message": "Mo\u017enosti urejanja so morda omejene. Datoteka se bo med urejanjem samodejno shranila."
+  },
+  "edits_not_being_saved": {
+    "message": "Popravki se ne bodo samodejno shranjevali."
+  },
+  "edits_now_being_auto_saved": {
+    "message": "Datoteka je shranjena. Vsi popravki se bodo samodejno shranjevali."
+  },
+  "entry_point_error_msg": {
+    "message": "Poskusite znova ali spodaj prijavite te\u017eavo."
+  },
+  "entry_point_error_short_msg": {
+    "message": "Ups. Ni bilo mogo\u010de dolo\u010diti, katero datoteko ste \u017eeleli odpreti."
+  },
+  "error_occurred": {
+    "message": "Pri\u0161lo je do napake."
+  },
+  "error_password_required_msg": {
+    "message": "Za\u0161\u010ditene datoteke danes niso podprte, vendar bomo pomanjkljivost odpravili."
+  },
+  "error_password_required_short_msg": {
+    "message": "Datoteka je za\u0161\u010ditena z geslom."
+  },
+  "expanded": {
+    "message": "Raz\u0161irjeno"
+  },
+  "expanded_menu": {
+    "message": "$1 Raz\u0161irjeno s podmenijem.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "extension_cros_name": {
+    "message": "Osnovni urejevalnik datotek zbirke Office"
+  },
+  "extension_description": {
+    "message": "Oglejte si Wordove, Excelove in PowerPointove datoteke in jih uredite z Google Dokumenti, Preglednicami in Predstavitvami."
+  },
+  "extension_name": {
+    "message": "Urejevalnik datotek Office"
+  },
+  "extension_popup_message_body": {
+    "message": "\u010ce \u017eelite odpreti obstoje\u010de datoteke, jih povlecite in spustite v brskalnik."
+  },
+  "extension_popup_new_document_header": {
+    "message": "Novo ..."
+  },
+  "extension_popup_new_presentation_document": {
+    "message": "PowerPointova predstavitev"
+  },
+  "extension_popup_new_spreadsheet_document": {
+    "message": "Excelova preglednica"
+  },
+  "extension_popup_new_word_document": {
+    "message": "Wordov dokument"
+  },
+  "feedback_textbox_editing": {
+    "message": "Uvedite urejanje besedila v besedilnih poljih."
+  },
+  "feedback_ui_template": {
+    "message": "1\u2013 Opi\u0161ite te\u017eavo, do katere je pri\u0161lo.\n2\u2013 Je pri\u0161lo do te\u017eave, ko ste posku\u0161ali odpreti ali urediti datoteko?\n3\u2013\u00a0Pride do te te\u017eave vedno, ko posku\u0161ate odpreti oziroma urediti katero koli datoteko ali samo pri dolo\u010denih datotekah?\n\n\u010ce pride do te\u017eave pri dolo\u010deni datoteki, jo dodajte prijavi kot prilogo, saj nam bo v pomo\u010d pri temeljitej\u0161em odpravljanju te\u017eave."
+  },
+  "file_does_not_exist_error_details": {
+    "message": "Ta datoteka ne obstaja. Morda ste posku\u0161ali odpreti povezavo v skupni rabi ali dokument z zaznamkom. Datoteko posku\u0161ajte znova odpreti iz njenega prvotnega vira."
+  },
+  "file_does_not_exist_error_title": {
+    "message": "Datoteke ni mogo\u010de najti."
+  },
+  "file_loading_spinner_label": {
+    "message": "Nalaganje"
+  },
+  "file_missing_content_msg": {
+    "message": "Pri branju celotne vsebine te datoteke je pri\u0161lo do te\u017eave. Priporo\u010damo, da datoteko preimenujete in jo znova odprete."
+  },
+  "file_missing_content_short_msg": {
+    "message": "V dokumentu manjka vsebina."
+  },
+  "file_not_found_error_msg": {
+    "message": "Preverite pri lastniku datoteke, ali imate dovoljenje za dostop do nje. \u010ce ga imate in se napaka \u0161e naprej prikazuje, spodaj prijavite te\u017eavo."
+  },
+  "file_not_found_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "file_not_found_exception": {
+    "message": "Zahtevana datoteka je bila morda izbrisana, preimenovana ali premaknjena na drugo mesto. \u010ce \u017eelite nadaljevati, kliknite \u00bbShrani zdaj\u00ab."
+  },
+  "file_not_found_link_text": {
+    "message": "\u010ce \u017eelite pomo\u010d v zvezi z ve\u010d ra\u010duni, preberite ta \u010dlanek"
+  },
+  "file_not_found_msg": {
+    "message": "Zahtevana datoteka je bila premaknjena."
+  },
+  "file_not_found_title": {
+    "message": "Datoteke ni bilo mogo\u010de najti."
+  },
+  "file_open_crash_error_msg": {
+    "message": "\u010ce se napaka ne neha pojavljati, spodaj poro\u010dajte o te\u017eavi."
+  },
+  "file_open_crash_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "file_open_error_msg": {
+    "message": "Vsebina te datoteke ni dostopna."
+  },
+  "file_open_error_short_msg": {
+    "message": "Ta datoteka je videti po\u0161kodovana."
+  },
+  "file_open_fail_download_link_text": {
+    "message": "Prenos datoteke"
+  },
+  "file_opened_in_incognito_mode_error_details": {
+    "message": "Raz\u0161iritev za urejanje datotek Office ne deluje v anonimnem na\u010dinu. To datoteko odprite v obi\u010dajnem oknu v Chromu. \u010ce uporabljate na\u010din za goste, odpiranje datoteke ni uspelo. Zagotovite, da datoteka ni po\u0161kodovana ali da ni neveljavna vrsta dokumenta, ter poskusite znova."
+  },
+  "file_opened_in_incognito_mode_error_title": {
+    "message": "Ups! Anonimni na\u010din ni podprt."
+  },
+  "file_pdf_type_rename_msg": {
+    "message": "Datoteko preimenujte v $1.pdf in poskusite znova.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_rtf_type_rename_msg": {
+    "message": "Datoteko preimenujte v $1.rtf.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_type_unsupported_msg": {
+    "message": "Ta vrsta datoteke ni podprta."
+  },
+  "fillcolor_aria_spoken_word": {
+    "message": "spustni seznam za barvo besedila"
+  },
+  "fontface_aria_spoken_word": {
+    "message": "spustni seznam za obliko pisave"
+  },
+  "fontsize_aria_spoken_word": {
+    "message": "spustni seznam za velikost pisave"
+  },
+  "forbidden_access_level_error_msg": {
+    "message": "Preverite pri lastniku datoteke, ali imate dovoljenje za njeno odpiranje. \u010ce ga imate in se napaka \u0161e naprej prikazuje, spodaj prijavite te\u017eavo."
+  },
+  "forbidden_access_level_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "forbidden_app_access_error_msg": {
+    "message": "Iz neznanega razloga nimamo dovoljenja za odpiranje te datoteke. Poskusite jo odpreti v Googlu Drive ali spodaj prijavite te\u017eavo."
+  },
+  "forbidden_app_access_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "forbidden_app_id_error_msg": {
+    "message": "Videti je, da raz\u0161iritev za Chrome ni pravilno nastavljena. Kako je to mogo\u010de? Nismo povsem prepri\u010dani. Spodaj prijavite te\u017eavo."
+  },
+  "forbidden_app_id_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "forbidden_blacklist_error_msg": {
+    "message": "Videti je, da je bila raz\u0161iritev za Chrome uvr\u0161\u010dena na seznam prepovedanih. O\u010ditno gre za pomoto, zato nam povejte ve\u010d o tem, tako da spodaj prijavite te\u017eavo."
+  },
+  "forbidden_blacklist_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "forbidden_domain_error_msg": {
+    "message": "Videti je, da je va\u0161a domena prepre\u010dila dostop do te datoteke. Obrnite se na skrbnika domene ali spodaj prijavite te\u017eavo."
+  },
+  "forbidden_domain_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "forbidden_internal_error_msg": {
+    "message": "Google Drive \u017eal ne deluje, kot je pri\u010dakovano. Znova poskusite odpreti datoteko ali spodaj prijavite te\u017eavo."
+  },
+  "forbidden_internal_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "forbidden_not_installed_error_msg": {
+    "message": "Videti je, da raz\u0161iritev za Chrome ni ustrezno name\u0161\u010dena. Kako je to mogo\u010de? Nismo povsem prepri\u010dani. Spodaj prijavite te\u017eavo."
+  },
+  "forbidden_not_installed_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "generic_error_msg": {
+    "message": "Nekaj je bilo narobe z vsebino tega dokumenta."
+  },
+  "generic_error_short_msg": {
+    "message": "Ups. To se ne bi smelo zgoditi. Znova nalo\u017eite stran, \u010de \u017eelite obnoviti spremembe."
+  },
+  "get_lists_data_error_msg": {
+    "message": "Oblikovanje seznama v dokumentu morda ne bo pravilno."
+  },
+  "get_lists_data_error_short_msg": {
+    "message": "Oblikovanja v dokumentu ni mogo\u010de prejeti."
+  },
+  "highlightcolor_aria_spoken_word": {
+    "message": "spustni seznam za barvo ozna\u010devanja besedila"
+  },
+  "http_error_zero_msg": {
+    "message": "\u010ce gre za omre\u017eno te\u017eavo, preverite povezavo ali poskusite znova pozneje. \u010ce te\u017eave s tem ne odpravite, nas o njej obvestite spodaj."
+  },
+  "http_error_zero_short_msg": {
+    "message": "Datoteke ni bilo mogo\u010de odpreti."
+  },
+  "info_file_copied": {
+    "message": "Shranjeno"
+  },
+  "info_file_save_cancelled": {
+    "message": "Shranjevanje je preklicano."
+  },
+  "info_file_save_failed": {
+    "message": "Shranjevanje ni uspelo."
+  },
+  "info_file_saved_at_location": {
+    "message": "Vse spremembe so shranjene v $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "info_file_saved_in_drive": {
+    "message": "Vse spremembe so shranjene v Google Drive"
+  },
+  "info_file_saved_locally": {
+    "message": "Vse spremembe so shranjene lokalno"
+  },
+  "info_file_saved_offline": {
+    "message": "Vse spremembe so shranjene brez povezave"
+  },
+  "info_file_saving": {
+    "message": "Shranjevanje \u2026"
+  },
+  "initaddshape_aria_spoken_word": {
+    "message": "dodajanje besedilnega polja"
+  },
+  "invalid_credentials_error_msg": {
+    "message": "\u010ce \u017eelite dostopati do te datoteke, se morate prijaviti v Google Ra\u010dun."
+  },
+  "invalid_credentials_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "invalid_file_format_msg": {
+    "message": "\u010ceprav je datoteka videti kot dokument zbirke Office in ima pripono zbirke Office, gre za drugo vrste datoteke, ki je bila preimenovana ali spremenjena, ali gre za vrsto datoteke, ki ni podprta."
+  },
+  "invalid_file_format_short_msg": {
+    "message": "Te vrste dokumenta ne moremo odpreti."
+  },
+  "italic_aria_spoken_word": {
+    "message": "le\u017ee\u010de"
+  },
+  "keyboard_shortcut_group_actions": {
+    "message": "Dejanja"
+  },
+  "keyboard_shortcut_group_other": {
+    "message": "Drugo"
+  },
+  "keyboard_shortcut_group_paragraph_formatting": {
+    "message": "Oblikovanje odstavka"
+  },
+  "keyboard_shortcut_group_text_formatting": {
+    "message": "Oblikovanje besedila"
+  },
+  "keyboard_shortcut_group_top_menus": {
+    "message": "Meniji"
+  },
+  "keyboard_shortcut_group_with_slides": {
+    "message": "S Predstavitvami"
+  },
+  "keyboard_shortcut_title": {
+    "message": "Bli\u017enji\u010dne tipke"
+  },
+  "large_file_size_dialog_title_for_sheet": {
+    "message": "Datoteke ni mogo\u010de shraniti kot Google Preglednico"
+  },
+  "large_file_size_dialog_title_for_slide": {
+    "message": "Datoteke ni mogo\u010de shraniti kot Google Predstavitev"
+  },
+  "large_file_size_dialog_title_for_word": {
+    "message": "Datoteke ni mogo\u010de shraniti kot Google Dokument"
+  },
+  "make_a_copy_fail_msg": {
+    "message": "Kopije ni bilo mogo\u010de ustvariti."
+  },
+  "menu_button_data": {
+    "message": "Podatki"
+  },
+  "menu_button_edit": {
+    "message": "Uredi"
+  },
+  "menu_button_file": {
+    "message": "Datoteka"
+  },
+  "menu_button_format": {
+    "message": "Oblikovanje"
+  },
+  "menu_button_help": {
+    "message": "Pomo\u010d"
+  },
+  "menu_button_insert": {
+    "message": "Vstavljanje"
+  },
+  "menu_button_slide": {
+    "message": "Predstavitev"
+  },
+  "menu_button_tools": {
+    "message": "Orodja"
+  },
+  "menu_button_view": {
+    "message": "Pogled"
+  },
+  "menu_item_10_point_star": {
+    "message": "10-kraka zvezda"
+  },
+  "menu_item_12_point_star": {
+    "message": "12-kraka zvezda"
+  },
+  "menu_item_16_point_star": {
+    "message": "16-kraka zvezda"
+  },
+  "menu_item_24_point_star": {
+    "message": "24-kraka zvezda"
+  },
+  "menu_item_32_point_star": {
+    "message": "32-kraka zvezda"
+  },
+  "menu_item_4_point_star": {
+    "message": "4-kraka zvezda"
+  },
+  "menu_item_5_point_star": {
+    "message": "5-kraka zvezda"
+  },
+  "menu_item_6_point_star": {
+    "message": "6-kraka zvezda"
+  },
+  "menu_item_7_point_star": {
+    "message": "7-kraka zvezda"
+  },
+  "menu_item_8_point_star": {
+    "message": "8-kraka zvezda"
+  },
+  "menu_item_align": {
+    "message": "Poravnaj"
+  },
+  "menu_item_align_center": {
+    "message": "Na sredino"
+  },
+  "menu_item_align_justified": {
+    "message": "Poravnano"
+  },
+  "menu_item_align_left": {
+    "message": "Levo"
+  },
+  "menu_item_align_right": {
+    "message": "Desno"
+  },
+  "menu_item_arrows": {
+    "message": "Pu\u0161\u010dice"
+  },
+  "menu_item_bent_arrow": {
+    "message": "Kotna pu\u0161\u010dica"
+  },
+  "menu_item_bent_up_arrow": {
+    "message": "Kotna pu\u0161\u010dica navzgor"
+  },
+  "menu_item_bevel": {
+    "message": "Po\u0161even rob"
+  },
+  "menu_item_block_arc": {
+    "message": "Odebeljen lok"
+  },
+  "menu_item_bold": {
+    "message": "Krepko"
+  },
+  "menu_item_callouts": {
+    "message": "Obla\u010dki"
+  },
+  "menu_item_can": {
+    "message": "Plo\u010devinka"
+  },
+  "menu_item_chevron": {
+    "message": "\u0160karnice"
+  },
+  "menu_item_chord": {
+    "message": "Struna"
+  },
+  "menu_item_clear_formatting": {
+    "message": "Po\u010disti oblikovanje"
+  },
+  "menu_item_cloud": {
+    "message": "Oblak"
+  },
+  "menu_item_cloud_callout": {
+    "message": "Obla\u010dek v oblaku"
+  },
+  "menu_item_color_none": {
+    "message": "Brez"
+  },
+  "menu_item_color_transparent": {
+    "message": "Prosojno"
+  },
+  "menu_item_convert_to_docs": {
+    "message": "Shrani kot datoteko Google Dokumentov"
+  },
+  "menu_item_convert_to_sheets": {
+    "message": "Shrani kot datoteko Google Preglednic"
+  },
+  "menu_item_convert_to_slides": {
+    "message": "Shrani kot datoteko Google Predstavitev"
+  },
+  "menu_item_copy": {
+    "message": "Kopiraj"
+  },
+  "menu_item_cross": {
+    "message": "Kri\u017e"
+  },
+  "menu_item_cube": {
+    "message": "Kocka"
+  },
+  "menu_item_curved_down_arrow": {
+    "message": "Navzdol ukrivljena pu\u0161\u010dica"
+  },
+  "menu_item_curved_left_arrow": {
+    "message": "Ukrivljena pu\u0161\u010dica levo"
+  },
+  "menu_item_curved_right_arrow": {
+    "message": "Ukrivljena pu\u0161\u010dica desno"
+  },
+  "menu_item_curved_up_arrow": {
+    "message": "Navzgor ukrivljena pu\u0161\u010dica"
+  },
+  "menu_item_cut": {
+    "message": "Izre\u017ei"
+  },
+  "menu_item_decagon": {
+    "message": "Desetkotnik"
+  },
+  "menu_item_delete_column": {
+    "message": "Izbri\u0161i stolpec"
+  },
+  "menu_item_delete_row": {
+    "message": "Izbri\u0161i vrstico"
+  },
+  "menu_item_delete_value": {
+    "message": "Izbri\u0161i vrednost"
+  },
+  "menu_item_deleteslide": {
+    "message": "Izbri\u0161i predstavitev"
+  },
+  "menu_item_diagonal_stripe": {
+    "message": "Diagonalni trak"
+  },
+  "menu_item_diamond": {
+    "message": "Romb"
+  },
+  "menu_item_divide": {
+    "message": "Znak za deljenje"
+  },
+  "menu_item_dodecagon": {
+    "message": "Dvanajstkotnik"
+  },
+  "menu_item_donut": {
+    "message": "Kolobar"
+  },
+  "menu_item_double_brace": {
+    "message": "Dvojni zaviti oklepaj"
+  },
+  "menu_item_double_bracket": {
+    "message": "Dvojni oklepaj"
+  },
+  "menu_item_down_arrow": {
+    "message": "Pu\u0161\u010dica dol"
+  },
+  "menu_item_down_arrow_callout": {
+    "message": "Obla\u010dek s pu\u0161\u010dico navzdol"
+  },
+  "menu_item_duplicateslide": {
+    "message": "Podvoji predstavitev"
+  },
+  "menu_item_equal": {
+    "message": "Enako"
+  },
+  "menu_item_equation": {
+    "message": "Ena\u010dba"
+  },
+  "menu_item_explosion_1": {
+    "message": "Eksplozija 1"
+  },
+  "menu_item_explosion_2": {
+    "message": "Eksplozija 2"
+  },
+  "menu_item_flowchart_alternate_process": {
+    "message": "Diagram poteka: nadomestni proces"
+  },
+  "menu_item_flowchart_card": {
+    "message": "Diagram poteka: kartica"
+  },
+  "menu_item_flowchart_collate": {
+    "message": "Diagram poteka: zbiranje"
+  },
+  "menu_item_flowchart_connector": {
+    "message": "Diagram poteka: povezovalnik"
+  },
+  "menu_item_flowchart_data": {
+    "message": "Diagram poteka: podatki"
+  },
+  "menu_item_flowchart_decision": {
+    "message": "Diagram poteka: odlo\u010ditev"
+  },
+  "menu_item_flowchart_delay": {
+    "message": "Diagram poteka: zakasnitev"
+  },
+  "menu_item_flowchart_direct_access_storage": {
+    "message": "Diagram poteka: pomnilnik z neposrednim dostopom"
+  },
+  "menu_item_flowchart_display": {
+    "message": "Diagram poteka: prikaz"
+  },
+  "menu_item_flowchart_document": {
+    "message": "Diagram poteka: dokument"
+  },
+  "menu_item_flowchart_extract": {
+    "message": "Diagram poteka: izvle\u010dek"
+  },
+  "menu_item_flowchart_internal_storage": {
+    "message": "Diagram poteka: vgrajen pomnilnik"
+  },
+  "menu_item_flowchart_magnetic_disk": {
+    "message": "Diagram poteka: magnetni disk"
+  },
+  "menu_item_flowchart_manual_input": {
+    "message": "Diagram poteka: ro\u010dni vnos"
+  },
+  "menu_item_flowchart_manual_operation": {
+    "message": "Diagram poteka: ro\u010dni postopek"
+  },
+  "menu_item_flowchart_merge": {
+    "message": "Diagram poteka: spajanje"
+  },
+  "menu_item_flowchart_multidocument": {
+    "message": "Diagram poteka: ve\u010d dokumentov"
+  },
+  "menu_item_flowchart_off_page_connector": {
+    "message": "Diagram poteka: povezovalnik zunanje strani"
+  },
+  "menu_item_flowchart_or": {
+    "message": "Diagram poteka: ali"
+  },
+  "menu_item_flowchart_predefined_process": {
+    "message": "Diagram poteka: vnaprej dolo\u010deni proces"
+  },
+  "menu_item_flowchart_preparation": {
+    "message": "Diagram poteka: priprava"
+  },
+  "menu_item_flowchart_process": {
+    "message": "Diagram poteka: proces"
+  },
+  "menu_item_flowchart_punched_tape": {
+    "message": "Diagram poteka: preluknjan trak"
+  },
+  "menu_item_flowchart_sequential_access_storage": {
+    "message": "Diagram poteka: pomnilnik z zaporednim dostopom"
+  },
+  "menu_item_flowchart_sort": {
+    "message": "Diagram poteka: razvrstitev"
+  },
+  "menu_item_flowchart_stored_data": {
+    "message": "Diagram poteka: shranjeni podatki"
+  },
+  "menu_item_flowchart_summing_junction": {
+    "message": "Diagram poteka: sti\u010di\u0161\u010de"
+  },
+  "menu_item_flowchart_terminator": {
+    "message": "Diagram poteka: prekinitev"
+  },
+  "menu_item_folded_corner": {
+    "message": "Zapognjen kot"
+  },
+  "menu_item_frame": {
+    "message": "Okvir"
+  },
+  "menu_item_half_frame": {
+    "message": "Polokvir"
+  },
+  "menu_item_heart": {
+    "message": "Srce"
+  },
+  "menu_item_help_center": {
+    "message": "Center za pomo\u010d"
+  },
+  "menu_item_heptagon": {
+    "message": "Sedemkotnik"
+  },
+  "menu_item_hexagon": {
+    "message": "\u0160estkotnik"
+  },
+  "menu_item_hideslide": {
+    "message": "Skrij predstavitev"
+  },
+  "menu_item_insert_column": {
+    "message": "Stolpec"
+  },
+  "menu_item_insert_image": {
+    "message": "Slika"
+  },
+  "menu_item_insert_row": {
+    "message": "Vrstica"
+  },
+  "menu_item_insert_text_box": {
+    "message": "Besedilno polje"
+  },
+  "menu_item_insertslide": {
+    "message": "Nova predstavitev"
+  },
+  "menu_item_italic": {
+    "message": "Le\u017ee\u010de"
+  },
+  "menu_item_keyboard_shortcuts": {
+    "message": "Bli\u017enji\u010dne tipke"
+  },
+  "menu_item_l_shape": {
+    "message": "L-oblika"
+  },
+  "menu_item_left_arrow": {
+    "message": "Pu\u0161\u010dica levo"
+  },
+  "menu_item_left_arrow_callout": {
+    "message": "Obla\u010dek s pu\u0161\u010dico levo"
+  },
+  "menu_item_left_brace": {
+    "message": "Levi zaviti oklepaj"
+  },
+  "menu_item_left_bracket": {
+    "message": "Levi okrogli oklepaj"
+  },
+  "menu_item_left_right_arrow": {
+    "message": "Dvosmerna vodoravna pu\u0161\u010dica"
+  },
+  "menu_item_left_right_arrow_callout": {
+    "message": "Obla\u010dek s pu\u0161\u010dicama levo in desno"
+  },
+  "menu_item_left_right_up_arrow": {
+    "message": "Trosmerna pu\u0161\u010dica"
+  },
+  "menu_item_left_up_arrow": {
+    "message": "Dvosmerna kotna pu\u0161\u010dica"
+  },
+  "menu_item_lightning_bolt": {
+    "message": "Strela"
+  },
+  "menu_item_make_a_copy": {
+    "message": "Ustvari kopijo \u2026"
+  },
+  "menu_item_merge_all": {
+    "message": "Zdru\u017eitev vsega"
+  },
+  "menu_item_merge_cells": {
+    "message": "Zdru\u017ei celice"
+  },
+  "menu_item_merge_horizontally": {
+    "message": "Vodoravna zdru\u017eitev"
+  },
+  "menu_item_merge_vertically": {
+    "message": "Navpi\u010dna zdru\u017eitev"
+  },
+  "menu_item_minus": {
+    "message": "Minus"
+  },
+  "menu_item_moon": {
+    "message": "Luna"
+  },
+  "menu_item_moveslidedown": {
+    "message": "Premakni diapozitiv dol"
+  },
+  "menu_item_moveslidetoend": {
+    "message": "Premakni diapozitiv na konec"
+  },
+  "menu_item_moveslidetostart": {
+    "message": "Premakni diapozitiv na za\u010detek"
+  },
+  "menu_item_moveslideup": {
+    "message": "Premakni diapozitiv gor"
+  },
+  "menu_item_multiply": {
+    "message": "Mno\u017eenje"
+  },
+  "menu_item_new": {
+    "message": "Novo"
+  },
+  "menu_item_no_symbol": {
+    "message": "Simbol \u00bbNe\u00ab"
+  },
+  "menu_item_not_equal": {
+    "message": "Ni enako"
+  },
+  "menu_item_notched_right_arrow": {
+    "message": "Prisekana pu\u0161\u010dica desno"
+  },
+  "menu_item_number_format": {
+    "message": "Oblika zapisa \u0161tevil"
+  },
+  "menu_item_number_menu": {
+    "message": "\u0160tevilo"
+  },
+  "menu_item_numbering": {
+    "message": "$1 od $2",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "menu_item_octagon": {
+    "message": "Osemkotnik"
+  },
+  "menu_item_open": {
+    "message": "Odpri"
+  },
+  "menu_item_oval": {
+    "message": "Elipsa"
+  },
+  "menu_item_oval_callout": {
+    "message": "Ovalni obla\u010dek"
+  },
+  "menu_item_parallelogram": {
+    "message": "Paralelogram"
+  },
+  "menu_item_paste": {
+    "message": "Prilepi"
+  },
+  "menu_item_pentagon": {
+    "message": "Petkotnik"
+  },
+  "menu_item_pie": {
+    "message": "Torta"
+  },
+  "menu_item_plaque": {
+    "message": "Plaketa"
+  },
+  "menu_item_plus": {
+    "message": "Plus"
+  },
+  "menu_item_present": {
+    "message": "Predstavitve"
+  },
+  "menu_item_print": {
+    "message": "Natisni"
+  },
+  "menu_item_quad_arrow": {
+    "message": "\u0160tirismerna pu\u0161\u010dica"
+  },
+  "menu_item_quad_arrow_callout": {
+    "message": "Obla\u010dek s \u0161tirismerno pu\u0161\u010dico"
+  },
+  "menu_item_rectangle": {
+    "message": "Pravokotnik"
+  },
+  "menu_item_rectangular_callout": {
+    "message": "Pravokotni obla\u010dek"
+  },
+  "menu_item_redo": {
+    "message": "Uveljavi"
+  },
+  "menu_item_regular_pentagon": {
+    "message": "Navaden petkotnik"
+  },
+  "menu_item_report_abuse": {
+    "message": "Prijava zlorabe"
+  },
+  "menu_item_report_issue": {
+    "message": "Prijava te\u017eave"
+  },
+  "menu_item_right_arrow": {
+    "message": "Pu\u0161\u010dica desno"
+  },
+  "menu_item_right_arrow_callout": {
+    "message": "Obla\u010dek s pu\u0161\u010dico desno"
+  },
+  "menu_item_right_brace": {
+    "message": "Desni zaviti oklepaj"
+  },
+  "menu_item_right_bracket": {
+    "message": "Zaklepaj"
+  },
+  "menu_item_right_triangle": {
+    "message": "Pravokotni trikotnik"
+  },
+  "menu_item_round_diagonal_corner_rectangle": {
+    "message": "Pravokotnik z zaobljenim diagonalnim kotom"
+  },
+  "menu_item_round_same_side_corner_rectangle": {
+    "message": "Pravokotnik z zaobljenim kotom na isti strani"
+  },
+  "menu_item_round_single_corner_rectangle": {
+    "message": "Pravokotnik z enim zaobljenim kotom"
+  },
+  "menu_item_rounded_rectangle": {
+    "message": "Zaokro\u017een pravokotnik"
+  },
+  "menu_item_rounded_rectangular_callout": {
+    "message": "Zaokro\u017een pravokotni obla\u010dek"
+  },
+  "menu_item_save": {
+    "message": "Shrani"
+  },
+  "menu_item_save_as": {
+    "message": "Shrani kot \u2026"
+  },
+  "menu_item_shapes": {
+    "message": "Oblike"
+  },
+  "menu_item_share": {
+    "message": "Deljenje z drugimi"
+  },
+  "menu_item_smiley_face": {
+    "message": "Sme\u0161ko"
+  },
+  "menu_item_snip_and_round_single_corner_rectangle": {
+    "message": "Pravokotnik z enim odrezanim in zaobljenim kotom"
+  },
+  "menu_item_snip_diagonal_corner_rectangle": {
+    "message": "Pravokotnik z odrezanim diagonalnim kotom"
+  },
+  "menu_item_snip_same_side_corner_rectangle": {
+    "message": "Pravokotnik z odrezanim kotom na isti strani"
+  },
+  "menu_item_snip_single_corner_rectangle": {
+    "message": "Pravokotnik z enim odrezanim kotom"
+  },
+  "menu_item_strikethrough": {
+    "message": "Pre\u010drtano"
+  },
+  "menu_item_striped_right_arrow": {
+    "message": "Pu\u0161\u010dica desno s \u010drticami"
+  },
+  "menu_item_subscript": {
+    "message": "Podpisano"
+  },
+  "menu_item_sun": {
+    "message": "Sonce"
+  },
+  "menu_item_superscript": {
+    "message": "Nadpisano"
+  },
+  "menu_item_teardrop": {
+    "message": "Solza"
+  },
+  "menu_item_trapezoid": {
+    "message": "Trapezoid"
+  },
+  "menu_item_triangle": {
+    "message": "Trikotnik"
+  },
+  "menu_item_u_turn_arrow": {
+    "message": "Pu\u0161\u010dica z obratom nazaj"
+  },
+  "menu_item_underline": {
+    "message": "Pod\u010drtano"
+  },
+  "menu_item_undo": {
+    "message": "Razveljavi"
+  },
+  "menu_item_unhideslide": {
+    "message": "Razkrij predstavitev"
+  },
+  "menu_item_unmerge": {
+    "message": "Razdru\u017eitev"
+  },
+  "menu_item_up_arrow": {
+    "message": "Pu\u0161\u010dica gor"
+  },
+  "menu_item_up_arrow_callout": {
+    "message": "Obla\u010dek s pu\u0161\u010dico navzgor"
+  },
+  "menu_item_up_down_arrow": {
+    "message": "Dvosmerna navpi\u010dna pu\u0161\u010dica"
+  },
+  "menu_item_version_info": {
+    "message": "Podatki o razli\u010dici"
+  },
+  "menu_item_word_count": {
+    "message": "\u0160tevilo besed"
+  },
+  "menu_item_wrap_text": {
+    "message": "Oblij z besedilom"
+  },
+  "menu_item_zoom_in": {
+    "message": "Pove\u010daj"
+  },
+  "menu_item_zoom_out": {
+    "message": "Pomanj\u0161aj"
+  },
+  "merge_all_aria_spoken_word": {
+    "message": "zdru\u017eitev vsega"
+  },
+  "merge_aria_spoken_word": {
+    "message": "zdru\u017ei"
+  },
+  "merge_dropdown_aria_spoken_word": {
+    "message": "spustni meni za zdru\u017eevanje"
+  },
+  "merge_horizontally_aria_spoken_word": {
+    "message": "vodoravna zdru\u017eitev"
+  },
+  "merge_vertically_aria_spoken_word": {
+    "message": "navpi\u010dna zdru\u017eitev"
+  },
+  "modify_shape_transform_error_msg": {
+    "message": "Pri spreminjanju pretvorb oblik je pri\u0161lo do napake."
+  },
+  "modify_shape_transform_error_short_msg": {
+    "message": "Napaka pri spreminjanju pretvorb oblik."
+  },
+  "modifyshapefillcolor_aria_spoken_word": {
+    "message": "spustni seznam za barvo polnila oblike"
+  },
+  "modifyshapeoutlinecolor_aria_spoken_word": {
+    "message": "spustni seznam za barvo orisa oblike"
+  },
+  "modifyshapeoutlinestyle_aria_spoken_word": {
+    "message": "spustni seznam za slog orisa oblike"
+  },
+  "modifyshapeoutlinewidth_aria_spoken_word": {
+    "message": "spustni seznam za \u0161irino orisa oblike"
+  },
+  "nacl_load_error_details": {
+    "message": "Posku\u0161ajte znova namestiti raz\u0161iritev."
+  },
+  "nacl_load_error_title": {
+    "message": "Pri nalaganju programa je pri\u0161lo do te\u017eave."
+  },
+  "non_permissible_sheet_name_details": {
+    "message": "Ti znaki niso dovoljeni: \u00bb*\u00ab, \u00bb?\u00ab, \u00bb[\u00ab, \u00bb]\u00ab, \u00bb'\u00ab, \u00bb;\u00ab, \u00bb:\u00ab. Dol\u017eina imena preglednice ne sme presegati 31 znakov. Ime preglednice ne sme biti prazno."
+  },
+  "non_permissible_sheet_name_title": {
+    "message": "Pri preimenovanju preglednice ste vnesli neveljavno ime"
+  },
+  "not_pressed": {
+    "message": "Ni pritisnjeno"
+  },
+  "notselected": {
+    "message": "Ni izbrano"
+  },
+  "number_format_label_currency_symbol": {
+    "message": "Simbol valute"
+  },
+  "number_format_label_date_type": {
+    "message": "Vrsta"
+  },
+  "number_format_label_decimal_places": {
+    "message": "Decimalna mesta"
+  },
+  "number_format_label_general": {
+    "message": "Splo\u0161no"
+  },
+  "number_format_label_negative_numbers": {
+    "message": "Negativna \u0161tevila"
+  },
+  "number_format_label_other": {
+    "message": "Drugo"
+  },
+  "number_format_label_red": {
+    "message": "Rde\u010de"
+  },
+  "number_format_label_text": {
+    "message": "Besedilo"
+  },
+  "number_format_label_use_1000_separator": {
+    "message": "Uporabi lo\u010dilo tiso\u010dic"
+  },
+  "number_format_tab_accounting": {
+    "message": "Ra\u010dunovodstvo"
+  },
+  "number_format_tab_currency": {
+    "message": "Valuta"
+  },
+  "number_format_tab_date_time": {
+    "message": "Datum in ura"
+  },
+  "number_format_tab_general": {
+    "message": "Splo\u0161no"
+  },
+  "number_format_tab_number": {
+    "message": "\u0160tevilo"
+  },
+  "number_format_tab_percentage": {
+    "message": "Odstotek"
+  },
+  "number_format_tab_scientific": {
+    "message": "Znanstveno"
+  },
+  "number_format_title": {
+    "message": "Oblike \u0161tevil"
+  },
+  "ocm_promo_conversion_shortmsg": {
+    "message": "Uporabljate zdru\u017eljivostni na\u010din za Office"
+  },
+  "ocm_promo_office_editing_mode_shortmsg": {
+    "message": "Uporabljate zdru\u017eljivostni na\u010din za Office"
+  },
+  "office_compatibility_mode": {
+    "message": "Zdru\u017eljivostni na\u010din za Office"
+  },
+  "office_editing_mode_attempt_when_offline": {
+    "message": "\u010ce \u017eelite to datoteko odpreti v Google Dokumentih, morate imeti vzpostavljeno povezavo z internetom. Poskusite znova, ko bo povezava obnovljena."
+  },
+  "office_editing_mode_attempt_with_invalid_creds": {
+    "message": "\u010ce \u017eelite odpreti to datoteko v Google Dokumentih, se morate prijaviti v ra\u010dun Google."
+  },
+  "office_editing_mode_point_fail_msg": {
+    "message": "Va\u0161e datoteke ni bilo mogo\u010de odpreti kot datoteko Google Predstavitev."
+  },
+  "office_editing_mode_setting_new_create": {
+    "message": "Odpri podprte datoteke zbirke Office v Googlu Drive in Gmailu neposredno v Dokumentih, Preglednicah ali Predstavitvah"
+  },
+  "office_editing_mode_sheet_fail_msg": {
+    "message": "Va\u0161e datoteke ni bilo mogo\u010de odpreti kot datoteko Google Preglednic."
+  },
+  "office_editing_mode_word_fail_msg": {
+    "message": "Va\u0161e datoteke ni bilo mogo\u010de odpreti kot datoteko Google Dokumentov."
+  },
+  "office_first_time_confirm": {
+    "message": "Razumem"
+  },
+  "office_first_time_message_p1": {
+    "message": "Zdaj lahko urejate datoteke programov Word, Excel, in PowerPoint na trdem disku, v Googlu Drive, Gmailu in drugod z Google Dokumenti, Preglednicami in Predstavitvami."
+  },
+  "office_first_time_message_p2": {
+    "message": "Vse spremembe se samodejno shranijo in shranjujete lahko tudi v izvirni obliki."
+  },
+  "office_first_time_title": {
+    "message": "Urejanje datotek zbirke Office v Google Dokumentih, Preglednicah in Predstavitvah"
+  },
+  "offline_error_msg": {
+    "message": "Videti je, da niste povezani v splet. Preverite internetno povezavo in poskusite znova. \u010ce se napaka \u0161e naprej prikazuje, ko ste povezani v internet, spodaj prijavite te\u017eavo."
+  },
+  "offline_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti."
+  },
+  "opening_in_office_editing_mode": {
+    "message": "Odpiranje v na\u010dinu urejanja datotek Office"
+  },
+  "option_key": {
+    "message": "Mo\u017enost"
+  },
+  "out_of_memory_error_msg": {
+    "message": "Posku\u0161ajte zapreti ta zavihek in znova odpreti datoteko ali pa zaprite morebitne druge odprte zavihke v brskalniku. \u010ce te\u017eave s tem ne odpravite, jo prijavite spodaj."
+  },
+  "out_of_memory_error_short_msg": {
+    "message": "Ojoj, zmanjkalo je pomnilnika."
+  },
+  "page_count_label": {
+    "message": "Strani"
+  },
+  "partial_cell_merge_error_msg": {
+    "message": "Dela spojene celice ni mogo\u010de spremeniti."
+  },
+  "partial_cell_merge_error_short_msg": {
+    "message": "Napaka"
+  },
+  "permission_fail_msg": {
+    "message": "Nimate dovoljenja za urejanje te datoteke. Posodobite dovoljenja in poskusite znova."
+  },
+  "point_ocm_promo_conversion_msg": {
+    "message": "V Google Predstavitvah lahko neposredno urejate in shranjujete datoteke zbirke Office. \u010ce \u017eelite povabiti druge k urejanju ali dodajanju komentarjev, datoteke shranite v obliki Google Predstavitev. Kadar koli jih lahko spet shranite v izvirni obliki."
+  },
+  "point_ocm_promo_office_editing_mode_msg": {
+    "message": "Zdaj lahko neposredno urejate in shranjujete datoteke zbirke Office v Google Predstavitvah. \u010ce \u017eelite druge povabiti, da datoteko urejajo sproti ali dodajo komentarje, to datoteko nalo\u017eite v Google Drive. Oblika te datoteke se ne bo spremenila."
+  },
+  "point_printing_warning_msg": {
+    "message": "Napako si prizadevamo odpraviti."
+  },
+  "point_printing_warning_short_msg": {
+    "message": "Trenutno lahko natisnete samo diapozitiv, ki je prikazan."
+  },
+  "point_share_promo_conversion_msg": {
+    "message": "Posku\u0161ate to predstavitev deliti z drugimi? \u010ce \u017eelite druge povabiti, da datoteko urejajo z vami, jo pretvorite v datoteko Google Predstavitev."
+  },
+  "point_share_promo_office_editing_mode_msg": {
+    "message": "Zdaj lahko neposredno urejate in shranjujete datoteke zbirke Office v Google Predstavitvah. \u010ce \u017eelite druge povabiti, da datoteko urejajo sproti ali dodajo komentarje, to datoteko nalo\u017eite v Google Drive. Oblika te datoteke se ne bo spremenila."
+  },
+  "pointtogglebullet_aria_spoken_word": {
+    "message": "ozna\u010den seznam"
+  },
+  "pointtogglenumber_aria_spoken_word": {
+    "message": "o\u0161tevil\u010den seznam"
+  },
+  "present_button": {
+    "message": "Predstavitve"
+  },
+  "pressed": {
+    "message": "Pritisnjeno"
+  },
+  "print_aria_spoken_word": {
+    "message": "natisni"
+  },
+  "qowt_doc_mismatch_text": {
+    "message": "Pri oblikovanju va\u0161ega dokumenta je pri\u0161lo do napake.\n\nZnova nalo\u017eite stran, \u010de \u017eelite obnoviti spremembe."
+  },
+  "qowt_doc_mismatch_title": {
+    "message": "Joj!"
+  },
+  "qowt_hyperlink_activate_short_key": {
+    "message": "Povezavo aktivirajte s pritiskom na ALT + vra\u010dalka."
+  },
+  "qowt_hyperlink_dialog": {
+    "message": "Hiperpovezava"
+  },
+  "qowt_hyperlink_dialog_message_text": {
+    "message": "Odprite povezavo:"
+  },
+  "qowt_modal_confirm_dialog_affirmative_button": {
+    "message": "V redu"
+  },
+  "qowt_modal_confirm_dialog_negative_button": {
+    "message": "Prekli\u010di"
+  },
+  "qowt_modal_dialog_close_button": {
+    "message": "Zapri"
+  },
+  "qowt_modal_dialog_coming_soon_title": {
+    "message": "Kmalu na voljo!"
+  },
+  "qowt_modal_dialog_link_text": {
+    "message": "Ve\u010d o tem"
+  },
+  "qowt_modal_dialog_ok_button": {
+    "message": "V redu"
+  },
+  "qowt_modal_dialog_reload_button": {
+    "message": "Znova nalo\u017ei"
+  },
+  "qowt_modal_dialog_textbox_editing_description": {
+    "message": "Urejanja besedila v besedilnih poljih ne podpiramo."
+  },
+  "qowt_modal_dialog_textbox_editing_link": {
+    "message": "Odpravite to te\u017eavo."
+  },
+  "qowt_modal_info_dialog_affirmative_button": {
+    "message": "V redu"
+  },
+  "qowt_modal_multi_choice_remember_choice": {
+    "message": "Zapomni si mojo izbiro"
+  },
+  "qowt_modal_query_dialog_affirmative_button": {
+    "message": "Da"
+  },
+  "qowt_modal_query_dialog_negative_button": {
+    "message": "Ne"
+  },
+  "qowt_modal_query_dialog_reload_button": {
+    "message": "Znova nalo\u017ei"
+  },
+  "qowt_modal_single_choice_remember_choice": {
+    "message": "Ne opominjaj me ve\u010d"
+  },
+  "read_only": {
+    "message": "Samo za branje"
+  },
+  "redo_aria_spoken_word": {
+    "message": "uveljavi"
+  },
+  "right_pointed_submenu": {
+    "message": "Desni kazalec s podmenijem"
+  },
+  "save_aria_spoken_word": {
+    "message": "shrani"
+  },
+  "save_now": {
+    "message": "Shrani"
+  },
+  "security_error_msg": {
+    "message": "\u010ce se napaka ne neha pojavljati, spodaj poro\u010dajte o te\u017eavi."
+  },
+  "security_error_short_msg": {
+    "message": "Ups. Zahtevane datoteke ni bilo mogo\u010de odpreti. Odpiranje datotek v anonimnem na\u010dinu trenutno ni podprto. Odprite datoteko v neanonimnem na\u010dinu."
+  },
+  "selected": {
+    "message": "Izbrano"
+  },
+  "set_sheet_info_error_msg": {
+    "message": "Pri posodobljanju imena preglednice je pri\u0161lo do napake"
+  },
+  "share_button": {
+    "message": "Skupna raba"
+  },
+  "share_promo_conversion_shortmsg": {
+    "message": "Urejanje z drugimi"
+  },
+  "share_promo_office_editing_mode_shortmsg": {
+    "message": "Deljenje z drugimi"
+  },
+  "sheet_delete_column_error_msg": {
+    "message": "Ups. Pri brisanju stolpca je pri\u0161lo do napake. Poskusite znova."
+  },
+  "sheet_delete_row_error_msg": {
+    "message": "Ups. Pri brisanju vrstice je pri\u0161lo do napake. Poskusite znova."
+  },
+  "sheet_format_cells_error_msg": {
+    "message": "Napaka pri oblikovanju. Poskusite znova."
+  },
+  "sheet_insert_column_error_msg": {
+    "message": "Ups. Pri vstavljanju stolpca je pri\u0161lo do napake. Poskusite znova."
+  },
+  "sheet_insert_column_exceed_error_msg": {
+    "message": "Na \u017ealost ni mogo\u010de vstaviti ve\u010d stolpcev v to preglednico. Na\u0161e preglednice podpirajo samo 256 stolpcev."
+  },
+  "sheet_insert_column_exceed_error_short_msg": {
+    "message": "Oprostite."
+  },
+  "sheet_insert_row_error_msg": {
+    "message": "Ups. Pri vstavljanju vrstice je pri\u0161lo do napake. Poskusite znova."
+  },
+  "sheet_insert_row_exceed_error_msg": {
+    "message": "Na \u017ealost ni mogo\u010de vstaviti ve\u010d vrstic v to preglednico. Na\u0161e preglednice podpirajo samo 65.536 vrstic."
+  },
+  "sheet_insert_row_exceed_error_short_msg": {
+    "message": "Oprostite."
+  },
+  "sheet_ocm_promo_conversion_msg": {
+    "message": "V Google Preglednicah lahko neposredno urejate in shranjujete datoteke zbirke Office. \u010ce \u017eelite povabiti druge k urejanju ali dodajanju komentarjev, datoteke shranite v obliki Google Preglednic. Kadar koli jih lahko spet shranite v izvirni obliki."
+  },
+  "sheet_ocm_promo_office_editing_mode_msg": {
+    "message": "Zdaj lahko neposredno urejate in shranjujete datoteke zbirke Office v Google Preglednicah. \u010ce \u017eelite druge povabiti, da datoteko urejajo sproti ali dodajo komentarje, to datoteko nalo\u017eite v Google Drive. Oblika te datoteke se ne bo spremenila."
+  },
+  "sheet_set_cell_content_invalid_error_msg": {
+    "message": "V formuli, ki ste jo vnesli, je napaka. Popravite jo."
+  },
+  "sheet_share_promo_conversion_msg": {
+    "message": "Posku\u0161ate to preglednico deliti z drugimi? \u010ce \u017eelite druge povabiti, da datoteko urejajo z vami, jo pretvorite v datoteko Google Preglednic."
+  },
+  "sheet_share_promo_office_editing_mode_msg": {
+    "message": "Zdaj lahko neposredno urejate in shranjujete datoteke zbirke Office v Google Preglednicah. \u010ce \u017eelite druge povabiti, da datoteko urejajo sproti ali dodajo komentarje, to datoteko nalo\u017eite v Google Drive. Oblika te datoteke se ne bo spremenila."
+  },
+  "sheet_sort_error_title": {
+    "message": "Pri razvr\u0161\u010danju skupine celic je pri\u0161lo do napake."
+  },
+  "sheet_sort_failure_msg": {
+    "message": "Pri razvr\u0161\u010danju skupine celic je pri\u0161lo do napake."
+  },
+  "sheet_sort_merged_cell_error": {
+    "message": "Zdru\u017eenih celic ni mogo\u010de razvrstiti."
+  },
+  "sheet_sort_merged_cell_error_title": {
+    "message": "Pri razvr\u0161\u010danju skupine celic je pri\u0161lo do napake."
+  },
+  "sheet_sort_one_cell_error": {
+    "message": "Za razvr\u0161\u010danje izberite ve\u010d kot eno celico."
+  },
+  "sheet_sort_one_cell_error_title": {
+    "message": "Pri razvr\u0161\u010danju skupine celic je pri\u0161lo do napake."
+  },
+  "shift_key": {
+    "message": "Shift"
+  },
+  "shortcut": {
+    "message": "Bli\u017enjica $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "sign_in": {
+    "message": "Prijava"
+  },
+  "slash_key": {
+    "message": "Po\u0161evnica"
+  },
+  "something_not_right": {
+    "message": "Nekaj ni v redu"
+  },
+  "storage_quota_exceed_error_msg": {
+    "message": "Zaprite morebitne dokumente zbirke Office, odprte v Chromu, in poskusite znova. \u010ce te\u017eave s tem ne odpravite, nas o njej obvestite spodaj."
+  },
+  "storage_quota_exceed_error_short_msg": {
+    "message": "Datoteke ni bilo mogo\u010de odpreti."
+  },
+  "strikethrough_aria_spoken_word": {
+    "message": "pre\u010drtano"
+  },
+  "style_aria_spoken_word": {
+    "message": "spustni seznam za slog"
+  },
+  "submenu_spoken_text": {
+    "message": "$1 $2 $3 $4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "temporary_unable_to_open_error_msg": {
+    "message": "Poskusite znova pozneje ali pa te\u017eavo prijavite spodaj, \u010de se ponovi."
+  },
+  "temporary_unable_to_open_error_short_msg": {
+    "message": "Datoteke trenutno ni mogo\u010de odpreti."
+  },
+  "textaligncenter_aria_spoken_word": {
+    "message": "poravnava besedila na sredino"
+  },
+  "textalignjustify_aria_spoken_word": {
+    "message": "poravnava besedila"
+  },
+  "textalignleft_aria_spoken_word": {
+    "message": "poravnava besedila levo"
+  },
+  "textalignright_aria_spoken_word": {
+    "message": "poravnava besedila desno"
+  },
+  "textcolor_aria_spoken_word": {
+    "message": "spustni seznam za barvo besedila"
+  },
+  "textual_edit_error_msg": {
+    "message": "Pri oblikovanju va\u0161ega dokumenta je pri\u0161lo do napake.\n\nZnova nalo\u017eite stran, \u010de \u017eelite obnoviti spremembe."
+  },
+  "textual_edit_error_short_msg": {
+    "message": "Joj!"
+  },
+  "title_error_msg_for_merge_cells": {
+    "message": "Pri\u0161lo je do te\u017eave"
+  },
+  "title_msg_merging_multiple_cells_with_text": {
+    "message": "Pozor!"
+  },
+  "togglebulleted_aria_spoken_word": {
+    "message": "ozna\u010den seznam"
+  },
+  "togglenumbered_aria_spoken_word": {
+    "message": "o\u0161tevil\u010den seznam"
+  },
+  "togglezoom_aria_spoken_word": {
+    "message": "preklop pove\u010dave"
+  },
+  "tooltip_background_color": {
+    "message": "Barva polnila"
+  },
+  "tooltip_bold": {
+    "message": "Krepko"
+  },
+  "tooltip_border": {
+    "message": "Obrobe"
+  },
+  "tooltip_border_all": {
+    "message": "Vse obrobe"
+  },
+  "tooltip_border_bottom": {
+    "message": "Spodnje obrobe"
+  },
+  "tooltip_border_horizontal": {
+    "message": "Navpi\u010dne obrobe"
+  },
+  "tooltip_border_inner": {
+    "message": "Notranje obrobe"
+  },
+  "tooltip_border_left": {
+    "message": "Obrobe na levi"
+  },
+  "tooltip_border_none": {
+    "message": "Brez obrob"
+  },
+  "tooltip_border_outer": {
+    "message": "Zunanje obrobe"
+  },
+  "tooltip_border_right": {
+    "message": "Desne obrobe"
+  },
+  "tooltip_border_top": {
+    "message": "Zgornje obrobe"
+  },
+  "tooltip_border_vertical": {
+    "message": "Navpi\u010dne obrobe"
+  },
+  "tooltip_cell_align": {
+    "message": "Poravnava celic"
+  },
+  "tooltip_cell_h_align_center": {
+    "message": "Vodoravna poravnava na sredino"
+  },
+  "tooltip_cell_h_align_left": {
+    "message": "Vodoravna poravnava levo"
+  },
+  "tooltip_cell_h_align_right": {
+    "message": "Vodoravna poravnava desno"
+  },
+  "tooltip_cell_v_align_bottom": {
+    "message": "Navpi\u010dna poravnava spodaj"
+  },
+  "tooltip_cell_v_align_center": {
+    "message": "Navpi\u010dna poravnava na sredino"
+  },
+  "tooltip_cell_v_align_top": {
+    "message": "Navpi\u010dna poravnava zgoraj"
+  },
+  "tooltip_download": {
+    "message": "Prenos"
+  },
+  "tooltip_download_original": {
+    "message": "Prenesi izvirnik"
+  },
+  "tooltip_dropdown_init_add_shape": {
+    "message": "Oblika"
+  },
+  "tooltip_fill_color": {
+    "message": "Barva besedila"
+  },
+  "tooltip_font_face": {
+    "message": "Pisava"
+  },
+  "tooltip_font_size": {
+    "message": "Velikost pisave"
+  },
+  "tooltip_highlight_color": {
+    "message": "Barva za ozna\u010devanje"
+  },
+  "tooltip_init_add_shape": {
+    "message": "Besedilno polje"
+  },
+  "tooltip_italic": {
+    "message": "Le\u017ee\u010de"
+  },
+  "tooltip_merge": {
+    "message": "Zdru\u017ei celice"
+  },
+  "tooltip_merge_dropdown": {
+    "message": "Izberite vrsto zdru\u017eitve ..."
+  },
+  "tooltip_modify_shape_fill_color": {
+    "message": "Barva polnila"
+  },
+  "tooltip_modify_shape_outline_color": {
+    "message": "Barva \u010drte"
+  },
+  "tooltip_modify_shape_outline_style": {
+    "message": "\u010crtkana \u010drta"
+  },
+  "tooltip_modify_shape_outline_width": {
+    "message": "Debelina \u010drte"
+  },
+  "tooltip_move_slide": {
+    "message": "Premaknite diapozitive ($1)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "tooltip_point": {
+    "message": "Za\u010detna stran Google Predstavitev"
+  },
+  "tooltip_point_toggle_bullet": {
+    "message": "Ozna\u010den seznam"
+  },
+  "tooltip_point_toggle_number": {
+    "message": "O\u0161tevil\u010den seznam"
+  },
+  "tooltip_presentation": {
+    "message": "Predstavitev"
+  },
+  "tooltip_print": {
+    "message": "Tiskanje"
+  },
+  "tooltip_redo": {
+    "message": "Uveljavi"
+  },
+  "tooltip_share": {
+    "message": "Skupna raba"
+  },
+  "tooltip_share_for_macroenabledfiles": {
+    "message": "Datoteke z omogo\u010denimi makri je mogo\u010de dati v skupno rabo samo v storitvi Google Drive"
+  },
+  "tooltip_sheet": {
+    "message": "Za\u010detna stran Google Preglednic"
+  },
+  "tooltip_strikethrough": {
+    "message": "Pre\u010drtano"
+  },
+  "tooltip_style": {
+    "message": "Slogi"
+  },
+  "tooltip_text_align_center": {
+    "message": "Na sredino"
+  },
+  "tooltip_text_align_justify": {
+    "message": "Poravnaj"
+  },
+  "tooltip_text_align_left": {
+    "message": "Poravnava levo"
+  },
+  "tooltip_text_align_right": {
+    "message": "Poravnava desno"
+  },
+  "tooltip_text_color": {
+    "message": "Barva besedila"
+  },
+  "tooltip_toggle_bulleted": {
+    "message": "Ozna\u010den seznam"
+  },
+  "tooltip_toggle_numbered": {
+    "message": "O\u0161tevil\u010den seznam"
+  },
+  "tooltip_toggle_zoom": {
+    "message": "Preklop pove\u010dave/pomanj\u0161ave"
+  },
+  "tooltip_underline": {
+    "message": "Pod\u010drtano"
+  },
+  "tooltip_undo": {
+    "message": "Razveljavi"
+  },
+  "tooltip_word": {
+    "message": "Za\u010detna stran Google Dokumentov"
+  },
+  "tooltip_wrap_text": {
+    "message": "Oblij z besedilom"
+  },
+  "tooltip_zoom_in": {
+    "message": "Pove\u010daj"
+  },
+  "tooltip_zoom_out": {
+    "message": "Pomanj\u0161aj"
+  },
+  "try_again": {
+    "message": "Poskusi znova"
+  },
+  "unable_to_execute_msg": {
+    "message": "Dokumenta ni mogo\u010de odpreti."
+  },
+  "underline_aria_spoken_word": {
+    "message": "pod\u010drtaj"
+  },
+  "undo_aria_spoken_word": {
+    "message": "razveljavi"
+  },
+  "unmerge_aria_spoken_word": {
+    "message": "razdru\u017eitev"
+  },
+  "unsaved_changes": {
+    "message": "Neshranjene spremembe"
+  },
+  "unsaved_changes_warning": {
+    "message": "V datoteki imate neshranjene spremembe. \u010ce zapustite to stran, ne da bi jih shranili, bo va\u0161e delo izgubljeno."
+  },
+  "unsupported_file_format_error_details_p1": {
+    "message": "Vsebina te datoteke je v obliki za zbirko Microsoft\u00ae Office 95 ali novej\u0161o, ki je ne moremo odpreti."
+  },
+  "unsupported_file_format_error_details_p2": {
+    "message": "\u010ce \u017eelite datoteko pretvoriti v Google Dokumente, kliknite spodnjo povezavo."
+  },
+  "unsupported_file_format_error_title": {
+    "message": "Ojoj!"
+  },
+  "unsupported_link_message": {
+    "message": "URL-jev te vrste trenutno ne podpiramo."
+  },
+  "up_key": {
+    "message": "Gor"
+  },
+  "updated_shortcut_message": {
+    "message": "Posodobili smo bli\u017enji\u010dne tipke, da bodo usklajene v vseh izdelkih Google Dokumentov. Posodobljene bli\u017enjice preglejte v razdelku \u00bbPomo\u010d\u00ab."
+  },
+  "updated_shortcut_title": {
+    "message": "Posodobljene bli\u017enji\u010dne tipke"
+  },
+  "uploading_to_drive_for_office_editing_mode_point": {
+    "message": "Nalaganje v Google Drive in odpiranje v Predstavitvah"
+  },
+  "uploading_to_drive_for_office_editing_mode_sheet": {
+    "message": "Nalaganje v Google Drive in odpiranje v Preglednicah"
+  },
+  "uploading_to_drive_for_office_editing_mode_word": {
+    "message": "Nalaganje v Google Drive in odpiranje v Dokumentih"
+  },
+  "uploading_to_drive_msg_for_point": {
+    "message": "Nalaganje te datoteke v Drive in odpiranje v Google Predstavitvah."
+  },
+  "uploading_to_drive_msg_for_sheet": {
+    "message": "Nalaganje te datoteke v Drive in odpiranje v Google Preglednicah."
+  },
+  "uploading_to_drive_msg_for_word": {
+    "message": "Nalaganje te datoteke v Drive in odpiranje v Google Dokumentih."
+  },
+  "version_info_msg": {
+    "message": "Va\u0161a razli\u010dica zdru\u017eljivostnega na\u010dina za Office je"
+  },
+  "word_binary_upsave_learnmore": {
+    "message": "Ve\u010d o tem"
+  },
+  "word_binary_upsave_msg": {
+    "message": "Ta datoteka je v nepodprti obliki. \u010ce jo \u017eelite shraniti, potrebujemo va\u0161e dovoljenje za njeno pretvorbo v novej\u0161o obliko datoteke. Izvirnik ne bo spremenjen."
+  },
+  "word_binary_upsave_shortmsg": {
+    "message": "Posodobitev dokumenta"
+  },
+  "word_count_label": {
+    "message": "Besede"
+  },
+  "word_count_title": {
+    "message": "\u0160tevilo besed"
+  },
+  "word_ocm_promo_conversion_msg": {
+    "message": "V Google Dokumentih lahko neposredno urejate in shranjujete datoteke zbirke Office. \u010ce \u017eelite povabiti druge k urejanju ali dodajanju komentarjev, datoteke shranite v obliki Google Dokumentov. Kadar koli jih lahko spet shranite v izvirni obliki."
+  },
+  "word_ocm_promo_office_editing_mode_msg": {
+    "message": "Zdaj lahko neposredno urejate in shranjujete datoteke zbirke Office v Google Dokumentih. \u010ce \u017eelite druge povabiti, da datoteko urejajo sproti ali dodajo komentarje, to datoteko nalo\u017eite v Google Drive. Oblika te datoteke se ne bo spremenila."
+  },
+  "word_share_promo_conversion_msg": {
+    "message": "Posku\u0161ate ta dokument deliti z drugimi? \u010ce \u017eelite druge povabiti, da datoteko urejajo z vami, jo pretvorite v datoteko Google Dokumentov."
+  },
+  "word_share_promo_office_editing_mode_msg": {
+    "message": "Zdaj lahko neposredno urejate in shranjujete datoteke zbirke Office v Google Dokumentih. \u010ce \u017eelite druge povabiti, da datoteko urejajo sproti ali dodajo komentarje, to datoteko nalo\u017eite v Google Drive. Oblika te datoteke se ne bo spremenila."
+  },
+  "working_in_basic_editor_banner_text": {
+    "message": "Delate v osnovnem urejevalniku datotek Microsoft"
+  },
+  "wraptext_aria_spoken_word": {
+    "message": "oblij z besedilom"
+  },
+  "zoomin_aria_spoken_word": {
+    "message": "pove\u010daj"
+  },
+  "zoomout_aria_spoken_word": {
+    "message": "pomanj\u0161aj"
+  }
+}

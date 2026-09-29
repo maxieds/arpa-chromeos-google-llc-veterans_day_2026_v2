@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "\ud5c8\uc6a9"
+    }, 
+    "consent_denied": {
+        "message": "Chrome \uae30\uae30\uc5d0\uc11c \ucfe0\ud3f0\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc788\ub294\uc9c0 \ud655\uc778\ud560 \uc218 \uc788\ub294 \uad8c\ud55c\uc744 \ubd80\uc5ec\ud558\uc9c0 \uc54a\uc73c\uc168\uc2b5\ub2c8\ub2e4. \ucfe0\ud3f0 \uc0ac\uc6a9\uc744 \ub2e4\uc2dc \uc2dc\ub3c4\ud55c \ub2e4\uc74c '\ud5c8\uc6a9'\uc744 \ud074\ub9ad\ud558\uc5ec \ucfe0\ud3f0 \uc0ac\uc6a9 \uac00\ub2a5 \uc5ec\ubd80\ub97c \ud655\uc778\ud558\uac8c \ud574 \uc8fc\uc138\uc694."
+    }, 
+    "deny_button_string": {
+        "message": "\uac70\ubd80"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "\ub0b4 \uae30\uae30\uc5d0 \ub300\ud55c \ucfe0\ud3f0 \uc0ac\uc6a9 \uae30\uac04\uc774 \ub9cc\ub8cc\ub418\uc5c8\uc2b5\ub2c8\ub2e4."
+    }, 
+    "device_not_eligible": {
+        "message": "\ub0b4 \uae30\uae30\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc5c6\ub294 \ucfe0\ud3f0\uc785\ub2c8\ub2e4. $1\uae30\uae30\uc5d0\uc11c \uc0ac\uc6a9 \uac00\ub2a5\ud55c \ucfe0\ud3f0 \ubcf4\uae30$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "\ud2b9\uc815 Chrome \uae30\uae30 \ubaa8\ub378\uc5d0\uc11c \uc0ac\uc6a9\ud560 \uc218 \uc5c6\ub294 \ucfe0\ud3f0\uc785\ub2c8\ub2e4."
+    }, 
+    "dismiss_button_string": {
+        "message": "\ub2eb\uae30"
+    }, 
+    "dismiss_info_string": {
+        "message": "IT \uad00\ub9ac\uc790\uac00 \ub0b4 \uae30\uae30\uc5d0\uc11c Chrome Goodies\ub97c \uc774\uc6a9\ud560 \uc218 \uc5c6\ub3c4\ub85d \uc124\uc815\ud588\uc2b5\ub2c8\ub2e4."
+    }, 
+    "error_no_regcode": {
+        "message": "\uae30\uae30\uc5d0 \ucfe0\ud3f0 \ucf54\ub4dc\uac00 \uc5c6\ub294 \uac83 \uac19\uc2b5\ub2c8\ub2e4. $1Chrome OS \uc9c0\uc6d0\ud300$2\uc5d0 \ubb38\uc758\ud558\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "\ub4f1\ub85d\ub418\uc9c0 \uc54a\uc740 \uc6f9\uc0ac\uc774\ud2b8\uc5d0\uc11c \ucfe0\ud3f0\uc744 \uc0ac\uc6a9\ud558\ub824 \ud55c \uac83 \uac19\uc2b5\ub2c8\ub2e4."
+    }, 
+    "generic_error_message": {
+        "message": "\ud604\uc7ac \uc624\ub958\ub85c \uc778\ud574 \ucfe0\ud3f0\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \ub098\uc911\uc5d0 \ub2e4\uc2dc \ud655\uc778\ud574 \uc8fc\uc138\uc694."
+    }, 
+    "info_string": {
+        "message": "\uc790\uc138\ud788 \uc54c\uc544\ubcf4\uae30"
+    }, 
+    "learn_more": {
+        "message": "$1\uc790\uc138\ud788 \uc54c\uc544\ubcf4\uae30$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "\uc774 \ucfe0\ud3f0\uc740 \uae30\uae30\ub2f9 \ud55c \ubc88\ub9cc \uc0ac\uc6a9\ud560 \uc218 \uc788\uc73c\uba70 \uc774\ubbf8 \uc0ac\uc6a9\ub418\uc5c8\uc2b5\ub2c8\ub2e4. \uc774 \uae30\uae30\ub97c \uc4f0\ub294 \ub2e4\ub978 \uc0ac\uc6a9\uc790\uac00 \uba3c\uc800 \ub85c\uadf8\uc778\ud558\uc5ec \uc0ac\uc6a9\ud588\uc744 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uc911\uace0 \uae30\uae30\ub97c \uad6c\ub9e4\ud55c \uacbd\uc6b0 \uc774\uc804 \uc18c\uc720\uc790\uac00 \uc0ac\uc6a9\ud588\uc744 \uc218\ub3c4 \uc788\uc2b5\ub2c8\ub2e4. \uc720\uac10\uc2a4\ub7fd\uac8c\ub3c4 \ucfe0\ud3f0\uc740 \ub2e4\ub978 \uacc4\uc815\uc73c\ub85c \uc774\uc804\ud560 \uc218 \uc5c6\uc73c\uba70 \uc911\uace0 \uae30\uae30\uc5d0 \ub2e4\uc2dc \uc81c\uacf5\ud574 \ub4dc\ub9b4 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4."
+    }, 
+    "nonregular_mode_message": {
+        "message": "\ucfe0\ud3f0\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uc2dc\ud06c\ub9bf \ucc3d\uc744 \uc0ac\uc6a9 \uc911\uc774\uac70\ub098 \uc190\ub2d8 \ubaa8\ub4dc\ub85c \ub85c\uadf8\uc778\ud55c \uacbd\uc6b0 \ucfe0\ud3f0\uc744 \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uc77c\ubc18 \ucc3d\uc744 \uc0ac\uc6a9\ud558\uace0, \uc190\ub2d8 \ub85c\uadf8\uc778\uc744 \uc0ac\uc6a9\ud558\uace0 \uc788\uc9c0 \uc54a\uc740\uc9c0 \ud655\uc778\ud558\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4."
+    }, 
+    "notification_button": {
+        "message": "\uc0ac\uc6a9 \uae30\uac04 - $1\uc77c \ub0a8\uc74c", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "\ub9cc\ub8cc\ub418\uae30 \uc804\uc5d0 \uc0ac\uc6a9\ud558\uc138\uc694."
+    }, 
+    "notification_title": {
+        "message": "Chrome \uae30\uae30 \uc0ac\uc6a9\uc790\ub97c \uc704\ud55c \ubb34\ub8cc \ud61c\ud0dd"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Chrome OS \uc9c0\uc6d0\ud300\uc5d0\uc11c \ubc1b\uc740 \ucf54\ub4dc\uac00 \uc798\ubabb\ub41c \ucfe0\ud3f0\uc744 \uc0ac\uc6a9\ud558\ub294 \ub370 \uc4f0\uc774\uace0 \uc788\uc2b5\ub2c8\ub2e4. $1Chrome OS \uc9c0\uc6d0\ud300$2\uc5d0 \ub2e4\uc2dc \ubb38\uc758\ud558\uc2dc\uae30 \ubc14\ub78d\ub2c8\ub2e4.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1\ub2d8\uc774 \ub0b4\uac00 \uc0ac\uc6a9 \uc911\uc778 Chrome OS \uae30\uae30\uac00 \uc801\ud569\ud55c\uc9c0 \ud655\uc778\ud558\ub824\uace0 \ud569\ub2c8\ub2e4.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "\uae30\uae30\uc758 \ub4f1\ub85d \ucf54\ub4dc\uac00 \uc798\ubabb\ub418\uc5c8\uc2b5\ub2c8\ub2e4."
+    }, 
+    "sorry_about_that": {
+        "message": "\ubd88\ud3b8\uc744 \ub07c\uccd0 \ub4dc\ub824 \uc8c4\uc1a1\ud569\ub2c8\ub2e4."
+    }
+}

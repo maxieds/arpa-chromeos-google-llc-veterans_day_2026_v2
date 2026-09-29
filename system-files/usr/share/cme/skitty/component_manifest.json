@@ -1,0 +1,46 @@
+{
+    "manifest_version": 1,
+    "ec_version": "skitty-15194.337.0",
+    "component_list": [
+        {
+            "component_type": "charger",
+            "component_name": "richtek,rt9490",
+            "i2c": {
+                "port": 0,
+                "addr": "0x53",
+                "expect": [
+                    {
+                        "reg": "0x48",
+                        "mask": "0xff",
+                        "value": "0x60"
+                    }
+                ]
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "ppc",
+            "component_name": "silergy,syv682x",
+            "i2c": {
+                "port": 2,
+                "addr": "0x40"
+            },
+            "usbc": {
+                "port": 0
+            }
+        },
+        {
+            "component_type": "mux",
+            "component_name": "ite,it5205",
+            "i2c": {
+                "port": 2,
+                "addr": "0x48"
+            },
+            "usbc": {
+                "port": 0
+            }
+        }
+    ]
+}

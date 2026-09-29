@@ -1,0 +1,9 @@
+{
+  "app_url": "https://cursive.apps.chrome/install/",
+  "disable_if_touchscreen_with_stylus_not_supported": true,
+  "launch_container": "window",
+  "user_type": [
+    "unmanaged",
+    "managed"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "app_url": "https://play.geforcenow.com/mall/",
+  "launch_container": "window",
+  "user_type": ["unmanaged"],
+  "feature_name": "CloudGamingDevice",
+  "load_and_await_service_worker_registration": false,
+  "only_use_offline_manifest": true,
+  "offline_manifest": {
+    "name": "GeForce NOW",
+    "display": "standalone",
+    "start_url": "https://play.geforcenow.com/mall/",
+    "scope": "https://play.geforcenow.com/",
+    "theme_color_argb_hex": "FF191919",
+    "icon_maskable_pngs": ["nvidia_geforce_now_maskable_192.png"]
+  },
+  "launch_query_params": "chromeos_source=cloud_gaming_device",
+  "force_reinstall_for_milestone": 107
+}

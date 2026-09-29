@@ -1,0 +1,7 @@
+{
+  "app_url": "https://messages.google.com/web/authentication",
+  "launch_container": "window",
+  "user_type": ["unmanaged"],
+  "feature_name_or_installed": "MessagesPreinstall",
+  "force_reinstall_for_milestone": 110
+}

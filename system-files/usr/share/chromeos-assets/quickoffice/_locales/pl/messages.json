@@ -1,0 +1,2333 @@
+{
+  "action_create_user_feedback": {
+    "message": "Zg\u0142o\u015b problem"
+  },
+  "alt_key": {
+    "message": "Alt"
+  },
+  "always_use_office_editing_mode": {
+    "message": "Zawsze wykonuj to dzia\u0142anie w\u00a0przypadku obs\u0142ugiwanych plik\u00f3w pakietu Office z\u00a0Dysku i\u00a0Gmaila"
+  },
+  "app_error_learn_more": {
+    "message": "Wi\u0119cej informacji"
+  },
+  "app_error_report_feedback": {
+    "message": "Prze\u015blij opini\u0119"
+  },
+  "app_icon_aria_spoken_word": {
+    "message": " strona g\u0142\u00f3wna"
+  },
+  "app_nacl_crash_msg": {
+    "message": "Pom\u00f3\u017c nam, zg\u0142aszaj\u0105c problem."
+  },
+  "app_nacl_crash_report": {
+    "message": "Zg\u0142o\u015b problem..."
+  },
+  "app_nacl_crash_title": {
+    "message": "Ups, to nie powinno by\u0142o si\u0119 sta\u0107. Za\u0142aduj ponownie stron\u0119, by odzyska\u0107 zmiany."
+  },
+  "app_nacl_error_load_failed": {
+    "message": "Nie uda\u0142o si\u0119 otworzy\u0107 pliku. Zamknij inne karty Chrome lub uruchom Chrome ponownie i spr\u00f3buj jeszcze raz. Je\u015bli problem nie ust\u0105pi, zg\u0142o\u015b go poni\u017cej."
+  },
+  "app_nacl_error_title": {
+    "message": "Nie mo\u017cna otworzy\u0107 pliku."
+  },
+  "app_nacl_error_unsupported_device": {
+    "message": "To urz\u0105dzenie nie obs\u0142uguje rozszerzenia Edytor Office do Chrome."
+  },
+  "app_saving_failed_error_msg": {
+    "message": "Podczas zapisywania pliku wyst\u0105pi\u0142 problem. Spr\u00f3buj ponownie. Je\u015bli problem nie ust\u0105pi, zg\u0142o\u015b go."
+  },
+  "app_saving_failed_error_short_msg": {
+    "message": "Nie mo\u017cna zapisa\u0107 pliku."
+  },
+  "backgroundcolor_aria_spoken_word": {
+    "message": "lista kolor\u00f3w t\u0142a kom\u00f3rki"
+  },
+  "banner_dismiss": {
+    "message": "Zamknij"
+  },
+  "basic_editor_conversion_shortmsg": {
+    "message": "Jeste\u015b w\u00a0trybie podstawowego edytora"
+  },
+  "basic_editor_mode": {
+    "message": "Podstawowy edytor"
+  },
+  "basic_editor_promo_conversion_msg": {
+    "message": "Pracujesz w\u00a0podstawowym edytorze plik\u00f3w w\u00a0formatach firmy Microsoft. Opcje edycji mog\u0105 by\u0107 ograniczone. Tw\u00f3j plik zostanie automatycznie zapisany podczas edytowania."
+  },
+  "bold_aria_spoken_word": {
+    "message": "pogrubienie"
+  },
+  "border_all_aria_spoken_word": {
+    "message": "wszystkie kraw\u0119dzie"
+  },
+  "border_aria_spoken_word": {
+    "message": "lista obramowa\u0144"
+  },
+  "border_bottom_aria_spoken_word": {
+    "message": "kraw\u0119d\u017a dolna"
+  },
+  "border_horizontal_aria_spoken_word": {
+    "message": "kraw\u0119d\u017a pozioma"
+  },
+  "border_inner_aria_spoken_word": {
+    "message": "kraw\u0119d\u017a wewn\u0119trzna"
+  },
+  "border_left_aria_spoken_word": {
+    "message": "kraw\u0119d\u017a lewa"
+  },
+  "border_none_aria_spoken_word": {
+    "message": "brak kraw\u0119dzi"
+  },
+  "border_outer_aria_spoken_word": {
+    "message": "kraw\u0119d\u017a zewn\u0119trzna"
+  },
+  "border_right_aria_spoken_word": {
+    "message": "kraw\u0119d\u017a prawa"
+  },
+  "border_top_aria_spoken_word": {
+    "message": "kraw\u0119d\u017a g\u00f3rna"
+  },
+  "border_vertical_aria_spoken_word": {
+    "message": "kraw\u0119d\u017a pionowa"
+  },
+  "button_drive_promo_office_editing_mode_point": {
+    "message": "Otw\u00f3rz w\u00a0Prezentacjach Google"
+  },
+  "button_drive_promo_office_editing_mode_sheet": {
+    "message": "Otw\u00f3rz w\u00a0Arkuszach Google"
+  },
+  "button_drive_promo_office_editing_mode_word": {
+    "message": "Otw\u00f3rz w\u00a0Dokumentach Google"
+  },
+  "button_ocm_convert_cancel": {
+    "message": "Anuluj"
+  },
+  "button_ocm_oem_cancel": {
+    "message": "Anuluj"
+  },
+  "button_ocm_promo_conversion_point": {
+    "message": "Zapisz jako plik Prezentacji Google"
+  },
+  "button_ocm_promo_conversion_sheet": {
+    "message": "Zapisz jako plik Arkuszy Google"
+  },
+  "button_ocm_promo_conversion_word": {
+    "message": "Zapisz jako plik Dokument\u00f3w Google"
+  },
+  "button_ocm_promo_office_editing_mode_point": {
+    "message": "Prze\u015blij na Dysk i\u00a0otw\u00f3rz w\u00a0Prezentacjach"
+  },
+  "button_ocm_promo_office_editing_mode_sheet": {
+    "message": "Prze\u015blij na Dysk i\u00a0otw\u00f3rz w\u00a0Arkuszach"
+  },
+  "button_ocm_promo_office_editing_mode_word": {
+    "message": "Prze\u015blij na Dysk i\u00a0otw\u00f3rz w\u00a0Dokumentach"
+  },
+  "button_share_convert_cancel": {
+    "message": "Anuluj"
+  },
+  "button_share_oem_cancel": {
+    "message": "Anuluj"
+  },
+  "button_share_promo_conversion_point": {
+    "message": "Zapisz jako plik Prezentacji Google"
+  },
+  "button_share_promo_conversion_sheet": {
+    "message": "Zapisz jako plik Arkuszy Google"
+  },
+  "button_share_promo_conversion_word": {
+    "message": "Zapisz jako plik Dokument\u00f3w Google"
+  },
+  "button_share_promo_office_editing_mode": {
+    "message": "Prze\u015blij na Dysk, aby udost\u0119pni\u0107"
+  },
+  "cell_align_aria_spoken_word": {
+    "message": "Wyr\u00f3wnywanie kom\u00f3rek"
+  },
+  "cellalign_aria_spoken_word": {
+    "message": "lista wyr\u00f3wnywania kom\u00f3rek"
+  },
+  "cellhaligncenter_aria_spoken_word": {
+    "message": "Poziomo \u2013 do \u015brodka"
+  },
+  "cellhalignleft_aria_spoken_word": {
+    "message": "Poziomo \u2013 do lewej"
+  },
+  "cellhalignright_aria_spoken_word": {
+    "message": "Poziomo \u2013 do prawej"
+  },
+  "cellvalignbottom_aria_spoken_word": {
+    "message": "Pionowo \u2013 do do\u0142u"
+  },
+  "cellvaligncenter_aria_spoken_word": {
+    "message": "Pionowo \u2013 do \u015brodka"
+  },
+  "cellvaligntop_aria_spoken_word": {
+    "message": "Pionowo \u2013 do g\u00f3ry"
+  },
+  "char_count_label": {
+    "message": "Znaki"
+  },
+  "char_no_spaces_count_label": {
+    "message": "Znaki bez spacji"
+  },
+  "close_dialog_aria_spoken_word": {
+    "message": "Zamknij okno"
+  },
+  "cmd_dropdown_initaddshape_aria_spoken_word": {
+    "message": "lista kszta\u0142t\u00f3w"
+  },
+  "collapsed": {
+    "message": "Zwini\u0119ta"
+  },
+  "collapsed_menu": {
+    "message": "Menu $1 zwini\u0119te razem z menu podrz\u0119dnym.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "color_black": {
+    "message": "Czarny"
+  },
+  "color_blaze_orange": {
+    "message": "Pomara\u0144czowy ostrzegawczy"
+  },
+  "color_blue": {
+    "message": "Niebieski"
+  },
+  "color_brown": {
+    "message": "Br\u0105zowy"
+  },
+  "color_cornflower_blue": {
+    "message": "Chabrowy"
+  },
+  "color_cyan": {
+    "message": "Cyjan"
+  },
+  "color_dark_blue": {
+    "message": "Ciemnoniebieski"
+  },
+  "color_dark_blue_1": {
+    "message": "Ciemnoniebieski\u00a01"
+  },
+  "color_dark_blue_2": {
+    "message": "Ciemnoniebieski\u00a02"
+  },
+  "color_dark_blue_3": {
+    "message": "Ciemnoniebieski\u00a03"
+  },
+  "color_dark_blue_grey": {
+    "message": "Szaroniebieski"
+  },
+  "color_dark_cornflower_blue_1": {
+    "message": "Ciemnochabrowy\u00a01"
+  },
+  "color_dark_cornflower_blue_2": {
+    "message": "Ciemnochabrowy\u00a02"
+  },
+  "color_dark_cornflower_blue_3": {
+    "message": "Ciemnochabrowy\u00a03"
+  },
+  "color_dark_cyan": {
+    "message": "Ciemny cyjan"
+  },
+  "color_dark_cyan_1": {
+    "message": "Ciemny cyjan\u00a01"
+  },
+  "color_dark_cyan_2": {
+    "message": "Ciemny cyjan\u00a02"
+  },
+  "color_dark_cyan_3": {
+    "message": "Ciemny cyjan\u00a03"
+  },
+  "color_dark_gray": {
+    "message": "Ciemnoszary"
+  },
+  "color_dark_gray_1": {
+    "message": "Ciemnoszary\u00a01"
+  },
+  "color_dark_gray_2": {
+    "message": "Ciemnoszary\u00a02"
+  },
+  "color_dark_gray_3": {
+    "message": "Ciemnoszary\u00a03"
+  },
+  "color_dark_gray_4": {
+    "message": "Ciemnoszary\u00a04"
+  },
+  "color_dark_green": {
+    "message": "Ciemnozielony"
+  },
+  "color_dark_green_1": {
+    "message": "Ciemnozielony\u00a01"
+  },
+  "color_dark_green_2": {
+    "message": "Ciemnozielony\u00a02"
+  },
+  "color_dark_green_3": {
+    "message": "Ciemnozielony\u00a03"
+  },
+  "color_dark_green_5": {
+    "message": "Ciemnozielony\u00a05"
+  },
+  "color_dark_grey_2": {
+    "message": "Ciemnoszary\u00a02"
+  },
+  "color_dark_grey_5": {
+    "message": "Ciemnoszary\u00a05"
+  },
+  "color_dark_magenta_1": {
+    "message": "Ciemnopurpurowy\u00a01"
+  },
+  "color_dark_magenta_2": {
+    "message": "Ciemnopurpurowy\u00a02"
+  },
+  "color_dark_magenta_3": {
+    "message": "Ciemnopurpurowy\u00a03"
+  },
+  "color_dark_olive_green": {
+    "message": "Ciemnooliwkowy"
+  },
+  "color_dark_orange_1": {
+    "message": "Ciemnopomara\u0144czowy\u00a01"
+  },
+  "color_dark_orange_2": {
+    "message": "Ciemnopomara\u0144czowy\u00a02"
+  },
+  "color_dark_orange_3": {
+    "message": "Ciemnopomara\u0144czowy\u00a03"
+  },
+  "color_dark_purple_1": {
+    "message": "Ciemnofioletowy\u00a01"
+  },
+  "color_dark_purple_2": {
+    "message": "Ciemnofioletowy\u00a02"
+  },
+  "color_dark_purple_3": {
+    "message": "Ciemnofioletowy\u00a03"
+  },
+  "color_dark_red": {
+    "message": "Ciemnoczerwony"
+  },
+  "color_dark_red_1": {
+    "message": "Ciemnoczerwony\u00a01"
+  },
+  "color_dark_red_2": {
+    "message": "Ciemnoczerwony\u00a02"
+  },
+  "color_dark_red_3": {
+    "message": "Ciemnoczerwony\u00a03"
+  },
+  "color_dark_red_berry_1": {
+    "message": "Wi\u015bniowy\u00a01"
+  },
+  "color_dark_red_berry_2": {
+    "message": "Wi\u015bniowy\u00a02"
+  },
+  "color_dark_red_berry_3": {
+    "message": "Wi\u015bniowy\u00a03"
+  },
+  "color_dark_slate_blue": {
+    "message": "Ciemnoniebieski \u0142upkowy"
+  },
+  "color_dark_yellow_1": {
+    "message": "Ciemno\u017c\u00f3\u0142ty\u00a01"
+  },
+  "color_dark_yellow_2": {
+    "message": "Ciemno\u017c\u00f3\u0142ty\u00a02"
+  },
+  "color_dark_yellow_3": {
+    "message": "Ciemno\u017c\u00f3\u0142ty\u00a03"
+  },
+  "color_deep_pink": {
+    "message": "Intensywny r\u00f3\u017cowy"
+  },
+  "color_deep_sky_blue": {
+    "message": "G\u0142\u0119boki b\u0142\u0119kit nieba"
+  },
+  "color_eucalyptus_green": {
+    "message": "Zielony eukaliptusowy"
+  },
+  "color_gold": {
+    "message": "Z\u0142oty"
+  },
+  "color_gray": {
+    "message": "Szary"
+  },
+  "color_green": {
+    "message": "Zielony"
+  },
+  "color_light_blue": {
+    "message": "Jasnoniebieski"
+  },
+  "color_light_blue_1": {
+    "message": "Jasnoniebieski\u00a01"
+  },
+  "color_light_blue_2": {
+    "message": "Jasnoniebieski\u00a02"
+  },
+  "color_light_blue_3": {
+    "message": "Jasnoniebieski\u00a03"
+  },
+  "color_light_cornflower_blue_1": {
+    "message": "Jasnochabrowy\u00a01"
+  },
+  "color_light_cornflower_blue_2": {
+    "message": "Jasnochabrowy\u00a02"
+  },
+  "color_light_cornflower_blue_3": {
+    "message": "Jasnochabrowy\u00a03"
+  },
+  "color_light_cyan": {
+    "message": "Jasny cyjan"
+  },
+  "color_light_cyan_1": {
+    "message": "Jasny cyjan\u00a01"
+  },
+  "color_light_cyan_2": {
+    "message": "Jasny cyjan\u00a02"
+  },
+  "color_light_cyan_3": {
+    "message": "Jasny cyjan\u00a03"
+  },
+  "color_light_gray": {
+    "message": "Jasnoszary"
+  },
+  "color_light_gray_1": {
+    "message": "Jasnoszary\u00a01"
+  },
+  "color_light_gray_2": {
+    "message": "Jasnoszary\u00a02"
+  },
+  "color_light_gray_3": {
+    "message": "Jasnoszary\u00a03"
+  },
+  "color_light_green": {
+    "message": "Jasnozielony"
+  },
+  "color_light_green_1": {
+    "message": "Jasnozielony\u00a01"
+  },
+  "color_light_green_2": {
+    "message": "Jasnozielony\u00a02"
+  },
+  "color_light_green_3": {
+    "message": "Jasnozielony\u00a03"
+  },
+  "color_light_magenta_1": {
+    "message": "Jasnopurpurowy\u00a01"
+  },
+  "color_light_magenta_2": {
+    "message": "Jasnopurpurowy\u00a02"
+  },
+  "color_light_magenta_3": {
+    "message": "Jasnopurpurowy\u00a03"
+  },
+  "color_light_orange_1": {
+    "message": "Jasnopomara\u0144czowy\u00a01"
+  },
+  "color_light_orange_2": {
+    "message": "Jasnopomara\u0144czowy\u00a02"
+  },
+  "color_light_orange_3": {
+    "message": "Jasnopomara\u0144czowy\u00a03"
+  },
+  "color_light_purple": {
+    "message": "Jasnofioletowy"
+  },
+  "color_light_purple_1": {
+    "message": "Jasnofioletowy\u00a01"
+  },
+  "color_light_purple_2": {
+    "message": "Jasnofioletowy\u00a02"
+  },
+  "color_light_purple_3": {
+    "message": "Jasnofioletowy\u00a03"
+  },
+  "color_light_red_1": {
+    "message": "Jasnoczerwony\u00a01"
+  },
+  "color_light_red_2": {
+    "message": "Jasnoczerwony\u00a02"
+  },
+  "color_light_red_3": {
+    "message": "Jasnoczerwony\u00a03"
+  },
+  "color_light_red_berry_1": {
+    "message": "Jasnoczerwony jagodowy\u00a01"
+  },
+  "color_light_red_berry_2": {
+    "message": "Jasnoczerwony jagodowy\u00a02"
+  },
+  "color_light_red_berry_3": {
+    "message": "Jasnoczerwony jagodowy\u00a03"
+  },
+  "color_light_yellow": {
+    "message": "Jasno\u017c\u00f3\u0142ty"
+  },
+  "color_light_yellow_1": {
+    "message": "Jasno\u017c\u00f3\u0142ty\u00a01"
+  },
+  "color_light_yellow_2": {
+    "message": "Jasno\u017c\u00f3\u0142ty\u00a02"
+  },
+  "color_light_yellow_3": {
+    "message": "Jasno\u017c\u00f3\u0142ty\u00a03"
+  },
+  "color_magenta": {
+    "message": "Magenta"
+  },
+  "color_maroon": {
+    "message": "Kasztanowy"
+  },
+  "color_midnight_blue": {
+    "message": "Ciemnogranatowy"
+  },
+  "color_navy": {
+    "message": "Granatowy"
+  },
+  "color_olive": {
+    "message": "Oliwkowy"
+  },
+  "color_orange": {
+    "message": "Pomara\u0144czowy"
+  },
+  "color_peach": {
+    "message": "Brzoskwiniowy"
+  },
+  "color_pink": {
+    "message": "R\u00f3\u017cowy"
+  },
+  "color_pistachio": {
+    "message": "Pistacjowy"
+  },
+  "color_purple": {
+    "message": "Fioletowy"
+  },
+  "color_red": {
+    "message": "Czerwony"
+  },
+  "color_red_berry": {
+    "message": "Czerwony jagodowy"
+  },
+  "color_royal_blue": {
+    "message": "Kr\u00f3lewski niebieski"
+  },
+  "color_teal": {
+    "message": "Morski"
+  },
+  "color_turquiose": {
+    "message": "Turkusowy"
+  },
+  "color_white": {
+    "message": "Bia\u0142y"
+  },
+  "color_yellow": {
+    "message": "\u017b\u00f3\u0142ty"
+  },
+  "command_key": {
+    "message": "Polecenie"
+  },
+  "content_msg_merging_horizontally_across_vertical_section": {
+    "message": "Nie mo\u017cesz scala\u0107 w poziomie kom\u00f3rek, kt\u00f3re ju\u017c zosta\u0142y scalone w pionie."
+  },
+  "content_msg_merging_multiple_cells_with_text": {
+    "message": "Po scaleniu widoczna b\u0119dzie tylko warto\u015b\u0107 z kom\u00f3rki w lewym g\u00f3rnym rogu zaznaczenia. Scali\u0107 mimo to?"
+  },
+  "content_msg_merging_partially_selected_merged_cells": {
+    "message": "Aby scali\u0107 lub cofn\u0105\u0107 scalanie kom\u00f3rek, musisz zaznaczy\u0107 wszystkie kom\u00f3rki zawarte w zakresie scalania."
+  },
+  "content_msg_merging_vertically_across_horizontal_section": {
+    "message": "Nie mo\u017cesz scala\u0107 w pionie kom\u00f3rek, kt\u00f3re ju\u017c zosta\u0142y scalone w poziomie."
+  },
+  "content_render_error_msg": {
+    "message": "Wyst\u0105pi\u0142 problem z tre\u015bci\u0105 tego dokumentu."
+  },
+  "context_menu_clipboard_copy": {
+    "message": "Kopiuj"
+  },
+  "context_menu_delete": {
+    "message": "Usu\u0144"
+  },
+  "context_menu_freeze": {
+    "message": "Zablokuj"
+  },
+  "context_menu_insert": {
+    "message": "Wstaw"
+  },
+  "context_menu_sort_collation_ascending": {
+    "message": "Sortuj od A do Z"
+  },
+  "context_menu_sort_collation_descending": {
+    "message": "Sortuj od Z do A"
+  },
+  "context_menu_unfreeze": {
+    "message": "Odblokuj"
+  },
+  "control_key": {
+    "message": "Kontrola"
+  },
+  "convert_attempt_for_sheet_with_large_file_size": {
+    "message": "Ten plik jest za du\u017cy, aby zapisa\u0107 go w\u00a0formacie Arkuszy Google"
+  },
+  "convert_attempt_for_slide_with_large_file_size": {
+    "message": "Ten plik jest za du\u017cy, aby zapisa\u0107 go w\u00a0formacie Prezentacji Google"
+  },
+  "convert_attempt_for_word_with_large_file_size": {
+    "message": "Ten plik jest za du\u017cy, aby zapisa\u0107 go w\u00a0formacie Dokument\u00f3w Google"
+  },
+  "convert_attempt_when_offline": {
+    "message": "Musisz by\u0107 online, by zapisa\u0107 plik w\u00a0formacie Dokument\u00f3w Google. Spr\u00f3buj ponownie, gdy odzyskasz po\u0142\u0105czenie z\u00a0internetem."
+  },
+  "convert_attempt_with_invalid_creds": {
+    "message": "Aby przekonwertowa\u0107 ten plik, musisz zalogowa\u0107 si\u0119 na swoje konto Google."
+  },
+  "convert_cancel": {
+    "message": "Anuluj"
+  },
+  "convert_to_google_docs_failed": {
+    "message": "Podczas konwertowania dokumentu do Dokument\u00f3w Google wyst\u0105pi\u0142 b\u0142\u0105d."
+  },
+  "convert_to_google_point_fail_short_msg": {
+    "message": "Ups"
+  },
+  "convert_to_google_point_short_msg": {
+    "message": "Zapisuj\u0119 jako Prezentacje Google"
+  },
+  "convert_to_google_sheet_fail_short_msg": {
+    "message": "Ups"
+  },
+  "convert_to_google_sheet_short_msg": {
+    "message": "Zapisuj\u0119 jako Arkusze Google"
+  },
+  "convert_to_google_word_fail_short_msg": {
+    "message": "Ups"
+  },
+  "convert_to_google_word_short_msg": {
+    "message": "Zapisuj\u0119 jako Dokumenty Google"
+  },
+  "convert_try_again": {
+    "message": "Spr\u00f3buj ponownie"
+  },
+  "converting_to_google_point_fail_msg": {
+    "message": "Nie uda\u0142o si\u0119 zapisa\u0107 pliku w\u00a0formacie Prezentacji Google."
+  },
+  "converting_to_google_point_msg": {
+    "message": "Nowa wersja prezentacji jest zapisywana jako Prezentacje Google."
+  },
+  "converting_to_google_sheet_fail_msg": {
+    "message": "Obecnie nie mo\u017cna zapisa\u0107 pliku jako Arkusze Google."
+  },
+  "converting_to_google_sheet_msg": {
+    "message": "Nowa wersja arkusza kalkulacyjnego jest zapisywana jako Arkusze Google."
+  },
+  "converting_to_google_word_fail_msg": {
+    "message": "Obecnie nie mo\u017cna zapisa\u0107 pliku jako Dokumenty Google."
+  },
+  "converting_to_google_word_msg": {
+    "message": "Nowa wersja dokumentu jest zapisywana jako Dokumenty Google."
+  },
+  "copy_attempt_when_offline": {
+    "message": "Aby utworzy\u0107 kopi\u0119 na Dysku Google, musisz mie\u0107 po\u0142\u0105czenie z internetem. Spr\u00f3buj ponownie, gdy po\u0142\u0105czenie zostanie przywr\u00f3cone."
+  },
+  "copy_attempt_with_invalid_creds": {
+    "message": "Aby utworzy\u0107 kopi\u0119, musisz zalogowa\u0107 si\u0119 na swoje konto Google."
+  },
+  "disabled_share_button": {
+    "message": "Pliki z w\u0142\u0105czon\u0105 obs\u0142ug\u0105 makr mo\u017cna udost\u0119pnia\u0107 tylko na Dysku Google. Udost\u0119pnianie wy\u0142\u0105czone."
+  },
+  "disallowed_cut_copy_paste_cmd_copy": {
+    "message": "w celu skopiowania"
+  },
+  "disallowed_cut_copy_paste_cmd_cut": {
+    "message": "w celu wyci\u0119cia"
+  },
+  "disallowed_cut_copy_paste_cmd_paste": {
+    "message": "w celu wklejenia"
+  },
+  "disallowed_cut_copy_paste_msg": {
+    "message": "Te czynno\u015bci s\u0105 niedost\u0119pne w\u00a0menu Edycja i\u00a0menu kontekstowych, ale mo\u017cesz nadal u\u017cywa\u0107 tych skr\u00f3t\u00f3w:"
+  },
+  "disallowed_cut_copy_paste_title": {
+    "message": "Kopiowanie i wklejanie w Trybie zgodno\u015bci z Officem"
+  },
+  "dismiss": {
+    "message": "Zamknij"
+  },
+  "document_title_aria_spoken_word": {
+    "message": "Tytu\u0142 dokumentu:"
+  },
+  "down_key": {
+    "message": "W d\u00f3\u0142"
+  },
+  "download_button": {
+    "message": "Pobierz"
+  },
+  "download_file_timeout_error_msg": {
+    "message": "Pobieranie pliku, kt\u00f3ry chcesz otworzy\u0107, trwa zbyt d\u0142ugo. Sprawd\u017a po\u0142\u0105czenie sieciowe i spr\u00f3buj ponownie."
+  },
+  "download_file_timeout_error_short_msg": {
+    "message": "Pobieranie pliku trwa zbyt d\u0142ugo"
+  },
+  "download_original": {
+    "message": "Pobierz orygina\u0142"
+  },
+  "drive_open_timeout_error_msg": {
+    "message": "Chyba masz problem z po\u0142\u0105czeniem internetowym. Sprawd\u017a je i spr\u00f3buj ponownie otworzy\u0107 plik. Je\u015bli ten b\u0142\u0105d b\u0119dzie pojawia\u0107 si\u0119 nadal, mimo \u017ce po\u0142\u0105czenie internetowe dzia\u0142a, zg\u0142o\u015b problem poni\u017cej."
+  },
+  "drive_open_timeout_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "duplicate_sheet_name_message": {
+    "message": "Podaj nazw\u0119, kt\u00f3ra nie jest u\u017cywana dla innego arkusza"
+  },
+  "duplicate_sheet_name_title": {
+    "message": "Ta nazwa arkusza jest ju\u017c u\u017cywana"
+  },
+  "editing_options_limited_banner_text": {
+    "message": "Opcje edycji mog\u0105 by\u0107 ograniczone. Tw\u00f3j plik zostanie automatycznie zapisany podczas edytowania."
+  },
+  "edits_not_being_saved": {
+    "message": "Zmiany nie zapisz\u0105 si\u0119 automatycznie."
+  },
+  "edits_now_being_auto_saved": {
+    "message": "Plik zosta\u0142 zapisany. Wszystkie zmiany b\u0119d\u0105 zapisywa\u0107 si\u0119 automatycznie."
+  },
+  "entry_point_error_msg": {
+    "message": "Spr\u00f3buj ponownie lub zg\u0142o\u015b problem poni\u017cej."
+  },
+  "entry_point_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 nam ustali\u0107, kt\u00f3ry plik chcesz utworzy\u0107."
+  },
+  "error_occurred": {
+    "message": "Wyst\u0105pi\u0142 b\u0142\u0105d."
+  },
+  "error_password_required_msg": {
+    "message": "Obecnie nie obs\u0142ugujemy plik\u00f3w chronionych, ale pracujemy nad tym."
+  },
+  "error_password_required_short_msg": {
+    "message": "Ten plik jest chroniony has\u0142em."
+  },
+  "expanded": {
+    "message": "Rozwini\u0119ta"
+  },
+  "expanded_menu": {
+    "message": "Menu $1 rozwini\u0119te razem z menu podrz\u0119dnym.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "extension_cros_name": {
+    "message": "Podstawowy edytor plik\u00f3w pakietu Office"
+  },
+  "extension_description": {
+    "message": "Wy\u015bwietlaj i edytuj pliki Microsoft Word, Excel i PowerPoint za pomoc\u0105 Dokument\u00f3w, Arkuszy i Prezentacji Google."
+  },
+  "extension_name": {
+    "message": "Edytor Office"
+  },
+  "extension_popup_message_body": {
+    "message": "Aby otworzy\u0107 istniej\u0105ce pliki, przeci\u0105gnij je i upu\u015b\u0107 na przegl\u0105dark\u0119"
+  },
+  "extension_popup_new_document_header": {
+    "message": "Nowy..."
+  },
+  "extension_popup_new_presentation_document": {
+    "message": "Prezentacja PowerPoint"
+  },
+  "extension_popup_new_spreadsheet_document": {
+    "message": "Arkusz kalkulacyjny Excela"
+  },
+  "extension_popup_new_word_document": {
+    "message": "Dokument Worda"
+  },
+  "feedback_textbox_editing": {
+    "message": "Prosz\u0119 o obs\u0142ug\u0119 edytowania tekstu w polach tekstowych."
+  },
+  "feedback_ui_template": {
+    "message": "1. Opisz problem, kt\u00f3ry wyst\u0105pi\u0142.\n2. Czy problem pojawi\u0142 si\u0119 podczas pr\u00f3by otwarcia pliku czy edytowania go?\n3. Czy ten problem pojawia si\u0119 zawsze, gdy pr\u00f3bujesz otwiera\u0107 lub edytowa\u0107 r\u00f3\u017cne pliki, czy tylko z konkretnymi plikami?\n\nJe\u015bli problem dotyczy konkretnego pliku, do\u0142\u0105cz go do tego zg\u0142oszenia. Bardzo nam si\u0119 przyda do dok\u0142adnego zdiagnozowania problemu."
+  },
+  "file_does_not_exist_error_details": {
+    "message": "Ten plik nie istnieje. Prawdopodobnie pr\u00f3bujesz otworzy\u0107 udost\u0119pniony link lub dokument z zak\u0142adkami. Spr\u00f3buj otworzy\u0107 plik z oryginalnego \u017ar\u00f3d\u0142a."
+  },
+  "file_does_not_exist_error_title": {
+    "message": "Nie znaleziono pliku."
+  },
+  "file_loading_spinner_label": {
+    "message": "\u0141aduj\u0119"
+  },
+  "file_missing_content_msg": {
+    "message": "Wyst\u0105pi\u0142 problem podczas wczytywania ca\u0142ej zawarto\u015bci pliku. Zalecamy zmian\u0119 nazwy pliku i otwarcie go ponownie."
+  },
+  "file_missing_content_short_msg": {
+    "message": "Dokument jest niekompletny."
+  },
+  "file_not_found_error_msg": {
+    "message": "Skontaktuj si\u0119 z w\u0142a\u015bcicielem pliku, aby upewni\u0107 si\u0119, \u017ce masz uprawnienia dost\u0119pu do niego. Je\u015bli b\u0142\u0105d pojawia si\u0119 nadal, mimo \u017ce masz uprawnienia do pliku, zg\u0142o\u015b problem poni\u017cej."
+  },
+  "file_not_found_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "file_not_found_exception": {
+    "message": "Wybrany plik m\u00f3g\u0142 zosta\u0107 usuni\u0119ty, przeniesiony do innej lokalizacji lub mog\u0142a zosta\u0107 zmieniona jego nazwa. Aby przej\u015b\u0107 dalej, kliknij \u201eZapisz teraz\u201d."
+  },
+  "file_not_found_link_text": {
+    "message": "Przeczytaj ten artyku\u0142, by uzyska\u0107 pomoc dotycz\u0105c\u0105 wielu kont."
+  },
+  "file_not_found_msg": {
+    "message": "\u017b\u0105dany plik zosta\u0142 przeniesiony."
+  },
+  "file_not_found_title": {
+    "message": "Nie znaleziono pliku."
+  },
+  "file_open_crash_error_msg": {
+    "message": "Je\u015bli ten b\u0142\u0105d nadal wyst\u0119puje, zg\u0142o\u015b problem poni\u017cej."
+  },
+  "file_open_crash_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "file_open_error_msg": {
+    "message": "Zawarto\u015b\u0107 tego pliku jest niedost\u0119pna."
+  },
+  "file_open_error_short_msg": {
+    "message": "Ten plik wygl\u0105da na uszkodzony."
+  },
+  "file_open_fail_download_link_text": {
+    "message": "Pobierz plik"
+  },
+  "file_opened_in_incognito_mode_error_details": {
+    "message": "Rozszerzenie Edytor Office nie dzia\u0142a w\u00a0trybie incognito. Otw\u00f3rz ten plik w\u00a0normalnym oknie Chrome. Je\u015bli korzystasz teraz z\u00a0trybu go\u015bcia, nie uda\u0142o si\u0119 otworzy\u0107 pliku. Upewnij si\u0119, \u017ce nie jest on uszkodzony i\u00a0ma prawid\u0142owy typ dokumentu, a\u00a0nast\u0119pnie spr\u00f3buj ponownie."
+  },
+  "file_opened_in_incognito_mode_error_title": {
+    "message": "Ups! Tryb incognito nie jest obs\u0142ugiwany"
+  },
+  "file_pdf_type_rename_msg": {
+    "message": "Zmie\u0144 nazw\u0119 pliku na $1.pdf i spr\u00f3buj ponownie.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_rtf_type_rename_msg": {
+    "message": "Zmie\u0144 nazw\u0119 pliku na $1.rtf",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_type_unsupported_msg": {
+    "message": "Ten typ pliku nie jest obs\u0142ugiwany."
+  },
+  "fillcolor_aria_spoken_word": {
+    "message": "lista kolor\u00f3w tekstu"
+  },
+  "fontface_aria_spoken_word": {
+    "message": "lista kroj\u00f3w czcionki"
+  },
+  "fontsize_aria_spoken_word": {
+    "message": "lista rozmiar\u00f3w czcionki"
+  },
+  "forbidden_access_level_error_msg": {
+    "message": "Skontaktuj si\u0119 z w\u0142a\u015bcicielem pliku, aby upewni\u0107 si\u0119, \u017ce masz uprawnienia, by go otwiera\u0107. Je\u015bli b\u0142\u0105d pojawia si\u0119 nadal, mimo \u017ce masz uprawnienia do pliku, zg\u0142o\u015b problem poni\u017cej."
+  },
+  "forbidden_access_level_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "forbidden_app_access_error_msg": {
+    "message": "Z jakiego\u015b powodu nie mamy uprawnie\u0144 do otwierania tego pliku. Spr\u00f3buj otworzy\u0107 go z poziomu Dysku Google lub zg\u0142o\u015b problem poni\u017cej."
+  },
+  "forbidden_app_access_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "forbidden_app_id_error_msg": {
+    "message": "Wygl\u0105da na to, \u017ce rozszerzenie Chrome nie jest prawid\u0142owo skonfigurowane. Jak to mo\u017cliwe? Nie wiemy, ale zg\u0142o\u015b problem poni\u017cej."
+  },
+  "forbidden_app_id_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "forbidden_blacklist_error_msg": {
+    "message": "Wygl\u0105da na to, \u017ce to rozszerzenie Chrome jest na czarnej li\u015bcie. To na pewno pomy\u0142ka, wi\u0119c poinformuj nas o tym, zg\u0142aszaj\u0105c problem poni\u017cej."
+  },
+  "forbidden_blacklist_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "forbidden_domain_error_msg": {
+    "message": "Wygl\u0105da na to, \u017ce Twoja domena zabroni\u0142a dost\u0119pu do tego pliku. Skontaktuj si\u0119 z jej administratorem lub zg\u0142o\u015b problem poni\u017cej."
+  },
+  "forbidden_domain_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "forbidden_internal_error_msg": {
+    "message": "Dysk Google nie dzia\u0142a w oczekiwany spos\u00f3b. Spr\u00f3buj ponownie otworzy\u0107 plik lub zg\u0142o\u015b problem poni\u017cej."
+  },
+  "forbidden_internal_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "forbidden_not_installed_error_msg": {
+    "message": "Wygl\u0105da na to, \u017ce rozszerzenie Chrome nie jest prawid\u0142owo zainstalowane. Jak to mo\u017cliwe? Nie wiemy, ale zg\u0142o\u015b problem poni\u017cej."
+  },
+  "forbidden_not_installed_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "generic_error_msg": {
+    "message": "Wyst\u0105pi\u0142 problem z tre\u015bci\u0105 tego dokumentu."
+  },
+  "generic_error_short_msg": {
+    "message": "Ups, to nie powinno by\u0142o si\u0119 sta\u0107. Za\u0142aduj ponownie stron\u0119, by odzyska\u0107 zmiany."
+  },
+  "get_lists_data_error_msg": {
+    "message": "Dokument mo\u017ce by\u0107 wy\u015bwietlany z nieprawid\u0142owym formatowaniem listy."
+  },
+  "get_lists_data_error_short_msg": {
+    "message": "Nie mo\u017cna pobra\u0107 formatowania dokumentu."
+  },
+  "highlightcolor_aria_spoken_word": {
+    "message": "lista kolor\u00f3w pod\u015bwietlenia tekstu"
+  },
+  "http_error_zero_msg": {
+    "message": "Je\u015bli wyst\u0119puje problem z sieci\u0105, sprawd\u017a po\u0142\u0105czenie lub spr\u00f3buj ponownie p\u00f3\u017aniej. Je\u015bli problem nie ust\u0105pi, zg\u0142o\u015b go poni\u017cej."
+  },
+  "http_error_zero_short_msg": {
+    "message": "Nie uda\u0142o si\u0119 otworzy\u0107 pliku."
+  },
+  "info_file_copied": {
+    "message": "Zapisano"
+  },
+  "info_file_save_cancelled": {
+    "message": "Anulowano zapisywanie."
+  },
+  "info_file_save_failed": {
+    "message": "Nie uda\u0142o si\u0119 zapisa\u0107."
+  },
+  "info_file_saved_at_location": {
+    "message": "Wszystkie zmiany zosta\u0142y zapisane w: $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "info_file_saved_in_drive": {
+    "message": "Wszystkie zmiany zosta\u0142y zapisane na Dysku"
+  },
+  "info_file_saved_locally": {
+    "message": "Wszystkie zmiany zosta\u0142y zapisane lokalnie"
+  },
+  "info_file_saved_offline": {
+    "message": "Wszystkie zmiany zosta\u0142y zapisane offline"
+  },
+  "info_file_saving": {
+    "message": "Zapisuj\u0119\u2026"
+  },
+  "initaddshape_aria_spoken_word": {
+    "message": "dodaj pole tekstowe"
+  },
+  "invalid_credentials_error_msg": {
+    "message": "Aby uzyska\u0107 dost\u0119p do tego pliku, musisz zalogowa\u0107 si\u0119 na swoje konto Google."
+  },
+  "invalid_credentials_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "invalid_file_format_msg": {
+    "message": "Wygl\u0105d i rozszerzenie pliku sugeruj\u0105, \u017ce jest to dokument Office, ale tak naprawd\u0119 jest to plik innego typu o zmienionej nazwie lub zmodyfikowany w inny spos\u00f3b. Mo\u017ce on te\u017c mie\u0107 nieobs\u0142ugiwany format."
+  },
+  "invalid_file_format_short_msg": {
+    "message": "Ups, wygl\u0105da na to, \u017ce format dokumentu jest nieprawid\u0142owy."
+  },
+  "italic_aria_spoken_word": {
+    "message": "kursywa"
+  },
+  "keyboard_shortcut_group_actions": {
+    "message": "Czynno\u015bci"
+  },
+  "keyboard_shortcut_group_other": {
+    "message": "Inne"
+  },
+  "keyboard_shortcut_group_paragraph_formatting": {
+    "message": "Formatowanie akapitu"
+  },
+  "keyboard_shortcut_group_text_formatting": {
+    "message": "Formatowanie tekstu"
+  },
+  "keyboard_shortcut_group_top_menus": {
+    "message": "Menu"
+  },
+  "keyboard_shortcut_group_with_slides": {
+    "message": "Z Prezentacjami"
+  },
+  "keyboard_shortcut_title": {
+    "message": "Skr\u00f3ty klawiszowe"
+  },
+  "large_file_size_dialog_title_for_sheet": {
+    "message": "Nie mo\u017cna zapisa\u0107 pliku jako Arkuszy Google"
+  },
+  "large_file_size_dialog_title_for_slide": {
+    "message": "Nie mo\u017cna zapisa\u0107 pliku jako Prezentacji Google"
+  },
+  "large_file_size_dialog_title_for_word": {
+    "message": "Nie mo\u017cna zapisa\u0107 pliku jako Dokument\u00f3w Google"
+  },
+  "make_a_copy_fail_msg": {
+    "message": "Obecnie nie mo\u017cna utworzy\u0107 kopii."
+  },
+  "menu_button_data": {
+    "message": "Dane"
+  },
+  "menu_button_edit": {
+    "message": "Edycja"
+  },
+  "menu_button_file": {
+    "message": "Plik"
+  },
+  "menu_button_format": {
+    "message": "Format"
+  },
+  "menu_button_help": {
+    "message": "Pomoc"
+  },
+  "menu_button_insert": {
+    "message": "Wstaw"
+  },
+  "menu_button_slide": {
+    "message": "Slajd"
+  },
+  "menu_button_tools": {
+    "message": "Narz\u0119dzia"
+  },
+  "menu_button_view": {
+    "message": "Widok"
+  },
+  "menu_item_10_point_star": {
+    "message": "Gwiazda 10-ramienna"
+  },
+  "menu_item_12_point_star": {
+    "message": "Gwiazda 12-ramienna"
+  },
+  "menu_item_16_point_star": {
+    "message": "Gwiazda 16-ramienna"
+  },
+  "menu_item_24_point_star": {
+    "message": "Gwiazda 24-ramienna"
+  },
+  "menu_item_32_point_star": {
+    "message": "Gwiazda 32-ramienna"
+  },
+  "menu_item_4_point_star": {
+    "message": "Gwiazda 4-ramienna"
+  },
+  "menu_item_5_point_star": {
+    "message": "Gwiazda 5-ramienna"
+  },
+  "menu_item_6_point_star": {
+    "message": "Gwiazda 6-ramienna"
+  },
+  "menu_item_7_point_star": {
+    "message": "Gwiazda 7-ramienna"
+  },
+  "menu_item_8_point_star": {
+    "message": "Gwiazda 8-ramienna"
+  },
+  "menu_item_align": {
+    "message": "Wyr\u00f3wnywanie"
+  },
+  "menu_item_align_center": {
+    "message": "Wy\u015brodkowanie"
+  },
+  "menu_item_align_justified": {
+    "message": "Wyjustowanie"
+  },
+  "menu_item_align_left": {
+    "message": "Do lewej"
+  },
+  "menu_item_align_right": {
+    "message": "Do prawej"
+  },
+  "menu_item_arrows": {
+    "message": "Strza\u0142ki"
+  },
+  "menu_item_bent_arrow": {
+    "message": "Wygi\u0119ta strza\u0142ka"
+  },
+  "menu_item_bent_up_arrow": {
+    "message": "Wygi\u0119ta strza\u0142ka w g\u00f3r\u0119"
+  },
+  "menu_item_bevel": {
+    "message": "Prostok\u0105t ze \u015bci\u0119ciem"
+  },
+  "menu_item_block_arc": {
+    "message": "\u0141uk blokowy"
+  },
+  "menu_item_bold": {
+    "message": "Pogrubienie"
+  },
+  "menu_item_callouts": {
+    "message": "Obja\u015bnienia"
+  },
+  "menu_item_can": {
+    "message": "Walec"
+  },
+  "menu_item_chevron": {
+    "message": "Pagon"
+  },
+  "menu_item_chord": {
+    "message": "Ci\u0119ciwa"
+  },
+  "menu_item_clear_formatting": {
+    "message": "Wyczy\u015b\u0107 formatowanie"
+  },
+  "menu_item_cloud": {
+    "message": "Chmurka"
+  },
+  "menu_item_cloud_callout": {
+    "message": "Obja\u015bnienie w chmurce"
+  },
+  "menu_item_color_none": {
+    "message": "Brak"
+  },
+  "menu_item_color_transparent": {
+    "message": "Przejrzysty"
+  },
+  "menu_item_convert_to_docs": {
+    "message": "Zapisz jako plik Dokument\u00f3w Google"
+  },
+  "menu_item_convert_to_sheets": {
+    "message": "Zapisz jako plik Arkuszy Google"
+  },
+  "menu_item_convert_to_slides": {
+    "message": "Zapisz jako plik Prezentacji Google"
+  },
+  "menu_item_copy": {
+    "message": "Kopiuj"
+  },
+  "menu_item_cross": {
+    "message": "Krzy\u017c"
+  },
+  "menu_item_cube": {
+    "message": "Sze\u015bcian"
+  },
+  "menu_item_curved_down_arrow": {
+    "message": "Zakrzywiona strza\u0142ka w d\u00f3\u0142"
+  },
+  "menu_item_curved_left_arrow": {
+    "message": "Zakrzywiona strza\u0142ka w lewo"
+  },
+  "menu_item_curved_right_arrow": {
+    "message": "Zakrzywiona strza\u0142ka w prawo"
+  },
+  "menu_item_curved_up_arrow": {
+    "message": "Zakrzywiona strza\u0142ka w g\u00f3r\u0119"
+  },
+  "menu_item_cut": {
+    "message": "Wytnij"
+  },
+  "menu_item_decagon": {
+    "message": "Dziesi\u0119ciok\u0105t"
+  },
+  "menu_item_delete_column": {
+    "message": "Usu\u0144 kolumn\u0119"
+  },
+  "menu_item_delete_row": {
+    "message": "Usu\u0144 wiersz"
+  },
+  "menu_item_delete_value": {
+    "message": "Usu\u0144 warto\u015b\u0107"
+  },
+  "menu_item_deleteslide": {
+    "message": "Usu\u0144 slajd"
+  },
+  "menu_item_diagonal_stripe": {
+    "message": "Pasek uko\u015bny"
+  },
+  "menu_item_diamond": {
+    "message": "Romb"
+  },
+  "menu_item_divide": {
+    "message": "Dzielenie"
+  },
+  "menu_item_dodecagon": {
+    "message": "Dwunastok\u0105t"
+  },
+  "menu_item_donut": {
+    "message": "Pier\u015bcie\u0144"
+  },
+  "menu_item_double_brace": {
+    "message": "Podw\u00f3jny nawias klamrowy"
+  },
+  "menu_item_double_bracket": {
+    "message": "Nawias podw\u00f3jny"
+  },
+  "menu_item_down_arrow": {
+    "message": "Strza\u0142ka w d\u00f3\u0142"
+  },
+  "menu_item_down_arrow_callout": {
+    "message": "Obja\u015bnienie ze strza\u0142k\u0105 w d\u00f3\u0142"
+  },
+  "menu_item_duplicateslide": {
+    "message": "Zduplikuj slajd"
+  },
+  "menu_item_equal": {
+    "message": "R\u00f3wna si\u0119"
+  },
+  "menu_item_equation": {
+    "message": "R\u00f3wnanie"
+  },
+  "menu_item_explosion_1": {
+    "message": "Wybuch 1"
+  },
+  "menu_item_explosion_2": {
+    "message": "Wybuch 2"
+  },
+  "menu_item_flowchart_alternate_process": {
+    "message": "Schemat blokowy: proces alternatywny"
+  },
+  "menu_item_flowchart_card": {
+    "message": "Schemat blokowy: karta"
+  },
+  "menu_item_flowchart_collate": {
+    "message": "Schemat blokowy: porz\u0105dkowanie"
+  },
+  "menu_item_flowchart_connector": {
+    "message": "Schemat blokowy: \u0142\u0105cznik"
+  },
+  "menu_item_flowchart_data": {
+    "message": "Schemat blokowy: dane"
+  },
+  "menu_item_flowchart_decision": {
+    "message": "Schemat blokowy: decyzja"
+  },
+  "menu_item_flowchart_delay": {
+    "message": "Schemat blokowy: op\u00f3\u017anienie"
+  },
+  "menu_item_flowchart_direct_access_storage": {
+    "message": "Schemat blokowy: pami\u0119\u0107 z dost\u0119pem bezpo\u015brednim"
+  },
+  "menu_item_flowchart_display": {
+    "message": "Schemat blokowy: wy\u015bwietlanie"
+  },
+  "menu_item_flowchart_document": {
+    "message": "Schemat blokowy: dokument"
+  },
+  "menu_item_flowchart_extract": {
+    "message": "Schemat blokowy: wyodr\u0119bnianie"
+  },
+  "menu_item_flowchart_internal_storage": {
+    "message": "Schemat blokowy: pami\u0119\u0107 wewn\u0119trzna"
+  },
+  "menu_item_flowchart_magnetic_disk": {
+    "message": "Schemat blokowy: dysk magnetyczny"
+  },
+  "menu_item_flowchart_manual_input": {
+    "message": "Schemat blokowy: r\u0119czne wprowadzanie danych"
+  },
+  "menu_item_flowchart_manual_operation": {
+    "message": "Schemat blokowy: czynno\u015b\u0107 r\u0119czna"
+  },
+  "menu_item_flowchart_merge": {
+    "message": "Schemat blokowy: scalanie"
+  },
+  "menu_item_flowchart_multidocument": {
+    "message": "Schemat blokowy: wiele dokument\u00f3w"
+  },
+  "menu_item_flowchart_off_page_connector": {
+    "message": "Schemat blokowy: \u0142\u0105cznik poza stron\u0119"
+  },
+  "menu_item_flowchart_or": {
+    "message": "Schemat blokowy: lub"
+  },
+  "menu_item_flowchart_predefined_process": {
+    "message": "Schemat blokowy: wst\u0119pnie zdefiniowany proces"
+  },
+  "menu_item_flowchart_preparation": {
+    "message": "Schemat blokowy: przygotowanie"
+  },
+  "menu_item_flowchart_process": {
+    "message": "Schemat blokowy: proces"
+  },
+  "menu_item_flowchart_punched_tape": {
+    "message": "Schemat blokowy: ta\u015bma perforowana"
+  },
+  "menu_item_flowchart_sequential_access_storage": {
+    "message": "Schemat blokowy: pami\u0119\u0107 z dost\u0119pem sekwencyjnym"
+  },
+  "menu_item_flowchart_sort": {
+    "message": "Schemat blokowy: sortowanie"
+  },
+  "menu_item_flowchart_stored_data": {
+    "message": "Schemat blokowy: zapisane dane"
+  },
+  "menu_item_flowchart_summing_junction": {
+    "message": "Schemat blokowy: po\u0142\u0105czenie sumuj\u0105ce"
+  },
+  "menu_item_flowchart_terminator": {
+    "message": "Schemat blokowy: pocz\u0105tek/koniec"
+  },
+  "menu_item_folded_corner": {
+    "message": "Zagi\u0119ty r\u00f3g"
+  },
+  "menu_item_frame": {
+    "message": "Ramka"
+  },
+  "menu_item_half_frame": {
+    "message": "Po\u0142owa ramki"
+  },
+  "menu_item_heart": {
+    "message": "Serce"
+  },
+  "menu_item_help_center": {
+    "message": "Centrum pomocy"
+  },
+  "menu_item_heptagon": {
+    "message": "Siedmiok\u0105t"
+  },
+  "menu_item_hexagon": {
+    "message": "Sze\u015bciok\u0105t"
+  },
+  "menu_item_hideslide": {
+    "message": "Ukryj slajd"
+  },
+  "menu_item_insert_column": {
+    "message": "Kolumna"
+  },
+  "menu_item_insert_image": {
+    "message": "Obraz"
+  },
+  "menu_item_insert_row": {
+    "message": "Wiersz"
+  },
+  "menu_item_insert_text_box": {
+    "message": "Pole tekstowe"
+  },
+  "menu_item_insertslide": {
+    "message": "Nowy slajd"
+  },
+  "menu_item_italic": {
+    "message": "Kursywa"
+  },
+  "menu_item_keyboard_shortcuts": {
+    "message": "Skr\u00f3ty klawiszowe"
+  },
+  "menu_item_l_shape": {
+    "message": "Kszta\u0142t litery L"
+  },
+  "menu_item_left_arrow": {
+    "message": "Strza\u0142ka w lewo"
+  },
+  "menu_item_left_arrow_callout": {
+    "message": "Obja\u015bnienie ze strza\u0142k\u0105 w lewo"
+  },
+  "menu_item_left_brace": {
+    "message": "Nawias klamrowy otwieraj\u0105cy"
+  },
+  "menu_item_left_bracket": {
+    "message": "Nawias otwieraj\u0105cy"
+  },
+  "menu_item_left_right_arrow": {
+    "message": "Strza\u0142ka w lewo i w prawo"
+  },
+  "menu_item_left_right_arrow_callout": {
+    "message": "Obja\u015bnienie ze strza\u0142k\u0105 w lewo i w prawo"
+  },
+  "menu_item_left_right_up_arrow": {
+    "message": "Strza\u0142ka w lewo, w prawo i w g\u00f3r\u0119"
+  },
+  "menu_item_left_up_arrow": {
+    "message": "Strza\u0142ka w lewo i w g\u00f3r\u0119"
+  },
+  "menu_item_lightning_bolt": {
+    "message": "B\u0142yskawica"
+  },
+  "menu_item_make_a_copy": {
+    "message": "Utw\u00f3rz kopi\u0119\u2026"
+  },
+  "menu_item_merge_all": {
+    "message": "Scal wszystko"
+  },
+  "menu_item_merge_cells": {
+    "message": "Scal kom\u00f3rki"
+  },
+  "menu_item_merge_horizontally": {
+    "message": "Scal w poziomie"
+  },
+  "menu_item_merge_vertically": {
+    "message": "Scal w pionie"
+  },
+  "menu_item_minus": {
+    "message": "Minus"
+  },
+  "menu_item_moon": {
+    "message": "Ksi\u0119\u017cyc"
+  },
+  "menu_item_moveslidedown": {
+    "message": "Przenie\u015b slajd w d\u00f3\u0142"
+  },
+  "menu_item_moveslidetoend": {
+    "message": "Przenie\u015b slajd na koniec"
+  },
+  "menu_item_moveslidetostart": {
+    "message": "Przenie\u015b slajd na pocz\u0105tek"
+  },
+  "menu_item_moveslideup": {
+    "message": "Przenie\u015b slajd w g\u00f3r\u0119"
+  },
+  "menu_item_multiply": {
+    "message": "Mno\u017cenie"
+  },
+  "menu_item_new": {
+    "message": "Nowy"
+  },
+  "menu_item_no_symbol": {
+    "message": "Znak zakazu"
+  },
+  "menu_item_not_equal": {
+    "message": "Nie r\u00f3wna si\u0119"
+  },
+  "menu_item_notched_right_arrow": {
+    "message": "Strza\u0142ka w prawo z wci\u0119ciem"
+  },
+  "menu_item_number_format": {
+    "message": "Format liczb"
+  },
+  "menu_item_number_menu": {
+    "message": "Liczba"
+  },
+  "menu_item_numbering": {
+    "message": "$1 z $2",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "menu_item_octagon": {
+    "message": "O\u015bmiok\u0105t"
+  },
+  "menu_item_open": {
+    "message": "Otw\u00f3rz"
+  },
+  "menu_item_oval": {
+    "message": "Owal"
+  },
+  "menu_item_oval_callout": {
+    "message": "Obja\u015bnienie owalne"
+  },
+  "menu_item_parallelogram": {
+    "message": "R\u00f3wnoleg\u0142obok"
+  },
+  "menu_item_paste": {
+    "message": "Wklej"
+  },
+  "menu_item_pentagon": {
+    "message": "Pi\u0119ciok\u0105t"
+  },
+  "menu_item_pie": {
+    "message": "Wycinek"
+  },
+  "menu_item_plaque": {
+    "message": "Plakietka"
+  },
+  "menu_item_plus": {
+    "message": "Plus"
+  },
+  "menu_item_present": {
+    "message": "Obecny"
+  },
+  "menu_item_print": {
+    "message": "Drukuj"
+  },
+  "menu_item_quad_arrow": {
+    "message": "Strza\u0142ka w cztery strony"
+  },
+  "menu_item_quad_arrow_callout": {
+    "message": "Obja\u015bnienie ze strza\u0142k\u0105 w cztery strony"
+  },
+  "menu_item_rectangle": {
+    "message": "Prostok\u0105t"
+  },
+  "menu_item_rectangular_callout": {
+    "message": "Obja\u015bnienie prostok\u0105tne"
+  },
+  "menu_item_redo": {
+    "message": "Pon\u00f3w"
+  },
+  "menu_item_regular_pentagon": {
+    "message": "Pi\u0119ciok\u0105t foremny"
+  },
+  "menu_item_report_abuse": {
+    "message": "Zg\u0142o\u015b nadu\u017cycie"
+  },
+  "menu_item_report_issue": {
+    "message": "Zg\u0142o\u015b problem"
+  },
+  "menu_item_right_arrow": {
+    "message": "Strza\u0142ka w prawo"
+  },
+  "menu_item_right_arrow_callout": {
+    "message": "Obja\u015bnienie ze strza\u0142k\u0105 w prawo"
+  },
+  "menu_item_right_brace": {
+    "message": "Nawias klamrowy zamykaj\u0105cy"
+  },
+  "menu_item_right_bracket": {
+    "message": "Nawias zamykaj\u0105cy"
+  },
+  "menu_item_right_triangle": {
+    "message": "Tr\u00f3jk\u0105t prostok\u0105tny"
+  },
+  "menu_item_round_diagonal_corner_rectangle": {
+    "message": "Prostok\u0105t z rogami zaokr\u0105glonymi po przek\u0105tnej"
+  },
+  "menu_item_round_same_side_corner_rectangle": {
+    "message": "Prostok\u0105t z rogami zaokr\u0105glonymi z jednej strony"
+  },
+  "menu_item_round_single_corner_rectangle": {
+    "message": "Prostok\u0105t z zaokr\u0105glonym rogiem"
+  },
+  "menu_item_rounded_rectangle": {
+    "message": "Zaokr\u0105glony prostok\u0105t"
+  },
+  "menu_item_rounded_rectangular_callout": {
+    "message": "Obja\u015bnienie prostok\u0105tne zaokr\u0105glone"
+  },
+  "menu_item_save": {
+    "message": "Zapisz"
+  },
+  "menu_item_save_as": {
+    "message": "Zapisz jako\u2026"
+  },
+  "menu_item_shapes": {
+    "message": "Kszta\u0142ty"
+  },
+  "menu_item_share": {
+    "message": "Udost\u0119pnij"
+  },
+  "menu_item_smiley_face": {
+    "message": "U\u015bmiechni\u0119ta bu\u017aka"
+  },
+  "menu_item_snip_and_round_single_corner_rectangle": {
+    "message": "Prostok\u0105t ze \u015bci\u0119tym i zaokr\u0105glonym rogiem"
+  },
+  "menu_item_snip_diagonal_corner_rectangle": {
+    "message": "Prostok\u0105t z rogami \u015bci\u0119tymi po przek\u0105tnej"
+  },
+  "menu_item_snip_same_side_corner_rectangle": {
+    "message": "Prostok\u0105t z rogami \u015bci\u0119tymi z jednej strony"
+  },
+  "menu_item_snip_single_corner_rectangle": {
+    "message": "Prostok\u0105t ze \u015bci\u0119tym rogiem"
+  },
+  "menu_item_strikethrough": {
+    "message": "Przekre\u015blenie"
+  },
+  "menu_item_striped_right_arrow": {
+    "message": "Pr\u0105\u017ckowana strza\u0142ka w prawo"
+  },
+  "menu_item_subscript": {
+    "message": "Indeks dolny"
+  },
+  "menu_item_sun": {
+    "message": "S\u0142o\u0144ce"
+  },
+  "menu_item_superscript": {
+    "message": "Indeks g\u00f3rny"
+  },
+  "menu_item_teardrop": {
+    "message": "\u0141za"
+  },
+  "menu_item_trapezoid": {
+    "message": "Trapez"
+  },
+  "menu_item_triangle": {
+    "message": "Tr\u00f3jk\u0105t"
+  },
+  "menu_item_u_turn_arrow": {
+    "message": "Strza\u0142ka zawracania"
+  },
+  "menu_item_underline": {
+    "message": "Podkre\u015blenie"
+  },
+  "menu_item_undo": {
+    "message": "Cofnij"
+  },
+  "menu_item_unhideslide": {
+    "message": "Przywr\u00f3\u0107 slajd"
+  },
+  "menu_item_unmerge": {
+    "message": "Cofnij scalanie"
+  },
+  "menu_item_up_arrow": {
+    "message": "Strza\u0142ka w g\u00f3r\u0119"
+  },
+  "menu_item_up_arrow_callout": {
+    "message": "Obja\u015bnienie ze strza\u0142k\u0105 w g\u00f3r\u0119"
+  },
+  "menu_item_up_down_arrow": {
+    "message": "Strza\u0142ka w g\u00f3r\u0119 i w d\u00f3\u0142"
+  },
+  "menu_item_version_info": {
+    "message": "Informacje o wersji"
+  },
+  "menu_item_word_count": {
+    "message": "Liczba s\u0142\u00f3w"
+  },
+  "menu_item_wrap_text": {
+    "message": "Zawijaj tekst"
+  },
+  "menu_item_zoom_in": {
+    "message": "Powi\u0119ksz"
+  },
+  "menu_item_zoom_out": {
+    "message": "Pomniejsz"
+  },
+  "merge_all_aria_spoken_word": {
+    "message": "scal wszystko"
+  },
+  "merge_aria_spoken_word": {
+    "message": "scal"
+  },
+  "merge_dropdown_aria_spoken_word": {
+    "message": "menu scal"
+  },
+  "merge_horizontally_aria_spoken_word": {
+    "message": "scal w poziomie"
+  },
+  "merge_vertically_aria_spoken_word": {
+    "message": "scal w pionie"
+  },
+  "modify_shape_transform_error_msg": {
+    "message": "Podczas modyfikowania transformacji kszta\u0142tu wyst\u0105pi\u0142 b\u0142\u0105d"
+  },
+  "modify_shape_transform_error_short_msg": {
+    "message": "Podczas modyfikowania transformacji kszta\u0142tu wyst\u0105pi\u0142 b\u0142\u0105d."
+  },
+  "modifyshapefillcolor_aria_spoken_word": {
+    "message": "lista kolor\u00f3w wype\u0142nienia kszta\u0142tu"
+  },
+  "modifyshapeoutlinecolor_aria_spoken_word": {
+    "message": "lista kolor\u00f3w konturu kszta\u0142tu"
+  },
+  "modifyshapeoutlinestyle_aria_spoken_word": {
+    "message": "lista styl\u00f3w konturu kszta\u0142tu"
+  },
+  "modifyshapeoutlinewidth_aria_spoken_word": {
+    "message": "lista grubo\u015bci konturu kszta\u0142tu"
+  },
+  "nacl_load_error_details": {
+    "message": "Spr\u00f3buj ponownie zainstalowa\u0107 rozszerzenie."
+  },
+  "nacl_load_error_title": {
+    "message": "Wyst\u0105pi\u0142 problem podczas wczytywania aplikacji."
+  },
+  "non_permissible_sheet_name_details": {
+    "message": "Znaki * ? [ ] ' ; : s\u0105 niedozwolone. Nazwa arkusza nie mo\u017ce mie\u0107 wi\u0119cej ni\u017c 31 znak\u00f3w i nie mo\u017ce by\u0107 pusta"
+  },
+  "non_permissible_sheet_name_title": {
+    "message": "Podczas zmieniania nazwy arkusza poda\u0142e\u015b nieprawid\u0142ow\u0105 nazw\u0119"
+  },
+  "not_pressed": {
+    "message": "Nienaci\u015bni\u0119ty"
+  },
+  "notselected": {
+    "message": "Niewybrany"
+  },
+  "number_format_label_currency_symbol": {
+    "message": "Symbol waluty"
+  },
+  "number_format_label_date_type": {
+    "message": "Typ"
+  },
+  "number_format_label_decimal_places": {
+    "message": "Miejsca po przecinku"
+  },
+  "number_format_label_general": {
+    "message": "Og\u00f3lne"
+  },
+  "number_format_label_negative_numbers": {
+    "message": "Liczby ujemne"
+  },
+  "number_format_label_other": {
+    "message": "Inne"
+  },
+  "number_format_label_red": {
+    "message": "Czerwony"
+  },
+  "number_format_label_text": {
+    "message": "Tekstowe"
+  },
+  "number_format_label_use_1000_separator": {
+    "message": "U\u017cyj separatora 1000"
+  },
+  "number_format_tab_accounting": {
+    "message": "Ksi\u0119gowe"
+  },
+  "number_format_tab_currency": {
+    "message": "Walutowe"
+  },
+  "number_format_tab_date_time": {
+    "message": "Data i godzina"
+  },
+  "number_format_tab_general": {
+    "message": "Og\u00f3lne"
+  },
+  "number_format_tab_number": {
+    "message": "Liczbowe"
+  },
+  "number_format_tab_percentage": {
+    "message": "Procentowe"
+  },
+  "number_format_tab_scientific": {
+    "message": "Naukowe"
+  },
+  "number_format_title": {
+    "message": "Formaty liczb"
+  },
+  "ocm_promo_conversion_shortmsg": {
+    "message": "Pracujesz w trybie zgodno\u015bci z pakietem Office"
+  },
+  "ocm_promo_office_editing_mode_shortmsg": {
+    "message": "Pracujesz w\u00a0trybie zgodno\u015bci z\u00a0pakietem Office"
+  },
+  "office_compatibility_mode": {
+    "message": "Tryb zgodno\u015bci z Officem"
+  },
+  "office_editing_mode_attempt_when_offline": {
+    "message": "Aby otworzy\u0107 ten plik w\u00a0Dokumentach Google, musisz by\u0107 online. Spr\u00f3buj ponownie, gdy po\u0142\u0105czenie zostanie przywr\u00f3cone."
+  },
+  "office_editing_mode_attempt_with_invalid_creds": {
+    "message": "Aby otworzy\u0107 ten plik w\u00a0Dokumentach Google, musisz zalogowa\u0107 si\u0119 na swoje konto Google"
+  },
+  "office_editing_mode_point_fail_msg": {
+    "message": "Nie uda\u0142o si\u0119 otworzy\u0107 pliku w\u00a0formacie Prezentacji Google."
+  },
+  "office_editing_mode_setting_new_create": {
+    "message": "Otwieraj obs\u0142ugiwane pliki pakietu Office z\u00a0Dysku i\u00a0Gmaila bezpo\u015brednio w\u00a0Dokumentach, Arkuszach lub Prezentacjach"
+  },
+  "office_editing_mode_sheet_fail_msg": {
+    "message": "Nie uda\u0142o si\u0119 otworzy\u0107 pliku w\u00a0formacie Arkuszy Google."
+  },
+  "office_editing_mode_word_fail_msg": {
+    "message": "Nie uda\u0142o si\u0119 otworzy\u0107 pliku w\u00a0formacie Dokument\u00f3w Google."
+  },
+  "office_first_time_confirm": {
+    "message": "Rozumiem"
+  },
+  "office_first_time_message_p1": {
+    "message": "U\u017cywaj\u0105c Dokument\u00f3w, Arkuszy i Prezentacji Google, mo\u017cesz teraz edytowa\u0107 pliki program\u00f3w Word, Excel i PowerPoint zapisane na dysku twardym, Dysku Google, w Gmailu i nie tylko."
+  },
+  "office_first_time_message_p2": {
+    "message": "Wszystkie wprowadzane przez Ciebie zmiany s\u0105 automatycznie zapisywane i zawsze mo\u017cesz zapisa\u0107 plik w pierwotnym formacie."
+  },
+  "office_first_time_title": {
+    "message": "Edytuj pliki Office w Dokumentach, Arkuszach i Prezentacjach"
+  },
+  "offline_error_msg": {
+    "message": "Wygl\u0105da na to, \u017ce jeste\u015b offline. Sprawd\u017a swoje po\u0142\u0105czenie internetowe i spr\u00f3buj ponownie. Je\u015bli ten b\u0142\u0105d b\u0119dzie pojawia\u0107 si\u0119 nadal, mimo \u017ce jeste\u015b online, zg\u0142o\u015b problem poni\u017cej."
+  },
+  "offline_error_short_msg": {
+    "message": "Ups, nie uda\u0142o si\u0119 otworzy\u0107 \u017c\u0105danego pliku."
+  },
+  "opening_in_office_editing_mode": {
+    "message": "Otwieram w\u00a0trybie edytowania plik\u00f3w pakietu Office"
+  },
+  "option_key": {
+    "message": "Opcja"
+  },
+  "out_of_memory_error_msg": {
+    "message": "Spr\u00f3buj zamkn\u0105\u0107 t\u0119 kart\u0119 i ponownie otworzy\u0107 plik. Warto te\u017c zamkn\u0105\u0107 pozosta\u0142e karty, kt\u00f3re masz otwarte w przegl\u0105darce. Je\u015bli to nie rozwi\u0105\u017ce problemu, wy\u015blij zg\u0142oszenie poni\u017cej."
+  },
+  "out_of_memory_error_short_msg": {
+    "message": "Ups, zabrak\u0142o pami\u0119ci."
+  },
+  "page_count_label": {
+    "message": "Strony"
+  },
+  "partial_cell_merge_error_msg": {
+    "message": "Nie mo\u017cna zmieni\u0107 elementu scalonej kom\u00f3rki."
+  },
+  "partial_cell_merge_error_short_msg": {
+    "message": "B\u0142\u0105d"
+  },
+  "permission_fail_msg": {
+    "message": "Nie masz uprawnie\u0144 do edytowania tego pliku. Zaktualizuj uprawnienia i\u00a0spr\u00f3buj ponownie."
+  },
+  "point_ocm_promo_conversion_msg": {
+    "message": "Mo\u017cesz edytowa\u0107 i zapisywa\u0107 pliki Office bezpo\u015brednio w\u00a0Prezentacjach. Aby zaprosi\u0107 innych u\u017cytkownik\u00f3w do edytowania lub dodawania komentarzy, zapisz plik w\u00a0formacie Prezentacji Google. W\u00a0dowolnym momencie mo\u017cesz zapisa\u0107 plik w\u00a0pierwotnym formacie."
+  },
+  "point_ocm_promo_office_editing_mode_msg": {
+    "message": "Teraz mo\u017cesz bezpo\u015brednio edytowa\u0107 i\u00a0zapisywa\u0107 pliki pakietu Office w\u00a0Prezentacjach Google. Aby zaprosi\u0107 inne osoby do edytowania tego pliku w\u00a0czasie rzeczywistym lub dodawania komentarzy, prze\u015blij go na Dysk Google. Format pliku si\u0119 nie zmieni."
+  },
+  "point_printing_warning_msg": {
+    "message": "Pracujemy nad rozwi\u0105zaniem tego problemu."
+  },
+  "point_printing_warning_short_msg": {
+    "message": "Obecnie mo\u017cesz wydrukowa\u0107 tylko slajd, kt\u00f3ry ogl\u0105dasz."
+  },
+  "point_share_promo_conversion_msg": {
+    "message": "Chcesz udost\u0119pni\u0107 t\u0119 prezentacj\u0119? Aby zaprosi\u0107 innych u\u017cytkownik\u00f3w do wsp\u00f3lnego edytowania, przekonwertuj j\u0105 do Prezentacji Google."
+  },
+  "point_share_promo_office_editing_mode_msg": {
+    "message": "Teraz mo\u017cesz bezpo\u015brednio edytowa\u0107 i\u00a0zapisywa\u0107 pliki pakietu Office w\u00a0Prezentacjach Google. Aby zaprosi\u0107 inne osoby do edytowania tego pliku w\u00a0czasie rzeczywistym lub dodawania komentarzy, prze\u015blij go na Dysk Google. Format pliku si\u0119 nie zmieni."
+  },
+  "pointtogglebullet_aria_spoken_word": {
+    "message": "lista punktowana"
+  },
+  "pointtogglenumber_aria_spoken_word": {
+    "message": "lista numerowana"
+  },
+  "present_button": {
+    "message": "Wy\u015bwietl"
+  },
+  "pressed": {
+    "message": "Naci\u015bni\u0119ty"
+  },
+  "print_aria_spoken_word": {
+    "message": "drukuj"
+  },
+  "qowt_doc_mismatch_text": {
+    "message": "Podczas formatowania dokumentu wyst\u0105pi\u0142 b\u0142\u0105d.\n\nZa\u0142aduj ponownie stron\u0119, by odzyska\u0107 zmiany."
+  },
+  "qowt_doc_mismatch_title": {
+    "message": "Kurza twarz!"
+  },
+  "qowt_hyperlink_activate_short_key": {
+    "message": "Naci\u015bnij ALT + Enter, by aktywowa\u0107 link."
+  },
+  "qowt_hyperlink_dialog": {
+    "message": "Hiperlink"
+  },
+  "qowt_hyperlink_dialog_message_text": {
+    "message": "Przejd\u017a do linku:"
+  },
+  "qowt_modal_confirm_dialog_affirmative_button": {
+    "message": "OK"
+  },
+  "qowt_modal_confirm_dialog_negative_button": {
+    "message": "Anuluj"
+  },
+  "qowt_modal_dialog_close_button": {
+    "message": "Zamknij"
+  },
+  "qowt_modal_dialog_coming_soon_title": {
+    "message": "Ju\u017c wkr\u00f3tce!"
+  },
+  "qowt_modal_dialog_link_text": {
+    "message": "Wi\u0119cej informacji"
+  },
+  "qowt_modal_dialog_ok_button": {
+    "message": "OK"
+  },
+  "qowt_modal_dialog_reload_button": {
+    "message": "Za\u0142aduj ponownie"
+  },
+  "qowt_modal_dialog_textbox_editing_description": {
+    "message": "Przepraszamy, ale nie obs\u0142ugujemy edytowania tekstu w polach tekstowych."
+  },
+  "qowt_modal_dialog_textbox_editing_link": {
+    "message": "Dodajcie t\u0119 mo\u017cliwo\u015b\u0107."
+  },
+  "qowt_modal_info_dialog_affirmative_button": {
+    "message": "OK"
+  },
+  "qowt_modal_multi_choice_remember_choice": {
+    "message": "Zapami\u0119taj m\u00f3j wyb\u00f3r"
+  },
+  "qowt_modal_query_dialog_affirmative_button": {
+    "message": "Tak"
+  },
+  "qowt_modal_query_dialog_negative_button": {
+    "message": "Nie"
+  },
+  "qowt_modal_query_dialog_reload_button": {
+    "message": "Od\u015bwie\u017c"
+  },
+  "qowt_modal_single_choice_remember_choice": {
+    "message": "Nie przypominaj wi\u0119cej"
+  },
+  "read_only": {
+    "message": "Tylko do odczytu"
+  },
+  "redo_aria_spoken_word": {
+    "message": "pon\u00f3w"
+  },
+  "right_pointed_submenu": {
+    "message": "Prawy wska\u017anik z menu podrz\u0119dnym"
+  },
+  "save_aria_spoken_word": {
+    "message": "zapisz"
+  },
+  "save_now": {
+    "message": "Zapisz teraz"
+  },
+  "security_error_msg": {
+    "message": "Je\u015bli ten b\u0142\u0105d nadal wyst\u0119puje, zg\u0142o\u015b problem poni\u017cej."
+  },
+  "security_error_short_msg": {
+    "message": "Ups, nie mo\u017cna otworzy\u0107 \u017c\u0105danego pliku. Obecnie otwieranie plik\u00f3w w trybie incognito nie jest obs\u0142ugiwane. Otw\u00f3rz plik w trybie innym ni\u017c incognito."
+  },
+  "selected": {
+    "message": "Wybrany"
+  },
+  "set_sheet_info_error_msg": {
+    "message": "Podczas zmieniania nazwy arkusza wyst\u0105pi\u0142 b\u0142\u0105d"
+  },
+  "share_button": {
+    "message": "Udost\u0119pnij"
+  },
+  "share_promo_conversion_shortmsg": {
+    "message": "Edytuj z innymi"
+  },
+  "share_promo_office_editing_mode_shortmsg": {
+    "message": "Udost\u0119pnij innym"
+  },
+  "sheet_delete_column_error_msg": {
+    "message": "Ups. Podczas usuwania kolumny wyst\u0105pi\u0142 b\u0142\u0105d. Spr\u00f3buj ponownie."
+  },
+  "sheet_delete_row_error_msg": {
+    "message": "Ups. Podczas usuwania wiersza wyst\u0105pi\u0142 b\u0142\u0105d. Spr\u00f3buj ponownie."
+  },
+  "sheet_format_cells_error_msg": {
+    "message": "Wyst\u0105pi\u0142 b\u0142\u0105d formatowania. Spr\u00f3buj ponownie."
+  },
+  "sheet_insert_column_error_msg": {
+    "message": "Ups. Podczas wstawiania kolumny wyst\u0105pi\u0142 b\u0142\u0105d. Spr\u00f3buj ponownie."
+  },
+  "sheet_insert_column_exceed_error_msg": {
+    "message": "Nie mo\u017cesz wstawi\u0107 do tego arkusza kalkulacyjnego wi\u0119cej kolumn, bo obs\u0142ugujemy ich tylko 256."
+  },
+  "sheet_insert_column_exceed_error_short_msg": {
+    "message": "Przepraszamy"
+  },
+  "sheet_insert_row_error_msg": {
+    "message": "Ups. Podczas wstawiania wiersza wyst\u0105pi\u0142 b\u0142\u0105d. Spr\u00f3buj ponownie."
+  },
+  "sheet_insert_row_exceed_error_msg": {
+    "message": "Nie mo\u017cesz wstawi\u0107 do tego arkusza kalkulacyjnego wi\u0119cej wierszy, bo obs\u0142ugujemy ich tylko 65536."
+  },
+  "sheet_insert_row_exceed_error_short_msg": {
+    "message": "Przepraszamy"
+  },
+  "sheet_ocm_promo_conversion_msg": {
+    "message": "Mo\u017cesz edytowa\u0107 i zapisywa\u0107 pliki Office bezpo\u015brednio w\u00a0Arkuszach. Aby zaprosi\u0107 innych u\u017cytkownik\u00f3w do edytowania lub dodawania komentarzy, zapisz plik w\u00a0formacie Arkuszy Google. W\u00a0dowolnym momencie mo\u017cesz zapisa\u0107 plik w\u00a0pierwotnym formacie."
+  },
+  "sheet_ocm_promo_office_editing_mode_msg": {
+    "message": "Teraz mo\u017cesz bezpo\u015brednio edytowa\u0107 i\u00a0zapisywa\u0107 pliki pakietu Office w\u00a0Arkuszach Google. Aby zaprosi\u0107 inne osoby do edytowania tego pliku w\u00a0czasie rzeczywistym lub dodawania komentarzy, prze\u015blij go na Dysk Google. Format pliku si\u0119 nie zmieni."
+  },
+  "sheet_set_cell_content_invalid_error_msg": {
+    "message": "Podany wz\u00f3r zawiera b\u0142\u0105d. Popraw go."
+  },
+  "sheet_share_promo_conversion_msg": {
+    "message": "Chcesz udost\u0119pni\u0107 ten arkusz kalkulacyjny? Aby zaprosi\u0107 innych u\u017cytkownik\u00f3w do wsp\u00f3lnego edytowania, przekonwertuj go do Arkuszy Google."
+  },
+  "sheet_share_promo_office_editing_mode_msg": {
+    "message": "Teraz mo\u017cesz bezpo\u015brednio edytowa\u0107 i\u00a0zapisywa\u0107 pliki pakietu Office w\u00a0Arkuszach Google. Aby zaprosi\u0107 inne osoby do edytowania tego pliku w\u00a0czasie rzeczywistym lub dodawania komentarzy, prze\u015blij go na Dysk Google. Format pliku si\u0119 nie zmieni."
+  },
+  "sheet_sort_error_title": {
+    "message": "Wyst\u0105pi\u0142 b\u0142\u0105d sortowania tego zakresu kom\u00f3rek."
+  },
+  "sheet_sort_failure_msg": {
+    "message": "Wyst\u0105pi\u0142 b\u0142\u0105d sortowania tego zakresu kom\u00f3rek."
+  },
+  "sheet_sort_merged_cell_error": {
+    "message": "Nie mo\u017cna sortowa\u0107 scalonych kom\u00f3rek."
+  },
+  "sheet_sort_merged_cell_error_title": {
+    "message": "Wyst\u0105pi\u0142 b\u0142\u0105d sortowania tego zakresu kom\u00f3rek."
+  },
+  "sheet_sort_one_cell_error": {
+    "message": "Aby posortowa\u0107, wybierz wi\u0119cej ni\u017c jedn\u0105 kom\u00f3rk\u0119."
+  },
+  "sheet_sort_one_cell_error_title": {
+    "message": "Wyst\u0105pi\u0142 b\u0142\u0105d sortowania tego zakresu kom\u00f3rek."
+  },
+  "shift_key": {
+    "message": "Shift"
+  },
+  "shortcut": {
+    "message": "Skr\u00f3t $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "sign_in": {
+    "message": "Zaloguj si\u0119"
+  },
+  "slash_key": {
+    "message": "Uko\u015bnik"
+  },
+  "something_not_right": {
+    "message": "Co\u015b posz\u0142o nie tak"
+  },
+  "storage_quota_exceed_error_msg": {
+    "message": "Zamknij wszystkie dokumenty pakietu Office otwarte w Chrome i spr\u00f3buj ponownie. Je\u015bli problem nie ust\u0105pi, zg\u0142o\u015b go poni\u017cej."
+  },
+  "storage_quota_exceed_error_short_msg": {
+    "message": "Nie uda\u0142o si\u0119 otworzy\u0107 pliku."
+  },
+  "strikethrough_aria_spoken_word": {
+    "message": "przekre\u015blenie"
+  },
+  "style_aria_spoken_word": {
+    "message": "lista styl\u00f3w"
+  },
+  "submenu_spoken_text": {
+    "message": "$1 $2 $3 $4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "temporary_unable_to_open_error_msg": {
+    "message": "Spr\u00f3buj ponownie p\u00f3\u017aniej, a je\u015bli problem nie ust\u0105pi, zg\u0142o\u015b go poni\u017cej."
+  },
+  "temporary_unable_to_open_error_short_msg": {
+    "message": "W tej chwili nie mo\u017cna otworzy\u0107 pliku."
+  },
+  "textaligncenter_aria_spoken_word": {
+    "message": "wy\u015brodkowanie tekstu"
+  },
+  "textalignjustify_aria_spoken_word": {
+    "message": "wyjustowanie tekstu"
+  },
+  "textalignleft_aria_spoken_word": {
+    "message": "wyr\u00f3wnanie tekstu do lewej"
+  },
+  "textalignright_aria_spoken_word": {
+    "message": "wyr\u00f3wnanie tekstu do prawej"
+  },
+  "textcolor_aria_spoken_word": {
+    "message": "lista kolor\u00f3w tekstu"
+  },
+  "textual_edit_error_msg": {
+    "message": "Podczas formatowania dokumentu wyst\u0105pi\u0142 b\u0142\u0105d.\n\nZa\u0142aduj ponownie stron\u0119, by odzyska\u0107 zmiany."
+  },
+  "textual_edit_error_short_msg": {
+    "message": "Kurza twarz!"
+  },
+  "title_error_msg_for_merge_cells": {
+    "message": "Wyst\u0105pi\u0142 problem"
+  },
+  "title_msg_merging_multiple_cells_with_text": {
+    "message": "Uwaga!"
+  },
+  "togglebulleted_aria_spoken_word": {
+    "message": "lista punktowana"
+  },
+  "togglenumbered_aria_spoken_word": {
+    "message": "lista numerowana"
+  },
+  "togglezoom_aria_spoken_word": {
+    "message": "prze\u0142\u0105czanie powi\u0119kszenia"
+  },
+  "tooltip_background_color": {
+    "message": "Kolor wype\u0142nienia"
+  },
+  "tooltip_bold": {
+    "message": "Pogrubienie"
+  },
+  "tooltip_border": {
+    "message": "Obramowanie"
+  },
+  "tooltip_border_all": {
+    "message": "Obramowanie \u2013 wszystkie kraw\u0119dzie"
+  },
+  "tooltip_border_bottom": {
+    "message": "Obramowanie \u2013 kraw\u0119d\u017a dolna"
+  },
+  "tooltip_border_horizontal": {
+    "message": "Obramowanie \u2013 kraw\u0119dzie poziome"
+  },
+  "tooltip_border_inner": {
+    "message": "Obramowanie \u2013 kraw\u0119dzie wewn\u0119trzne"
+  },
+  "tooltip_border_left": {
+    "message": "Obramowanie \u2013 kraw\u0119d\u017a lewa"
+  },
+  "tooltip_border_none": {
+    "message": "Obramowanie \u2013 brak kraw\u0119dzi"
+  },
+  "tooltip_border_outer": {
+    "message": "Obramowanie \u2013 kraw\u0119dzie zewn\u0119trzne"
+  },
+  "tooltip_border_right": {
+    "message": "Obramowanie \u2013 kraw\u0119d\u017a prawa"
+  },
+  "tooltip_border_top": {
+    "message": "Obramowanie \u2013 kraw\u0119d\u017a g\u00f3rna"
+  },
+  "tooltip_border_vertical": {
+    "message": "Obramowanie \u2013 kraw\u0119dzie pionowe"
+  },
+  "tooltip_cell_align": {
+    "message": "Wyr\u00f3wnywanie kom\u00f3rek"
+  },
+  "tooltip_cell_h_align_center": {
+    "message": "Poziomo \u2013 do \u015brodka"
+  },
+  "tooltip_cell_h_align_left": {
+    "message": "Poziomo \u2013 do lewej"
+  },
+  "tooltip_cell_h_align_right": {
+    "message": "Poziomo \u2013 do prawej"
+  },
+  "tooltip_cell_v_align_bottom": {
+    "message": "Pionowo \u2013 do do\u0142u"
+  },
+  "tooltip_cell_v_align_center": {
+    "message": "Pionowo \u2013 do \u015brodka"
+  },
+  "tooltip_cell_v_align_top": {
+    "message": "Pionowo \u2013 do g\u00f3ry"
+  },
+  "tooltip_download": {
+    "message": "Pobierz"
+  },
+  "tooltip_download_original": {
+    "message": "Pobierz orygina\u0142"
+  },
+  "tooltip_dropdown_init_add_shape": {
+    "message": "Kszta\u0142t"
+  },
+  "tooltip_fill_color": {
+    "message": "Kolor tekstu"
+  },
+  "tooltip_font_face": {
+    "message": "Czcionka"
+  },
+  "tooltip_font_size": {
+    "message": "Rozmiar czcionki"
+  },
+  "tooltip_highlight_color": {
+    "message": "Kolor wyr\u00f3\u017cnienia"
+  },
+  "tooltip_init_add_shape": {
+    "message": "Pole tekstowe"
+  },
+  "tooltip_italic": {
+    "message": "Kursywa"
+  },
+  "tooltip_merge": {
+    "message": "Scal kom\u00f3rki"
+  },
+  "tooltip_merge_dropdown": {
+    "message": "Wybierz typ scalania..."
+  },
+  "tooltip_modify_shape_fill_color": {
+    "message": "Kolor wype\u0142nienia"
+  },
+  "tooltip_modify_shape_outline_color": {
+    "message": "Kolor linii"
+  },
+  "tooltip_modify_shape_outline_style": {
+    "message": "Styl linii"
+  },
+  "tooltip_modify_shape_outline_width": {
+    "message": "Grubo\u015b\u0107 linii"
+  },
+  "tooltip_move_slide": {
+    "message": "Przenie\u015b slajdy ($1)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "tooltip_point": {
+    "message": "Prezentacje \u2013 strona g\u0142\u00f3wna"
+  },
+  "tooltip_point_toggle_bullet": {
+    "message": "Lista punktowana"
+  },
+  "tooltip_point_toggle_number": {
+    "message": "Lista numerowana"
+  },
+  "tooltip_presentation": {
+    "message": "Prezentacja"
+  },
+  "tooltip_print": {
+    "message": "Drukuj"
+  },
+  "tooltip_redo": {
+    "message": "Pon\u00f3w"
+  },
+  "tooltip_share": {
+    "message": "Udost\u0119pnij"
+  },
+  "tooltip_share_for_macroenabledfiles": {
+    "message": "Pliki z w\u0142\u0105czon\u0105 obs\u0142ug\u0105 makr mo\u017cna udost\u0119pnia\u0107 tylko na Dysku Google"
+  },
+  "tooltip_sheet": {
+    "message": "Arkusze \u2013 strona g\u0142\u00f3wna"
+  },
+  "tooltip_strikethrough": {
+    "message": "Przekre\u015blenie"
+  },
+  "tooltip_style": {
+    "message": "Style"
+  },
+  "tooltip_text_align_center": {
+    "message": "Wy\u015brodkuj"
+  },
+  "tooltip_text_align_justify": {
+    "message": "Wyjustuj"
+  },
+  "tooltip_text_align_left": {
+    "message": "Wyr\u00f3wnanie do lewej"
+  },
+  "tooltip_text_align_right": {
+    "message": "Wyr\u00f3wnanie do prawej"
+  },
+  "tooltip_text_color": {
+    "message": "Kolor tekstu"
+  },
+  "tooltip_toggle_bulleted": {
+    "message": "Lista punktowana"
+  },
+  "tooltip_toggle_numbered": {
+    "message": "Lista numerowana"
+  },
+  "tooltip_toggle_zoom": {
+    "message": "W\u0142\u0105cz/wy\u0142\u0105cz powi\u0119kszenie"
+  },
+  "tooltip_underline": {
+    "message": "Podkre\u015blenie"
+  },
+  "tooltip_undo": {
+    "message": "Cofnij"
+  },
+  "tooltip_word": {
+    "message": "Dokumenty \u2013 strona g\u0142\u00f3wna"
+  },
+  "tooltip_wrap_text": {
+    "message": "Zawijaj tekst"
+  },
+  "tooltip_zoom_in": {
+    "message": "Powi\u0119ksz"
+  },
+  "tooltip_zoom_out": {
+    "message": "Pomniejsz"
+  },
+  "try_again": {
+    "message": "Spr\u00f3buj ponownie"
+  },
+  "unable_to_execute_msg": {
+    "message": "Nie mo\u017cna otworzy\u0107 tego dokumentu."
+  },
+  "underline_aria_spoken_word": {
+    "message": "podkre\u015blenie"
+  },
+  "undo_aria_spoken_word": {
+    "message": "cofnij"
+  },
+  "unmerge_aria_spoken_word": {
+    "message": "cofnij scalanie"
+  },
+  "unsaved_changes": {
+    "message": "Niezapisane zmiany"
+  },
+  "unsaved_changes_warning": {
+    "message": "Masz niezapisane zmiany w tym pliku. Je\u015bli opu\u015bcisz t\u0119 stron\u0119 przed ich zapisaniem, bezpowrotnie utracisz wyniki swojej pracy."
+  },
+  "unsupported_file_format_error_details_p1": {
+    "message": "Nie mo\u017cemy otworzy\u0107 tego pliku, bo zawiera on tre\u015bci stworzone w Microsoft\u00ae Office w wersji 95 lub starszej."
+  },
+  "unsupported_file_format_error_details_p2": {
+    "message": "Je\u015bli chcesz przekonwertowa\u0107 plik do Dokument\u00f3w Google, kliknij link poni\u017cej."
+  },
+  "unsupported_file_format_error_title": {
+    "message": "Ups!"
+  },
+  "unsupported_link_message": {
+    "message": "Przepraszamy, ale obecnie nie obs\u0142ugujemy adres\u00f3w URL tego typu."
+  },
+  "up_key": {
+    "message": "W g\u00f3r\u0119"
+  },
+  "updated_shortcut_message": {
+    "message": "Zmienili\u015bmy skr\u00f3ty klawiszowe, by dzia\u0142a\u0142y jednakowo w r\u00f3\u017cnych wersjach Dokument\u00f3w Google. Zobacz informacje o zmienionych skr\u00f3tach w pomocy."
+  },
+  "updated_shortcut_title": {
+    "message": "Skr\u00f3ty klawiszowe zosta\u0142y zmienione"
+  },
+  "uploading_to_drive_for_office_editing_mode_point": {
+    "message": "Przesy\u0142am na Dysk i\u00a0otwieram w\u00a0Prezentacjach"
+  },
+  "uploading_to_drive_for_office_editing_mode_sheet": {
+    "message": "Przesy\u0142am na Dysk i\u00a0otwieram w\u00a0Arkuszach"
+  },
+  "uploading_to_drive_for_office_editing_mode_word": {
+    "message": "Przesy\u0142am na Dysk i\u00a0otwieram w\u00a0Dokumentach"
+  },
+  "uploading_to_drive_msg_for_point": {
+    "message": "Przesy\u0142am ten plik na Dysk i\u00a0otwieram go w\u00a0Prezentacjach Google."
+  },
+  "uploading_to_drive_msg_for_sheet": {
+    "message": "Przesy\u0142am ten plik na Dysk i\u00a0otwieram go w\u00a0Arkuszach Google."
+  },
+  "uploading_to_drive_msg_for_word": {
+    "message": "Przesy\u0142am ten plik na Dysk i\u00a0otwieram go w\u00a0Dokumentach Google."
+  },
+  "version_info_msg": {
+    "message": "Twoja wersja Trybu zgodno\u015bci z Officem to"
+  },
+  "word_binary_upsave_learnmore": {
+    "message": "Wi\u0119cej informacji"
+  },
+  "word_binary_upsave_msg": {
+    "message": "Ten plik ma nieobs\u0142ugiwany format. Aby zapisa\u0107 plik, potrzebujemy Twojej zgody na przekonwertowanie go do nowszego formatu. Nie b\u0119dzie to mia\u0142o wp\u0142ywu na oryginalny plik."
+  },
+  "word_binary_upsave_shortmsg": {
+    "message": "Zaktualizuj dokument"
+  },
+  "word_count_label": {
+    "message": "S\u0142owa"
+  },
+  "word_count_title": {
+    "message": "Liczba s\u0142\u00f3w"
+  },
+  "word_ocm_promo_conversion_msg": {
+    "message": "Mo\u017cesz edytowa\u0107 i zapisywa\u0107 pliki Office bezpo\u015brednio w Dokumentach. Aby zaprosi\u0107 innych u\u017cytkownik\u00f3w do edytowania lub dodawania komentarzy, zapisz plik w\u00a0formacie Dokument\u00f3w Google. W dowolnym momencie mo\u017cesz zapisa\u0107 plik w pierwotnym formacie."
+  },
+  "word_ocm_promo_office_editing_mode_msg": {
+    "message": "Teraz mo\u017cesz bezpo\u015brednio edytowa\u0107 i\u00a0zapisywa\u0107 pliki pakietu Office w\u00a0Dokumentach Google. Aby zaprosi\u0107 inne osoby do edytowania tego pliku w\u00a0czasie rzeczywistym lub dodawania komentarzy, prze\u015blij go na Dysk Google. Format pliku si\u0119 nie zmieni."
+  },
+  "word_share_promo_conversion_msg": {
+    "message": "Chcesz udost\u0119pni\u0107 ten dokument? Aby zaprosi\u0107 innych u\u017cytkownik\u00f3w do wsp\u00f3lnego edytowania, przekonwertuj go do Dokument\u00f3w Google."
+  },
+  "word_share_promo_office_editing_mode_msg": {
+    "message": "Teraz mo\u017cesz bezpo\u015brednio edytowa\u0107 i\u00a0zapisywa\u0107 pliki pakietu Office w\u00a0Dokumentach Google. Aby zaprosi\u0107 inne osoby do edytowania tego pliku w\u00a0czasie rzeczywistym lub dodawania komentarzy, prze\u015blij go na Dysk Google. Format pliku si\u0119 nie zmieni."
+  },
+  "working_in_basic_editor_banner_text": {
+    "message": "Pracujesz w\u00a0podstawowym edytorze plik\u00f3w w\u00a0formatach firmy Microsoft"
+  },
+  "wraptext_aria_spoken_word": {
+    "message": "zawijaj tekst"
+  },
+  "zoomin_aria_spoken_word": {
+    "message": "powi\u0119ksz"
+  },
+  "zoomout_aria_spoken_word": {
+    "message": "pomniejsz"
+  }
+}

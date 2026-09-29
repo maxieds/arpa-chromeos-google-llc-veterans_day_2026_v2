@@ -1,0 +1,110 @@
+{
+    "allow_button_string": {
+        "message": "Permitir"
+    }, 
+    "consent_denied": {
+        "message": "No nos has dado permiso para verificar si tu dispositivo Chrome puede optar a esta oferta. Intenta canjear la oferta de nuevo y haz clic en \"Permitir\" para que podamos realizar la verificaci\u00f3n."
+    }, 
+    "deny_button_string": {
+        "message": "Denegar"
+    }, 
+    "device_no_longer_eligible": {
+        "message": "Esta oferta ha caducado para tu dispositivo."
+    }, 
+    "device_not_eligible": {
+        "message": "Tu dispositivo no puede optar a esta oferta. $1Consulta las ofertas disponibles para tu dispositivo$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "device_sku_not_eligible": {
+        "message": "Esta oferta no est\u00e1 disponible para el modelo espec\u00edfico de tu dispositivo Chrome."
+    }, 
+    "dismiss_button_string": {
+        "message": "Ignorar"
+    }, 
+    "dismiss_info_string": {
+        "message": "Tu administrador de TI ha inhabilitado el contenido adicional de Chrome para tu dispositivo."
+    }, 
+    "error_no_regcode": {
+        "message": "Parece que tu dispositivo no tiene ning\u00fan c\u00f3digo de oferta. Ponte en contacto con el $1Servicio de asistencia de Google Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "error_origin_failure": {
+        "message": "Parece que has intentado canjear esta oferta desde un sitio web no registrado."
+    }, 
+    "generic_error_message": {
+        "message": "Por alguna raz\u00f3n que desconocemos, no podemos canjear tu oferta en este momento. Vuelve a intentarlo m\u00e1s tarde."
+    }, 
+    "info_string": {
+        "message": "M\u00e1s informaci\u00f3n"
+    }, 
+    "learn_more": {
+        "message": "$1M\u00e1s informaci\u00f3n$2", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "max_enrollment_count_exceeded": {
+        "message": "Ya has canjeado esta oferta (solo puedes canjearla una vez en cada dispositivo). Es posible que otra persona haya iniciado sesi\u00f3n en este dispositivo y ya la haya canjeado. Tambi\u00e9n es posible que, si has comprado el dispositivo de segunda mano, el propietario anterior ya la haya canjeado. Lamentablemente, no podemos transferir ofertas a otras cuentas ni renovar ofertas para dispositivos de segunda mano."
+    }, 
+    "nonregular_mode_message": {
+        "message": "No es posible canjear la oferta. Es posible que est\u00e9s utilizando una ventana de inc\u00f3gnito o que hayas iniciado sesi\u00f3n como invitado, lo que impide que puedas canjear ofertas. Utiliza una ventana normal y aseg\u00farate de que no hayas iniciado sesi\u00f3n como invitado."
+    }, 
+    "notification_button": {
+        "message": "Quedan $1 d\u00edas para canjear la oferta", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "notification_message": {
+        "message": "Canjea las ofertas antes de que sea demasiado tarde"
+    }, 
+    "notification_title": {
+        "message": "Obt\u00e9n contenido adicional para tu dispositivo Chrome"
+    }, 
+    "otc_service_does_not_match": {
+        "message": "Est\u00e1s utilizando el c\u00f3digo que has recibido del servicio de asistencia de Google Chrome OS para canjear la oferta equivocada. Ponte en contacto de nuevo con el $1Servicio de asistencia de Google Chrome OS$2.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }, 
+            "2": {
+                "content": "$2"
+            }
+        }
+    }, 
+    "prompt_string": {
+        "message": "$1 quiere comprobar que est\u00e9s utilizando un dispositivo Chrome OS adecuado.", 
+        "placeholders": {
+            "1": {
+                "content": "$1"
+            }
+        }
+    }, 
+    "registration_code_invalid": {
+        "message": "El c\u00f3digo de registro de tu dispositivo no es v\u00e1lido."
+    }, 
+    "sorry_about_that": {
+        "message": "Lo sentimos"
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "app_url": "https://keep.google.com/installwebapp?usp=chrome_default",
+  "launch_container": "window",
+  "user_type": ["unmanaged", "managed", "child"],
+  "feature_name": "MigrateDefaultChromeAppToWebAppsGSuite",
+  "uninstall_and_replace": ["hmjkmjkepdijhoojdojkdfohbdgmmhki"],
+  "only_for_new_users": true,
+  "load_and_await_service_worker_registration": false,
+  "only_use_offline_manifest": true,
+  "offline_manifest": {
+    "name": "Google Keep",
+    "start_url": "https://keep.google.com/?usp=installed_webapp",
+    "scope": "https://keep.google.com/",
+    "display": "standalone",
+    "icon_any_pngs": ["keep.png"],
+    "theme_color_argb_hex": "AAFFBB00"
+  }
+}

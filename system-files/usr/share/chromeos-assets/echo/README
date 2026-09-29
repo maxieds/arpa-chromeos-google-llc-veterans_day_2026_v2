@@ -1,0 +1,18 @@
+This directory contains the implementation of the Chrome OS Registration
+extension. Note that the extension manifest is a part of the Chrome source
+(src/chrome/browser/resources/chromeos/echo/manifest.json).
+
+To run the extension on other Chrome platorm (non-Chrome OS) using fake
+registration codes):
+
+// Rename the manifest.json.
+$ mv manifest.json.nochromeos manifest.json
+
+// Load extension from the command line.
+$ chrome --load-extension=/path/to/this/location
+
+You  can also load the unpacked extension directly from within Chrome.
+
+1. Navigate to chrome://extensions
+2. Enable "Developer mode"
+3. "Load unpacked extension..." -> Navigate to the folder containing this file.

@@ -1,0 +1,2333 @@
+{
+  "action_create_user_feedback": {
+    "message": "Probleemist teavitamine"
+  },
+  "alt_key": {
+    "message": "Muuteklahv"
+  },
+  "always_use_office_editing_mode": {
+    "message": "Tee seda Drive'ist ja Gmailist p\u00e4rinevate Office'i failide puhul alati"
+  },
+  "app_error_learn_more": {
+    "message": "Lisateave"
+  },
+  "app_error_report_feedback": {
+    "message": "Tagasiside saatmine"
+  },
+  "app_icon_aria_spoken_word": {
+    "message": " koduleht"
+  },
+  "app_nacl_crash_msg": {
+    "message": "Aidake meid, teavitades probleemist."
+  },
+  "app_nacl_crash_report": {
+    "message": "Probleemist teavitamine ..."
+  },
+  "app_nacl_crash_title": {
+    "message": "Oih. Seda ei oleks tohtinud juhtuda. Muudatuste taastamiseks laadige leht uuesti."
+  },
+  "app_nacl_error_load_failed": {
+    "message": "Kahjuks ei saanud faili avada. Sulgege muud Chrome'i vahelehed v\u00f5i taask\u00e4ivitage Chrome ja proovige uuesti. Kui probleem ei lahene, teatage sellest allpool."
+  },
+  "app_nacl_error_title": {
+    "message": "Faili ei saa avada."
+  },
+  "app_nacl_error_unsupported_device": {
+    "message": "Seade ei toeta Chrome'i laiendit Office Editing for Docs, Sheets & Slides."
+  },
+  "app_saving_failed_error_msg": {
+    "message": "Faili salvestamisel ilmnes probleem. Proovige uuesti salvestada. Kui probleem ei lahene, andke sellest teada."
+  },
+  "app_saving_failed_error_short_msg": {
+    "message": "Faili ei saa salvestada."
+  },
+  "backgroundcolor_aria_spoken_word": {
+    "message": "lahtri taustav\u00e4rvi ripploend"
+  },
+  "banner_dismiss": {
+    "message": "Loobu"
+  },
+  "basic_editor_conversion_shortmsg": {
+    "message": "Kasutate lihtredaktori re\u017eiimi"
+  },
+  "basic_editor_mode": {
+    "message": "Lihtredaktor"
+  },
+  "basic_editor_promo_conversion_msg": {
+    "message": "Kasutate Microsofti failide jaoks lihtredaktori re\u017eiimi. Muutmisvalikud v\u00f5ivad olla piiratud. Teie fail salvestatakse muutmise ajal automaatselt."
+  },
+  "bold_aria_spoken_word": {
+    "message": "paks"
+  },
+  "border_all_aria_spoken_word": {
+    "message": "kogu \u00e4\u00e4ris"
+  },
+  "border_aria_spoken_word": {
+    "message": "\u00e4\u00e4rise ripploend"
+  },
+  "border_bottom_aria_spoken_word": {
+    "message": "alumine \u00e4\u00e4ris"
+  },
+  "border_horizontal_aria_spoken_word": {
+    "message": "horisontaalne \u00e4\u00e4ris"
+  },
+  "border_inner_aria_spoken_word": {
+    "message": "sisemine \u00e4\u00e4ris"
+  },
+  "border_left_aria_spoken_word": {
+    "message": "vasak \u00e4\u00e4ris"
+  },
+  "border_none_aria_spoken_word": {
+    "message": "ilma \u00e4\u00e4riseta"
+  },
+  "border_outer_aria_spoken_word": {
+    "message": "v\u00e4limine \u00e4\u00e4ris"
+  },
+  "border_right_aria_spoken_word": {
+    "message": "parem \u00e4\u00e4ris"
+  },
+  "border_top_aria_spoken_word": {
+    "message": "\u00fclemine \u00e4\u00e4ris"
+  },
+  "border_vertical_aria_spoken_word": {
+    "message": "vertikaalne \u00e4\u00e4ris"
+  },
+  "button_drive_promo_office_editing_mode_point": {
+    "message": "Ava rakenduses Google\u2019i esitlused"
+  },
+  "button_drive_promo_office_editing_mode_sheet": {
+    "message": "Ava rakenduses Google\u2019i arvutustabelid"
+  },
+  "button_drive_promo_office_editing_mode_word": {
+    "message": "Ava rakenduses Google'i dokumendid"
+  },
+  "button_ocm_convert_cancel": {
+    "message": "T\u00fchista"
+  },
+  "button_ocm_oem_cancel": {
+    "message": "T\u00fchista"
+  },
+  "button_ocm_promo_conversion_point": {
+    "message": "Salvesta Google'i esitluste failina"
+  },
+  "button_ocm_promo_conversion_sheet": {
+    "message": "Salvesta Google'i arvutustabelite failina"
+  },
+  "button_ocm_promo_conversion_word": {
+    "message": "Salvesta Google'i dokumentide failina"
+  },
+  "button_ocm_promo_office_editing_mode_point": {
+    "message": "Laadi \u00fcles Drive'i ja ava rakenduses Esitlused"
+  },
+  "button_ocm_promo_office_editing_mode_sheet": {
+    "message": "Laadi \u00fcles Drive'i ja ava rakenduses Arvutustabelid"
+  },
+  "button_ocm_promo_office_editing_mode_word": {
+    "message": "Laadi \u00fcles Drive'i ja ava rakenduses Dokumendid"
+  },
+  "button_share_convert_cancel": {
+    "message": "T\u00fchista"
+  },
+  "button_share_oem_cancel": {
+    "message": "T\u00fchista"
+  },
+  "button_share_promo_conversion_point": {
+    "message": "Salvesta Google'i esitluste failina"
+  },
+  "button_share_promo_conversion_sheet": {
+    "message": "Salvesta Google'i arvutustabelite failina"
+  },
+  "button_share_promo_conversion_word": {
+    "message": "Salvesta Google'i dokumentide failina"
+  },
+  "button_share_promo_office_editing_mode": {
+    "message": "Laadi jagamiseks \u00fcles Drive'i"
+  },
+  "cell_align_aria_spoken_word": {
+    "message": "Joonda lahtrid"
+  },
+  "cellalign_aria_spoken_word": {
+    "message": "lahtri joondamise ripploend"
+  },
+  "cellhaligncenter_aria_spoken_word": {
+    "message": "Horisontaaljoonda keskele"
+  },
+  "cellhalignleft_aria_spoken_word": {
+    "message": "Horisontaaljoonda vasakule"
+  },
+  "cellhalignright_aria_spoken_word": {
+    "message": "Horisontaaljoonda paremale"
+  },
+  "cellvalignbottom_aria_spoken_word": {
+    "message": "Vertikaaljoonda alla"
+  },
+  "cellvaligncenter_aria_spoken_word": {
+    "message": "Vertikaaljoonda keskele"
+  },
+  "cellvaligntop_aria_spoken_word": {
+    "message": "Vertikaaljoonda \u00fcles"
+  },
+  "char_count_label": {
+    "message": "T\u00e4hem\u00e4rgid"
+  },
+  "char_no_spaces_count_label": {
+    "message": "T\u00e4hem\u00e4rgid, v.a t\u00fchikud"
+  },
+  "close_dialog_aria_spoken_word": {
+    "message": "Sule dialoog"
+  },
+  "cmd_dropdown_initaddshape_aria_spoken_word": {
+    "message": "kuju ripploend"
+  },
+  "collapsed": {
+    "message": "Ahendatud"
+  },
+  "collapsed_menu": {
+    "message": "$1: ahendatud koos alammen\u00fc\u00fcga.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "color_black": {
+    "message": "Must"
+  },
+  "color_blaze_orange": {
+    "message": "Leekivoran\u017e"
+  },
+  "color_blue": {
+    "message": "Sinine"
+  },
+  "color_brown": {
+    "message": "Pruun"
+  },
+  "color_cornflower_blue": {
+    "message": "Rukkilillesinine"
+  },
+  "color_cyan": {
+    "message": "Ts\u00fcaan"
+  },
+  "color_dark_blue": {
+    "message": "Tumesinine"
+  },
+  "color_dark_blue_1": {
+    "message": "Tumesinine 1"
+  },
+  "color_dark_blue_2": {
+    "message": "Tumesinine 2"
+  },
+  "color_dark_blue_3": {
+    "message": "Tumesinine 3"
+  },
+  "color_dark_blue_grey": {
+    "message": "Tume sinakashall"
+  },
+  "color_dark_cornflower_blue_1": {
+    "message": "Tume rukkilillesinine 1"
+  },
+  "color_dark_cornflower_blue_2": {
+    "message": "Tume rukkilillesinine 2"
+  },
+  "color_dark_cornflower_blue_3": {
+    "message": "Tume rukkilillesinine 3"
+  },
+  "color_dark_cyan": {
+    "message": "Tume ts\u00fcaan"
+  },
+  "color_dark_cyan_1": {
+    "message": "Tume ts\u00fcaan 1"
+  },
+  "color_dark_cyan_2": {
+    "message": "Tume ts\u00fcaan 2"
+  },
+  "color_dark_cyan_3": {
+    "message": "Tume ts\u00fcaan 3"
+  },
+  "color_dark_gray": {
+    "message": "Tumehall"
+  },
+  "color_dark_gray_1": {
+    "message": "Tumehall 1"
+  },
+  "color_dark_gray_2": {
+    "message": "Tumehall 2"
+  },
+  "color_dark_gray_3": {
+    "message": "Tumehall 3"
+  },
+  "color_dark_gray_4": {
+    "message": "Tumehall 4"
+  },
+  "color_dark_green": {
+    "message": "Tumeroheline"
+  },
+  "color_dark_green_1": {
+    "message": "Tumeroheline 1"
+  },
+  "color_dark_green_2": {
+    "message": "Tumeroheline 2"
+  },
+  "color_dark_green_3": {
+    "message": "Tumeroheline 3"
+  },
+  "color_dark_green_5": {
+    "message": "Tumeroheline 5"
+  },
+  "color_dark_grey_2": {
+    "message": "Tumehall 2"
+  },
+  "color_dark_grey_5": {
+    "message": "Tumehall 5"
+  },
+  "color_dark_magenta_1": {
+    "message": "Tume magenta 1"
+  },
+  "color_dark_magenta_2": {
+    "message": "Tume magenta 2"
+  },
+  "color_dark_magenta_3": {
+    "message": "Tume magenta 3"
+  },
+  "color_dark_olive_green": {
+    "message": "Tume oliivroheline"
+  },
+  "color_dark_orange_1": {
+    "message": "Tumeoran\u017e 1"
+  },
+  "color_dark_orange_2": {
+    "message": "Tumeoran\u017e 2"
+  },
+  "color_dark_orange_3": {
+    "message": "Tumeoran\u017e 3"
+  },
+  "color_dark_purple_1": {
+    "message": "Tumelilla 1"
+  },
+  "color_dark_purple_2": {
+    "message": "Tumelilla 2"
+  },
+  "color_dark_purple_3": {
+    "message": "Tumelilla 3"
+  },
+  "color_dark_red": {
+    "message": "Tumepunane"
+  },
+  "color_dark_red_1": {
+    "message": "Tumepunane 1"
+  },
+  "color_dark_red_2": {
+    "message": "Tumepunane 2"
+  },
+  "color_dark_red_3": {
+    "message": "Tumepunane 3"
+  },
+  "color_dark_red_berry_1": {
+    "message": "Tumepunane mari 1"
+  },
+  "color_dark_red_berry_2": {
+    "message": "Tumepunane mari 2"
+  },
+  "color_dark_red_berry_3": {
+    "message": "Tumepunane mari 3"
+  },
+  "color_dark_slate_blue": {
+    "message": "Tume kiltkivisinine"
+  },
+  "color_dark_yellow_1": {
+    "message": "Tumekollane 1"
+  },
+  "color_dark_yellow_2": {
+    "message": "Tumekollane 2"
+  },
+  "color_dark_yellow_3": {
+    "message": "Tumekollane 3"
+  },
+  "color_deep_pink": {
+    "message": "S\u00fcgav roosa"
+  },
+  "color_deep_sky_blue": {
+    "message": "S\u00fcgav taevasinine"
+  },
+  "color_eucalyptus_green": {
+    "message": "Eukal\u00fcptiroheline"
+  },
+  "color_gold": {
+    "message": "Kuldne"
+  },
+  "color_gray": {
+    "message": "Hall"
+  },
+  "color_green": {
+    "message": "Roheline"
+  },
+  "color_light_blue": {
+    "message": "Helesinine"
+  },
+  "color_light_blue_1": {
+    "message": "Helesinine 1"
+  },
+  "color_light_blue_2": {
+    "message": "Helesinine 2"
+  },
+  "color_light_blue_3": {
+    "message": "Helesinine 3"
+  },
+  "color_light_cornflower_blue_1": {
+    "message": "Hele rukkilillesinine 1"
+  },
+  "color_light_cornflower_blue_2": {
+    "message": "Hele rukkilillesinine 2"
+  },
+  "color_light_cornflower_blue_3": {
+    "message": "Hele rukkilillesinine 3"
+  },
+  "color_light_cyan": {
+    "message": "Helets\u00fcaan"
+  },
+  "color_light_cyan_1": {
+    "message": "Hele ts\u00fcaan 1"
+  },
+  "color_light_cyan_2": {
+    "message": "Hele ts\u00fcaan 2"
+  },
+  "color_light_cyan_3": {
+    "message": "Hele ts\u00fcaan 3"
+  },
+  "color_light_gray": {
+    "message": "Helehall"
+  },
+  "color_light_gray_1": {
+    "message": "Helehall 1"
+  },
+  "color_light_gray_2": {
+    "message": "Helehall 2"
+  },
+  "color_light_gray_3": {
+    "message": "Helehall 3"
+  },
+  "color_light_green": {
+    "message": "Heleroheline"
+  },
+  "color_light_green_1": {
+    "message": "Heleroheline 1"
+  },
+  "color_light_green_2": {
+    "message": "Heleroheline 2"
+  },
+  "color_light_green_3": {
+    "message": "Heleroheline 3"
+  },
+  "color_light_magenta_1": {
+    "message": "Hele magenta 1"
+  },
+  "color_light_magenta_2": {
+    "message": "Hele magenta 2"
+  },
+  "color_light_magenta_3": {
+    "message": "Hele magenta 3"
+  },
+  "color_light_orange_1": {
+    "message": "Heleoran\u017e 1"
+  },
+  "color_light_orange_2": {
+    "message": "Heleoran\u017e 2"
+  },
+  "color_light_orange_3": {
+    "message": "Heleoran\u017e 3"
+  },
+  "color_light_purple": {
+    "message": "Helelilla"
+  },
+  "color_light_purple_1": {
+    "message": "Helelilla 1"
+  },
+  "color_light_purple_2": {
+    "message": "Helelilla 2"
+  },
+  "color_light_purple_3": {
+    "message": "Helelilla 3"
+  },
+  "color_light_red_1": {
+    "message": "Helepunane 1"
+  },
+  "color_light_red_2": {
+    "message": "Helepunane 2"
+  },
+  "color_light_red_3": {
+    "message": "Helepunane 3"
+  },
+  "color_light_red_berry_1": {
+    "message": "Helepunane mari 1"
+  },
+  "color_light_red_berry_2": {
+    "message": "Helepunane mari 2"
+  },
+  "color_light_red_berry_3": {
+    "message": "Helepunane mari 3"
+  },
+  "color_light_yellow": {
+    "message": "Helekollane"
+  },
+  "color_light_yellow_1": {
+    "message": "Helekollane 1"
+  },
+  "color_light_yellow_2": {
+    "message": "Helekollane 2"
+  },
+  "color_light_yellow_3": {
+    "message": "Helekollane 3"
+  },
+  "color_magenta": {
+    "message": "Magenta"
+  },
+  "color_maroon": {
+    "message": "Kastanpruun"
+  },
+  "color_midnight_blue": {
+    "message": "\u00d6\u00f6sinine"
+  },
+  "color_navy": {
+    "message": "Meresinine"
+  },
+  "color_olive": {
+    "message": "Oliiviroheline"
+  },
+  "color_orange": {
+    "message": "Oran\u017e"
+  },
+  "color_peach": {
+    "message": "Virsik"
+  },
+  "color_pink": {
+    "message": "Roosa"
+  },
+  "color_pistachio": {
+    "message": "Pistaatsiaroheline"
+  },
+  "color_purple": {
+    "message": "Lilla"
+  },
+  "color_red": {
+    "message": "Punane"
+  },
+  "color_red_berry": {
+    "message": "Punane mari"
+  },
+  "color_royal_blue": {
+    "message": "Kuninglik sinine"
+  },
+  "color_teal": {
+    "message": "Sinakasroheline"
+  },
+  "color_turquiose": {
+    "message": "T\u00fcrkiis"
+  },
+  "color_white": {
+    "message": "Valge"
+  },
+  "color_yellow": {
+    "message": "Kollane"
+  },
+  "command_key": {
+    "message": "K\u00e4suklahv"
+  },
+  "content_msg_merging_horizontally_across_vertical_section": {
+    "message": "Te ei saa olemasolevas vertikaalselt liidetud jaotises horisontaalselt liita."
+  },
+  "content_msg_merging_multiple_cells_with_text": {
+    "message": "Lahtrite liitmisel s\u00e4ilib vaid \u00fclemine vasakpoolne v\u00e4\u00e4rtus. Kas soovite siiski liita?"
+  },
+  "content_msg_merging_partially_selected_merged_cells": {
+    "message": "Liitmiseks v\u00f5i selle t\u00fchistamiseks tuleb teil valida k\u00f5ik liidetud vahemikus olevad lahtrid."
+  },
+  "content_msg_merging_vertically_across_horizontal_section": {
+    "message": "Te ei saa olemasolevas horisontaalselt liidetud jaotises vertikaalselt liita."
+  },
+  "content_render_error_msg": {
+    "message": "Dokumendi sisuga seoses ilmnes probleem."
+  },
+  "context_menu_clipboard_copy": {
+    "message": "Kopeeri"
+  },
+  "context_menu_delete": {
+    "message": "Kustuta"
+  },
+  "context_menu_freeze": {
+    "message": "K\u00fclmuta"
+  },
+  "context_menu_insert": {
+    "message": "Lisa"
+  },
+  "context_menu_sort_collation_ascending": {
+    "message": "Sordi: A\u2013Z"
+  },
+  "context_menu_sort_collation_descending": {
+    "message": "Sordi: Z\u2013A"
+  },
+  "context_menu_unfreeze": {
+    "message": "Vabasta k\u00fclmutatud \u00fcksused"
+  },
+  "control_key": {
+    "message": "Juhtklahv"
+  },
+  "convert_attempt_for_sheet_with_large_file_size": {
+    "message": "See fail on Google'i arvutustabelina salvestamiseks liiga suur"
+  },
+  "convert_attempt_for_slide_with_large_file_size": {
+    "message": "See fail on Google'i esitlusena salvestamiseks liiga suur"
+  },
+  "convert_attempt_for_word_with_large_file_size": {
+    "message": "See fail on Google'i dokumendina salvestamiseks liiga suur"
+  },
+  "convert_attempt_when_offline": {
+    "message": "Google'i dokumentide failina salvestamiseks peab teil olema v\u00f5rgu\u00fchendus. Kui \u00fchendus on taastatud, proovige uuesti."
+  },
+  "convert_attempt_with_invalid_creds": {
+    "message": "Faili teisendamiseks peate oma Google'i kontole sisse logima."
+  },
+  "convert_cancel": {
+    "message": "T\u00fchista"
+  },
+  "convert_to_google_docs_failed": {
+    "message": "Dokumendi teisendamisel Google'i dokumentide failiks ilmnes probleem."
+  },
+  "convert_to_google_point_fail_short_msg": {
+    "message": "Vabandust"
+  },
+  "convert_to_google_point_short_msg": {
+    "message": "Salvestamine Google'i esitluste failina"
+  },
+  "convert_to_google_sheet_fail_short_msg": {
+    "message": "Vabandust"
+  },
+  "convert_to_google_sheet_short_msg": {
+    "message": "Salvestamine Google'i arvutustabelite failina"
+  },
+  "convert_to_google_word_fail_short_msg": {
+    "message": "Vabandust"
+  },
+  "convert_to_google_word_short_msg": {
+    "message": "Salvestamine Google'i dokumentide failina"
+  },
+  "convert_try_again": {
+    "message": "Proovige uuesti"
+  },
+  "converting_to_google_point_fail_msg": {
+    "message": "Me ei saanud teie faili praegu Google'i esitluste failina salvestada."
+  },
+  "converting_to_google_point_msg": {
+    "message": "Teie esitluse uus versioon salvestatakse Google'i esitluste failina."
+  },
+  "converting_to_google_sheet_fail_msg": {
+    "message": "Meil ei \u00f5nnestunud salvestada teie faili praegu Google'i esitluste failina."
+  },
+  "converting_to_google_sheet_msg": {
+    "message": "Teie arvutustabeli uus versioon salvestatakse Google'i arvutustabelite failina."
+  },
+  "converting_to_google_word_fail_msg": {
+    "message": "Meil ei \u00f5nnestunud salvestada teie faili praegu Google'i dokumentide failina."
+  },
+  "converting_to_google_word_msg": {
+    "message": "Teie dokumendi uus versioon salvestatakse Google'i dokumentide failina."
+  },
+  "copy_attempt_when_offline": {
+    "message": "Google Drive'is koopia tegemiseks on vaja v\u00f5rgu\u00fchendust. Proovige uuesti, kui \u00fchendus on taastatud."
+  },
+  "copy_attempt_with_invalid_creds": {
+    "message": "Koopia tegemiseks peate logima sisse Google'i kontole."
+  },
+  "disabled_share_button": {
+    "message": "Lubatud makrotega faile saab jagada ainult Google Drive\u2019ist. Jagamine on keelatud."
+  },
+  "disallowed_cut_copy_paste_cmd_copy": {
+    "message": "kopeerimiseks"
+  },
+  "disallowed_cut_copy_paste_cmd_cut": {
+    "message": "l\u00f5ikamiseks"
+  },
+  "disallowed_cut_copy_paste_cmd_paste": {
+    "message": "kleepimiseks"
+  },
+  "disallowed_cut_copy_paste_msg": {
+    "message": "Need toimingud ei ole muutmis- ja kontekstimen\u00fc\u00fc kaudu saadaval, kuid saate kasutada j\u00e4rgmist."
+  },
+  "disallowed_cut_copy_paste_title": {
+    "message": "Kopeerimine ja kleepimine Office\u2019i \u00fchilduvusre\u017eiimis"
+  },
+  "dismiss": {
+    "message": "Loobu"
+  },
+  "document_title_aria_spoken_word": {
+    "message": "Dokumendi pealkiri:"
+  },
+  "down_key": {
+    "message": "Alla"
+  },
+  "download_button": {
+    "message": "Laadi alla"
+  },
+  "download_file_timeout_error_msg": {
+    "message": "Avatava faili laadimine v\u00f5tab oodatust kauem. Kontrollige oma v\u00f5rgu\u00fchendust ja proovige uuesti."
+  },
+  "download_file_timeout_error_short_msg": {
+    "message": "Faili laadimine v\u00f5tab oodatust kauem"
+  },
+  "download_original": {
+    "message": "Laadi alla originaal"
+  },
+  "drive_open_timeout_error_msg": {
+    "message": "Tundub, et teie Interneti-\u00fchendusega on probleeme. Kontrollige \u00fchendust ja proovige fail uuesti avada. Kui n\u00e4ete endiselt seda viga ja teie seade on v\u00f5rku \u00fchendatud, teavitage probleemist allpool."
+  },
+  "drive_open_timeout_error_short_msg": {
+    "message": "Vabandust, taotletud faili ei \u00f5nnestunud avada."
+  },
+  "duplicate_sheet_name_message": {
+    "message": "Sisestage lehe nimi, mida ei kasutata teise lehega"
+  },
+  "duplicate_sheet_name_title": {
+    "message": "See lehe nimi on juba kasutusel"
+  },
+  "editing_options_limited_banner_text": {
+    "message": "Muutmisvalikud v\u00f5ivad olla piiratud. Teie fail salvestatakse muutmise ajal automaatselt."
+  },
+  "edits_not_being_saved": {
+    "message": "Muudatusi ei salvestata automaatselt."
+  },
+  "edits_now_being_auto_saved": {
+    "message": "Fail salvestati. K\u00f5ik muudatused salvestatakse n\u00fc\u00fcd automaatselt."
+  },
+  "entry_point_error_msg": {
+    "message": "Proovige uuesti v\u00f5i teavitage allpool probleemist."
+  },
+  "entry_point_error_short_msg": {
+    "message": "Oih. Meil ei \u00f5nnestunud tuvastada, millist faili te avada soovite."
+  },
+  "error_occurred": {
+    "message": "Tekkis viga."
+  },
+  "error_password_required_msg": {
+    "message": "Praegu me kaitstud faile ei toeta, kuid t\u00f6\u00f6tame selle nimel."
+  },
+  "error_password_required_short_msg": {
+    "message": "Fail on parooliga kaitstud."
+  },
+  "expanded": {
+    "message": "Laiendatud"
+  },
+  "expanded_menu": {
+    "message": "$1 Laiendatud koos alammen\u00fc\u00fcga.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "extension_cros_name": {
+    "message": "Lihtredaktor Office'i failide jaoks"
+  },
+  "extension_description": {
+    "message": "Vaadake ja muutke Microsoft Wordi, Exceli ja PowerPointi faile rakendustega Google'i dokumendid, arvutustabelid ja esitlused."
+  },
+  "extension_name": {
+    "message": "Office Editing"
+  },
+  "extension_popup_message_body": {
+    "message": "Olemasolevate failide avamiseks pukseerige need brauserisse"
+  },
+  "extension_popup_new_document_header": {
+    "message": "Uus..."
+  },
+  "extension_popup_new_presentation_document": {
+    "message": "PowerPointi esitlus"
+  },
+  "extension_popup_new_spreadsheet_document": {
+    "message": "Exceli tabel"
+  },
+  "extension_popup_new_word_document": {
+    "message": "Wordi dokument"
+  },
+  "feedback_textbox_editing": {
+    "message": "Lisage tekstikastides oleva teksti muutmise tugi."
+  },
+  "feedback_ui_template": {
+    "message": "1. Kirjeldage esinenud probleemi.\n2. Kas probleem ilmnes faili avamisel v\u00f5i selle muutmisel?\n3. Kas probleem ilmneb alati, kui \u00fcritate mis tahes faili avada v\u00f5i muuta, v\u00f5i ainult teatud failide puhul?\n\nKui see probleem esineb vaid teatud faili puhul, lisage see fail manusena sellele aruandele, kuna see aitab meil viga p\u00f5hjalikumalt otsida."
+  },
+  "file_does_not_exist_error_details": {
+    "message": "Faili ei ole. V\u00f5ib-olla \u00fcritasite avada jagatud linki v\u00f5i j\u00e4rjehoidjatesse lisatud dokumenti. Proovige faili algallikast uuesti avada."
+  },
+  "file_does_not_exist_error_title": {
+    "message": "Faili ei leitud."
+  },
+  "file_loading_spinner_label": {
+    "message": "Laadimine"
+  },
+  "file_missing_content_msg": {
+    "message": "Faili kogu sisu lugemisel ilmnes probleem. Soovitame faili \u00fcmbernimetada ja uuesti avada."
+  },
+  "file_missing_content_short_msg": {
+    "message": "Dokumendis puudub sisu."
+  },
+  "file_not_found_error_msg": {
+    "message": "K\u00fcsige faili omanikult \u00fcle, kas teil on luba sellele juurde p\u00e4\u00e4seda. Kui n\u00e4ete endiselt seda viga ja teil on luba olemas, teavitage probleemist allpool."
+  },
+  "file_not_found_error_short_msg": {
+    "message": "Kahjuks ei \u00f5nnestunud taotletud faili avada."
+  },
+  "file_not_found_exception": {
+    "message": "Soovitud fail v\u00f5ib olla kustutatud, \u00fcmber nimetatud v\u00f5i teise kohta teisaldatud. Edasiliikumiseks kl\u00f5psake valikul Salvesta kohe."
+  },
+  "file_not_found_link_text": {
+    "message": "Kui vajate abi mitme konto kasutamisel, vaadake seda artiklit."
+  },
+  "file_not_found_msg": {
+    "message": "Taotletud fail pole enam selles kohas."
+  },
+  "file_not_found_title": {
+    "message": "Faili ei leitud."
+  },
+  "file_open_crash_error_msg": {
+    "message": "Kui viga ilmneb korduvalt, teatage allpool probleemist."
+  },
+  "file_open_crash_error_short_msg": {
+    "message": "Kahjuks ei \u00f5nnestunud taotletud faili avada."
+  },
+  "file_open_error_msg": {
+    "message": "Faili sisule ei saa juurdep\u00e4\u00e4su."
+  },
+  "file_open_error_short_msg": {
+    "message": "Fail paistab olevat rikutud."
+  },
+  "file_open_fail_download_link_text": {
+    "message": "Faili allalaadimine"
+  },
+  "file_opened_in_incognito_mode_error_details": {
+    "message": "Office\u2019i failide muutmise laiend ei t\u00f6\u00f6ta inkognito re\u017eiimis. Avage see fail tavalises Chrome\u2019i aknas. Kui kasutate k\u00fclalisre\u017eiimi, siis faili avamine eba\u00f5nnestus. Veenduge, et fail ei oleks rikutud v\u00f5i sobimatut t\u00fc\u00fcpi, ja proovige uuesti."
+  },
+  "file_opened_in_incognito_mode_error_title": {
+    "message": "Oih! Inkognito re\u017eiim ei ole toetatud"
+  },
+  "file_pdf_type_rename_msg": {
+    "message": "Andke failile uueks nimeks $1.pdf ja proovige uuesti.",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_rtf_type_rename_msg": {
+    "message": "Andke failile uueks nimeks $1.rtf",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "file_type_unsupported_msg": {
+    "message": "Seda failit\u00fc\u00fcpi ei toetata."
+  },
+  "fillcolor_aria_spoken_word": {
+    "message": "teksti v\u00e4rvi ripploend"
+  },
+  "fontface_aria_spoken_word": {
+    "message": "fondi ripploend"
+  },
+  "fontsize_aria_spoken_word": {
+    "message": "fondi suuruse ripploend"
+  },
+  "forbidden_access_level_error_msg": {
+    "message": "K\u00fcsige faili omanikult \u00fcle, kas teil on luba see fail avada. Kui n\u00e4ete endiselt seda viga ja teil on luba olemas, teavitage probleemist allpool."
+  },
+  "forbidden_access_level_error_short_msg": {
+    "message": "Vabandust, taotletud faili ei \u00f5nnestunud avada."
+  },
+  "forbidden_app_access_error_msg": {
+    "message": "Meil pole mingil p\u00f5hjusel luba seda faili avada. Proovige fail avada Google Drive'is v\u00f5i teavitage probleemist allpool."
+  },
+  "forbidden_app_access_error_short_msg": {
+    "message": "Vabandust, taotletud faili ei \u00f5nnestunud avada."
+  },
+  "forbidden_app_id_error_msg": {
+    "message": "Tundub, et Chrome'i laiendus pole \u00f5igesti seadistatud. Kuidas on see v\u00f5imalik? Me ei tea p\u00e4ris t\u00e4pselt, kuid teavitage probleemist allpool."
+  },
+  "forbidden_app_id_error_short_msg": {
+    "message": "Vabandust, taotletud faili ei \u00f5nnestunud avada."
+  },
+  "forbidden_blacklist_error_msg": {
+    "message": "Tundub, et Chrome'i laiendus on lisatud musta nimekirja. See on ilmselgelt viga, seet\u00f5ttu andke meile sellest teada, teavitades probleemist allpool."
+  },
+  "forbidden_blacklist_error_short_msg": {
+    "message": "Vabandust, taotletud faili ei \u00f5nnestunud avada."
+  },
+  "forbidden_domain_error_msg": {
+    "message": "Tundub, et teie domeen on keelanud juurdep\u00e4\u00e4su sellele failile. V\u00f5tke \u00fchendust oma domeeni administraatoriga v\u00f5i teavitage probleemist allpool."
+  },
+  "forbidden_domain_error_short_msg": {
+    "message": "Vabandust, taotletud faili ei \u00f5nnestunud avada."
+  },
+  "forbidden_internal_error_msg": {
+    "message": "Kahjuks ei t\u00f6\u00f6ta Google Drive oodatud viisil. Proovige fail uuesti avada v\u00f5i teavitage probleemist allpool."
+  },
+  "forbidden_internal_error_short_msg": {
+    "message": "Vabandust, taotletud faili ei \u00f5nnestunud avada."
+  },
+  "forbidden_not_installed_error_msg": {
+    "message": "Tundub, et Chrome'i laiendus pole korralikult installitud. Kuidas on see v\u00f5imalik? Me ei tea p\u00e4ris t\u00e4pselt, kuid teavitage probleemist allpool."
+  },
+  "forbidden_not_installed_error_short_msg": {
+    "message": "Vabandust, taotletud faili ei \u00f5nnestunud avada."
+  },
+  "generic_error_msg": {
+    "message": "Dokumendi sisuga seoses ilmnes probleem."
+  },
+  "generic_error_short_msg": {
+    "message": "Oih. Seda ei oleks tohtinud juhtuda. Muudatuste taastamiseks laadige leht uuesti."
+  },
+  "get_lists_data_error_msg": {
+    "message": "Dokumendis v\u00f5idakse loend esitada vales vormingus."
+  },
+  "get_lists_data_error_short_msg": {
+    "message": "Dokumendi vormingut ei \u00f5nnestunud tuua."
+  },
+  "highlightcolor_aria_spoken_word": {
+    "message": "teksti esilet\u00f5stmise v\u00e4rvi ripploend"
+  },
+  "http_error_zero_msg": {
+    "message": "Kui tegemist on v\u00f5rguprobleemiga, kontrollige \u00fchendust v\u00f5i proovige hiljem uuesti. Kui probleem ei lahene, teatage sellest allpool."
+  },
+  "http_error_zero_short_msg": {
+    "message": "Faili ei saanud avada."
+  },
+  "info_file_copied": {
+    "message": "Salvestatud"
+  },
+  "info_file_save_cancelled": {
+    "message": "Salvestamine t\u00fchistati."
+  },
+  "info_file_save_failed": {
+    "message": "Salvestamine eba\u00f5nnestus."
+  },
+  "info_file_saved_at_location": {
+    "message": "K\u00f5ik muudatused salvestati asukohta $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "info_file_saved_in_drive": {
+    "message": "K\u00f5ik muudatused salvestati Drive'is"
+  },
+  "info_file_saved_locally": {
+    "message": "K\u00f5ik muudatused salvestati kohalikult"
+  },
+  "info_file_saved_offline": {
+    "message": "K\u00f5ik muudatused salvestati v\u00f5rgu\u00fchenduseta"
+  },
+  "info_file_saving": {
+    "message": "Salvestamine ..."
+  },
+  "initaddshape_aria_spoken_word": {
+    "message": "lisa tekstikast"
+  },
+  "invalid_credentials_error_msg": {
+    "message": "Peate sellele failile juurdep\u00e4\u00e4semiseks logima sisse oma Google'i kontole."
+  },
+  "invalid_credentials_error_short_msg": {
+    "message": "Vabandust, taotletud faili ei \u00f5nnestunud avada."
+  },
+  "invalid_file_format_msg": {
+    "message": "Ehkki fail n\u00e4eb v\u00e4lja nagu Office'i dokument ja sellel on Office'i faililaiend, on see tegelikult teist t\u00fc\u00fcpi fail, mis on mingil viisil \u00fcmber nimetatud v\u00f5i muudetud, v\u00f5i on see failit\u00fc\u00fcp, mida me ei toeta."
+  },
+  "invalid_file_format_short_msg": {
+    "message": "Paraku n\u00e4ib, et me ei saa seda t\u00fc\u00fcpi dokumenti avada."
+  },
+  "italic_aria_spoken_word": {
+    "message": "kursiiv"
+  },
+  "keyboard_shortcut_group_actions": {
+    "message": "Toimingud"
+  },
+  "keyboard_shortcut_group_other": {
+    "message": "Muu"
+  },
+  "keyboard_shortcut_group_paragraph_formatting": {
+    "message": "L\u00f5igu vorming"
+  },
+  "keyboard_shortcut_group_text_formatting": {
+    "message": "Teksti vormindamine"
+  },
+  "keyboard_shortcut_group_top_menus": {
+    "message": "Men\u00fc\u00fcd"
+  },
+  "keyboard_shortcut_group_with_slides": {
+    "message": "Esitlustega"
+  },
+  "keyboard_shortcut_title": {
+    "message": "Klaviatuuri otseteed"
+  },
+  "large_file_size_dialog_title_for_sheet": {
+    "message": "Ei saa faili Google'i arvutustabelina salvestada"
+  },
+  "large_file_size_dialog_title_for_slide": {
+    "message": "Ei saa faili Google'i esitlusena salvestada"
+  },
+  "large_file_size_dialog_title_for_word": {
+    "message": "Ei saa faili Google'i dokumendina salvesta"
+  },
+  "make_a_copy_fail_msg": {
+    "message": "Praegu ei \u00f5nnestunud koopiat teha."
+  },
+  "menu_button_data": {
+    "message": "Andmed"
+  },
+  "menu_button_edit": {
+    "message": "Muuda"
+  },
+  "menu_button_file": {
+    "message": "Fail"
+  },
+  "menu_button_format": {
+    "message": "Vorming"
+  },
+  "menu_button_help": {
+    "message": "Abi"
+  },
+  "menu_button_insert": {
+    "message": "Lisa"
+  },
+  "menu_button_slide": {
+    "message": "Slaid"
+  },
+  "menu_button_tools": {
+    "message": "T\u00f6\u00f6riistad"
+  },
+  "menu_button_view": {
+    "message": "Kuva"
+  },
+  "menu_item_10_point_star": {
+    "message": "10-tipuline t\u00e4ht"
+  },
+  "menu_item_12_point_star": {
+    "message": "12-tipuline t\u00e4ht"
+  },
+  "menu_item_16_point_star": {
+    "message": "16-tipuline t\u00e4ht"
+  },
+  "menu_item_24_point_star": {
+    "message": "24-tipuline t\u00e4ht"
+  },
+  "menu_item_32_point_star": {
+    "message": "32-tipuline t\u00e4ht"
+  },
+  "menu_item_4_point_star": {
+    "message": "4-tipuline t\u00e4ht"
+  },
+  "menu_item_5_point_star": {
+    "message": "5-tipuline t\u00e4ht"
+  },
+  "menu_item_6_point_star": {
+    "message": "6-tipuline t\u00e4ht"
+  },
+  "menu_item_7_point_star": {
+    "message": "7-tipuline t\u00e4ht"
+  },
+  "menu_item_8_point_star": {
+    "message": "8-tipuline t\u00e4ht"
+  },
+  "menu_item_align": {
+    "message": "Joondamine"
+  },
+  "menu_item_align_center": {
+    "message": "Keskel"
+  },
+  "menu_item_align_justified": {
+    "message": "R\u00f6\u00f6pjoondatud"
+  },
+  "menu_item_align_left": {
+    "message": "Vasak"
+  },
+  "menu_item_align_right": {
+    "message": "Parem"
+  },
+  "menu_item_arrows": {
+    "message": "Nooled"
+  },
+  "menu_item_bent_arrow": {
+    "message": "Painutatud nool"
+  },
+  "menu_item_bent_up_arrow": {
+    "message": "\u00dclespainutatud nool"
+  },
+  "menu_item_bevel": {
+    "message": "Viltune"
+  },
+  "menu_item_block_arc": {
+    "message": "Plokk-kaar"
+  },
+  "menu_item_bold": {
+    "message": "Paks"
+  },
+  "menu_item_callouts": {
+    "message": "Viiktekstid"
+  },
+  "menu_item_can": {
+    "message": "Purk"
+  },
+  "menu_item_chevron": {
+    "message": "R\u00f6\u00f6pnool"
+  },
+  "menu_item_chord": {
+    "message": "K\u00f5\u00f5l"
+  },
+  "menu_item_clear_formatting": {
+    "message": "Vormingu eemaldamine"
+  },
+  "menu_item_cloud": {
+    "message": "Pilv"
+  },
+  "menu_item_cloud_callout": {
+    "message": "Jutumulliga viiktekst"
+  },
+  "menu_item_color_none": {
+    "message": "Mitte midagi"
+  },
+  "menu_item_color_transparent": {
+    "message": "L\u00e4bipaistev"
+  },
+  "menu_item_convert_to_docs": {
+    "message": "Salvesta Google'i dokumentide failina"
+  },
+  "menu_item_convert_to_sheets": {
+    "message": "Salvesta Google'i arvutustabelite failina"
+  },
+  "menu_item_convert_to_slides": {
+    "message": "Salvesta Google'i esitluste failina"
+  },
+  "menu_item_copy": {
+    "message": "Kopeeri"
+  },
+  "menu_item_cross": {
+    "message": "Rist"
+  },
+  "menu_item_cube": {
+    "message": "Kuup"
+  },
+  "menu_item_curved_down_arrow": {
+    "message": "Kaarjas allanool"
+  },
+  "menu_item_curved_left_arrow": {
+    "message": "Kaarjas vasaknool"
+  },
+  "menu_item_curved_right_arrow": {
+    "message": "Kaarjas paremnool"
+  },
+  "menu_item_curved_up_arrow": {
+    "message": "Kaarjas \u00fclesnool"
+  },
+  "menu_item_cut": {
+    "message": "L\u00f5ika"
+  },
+  "menu_item_decagon": {
+    "message": "K\u00fcmmenurk"
+  },
+  "menu_item_delete_column": {
+    "message": "Kustuta veerg"
+  },
+  "menu_item_delete_row": {
+    "message": "Kustuta rida"
+  },
+  "menu_item_delete_value": {
+    "message": "Kustuta v\u00e4\u00e4rtus"
+  },
+  "menu_item_deleteslide": {
+    "message": "Kustuta slaid"
+  },
+  "menu_item_diagonal_stripe": {
+    "message": "Diagonaalriba"
+  },
+  "menu_item_diamond": {
+    "message": "Romb"
+  },
+  "menu_item_divide": {
+    "message": "Jaotus"
+  },
+  "menu_item_dodecagon": {
+    "message": "Kaksteistk\u00fclik"
+  },
+  "menu_item_donut": {
+    "message": "R\u00f5ngas"
+  },
+  "menu_item_double_brace": {
+    "message": "Topeltlooksulg"
+  },
+  "menu_item_double_bracket": {
+    "message": "Topeltnurksulg"
+  },
+  "menu_item_down_arrow": {
+    "message": "Allanool"
+  },
+  "menu_item_down_arrow_callout": {
+    "message": "Allanoolega viiktekst"
+  },
+  "menu_item_duplicateslide": {
+    "message": "Topeltslaid"
+  },
+  "menu_item_equal": {
+    "message": "V\u00f5rdne"
+  },
+  "menu_item_equation": {
+    "message": "V\u00f5rrand"
+  },
+  "menu_item_explosion_1": {
+    "message": "Plahvatus 1"
+  },
+  "menu_item_explosion_2": {
+    "message": "Plahvatus 2"
+  },
+  "menu_item_flowchart_alternate_process": {
+    "message": "Vooskeem: vahelduvprotsess"
+  },
+  "menu_item_flowchart_card": {
+    "message": "Vooskeem: kaart"
+  },
+  "menu_item_flowchart_collate": {
+    "message": "Vooskeem: j\u00e4rjestamine"
+  },
+  "menu_item_flowchart_connector": {
+    "message": "Vooskeem: konnektor"
+  },
+  "menu_item_flowchart_data": {
+    "message": "Vooskeem: andmed"
+  },
+  "menu_item_flowchart_decision": {
+    "message": "Vooskeem: otsus"
+  },
+  "menu_item_flowchart_delay": {
+    "message": "Vooskeem: viivitus"
+  },
+  "menu_item_flowchart_direct_access_storage": {
+    "message": "Vooskeem: otsep\u00f6\u00f6rdussalvestus"
+  },
+  "menu_item_flowchart_display": {
+    "message": "Vooskeem: kuvamine"
+  },
+  "menu_item_flowchart_document": {
+    "message": "Vooskeem: dokument"
+  },
+  "menu_item_flowchart_extract": {
+    "message": "Vooskeem: ekstraktimine"
+  },
+  "menu_item_flowchart_internal_storage": {
+    "message": "Vooskeem: sisemine salvestusruum"
+  },
+  "menu_item_flowchart_magnetic_disk": {
+    "message": "Vooskeem: magnetketas"
+  },
+  "menu_item_flowchart_manual_input": {
+    "message": "Vooskeem: k\u00e4sitsi sisestamine"
+  },
+  "menu_item_flowchart_manual_operation": {
+    "message": "Vooskeem: k\u00e4sitsi toiming"
+  },
+  "menu_item_flowchart_merge": {
+    "message": "Vooskeem: liitmine"
+  },
+  "menu_item_flowchart_multidocument": {
+    "message": "Vooskeem: mitmikdokument"
+  },
+  "menu_item_flowchart_off_page_connector": {
+    "message": "Vooskeem: lehe\u00fclene konnektor"
+  },
+  "menu_item_flowchart_or": {
+    "message": "Vooskeem: v\u00f5i"
+  },
+  "menu_item_flowchart_predefined_process": {
+    "message": "Vooskeem: ettem\u00e4\u00e4ratud protsess"
+  },
+  "menu_item_flowchart_preparation": {
+    "message": "Vooskeem: ettevalmistus"
+  },
+  "menu_item_flowchart_process": {
+    "message": "Vooskeem: t\u00f6\u00f6tlemine"
+  },
+  "menu_item_flowchart_punched_tape": {
+    "message": "Vooskeem: perfolint"
+  },
+  "menu_item_flowchart_sequential_access_storage": {
+    "message": "Vooskeem: jadap\u00f6\u00f6rdussalvestus"
+  },
+  "menu_item_flowchart_sort": {
+    "message": "Vooskeem: sortimine"
+  },
+  "menu_item_flowchart_stored_data": {
+    "message": "Vooskeem: talletatud andmed"
+  },
+  "menu_item_flowchart_summing_junction": {
+    "message": "Vooskeem: liitmiss\u00f5lm"
+  },
+  "menu_item_flowchart_terminator": {
+    "message": "Vooskeem: terminaator"
+  },
+  "menu_item_folded_corner": {
+    "message": "Murtud nurk"
+  },
+  "menu_item_frame": {
+    "message": "Raam"
+  },
+  "menu_item_half_frame": {
+    "message": "Poolraam"
+  },
+  "menu_item_heart": {
+    "message": "S\u00fcda"
+  },
+  "menu_item_help_center": {
+    "message": "Abikeskus"
+  },
+  "menu_item_heptagon": {
+    "message": "Seitsenurk"
+  },
+  "menu_item_hexagon": {
+    "message": "Kuusnurk"
+  },
+  "menu_item_hideslide": {
+    "message": "Peida slaid"
+  },
+  "menu_item_insert_column": {
+    "message": "Veerg"
+  },
+  "menu_item_insert_image": {
+    "message": "Kujutis"
+  },
+  "menu_item_insert_row": {
+    "message": "Rida"
+  },
+  "menu_item_insert_text_box": {
+    "message": "Tekstikast"
+  },
+  "menu_item_insertslide": {
+    "message": "Uus slaid"
+  },
+  "menu_item_italic": {
+    "message": "Kursiiv"
+  },
+  "menu_item_keyboard_shortcuts": {
+    "message": "Klaviatuuri otseteed"
+  },
+  "menu_item_l_shape": {
+    "message": "L-kujund"
+  },
+  "menu_item_left_arrow": {
+    "message": "Vasaknool"
+  },
+  "menu_item_left_arrow_callout": {
+    "message": "Vasaknoolega viiktekst"
+  },
+  "menu_item_left_brace": {
+    "message": "Vasak looksulg"
+  },
+  "menu_item_left_bracket": {
+    "message": "Vasak nurksulg"
+  },
+  "menu_item_left_right_arrow": {
+    "message": "Vasak-paremnool"
+  },
+  "menu_item_left_right_arrow_callout": {
+    "message": "Vasak-paremnoolega viiktekst"
+  },
+  "menu_item_left_right_up_arrow": {
+    "message": "Vasak-parem-\u00fclesnool"
+  },
+  "menu_item_left_up_arrow": {
+    "message": "Vasak-\u00fclesnool"
+  },
+  "menu_item_lightning_bolt": {
+    "message": "V\u00e4lgunool"
+  },
+  "menu_item_make_a_copy": {
+    "message": "Tee koopia ..."
+  },
+  "menu_item_merge_all": {
+    "message": "Liida k\u00f5ik"
+  },
+  "menu_item_merge_cells": {
+    "message": "Liida lahtrid"
+  },
+  "menu_item_merge_horizontally": {
+    "message": "Liida horisontaalselt"
+  },
+  "menu_item_merge_vertically": {
+    "message": "Liida vertikaalselt"
+  },
+  "menu_item_minus": {
+    "message": "Miinus"
+  },
+  "menu_item_moon": {
+    "message": "Kuu"
+  },
+  "menu_item_moveslidedown": {
+    "message": "Liiguta esitlus alla"
+  },
+  "menu_item_moveslidetoend": {
+    "message": "Liiguta esitlus l\u00f5ppu"
+  },
+  "menu_item_moveslidetostart": {
+    "message": "Liiguta esitlus algusesse"
+  },
+  "menu_item_moveslideup": {
+    "message": "Liiguta esitlus \u00fcles"
+  },
+  "menu_item_multiply": {
+    "message": "Korruta"
+  },
+  "menu_item_new": {
+    "message": "Uus"
+  },
+  "menu_item_no_symbol": {
+    "message": "S\u00fcmbol Ei"
+  },
+  "menu_item_not_equal": {
+    "message": "Pole v\u00f5rdne"
+  },
+  "menu_item_notched_right_arrow": {
+    "message": "S\u00e4lguga paremnool"
+  },
+  "menu_item_number_format": {
+    "message": "Numbrivorming"
+  },
+  "menu_item_number_menu": {
+    "message": "Number"
+  },
+  "menu_item_numbering": {
+    "message": "$1 $2-st",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      }
+    }
+  },
+  "menu_item_octagon": {
+    "message": "Kaheksanurk"
+  },
+  "menu_item_open": {
+    "message": "Ava"
+  },
+  "menu_item_oval": {
+    "message": "Ovaalne"
+  },
+  "menu_item_oval_callout": {
+    "message": "Ovaalne viiktekst"
+  },
+  "menu_item_parallelogram": {
+    "message": "R\u00f6\u00f6pk\u00fclik"
+  },
+  "menu_item_paste": {
+    "message": "Kleebi"
+  },
+  "menu_item_pentagon": {
+    "message": "Viisnurk"
+  },
+  "menu_item_pie": {
+    "message": "Pirukas"
+  },
+  "menu_item_plaque": {
+    "message": "Tahvel"
+  },
+  "menu_item_plus": {
+    "message": "Pluss"
+  },
+  "menu_item_present": {
+    "message": "Esita"
+  },
+  "menu_item_print": {
+    "message": "Prindi"
+  },
+  "menu_item_quad_arrow": {
+    "message": "Neliknool"
+  },
+  "menu_item_quad_arrow_callout": {
+    "message": "Neliknoolega viiktekst"
+  },
+  "menu_item_rectangle": {
+    "message": "Ristk\u00fclik"
+  },
+  "menu_item_rectangular_callout": {
+    "message": "Ristk\u00fclik-viiktekst"
+  },
+  "menu_item_redo": {
+    "message": "Tee uuesti"
+  },
+  "menu_item_regular_pentagon": {
+    "message": "Tavaline viisnurk"
+  },
+  "menu_item_report_abuse": {
+    "message": "Teavita v\u00e4\u00e4rkasutusest"
+  },
+  "menu_item_report_issue": {
+    "message": "Teavita probleemist"
+  },
+  "menu_item_right_arrow": {
+    "message": "Paremnool"
+  },
+  "menu_item_right_arrow_callout": {
+    "message": "Paremnoolega viiktekst"
+  },
+  "menu_item_right_brace": {
+    "message": "Parem looksulg"
+  },
+  "menu_item_right_bracket": {
+    "message": "Parem nurksulg"
+  },
+  "menu_item_right_triangle": {
+    "message": "T\u00e4isnurkne kolmnurk"
+  },
+  "menu_item_round_diagonal_corner_rectangle": {
+    "message": "\u00dcmardatud kaldnurkadega ristk\u00fclik"
+  },
+  "menu_item_round_same_side_corner_rectangle": {
+    "message": "\u00dche k\u00fclje \u00fcmardatud nurkadega ristk\u00fclik"
+  },
+  "menu_item_round_single_corner_rectangle": {
+    "message": "\u00dche \u00fcmardatud nurgaga ristk\u00fclik"
+  },
+  "menu_item_rounded_rectangle": {
+    "message": "\u00dcmardatud nurkadega ristk\u00fclik"
+  },
+  "menu_item_rounded_rectangular_callout": {
+    "message": "\u00dcmarnurk-ristk\u00fclik-viiktekst"
+  },
+  "menu_item_save": {
+    "message": "Salvesta"
+  },
+  "menu_item_save_as": {
+    "message": "Salvesta nimega ..."
+  },
+  "menu_item_shapes": {
+    "message": "Kujundid"
+  },
+  "menu_item_share": {
+    "message": "Jaga"
+  },
+  "menu_item_smiley_face": {
+    "message": "Naerun\u00e4gu"
+  },
+  "menu_item_snip_and_round_single_corner_rectangle": {
+    "message": "\u00dche l\u00f5igatud ja \u00fcmardatud nurgaga ristk\u00fclik"
+  },
+  "menu_item_snip_diagonal_corner_rectangle": {
+    "message": "L\u00f5igatud kaldnurkadega ristk\u00fclik"
+  },
+  "menu_item_snip_same_side_corner_rectangle": {
+    "message": "\u00dche k\u00fclje l\u00f5igatud nurkadega ristk\u00fclik"
+  },
+  "menu_item_snip_single_corner_rectangle": {
+    "message": "\u00dche l\u00f5igatud nurgaga ristk\u00fclik"
+  },
+  "menu_item_strikethrough": {
+    "message": "L\u00e4bikriipsutus"
+  },
+  "menu_item_striped_right_arrow": {
+    "message": "V\u00f6\u00f6diga paremnool"
+  },
+  "menu_item_subscript": {
+    "message": "Alaindeks"
+  },
+  "menu_item_sun": {
+    "message": "P\u00e4ike"
+  },
+  "menu_item_superscript": {
+    "message": "\u00dclaindeks"
+  },
+  "menu_item_teardrop": {
+    "message": "Tilk"
+  },
+  "menu_item_trapezoid": {
+    "message": "Trapets"
+  },
+  "menu_item_triangle": {
+    "message": "Kolmnurk"
+  },
+  "menu_item_u_turn_arrow": {
+    "message": "Tagasip\u00f6\u00f6rdenool"
+  },
+  "menu_item_underline": {
+    "message": "Allakriipsutus"
+  },
+  "menu_item_undo": {
+    "message": "V\u00f5ta tagasi"
+  },
+  "menu_item_unhideslide": {
+    "message": "T\u00fchista slaidi peitmine"
+  },
+  "menu_item_unmerge": {
+    "message": "T\u00fchista liitmine"
+  },
+  "menu_item_up_arrow": {
+    "message": "\u00dclesnool"
+  },
+  "menu_item_up_arrow_callout": {
+    "message": "\u00dclesnoolega viiktekst"
+  },
+  "menu_item_up_down_arrow": {
+    "message": "\u00dcles-allanool"
+  },
+  "menu_item_version_info": {
+    "message": "Versiooniteave"
+  },
+  "menu_item_word_count": {
+    "message": "S\u00f5nade arv"
+  },
+  "menu_item_wrap_text": {
+    "message": "Murra teksti ridu"
+  },
+  "menu_item_zoom_in": {
+    "message": "Suurenda"
+  },
+  "menu_item_zoom_out": {
+    "message": "V\u00e4henda"
+  },
+  "merge_all_aria_spoken_word": {
+    "message": "liida k\u00f5ik"
+  },
+  "merge_aria_spoken_word": {
+    "message": "liida"
+  },
+  "merge_dropdown_aria_spoken_word": {
+    "message": "liitke rippmen\u00fc\u00fc"
+  },
+  "merge_horizontally_aria_spoken_word": {
+    "message": "liida horisontaalselt"
+  },
+  "merge_vertically_aria_spoken_word": {
+    "message": "liida vertikaalselt"
+  },
+  "modify_shape_transform_error_msg": {
+    "message": "Kujuteisenduse muutmisel ilmnes viga"
+  },
+  "modify_shape_transform_error_short_msg": {
+    "message": "Kujuteisenduste muutmisel ilmnes viga."
+  },
+  "modifyshapefillcolor_aria_spoken_word": {
+    "message": "kujundi t\u00e4itev\u00e4rvi ripploend"
+  },
+  "modifyshapeoutlinecolor_aria_spoken_word": {
+    "message": "kujundi kontuurjoone v\u00e4rvi ripploend"
+  },
+  "modifyshapeoutlinestyle_aria_spoken_word": {
+    "message": "kujundi kontuurjoone stiili ripploend"
+  },
+  "modifyshapeoutlinewidth_aria_spoken_word": {
+    "message": "kujundi kontuurjoone laiuse ripploend"
+  },
+  "nacl_load_error_details": {
+    "message": "Proovige laiendus uuesti installida."
+  },
+  "nacl_load_error_title": {
+    "message": "Rakenduse laadimisel ilmnes probleem."
+  },
+  "non_permissible_sheet_name_details": {
+    "message": "J\u00e4rgmised t\u00e4rgid pole lubatud: *, ?, [, ], ', ;, : Lehe nime pikkus ei tohi \u00fcletada 31 t\u00e4hem\u00e4rki Lehe nimev\u00e4lja ei tohi t\u00fchjaks j\u00e4tta"
+  },
+  "non_permissible_sheet_name_title": {
+    "message": "Lehe \u00fcmbernimetamisel sisestasite sobimatu nime"
+  },
+  "not_pressed": {
+    "message": "Pole vajutatud"
+  },
+  "notselected": {
+    "message": "Ei ole valitud"
+  },
+  "number_format_label_currency_symbol": {
+    "message": "Valuuta s\u00fcmbol"
+  },
+  "number_format_label_date_type": {
+    "message": "Sisestamine"
+  },
+  "number_format_label_decimal_places": {
+    "message": "K\u00fcmnendkohad"
+  },
+  "number_format_label_general": {
+    "message": "\u00dcldteave"
+  },
+  "number_format_label_negative_numbers": {
+    "message": "Negatiivsed arvud"
+  },
+  "number_format_label_other": {
+    "message": "Muu"
+  },
+  "number_format_label_red": {
+    "message": "Punane"
+  },
+  "number_format_label_text": {
+    "message": "Tekst"
+  },
+  "number_format_label_use_1000_separator": {
+    "message": "Tuhandeliste eraldaja kasutamine"
+  },
+  "number_format_tab_accounting": {
+    "message": "Raamatupidamine"
+  },
+  "number_format_tab_currency": {
+    "message": "Valuuta"
+  },
+  "number_format_tab_date_time": {
+    "message": "Kuup\u00e4ev ja kellaaeg"
+  },
+  "number_format_tab_general": {
+    "message": "\u00dcldteave"
+  },
+  "number_format_tab_number": {
+    "message": "Number"
+  },
+  "number_format_tab_percentage": {
+    "message": "Protsent"
+  },
+  "number_format_tab_scientific": {
+    "message": "Teaduslik"
+  },
+  "number_format_title": {
+    "message": "Numbrivormingud"
+  },
+  "ocm_promo_conversion_shortmsg": {
+    "message": "Olete Office'i \u00fchilduvusre\u017eiimis"
+  },
+  "ocm_promo_office_editing_mode_shortmsg": {
+    "message": "Olete Office'i \u00fchilduvusre\u017eiimis"
+  },
+  "office_compatibility_mode": {
+    "message": "Office'i \u00fchilduvusre\u017eiim"
+  },
+  "office_editing_mode_attempt_when_offline": {
+    "message": "Selle faili avamiseks rakenduses Google'i dokumendid peate oleva v\u00f5rguga \u00fchendatud. Proovige uuesti, kui \u00fchendus on taastunud."
+  },
+  "office_editing_mode_attempt_with_invalid_creds": {
+    "message": "Selle faili avamiseks rakenduses Google'i dokumendid peate oma Google'i kontole sisse logima"
+  },
+  "office_editing_mode_point_fail_msg": {
+    "message": "Me ei saanud teie faili praegu Google'i esitluste failina avada."
+  },
+  "office_editing_mode_setting_new_create": {
+    "message": "Ava toetatud Office'i failid Drive'ist ja Gmailist otse rakenduses Dokumendid, Arvutustabelid v\u00f5i Esitlused"
+  },
+  "office_editing_mode_sheet_fail_msg": {
+    "message": "Meil ei \u00f5nnestunud teie faili praegu Google'i esitluste failina avada."
+  },
+  "office_editing_mode_word_fail_msg": {
+    "message": "Meil ei \u00f5nnestunud teie faili praegu Google'i dokumentide failina avada."
+  },
+  "office_first_time_confirm": {
+    "message": "Sain aru"
+  },
+  "office_first_time_message_p1": {
+    "message": "Saate n\u00fc\u00fcd kasutada rakendusi Dokumendid, Arvutustabelid ja Esitlused, et muuta k\u00f5vakettal, Google Drive'is, Gmailis v\u00f5i muus asukohas olevaid Wordi, Exceli ning Powerpointi faile."
+  },
+  "office_first_time_message_p2": {
+    "message": "K\u00f5ik muudatused salvestatakse automaatselt ja saate salvestada faili alati ka originaalvormingus."
+  },
+  "office_first_time_title": {
+    "message": "Office'i failide muutmine rakendustega Dokumendid, Arvutustabelid ja Esitlused"
+  },
+  "offline_error_msg": {
+    "message": "Tundub, et teie seade pole v\u00f5rku \u00fchendatud. Kontrollige Interneti-\u00fchendust ja proovige uuesti. Kui n\u00e4ete endiselt seda viga, olles v\u00f5rku \u00fchendatud, teavitage probleemist allpool."
+  },
+  "offline_error_short_msg": {
+    "message": "Vabandust, taotletud faili ei \u00f5nnestunud avada."
+  },
+  "opening_in_office_editing_mode": {
+    "message": "Avatakse Office'i muutmisre\u017eiimis"
+  },
+  "option_key": {
+    "message": "Valik"
+  },
+  "out_of_memory_error_msg": {
+    "message": "Sulgege vaheleht ja avage fail uuesti v\u00f5i sulgege brauseris muud vahelehed. Probleemi p\u00fcsimisel teavitage probleemist allpool."
+  },
+  "out_of_memory_error_short_msg": {
+    "message": "Kahjuks ei ole piisavalt m\u00e4lu."
+  },
+  "page_count_label": {
+    "message": "Lehed"
+  },
+  "partial_cell_merge_error_msg": {
+    "message": "Ei saa muuta osa liidetud lahtrist."
+  },
+  "partial_cell_merge_error_short_msg": {
+    "message": "Viga"
+  },
+  "permission_fail_msg": {
+    "message": "Teil puudub selle faili muutmiseks luba. V\u00e4rskendage lube ja proovige uuesti."
+  },
+  "point_ocm_promo_conversion_msg": {
+    "message": "Saate muuta ja salvestada Office'i faile otse rakenduses Esitlused. Kui soovite kutsuda teisi kasutajaid faili muutma ja kommenteerima, siis salvestage see Google'i esitluste failina. V\u00f5ite igal ajal minna tagasi originaalvormingule."
+  },
+  "point_ocm_promo_office_editing_mode_msg": {
+    "message": "Saate n\u00fc\u00fcd Office'i faile muuta ja salvestada otse rakenduses Google'i esitlused. Selleks et kutsuda teisi reaalajas faili muutma v\u00f5i kommentaare lisama, laadige see fail \u00fcles Google Drive'i. Selle faili vorming ei muutu."
+  },
+  "point_printing_warning_msg": {
+    "message": "Tegeleme probleemi lahendamisega."
+  },
+  "point_printing_warning_short_msg": {
+    "message": "Praegu saab printida ainult slaidi, mida vaatate."
+  },
+  "point_share_promo_conversion_msg": {
+    "message": "Kas \u00fcritate seda esitlust jagada? Selleks et kutsuda teisi seda koos teiega muutma, teisendage see Google'i esitluste failiks."
+  },
+  "point_share_promo_office_editing_mode_msg": {
+    "message": "Saate n\u00fc\u00fcd Office'i faile muuta ja salvestada otse rakenduses Google'i esitlused. Selleks et kutsuda teisi reaalajas faili muutma v\u00f5i kommentaare lisama, laadige see fail \u00fcles Google Drive'i. Selle faili vorming ei muutu."
+  },
+  "pointtogglebullet_aria_spoken_word": {
+    "message": "t\u00e4pploend"
+  },
+  "pointtogglenumber_aria_spoken_word": {
+    "message": "numberloend"
+  },
+  "present_button": {
+    "message": "Esita"
+  },
+  "pressed": {
+    "message": "Vajutatud"
+  },
+  "print_aria_spoken_word": {
+    "message": "prindi"
+  },
+  "qowt_doc_mismatch_text": {
+    "message": "Vormindamise ajal ilmnes dokumendis viga.\n\nMuudatuste taastamiseks laadige leht uuesti."
+  },
+  "qowt_doc_mismatch_title": {
+    "message": "Oih!"
+  },
+  "qowt_hyperlink_activate_short_key": {
+    "message": "Lingi aktiveerimiseks vajutage korraga klahvi ALT ja sisestusklahvi."
+  },
+  "qowt_hyperlink_dialog": {
+    "message": "H\u00fcperlink"
+  },
+  "qowt_hyperlink_dialog_message_text": {
+    "message": "Ava link:"
+  },
+  "qowt_modal_confirm_dialog_affirmative_button": {
+    "message": "OK"
+  },
+  "qowt_modal_confirm_dialog_negative_button": {
+    "message": "T\u00fchista"
+  },
+  "qowt_modal_dialog_close_button": {
+    "message": "Sule"
+  },
+  "qowt_modal_dialog_coming_soon_title": {
+    "message": "Peagi tulekul!"
+  },
+  "qowt_modal_dialog_link_text": {
+    "message": "Lisateave"
+  },
+  "qowt_modal_dialog_ok_button": {
+    "message": "OK"
+  },
+  "qowt_modal_dialog_reload_button": {
+    "message": "Laadi uuesti"
+  },
+  "qowt_modal_dialog_textbox_editing_description": {
+    "message": "Kahjuks ei toetata tekstikastides teksti muutmist."
+  },
+  "qowt_modal_dialog_textbox_editing_link": {
+    "message": "Lahendage see probleem!"
+  },
+  "qowt_modal_info_dialog_affirmative_button": {
+    "message": "OK"
+  },
+  "qowt_modal_multi_choice_remember_choice": {
+    "message": "J\u00e4ta valik meelde"
+  },
+  "qowt_modal_query_dialog_affirmative_button": {
+    "message": "Jah"
+  },
+  "qowt_modal_query_dialog_negative_button": {
+    "message": "Ei"
+  },
+  "qowt_modal_query_dialog_reload_button": {
+    "message": "Laadi uuesti"
+  },
+  "qowt_modal_single_choice_remember_choice": {
+    "message": "\u00c4ra tuleta rohkem meelde"
+  },
+  "read_only": {
+    "message": "Kirjutuskaitstud"
+  },
+  "redo_aria_spoken_word": {
+    "message": "tee uuesti"
+  },
+  "right_pointed_submenu": {
+    "message": "Parem kursor alammen\u00fc\u00fcga"
+  },
+  "save_aria_spoken_word": {
+    "message": "salvesta"
+  },
+  "save_now": {
+    "message": "Salvesta kohe"
+  },
+  "security_error_msg": {
+    "message": "Kui viga ilmneb korduvalt, teatage allpool probleemist."
+  },
+  "security_error_short_msg": {
+    "message": "Oih! Taotletud faili ei \u00f5nnestunud avada. Praegu ei toeta me failide avamist inkognito re\u017eiimis. Avage fail tavare\u017eiimis."
+  },
+  "selected": {
+    "message": "Valitud"
+  },
+  "set_sheet_info_error_msg": {
+    "message": "Lehe nime v\u00e4rskendamisel ilmnes viga"
+  },
+  "share_button": {
+    "message": "Jaga"
+  },
+  "share_promo_conversion_shortmsg": {
+    "message": "Muutmine koos teistega"
+  },
+  "share_promo_office_editing_mode_shortmsg": {
+    "message": "Jaga teistega"
+  },
+  "sheet_delete_column_error_msg": {
+    "message": "Vabandust. Veeru kustutamisel tekkis viga. Proovige uuesti."
+  },
+  "sheet_delete_row_error_msg": {
+    "message": "Vabandust. Rea kustutamisel tekkis viga. Proovige uuesti."
+  },
+  "sheet_format_cells_error_msg": {
+    "message": "Ilmnes vormindamisviga. Proovige uuesti."
+  },
+  "sheet_insert_column_error_msg": {
+    "message": "Vabandust. Veeru lisamisel tekkis viga. Proovige uuesti."
+  },
+  "sheet_insert_column_exceed_error_msg": {
+    "message": "Kahjuks ei saa te sellesse arvutustabelisse enam veerge lisada, kuna toetatakse ainult 256 veergu."
+  },
+  "sheet_insert_column_exceed_error_short_msg": {
+    "message": "Vabandust!"
+  },
+  "sheet_insert_row_error_msg": {
+    "message": "Vabandust. Rea lisamisel tekkis viga. Proovige uuesti."
+  },
+  "sheet_insert_row_exceed_error_msg": {
+    "message": "Kahjuks ei saa te sellesse arvutustabelisse enam ridu lisada, kuna toetatakse ainult 65536 rida."
+  },
+  "sheet_insert_row_exceed_error_short_msg": {
+    "message": "Vabandust!"
+  },
+  "sheet_ocm_promo_conversion_msg": {
+    "message": "Saate muuta ja salvestada Office'i faile otse rakenduses Arvutustabelid. Kui soovite kutsuda teisi kasutajaid faili muutma ja kommenteerima, siis salvestage see Google'i arvutustabelite failina. V\u00f5ite igal ajal minna tagasi originaalvormingule."
+  },
+  "sheet_ocm_promo_office_editing_mode_msg": {
+    "message": "Saate n\u00fc\u00fcd Office'i faile muuta ja salvestada otse rakenduses Google'i arvutustabelid. Selleks et kutsuda teisi reaalajas faili muutma v\u00f5i kommentaare lisama, laadige see fail \u00fcles Google Drive'i. Selle faili vorming ei muutu."
+  },
+  "sheet_set_cell_content_invalid_error_msg": {
+    "message": "Sisestatud valemis oli viga. Parandage viga."
+  },
+  "sheet_share_promo_conversion_msg": {
+    "message": "Kas \u00fcritate seda arvutustabelit jagada? Selleks et kutsuda teisi seda koos teiega muutma, teisendage see Google'i arvutustabelite failiks."
+  },
+  "sheet_share_promo_office_editing_mode_msg": {
+    "message": "Saate n\u00fc\u00fcd Office'i faile muuta ja salvestada otse rakenduses Google'i arvutustabelid. Selleks et kutsuda teisi reaalajas faili muutma v\u00f5i kommentaare lisama, laadige see fail \u00fcles Google Drive'i. Selle faili vorming ei muutu."
+  },
+  "sheet_sort_error_title": {
+    "message": "Lahtrite vahemiku sortimisel ilmnes viga."
+  },
+  "sheet_sort_failure_msg": {
+    "message": "Lahtrite vahemiku sortimisel ilmnes viga."
+  },
+  "sheet_sort_merged_cell_error": {
+    "message": "Omavahel liidetud lahtreid ei saa sortida."
+  },
+  "sheet_sort_merged_cell_error_title": {
+    "message": "Lahtrite vahemiku sortimisel ilmnes viga."
+  },
+  "sheet_sort_one_cell_error": {
+    "message": "Valige sortimiseks v\u00e4hemalt kaks lahtrit."
+  },
+  "sheet_sort_one_cell_error_title": {
+    "message": "Lahtrite vahemiku sortimisel ilmnes viga."
+  },
+  "shift_key": {
+    "message": "T\u00f5stuklahv"
+  },
+  "shortcut": {
+    "message": "Otsetee $1",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "sign_in": {
+    "message": "Logi sisse"
+  },
+  "slash_key": {
+    "message": "Kaldkriips"
+  },
+  "something_not_right": {
+    "message": "Midagi on valesti"
+  },
+  "storage_quota_exceed_error_msg": {
+    "message": "Sulgege Chrome'is k\u00f5ik avatud Office'i dokumendid ja proovige uuesti. Kui probleem ei lahene, teatage sellest allpool."
+  },
+  "storage_quota_exceed_error_short_msg": {
+    "message": "Faili ei saanud avada."
+  },
+  "strikethrough_aria_spoken_word": {
+    "message": "l\u00e4bikriipsutus"
+  },
+  "style_aria_spoken_word": {
+    "message": "stiili ripploend"
+  },
+  "submenu_spoken_text": {
+    "message": "$1 $2 $3 $4",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      },
+      "2": {
+        "content": "$2"
+      },
+      "3": {
+        "content": "$3"
+      },
+      "4": {
+        "content": "$4"
+      }
+    }
+  },
+  "temporary_unable_to_open_error_msg": {
+    "message": "Proovige hiljem uuesti. Kui probleem ei lahene, teatage sellest allpool."
+  },
+  "temporary_unable_to_open_error_short_msg": {
+    "message": "Kahjuks ei saa ajutiselt faili avada."
+  },
+  "textaligncenter_aria_spoken_word": {
+    "message": "joonda tekst keskele"
+  },
+  "textalignjustify_aria_spoken_word": {
+    "message": "r\u00f6\u00f6pjoonda tekst"
+  },
+  "textalignleft_aria_spoken_word": {
+    "message": "joonda tekst vasakule"
+  },
+  "textalignright_aria_spoken_word": {
+    "message": "joonda tekst paremale"
+  },
+  "textcolor_aria_spoken_word": {
+    "message": "teksti v\u00e4rvi ripploend"
+  },
+  "textual_edit_error_msg": {
+    "message": "Vormindamise ajal ilmnes dokumendis viga.\n\nMuudatuste taastamiseks laadige leht uuesti."
+  },
+  "textual_edit_error_short_msg": {
+    "message": "Oih!"
+  },
+  "title_error_msg_for_merge_cells": {
+    "message": "Ilmnes probleem"
+  },
+  "title_msg_merging_multiple_cells_with_text": {
+    "message": "T\u00e4helepanu!"
+  },
+  "togglebulleted_aria_spoken_word": {
+    "message": "t\u00e4pploend"
+  },
+  "togglenumbered_aria_spoken_word": {
+    "message": "numberloend"
+  },
+  "togglezoom_aria_spoken_word": {
+    "message": "vaheta suumi"
+  },
+  "tooltip_background_color": {
+    "message": "T\u00e4itev\u00e4rv"
+  },
+  "tooltip_bold": {
+    "message": "Paks"
+  },
+  "tooltip_border": {
+    "message": "\u00c4\u00e4rised"
+  },
+  "tooltip_border_all": {
+    "message": "K\u00f5ik \u00e4\u00e4rised"
+  },
+  "tooltip_border_bottom": {
+    "message": "Alumised \u00e4\u00e4rised"
+  },
+  "tooltip_border_horizontal": {
+    "message": "Horisontaalsed \u00e4\u00e4rised"
+  },
+  "tooltip_border_inner": {
+    "message": "Sisemised \u00e4\u00e4rised"
+  },
+  "tooltip_border_left": {
+    "message": "Vasakpoolsed \u00e4\u00e4rised"
+  },
+  "tooltip_border_none": {
+    "message": "\u00c4\u00e4risteta"
+  },
+  "tooltip_border_outer": {
+    "message": "V\u00e4limised \u00e4\u00e4rised"
+  },
+  "tooltip_border_right": {
+    "message": "Parempoolsed \u00e4\u00e4rised"
+  },
+  "tooltip_border_top": {
+    "message": "\u00dclemised \u00e4\u00e4rised"
+  },
+  "tooltip_border_vertical": {
+    "message": "Vertikaalsed \u00e4\u00e4rised"
+  },
+  "tooltip_cell_align": {
+    "message": "Joonda lahtrid"
+  },
+  "tooltip_cell_h_align_center": {
+    "message": "Horisontaaljoonda keskele"
+  },
+  "tooltip_cell_h_align_left": {
+    "message": "Horisontaaljoonda vasakule"
+  },
+  "tooltip_cell_h_align_right": {
+    "message": "Horisontaaljoonda paremale"
+  },
+  "tooltip_cell_v_align_bottom": {
+    "message": "Vertikaaljoonda alla"
+  },
+  "tooltip_cell_v_align_center": {
+    "message": "Vertikaaljoonda keskele"
+  },
+  "tooltip_cell_v_align_top": {
+    "message": "Vertikaaljoonda \u00fcles"
+  },
+  "tooltip_download": {
+    "message": "Laadi alla"
+  },
+  "tooltip_download_original": {
+    "message": "Laadi alla originaal"
+  },
+  "tooltip_dropdown_init_add_shape": {
+    "message": "Kujund"
+  },
+  "tooltip_fill_color": {
+    "message": "Teksti v\u00e4rv"
+  },
+  "tooltip_font_face": {
+    "message": "Font"
+  },
+  "tooltip_font_size": {
+    "message": "Fondi suurus"
+  },
+  "tooltip_highlight_color": {
+    "message": "Esilet\u00f5stu v\u00e4rv"
+  },
+  "tooltip_init_add_shape": {
+    "message": "Tekstikast"
+  },
+  "tooltip_italic": {
+    "message": "Kursiiv"
+  },
+  "tooltip_merge": {
+    "message": "Liida lahtrid"
+  },
+  "tooltip_merge_dropdown": {
+    "message": "Vali liitmise t\u00fc\u00fcp \u2026"
+  },
+  "tooltip_modify_shape_fill_color": {
+    "message": "T\u00e4itev\u00e4rv"
+  },
+  "tooltip_modify_shape_outline_color": {
+    "message": "Joone v\u00e4rv"
+  },
+  "tooltip_modify_shape_outline_style": {
+    "message": "Kriipsjoon"
+  },
+  "tooltip_modify_shape_outline_width": {
+    "message": "Joone paksus"
+  },
+  "tooltip_move_slide": {
+    "message": "Teisalda $1 slaid(i)",
+    "placeholders": {
+      "1": {
+        "content": "$1"
+      }
+    }
+  },
+  "tooltip_point": {
+    "message": "Esitluste koduleht"
+  },
+  "tooltip_point_toggle_bullet": {
+    "message": "T\u00e4pploend"
+  },
+  "tooltip_point_toggle_number": {
+    "message": "Numberloend"
+  },
+  "tooltip_presentation": {
+    "message": "Esitlus"
+  },
+  "tooltip_print": {
+    "message": "Prindi"
+  },
+  "tooltip_redo": {
+    "message": "Tee uuesti"
+  },
+  "tooltip_share": {
+    "message": "Jaga"
+  },
+  "tooltip_share_for_macroenabledfiles": {
+    "message": "Lubatud makrotega faile saab jagada ainult Google Drive\u2019ist"
+  },
+  "tooltip_sheet": {
+    "message": "Arvutustabelite koduleht"
+  },
+  "tooltip_strikethrough": {
+    "message": "L\u00e4bikriipsutus"
+  },
+  "tooltip_style": {
+    "message": "Stiilid"
+  },
+  "tooltip_text_align_center": {
+    "message": "Keskele"
+  },
+  "tooltip_text_align_justify": {
+    "message": "R\u00f6\u00f6pjoonda"
+  },
+  "tooltip_text_align_left": {
+    "message": "Vasakjoonda"
+  },
+  "tooltip_text_align_right": {
+    "message": "Paremjoonda"
+  },
+  "tooltip_text_color": {
+    "message": "Teksti v\u00e4rv"
+  },
+  "tooltip_toggle_bulleted": {
+    "message": "T\u00e4pploend"
+  },
+  "tooltip_toggle_numbered": {
+    "message": "Numberloend"
+  },
+  "tooltip_toggle_zoom": {
+    "message": "L\u00fclita suum sisse/v\u00e4lja"
+  },
+  "tooltip_underline": {
+    "message": "Allakriipsutus"
+  },
+  "tooltip_undo": {
+    "message": "V\u00f5ta tagasi"
+  },
+  "tooltip_word": {
+    "message": "Dokumentide koduleht"
+  },
+  "tooltip_wrap_text": {
+    "message": "Murra teksti ridu"
+  },
+  "tooltip_zoom_in": {
+    "message": "Suumi sisse"
+  },
+  "tooltip_zoom_out": {
+    "message": "Suumi v\u00e4lja"
+  },
+  "try_again": {
+    "message": "Proovi uuesti"
+  },
+  "unable_to_execute_msg": {
+    "message": "Dokumenti ei saa avada."
+  },
+  "underline_aria_spoken_word": {
+    "message": "allakriipsutus"
+  },
+  "undo_aria_spoken_word": {
+    "message": "v\u00f5ta tagasi"
+  },
+  "unmerge_aria_spoken_word": {
+    "message": "t\u00fchista liitmine"
+  },
+  "unsaved_changes": {
+    "message": "Salvestamata muudatused"
+  },
+  "unsaved_changes_warning": {
+    "message": "Failis on salvestamata muudatusi. Kui lahkute lehelt ilma salvestamata, siis l\u00e4heb t\u00f6\u00f6 j\u00e4\u00e4davalt kaotsi."
+  },
+  "unsupported_file_format_error_details_p1": {
+    "message": "Kahjuks sisaldab fail Microsoft\u00ae Office 95 v\u00f5i varasema versiooni sisu, mida ei saa avada."
+  },
+  "unsupported_file_format_error_details_p2": {
+    "message": "Kui soovite teisendada faili Google'i dokumendiks, kl\u00f5psake alloleval lingil."
+  },
+  "unsupported_file_format_error_title": {
+    "message": "Oih!"
+  },
+  "unsupported_link_message": {
+    "message": "Kahjuks ei toetata praegu seda t\u00fc\u00fcpi URL-e."
+  },
+  "up_key": {
+    "message": "\u00dcles"
+  },
+  "updated_shortcut_message": {
+    "message": "Oleme v\u00e4rskendanud oma klaviatuuri otseteid, et need k\u00f5igis Google'i dokumentide toodetes \u00fchesuguseks muuta. V\u00e4rskendatud otseteid saab vaadata jaotises Abi."
+  },
+  "updated_shortcut_title": {
+    "message": "V\u00e4rskendatud klaviatuuri otseteed"
+  },
+  "uploading_to_drive_for_office_editing_mode_point": {
+    "message": "Laaditakse \u00fcles Drive'i ja avatakse rakenduses Esitlused"
+  },
+  "uploading_to_drive_for_office_editing_mode_sheet": {
+    "message": "Laaditakse \u00fcles Drive'i ja avatakse rakenduses Arvutustabelid"
+  },
+  "uploading_to_drive_for_office_editing_mode_word": {
+    "message": "Laaditakse \u00fcles Drive'i ja avatakse rakenduses Dokumendid"
+  },
+  "uploading_to_drive_msg_for_point": {
+    "message": "Laaditakse \u00fcles Drive'i ja avatakse rakenduses Google'i esitlused."
+  },
+  "uploading_to_drive_msg_for_sheet": {
+    "message": "Laaditakse \u00fcles Drive'i ja avatakse rakenduses Google'i arvutustabelid."
+  },
+  "uploading_to_drive_msg_for_word": {
+    "message": "Laaditakse \u00fcles Drive'i ja avatakse rakenduses Google'i dokumendid."
+  },
+  "version_info_msg": {
+    "message": "Teie Office'i \u00fchilduvusre\u017eiimi versioon on"
+  },
+  "word_binary_upsave_learnmore": {
+    "message": "Lisateave"
+  },
+  "word_binary_upsave_msg": {
+    "message": "See fail on toetamata vormingus. Selle salvestamiseks vajame teie luba selle teisendamiseks uuemasse failivormingusse. Teie algset faili see ei m\u00f5juta."
+  },
+  "word_binary_upsave_shortmsg": {
+    "message": "Dokumendi v\u00e4rskendamine"
+  },
+  "word_count_label": {
+    "message": "S\u00f5nad"
+  },
+  "word_count_title": {
+    "message": "S\u00f5nade arv"
+  },
+  "word_ocm_promo_conversion_msg": {
+    "message": "Saate muuta ja salvestada Office'i faile otse rakenduses Dokumendid. Kui soovite kutsuda teisi kasutajaid faili muutma ja kommenteerima, siis salvestage see Google'i dokumentide failina. V\u00f5ite igal ajal minna tagasi originaalvormingule."
+  },
+  "word_ocm_promo_office_editing_mode_msg": {
+    "message": "Saate n\u00fc\u00fcd Office'i faile muuta ja salvestada otse rakenduses Google'i dokumendid. Selleks et kutsuda teisi reaalajas faili muutma v\u00f5i kommentaare lisama, laadige see fail \u00fcles Google Drive'i. Selle faili vorming ei muutu."
+  },
+  "word_share_promo_conversion_msg": {
+    "message": "Kas \u00fcritate seda dokumenti jagada? Selleks et kutsuda teisi seda koos teiega muutma, teisendage see Google'i dokumentide failiks."
+  },
+  "working_in_basic_editor_banner_text": {
+    "message": "Kasutate Microsofti failide jaoks lihtredaktori re\u017eiimi"
+  },
+  "word_share_promo_office_editing_mode_msg": {
+    "message": "Saate n\u00fc\u00fcd Office'i faile muuta ja salvestada otse rakenduses Google'i dokumendid. Selleks et kutsuda teisi reaalajas faili muutma v\u00f5i kommentaare lisama, laadige see fail \u00fcles Google Drive'i. Selle faili vorming ei muutu."
+  },
+  "wraptext_aria_spoken_word": {
+    "message": "murra teksti ridu"
+  },
+  "zoomin_aria_spoken_word": {
+    "message": "suurenda"
+  },
+  "zoomout_aria_spoken_word": {
+    "message": "v\u00e4henda"
+  }
+}

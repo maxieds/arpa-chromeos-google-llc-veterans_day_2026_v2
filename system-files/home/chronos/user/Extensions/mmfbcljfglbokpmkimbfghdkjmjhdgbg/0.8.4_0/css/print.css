@@ -1,0 +1,19 @@
+/* Show only the text editor in print mode */
+
+
+header, #sidebar, .cm-gutters, .cm-cursorLayer {
+  display: none !important;
+}
+
+.cm-matchingBracket {
+  border: none !important;
+}
+
+#window-container, #main-container {
+    display: initial !important;
+}
+
+#editor {
+    position: initial !important;
+}
+

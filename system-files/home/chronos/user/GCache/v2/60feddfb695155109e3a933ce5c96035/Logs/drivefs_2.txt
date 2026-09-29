@@ -1,0 +1,780 @@
+-------------------------------------
+drivefs log started
+version: 126.0.5
+changelist 922270714 with baseline 916154769 in a mint client based on //depot/branches/drive_fs_release_branch/916154769.1/google3
+-------------------------------------
+2026-08-09T19:21:57.339ZI [6:log_writer_thread] instrumentation.cc:117:OpenLogFileInDirectory Logging to /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/Logs/drivefs.txt
+2026-08-09T19:21:57.341ZI [3:drivefs] lifecycle_observer.cc:38:FlushDecoreEvents Recording decore event: 80326
+2026-08-09T19:21:57.341ZI [3:drivefs] lifecycle_observer.cc:42:FlushDecoreEvents Recording decore summarized metric 80381 with (2056) values.
+2026-08-09T19:21:57.341ZI [3:drivefs] lifecycle_observer.cc:42:FlushDecoreEvents Recording decore summarized metric 80380 with (1219) values.
+2026-08-09T19:21:57.341ZI [3:drivefs] lifecycle_observer.cc:42:FlushDecoreEvents Recording decore summarized metric 80378 with (9823) values.
+2026-08-09T19:21:57.341ZI [3:drivefs] lifecycle_observer.cc:42:FlushDecoreEvents Recording decore summarized metric 80379 with (16849) values.
+2026-08-09T19:21:57.341ZI [3:drivefs] drive_cloud_store_provider.cc:42:CreateDriveCloudStore Using Drive API v2
+2026-08-09T19:21:57.341ZI [3:drivefs] curl_api.cc:1406:Create SSL verification with CAcerts path: /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:21:57.341ZI [3:drivefs] curl_api.cc:1406:Create SSL verification with CAcerts path: /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:21:57.341ZI [3:drivefs] curl_api.cc:1406:Create SSL verification with CAcerts path: /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:21:57.349ZI [3:drivefs] curl_api.cc:1406:Create SSL verification with CAcerts path: /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:21:57.349ZI [3:drivefs] portable_phenotype_client_impl.cc:104:UNKNOWN Registering configuration package drive_fs_ph with version 922270714
+2026-08-09T19:21:57.349ZI [3:drivefs] portable_phenotype_client_impl.cc:132:UNKNOWN Successfully registered configuration package: drive_fs_ph (0 ms); starting periodic syncs
+2026-08-09T19:21:57.349ZI [3:drivefs] portable_phenotype_client_impl.cc:188:UNKNOWN Starting periodic syncs
+2026-08-09T19:21:57.349ZI [3:drivefs] portable_phenotype_client_impl.cc:104:UNKNOWN Registering configuration package apps.drive.cello.desktop with version 922270714
+2026-08-09T19:21:57.349ZI [3:drivefs] portable_phenotype_client_impl.cc:132:UNKNOWN Successfully registered configuration package: apps.drive.cello.desktop (0 ms); starting periodic syncs
+2026-08-09T19:21:57.349ZI [3:drivefs] portable_phenotype_client_impl.cc:188:UNKNOWN Starting periodic syncs
+2026-08-09T19:21:57.350ZI [3:drivefs] portable_phenotype_client_impl.cc:188:UNKNOWN Starting periodic syncs
+2026-08-09T19:21:57.350ZI [3:drivefs] global_experiment_fetcher.cc:260:SignIn Registered account os_account with phenotype client.
+2026-08-09T19:21:57.350ZI [7:Phenotype Background] portable_phenotype_client_impl.cc:212:UNKNOWN Syncing now if stale
+2026-08-09T19:21:57.350ZI [3:drivefs] portable_phenotype_client_impl.cc:188:UNKNOWN Starting periodic syncs
+2026-08-09T19:21:57.350ZE [3:drivefs] account_dir.cc:157:UNKNOWN NOT_FOUND: Cannot open file: No such file or directory [type.googleapis.com/drive.ds.Status='UNAVAILABLE_RESOURCE']
+=== Source Location Trace: === 
+apps/drive/cello/util/file_system.cc:500
+apps/drive/cello/util/file_system.cc:1350
+2026-08-09T19:21:57.357ZE [3:drivefs] metrics_recorder_base.h:634:UNKNOWN INTERNAL: Metrics database is not initialized.
+=== Source Location Trace: === 
+apps/drive/cello/instrumentation/metrics_transport.cc:335
+2026-08-09T19:21:57.357ZI [3:drivefs] stream.cc:780:InitCelloFS new_user=true
+2026-08-09T19:21:57.357ZI [3:drivefs] stream.cc:892:InitCelloFS Content cache is in App Data directory, marking as hidden got status OK
+2026-08-09T19:21:57.358ZI [7:Phenotype Background] phenotype_http_client.cc:227:RefreshAccountIdsAndTokens [RefreshAccountIdsAndTokens] committed_accounts_ ordering: os_account
+2026-08-09T19:21:57.358ZI [3:drivefs] cello_fs.cc:435:InitInternal Content cache at: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/content_cache
+2026-08-09T19:21:57.358ZI [3:drivefs] cello_fs.cc:440:InitInternal Thumbnail cache at: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/thumbnails_cache
+2026-08-09T19:21:57.358ZI [3:drivefs] cello_fs.cc:453:InitInternal Sqlite DB at: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/metadata_sqlite_db
+2026-08-09T19:21:57.358ZI [7:Phenotype Background] phenotype_impl.cc:497:UNKNOWN ShouldSync: Last sync was only 7 seconds ago
+2026-08-09T19:21:57.358ZI [7:Phenotype Background] phenotype_impl.cc:804:UNKNOWN PerformSync: No reason to sync. Returning kOk
+2026-08-09T19:21:57.358ZI [7:Phenotype Background] portable_phenotype_client_impl.cc:212:UNKNOWN Syncing now if stale
+2026-08-09T19:21:57.359ZI [3:drivefs] global_experiment_fetcher.cc:398:GetExperimentSnapshot Getting experiment snapshot for account os_account
+2026-08-09T19:21:57.359ZI [7:Phenotype Background] phenotype_http_client.cc:227:RefreshAccountIdsAndTokens [RefreshAccountIdsAndTokens] committed_accounts_ ordering: os_account
+2026-08-09T19:21:57.359ZI [7:Phenotype Background] phenotype_impl.cc:497:UNKNOWN ShouldSync: Last sync was only 7 seconds ago
+2026-08-09T19:21:57.359ZI [7:Phenotype Background] phenotype_impl.cc:804:UNKNOWN PerformSync: No reason to sync. Returning kOk
+2026-08-09T19:21:57.372ZI [3:drivefs] global_experiment_fetcher.cc:447:DiffAndCacheUpdatedCoreFeatureConfig CoreFeatureConfig for account os_account has changed.  Diff: {
+added: deprecated: false
+added: starred_virtual_folder: false
+added: recent_virtual_folder: false
+added: gcm_web_api_key: "AIzaSyDuIQNPdd-Sd_a5PvQzY_-63DCVK0n0jFc"
+added: changelog_polling_interval_ms: 10000
+added: metadata_cache_reset_counter: 8
+added: push_notifications: true
+added: spotlight: true
+added: max_operation_batch_size: 15
+added: resumable_upload_minimum_size_bytes: 104857600
+added: max_changelog_result_size: 1000
+added: lost_and_found: true
+added: fetch_task_throttle_time_ms: 0
+added: temporary_items_virtual_folder: true
+added: fetch_task_backoff_start_ms: 2000
+added: fetch_task_backoff_limit_ms: 600000
+added: fetch_task_backoff_multiplier: 2
+added: push_delay_ms: 0
+added: max_parallel_background_cloud_queries: 3
+added: max_query_page_size: 1000
+added: structured_log_level: 3
+added: max_indexer_parallel_cloud_queries: 1
+added: content_cache_max_kbytes: 1000000000
+added: min_local_free_space_for_writes: 512000
+added: initial_content_cache_scan_delay_msec: 120000
+added: fcm_token_ttl_secs: 604800
+added: crash_on_failed_thread_checker_assert: true
+added: allow_windows_system_user_access: false
+added: max_parallel_downloads_per_file: 5
+added: run_cloud_query_on_change_notification: false
+added: stale_fetch_threshold_msec: 2500
+added: two_level_folder_prefetch: false
+added: max_parallel_push_task_instances: 15
+added: emm_support: false
+added: emm_max_start_up_delay_ms: 3000
+added: emm_check_interval_ms: 10800000
+added: min_duration_msec_between_evictions: 10000
+added: min_parallel_second_level_cloud_queries: 1
+added: emm_uri: "https://gem-pa.googleapis.com/v1/"
+added: fetch_content_bytes_before_cancel_percent_multiplier: 500
+added: min_bytes_saved_to_split_request: 9223372036854775807
+added: opendir_timeout_ms: 0
+added: supply_json_gdoc_content: false
+added: content_cache_capacity_percentage: 20
+added: async_dokan_reply_thread_count: 20
+added: changelog_backup_poll_interval_ms: 11111000
+added: dokan_dispatch_monitor_check_ms: 10000
+added: dokan_dispatch_monitor_warn_ms: 60000
+added: sqlite_normal_transaction_sync: true
+added: sqlite_autocheckpoint_page_count: 1000
+added: finder_process_names: "DesktopServicesHelper"
+added: emm_secondary_identifier: false
+added: crash_on_cello_assert: false
+added: slow_operation_threshold_sec: 20
+added: shortcuts_permission_denied_retry_interval_ms: 3600000
+added: allow_subscription_task: true
+added: resubscribe_retry_interval_msec: 14400000
+added: content_cache_reset_evictable_files_counter: 0
+added: dokan_slow_operations_per_minidump: 0
+added: allowed_new_gdoc_file_name_pattern: ".*Google Docs.*\\.gdoc|.*Google Sheets.*\\.gsheet|.*Google Slides.*\\.gslides"
+added: reset_zeroes_largest_change_id: false
+added: reset_file_content_on_revert_flow: true
+added: finder_create_file_handler_timeout_ms: 600000
+added: content_cache_reset_pinned_counter: 0
+added: dokan_assume_paging_io_is_locked: false
+added: account_update_sec: 86400
+added: test_value_0: 0
+added: test_value_1: 0
+added: test_value_2: 1
+added: test_value_3: 0
+added: test_value_4: 0
+added: test_value_5: 0
+added: test_value_6: 0
+added: test_value_7: 0
+added: test_value_8: 0
+added: dokan_allow_optimistic_release: true
+added: max_parallel_resumable_uploads: 1
+added: fcm_stream_max_idle_secs: 60
+added: fcm_connection_max_idle_secs: 60
+added: dokan_driver_request_batching: true
+added: handle_unauthorized_resumable_uploads: true
+added: dokan_driver_full_batching: false
+added: backoff_start_ms: 200
+added: backoff_limit_ms: 120000
+added: backoff_multiplier: 2
+added: content_cache_capacity_heuristic: EXCLUDE_NONEVICTABLE
+added: dokan_fcb_garbage_collection_interval_ms: 2000
+added: photos_extensions: "jpg,jpeg,jpe,png,gif,heif,heic,tif,tiff,webp,bmp,dib,ico,jp2,j2c,jpf,j2k,jpx,dng,raw,arw,crw,cr2,cr3,dcr,dc2,erf,kc2,kdc,k25,mdc,mef,mos,mrw,nef,nrw,orf,pef,qtk,raf,rdc,rw2,srf,srw,sr2,x3f,3fr"
+added: videos_extensions: "3g2,3gp,asf,avi,divx,flv,m2t,m2ts,m4v,mkv,mmv,mng,mod,mov,mp4,mpe,mpg,mpeg,mts,ogv,qt,tod,webm,wmv"
+added: photos_api_uri: "https://photosdata-pa.googleapis.com/$rpc/social.frontend.photos.spork.v1.PhotosSporkDataService"
+added: max_photo_size_bytes: 209715200
+added: max_video_size_bytes: 10737418240
+added: max_photo_size_pixels: 150000000
+added: photos_upload_uri: "https://photos.googleapis.com/data/upload/uploadmedia/drivefs"
+added: default_photos_upload_quality: ORIGINAL_QUALITY
+added: max_photo_cacheable_size_bytes: 524288000
+added: max_photo_total_cache_size_bytes: 1073741824
+added: max_photo_cache_proportion_percentage: 20
+added: photos_can_cache_files: true
+added: photos_local_file_deleted_after_days: 30
+added: restart_immediately_counter: 0
+added: photos_max_upload_retries_offline: 3
+added: prefetched_id_cache_reset_counter: 2
+added: photos_debounce_edit_time_ms: 1800000
+added: empty_file_with_open_handle_upload_delay_ms: 600000
+added: photos_delete_warning_learn_more: ""
+added: photos_too_large_learn_more: ""
+added: photos_mac_known_package_extensions: ""
+added: photos_catalog_sync_time_interval_ms: 900000
+added: min_photo_size_pixels: 256
+added: enable_photo_min_size_filtering: true
+added: support_local_create_shared_drives: false
+added: subscription_task_throttle_time_ms: 300000
+added: subscription_task_max_operations: 50
+added: virtual_folders_omit_spaces: false
+added: emm_get_serial_via_wmi_on_windows: true
+added: switchblade_dss_poll_interval_ms: 1800000
+added: switchblade_dss_pin_limit: 10000
+added: max_bytes_per_fetch_content_request: 268435456
+added: max_read_qps: 30
+added: max_write_qps: 30
+added: fuse_max_background: 0
+added: is_dasher_user: false
+added: lookup_spam_detection_time_unit_ms: 1000
+added: lookup_spam_detection_min_number_of_events: 100
+added: lookup_spam_detection_duration_ms: 30000
+added: open_spam_detection_time_unit_ms: 1000
+added: open_spam_detection_min_number_of_events: 100
+added: open_spam_detection_duration_ms: 600000
+added: spam_cpu_observation_time_ms: 5000
+added: raw_photos_extensions: ""
+added: photos_sync_media_catalog_items_per_page: 500
+added: photos_throttled_initial_backoff_ms: 1000
+added: photos_throttled_backoff_limit_ms: 300000
+added: photos_throttled_backoff_multiplier: 2
+added: photos_throttled_max_retries: 20
+added: photos_max_simultaneous_uploads: 3
+added: photos_hq_charged_expectation: true
+added: photos_mac_known_apl_extensions: ""
+added: enable_cse: false
+added: disable_sending_resource_keys: false
+added: disable_security_update_enabled_cloud_change: true
+added: g1_host_name: "one.google.com"
+added: photos_error_list_retry_interval_ms: 86400000
+added: folder_revisions_virtual_folder: false
+added: folder_revisions_folder_days: 30
+added: photos_extensions_to_ignore: "crdownload"
+added: content_cache_initial_disk_scan_retry_limit: 10
+added: photos_free_storage_retry_trigger_bytes: 104857600
+added: emm_send_device_encryption_status: false
+added: emm_send_device_screen_lock_status: false
+added: dokan_disable_file_network_physical_name_info: true
+added: file_provider_cache_reset_counter: 0
+added: content_cache_entry_cache_implementation: ARC
+added: crashing_assertion_ids: ""
+added: enable_dynamic_list_changes_page_sizing: true
+added: dynamic_page_sizing_min_page_size: 1
+added: dynamic_page_sizing_min_capacity_reached_count: 5
+added: dynamic_page_sizing_increase_frequency_threshold_ms: 600000
+added: dynamic_page_sizing_decrease_frequency_threshold_ms: 300000
+added: min_operation_batch_size: 2
+added: enable_smb_spotlight_rpc: true
+added: send_mtime_updates_to_drive: false
+added: send_atime_updates_to_drive: false
+added: smb_spotlight_rpc_finder_only: false
+added: file_provider_auto_split_delta_size: 10
+added: file_provider_list_batch_size_multiplier: 10
+added: file_provider_update_batch_size_multiplier: 10
+added: smb_unmount_with_diskutil: false
+added: smb_retry_unmount_after_server_stop: true
+added: dokan_pull_event_ahead: true
+added: file_provider_disabled_notification: true
+added: fcm_max_start_retries: -1
+added: fcm_max_purge_retries: 5
+added: fcm_poll_on_fatal_error: false
+added: fcm_connect_retry_interval_ms: -1
+added: show_lost_and_found_at_start: true
+added: fcm_credentials_generation: 0
+added: test_bool: false
+added: test_int: 3
+added: test_double: 3.4
+added: test_string: "default test string value"
+added: file_provider_disabled_learn_more_url: "https://support.google.com/drive/answer/12178485"
+added: file_provider_migration_learn_more_url: "https://support.google.com/drive/answer/12178485"
+added: file_provider_evict_on_content_change: false
+added: smb_ignore_patterns: "\\.sb-[0-9a-zA-Z]+-[0-9a-zA-Z]+"
+added: file_provider_cache_reset_non_owned_counter: 0
+added: file_provider_activation_max_retry_backoff_duration_ms: 180000
+added: file_provider_retry_on_wait_for_domain_init_failure: true
+added: detailed_metric_for_subscription_request: false
+added: smb_spotlight_page_size: 25
+added: smb_spotlight_max_results: 0
+added: smb_spotlight_name_criteria_enabled: true
+added: smb_spotlight_content_criteria_enabled: true
+added: smb_spotlight_content_type_criteria_enabled: true
+added: new_drive_fs_download_url: "https://www.google.com/drive/download"
+added: file_provider_content_cache_reset_gdoc_counter: 1
+added: set_fcm_token_server_ttl: false
+added: ignore_download_modify_during_initial_content_upload_if_cloud_and_local_content_match: true
+added: ignore_item_in_delete_changelog: false
+added: file_provider_vfs_based_fetch: false
+added: file_provider_delete_directory_hierarchy_batch_size: 2000
+added: file_provider_missing_symlink_target_resolver_max_batch_size: 100
+added: file_provider_delete_hidden_items_in_temp_counter: 0
+added: file_provider_cleanup_empty_temp_descendants: false
+added: copying_to_lost_and_found_backoff_start_ms: 0
+added: copying_to_lost_and_found_backoff_limit_ms: 0
+added: copying_to_lost_and_found_backoff_multiplier: 0
+added: file_provider_admin_enabled_check: false
+added: file_provider_working_set_compact_check_debounce_sec: 60
+added: file_provider_working_set_wal_sql_reset_ratio_size: 2
+added: file_provider_create_ignore_pattern: ".*\\.crdownload"
+added: file_provider_use_content_policy: false
+added: file_provider_delegate_pinned_download: false
+added: file_provider_cache_reset_pinned_counter: 0
+added: file_provider_migration_batch_size: 100
+added: open_operation_sampling_rate: 100
+added: file_provider_on_reconnect_kill_fp_daemon: false
+added: file_provider_on_remove_domain_remove_fav_lost_and_found: true
+added: max_unmount_time_sec: 120
+added: file_provider_remove_unknown_mount_conflict_domains: true
+added: photos_enable_hash_integrity_check: true
+added: file_provider_delete_unknown_trashed_items_counter: 1
+added: file_provider_lazily_keep_suggestions_content_updated: true
+added: use_lost_and_found_manager: false
+added: file_provider_restart_on_domain_unexpectedly_removed: true
+added: file_provider_get_metadata_remove_no_longer_existing_items: true
+added: file_provider_working_set_wal_sql_max_size: 104857600
+added: max_shared_drives_to_sync: 25
+added: enable_cache_size_limit_account_preference: true
+added: have_defaulted_flags: false
+added: file_provider_delete_placeholder_reimport_counter: 1
+added: file_provider_get_metadata_retrieve_cloud_items_from_ws: false
+added: file_provider_materialized_folders_counter: 0
+added: vfs_support_json_web_files_fetch: false
+added: file_provider_fail_reimport_redirect_my_drive: false
+added: file_provider_fail_non_reimport_redirect_my_drive: false
+added: file_provider_delete_multi_parenting_counter: 1
+added: file_provider_vfs_based_change: false
+added: file_provider_check_change_replays_eligibility: true
+added: apply_moves_to_delete_tree: true
+added: generate_conflicting_deletes_before_parent_creates: false
+added: abort_and_restart_for_conflicting_deletes: true
+added: file_provider_cache_reset_shared_drives_counter: 0
+added: file_provider_fix_missing_change_replays: false
+added: signout_backup_behavior: SIGNOUT_DISABLE_PURGE
+added: file_provider_enable_replay_items_changes_batch: true
+added: file_provider_max_concurrent_replay_changes: 100
+added: file_provider_retry_transient_failed_change_replay: true
+added: use_contacts_from_people_api: false
+added: customize_pending_uploads: true
+added: prompt_signout_for_inconsistent_local_state: true
+added: prompt_signout_interval_hours: 24
+added: signout_backup_behavior_for_lost_and_found: true
+added: test_boolean_flag: false
+added: test_string_flag: "GCL default test string value"
+added: detect_other_sync_app_in_mirror_root: true
+added: mirror_windows_ensure_mtime_accuracy: false
+added: send_error_report_at_startup: false
+added: min_duration_hours_between_error_reports_sent_at_startup: 24
+added: enable_stale_upsync_notifications: true
+added: stale_upsync_threshold_hours: 168
+added: differential_uploads: true
+added: diff_uploads_min_size_bytes: 10485760
+added: diff_uploads_max_size_bytes: 0
+added: diff_uploads_min_chunk_size_bytes: 0
+added: diff_uploads_max_chunk_size_bytes: 0
+added: generate_uploads_for_local_items_in_inconsistent_state: true
+added: win_arm64_platform_deprecated: ARM64_SUPPORTED
+added: win_arm64_platform_deprecated_url: "https://support.google.com/drive?p=arm64-beta"
+added: enable_resumable_uploads: false
+added: diff_uploads_min_bytes_saved: 0
+added: forwarded_request_for_diffing_size_limit: 10240
+added: enable_aggressive_differ_logging: false
+added: file_provider_support_long_utf8_names: false
+added: file_provider_cache_resetter_max_retry_ms: 0
+added: file_provider_wait_for_cloud_create_completion: false
+added: cloud_store_retry_count: 1
+added: file_provider_recover_cello_non_longer_known_parents: false
+added: file_provider_remove_hierarchies_on_folder_deletion: false
+added: poll_for_changes_debounce_interval_ms: 0
+added: attach_external_content_local_property_to_items_being_synced: false
+added: file_provider_working_set_skip_equal_items_update: false
+added: max_parallel_uploads_count: 16
+added: enable_unsynced_shared_drives: false
+added: file_provider_enable_external_content_transfers: false
+added: file_provider_recover_cello_non_longer_known_folders_change: false
+added: file_provider_temp_folders_reset_counter: 0
+added: file_provider_link_mdcr_with_cache_reset: false
+added: query_by_id_failure_invalidate_cache_enabled: true
+added: local_store_vacuum_enabled: true
+added: accept_language_header_for_account_disabled: false
+added: file_provider_check_cello_db_inode: false
+added: punctual_gracefully_retries: true
+added: file_provider_pending_upload_read_retry_duration_ms: 300000
+added: static_reflection_equals: false
+added: file_provider_string_search_expiration_time_ms: 300000
+added: file_provider_prevent_get_metadata_symlink_group_corruption: false
+added: item_field_checker_enabled: false
+added: move_old_lost_and_found_folder_under_new: false
+added: uploads_enabled: false
+added: uploads_failover_disabled: false
+added: revision_get_dark_launch_enabled: true
+added: revision_get_full_launch_enabled: true
+added: trigger_unsynced_property_clear_on_startup: false
+added: use_dedicated_simple_transport: true
+added: mdcr_after_cello_init: true
+added: file_provider_deny_gdrive_extension_rename: false
+added: suggest_unsync_shared_drives: false
+added: remove_root_when_cloud_move_causes_local_nesting_conflict: false
+added: uploads_diffing_header_enabled: true
+added: shared_drive_stats_days_tracked: 3
+added: shared_drive_stats_z_score_threshold: 2.5
+added: generate_cse_dark_launch_enabled: false
+added: generate_cse_launch_enabled: false
+added: cancel_trashed_downloads_on_close_enabled: false
+added: cloud_untrash_triggers_redownload: false
+added: bypass_page_limit_on_reconnect: true
+added: check_shared_drive_accessibility_before_subscribing: true
+added: http308_means_retryable_error: true
+added: shared_drive_outlier_change_replay_count_threshold: 500
+added: enable_fetch_thumbnail_handler: true
+added: enable_unpin_on_trash: false
+added: stop_double_writing_user_id: false
+added: record_changelog_relevance: true
+added: enable_observation_node_filtering_for_disconnected_roots: false
+added: dokan_dispatch_monitor_warning_minidump_percentage: 1
+}
+2026-08-09T19:21:57.372ZI [3:drivefs] global_experiment_fetcher.cc:379:GetAndCacheExperimentSnapshot CoreFeatureConfig changed for account os_account
+2026-08-09T19:21:57.372ZI [3:drivefs] global_features_manager.cc:513:HasCompositedGlobalConfigsChanged Effective global feature flags diff: {
+added: drive_dot: true
+added: share_dialog: true
+added: browser_auth_wait_for_client_timeout_ms: 300000
+added: pause_syncing_option: true
+added: bandwidth_throttling: true
+added: structured_logging: true
+added: disable_unified_buffer_cache: false
+added: context_menu_force_refresh_folder: false
+added: status_window_click_show_file_in_file_manager: true
+added: max_core_restarts_after_db_corruption: 10
+added: thread_stuck_threshold_sec: 0
+added: outlook_addin: false
+added: gui_autostart_option: true
+added: show_live_stream_frame_in_outlook_onboarding: false
+added: max_connection_idle_time_msec: 600000
+added: mojave_overlays_fix: false
+added: gui_reset_preferences_menu_option: true
+added: force_refresh_folder_normal_menu: false
+added: structured_log_max_file_size_kbytes: 5120
+added: structured_log_max_file_count: 30
+added: ask_to_copy_files_for_pending_uploads: true
+added: read_only_mode: false
+added: inform_users_of_pending_uploads: true
+added: same_content_dedupe_interval_ms: 600000
+added: dedupe_interval_ms: 2000
+added: support_status_notification: true
+added: deprecation_date: "2027-05-26"
+added: deprecation_warning_threshold: 30
+added: min_supported_os_version: "0.0.0"
+added: crash_oom_threshold_mb: 1048576
+added: allow_search: true
+added: finish_syncing_files_option: true
+added: add_shortcut_menu: true
+added: meet_outlook_addin: false
+added: meet_uri: "https://meetings.clients6.google.com/v1/spaces"
+added: spotlight_timestamp_fsctl_support: true
+added: meet_live_stream_info_uri: ""
+added: crash_throttle_percentage: 0
+added: file_revisions_virtual_folder: false
+added: unlocked_mac_getxattr_v2: false
+added: unlocked_mac_buf_unmap: true
+added: switchblade_dss: true
+added: reconnected_nas_polling_interval_seconds: 60
+added: use_mac_fileprovider: false
+added: trim_parents_during_cloud_merge: true
+added: trim_parents_during_commit: true
+added: create_gsuite_file: true
+added: file_provider_quick_access_polling_interval_sec: 43200
+added: show_quick_access_in_search_dialog: true
+added: multi_account_max_accounts: 4
+added: include_user_email_in_feedback: true
+added: slurp_poll_path_frequency_min: 240
+added: mac_smb_port: -1
+added: fileprovider_signal_debounce_ms: 250
+added: cancel_com_calls: true
+added: enable_file_provider_migration: true
+added: file_provider_quit_grace_period_ms: 0
+added: file_provider_add_items_to_ws_on_listing: true
+added: smb_allowed: true
+added: logging_on_cello_thread_startup: false
+added: mac_smb_dialect_mode: 0
+added: local_file_reading_buffer_size: 8388608
+added: force_file_provider_materialization: true
+added: dokan_set_internal_file_index: true
+added: context_menu_create_editor_files: true
+added: file_provider_remove_domain_flush_timeout_ms: 300000
+added: file_revisions_file_provider: true
+added: max_file_provider_ipc_connections: 100
+added: mac_smb_nobrowse: true
+added: special_folder_change_notification: true
+added: soon_to_be_min_supported_os_version: "0.0.0"
+added: soon_to_be_unsupported_os_learn_more: "https://support.google.com/drive/answer/2375082"
+added: instrument_http_client: true
+added: show_offline_files_menu_option: true
+added: enable_mirror_roots_context: true
+added: use_cros_http_client: false
+added: com_api_thread_stuck_threshold_sec: 0
+added: num_metrics_batches_per_request: 70
+added: seconds_per_metrics_batch: 20
+added: enable_metrics: true
+added: metrics_store_reset_counter: 1
+added: max_metrics_per_event_code_per_batch: 200
+added: encrypt_and_upload: false
+added: mac_smb_mount_by_ip: true
+added: enable_mount_in_sidebar_setting: true
+added: allow_multiple_smb_connections: false
+added: persistent_smb_port_auto_selection: true
+added: file_provider_disabled_notification_interval_mins: 0
+added: enable_search_hot_key: true
+added: exception_enabled_apps: ".*"
+added: file_provider_mirror_switch_unpinned_item_batch_size: 2000
+added: file_provider_enable_ipc_root_symlink: true
+added: file_provider_pause_syncing_option: true
+added: file_provider_create_existing_file_id_succeeds: false
+added: file_provider_notify_mount_point_changed: true
+added: file_provider_notify_mount_point_changed_with_mirror: false
+added: file_provider_disable_moveout_user_interaction: false
+added: file_provider_show_migration_notification_based_on_volume: true
+added: confirm_quit_during_system_logout: false
+added: file_provider_handle_exact_existing_create_as_reimport: true
+added: file_provider_min_partial_read_size: 4294967296
+added: file_provider_enable_read_ahead: false
+added: file_provider_disable_movein_user_interaction: false
+added: switchblade_on_websockets: true
+added: mac_smb_nodatacache: true
+added: context_menu_show_create_new_shared_drive_dialog: true
+added: file_provider_retry_network_interrupted_fetch: true
+added: file_provider_resume_network_interrupted_push: true
+added: disable_non_static_file_provider_event_metrics: false
+added: nondownloadable_files_as_gdrive_files: true
+added: file_provider_exclude_from_sync_direct_create_trash: false
+added: file_provider_enable_deny_copy_activation_rule: true
+added: file_provider_enable_deny_shared_drive_root_manipulation: true
+added: encrypt_and_upload_folder: true
+added: max_status_source_locations_count_per_metric_event: 3
+added: anonymous_feedback_submit_url: "https://feedback-pa.googleapis.com/v1/feedback/products/1633926/web:anonymous_submit"
+added: anonymous_feedback_submit_api_key: "AIzaSyCejQEszExWuVHsgk8YElDTlbbrhzeRISc"
+added: directory_log_max_byte_size: 524288000
+added: nondownloadable_files_as_gdrive_files_migration: true
+added: survey_configurations: ""
+added: min_duration_hours_between_any_surveys: 24
+added: min_duration_hours_between_same_surveys: 720
+added: min_duration_seconds_wait_after_close_for_survey: 30
+added: survey_url: "https://www.gstatic.com/drive-fs/survey.html"
+added: survey_api_key: "AIzaSyAWGrfCCr7albM3lmCc937gx4uIphbpeKQ"
+added: survey_listnr_product_id: "1633926"
+added: use_moonshine: true
+added: windows_32_bit_unsupported_now: true
+added: windows_32_bit_unsupported_soon: true
+added: upload_folder: false
+added: file_provider_max_retry_backoff_per_api_call_ms: 30000
+added: photos_check_apl_icloud_import: true
+added: throttling_algorithm: TOKEN_BUCKET_THROTTLING
+added: browser_auth_with_signup_wait_for_client_timeout_ms: 1200000
+added: create_encrypted_editor_file: true
+added: enable_internal_cello_metrics: true
+added: max_feedback_payload_size: 209715200
+added: always_send_feedback_unauthenticated: true
+added: max_thumbnail_dimension: 768
+added: enable_external_file_provider_volume: false
+added: file_provider_posix_symlink_path_max_size: 1024
+added: photos_feature_unsupported_soon: true
+added: photos_feature_unsupported: false
+added: enable_automatic_error_reporting: false
+added: min_duration_seconds_wait_after_cores_startup_for_survey: 30
+added: reset_content_cache_location: false
+added: automatic_error_reporting_trigger_assert_ids: ""
+added: min_duration_hours_between_automatic_error_reports: 720
+added: casita_milestone: MILESTONE_UNSPECIFIED
+added: collect_ms_office_meet_integration_metrics: false
+added: restart_on_browser_request: true
+added: casita_startup_prompt_for_opt_in: 0
+added: casita_force_enable: false
+added: compress_regular_log_files: false
+added: purge_roots_for_disabled_accounts: true
+added: structured_log_zip_logs: true
+added: casita_add_more_folders_to_sync_url: "https://support.google.com/drive/?p=errorlist"
+added: casita_faq_url: "https://support.google.com/drive?p=d4d_redesign_beta"
+added: cse_guest_access_enabled: true
+added: photos_deprecation_date: "2026-08-10"
+added: photos_deprecation_soft_date: "2026-06-15"
+added: file_provider_detect_remaining_domain_with_api_timeout_ms: 10000
+added: read_only_corrupted_accounts: false
+added: max_syncing_status_change_events_casita: 50
+added: max_item_events_buffer_size_casita: 50
+added: hide_inaccessible_inheritance_break_folders: true
+added: file_provider_recover_preserved_domains: false
+added: enable_mac_os_context_menu: true
+added: enable_windows_tray_icon_context_menu: true
+added: read_only_ransomware: false
+added: manage_file_revisions_in_web: false
+added: enable_casita_shared_drives_ui: false
+added: win_dpi_aware_per_monitor: false
+added: enable_casita_sign_out_flow: false
+added: casita_hide_disconnect_for_loading_account: false
+added: casita_rename_sign_out_button_to_disconnect_account: false
+added: wipe_saves_pending_uploads: false
+added: webview2_requirement_notification: WEBVIEW2_NOT_REQUIRED
+added: webview2_requirement_url: "https://support.google.com/drive?p=d4d_webview2_rollout"
+added: enable_ransomware_dialog: true
+added: file_provider_support_string_search: false
+added: decore_automatic_rollback: true
+added: use_correct_size_option_for_put: true
+added: curl_allows_user_provided_content_length: false
+added: decore_separate_user_settings: true
+added: account_manager_owns_credential: false
+added: use_quit_when_idle_shutdown_behavior: false
+added: account_manager_owns_authenticated_metrics: false
+added: show_reveal_in_file_manager_option: false
+added: decore_dark_launch_global_fetcher: true
+added: decore_authoritative_global_fetcher: false
+added: phenotype_sync_timeout_ms: 500
+added: record_account_metrics_globally: false
+added: file_provider_cse_target_id_scheme: false
+added: use_win32_fibers: false
+added: show_gemini_web_buttons: false
+}
+2026-08-09T19:21:57.373ZI [3:drivefs] file_system_change_replayer.cc:98:operator() Cloud change replayer client ID: 15
+2026-08-09T19:21:57.374ZI [3:drivefs][STRM] content_cache.cc:294:Initialize Content cache capacity (bytes): 4611686018427386880
+2026-08-09T19:21:57.374ZI [3:drivefs][STRM] content_cache.cc:310:Initialize Sparse files supported: true
+2026-08-09T19:21:57.374ZI [18:STRM_Blocking Disk IO] content_cache.cc:397:InitializeOnIOThread Created new content cache dir
+2026-08-09T19:21:57.375ZI [18:STRM_Blocking Disk IO] content_cache.cc:432:InitializeOnIOThread Initializing range db
+2026-08-09T19:21:57.378ZI [3:drivefs][STRM] content_cache.cc:294:Initialize Content cache capacity (bytes): 104857600
+2026-08-09T19:21:57.378ZI [3:drivefs][STRM] content_cache.cc:310:Initialize Sparse files supported: true
+2026-08-09T19:21:57.379ZI [18:STRM_Blocking Disk IO] content_cache.cc:397:InitializeOnIOThread Created new content cache dir
+2026-08-09T19:21:57.379ZI [18:STRM_Blocking Disk IO] content_cache.cc:432:InitializeOnIOThread Initializing range db
+2026-08-09T19:21:57.387ZI [21:STRM_AsyncLocalStore] sqlite_vacuum.cc:44:ReadVacuumSentinel Vacuum sentinel file does not exist: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/metadata_sqlite_db-vacuum_sentinel.bin. It will be created.
+2026-08-09T19:21:57.387ZI [21:STRM_AsyncLocalStore] sqlite_vacuum.cc:182:MaybeVacuum Starting to Vacuum LocalStore.
+2026-08-09T19:21:57.397ZI [21:STRM_AsyncLocalStore] sqlite_vacuum.cc:237:MaybeVacuum Successfully vacuumed Local Store in 8.850077ms
+2026-08-09T19:21:57.406ZI [3:drivefs][STRM] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+2026-08-09T19:21:57.406ZI [3:drivefs][STRM] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+2026-08-09T19:21:57.406ZI [3:drivefs][STRM] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 1000, with each request requiring 10 tokens
+2026-08-09T19:21:57.443ZI [3:drivefs] sync_engine.cc:2778:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+2026-08-09T19:21:57.444ZI [3:drivefs] sync_engine.cc:2721:operator() Sync engine activity state:
+operation_queue_size: 0
+all_downloads: 0
+unique_user_requested_op_count: 0
+
+2026-08-09T19:21:57.444ZI [3:drivefs] cache_reset_util.cc:55:RecordCacheResets Persisting initial value for metadata cache reset counter: 8
+2026-08-09T19:21:57.444ZI [3:drivefs] cache_reset_util.cc:74:RecordCacheResets Persisting initial value for reset evictable files counter: 0
+2026-08-09T19:21:57.444ZI [3:drivefs] cache_reset_util.cc:93:RecordCacheResets Persisting initial value for reset pinned files counter: 0
+2026-08-09T19:21:57.444ZI [3:drivefs] cache_reset_util.cc:110:RecordCacheResets Persisting initial value for reset prefetched ids counter: 2
+2026-08-09T19:21:57.446ZI [3:drivefs] virtual_folders.cc:197:Init Local folders at: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/local_folders
+2026-08-09T19:21:57.446ZI [23:CurlWorker0] curl_api.cc:476:Init Using cacerts from /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:21:57.449ZI [3:drivefs][STRM] post_init_task.cc:228:GetNondownloadableCorpusLevelProperty Corpus level property for non-downloadable migration: 2
+2026-08-09T19:21:57.450ZI [3:drivefs][STRM] legacy_fetch_task.cc:653:RunInternal Largest local change id for My Drive at startup: 1
+2026-08-09T19:22:07.452ZE [23:CurlWorker0] curl_api.cc:180:StatusFromCurlCode Remapped curl code 28 to drive::ds::Status::TIMEOUT_EXCEEDED: Connection timed out after 10002 milliseconds
+2026-08-09T19:22:07.452ZI [3:drivefs] token_bucket.cc:111:DecreaseCapacity BucketFiller decreased capacity to 150
+2026-08-09T19:22:07.452ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog Request 0x65588b7870: 0 transport: DEADLINE_EXCEEDED: Connection timed out after 10002 milliseconds [type.googleapis.com/drive.ds.Status='TIMEOUT_EXCEEDED']
+=== Source Location Trace: === 
+apps/drive/cello/transport/curl_api.cc:183
+ reader: OK url: https://drivefrontend-pa.googleapis.com/v1/account
+2026-08-09T19:22:07.452ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65588b7870: Content-Type=application/x-protobuf
+2026-08-09T19:22:07.452ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65588b7870: X-Goog-FieldMask=account.user.focus_user_id,account.user.name,account.user.email,account.user.photo_url,account.user.customer_id,account.user.organization_display_name,account.metadata.quota.quota_bytes_total,account.metadata.quota.quota_bytes_used_aggregate,account.metadata.quota.quota_type,account.metadata.quota.bytes_limit,account.metadata.quota.bytes_remaining,account.metadata.quota.bytes_used_by_user,account.metadata.quota.bytes_used_by_all_services,account.metadata.quota.quota_status,account.metadata.quota.usage_state,account.metadata.quota.individual_bytes_limit,account.metadata.quota.individual_usage_state,account.metadata.quota.grace_period_info.end_timestamp_millis,account.metadata.quota.grace_period_info.active,account.metadata.backend_diagnostics.backend
+2026-08-09T19:22:07.452ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65588b7870: x-goog-ext-472780938-bin=CghCAEgBYgIIAw==
+2026-08-09T19:22:07.452ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog Response body 0x65588b7870: (no response body)
+2026-08-09T19:22:07.452ZI [3:drivefs] cello.cc:4207:operator() Checking cached data because cloud is unavailable drive::ds::Status::UNAVAILABLE_WHILE_OFFLINE
+2026-08-09T19:22:07.452ZI [3:drivefs] cello.cc:4207:operator() Checking cached data because cloud is unavailable drive::ds::Status::UNAVAILABLE_WHILE_OFFLINE
+2026-08-09T19:22:07.458ZI [3:drivefs] switchblade_manager.cc:248:OnPollResponse Poll failure: NOT_FOUND: From legacy status [type.googleapis.com/drive.ds.Status='UNAVAILABLE_RESOURCE']
+=== Source Location Trace: === 
+apps/drive/fs/chromeos/chromeos_core_client_delegate_impl.cc:93
+
+2026-08-09T19:22:07.465ZI [35:MIRR_AsyncLocalStore] sqlite_vacuum.cc:44:ReadVacuumSentinel Vacuum sentinel file does not exist: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/mirror_metadata_sqlite.db-vacuum_sentinel.bin. It will be created.
+2026-08-09T19:22:07.466ZI [35:MIRR_AsyncLocalStore] sqlite_vacuum.cc:182:MaybeVacuum Starting to Vacuum LocalStore.
+2026-08-09T19:22:07.474ZI [35:MIRR_AsyncLocalStore] sqlite_vacuum.cc:237:MaybeVacuum Successfully vacuumed Local Store in 8.446846ms
+2026-08-09T19:22:07.509ZI [3:drivefs] sync_engine.cc:2778:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+2026-08-09T19:22:07.509ZI [3:drivefs] sync_engine.cc:2721:operator() Sync engine activity state:
+operation_queue_size: 0
+all_downloads: 0
+unique_user_requested_op_count: 0
+
+2026-08-09T19:22:07.509ZI [3:drivefs] cache_reset_util.cc:55:RecordCacheResets Persisting initial value for metadata cache reset counter: 8
+2026-08-09T19:22:07.509ZI [3:drivefs] cache_reset_util.cc:74:RecordCacheResets Persisting initial value for reset evictable files counter: 0
+2026-08-09T19:22:07.509ZI [3:drivefs] cache_reset_util.cc:93:RecordCacheResets Persisting initial value for reset pinned files counter: 0
+2026-08-09T19:22:07.509ZI [3:drivefs] cache_reset_util.cc:110:RecordCacheResets Persisting initial value for reset prefetched ids counter: 2
+2026-08-09T19:22:07.512ZI [3:drivefs] lifecycle_observer.cc:38:FlushDecoreEvents Recording decore event: 80331
+2026-08-09T19:22:07.512ZI [3:drivefs] decore_util.cc:59:UNKNOWN Successfully wrote sentinel file /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/flags_fetched for Decore automatic rollback.
+2026-08-09T19:22:07.512ZI [3:drivefs] feature_config.cc:414:ShouldRefetchFeatureConfig Time since last update is too small or within 14400000 ms: 10382 milliseconds.
+2026-08-09T19:22:07.512ZI [3:drivefs] core.cc:1222:CheckFeatureConfig Ignoring cloud feature flags
+2026-08-09T19:22:07.512ZI [3:drivefs] demuxing_cloud_store.cc:379:GetAccountAndUserSettings Can't demux due to inconsistent fields: account.security_settings.is_cse_enabled,account.drive_for_desktop_settings.can_use_slurp,account.drive_for_desktop_settings.can_mirror_my_drive,account.security_settings.is_cse_on_by_default,account.enterprise_settings.is_dasher_user,account.drive_for_desktop_settings.can_use_fs_presence,account.drive_for_desktop_settings.show_fs_download,account.enterprise_settings.can_access_admin_console,account.drive_for_desktop_settings.can_use_mirror,account.gen_ai_settings.is_eligible_for_sidekick,account.drive_for_desktop_settings.can_use_photos,account.enterprise_settings.is_dasher_admin,account.security_settings.is_cse_create_enabled vs account.metadata.backend_diagnostics.backend,account.metadata.quota.quota_status,account.metadata.quota.quota_bytes_used_aggregate,account.user.email,account.user.organization_display_name,account.metadata.quota.quota_type,account.metadata.quota.quota_bytes_total,account.metadata.quota.individual_usage_state,account.user.customer_id,account.user.name,account.user.photo_url,account.user.focus_user_id,account.metadata.quota.individual_bytes_limit,account.metadata.quota.bytes_used_by_user,account.metadata.quota.grace_period_info.active,account.metadata.quota.bytes_used_by_all_services,account.metadata.quota.usage_state,account.metadata.quota.grace_period_info.end_timestamp_millis,account.metadata.quota.bytes_limit,account.metadata.quota.bytes_remaining
+2026-08-09T19:22:07.512ZI [37:CurlWorker1] curl_api.cc:476:Init Using cacerts from /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:22:07.516ZI [3:drivefs][MIRR] post_init_task.cc:228:GetNondownloadableCorpusLevelProperty Corpus level property for non-downloadable migration: 2
+2026-08-09T19:22:07.517ZI [3:drivefs][MIRR] legacy_fetch_task.cc:653:RunInternal Largest local change id for My Drive at startup: 3
+2026-08-09T19:22:11.726ZI [3:drivefs] chromeos_core_client_delegate_impl.cc:247:DisplayError Display error notification LOADING_FILES for 
+2026-08-09T19:22:11.726ZE [3:drivefs] chromeos_core_client_delegate_impl.cc:264:DisplayError Unhandled error type LOADING_FILES
+2026-08-09T19:22:11.726ZI [3:drivefs] stream.cc:662:operator() VFS not initialized.
+2026-08-09T19:22:11.726ZI [3:drivefs] cello_fs.cc:4468:OnMountpointReady FileProvider mounted: false
+2026-08-09T19:22:11.731ZI [3:drivefs] curl_api.cc:1406:Create SSL verification with CAcerts path: /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:22:11.731ZI [3:drivefs] curl_api.cc:1406:Create SSL verification with CAcerts path: /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:22:11.731ZI [3:drivefs] punctual_push_notification_manager.cc:84:PunctualPushNotificationManagerImpl Jitter introduced to backoff start, using 597ms.
+2026-08-09T19:22:11.731ZI [3:drivefs] core.cc:450:operator() InitInternalSync completed with status OK
+2026-08-09T19:22:11.732ZI [41:CurlWorker0] curl_api.cc:476:Init Using cacerts from /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:22:11.733ZI [3:drivefs] drivefs_controller.cc:327:OnCoreStarted DriveFs core has started with: metrics enabled, mirror disabled.
+2026-08-09T19:22:11.733ZI [43:trace_writer_thread] instrumentation.cc:677:operator() Writing Chrome Trace to /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/Logs/startup_trace_2026-08-09T19_22_11.json
+2026-08-09T19:22:11.733ZI [43:trace_writer_thread] instrumentation.cc:679:operator() Trace successfully written
+2026-08-09T19:22:11.735ZI [3:drivefs] platform.cc:196:SetIsBackgroundSyncingEnabled Background syncing has been disabled
+2026-08-09T19:22:11.735ZI [3:drivefs] platform.cc:196:SetIsBackgroundSyncingEnabled Background syncing has been disabled
+2026-08-09T19:22:11.736ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:12.744ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:15.642ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:15.643ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:23.110ZI [45:CurlWorker1] curl_api.cc:476:Init Using cacerts from /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:22:23.845ZE [3:drivefs] punctual_push_notification_manager.cc:274:operator() Failed to poll for changes: UNKNOWN: From legacy status [type.googleapis.com/drive.ds.Status='UNKNOWN_STATUS']
+=== Source Location Trace: === 
+apps/drive/fs/core/stream/cello_fs.cc:6705
+
+2026-08-09T19:22:35.677ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:35.677ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:35.678ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:42.745ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:52.765ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:55.691ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:55.691ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:55.693ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:22:57.361ZI [47:CurlWorker0] curl_api.cc:476:Init Using cacerts from /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:23:02.646ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:23:12.896ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:23:15.698ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:23:15.699ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:23:32.567ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:23:35.743ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:23:35.743ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:23:37.459ZI [50:CurlWorker0] curl_api.cc:476:Init Using cacerts from /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:23:40.506ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:23:52.562ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:23:55.831ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:23:55.833ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:23:57.424ZI [3:drivefs] cello_fs.cc:7040:UpdateContentCacheCapacity Changing content cache capacity to 3413 MBytes
+2026-08-09T19:23:57.424ZI [3:drivefs] content_cache_capacity_heuristic.cc:123:operator() Free disk space (excluding content cache): 17066 MiB
+2026-08-09T19:23:57.424ZI [3:drivefs] content_cache_capacity_heuristic.cc:132:operator() Evictable amount of content cache: 0%
+2026-08-09T19:24:12.749ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:24:15.766ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:24:15.766ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:24:22.968ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:24:32.579ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:24:35.771ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:24:35.772ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:24:52.708ZI [3:drivefs] drive_v2_cloud_store.cc:3685:ListSpecialFolders Getting all folders with feature "machineRoot" , optional parent ().
+2026-08-09T19:24:52.903ZI [3:drivefs] drive_v2_cloud_store.cc:3664:operator() Got 0 special folders for "machineRoot" and parent ().
+2026-08-09T19:24:55.816ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:25:15.862ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:25:21.371ZI [3:drivefs] switchblade_manager.cc:248:OnPollResponse Poll failure: UNAVAILABLE: From legacy status [type.googleapis.com/drive.ds.Status='TEMPORARILY_UNAVAILABLE']
+=== Source Location Trace: === 
+apps/drive/fs/chromeos/native_messaging.cc:152
+
+2026-08-09T19:25:35.899ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:25:35.900ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:25:35.905ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:25:54.445ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:25:54.460ZI [3:drivefs] platform.cc:196:SetIsBackgroundSyncingEnabled Background syncing has been enabled
+2026-08-09T19:25:54.460ZI [3:drivefs] platform.cc:196:SetIsBackgroundSyncingEnabled Background syncing has been enabled
+2026-08-09T19:25:54.461ZI [3:drivefs] cello.cc:1025:operator() got notified of network change to offline
+2026-08-09T19:25:54.462ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:25:54.462ZI [40:PhotosSlurpTransporter] closure_retry.cc:51:operator() Online status changed to false
+2026-08-09T19:25:54.464ZI [56:CurlWorker2] curl_api.cc:476:Init Using cacerts from /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:25:54.601ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:25:54.602ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:25:54.622ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:25:54.622ZE [40:PhotosSlurpTransporter] photos_slurp_transporter.cc:223:operator() Attempt to pause/resume before successful init
+2026-08-09T19:25:55.522ZE [56:CurlWorker2] curl_api.cc:180:StatusFromCurlCode Remapped curl code 6 to drive::ds::Status::UNAVAILABLE_WHILE_OFFLINE: Could not resolve host: drivefrontend-pa.googleapis.com
+2026-08-09T19:25:55.524ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog Request 0x65589c5900: 0 transport: UNAVAILABLE: Could not resolve host: drivefrontend-pa.googleapis.com [type.googleapis.com/drive.ds.Status='UNAVAILABLE_WHILE_OFFLINE']
+=== Source Location Trace: === 
+apps/drive/cello/transport/curl_api.cc:183
+ reader: OK url: https://drivefrontend-pa.googleapis.com/v1/changes:getLargestChangeId
+2026-08-09T19:25:55.524ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589c5900: Content-Type=application/x-protobuf
+2026-08-09T19:25:55.524ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589c5900: X-Goog-FieldMask=largest_change_id
+2026-08-09T19:25:55.524ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589c5900: x-goog-ext-472780938-bin=Cg8IrgIQABgCQgBIAWICCAM=
+2026-08-09T19:25:55.524ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog Response body 0x65589c5900: (no response body)
+2026-08-09T19:25:55.527ZE [3:drivefs][MIRR] legacy_fetch_task.cc:1015:FetchCloudChangeIds Can't get largest change ID for My Drive: UNAVAILABLE: Network error Cleared request [type.googleapis.com/util.MessageSetPayload='[drive.ds.ExtendedStatus] { status: UNAVAILABLE_WHILE_OFFLINE message: "Network error Cleared request" }'] [type.googleapis.com/drive.ds.Status='UNAVAILABLE_WHILE_OFFLINE']
+=== Source Location Trace: === 
+apps/drive/cello/cloud_store/driveway_util.cc:452
+apps/drive/cello/cloud_store/driveway_util.cc:452
+
+2026-08-09T19:25:57.519ZE [37:CurlWorker1] curl_api.cc:999:operator() No progress made for 3 seconds & we appear offline. dltotal 0 dlnow 0 ultotal 0 ulnow 0 elapsedtime 3.005084616s
+2026-08-09T19:25:57.519ZE [37:CurlWorker1] curl_api.cc:180:StatusFromCurlCode Remapped curl code 42 to drive::ds::Status::UNAVAILABLE_WHILE_OFFLINE: Callback aborted
+2026-08-09T19:25:57.520ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog Request 0x65589b8480: 0 transport: UNAVAILABLE: Callback aborted [type.googleapis.com/drive.ds.Status='UNAVAILABLE_WHILE_OFFLINE']
+=== Source Location Trace: === 
+apps/drive/cello/transport/curl_api.cc:183
+ reader: OK url: https://drivefrontend-pa.googleapis.com/v1/changes:getLargestChangeId
+2026-08-09T19:25:57.520ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589b8480: Content-Type=application/x-protobuf
+2026-08-09T19:25:57.520ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589b8480: X-Goog-FieldMask=largest_change_id
+2026-08-09T19:25:57.520ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589b8480: x-goog-ext-472780938-bin=Cg8IrgIQABgCQgBIAWICCAM=
+2026-08-09T19:25:57.520ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog Response body 0x65589b8480: (no response body)
+2026-08-09T19:25:57.522ZE [3:drivefs][STRM] legacy_fetch_task.cc:1015:FetchCloudChangeIds Can't get largest change ID for My Drive: UNAVAILABLE: Network error Cleared request [type.googleapis.com/drive.ds.Status='UNAVAILABLE_WHILE_OFFLINE'] [type.googleapis.com/util.MessageSetPayload='[drive.ds.ExtendedStatus] { status: UNAVAILABLE_WHILE_OFFLINE message: "Network error Cleared request" }']
+=== Source Location Trace: === 
+apps/drive/cello/cloud_store/driveway_util.cc:452
+apps/drive/cello/cloud_store/driveway_util.cc:452
+
+2026-08-09T19:25:57.537ZI [59:CurlWorker3] curl_api.cc:476:Init Using cacerts from /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:25:57.543ZE [59:CurlWorker3] curl_api.cc:180:StatusFromCurlCode Remapped curl code 6 to drive::ds::Status::UNAVAILABLE_WHILE_OFFLINE: Could not resolve host: drivefrontend-pa.googleapis.com
+2026-08-09T19:25:57.544ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog Request 0x65589b8480: 0 transport: UNAVAILABLE: Could not resolve host: drivefrontend-pa.googleapis.com [type.googleapis.com/drive.ds.Status='UNAVAILABLE_WHILE_OFFLINE']
+=== Source Location Trace: === 
+apps/drive/cello/transport/curl_api.cc:183
+ reader: OK url: https://drivefrontend-pa.googleapis.com/v1/changes:getLargestChangeId
+2026-08-09T19:25:57.544ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589b8480: Content-Type=application/x-protobuf
+2026-08-09T19:25:57.544ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589b8480: X-Goog-FieldMask=largest_change_id
+2026-08-09T19:25:57.544ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589b8480: x-goog-ext-472780938-bin=Cg8IrgIQABgCQgBIAWICCAM=
+2026-08-09T19:25:57.544ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog Response body 0x65589b8480: (no response body)
+2026-08-09T19:25:57.545ZE [3:drivefs][MIRR] legacy_fetch_task.cc:1015:FetchCloudChangeIds Can't get largest change ID for My Drive: UNAVAILABLE: Network error Cleared request [type.googleapis.com/drive.ds.Status='UNAVAILABLE_WHILE_OFFLINE'] [type.googleapis.com/util.MessageSetPayload='[drive.ds.ExtendedStatus] { status: UNAVAILABLE_WHILE_OFFLINE message: "Network error Cleared request" }']
+=== Source Location Trace: === 
+apps/drive/cello/cloud_store/driveway_util.cc:452
+apps/drive/cello/cloud_store/driveway_util.cc:452
+
+2026-08-09T19:26:01.556ZI [61:CurlWorker4] curl_api.cc:476:Init Using cacerts from /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:26:01.572ZE [61:CurlWorker4] curl_api.cc:180:StatusFromCurlCode Remapped curl code 6 to drive::ds::Status::UNAVAILABLE_WHILE_OFFLINE: Could not resolve host: drivefrontend-pa.googleapis.com
+2026-08-09T19:26:01.572ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog Request 0x65589c5900: 0 transport: UNAVAILABLE: Could not resolve host: drivefrontend-pa.googleapis.com [type.googleapis.com/drive.ds.Status='UNAVAILABLE_WHILE_OFFLINE']
+=== Source Location Trace: === 
+apps/drive/cello/transport/curl_api.cc:183
+ reader: OK url: https://drivefrontend-pa.googleapis.com/v1/changes:getLargestChangeId
+2026-08-09T19:26:01.572ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589c5900: Content-Type=application/x-protobuf
+2026-08-09T19:26:01.572ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589c5900: X-Goog-FieldMask=largest_change_id
+2026-08-09T19:26:01.572ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog req.hdr 0x65589c5900: x-goog-ext-472780938-bin=Cg8IrgIQABgCQgBIAWICCAM=
+2026-08-09T19:26:01.572ZE [3:drivefs] authenticated_transport.cc:182:DumpToLog Response body 0x65589c5900: (no response body)
+2026-08-09T19:26:01.574ZE [3:drivefs][MIRR] legacy_fetch_task.cc:1015:FetchCloudChangeIds Can't get largest change ID for My Drive: UNAVAILABLE: Network error Cleared request [type.googleapis.com/util.MessageSetPayload='[drive.ds.ExtendedStatus] { status: UNAVAILABLE_WHILE_OFFLINE message: "Network error Cleared request" }'] [type.googleapis.com/drive.ds.Status='UNAVAILABLE_WHILE_OFFLINE']
+=== Source Location Trace: === 
+apps/drive/cello/cloud_store/driveway_util.cc:452
+apps/drive/cello/cloud_store/driveway_util.cc:452
+
+2026-08-09T19:26:08.278ZI [3:drivefs] drivefs_session.cc:90:OnDisconnect Mojo disconnected.
+2026-08-09T19:26:08.279ZI [3:drivefs] drivefs_controller.cc:403:StopDriveFs DriveFs core is being stopped.
+2026-08-09T19:26:08.279ZI [3:drivefs] stream.cc:251:LogAndPerformUnmount Unmounting with cleanup: kNormal
+2026-08-09T19:26:08.279ZI [3:drivefs] chromeos_core_client.cc:2313:UpdateAppReturnCode Updating App return code 0 with Core return code 0
+2026-08-09T19:26:08.279ZI [3:drivefs] drivefs_controller.cc:377:OnCoreStopped DriveFs shutdown completed with code 0.

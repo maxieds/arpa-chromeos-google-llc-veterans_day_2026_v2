@@ -1,0 +1,1097 @@
+2026-09-25T01:55:13.349272Z ERROR chrome[1472:1472]: [chrome/browser/ash/dbus/chrome_features_service_provider.cc:241] Invalid prefix on feature DeferConciergeStartup (want CrOSLateBoot)
+2026-09-25T01:55:13.368691Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/session/user_session_manager.cc:1069] RespectLocalePreference: app_locale='en-GB', bkup_locale='en-GB', account_locale - unused.  Selected 'en-GB'
+2026-09-25T01:55:13.372449Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/session/user_session_manager.cc:1389] Password consuming service 1 votes 0
+2026-09-25T01:55:13.373263Z WARNING chrome[1472:1472]: [chrome/browser/ash/login/auth_factors_policy/local_auth_factors_policy_controller_factory.cc:85] User was not managed, not building service instance.
+2026-09-25T01:55:13.373754Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/session/user_session_manager.cc:1389] Password consuming service 0 votes 0
+2026-09-25T01:55:13.373794Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/session/user_session_manager.cc:1423] Clearing login password
+2026-09-25T01:55:13.393528Z WARNING chrome[1472:1472]: [chrome/browser/ash/login/signin/merge_session_throttling_utils.cc:140] Loading content for a profile without session restore?
+2026-09-25T01:55:13.394526Z INFO chrome[1472:1472]: [chrome/browser/ash/multidevice_setup/multidevice_setup_client_factory.cc:144] Allowed. Returning new MultiDeviceSetupClientHolder
+2026-09-25T01:55:13.409672Z ERROR chrome[1472:1472]: [chrome/browser/ash/input_method/input_method_manager_impl.cc:1195] IMEEngine for "jkghodnilhceideoidjikpgommlajknk" is not registered
+2026-09-25T01:55:13.409957Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/session/user_session_manager.cc:1639] SetPrimaryAccount result=0
+2026-09-25T01:55:13.409984Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/session/user_session_manager.cc:1674] Seed IdentityManager with the authenticated account info, success=1
+2026-09-25T01:55:13.449613Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.GetVmInfo: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmConcierge was not provided by any .service files
+2026-09-25T01:55:13.510346Z WARNING chrome[1472:1472]: [chrome/browser/apps/app_service/metrics/app_platform_metrics.cc:560] Couldn't get Borealis ID for UNREGISTERED app ceoplblcdaffnnflkkcagjpomjgedmdl
+2026-09-25T01:55:13.510748Z WARNING chrome[1472:1654]: [chromeos/dbus/missive/missive_storage_module.cc:47] Store reporting data by a Missive daemon
+2026-09-25T01:55:13.520298Z WARNING chrome[1472:1472]: [chromeos/ash/components/memory/swap_configuration.cc:107] Overriding memory thresholds with values 15% and 40%
+2026-09-25T01:55:13.520423Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/adbd/arc_adbd_monitor_bridge.cc:154] Init ArcAdbdMonitorBridge
+2026-09-25T01:55:13.520488Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/bluetooth/arc_bluetooth_bridge.cc:357] Registering bluetooth adapter.
+2026-09-25T01:55:13.521270Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/sharesheet/arc_sharesheet_bridge.cc:63] ArcSharesheetBridge created
+2026-09-25T01:55:13.521357Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer.cc:58] ArcCertInstaller::ArcCertInstaller
+2026-09-25T01:55:13.521505Z WARNING chrome[1472:1472]: [chrome/browser/ash/arc/idle_manager/arc_idle_manager.cc:93] Doze will be enabled regardless of battery status
+2026-09-25T01:55:13.521592Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/session/arc_session_manager.cc:854] Calling SetUserInfo() in ArcSessionManager::Initialize
+2026-09-25T01:55:13.521728Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/session/arc_play_store_enabled_preference_handler.cc:65] Start observing Google Play Store enabled preference. Initial values are: Enabled=0 Managed=0
+2026-09-25T01:55:13.521785Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/session/arc_session_manager.cc:1381] ARC is already disabled. Killing an instance for login screen (if any).
+2026-09-25T01:55:13.544778Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-25T01:55:13.593939Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T01:55:13.594023Z INFO chrome[1472:1472]: [chrome/browser/ash/tether/tether_service.cc:399] Tether state has changed. New state: [BLE is not present on the device], Old state: [TetherService initializing]
+2026-09-25T01:55:13.594421Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/session/user_session_manager.cc:1920] Clearing all secrets
+2026-09-25T01:55:13.637228Z ERROR chrome[3878:3883]: [default_socket.cc:61] /run/perfetto/ exists but cannot be accessed. Falling back on /tmp/  (errno: 13, Permission denied)
+2026-09-25T01:55:13.678578Z WARNING chrome[1472:1472]: [chrome/browser/ash/extensions/signin_screen_policy_provider.cc:58] Denying load of Extension  : admccjkmockfdflocgggjfgdacdodkdf / Gemini in Chrome because of 'signin_screen' requires canary channel or newer, but this is the stable channel.
+2026-09-25T01:55:13.000918Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/session/user_session_manager.cc:1069] RespectLocalePreference: app_locale='en-GB', bkup_locale='en-GB', account_locale - unused.  Selected 'en-GB'
+2026-09-25T01:55:13.001238Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/session/user_session_manager.cc:2516] Launching browser...
+2026-09-25T01:55:13.001695Z WARNING chrome[1472:1472]: [chrome/browser/ui/ash/login/login_display_host_common.cc:287] Finalize
+2026-09-25T01:55:13.001755Z WARNING chrome[1472:1472]: [chrome/browser/ui/ash/login/login_display_host_common.cc:744] ShutdownDisplayHost
+2026-09-25T01:55:13.004327Z WARNING chrome[1472:1472]: [chrome/browser/browsing_data/chrome_browsing_data_remover_delegate.cc:1185] Failed to find user for current profile.
+2026-09-25T01:55:13.005738Z INFO chrome[1472:1472]: [chrome/browser/ash/login/existing_user_controller.cc:1066] (LOGIN) Session started, the profile is ready 
+2026-09-25T01:55:13.014690Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:487] crbug.com/1339004 : authentication complete
+2026-09-25T01:55:13.014766Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1140] crbug.com/1339004 : OnAuthComplete 0
+2026-09-25T01:55:13.014855Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:490] crbug.com/1339004 : triggered callback
+2026-09-25T01:55:13.027074Z WARNING chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:484] DeviceSyncImpl::GetLocalDeviceMetadata() invoked before initialization was complete. Cannot return local device metadata.
+2026-09-25T01:55:13.029815Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.ResourceManager.SetMemoryMargins: object_path= /org/chromium/ResourceManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.ResourceManager was not provided by any .service files
+2026-09-25T01:55:13.029977Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmConcierge was not provided by any .service files
+2026-09-25T01:55:13.030009Z ERROR chrome[1472:1472]: [chrome/browser/ash/guest_os/guest_os_session_tracker.cc:69] Failed to list VMs, assuming there aren't any already running
+2026-09-25T01:55:13.030037Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.GetVmInfo: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmConcierge was not provided by any .service files
+2026-09-25T01:55:13.041206Z ERROR chrome[1472:1472]: [chrome/browser/ash/input_method/input_method_manager_impl.cc:1224] Failed to change keyboard layout to us
+2026-09-25T01:55:13.045050Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/app_restore/full_restore_app_launch_handler.cc:477] There is no restore data from /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-25T01:55:13.049950Z INFO chrome[1472:1472]: [chromeos/ash/services/device_sync/public/cpp/device_sync_client_impl.cc:280] Tried to get local device metadata before service was fully initialized; waiting for enrollment to complete before continuing.
+2026-09-25T01:55:13.051898Z WARNING chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:498] DeviceSyncImpl::GetSyncedDevices() invoked before initialization was complete. Cannot return devices.
+2026-09-25T01:55:13.080940Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T01:55:13.084006Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T01:55:13.084097Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T01:55:13.084360Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/eche_notification_click_handler.cc:32] No Phone Hub interaction handler to set Eche click handler
+2026-09-25T01:55:13.084528Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/eche_signaler.cc:86] echeapi EcheSignaler SetSystemInfoProvider
+2026-09-25T01:55:13.111363Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-25T01:55:13.111473Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-25T01:55:13.114557Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T01:55:13.130229Z INFO chrome[1472:1472]: [chromeos/ash/services/device_sync/public/cpp/device_sync_client_impl.cc:250] Tried to fetch synced devices before service was fully initialized; waiting for sync to complete before continuing.
+2026-09-25T01:55:13.152651Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmPluginDispatcher.ListVms: object_path= /org/chromium/VmPluginDispatcher: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmPluginDispatcher was not provided by any .service files
+2026-09-25T01:55:13.152785Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.pciguard.SetExternalPciDevicesPermission: object_path= /org/chromium/pciguard: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.pciguard was not provided by any .service files
+2026-09-25T01:55:13.182514Z VERBOSE1 chrome[1472:1472]: [ash/public/cpp/metrics_util.cc:77] Ash system animation drops too many frames, smoothness= 5
+2026-09-25T01:55:13.183776Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.BiometricsDaemon.BiometricsManager.GetRecordsForUser: object_path= /org/chromium/BiometricsDaemon/CrosFpBiometricsManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.BiometricsDaemon was not provided by any .service files
+2026-09-25T01:55:13.205687Z ERROR chrome[1472:1472]: [chrome/browser/ash/login/quick_unlock/fingerprint_storage.cc:195] Get Records failure
+2026-09-25T01:55:13.210854Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:55:13.211613Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T01:55:13.212177Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_share_logger.cc:21] Nearby Share logging initialized.
+2026-09-25T01:55:13.212477Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/session/arc_session_manager.cc:1153] ARCVM activation is allowed: 1
+2026-09-25T01:55:13.215798Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T01:55:13.227945Z WARNING chrome[1472:1472]: [chromeos/ash/components/attestation/attestation_flow_adaptive.cc:155] Default attestation flow failed: 1
+2026-09-25T01:55:13.298659Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:55:13.314860Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /: org.freedesktop.DBus.Error.Spawn.ChildExited: Launch helper exited with unknown return code 1
+2026-09-25T01:55:13.314925Z WARNING chrome[1472:1472]: [dbus/property.cc:174] GetAll request failed for: org.freedesktop.fwupd
+2026-09-25T01:55:13.315291Z ERROR chrome[1472:1472]: [components/device_event_log/device_event_log_impl.cc:200] [20:55:13.315] Firmware: fwupd_client.cc:639 No D-Bus response received from fwupd.
+2026-09-25T01:55:13.315608Z ERROR chrome[1472:1472]: [components/device_event_log/device_event_log_impl.cc:200] [20:55:13.315] Firmware: fwupd_client.cc:473 No Dbus response received from fwupd.
+2026-09-25T01:55:13.374235Z WARNING chrome[1472:1472]: [CONSOLE:1019] "Started ODFS sw: 1.13.0", source: chrome-extension://gnnndjlaomemikopnjhhnoombakkkkdg/sw_js.js (1019)
+2026-09-25T01:55:13.383784Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:55:13.406940Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer.cc:72] ArcCertInstaller::InstallArcCerts
+2026-09-25T01:55:13.406987Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/enterprise/cert_store/cert_store_service.cc:582] ARC certificates installation has finished with result=1
+2026-09-25T01:55:13.416265Z ERROR chrome[1472:1472]: [chromeos/ash/components/attestation/attestation_flow.cc:401] Attestation: Failed to create certificate request. Status: 4
+2026-09-25T01:55:13.417115Z ERROR chrome[1472:1472]: [chrome/browser/ash/attestation/soft_bind_attestation_flow_impl.cc:220] Attestation unsuccessful, not verified
+2026-09-25T01:55:13.417237Z WARNING chrome[1472:1472]: [chrome/browser/ash/attestation/soft_bind_attestation_flow_impl.cc:143] Attestation session failure: notVerified
+2026-09-25T01:55:13.558118Z WARNING chrome[1472:1472]: [CONSOLE:777] "Mounts before restore: storage=none chrome=none, after restore: storage=none chrome=none", source: chrome-extension://gnnndjlaomemikopnjhhnoombakkkkdg/sw_js.js (777)
+2026-09-25T01:55:13.576766Z ERROR chrome[1472:1525]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_offscreen.html and for reason:1
+2026-09-25T01:55:13.612633Z WARNING chrome[1472:1472]: [chrome/browser/ash/platform_keys/key_permissions/key_permissions_manager_impl.cc:83] Updating arc key permissions in chaps succeeded, 0 key(s) updated.
+2026-09-25T01:55:13.627960Z ERROR chrome[1472:1525]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: constants.js and for reason:1
+2026-09-25T01:55:13.628071Z ERROR chrome[1472:1525]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_offscreen.js and for reason:1
+2026-09-25T01:55:13.628126Z ERROR chrome[1472:1525]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng.js and for reason:1
+2026-09-25T01:55:13.669118Z ERROR chrome[1472:1525]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.js and for reason:1
+2026-09-25T01:55:13.710751Z WARNING chrome[1472:1472]: [CONSOLE:4] "Image Loader maximum parallel tasks: 2", source: chrome-extension://pmfjbimdmchhbnneeidfognadeopoehp/offscreen.js (4)
+2026-09-25T01:55:13.715742Z ERROR chrome[1472:1525]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.data and for reason:1
+2026-09-25T01:55:13.719351Z ERROR chrome[1472:1525]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.wasm and for reason:1
+2026-09-25T01:55:13.868668Z ERROR chrome[1472:1525]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: gjjabgpgjpampikjhjpfhneeoapjbjaf at path: voices.json and for reason:1
+2026-09-25T01:55:13.918013Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language trk/ba (Bashkir) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.919318Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language zle/be (Belarusian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.921308Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language iro/chr (Cherokee ) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.921440Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language sit/cmn-Latn-pinyin (Chinese (Mandarin, latin as Pinyin)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.921522Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language trk/cv (Chuvash) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.928074Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language gmw/en-US-nyc (English (America, New York City)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.928194Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language map/haw (Hawaiian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.928259Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language sem/he (Hebrew) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.928347Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language art/io (Ido) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937017Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language trk/kk (Kazakh) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937122Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language gmw/lb (Luxembourgish) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937185Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language bat/ltg (Latgalian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937237Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language miz/mto (Totontepec Mixe) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937294Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language trk/nog (Nogai) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937341Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language art/piqd (Klingon) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937418Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language art/py (Pyash) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937467Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language art/qdb (Lang Belta) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937514Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language qu (Quechua) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937555Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language myn/quc (K'iche') should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937604Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language art/qya (Quenya) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937648Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language zle/ru-cl (Russian (Classic)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937698Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language art/sjn (Sindarin) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937741Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language urj/smj (Lule Saami) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937783Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language tai/th (Thai) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937828Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language trk/tk (Turkmen) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937872Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language trk/ug (Uyghur) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937914Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language zle/uk (Ukrainian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.937953Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language trk/uz (Uzbek) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:13.938000Z ERROR chrome[1472:1472]: [CONSOLE:132] "Language sit/yue-Latn-jyutping (Chinese (Cantonese, latin as Jyutping)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-25T01:55:14.107687Z ERROR chrome[4122:4153]: [default_socket.cc:61] /run/perfetto/ exists but cannot be accessed. Falling back on /tmp/  (errno: 13, Permission denied)
+2026-09-25T01:55:15.357781Z VERBOSE1 chrome[1472:1472]: [chromeos/ash/experiences/arc/session/connection_holder.h:292] Instance arc.mojom.IioSensorInstance not available.
+2026-09-25T01:55:15.473449Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.PowerManager.GetKeyboardBrightnessPercent: object_path= /org/chromium/PowerManager: org.freedesktop.DBus.Error.UnknownMethod: Method "GetKeyboardBrightnessPercent" with signature "" on interface "org.chromium.PowerManager" doesn't exist
+
+2026-09-25T01:55:15.473524Z ERROR chrome[1472:1472]: [ash/system/keyboard_brightness/keyboard_brightness_controller.cc:529] KeyboardBrightnessController: keyboard_brightness has no value, so cannot set prefs.
+2026-09-25T01:55:15.502171Z ERROR chrome[1472:1472]: [ash/accelerometer/accelerometer_provider_mojo.cc:368] Unfinished initialization after timeout: 0
+2026-09-25T01:55:21.417797Z ERROR chrome[1472:1472]: [components/device_event_log/device_event_log_impl.cc:200] [20:55:21.417] Network: cros_network_config.cc:2921 Technology unavailable: kWiFi
+2026-09-25T01:55:23.153491Z ERROR chrome[1472:1472]: [chrome/browser/ash/power/auto_screen_brightness/light_provider_mojo.cc:121] Target light sensor isn't available after timeout. Initialization failed.
+2026-09-25T01:55:23.153850Z ERROR chrome[1472:1472]: [chromeos/components/sensors/ash/sensor_hal_dispatcher.cc:213] Sensor HAL Client connection lost: 2
+2026-09-25T01:55:25.622678Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-25T01:55:25.724610Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:55:25.735798Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:55:26.153710Z WARNING chrome[1472:1472]: [chrome/browser/extensions/api/settings_private/prefs_util.cc:1426] Cros settings pref not found: cros.display_rotation_default
+2026-09-25T01:55:26.260631Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T01:55:26.260742Z INFO chrome[1472:1472]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-25T01:55:26.698919Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T01:55:26.699042Z INFO chrome[1472:1472]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-25T01:55:26.953634Z VERBOSE1 chrome[1472:1472]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1230 ms
+2026-09-25T01:55:28.110560Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:55:32.850939Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:55:34.367144Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:55:35.350248Z INFO chrome[1472:1523]: [chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+2026-09-25T01:55:37.206906Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:55:39.214575Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:55:40.043163Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:55:40.564369Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:55:42.752978Z INFO chrome[1472:1523]: [chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+2026-09-25T01:55:57.852921Z WARNING chrome[1472:1472]: [chrome/browser/profiles/profile_downloader.cc:285] ProfileDownloader: token request using refresh token failed:Connection failed (-106).
+2026-09-25T01:56:01.472478Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-25T01:56:01.554830Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:56:01.561576Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:56:01.961187Z WARNING chrome[1472:1472]: [chrome/browser/extensions/api/settings_private/prefs_util.cc:1426] Cros settings pref not found: cros.display_rotation_default
+2026-09-25T01:56:02.071650Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T01:56:02.071798Z INFO chrome[1472:1472]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-25T01:56:02.498874Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T01:56:02.499000Z INFO chrome[1472:1472]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-25T01:56:02.723682Z VERBOSE1 chrome[1472:1472]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1172 ms
+2026-09-25T01:56:12.714630Z ERROR chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 1
+2026-09-25T01:56:14.955588Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:56:23.120139Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:56:23.586446Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:56:29.423170Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:56:30.965873Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:56:31.542582Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:56:33.481780Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:56:33.506451Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:56:35.904952Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:57:17.716843Z ERROR chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 2
+2026-09-25T01:57:19.983644Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-25T01:57:20.049605Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:20.056546Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:20.412938Z WARNING chrome[1472:1472]: [CONSOLE:2720] "Files app starting up: full-page", source: chrome://file-manager/foreground/js/main.js (2720)
+2026-09-25T01:57:20.442289Z WARNING chrome[1472:1472]: [CONSOLE:314] "Getting volumes", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-25T01:57:20.446330Z WARNING chrome[1472:1472]: [CONSOLE:314] "Queued the initialization of all 1 volumes", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-25T01:57:20.451882Z WARNING chrome[1472:1472]: [CONSOLE:314] "Volumes initialization finished", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-25T01:57:20.757366Z WARNING chrome[1472:1472]: [CONSOLE:2720] "Files app has started", source: chrome://file-manager/foreground/js/main.js (2720)
+2026-09-25T01:57:26.186512Z WARNING chrome[1472:1472]: [ash/quick_pair/repository/oauth_http_fetcher.cc:82] OnAccessTokenFetched: Failed to retrieve access token. Connection failed (-106).
+2026-09-25T01:57:26.186560Z WARNING chrome[1472:1472]: [ash/quick_pair/repository/fast_pair/footprints_fetcher_impl.cc:105] OnGetComplete: No response.
+2026-09-25T01:57:26.186588Z WARNING chrome[1472:1472]: [ash/quick_pair/repository/fast_pair_repository_impl.cc:531] OnGetSavedDevices: Missing UserReadDevicesResponse from call to Footprints
+2026-09-25T01:57:29.064781Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-25T01:57:29.139447Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:29.167574Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:29.226735Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:29.233263Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:29.302665Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:29.316312Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:29.842043Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:29.924080Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:30.010257Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:30.010343Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:30.010406Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:30.010524Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:30.013332Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:30.269728Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:30.394667Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:30.394770Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:30.534041Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:30.535159Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:40.847081Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:40.847161Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:43.018660Z WARNING chrome[5040:14]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 471 bytes
+2026-09-25T01:57:43.018854Z WARNING chrome[5040:14]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 262 bytes
+2026-09-25T01:57:43.018981Z WARNING chrome[5040:14]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 45 bytes
+2026-09-25T01:57:43.019904Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:43.051403Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:52.244363Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-25T01:57:52.316725Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:52.325024Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:52.412821Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:52.419751Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:52.499667Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:52.507962Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:52.971563Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:52.995645Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:57:53.090180Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:53.090962Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:53.091302Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:53.092362Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:53.094437Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:53.347773Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:53.404701Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:53.405561Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:56.245026Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:56.246609Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:56.248043Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:56.248146Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:57:56.248465Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T01:58:01.408519Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:58:01.638866Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:58:03.931436Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:58:06.524099Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:58:15.957179Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:58:19.575881Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T01:58:27.719285Z ERROR chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 3
+2026-09-25T01:59:14.102115Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:59:14.109819Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:59:14.161568Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:59:14.168812Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:59:14.232610Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:59:14.238875Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T01:59:47.721267Z ERROR chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 4
+2026-09-25T02:00:42.338892Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:00:50.397141Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:00:59.701271Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:01:11.025540Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:01:24.499077Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:01:27.724338Z ERROR chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 5
+2026-09-25T02:01:58.921454Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T02:01:58.921530Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T02:01:59.175136Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T02:02:10.350361Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:02:32.129666Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-25T02:02:32.212637Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T02:02:32.219536Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T02:02:32.654840Z WARNING chrome[1472:1472]: [chrome/browser/extensions/api/settings_private/prefs_util.cc:1426] Cros settings pref not found: cros.display_rotation_default
+2026-09-25T02:02:32.753252Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T02:02:32.753362Z INFO chrome[1472:1472]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-25T02:02:33.171789Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T02:02:33.171899Z INFO chrome[1472:1472]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-25T02:02:33.398997Z VERBOSE1 chrome[1472:1472]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1188 ms
+2026-09-25T02:02:33.441985Z WARNING chrome[1472:1472]: [google_apis/common/auth_service.cc:76] AuthRequest: token request using refresh token failed: Connection failed (-106).
+2026-09-25T02:02:33.455480Z WARNING chrome[1472:1472]: [google_apis/common/auth_service.cc:76] AuthRequest: token request using refresh token failed: Connection failed (-106).
+2026-09-25T02:02:34.745361Z WARNING chrome[1472:1472]: [google_apis/common/auth_service.cc:76] AuthRequest: token request using refresh token failed: Connection failed (-106).
+2026-09-25T02:02:42.973664Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T02:03:12.377921Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T02:03:13.568781Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T02:03:31.081737Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T02:03:31.090068Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T02:03:31.547848Z WARNING chrome[1472:1472]: [chrome/browser/extensions/api/settings_private/prefs_util.cc:1426] Cros settings pref not found: cros.display_rotation_default
+2026-09-25T02:03:31.652581Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T02:03:31.652691Z INFO chrome[1472:1472]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-25T02:03:32.096878Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T02:03:32.097024Z INFO chrome[1472:1472]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-25T02:03:32.347404Z VERBOSE1 chrome[1472:1472]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1268 ms
+2026-09-25T02:03:38.097891Z ERROR chrome[1472:1472]: [components/device_event_log/device_event_log_impl.cc:200] [21:03:38.097] Network: cros_network_config.cc:2921 Technology unavailable: kWiFi
+2026-09-25T02:03:40.331704Z ERROR chrome[1472:1472]: [components/device_event_log/device_event_log_impl.cc:200] [21:03:40.331] Network: cros_network_config.cc:2921 Technology unavailable: kWiFi
+2026-09-25T02:03:47.726293Z ERROR chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 6
+2026-09-25T02:03:57.973246Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ui/ash/session/session_controller_client_impl.cc:471] b/228873153 : Requesting screen lock from SessionControllerClientImpl
+2026-09-25T02:03:57.989674Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:546] Received ShowLockScreen request from session manager
+2026-09-25T02:03:57.989736Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:572] ScreenLocker::Show()
+2026-09-25T02:03:57.989892Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:587] Created ScreenLocker 0x4409cb1240
+2026-09-25T02:03:57.989914Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:200] ScreenLocker::Init()
+2026-09-25T02:03:58.000667Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/views_screen_locker.cc:76] b/228873153 : ViewsScreenLocker::Init()
+2026-09-25T02:03:58.016681Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:731] ScreenLocker 0x4409cb1240 is ready after 0.026896 second(s)
+2026-09-25T02:03:58.016745Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:735] Calling session manager's HandleLockScreenShown D-Bus method
+2026-09-25T02:03:58.025701Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-25T02:03:58.025769Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-25T02:03:58.026180Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=1 ,lock_state=0
+2026-09-25T02:03:58.026227Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:436] Screen locked without suspend
+2026-09-25T02:03:58.026238Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=1
+2026-09-25T02:03:58.026494Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 1, shutting_down_: 0, system_is_locked_: 0, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 0, animating_lock_: 0
+2026-09-25T02:03:58.026556Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:673] StartPostLockAnimation
+2026-09-25T02:03:58.028095Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T02:03:58.031357Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:717] Fingerprint is not available on lock screen.
+2026-09-25T02:03:58.031424Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:906] MaybeDisablePinAndFingerprintFromTimeout source=ScreenLockReady
+2026-09-25T02:03:58.031529Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:925] Scheduling next pin and fingerprint timeout check at 2026-09-27 01:55:13.103887 UTC
+2026-09-25T02:03:58.031592Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:293] Screen locker animations have completed, lock=1 , block_suspend_token=1
+2026-09-25T02:03:58.043518Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_sharing_service_impl.cc:1391] OnVisibilityChanged: Nearby sharing visibility changed to kYourDevices
+2026-09-25T02:03:58.046803Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-25T02:03:58.047771Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:949] Unexpected call to OnUserAuthFactorsChanged; state unchanged.
+2026-09-25T02:03:58.066728Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-25T02:03:58.369588Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:500] PowerEventObserver::OnCompositorsReadyForSuspend, has_suspend_token=0
+2026-09-25T02:03:58.484520Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=0
+2026-09-25T02:04:00.027491Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:771] OnPostLockFailTimeout
+2026-09-25T02:04:00.027558Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=1
+2026-09-25T02:04:33.648175Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1121] crbug.com/1339004 : AuthSubmit 1 / 0
+2026-09-25T02:04:33.648710Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:140] crbug.com/1339004 : started authentication
+2026-09-25T02:04:33.744079Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:275] Authentication success: 0.09516 second(s)
+2026-09-25T02:04:33.744201Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:487] crbug.com/1339004 : authentication complete
+2026-09-25T02:04:33.744233Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1140] crbug.com/1339004 : OnAuthComplete 0
+2026-09-25T02:04:33.744284Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:490] crbug.com/1339004 : triggered callback
+2026-09-25T02:04:33.744303Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:323] Hiding the lock screen.
+2026-09-25T02:04:33.744316Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:700] StartUnlockAnimationBeforeLockUIDestroyed
+2026-09-25T02:04:34.105917Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:621] ScreenLocker::OnUnlockAnimationFinished aborted=0
+2026-09-25T02:04:34.136902Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-25T02:04:34.136966Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-25T02:04:34.137272Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=0 ,lock_state=3
+2026-09-25T02:04:34.137306Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=0
+2026-09-25T02:04:34.137582Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 0, shutting_down_: 0, system_is_locked_: 1, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 1, animating_lock_: 0
+2026-09-25T02:04:34.137625Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:717] StartUnlockAnimationAfterLockUIDestroyed
+2026-09-25T02:04:34.144766Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T02:04:34.144821Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:648] Deleting ScreenLocker 0x4409cb1240
+2026-09-25T02:04:34.144837Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:685] Destroying ScreenLocker 0x4409cb1240
+2026-09-25T02:04:34.144862Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:702] Calling session manager's HandleLockScreenDismissed D-Bus method
+2026-09-25T02:04:34.176831Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_sharing_service_impl.cc:1391] OnVisibilityChanged: Nearby sharing visibility changed to kUnknown
+2026-09-25T02:04:34.555261Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:789] UnlockAnimationAfterLockUIDestroyedFinished: aborted=0
+2026-09-25T02:04:39.962470Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-25T02:04:40.050743Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T02:04:40.062713Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T02:04:40.494267Z WARNING chrome[1472:1472]: [chrome/browser/extensions/api/settings_private/prefs_util.cc:1426] Cros settings pref not found: cros.display_rotation_default
+2026-09-25T02:04:40.603057Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T02:04:40.603168Z INFO chrome[1472:1472]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-25T02:04:41.045933Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T02:04:41.046043Z INFO chrome[1472:1472]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-25T02:04:41.311819Z VERBOSE1 chrome[1472:1472]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1264 ms
+2026-09-25T02:05:05.094728Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T02:05:15.917781Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ui/ash/session/session_controller_client_impl.cc:471] b/228873153 : Requesting screen lock from SessionControllerClientImpl
+2026-09-25T02:05:15.922129Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:546] Received ShowLockScreen request from session manager
+2026-09-25T02:05:15.922189Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:572] ScreenLocker::Show()
+2026-09-25T02:05:15.922311Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:587] Created ScreenLocker 0x440351dc00
+2026-09-25T02:05:15.922331Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:200] ScreenLocker::Init()
+2026-09-25T02:05:15.938116Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/views_screen_locker.cc:76] b/228873153 : ViewsScreenLocker::Init()
+2026-09-25T02:05:15.953726Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:731] ScreenLocker 0x440351dc00 is ready after 0.031489 second(s)
+2026-09-25T02:05:15.953808Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:735] Calling session manager's HandleLockScreenShown D-Bus method
+2026-09-25T02:05:15.962572Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-25T02:05:15.962630Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-25T02:05:15.962941Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=1 ,lock_state=0
+2026-09-25T02:05:15.962977Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:436] Screen locked without suspend
+2026-09-25T02:05:15.962988Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=1
+2026-09-25T02:05:15.963159Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 1, shutting_down_: 0, system_is_locked_: 0, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 0, animating_lock_: 0
+2026-09-25T02:05:15.963194Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:673] StartPostLockAnimation
+2026-09-25T02:05:15.964342Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T02:05:15.969463Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:717] Fingerprint is not available on lock screen.
+2026-09-25T02:05:15.969516Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:906] MaybeDisablePinAndFingerprintFromTimeout source=ScreenLockReady
+2026-09-25T02:05:15.969621Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:925] Scheduling next pin and fingerprint timeout check at 2026-09-27 02:04:33.744198 UTC
+2026-09-25T02:05:15.969688Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:293] Screen locker animations have completed, lock=1 , block_suspend_token=1
+2026-09-25T02:05:15.983253Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_sharing_service_impl.cc:1391] OnVisibilityChanged: Nearby sharing visibility changed to kYourDevices
+2026-09-25T02:05:15.986833Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-25T02:05:15.994832Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:949] Unexpected call to OnUserAuthFactorsChanged; state unchanged.
+2026-09-25T02:05:16.018603Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-25T02:05:16.384844Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:500] PowerEventObserver::OnCompositorsReadyForSuspend, has_suspend_token=0
+2026-09-25T02:05:16.449778Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=0
+2026-09-25T02:05:17.963468Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:771] OnPostLockFailTimeout
+2026-09-25T02:05:17.963511Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=1
+2026-09-25T02:05:18.848249Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T02:05:18.848453Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T02:05:18.851782Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T02:05:18.944921Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T02:05:18.945450Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T02:05:18.946242Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:0 Bluetooth:0
+2026-09-25T02:05:18.951784Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-25T02:05:18.957492Z VERBOSE1 chrome[1472:1472]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Closed
+2026-09-25T02:05:18.957544Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=1
+2026-09-25T02:05:18.957557Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T02:05:45.845127Z WARNING chrome[1472:1472]: [google_apis/common/auth_service.cc:76] AuthRequest: token request using refresh token failed: Connection failed (-106).
+2026-09-25T02:05:46.365893Z WARNING chrome[1472:1472]: [google_apis/common/auth_service.cc:76] AuthRequest: token request using refresh token failed: Connection failed (-106).
+2026-09-25T02:05:46.453995Z WARNING chrome[1472:1472]: [google_apis/common/auth_service.cc:76] AuthRequest: token request using refresh token failed: Connection failed (-106).
+2026-09-25T02:06:18.759684Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T02:06:18.759807Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T02:06:18.761471Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T02:06:18.761653Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T02:06:18.763776Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T02:06:21.822310Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:06:27.132887Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:07:27.727571Z ERROR chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 7
+2026-09-25T02:07:47.940001Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:07:47.940262Z WARNING chrome[1472:1472]: [chrome/browser/ash/cryptauth/client_app_metadata_provider_service.cc:300] ClientAppMetadataProviderService::OnInstanceIdTokenFetched(): Failed to fetch InstanceID token; result: .
+2026-09-25T02:08:52.393658Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:08:52.752729Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:10:00.726087Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:10:49.497030Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:11:11.800001Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:11:48.786797Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:11:57.063573Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:12:14.020604Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:12:47.731213Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:12:54.672426Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:13:15.976521Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:13:22.478733Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:13:47.728992Z ERROR chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 8
+2026-09-25T02:14:06.143814Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:14:20.866673Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:15:30.225578Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:17:01.971722Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:17:07.086008Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:19:26.516721Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:23:59.456998Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:24:29.605120Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:25:27.733303Z ERROR chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 9
+2026-09-25T02:26:20.040960Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:26:20.041158Z WARNING chrome[1472:1472]: [chrome/browser/ash/cryptauth/client_app_metadata_provider_service.cc:300] ClientAppMetadataProviderService::OnInstanceIdTokenFetched(): Failed to fetch InstanceID token; result: .
+2026-09-25T02:27:57.968860Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:28:06.243966Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:28:24.897550Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:28:30.086770Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:29:07.677329Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:29:19.008146Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:30:50.753606Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:31:09.686029Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:34:05.328704Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:34:53.000599Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:40:17.768542Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:41:57.521486Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:46:47.740481Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:47:09.641843Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:47:42.090314Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:47:47.734489Z ERROR chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 10
+2026-09-25T02:48:09.566081Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:48:11.943610Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:49:05.175678Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:49:29.404698Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:49:51.537810Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:49:55.817447Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:50:44.413553Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:51:01.863135Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:52:39.745298Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:53:39.626030Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:54:04.842074Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:55:05.139233Z WARNING chrome[1472:1472]: [chrome/browser/ash/policy/server_backed_state/server_backed_state_keys_broker.cc:82] Failed to obtain server-backed state keys. Error: 2
+2026-09-25T02:56:26.595099Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:59:53.248786Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T02:59:53.248978Z WARNING chrome[1472:1472]: [chrome/browser/ash/cryptauth/client_app_metadata_provider_service.cc:300] ClientAppMetadataProviderService::OnInstanceIdTokenFetched(): Failed to fetch InstanceID token; result: .
+2026-09-25T03:00:37.264763Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:02:50.651982Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:04:49.379051Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:04:49.379183Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:04:49.379457Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:04:49.379596Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:04:49.379880Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:04:49.403530Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-25T03:04:49.404997Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:04:49.405852Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-25T03:04:49.528341Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:04:49.529631Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:04:49.535048Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-25T03:04:49.540328Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-25T03:04:49.540796Z VERBOSE1 chrome[1472:1472]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Open
+2026-09-25T03:04:49.540834Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=0
+2026-09-25T03:04:49.540848Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:04:54.601884Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:04:54.602008Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:04:54.602229Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:04:54.685974Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:04:54.686755Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:04:54.688195Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:0 Bluetooth:0
+2026-09-25T03:04:54.695888Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-25T03:04:54.701879Z VERBOSE1 chrome[1472:1472]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Closed
+2026-09-25T03:04:54.701925Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=1
+2026-09-25T03:04:54.701939Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:05:29.580994Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:05:29.581177Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:05:29.581697Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:05:29.581927Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:05:29.582458Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:13:15.862213Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:13:15.862338Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:13:15.862641Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:13:15.862773Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:13:15.862972Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:13:15.881027Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-25T03:13:15.882382Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:13:15.882737Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-25T03:13:15.988807Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:13:15.990953Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:13:15.995516Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-25T03:13:15.999338Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-25T03:13:15.999874Z VERBOSE1 chrome[1472:1472]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Open
+2026-09-25T03:13:15.999916Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=0
+2026-09-25T03:13:15.999929Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:13:21.139885Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1121] crbug.com/1339004 : AuthSubmit 1 / 0
+2026-09-25T03:13:21.140153Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:140] crbug.com/1339004 : started authentication
+2026-09-25T03:13:21.177675Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:275] Authentication success: 0.037325 second(s)
+2026-09-25T03:13:21.177795Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:487] crbug.com/1339004 : authentication complete
+2026-09-25T03:13:21.177841Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1140] crbug.com/1339004 : OnAuthComplete 0
+2026-09-25T03:13:21.177885Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:490] crbug.com/1339004 : triggered callback
+2026-09-25T03:13:21.177908Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:323] Hiding the lock screen.
+2026-09-25T03:13:21.177929Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:700] StartUnlockAnimationBeforeLockUIDestroyed
+2026-09-25T03:13:21.529591Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:621] ScreenLocker::OnUnlockAnimationFinished aborted=0
+2026-09-25T03:13:21.543764Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-25T03:13:21.543830Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-25T03:13:21.544145Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=0 ,lock_state=3
+2026-09-25T03:13:21.544179Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=0
+2026-09-25T03:13:21.544463Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 0, shutting_down_: 0, system_is_locked_: 1, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 1, animating_lock_: 0
+2026-09-25T03:13:21.544503Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:717] StartUnlockAnimationAfterLockUIDestroyed
+2026-09-25T03:13:21.560876Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T03:13:21.560939Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:648] Deleting ScreenLocker 0x440351dc00
+2026-09-25T03:13:21.560955Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:685] Destroying ScreenLocker 0x440351dc00
+2026-09-25T03:13:21.560979Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:702] Calling session manager's HandleLockScreenDismissed D-Bus method
+2026-09-25T03:13:21.586225Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_sharing_service_impl.cc:1391] OnVisibilityChanged: Nearby sharing visibility changed to kUnknown
+2026-09-25T03:13:21.962038Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:789] UnlockAnimationAfterLockUIDestroyedFinished: aborted=0
+2026-09-25T03:13:30.373057Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:13:30.374109Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:13:30.374718Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:13:40.580327Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-25T03:13:40.645539Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T03:13:40.652809Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T03:13:40.739820Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T03:13:40.753756Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T03:13:40.807986Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T03:13:40.823525Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T03:13:41.268094Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T03:13:41.298320Z VERBOSE1 chrome[1545:1545]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-25T03:13:41.396002Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:13:41.396116Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:13:41.398664Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:13:41.398764Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:13:41.398796Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:13:41.441656Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:13:41.441741Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:13:41.643381Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:13:41.643477Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:14:25.239874Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ui/ash/session/session_controller_client_impl.cc:471] b/228873153 : Requesting screen lock from SessionControllerClientImpl
+2026-09-25T03:14:25.250043Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:546] Received ShowLockScreen request from session manager
+2026-09-25T03:14:25.250106Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:572] ScreenLocker::Show()
+2026-09-25T03:14:25.250232Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:587] Created ScreenLocker 0x440c222740
+2026-09-25T03:14:25.250253Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:200] ScreenLocker::Init()
+2026-09-25T03:14:25.262303Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/views_screen_locker.cc:76] b/228873153 : ViewsScreenLocker::Init()
+2026-09-25T03:14:25.275650Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:731] ScreenLocker 0x440c222740 is ready after 0.025495 second(s)
+2026-09-25T03:14:25.275706Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:735] Calling session manager's HandleLockScreenShown D-Bus method
+2026-09-25T03:14:25.281006Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-25T03:14:25.281098Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-25T03:14:25.281414Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=1 ,lock_state=0
+2026-09-25T03:14:25.281445Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:436] Screen locked without suspend
+2026-09-25T03:14:25.281469Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=1
+2026-09-25T03:14:25.281642Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 1, shutting_down_: 0, system_is_locked_: 0, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 0, animating_lock_: 0
+2026-09-25T03:14:25.281675Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:673] StartPostLockAnimation
+2026-09-25T03:14:25.283138Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T03:14:25.286336Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:717] Fingerprint is not available on lock screen.
+2026-09-25T03:14:25.286403Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:906] MaybeDisablePinAndFingerprintFromTimeout source=ScreenLockReady
+2026-09-25T03:14:25.286512Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:925] Scheduling next pin and fingerprint timeout check at 2026-09-27 03:13:21.177791 UTC
+2026-09-25T03:14:25.286573Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:293] Screen locker animations have completed, lock=1 , block_suspend_token=1
+2026-09-25T03:14:25.297982Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_sharing_service_impl.cc:1391] OnVisibilityChanged: Nearby sharing visibility changed to kYourDevices
+2026-09-25T03:14:25.300586Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-25T03:14:25.316341Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:949] Unexpected call to OnUserAuthFactorsChanged; state unchanged.
+2026-09-25T03:14:25.335452Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-25T03:14:25.670721Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:500] PowerEventObserver::OnCompositorsReadyForSuspend, has_suspend_token=0
+2026-09-25T03:14:25.734744Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=0
+2026-09-25T03:14:27.263253Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:14:27.263380Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:14:27.263658Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:14:27.282554Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:771] OnPostLockFailTimeout
+2026-09-25T03:14:27.282606Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=1
+2026-09-25T03:14:27.348455Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:14:27.348963Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:14:27.349835Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:0 Bluetooth:0
+2026-09-25T03:14:27.358703Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-25T03:14:27.363090Z VERBOSE1 chrome[1472:1472]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Closed
+2026-09-25T03:14:27.363137Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=1
+2026-09-25T03:14:27.363165Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:15:04.806065Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:15:28.194494Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:15:28.194613Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:15:28.194917Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:15:28.195056Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:15:28.195352Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:15:29.109365Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:16:17.431767Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:18:08.572600Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:18:08.572717Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:18:08.572964Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:18:08.573087Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:18:08.573347Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:18:08.603968Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-25T03:18:08.605963Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:18:08.606643Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-25T03:18:08.714111Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:18:08.714592Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:18:08.717494Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-25T03:18:08.723067Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-25T03:18:08.728603Z VERBOSE1 chrome[1472:1472]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Open
+2026-09-25T03:18:08.728668Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=0
+2026-09-25T03:18:08.728699Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:18:08.751305Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:18:08.752351Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:18:08.753824Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:18:08.755070Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:18:08.921498Z WARNING chrome[1472:12957]: [services/audio/sync_reader.cc:154] ASR: No room in socket buffer.: Broken pipe (32)
+2026-09-25T03:18:10.651683Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:18:16.523966Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1121] crbug.com/1339004 : AuthSubmit 1 / 0
+2026-09-25T03:18:16.524548Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:140] crbug.com/1339004 : started authentication
+2026-09-25T03:18:16.574713Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:275] Authentication success: 0.049772 second(s)
+2026-09-25T03:18:16.574821Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:487] crbug.com/1339004 : authentication complete
+2026-09-25T03:18:16.574860Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1140] crbug.com/1339004 : OnAuthComplete 0
+2026-09-25T03:18:16.574896Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:490] crbug.com/1339004 : triggered callback
+2026-09-25T03:18:16.574914Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:323] Hiding the lock screen.
+2026-09-25T03:18:16.574927Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:700] StartUnlockAnimationBeforeLockUIDestroyed
+2026-09-25T03:18:16.916978Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:621] ScreenLocker::OnUnlockAnimationFinished aborted=0
+2026-09-25T03:18:16.924256Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-25T03:18:16.924314Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-25T03:18:16.924712Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=0 ,lock_state=3
+2026-09-25T03:18:16.924742Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=0
+2026-09-25T03:18:16.924986Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 0, shutting_down_: 0, system_is_locked_: 1, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 1, animating_lock_: 0
+2026-09-25T03:18:16.925018Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:717] StartUnlockAnimationAfterLockUIDestroyed
+2026-09-25T03:18:16.933588Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T03:18:16.933643Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:648] Deleting ScreenLocker 0x440c222740
+2026-09-25T03:18:16.933658Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:685] Destroying ScreenLocker 0x440c222740
+2026-09-25T03:18:16.933685Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:702] Calling session manager's HandleLockScreenDismissed D-Bus method
+2026-09-25T03:18:16.952170Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_sharing_service_impl.cc:1391] OnVisibilityChanged: Nearby sharing visibility changed to kUnknown
+2026-09-25T03:18:17.282825Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:789] UnlockAnimationAfterLockUIDestroyedFinished: aborted=0
+2026-09-25T03:18:19.015133Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:18:37.837076Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:18:37.841425Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:18:37.841498Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:18:37.845728Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:18:37.845813Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:18:38.080169Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:18:46.210301Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:18:49.480757Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ui/ash/session/session_controller_client_impl.cc:471] b/228873153 : Requesting screen lock from SessionControllerClientImpl
+2026-09-25T03:18:49.486365Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:546] Received ShowLockScreen request from session manager
+2026-09-25T03:18:49.486434Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:572] ScreenLocker::Show()
+2026-09-25T03:18:49.486563Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:587] Created ScreenLocker 0x440c2c7640
+2026-09-25T03:18:49.486580Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:200] ScreenLocker::Init()
+2026-09-25T03:18:49.512493Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/views_screen_locker.cc:76] b/228873153 : ViewsScreenLocker::Init()
+2026-09-25T03:18:49.526880Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:731] ScreenLocker 0x440c2c7640 is ready after 0.040398 second(s)
+2026-09-25T03:18:49.526946Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:735] Calling session manager's HandleLockScreenShown D-Bus method
+2026-09-25T03:18:49.532888Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-25T03:18:49.532950Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-25T03:18:49.533248Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=1 ,lock_state=0
+2026-09-25T03:18:49.533280Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:436] Screen locked without suspend
+2026-09-25T03:18:49.533291Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=1
+2026-09-25T03:18:49.533479Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 1, shutting_down_: 0, system_is_locked_: 0, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 0, animating_lock_: 0
+2026-09-25T03:18:49.533519Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:673] StartPostLockAnimation
+2026-09-25T03:18:49.534694Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T03:18:49.538315Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:717] Fingerprint is not available on lock screen.
+2026-09-25T03:18:49.538429Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:906] MaybeDisablePinAndFingerprintFromTimeout source=ScreenLockReady
+2026-09-25T03:18:49.538549Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:925] Scheduling next pin and fingerprint timeout check at 2026-09-27 03:18:16.574813 UTC
+2026-09-25T03:18:49.538627Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:293] Screen locker animations have completed, lock=1 , block_suspend_token=1
+2026-09-25T03:18:49.552218Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_sharing_service_impl.cc:1391] OnVisibilityChanged: Nearby sharing visibility changed to kYourDevices
+2026-09-25T03:18:49.553663Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-25T03:18:49.557989Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:949] Unexpected call to OnUserAuthFactorsChanged; state unchanged.
+2026-09-25T03:18:49.592744Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-25T03:18:49.911789Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:500] PowerEventObserver::OnCompositorsReadyForSuspend, has_suspend_token=0
+2026-09-25T03:18:50.010511Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=0
+2026-09-25T03:18:51.534423Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:771] OnPostLockFailTimeout
+2026-09-25T03:18:51.534483Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=1
+2026-09-25T03:18:52.119552Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:18:52.119753Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:18:52.119956Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:18:52.205762Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:18:52.206637Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:18:52.210025Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:0 Bluetooth:0
+2026-09-25T03:18:52.221686Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-25T03:18:52.232824Z VERBOSE1 chrome[1472:1472]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Closed
+2026-09-25T03:18:52.232872Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=1
+2026-09-25T03:18:52.232886Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:19:43.779078Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:19:53.004174Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:19:53.004351Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:19:53.004892Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:19:53.005127Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:19:53.005524Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:21:31.291170Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:21:33.173512Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:23:05.206965Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:23:05.211133Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:23:05.211236Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:23:05.211304Z ERROR chrome[1472:1472]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-25T03:23:31.484347Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:23:31.484550Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:23:31.485007Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:23:31.485210Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:23:31.485857Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:23:31.509578Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-25T03:23:31.511625Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:23:31.512183Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-25T03:23:31.619746Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:23:31.621786Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:23:31.625345Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-25T03:23:31.629007Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-25T03:23:31.629521Z VERBOSE1 chrome[1472:1472]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Open
+2026-09-25T03:23:31.629558Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=0
+2026-09-25T03:23:31.629571Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:23:38.527362Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1121] crbug.com/1339004 : AuthSubmit 1 / 0
+2026-09-25T03:23:38.527652Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:140] crbug.com/1339004 : started authentication
+2026-09-25T03:23:38.572016Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:236] Authentication failure: 0.044165 second(s)
+2026-09-25T03:23:38.572188Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:487] crbug.com/1339004 : authentication complete
+2026-09-25T03:23:38.572251Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1140] crbug.com/1339004 : OnAuthComplete 1
+2026-09-25T03:23:38.572857Z WARNING chrome[1472:1472]: [ash/login/ui/login_password_view.cc:503] LoginPasswordView::SetReadOnly called with false during Authentication.
+2026-09-25T03:23:38.574113Z WARNING chrome[1472:1472]: [ash/login/ui/login_pin_input_view.cc:275] LoginPinInputView::SetReadOnly called with false during Authentication.
+2026-09-25T03:23:38.583169Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:490] crbug.com/1339004 : triggered callback
+2026-09-25T03:23:38.598940Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-25T03:23:43.017807Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1121] crbug.com/1339004 : AuthSubmit 1 / 0
+2026-09-25T03:23:43.018135Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:140] crbug.com/1339004 : started authentication
+2026-09-25T03:23:43.101547Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:275] Authentication success: 0.082968 second(s)
+2026-09-25T03:23:43.101641Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:487] crbug.com/1339004 : authentication complete
+2026-09-25T03:23:43.101959Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1140] crbug.com/1339004 : OnAuthComplete 0
+2026-09-25T03:23:43.102040Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:490] crbug.com/1339004 : triggered callback
+2026-09-25T03:23:43.102062Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:323] Hiding the lock screen.
+2026-09-25T03:23:43.102076Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:700] StartUnlockAnimationBeforeLockUIDestroyed
+2026-09-25T03:23:43.482954Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:621] ScreenLocker::OnUnlockAnimationFinished aborted=0
+2026-09-25T03:23:43.493581Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-25T03:23:43.493634Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-25T03:23:43.493932Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=0 ,lock_state=3
+2026-09-25T03:23:43.493958Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=0
+2026-09-25T03:23:43.494203Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 0, shutting_down_: 0, system_is_locked_: 1, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 1, animating_lock_: 0
+2026-09-25T03:23:43.494237Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:717] StartUnlockAnimationAfterLockUIDestroyed
+2026-09-25T03:23:43.501358Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T03:23:43.501411Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:648] Deleting ScreenLocker 0x440c2c7640
+2026-09-25T03:23:43.501429Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:685] Destroying ScreenLocker 0x440c2c7640
+2026-09-25T03:23:43.501454Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:702] Calling session manager's HandleLockScreenDismissed D-Bus method
+2026-09-25T03:23:43.516013Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_sharing_service_impl.cc:1391] OnVisibilityChanged: Nearby sharing visibility changed to kUnknown
+2026-09-25T03:23:43.898529Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:789] UnlockAnimationAfterLockUIDestroyedFinished: aborted=0
+2026-09-25T03:24:37.283256Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ui/ash/session/session_controller_client_impl.cc:471] b/228873153 : Requesting screen lock from SessionControllerClientImpl
+2026-09-25T03:24:37.287700Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:546] Received ShowLockScreen request from session manager
+2026-09-25T03:24:37.287767Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:572] ScreenLocker::Show()
+2026-09-25T03:24:37.287898Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:587] Created ScreenLocker 0x440bf76680
+2026-09-25T03:24:37.287918Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:200] ScreenLocker::Init()
+2026-09-25T03:24:37.309638Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/views_screen_locker.cc:76] b/228873153 : ViewsScreenLocker::Init()
+2026-09-25T03:24:37.326464Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:731] ScreenLocker 0x440bf76680 is ready after 0.038644 second(s)
+2026-09-25T03:24:37.326526Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:735] Calling session manager's HandleLockScreenShown D-Bus method
+2026-09-25T03:24:37.334521Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-25T03:24:37.334588Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-25T03:24:37.334885Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=1 ,lock_state=0
+2026-09-25T03:24:37.334917Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:436] Screen locked without suspend
+2026-09-25T03:24:37.334929Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=1
+2026-09-25T03:24:37.335114Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 1, shutting_down_: 0, system_is_locked_: 0, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 0, animating_lock_: 0
+2026-09-25T03:24:37.335155Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:673] StartPostLockAnimation
+2026-09-25T03:24:37.336418Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T03:24:37.339613Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:717] Fingerprint is not available on lock screen.
+2026-09-25T03:24:37.339667Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:906] MaybeDisablePinAndFingerprintFromTimeout source=ScreenLockReady
+2026-09-25T03:24:37.339764Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:925] Scheduling next pin and fingerprint timeout check at 2026-09-27 03:23:43.101637 UTC
+2026-09-25T03:24:37.339824Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:293] Screen locker animations have completed, lock=1 , block_suspend_token=1
+2026-09-25T03:24:37.351885Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_sharing_service_impl.cc:1391] OnVisibilityChanged: Nearby sharing visibility changed to kYourDevices
+2026-09-25T03:24:37.353404Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-25T03:24:37.370867Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:949] Unexpected call to OnUserAuthFactorsChanged; state unchanged.
+2026-09-25T03:24:37.387426Z WARNING chrome[1472:1472]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-25T03:24:37.707228Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:500] PowerEventObserver::OnCompositorsReadyForSuspend, has_suspend_token=0
+2026-09-25T03:24:37.772193Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=0
+2026-09-25T03:24:38.927639Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:24:38.927772Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:24:38.928137Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:24:39.036411Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:24:39.037017Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:24:39.037831Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:0 Bluetooth:0
+2026-09-25T03:24:39.042968Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-25T03:24:39.048726Z VERBOSE1 chrome[1472:1472]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Closed
+2026-09-25T03:24:39.048795Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=1
+2026-09-25T03:24:39.048826Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:24:39.335595Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:771] OnPostLockFailTimeout
+2026-09-25T03:24:39.335644Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=1
+2026-09-25T03:24:47.755953Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:25:05.566831Z WARNING chrome[1472:1472]: [google_apis/common/auth_service.cc:76] AuthRequest: token request using refresh token failed: Connection failed (-106).
+2026-09-25T03:25:05.984966Z WARNING chrome[1472:1472]: [google_apis/common/auth_service.cc:76] AuthRequest: token request using refresh token failed: Connection failed (-106).
+2026-09-25T03:25:06.958273Z WARNING chrome[1472:1472]: [google_apis/common/auth_service.cc:76] AuthRequest: token request using refresh token failed: Connection failed (-106).
+2026-09-25T03:25:41.972333Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:25:41.972539Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T03:25:41.972978Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T03:25:41.973193Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T03:25:41.973695Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T03:28:16.432134Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:30:27.739121Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:30:53.184669Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:31:27.736454Z ERROR chrome[1472:1472]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 11
+2026-09-25T03:31:47.991324Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:32:17.706750Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:33:15.145730Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:36:42.118139Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:42:37.260906Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:42:37.261121Z WARNING chrome[1472:1472]: [chrome/browser/ash/cryptauth/client_app_metadata_provider_service.cc:300] ClientAppMetadataProviderService::OnInstanceIdTokenFetched(): Failed to fetch InstanceID token; result: .
+2026-09-25T03:56:05.140377Z WARNING chrome[1472:1472]: [chrome/browser/ash/policy/server_backed_state/server_backed_state_keys_broker.cc:82] Failed to obtain server-backed state keys. Error: 2
+2026-09-25T03:57:11.844332Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:57:41.606906Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T03:58:23.149666Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T04:00:16.596026Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T04:03:07.368231Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T04:03:22.010151Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T04:03:28.816569Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T04:04:22.006432Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T04:06:17.328905Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T04:09:37.109436Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T04:09:52.804457Z ERROR chrome[1472:1525]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-25T04:13:52.339057Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T04:13:52.339190Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T04:13:52.339421Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T04:13:52.339552Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T04:13:52.339847Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T04:13:52.346840Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-25T04:13:52.348240Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T04:13:52.348650Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-25T04:13:52.471137Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T04:13:52.471751Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T04:13:52.476004Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-25T04:13:52.479633Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-25T04:13:52.480129Z VERBOSE1 chrome[1472:1472]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Open
+2026-09-25T04:13:52.480173Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=0
+2026-09-25T04:13:52.480187Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-25T04:13:56.020358Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1121] crbug.com/1339004 : AuthSubmit 1 / 0
+2026-09-25T04:13:56.020642Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:140] crbug.com/1339004 : started authentication
+2026-09-25T04:13:56.108958Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:275] Authentication success: 0.088112 second(s)
+2026-09-25T04:13:56.109055Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:487] crbug.com/1339004 : authentication complete
+2026-09-25T04:13:56.109102Z WARNING chrome[1472:1472]: [ash/login/ui/login_auth_user_view.cc:1140] crbug.com/1339004 : OnAuthComplete 0
+2026-09-25T04:13:56.109140Z WARNING chrome[1472:1472]: [ash/login/login_screen_controller.cc:490] crbug.com/1339004 : triggered callback
+2026-09-25T04:13:56.109157Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:323] Hiding the lock screen.
+2026-09-25T04:13:56.109171Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:700] StartUnlockAnimationBeforeLockUIDestroyed
+2026-09-25T04:13:56.481913Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:621] ScreenLocker::OnUnlockAnimationFinished aborted=0
+2026-09-25T04:13:56.489941Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-25T04:13:56.489993Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-25T04:13:56.490281Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=0 ,lock_state=3
+2026-09-25T04:13:56.490308Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=0
+2026-09-25T04:13:56.490825Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 0, shutting_down_: 0, system_is_locked_: 1, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 1, animating_lock_: 0
+2026-09-25T04:13:56.490879Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:717] StartUnlockAnimationAfterLockUIDestroyed
+2026-09-25T04:13:56.506473Z INFO chrome[1472:1472]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-25T04:13:56.506517Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:648] Deleting ScreenLocker 0x440bf76680
+2026-09-25T04:13:56.506532Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:685] Destroying ScreenLocker 0x440bf76680
+2026-09-25T04:13:56.506553Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/login/lock/screen_locker.cc:702] Calling session manager's HandleLockScreenDismissed D-Bus method
+2026-09-25T04:13:56.528371Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_sharing_service_impl.cc:1391] OnVisibilityChanged: Nearby sharing visibility changed to kUnknown
+2026-09-25T04:13:56.880724Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:789] UnlockAnimationAfterLockUIDestroyedFinished: aborted=0
+2026-09-25T04:14:12.023169Z VERBOSE1 chrome[1472:1472]: [ash/wm/lock_state_controller.cc:900] OnSessionStateChangeTimeout with shutdown requested
+2026-09-25T04:14:12.104323Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T04:14:12.104460Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-25T04:14:12.104727Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-25T04:14:12.203796Z VERBOSE1 chrome[1545:1589]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-25T04:14:12.204315Z VERBOSE1 chrome[1472:1472]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-25T04:14:12.205235Z INFO chrome[1472:1472]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:0 Bluetooth:0
+2026-09-25T04:14:12.211887Z INFO chrome[1472:1472]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-25T04:14:12.402557Z VERBOSE1 chrome[1472:1472]: [chrome/browser/lifetime/application_lifetime_chromeos.cc:197] Set the current session exit type as clean.
+2026-09-25T04:14:12.426225Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/session/arc_session_manager.cc:906] Shutting down session manager
+2026-09-25T04:14:12.492808Z ERROR chrome[1472:1472]: [chromeos/ash/components/drivefs/drivefs_host.cc:336] DriveFs unmounted
+2026-09-25T04:14:12.503643Z INFO chrome[1472:1472]: [chrome/browser/nearby_sharing/nearby_share_logger.cc:25] Nearby Share logging shutdown.
+2026-09-25T04:14:12.505797Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer.cc:64] ArcCertInstaller::~ArcCertInstaller
+2026-09-25T04:14:12.527517Z VERBOSE1 chrome[1472:1472]: [chrome/browser/ash/arc/session/arc_session_manager.cc:906] Shutting down session manager
+2026-09-25T04:14:12.584809Z ERROR chrome[1472:1472]: [device/bluetooth/floss/floss_dbus_client.h:875] D-Bus is not initialized, cannot call method UnregisterAdvertiserCallback on 
+2026-09-25T04:14:12.584870Z WARNING chrome[1472:1472]: [device/bluetooth/floss/floss_advertiser_client.cc:383] CompleteUnregisterCallback: Failed to unregister callback
+2026-09-25T04:14:12.584937Z WARNING chrome[1472:1472]: [components/reporting/util/disconnectable_client.cc:136] Service became unavailable

@@ -1,0 +1,34 @@
+{
+   "author": {
+      "email": "pronghorn-notifications-publishers@google.com"
+   },
+   "background": {
+      "service_worker": "sw_js.js",
+      "type": "module"
+   },
+   "description": "A filesystem for Files app on ChromeOS that shows your OneDrive files",
+   "file_system_provider_capabilities": {
+      "configurable": false,
+      "multiple_mounts": false,
+      "source": "network",
+      "watchable": true
+   },
+   "host_permissions": [ "https://graph.microsoft.com/", "https://login.microsoftonline.com/", "https://www.microsoft365.com/" ],
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEApvsEJP7MRMT+IbyztSzu0E2uiyhwlBogM2nAS7Yg9bESiYyC1PsB76jgGmTlkOTH5bR9CycvoTGbN+6XFEOddgwfBwcVBZu6XX23Zogiesfer78viV5GOPdP9OztkbaBMYoV0+h9qMA5M51IbAdV1zfvbCe7/3yvY/HYHRNR8X+YzeMSji/TnRXvZKdk+j+BhMEeGrcvGBHSQUkKzA+guepVkxH2rsuy/V4UYPJBd5JZ8U+6bzDO949VxNmxkAI1etlctXRkm7GAgNan5phDsqTpHm1HtOPa8LyDs0jNwh/9La+PNOj1Gp4VTTBNYS+CaWxUC1j2H13co9DXYQ2xCwVGVFleqNBFYHZ9UpCgpPrhvpVL9TNkL4rWZJf9s3wpASObDsDZjC3lbrnJEQYAPU+J7nY7LxKTU8XPhqk0AQ48SVBqyQKzmGbXupNlwQIGVgGjsuzZ0G9utKLbEO1aSZxKNOooSdqd3604hhrN/ep075T203VPSA7v+C1OACPcci4CUxkseP3GvDc1r9nfPKqGTU8dd835EOw3UBZGyhoX+4U9L4ZHaks5OLfEuGe+TTHP2EAAB0q0zIXRgZfJslWiqCZChh8T+GShYVcAFm/WmJ/KUAZg9jdRnc50DQfHEYntpXLjnNX/KPzFLKhzSFdQzgb00ZPOrRLWHVE53bcCAwEAAQ==",
+   "manifest_version": 3,
+   "name": "Connect OneDrive",
+   "permissions": [ "alarms", "crashReportPrivate", "identity", "fileSystemProvider", "metricsPrivate", "scripting", "storage", "odfsConfigPrivate" ],
+   "short_name": "ODFS",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.13.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "*.sourcemap" ]
+   } ]
+}

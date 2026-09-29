@@ -1,0 +1,14 @@
+2026/09/28-16:52:55.004 5f9 Recovering log #116
+2026/09/28-16:52:55.005 5f9 Level-0 table #118: started
+2026/09/28-16:52:55.020 5f9 Level-0 table #118: 4884 bytes OK
+2026/09/28-16:52:55.052 5f9 Delete type=3 #114
+2026/09/28-16:52:55.056 5f9 Delete type=0 #116
+2026/09/28-16:52:55.058 5ff Compacting 4@0 + 1@1 files
+2026/09/28-16:52:55.078 5ff Generated table #120@0: 278 keys, 48379 bytes
+2026/09/28-16:52:55.078 5ff Compacted 4@0 + 1@1 files => 48379 bytes
+2026/09/28-16:52:55.081 5ff compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/09/28-16:52:55.082 5ff Delete type=2 #107
+2026/09/28-16:52:55.083 5ff Delete type=2 #109
+2026/09/28-16:52:55.083 5ff Delete type=2 #112
+2026/09/28-16:52:55.083 5ff Delete type=2 #118
+2026/09/28-16:52:55.084 5ff Delete type=2 #115

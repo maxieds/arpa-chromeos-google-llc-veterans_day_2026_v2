@@ -1,0 +1,21 @@
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/root                          3.0G  2.7G  287M  91% /
+devtmpfs                           1.9G     0  1.9G   0% /dev
+tmpfs                              1.9G   47M  1.9G   3% /dev/shm
+tmpfs                              1.9G  8.3M  1.9G   1% /tmp
+tmpfs                              1.9G  1.3M  1.9G   1% /run
+none                               1.9G     0  1.9G   0% /sys/fs/cgroup
+/dev/loop0                         256K  256K     0 100% /run/chromeos-config/private
+/dev/4SYTOAIEXDA9Y5S3/unencrypted   19G  1.1G   17G   6% /mnt/stateful_partition
+/dev/mmcblk0p8                     3.8M   24K  3.7M   1% /usr/share/oem
+/dev/mapper/encstateful            5.5G  543M  4.9G  10% /mnt/stateful_partition/encrypted
+media                              1.9G     0  1.9G   0% /media
+imageloader                        1.9G     0  1.9G   0% /run/imageloader
+/dev/loop1                         364M  364M     0 100% /opt/google/modemfwd-firmware
+/dev/loop2                          96M   96M     0 100% /usr/share/chromeos-assets/speech_synthesis/patts
+/dev/loop3                         6.0M  6.0M     0 100% /usr/share/cros-camera/libfs
+/dev/dm-10                         8.8M  8.8M     0 100% /run/imageloader/nc-ap-dlc/package
+/dev/loop5                         7.0M  7.0M     0 100% /usr/share/chromeos-assets/quickoffice
+/dev/dm-15                         3.3M  3.3M     0 100% /run/imageloader/cros-camera-blur-detector-dlc/package
+fusebox://fusebox                  1.0T     0  1.0T   0% /media/fuse/fusebox
+/dev/dm-22                         256K  256K     0 100% /run/imageloader/growth-campaigns/1.0.20260128.0

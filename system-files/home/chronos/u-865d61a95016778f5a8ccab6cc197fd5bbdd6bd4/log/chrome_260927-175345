@@ -1,0 +1,690 @@
+2026-09-27T13:50:06.768314Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/session/user_session_manager.cc:1069] RespectLocalePreference: app_locale='en-GB', bkup_locale='en-GB', account_locale - unused.  Selected 'en-GB'
+2026-09-27T13:50:06.772645Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/session/user_session_manager.cc:1389] Password consuming service 1 votes 0
+2026-09-27T13:50:06.774219Z WARNING chrome[1478:1478]: [chrome/browser/ash/login/auth_factors_policy/local_auth_factors_policy_controller_factory.cc:85] User was not managed, not building service instance.
+2026-09-27T13:50:06.774990Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/session/user_session_manager.cc:1389] Password consuming service 0 votes 0
+2026-09-27T13:50:06.775033Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/session/user_session_manager.cc:1423] Clearing login password
+2026-09-27T13:50:06.812046Z WARNING chrome[1478:1478]: [chrome/browser/ash/login/signin/merge_session_throttling_utils.cc:140] Loading content for a profile without session restore?
+2026-09-27T13:50:06.821108Z INFO chrome[1478:1478]: [chrome/browser/ash/multidevice_setup/multidevice_setup_client_factory.cc:144] Allowed. Returning new MultiDeviceSetupClientHolder
+2026-09-27T13:50:06.845808Z ERROR chrome[1478:1478]: [chrome/browser/ash/input_method/input_method_manager_impl.cc:1195] IMEEngine for "jkghodnilhceideoidjikpgommlajknk" is not registered
+2026-09-27T13:50:06.846203Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/session/user_session_manager.cc:1639] SetPrimaryAccount result=0
+2026-09-27T13:50:06.846236Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/session/user_session_manager.cc:1674] Seed IdentityManager with the authenticated account info, success=1
+2026-09-27T13:50:06.887211Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.GetVmInfo: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmConcierge was not provided by any .service files
+2026-09-27T13:50:06.900272Z ERROR chrome[1478:1478]: [chrome/browser/ash/dbus/chrome_features_service_provider.cc:241] Invalid prefix on feature DeferConciergeStartup (want CrOSLateBoot)
+2026-09-27T13:50:06.900690Z WARNING chrome[1478:1544]: [chromeos/dbus/missive/missive_storage_module.cc:47] Store reporting data by a Missive daemon
+2026-09-27T13:50:06.901419Z WARNING chrome[1478:1478]: [chrome/browser/apps/app_service/metrics/app_platform_metrics.cc:560] Couldn't get Borealis ID for UNREGISTERED app ceoplblcdaffnnflkkcagjpomjgedmdl
+2026-09-27T13:50:06.943984Z WARNING chrome[1478:1478]: [chromeos/ash/components/memory/swap_configuration.cc:107] Overriding memory thresholds with values 15% and 40%
+2026-09-27T13:50:06.944313Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/adbd/arc_adbd_monitor_bridge.cc:154] Init ArcAdbdMonitorBridge
+2026-09-27T13:50:06.944554Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/bluetooth/arc_bluetooth_bridge.cc:357] Registering bluetooth adapter.
+2026-09-27T13:50:06.946756Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/sharesheet/arc_sharesheet_bridge.cc:63] ArcSharesheetBridge created
+2026-09-27T13:50:06.953899Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer.cc:58] ArcCertInstaller::ArcCertInstaller
+2026-09-27T13:50:06.954342Z WARNING chrome[1478:1478]: [chrome/browser/ash/arc/idle_manager/arc_idle_manager.cc:93] Doze will be enabled regardless of battery status
+2026-09-27T13:50:06.954551Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/session/arc_session_manager.cc:854] Calling SetUserInfo() in ArcSessionManager::Initialize
+2026-09-27T13:50:06.954853Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/session/arc_play_store_enabled_preference_handler.cc:65] Start observing Google Play Store enabled preference. Initial values are: Enabled=0 Managed=0
+2026-09-27T13:50:06.954956Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/session/arc_session_manager.cc:1381] ARC is already disabled. Killing an instance for login screen (if any).
+2026-09-27T13:50:06.986012Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-27T13:50:06.990876Z INFO chrome[1478:1478]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-27T13:50:06.990948Z INFO chrome[1478:1478]: [chrome/browser/ash/tether/tether_service.cc:399] Tether state has changed. New state: [BLE is not present on the device], Old state: [TetherService initializing]
+2026-09-27T13:50:06.992135Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/session/user_session_manager.cc:1920] Clearing all secrets
+2026-09-27T13:50:07.025568Z ERROR chrome[3938:3947]: [default_socket.cc:61] /run/perfetto/ exists but cannot be accessed. Falling back on /tmp/  (errno: 13, Permission denied)
+2026-09-27T13:50:07.027222Z WARNING chrome[1478:1478]: [chrome/browser/ash/extensions/signin_screen_policy_provider.cc:58] Denying load of Extension  : admccjkmockfdflocgggjfgdacdodkdf / Gemini in Chrome because of 'signin_screen' requires canary channel or newer, but this is the stable channel.
+2026-09-27T13:50:07.034069Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/session/user_session_manager.cc:1069] RespectLocalePreference: app_locale='en-GB', bkup_locale='en-GB', account_locale - unused.  Selected 'en-GB'
+2026-09-27T13:50:07.034277Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/session/user_session_manager.cc:2516] Launching browser...
+2026-09-27T13:50:07.034734Z WARNING chrome[1478:1478]: [chrome/browser/ui/ash/login/login_display_host_common.cc:287] Finalize
+2026-09-27T13:50:07.034766Z WARNING chrome[1478:1478]: [chrome/browser/ui/ash/login/login_display_host_common.cc:744] ShutdownDisplayHost
+2026-09-27T13:50:07.036064Z WARNING chrome[1478:1478]: [chrome/browser/browsing_data/chrome_browsing_data_remover_delegate.cc:1185] Failed to find user for current profile.
+2026-09-27T13:50:07.037023Z INFO chrome[1478:1478]: [chrome/browser/ash/login/existing_user_controller.cc:1066] (LOGIN) Session started, the profile is ready 
+2026-09-27T13:50:07.037198Z WARNING chrome[1478:1478]: [ash/login/login_screen_controller.cc:487] crbug.com/1339004 : authentication complete
+2026-09-27T13:50:07.037227Z WARNING chrome[1478:1478]: [ash/login/ui/login_auth_user_view.cc:1140] crbug.com/1339004 : OnAuthComplete 0
+2026-09-27T13:50:07.037267Z WARNING chrome[1478:1478]: [ash/login/login_screen_controller.cc:490] crbug.com/1339004 : triggered callback
+2026-09-27T13:50:07.051044Z WARNING chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:484] DeviceSyncImpl::GetLocalDeviceMetadata() invoked before initialization was complete. Cannot return local device metadata.
+2026-09-27T13:50:07.067248Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmConcierge was not provided by any .service files
+2026-09-27T13:50:07.067344Z ERROR chrome[1478:1478]: [chrome/browser/ash/guest_os/guest_os_session_tracker.cc:69] Failed to list VMs, assuming there aren't any already running
+2026-09-27T13:50:07.067464Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.GetVmInfo: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmConcierge was not provided by any .service files
+2026-09-27T13:50:07.074330Z ERROR chrome[1478:1478]: [chrome/browser/ash/input_method/input_method_manager_impl.cc:1224] Failed to change keyboard layout to us
+2026-09-27T13:50:07.078391Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/app_restore/full_restore_app_launch_handler.cc:495] There is restore data: Browser( no app type browser, no normal ) ARC(0) other apps(2) in /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-27T13:50:07.089179Z INFO chrome[1478:1478]: [chromeos/ash/services/device_sync/public/cpp/device_sync_client_impl.cc:280] Tried to get local device metadata before service was fully initialized; waiting for enrollment to complete before continuing.
+2026-09-27T13:50:07.089250Z WARNING chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:498] DeviceSyncImpl::GetSyncedDevices() invoked before initialization was complete. Cannot return devices.
+2026-09-27T13:50:07.105094Z INFO chrome[1478:1478]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-27T13:50:07.105319Z INFO chrome[1478:1478]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-27T13:50:07.105393Z INFO chrome[1478:1478]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-27T13:50:07.105612Z INFO chrome[1478:1478]: [ash/webui/eche_app_ui/eche_notification_click_handler.cc:32] No Phone Hub interaction handler to set Eche click handler
+2026-09-27T13:50:07.105750Z INFO chrome[1478:1478]: [ash/webui/eche_app_ui/eche_signaler.cc:86] echeapi EcheSignaler SetSystemInfoProvider
+2026-09-27T13:50:07.110929Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:50:07.152802Z WARNING chrome[1478:1533]: [ash/public/cpp/image_util.cc:32] Failed reading file
+2026-09-27T13:50:07.152858Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-27T13:50:07.152904Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-27T13:50:07.156496Z INFO chrome[1478:1478]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-27T13:50:07.174093Z INFO chrome[1478:1478]: [chromeos/ash/services/device_sync/public/cpp/device_sync_client_impl.cc:250] Tried to fetch synced devices before service was fully initialized; waiting for sync to complete before continuing.
+2026-09-27T13:50:07.188313Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:50:07.189901Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmPluginDispatcher.ListVms: object_path= /org/chromium/VmPluginDispatcher: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmPluginDispatcher was not provided by any .service files
+2026-09-27T13:50:07.189983Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.pciguard.SetExternalPciDevicesPermission: object_path= /org/chromium/pciguard: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.pciguard was not provided by any .service files
+2026-09-27T13:50:07.270357Z WARNING chrome[1478:1478]: [CONSOLE:1019] "Started ODFS sw: 1.13.0", source: chrome-extension://gnnndjlaomemikopnjhhnoombakkkkdg/sw_js.js (1019)
+2026-09-27T13:50:07.270308Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:50:07.291189Z INFO chrome[1478:1478]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-27T13:50:07.329584Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.BiometricsDaemon.BiometricsManager.GetRecordsForUser: object_path= /org/chromium/BiometricsDaemon/CrosFpBiometricsManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.BiometricsDaemon was not provided by any .service files
+2026-09-27T13:50:07.345539Z ERROR chrome[1478:1478]: [chrome/browser/ash/login/quick_unlock/fingerprint_storage.cc:195] Get Records failure
+2026-09-27T13:50:07.366045Z INFO chrome[1478:1478]: [chrome/browser/nearby_sharing/nearby_share_logger.cc:21] Nearby Share logging initialized.
+2026-09-27T13:50:07.366319Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/session/arc_session_manager.cc:1153] ARCVM activation is allowed: 1
+2026-09-27T13:50:07.367298Z INFO chrome[1478:1478]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-27T13:50:07.372088Z WARNING chrome[1478:1478]: [chromeos/ash/components/attestation/attestation_flow_adaptive.cc:155] Default attestation flow failed: 1
+2026-09-27T13:50:07.389603Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /: org.freedesktop.DBus.Error.Spawn.ChildExited: Launch helper exited with unknown return code 1
+2026-09-27T13:50:07.389682Z WARNING chrome[1478:1478]: [dbus/property.cc:174] GetAll request failed for: org.freedesktop.fwupd
+2026-09-27T13:50:07.389740Z ERROR chrome[1478:1478]: [components/device_event_log/device_event_log_impl.cc:200] [08:50:07.389] Firmware: fwupd_client.cc:639 No D-Bus response received from fwupd.
+2026-09-27T13:50:07.390037Z ERROR chrome[1478:1478]: [components/device_event_log/device_event_log_impl.cc:200] [08:50:07.390] Firmware: fwupd_client.cc:473 No Dbus response received from fwupd.
+2026-09-27T13:50:07.411058Z VERBOSE1 chrome[1478:1478]: [chromeos/ash/experiences/arc/session/connection_holder.h:292] Instance arc.mojom.IioSensorInstance not available.
+2026-09-27T13:50:07.421621Z ERROR chrome[1478:1478]: [chromeos/ash/components/attestation/attestation_flow.cc:401] Attestation: Failed to create certificate request. Status: 4
+2026-09-27T13:50:07.421797Z ERROR chrome[1478:1478]: [chrome/browser/ash/attestation/soft_bind_attestation_flow_impl.cc:220] Attestation unsuccessful, not verified
+2026-09-27T13:50:07.421833Z WARNING chrome[1478:1478]: [chrome/browser/ash/attestation/soft_bind_attestation_flow_impl.cc:143] Attestation session failure: notVerified
+2026-09-27T13:50:07.473812Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer.cc:72] ArcCertInstaller::InstallArcCerts
+2026-09-27T13:50:07.481142Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/enterprise/cert_store/cert_store_service.cc:582] ARC certificates installation has finished with result=1
+2026-09-27T13:50:07.482011Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.PowerManager.GetKeyboardBrightnessPercent: object_path= /org/chromium/PowerManager: org.freedesktop.DBus.Error.UnknownMethod: Method "GetKeyboardBrightnessPercent" with signature "" on interface "org.chromium.PowerManager" doesn't exist
+
+2026-09-27T13:50:07.482129Z ERROR chrome[1478:1478]: [ash/system/keyboard_brightness/keyboard_brightness_controller.cc:529] KeyboardBrightnessController: keyboard_brightness has no value, so cannot set prefs.
+2026-09-27T13:50:07.609823Z WARNING chrome[1478:1478]: [CONSOLE:777] "Mounts before restore: storage=none chrome=none, after restore: storage=none chrome=none", source: chrome-extension://gnnndjlaomemikopnjhhnoombakkkkdg/sw_js.js (777)
+2026-09-27T13:50:07.618578Z VERBOSE1 chrome[1478:1478]: [ash/public/cpp/metrics_util.cc:77] Ash system animation drops too many frames, smoothness= 6
+2026-09-27T13:50:07.656135Z WARNING chrome[1478:1478]: [CONSOLE:4] "Image Loader maximum parallel tasks: 2", source: chrome-extension://pmfjbimdmchhbnneeidfognadeopoehp/offscreen.js (4)
+2026-09-27T13:50:07.732389Z ERROR chrome[1478:1535]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_offscreen.html and for reason:1
+2026-09-27T13:50:07.761001Z ERROR chrome[1478:1535]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: constants.js and for reason:1
+2026-09-27T13:50:07.763151Z ERROR chrome[1478:1535]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_offscreen.js and for reason:1
+2026-09-27T13:50:07.766979Z ERROR chrome[1478:1535]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng.js and for reason:1
+2026-09-27T13:50:07.786612Z ERROR chrome[1478:1535]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.js and for reason:1
+2026-09-27T13:50:07.789934Z WARNING chrome[1478:1478]: [chrome/browser/ash/platform_keys/key_permissions/key_permissions_manager_impl.cc:83] Updating arc key permissions in chaps succeeded, 0 key(s) updated.
+2026-09-27T13:50:07.816299Z ERROR chrome[1478:1539]: [chrome/browser/ash/power/freezer_cgroup_process_manager.cc:130] Writing 4127 to /sys/fs/cgroup/freezer/ui/chrome_renderers/to_be_frozen/cgroup.procs failed: No such process (3)
+2026-09-27T13:50:07.834624Z ERROR chrome[1478:1535]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.data and for reason:1
+2026-09-27T13:50:07.836300Z ERROR chrome[1478:1535]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.wasm and for reason:1
+2026-09-27T13:50:07.949358Z ERROR chrome[1478:1478]: [ash/accelerometer/accelerometer_provider_mojo.cc:368] Unfinished initialization after timeout: 0
+2026-09-27T13:50:07.993299Z ERROR chrome[1478:1535]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: gjjabgpgjpampikjhjpfhneeoapjbjaf at path: voices.json and for reason:1
+2026-09-27T13:50:08.102305Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language trk/ba (Bashkir) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.132166Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language zle/be (Belarusian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.134216Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language iro/chr (Cherokee ) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.134306Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language sit/cmn-Latn-pinyin (Chinese (Mandarin, latin as Pinyin)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.134391Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language trk/cv (Chuvash) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.140932Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language gmw/en-US-nyc (English (America, New York City)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141042Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language map/haw (Hawaiian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141093Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language sem/he (Hebrew) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141174Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language art/io (Ido) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141234Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language trk/kk (Kazakh) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141276Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language gmw/lb (Luxembourgish) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141319Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language bat/ltg (Latgalian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141364Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language miz/mto (Totontepec Mixe) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141408Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language trk/nog (Nogai) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141495Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language art/piqd (Klingon) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141540Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language art/py (Pyash) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141581Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language art/qdb (Lang Belta) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141625Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language qu (Quechua) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141680Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language myn/quc (K'iche') should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141747Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language art/qya (Quenya) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141795Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language zle/ru-cl (Russian (Classic)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141841Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language art/sjn (Sindarin) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141885Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language urj/smj (Lule Saami) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141932Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language tai/th (Thai) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.141992Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language trk/tk (Turkmen) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.142040Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language trk/ug (Uyghur) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.142082Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language zle/uk (Ukrainian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.142139Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language trk/uz (Uzbek) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.142186Z ERROR chrome[1478:1478]: [CONSOLE:132] "Language sit/yue-Latn-jyutping (Chinese (Cantonese, latin as Jyutping)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-27T13:50:08.266255Z ERROR chrome[4193:4213]: [default_socket.cc:61] /run/perfetto/ exists but cannot be accessed. Falling back on /tmp/  (errno: 13, Permission denied)
+2026-09-27T13:50:14.592663Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:50:17.191032Z ERROR chrome[1478:1478]: [chrome/browser/ash/power/auto_screen_brightness/light_provider_mojo.cc:121] Target light sensor isn't available after timeout. Initialization failed.
+2026-09-27T13:50:17.191810Z ERROR chrome[1478:1478]: [chromeos/components/sensors/ash/sensor_hal_dispatcher.cc:213] Sensor HAL Client connection lost: 2
+2026-09-27T13:50:21.595834Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:50:23.319698Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:50:23.348272Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:50:26.354919Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-27T13:50:26.440834Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:50:26.447084Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:50:26.804363Z WARNING chrome[1478:1478]: [CONSOLE:2720] "Files app starting up: full-page", source: chrome://file-manager/foreground/js/main.js (2720)
+2026-09-27T13:50:26.838731Z WARNING chrome[1478:1478]: [CONSOLE:314] "Getting volumes", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-27T13:50:26.845172Z WARNING chrome[1478:1478]: [CONSOLE:314] "Queued the initialization of all 1 volumes", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-27T13:50:26.850474Z WARNING chrome[1478:1478]: [CONSOLE:314] "Volumes initialization finished", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-27T13:50:27.193542Z WARNING chrome[1478:1478]: [CONSOLE:2720] "Files app has started", source: chrome://file-manager/foreground/js/main.js (2720)
+2026-09-27T13:50:27.793507Z INFO chrome[1478:1533]: [chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+2026-09-27T13:50:28.201022Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:50:28.829874Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:50:36.095896Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:50:36.866269Z INFO chrome[1478:1533]: [chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+2026-09-27T13:50:41.506445Z WARNING chrome[1478:1478]: [google_apis/common/auth_service.cc:76] AuthRequest: token request using refresh token failed: Connection failed (-106).
+2026-09-27T13:50:41.506504Z ERROR chrome[1478:1478]: [chrome/browser/ui/ash/birch/birch_calendar_provider.cc:96] Failed to fetch calendar events, error 900
+2026-09-27T13:50:49.807129Z WARNING chrome[1478:1478]: [chrome/browser/profiles/profile_downloader.cc:285] ProfileDownloader: token request using refresh token failed:Connection failed (-106).
+2026-09-27T13:51:05.218791Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:51:06.821703Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 1
+2026-09-27T13:51:13.692208Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:51:13.998096Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:51:14.655030Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:51:19.467474Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:51:24.515233Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:51:34.546687Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-27T13:51:34.619833Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:51:34.629855Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:51:34.699859Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:51:34.710344Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:51:34.764947Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:51:34.772016Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:51:35.283082Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:51:35.339028Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:51:35.402061Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:51:35.406018Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:51:35.406139Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:51:35.406247Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:51:35.406365Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:51:35.659426Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:07.260613Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:07.260791Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:07.262963Z WARNING chrome[4888:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 471 bytes
+2026-09-27T13:52:07.263168Z WARNING chrome[4888:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 127 bytes
+2026-09-27T13:52:07.266556Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:07.315585Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:07.317379Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:07.577774Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:08.501677Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:08.501766Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:08.505915Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:08.535687Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:08.560826Z WARNING chrome[4888:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 425 bytes
+2026-09-27T13:52:08.561000Z WARNING chrome[4888:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 124 bytes
+2026-09-27T13:52:08.566117Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:08.828322Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:09.409592Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:09.411330Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:09.556215Z WARNING chrome[4888:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 132 bytes
+2026-09-27T13:52:09.561779Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:09.590769Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:09.598887Z WARNING chrome[4888:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 455 bytes
+2026-09-27T13:52:09.599065Z WARNING chrome[4888:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 104 bytes
+2026-09-27T13:52:09.624944Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:09.771592Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:09.772826Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:10.031695Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:11.444286Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:11.444616Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:11.448745Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:11.823236Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 2
+2026-09-27T13:52:15.561309Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-27T13:52:15.624063Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:52:15.632903Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:52:15.698045Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:52:15.705076Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:52:15.767541Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:52:15.779170Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:52:16.227067Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:52:16.256745Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:52:16.325596Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:16.325721Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:16.328478Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:16.328569Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:16.328614Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:16.330596Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:16.579034Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:16.632982Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:16.633888Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:18.814798Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:18.815333Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:18.815391Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:18.819300Z WARNING chrome[5052:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 462 bytes
+2026-09-27T13:52:18.819486Z WARNING chrome[5052:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 222 bytes
+2026-09-27T13:52:18.820249Z WARNING chrome[5052:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 7 bytes
+2026-09-27T13:52:18.820211Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:18.844957Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:18.852380Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:19.111686Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:20.895255Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:20.895620Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:20.898831Z WARNING chrome[5052:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 465 bytes
+2026-09-27T13:52:20.899724Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:20.974702Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:20.975135Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:21.234336Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:26.761711Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:26.763539Z WARNING chrome[5052:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 462 bytes
+2026-09-27T13:52:26.763503Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:26.765995Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:26.830604Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:26.904726Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:27.156080Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:27.946136Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:27.946554Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:27.951052Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:27.960412Z WARNING chrome[5052:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 501 bytes
+2026-09-27T13:52:27.960744Z WARNING chrome[5052:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 270 bytes
+2026-09-27T13:52:27.961528Z WARNING chrome[5052:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 13 bytes
+2026-09-27T13:52:28.035461Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:28.036680Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:28.296480Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:29.636895Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:29.636977Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:29.640911Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:29.641162Z WARNING chrome[5052:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 447 bytes
+2026-09-27T13:52:29.641408Z WARNING chrome[5052:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 145 bytes
+2026-09-27T13:52:29.704225Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:29.749435Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:30.003012Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:52:40.858889Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:52:44.625355Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:52:49.409367Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:52:49.861974Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ui/ash/session/session_controller_client_impl.cc:471] b/228873153 : Requesting screen lock from SessionControllerClientImpl
+2026-09-27T13:52:49.872035Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:546] Received ShowLockScreen request from session manager
+2026-09-27T13:52:49.874071Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:572] ScreenLocker::Show()
+2026-09-27T13:52:49.874298Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:587] Created ScreenLocker 0x1405014a80
+2026-09-27T13:52:49.874335Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:200] ScreenLocker::Init()
+2026-09-27T13:52:49.886758Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/views_screen_locker.cc:76] b/228873153 : ViewsScreenLocker::Init()
+2026-09-27T13:52:49.902420Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:731] ScreenLocker 0x1405014a80 is ready after 0.028247 second(s)
+2026-09-27T13:52:49.902484Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:735] Calling session manager's HandleLockScreenShown D-Bus method
+2026-09-27T13:52:49.909135Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-27T13:52:49.909197Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-27T13:52:49.909527Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=1 ,lock_state=0
+2026-09-27T13:52:49.909563Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:436] Screen locked without suspend
+2026-09-27T13:52:49.909579Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=1
+2026-09-27T13:52:49.909764Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 1, shutting_down_: 0, system_is_locked_: 0, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 0, animating_lock_: 0
+2026-09-27T13:52:49.909802Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:673] StartPostLockAnimation
+2026-09-27T13:52:49.911105Z INFO chrome[1478:1478]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-27T13:52:49.914381Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:717] Fingerprint is not available on lock screen.
+2026-09-27T13:52:49.914444Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:906] MaybeDisablePinAndFingerprintFromTimeout source=ScreenLockReady
+2026-09-27T13:52:49.914555Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:925] Scheduling next pin and fingerprint timeout check at 2026-09-29 13:50:07.143912 UTC
+2026-09-27T13:52:49.914609Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:293] Screen locker animations have completed, lock=1 , block_suspend_token=1
+2026-09-27T13:52:49.945211Z WARNING chrome[1478:1478]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-27T13:52:49.946071Z WARNING chrome[1478:1478]: [ash/login/ui/lock_contents_view.cc:949] Unexpected call to OnUserAuthFactorsChanged; state unchanged.
+2026-09-27T13:52:49.957949Z WARNING chrome[1478:1478]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-27T13:52:50.284776Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:500] PowerEventObserver::OnCompositorsReadyForSuspend, has_suspend_token=0
+2026-09-27T13:52:50.382793Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=0
+2026-09-27T13:52:51.910708Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:771] OnPostLockFailTimeout
+2026-09-27T13:52:51.910758Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=1
+2026-09-27T13:52:53.130893Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T13:52:53.131016Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T13:52:53.131243Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T13:52:53.211064Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T13:52:53.211529Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T13:52:53.212373Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:0 Bluetooth:0
+2026-09-27T13:52:53.219007Z INFO chrome[1478:1478]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-27T13:52:53.225578Z VERBOSE1 chrome[1478:1478]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Closed
+2026-09-27T13:52:53.225661Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=1
+2026-09-27T13:52:53.225706Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T13:52:57.335489Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:53:03.497287Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:53:08.185190Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:53:08.193033Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:53:08.250122Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:53:08.260871Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:53:08.314303Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:53:08.322874Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:53:10.007143Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:53:21.825004Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 3
+2026-09-27T13:53:49.158305Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-27T13:53:49.160398Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T13:53:49.161467Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-27T13:53:49.283391Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T13:53:49.284078Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T13:53:49.289202Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-27T13:53:49.295737Z INFO chrome[1478:1478]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-27T13:53:49.305557Z VERBOSE1 chrome[1478:1478]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Open
+2026-09-27T13:53:49.305616Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=0
+2026-09-27T13:53:49.305689Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T13:53:54.893361Z WARNING chrome[1478:1478]: [ash/login/ui/login_auth_user_view.cc:1121] crbug.com/1339004 : AuthSubmit 1 / 0
+2026-09-27T13:53:54.893949Z WARNING chrome[1478:1478]: [ash/login/login_screen_controller.cc:140] crbug.com/1339004 : started authentication
+2026-09-27T13:53:54.973897Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:275] Authentication success: 0.079559 second(s)
+2026-09-27T13:53:54.974009Z WARNING chrome[1478:1478]: [ash/login/login_screen_controller.cc:487] crbug.com/1339004 : authentication complete
+2026-09-27T13:53:54.974054Z WARNING chrome[1478:1478]: [ash/login/ui/login_auth_user_view.cc:1140] crbug.com/1339004 : OnAuthComplete 0
+2026-09-27T13:53:54.974094Z WARNING chrome[1478:1478]: [ash/login/login_screen_controller.cc:490] crbug.com/1339004 : triggered callback
+2026-09-27T13:53:54.974110Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:323] Hiding the lock screen.
+2026-09-27T13:53:54.974123Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:700] StartUnlockAnimationBeforeLockUIDestroyed
+2026-09-27T13:53:55.339975Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:621] ScreenLocker::OnUnlockAnimationFinished aborted=0
+2026-09-27T13:53:55.348545Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-27T13:53:55.348612Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-27T13:53:55.348926Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=0 ,lock_state=3
+2026-09-27T13:53:55.348960Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=0
+2026-09-27T13:53:55.349127Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 0, shutting_down_: 0, system_is_locked_: 1, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 1, animating_lock_: 0
+2026-09-27T13:53:55.349159Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:717] StartUnlockAnimationAfterLockUIDestroyed
+2026-09-27T13:53:55.368193Z INFO chrome[1478:1478]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-27T13:53:55.368233Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:648] Deleting ScreenLocker 0x1405014a80
+2026-09-27T13:53:55.368249Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:685] Destroying ScreenLocker 0x1405014a80
+2026-09-27T13:53:55.368272Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:702] Calling session manager's HandleLockScreenDismissed D-Bus method
+2026-09-27T13:53:55.739288Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:789] UnlockAnimationAfterLockUIDestroyedFinished: aborted=0
+2026-09-27T13:53:57.839192Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:53:57.839343Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:53:57.841055Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:05.554342Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-27T13:54:05.635572Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:54:05.645014Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:54:05.698068Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:54:05.704715Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:54:05.767761Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:54:05.776893Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:54:06.241985Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:54:06.266368Z VERBOSE1 chrome[1556:1556]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-27T13:54:06.344625Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:06.344754Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:06.347055Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:06.347137Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:06.347163Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:06.594413Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:06.705598Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:06.708267Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:08.455199Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:08.455377Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:08.455555Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:08.460731Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:08.480703Z WARNING chrome[5325:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 499 bytes
+2026-09-27T13:54:08.480895Z WARNING chrome[5325:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 24 bytes
+2026-09-27T13:54:08.520487Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:08.565932Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:08.827794Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:10.819939Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:10.820807Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:10.823314Z WARNING chrome[5325:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 417 bytes
+2026-09-27T13:54:10.832869Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:10.904736Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:10.975124Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:11.233913Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:15.245377Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:15.247167Z WARNING chrome[5325:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 422 bytes
+2026-09-27T13:54:15.247372Z WARNING chrome[5325:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 161 bytes
+2026-09-27T13:54:15.254027Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:15.256765Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:15.330865Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:15.362833Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:15.629486Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:36.054070Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:36.055181Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:36.057637Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:36.075505Z WARNING chrome[5325:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 461 bytes
+2026-09-27T13:54:36.081811Z WARNING chrome[5325:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 256 bytes
+2026-09-27T13:54:36.081998Z WARNING chrome[5325:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 48 bytes
+2026-09-27T13:54:36.222053Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:36.461964Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:36.462045Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:36.718386Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:54:41.827395Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 4
+2026-09-27T13:54:43.410237Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ui/ash/session/session_controller_client_impl.cc:471] b/228873153 : Requesting screen lock from SessionControllerClientImpl
+2026-09-27T13:54:43.422580Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:546] Received ShowLockScreen request from session manager
+2026-09-27T13:54:43.422660Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:572] ScreenLocker::Show()
+2026-09-27T13:54:43.422906Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:587] Created ScreenLocker 0x140ab847c0
+2026-09-27T13:54:43.422950Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:200] ScreenLocker::Init()
+2026-09-27T13:54:43.435864Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/views_screen_locker.cc:76] b/228873153 : ViewsScreenLocker::Init()
+2026-09-27T13:54:43.451284Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:731] ScreenLocker 0x140ab847c0 is ready after 0.028528 second(s)
+2026-09-27T13:54:43.451344Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:735] Calling session manager's HandleLockScreenShown D-Bus method
+2026-09-27T13:54:43.457607Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-27T13:54:43.457683Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-27T13:54:43.458013Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:425] PowerEventObserver::OnLockStateChanged, locked=1 ,lock_state=0
+2026-09-27T13:54:43.458047Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:436] Screen locked without suspend
+2026-09-27T13:54:43.458061Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:460] PowerEventObserver::OnLockStateChanged finished, new lock_state=1
+2026-09-27T13:54:43.458248Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:594] OnLockStateChanged called with locked: 1, shutting_down_: 0, system_is_locked_: 0, lock_fail_timer_.IsRunning(): 0, animating_unlock_: 0, animating_lock_: 0
+2026-09-27T13:54:43.458294Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:673] StartPostLockAnimation
+2026-09-27T13:54:43.459391Z INFO chrome[1478:1478]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-27T13:54:43.462499Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:717] Fingerprint is not available on lock screen.
+2026-09-27T13:54:43.462550Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:906] MaybeDisablePinAndFingerprintFromTimeout source=ScreenLockReady
+2026-09-27T13:54:43.462643Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:925] Scheduling next pin and fingerprint timeout check at 2026-09-29 13:53:54.974005 UTC
+2026-09-27T13:54:43.462703Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:293] Screen locker animations have completed, lock=1 , block_suspend_token=1
+2026-09-27T13:54:43.475033Z WARNING chrome[1478:1478]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-27T13:54:43.494003Z WARNING chrome[1478:1478]: [ash/login/ui/lock_contents_view.cc:949] Unexpected call to OnUserAuthFactorsChanged; state unchanged.
+2026-09-27T13:54:43.511573Z WARNING chrome[1478:1478]: [ash/login/ui/lock_contents_view.cc:986] Unexpected call to OnPinEnabledForUserChanged; state unchanged.
+2026-09-27T13:54:43.840828Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:500] PowerEventObserver::OnCompositorsReadyForSuspend, has_suspend_token=0
+2026-09-27T13:54:43.905787Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=0
+2026-09-27T13:54:45.459141Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:771] OnPostLockFailTimeout
+2026-09-27T13:54:45.459192Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:776] PostLockAnimationFinished: aborted=1
+2026-09-27T13:54:46.806620Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T13:54:46.806758Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T13:54:46.807242Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T13:54:46.883816Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T13:54:46.884483Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T13:54:46.885356Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:0 Bluetooth:0
+2026-09-27T13:54:46.891151Z INFO chrome[1478:1478]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-27T13:54:46.898956Z VERBOSE1 chrome[1478:1478]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Closed
+2026-09-27T13:54:46.899025Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=1
+2026-09-27T13:54:46.899052Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T13:55:37.315338Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:55:40.889465Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:55:46.050742Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T13:55:46.050924Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T13:55:46.051660Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T13:55:46.051924Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T13:55:46.053247Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T13:55:50.829191Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:55:58.175516Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:56:08.567036Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:56:21.830921Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 5
+2026-09-27T13:56:33.757982Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T13:58:41.831988Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 6
+2026-09-27T13:58:55.663117Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:58:55.663246Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:59:12.233252Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T13:59:12.233440Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T13:59:12.233959Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T13:59:12.234201Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T13:59:12.234817Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T13:59:12.259640Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-27T13:59:12.261752Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T13:59:12.262384Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-27T13:59:12.385650Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T13:59:12.386452Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T13:59:12.391145Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-27T13:59:12.397030Z INFO chrome[1478:1478]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-27T13:59:12.397457Z VERBOSE1 chrome[1478:1478]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Open
+2026-09-27T13:59:12.397495Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=0
+2026-09-27T13:59:12.397509Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T13:59:32.291094Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:59:32.291389Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:59:32.334586Z WARNING chrome[5325:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 480 bytes
+2026-09-27T13:59:32.335904Z WARNING chrome[5325:12]: [../../../../../home/chrome-bot/chrome_root/src/third_party/rust/chromium_crates_io/vendor/symphonia-bundle-mp3-v0_6/src/layer3/mod.rs:86] mpa: invalid main_data_begin, underflow by 105 bytes
+2026-09-27T13:59:32.546366Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:59:32.812160Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T13:59:36.205004Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T13:59:36.205310Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T13:59:36.206043Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T13:59:36.294007Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T13:59:36.294721Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T13:59:36.295559Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:0 Bluetooth:0
+2026-09-27T13:59:36.303099Z INFO chrome[1478:1478]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-27T13:59:36.309562Z VERBOSE1 chrome[1478:1478]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Closed
+2026-09-27T13:59:36.309645Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=1
+2026-09-27T13:59:36.309690Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T14:00:34.670331Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T14:00:34.670452Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T14:00:34.670675Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T14:00:34.670801Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T14:00:34.671018Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T14:01:10.524429Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:02:03.069425Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:02:21.838637Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 7
+2026-09-27T14:02:31.298221Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:02:31.298446Z WARNING chrome[1478:1478]: [chrome/browser/ash/cryptauth/client_app_metadata_provider_service.cc:300] ClientAppMetadataProviderService::OnInstanceIdTokenFetched(): Failed to fetch InstanceID token; result: .
+2026-09-27T14:02:45.831918Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:02:48.434409Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:02:51.319465Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:03:56.373261Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:04:18.350938Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:04:35.128056Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:04:55.658071Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:05:00.525778Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:05:40.243991Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:06:30.886286Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:07:25.365943Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:07:41.843859Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:08:07.060629Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:08:41.839947Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 8
+2026-09-27T14:08:58.257549Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:09:25.961033Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:10:24.000397Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:10:51.699325Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:13:46.771509Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:15:32.279254Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:16:34.855374Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:19:09.211403Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:19:33.198384Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:20:21.841620Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 9
+2026-09-27T14:20:26.541816Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T14:20:26.541941Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T14:20:26.542215Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T14:20:26.542356Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T14:20:26.542657Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T14:20:26.561154Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-27T14:20:26.562519Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T14:20:26.562824Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-27T14:20:26.668931Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T14:20:26.669440Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T14:20:26.672480Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-27T14:20:26.680628Z INFO chrome[1478:1478]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-27T14:20:26.681260Z VERBOSE1 chrome[1478:1478]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Open
+2026-09-27T14:20:26.681318Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=0
+2026-09-27T14:20:26.681347Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T14:20:32.175272Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:20:34.246261Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:20:38.763324Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T14:20:38.766592Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPosition: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T14:20:41.417642Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T14:20:41.417790Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T14:20:41.418096Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T14:20:41.493226Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T14:20:41.493573Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T14:20:41.494354Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:0 Bluetooth:0
+2026-09-27T14:20:41.498115Z INFO chrome[1478:1478]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-27T14:20:41.498529Z VERBOSE1 chrome[1478:1478]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Closed
+2026-09-27T14:20:41.498563Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=1
+2026-09-27T14:20:41.498576Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T14:21:01.105822Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:21:27.104233Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:21:27.104546Z WARNING chrome[1478:1478]: [chrome/browser/ash/cryptauth/client_app_metadata_provider_service.cc:300] ClientAppMetadataProviderService::OnInstanceIdTokenFetched(): Failed to fetch InstanceID token; result: .
+2026-09-27T14:21:43.383495Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T14:21:43.383703Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T14:21:43.384261Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T14:21:43.384493Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T14:21:43.385140Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T14:21:51.462755Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:21:53.150640Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:23:40.630442Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:25:35.838671Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:26:36.593819Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:32:08.765112Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:33:15.013874Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:40:00.461052Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:40:28.669973Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:40:57.073503Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:41:12.114426Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:41:24.695591Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:41:41.846351Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:42:06.414001Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:42:24.181421Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:42:40.376070Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:42:41.842746Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 10
+2026-09-27T14:42:52.462361Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:43:55.938834Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:44:15.790128Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:45:37.340377Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:47:14.717897Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:47:47.866203Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:49:57.581489Z WARNING chrome[1478:1478]: [chrome/browser/ash/policy/server_backed_state/server_backed_state_keys_broker.cc:82] Failed to obtain server-backed state keys. Error: 2
+2026-09-27T14:51:30.346490Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:53:55.433714Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:54:56.799655Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T14:54:56.799984Z WARNING chrome[1478:1478]: [chrome/browser/ash/cryptauth/client_app_metadata_provider_service.cc:300] ClientAppMetadataProviderService::OnInstanceIdTokenFetched(): Failed to fetch InstanceID token; result: .
+2026-09-27T15:06:27.609158Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:06:48.875768Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:07:45.003957Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:09:07.549008Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:09:22.709173Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:09:30.837186Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:10:29.020697Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:12:07.944803Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:12:09.308464Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:15:14.963709Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:19:30.770500Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:20:43.596471Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:25:21.847116Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:25:50.326242Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:26:21.844347Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 11
+2026-09-27T15:26:36.775455Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:28:31.633491Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:31:13.669096Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:38:51.200445Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:38:51.200672Z WARNING chrome[1478:1478]: [chrome/browser/ash/cryptauth/client_app_metadata_provider_service.cc:300] ClientAppMetadataProviderService::OnInstanceIdTokenFetched(): Failed to fetch InstanceID token; result: .
+2026-09-27T15:48:59.883040Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:49:24.814221Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:49:37.276487Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:50:02.045628Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:50:23.457587Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:50:57.582933Z WARNING chrome[1478:1478]: [chrome/browser/ash/policy/server_backed_state/server_backed_state_keys_broker.cc:82] Failed to obtain server-backed state keys. Error: 2
+2026-09-27T15:51:01.295317Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:51:56.188622Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:52:41.698130Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:54:58.871767Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T15:56:00.931078Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T16:01:43.342157Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T16:03:57.851909Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T16:51:41.849939Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T16:51:57.584950Z WARNING chrome[1478:1478]: [chrome/browser/ash/policy/server_backed_state/server_backed_state_keys_broker.cc:82] Failed to obtain server-backed state keys. Error: 2
+2026-09-27T16:52:08.176214Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T16:52:41.846554Z ERROR chrome[1478:1478]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 12
+2026-09-27T16:52:56.062397Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T16:54:30.341576Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T16:57:12.930579Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:02:36.800890Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:03:00.045185Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:03:22.288902Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:03:45.882762Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:03:48.540919Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:04:29.355706Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:04:29.356017Z WARNING chrome[1478:1478]: [chrome/browser/ash/cryptauth/client_app_metadata_provider_service.cc:300] ClientAppMetadataProviderService::OnInstanceIdTokenFetched(): Failed to fetch InstanceID token; result: .
+2026-09-27T17:04:43.488701Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:05:18.039759Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:06:08.616629Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:08:48.981188Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:09:44.311131Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:14:30.678245Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:17:05.770670Z ERROR chrome[1478:1535]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-27T17:52:57.586894Z WARNING chrome[1478:1478]: [chrome/browser/ash/policy/server_backed_state/server_backed_state_keys_broker.cc:82] Failed to obtain server-backed state keys. Error: 2
+2026-09-27T17:53:39.425277Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T17:53:39.425465Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T17:53:39.426062Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T17:53:39.426312Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T17:53:39.427008Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T17:53:39.458650Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-27T17:53:39.460107Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T17:53:39.460446Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-27T17:53:39.565655Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T17:53:39.566202Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=1, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T17:53:39.569808Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-27T17:53:39.577271Z INFO chrome[1478:1478]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-27T17:53:39.577828Z VERBOSE1 chrome[1478:1478]: [ash/wm/tablet_mode/tablet_mode_controller.cc:719] Lid event received: Open
+2026-09-27T17:53:39.577870Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:374] PowerEventObserver::LidEventReceived, state=0
+2026-09-27T17:53:39.577885Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T17:53:44.931048Z VERBOSE1 chrome[1478:1478]: [ash/wm/lock_state_controller.cc:900] OnSessionStateChangeTimeout with shutdown requested
+2026-09-27T17:53:44.991547Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T17:53:44.991769Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-27T17:53:44.992191Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-27T17:53:45.072840Z VERBOSE1 chrome[1556:1592]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-27T17:53:45.073380Z VERBOSE1 chrome[1478:1478]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=3, projecting=0, policy=0, can_lock=1
+2026-09-27T17:53:45.075605Z INFO chrome[1478:1478]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:0 Bluetooth:0
+2026-09-27T17:53:45.084558Z INFO chrome[1478:1478]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-27T17:53:45.302718Z VERBOSE1 chrome[1478:1478]: [chrome/browser/lifetime/application_lifetime_chromeos.cc:197] Set the current session exit type as clean.
+2026-09-27T17:53:45.432211Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerMetadata: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T17:53:45.432465Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerIdentity: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T17:53:45.432541Z ERROR chrome[1478:1478]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.bluetooth.BluetoothMedia.SetPlayerPlaybackStatus: object_path= /org/chromium/bluetooth/hci0/media: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.bluetooth was not provided by any .service files
+2026-09-27T17:53:45.435153Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/session/arc_session_manager.cc:906] Shutting down session manager
+2026-09-27T17:53:45.435421Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:648] Deleting ScreenLocker 0x140ab847c0
+2026-09-27T17:53:45.435456Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:685] Destroying ScreenLocker 0x140ab847c0
+2026-09-27T17:53:45.435482Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/login/lock/screen_locker.cc:702] Calling session manager's HandleLockScreenDismissed D-Bus method
+2026-09-27T17:53:45.485910Z ERROR chrome[1478:1478]: [chromeos/ash/components/drivefs/drivefs_host.cc:336] DriveFs unmounted
+2026-09-27T17:53:45.495434Z INFO chrome[1478:1478]: [chrome/browser/nearby_sharing/nearby_share_logger.cc:25] Nearby Share logging shutdown.
+2026-09-27T17:53:45.498232Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer.cc:64] ArcCertInstaller::~ArcCertInstaller
+2026-09-27T17:53:45.506172Z VERBOSE1 chrome[1478:1478]: [chrome/browser/ash/arc/session/arc_session_manager.cc:906] Shutting down session manager
+2026-09-27T17:53:45.598081Z ERROR chrome[1478:1478]: [device/bluetooth/floss/floss_dbus_client.h:875] D-Bus is not initialized, cannot call method UnregisterAdvertiserCallback on 
+2026-09-27T17:53:45.598144Z WARNING chrome[1478:1478]: [device/bluetooth/floss/floss_advertiser_client.cc:383] CompleteUnregisterCallback: Failed to unregister callback
+2026-09-27T17:53:45.598214Z WARNING chrome[1478:1478]: [components/reporting/util/disconnectable_client.cc:136] Service became unavailable

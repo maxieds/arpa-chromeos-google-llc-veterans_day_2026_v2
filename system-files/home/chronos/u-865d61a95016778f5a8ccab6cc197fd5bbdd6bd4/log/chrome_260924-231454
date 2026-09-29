@@ -1,0 +1,714 @@
+2026-09-24T22:20:48.834726Z ERROR chrome[1491:1491]: [chrome/browser/ash/dbus/chrome_features_service_provider.cc:241] Invalid prefix on feature DeferConciergeStartup (want CrOSLateBoot)
+2026-09-24T22:20:48.853496Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/login/session/user_session_manager.cc:1069] RespectLocalePreference: app_locale='en-GB', bkup_locale='en-GB', account_locale - unused.  Selected 'en-GB'
+2026-09-24T22:20:48.857871Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/login/session/user_session_manager.cc:1389] Password consuming service 1 votes 0
+2026-09-24T22:20:48.859665Z WARNING chrome[1491:1491]: [chrome/browser/ash/login/auth_factors_policy/local_auth_factors_policy_controller_factory.cc:85] User was not managed, not building service instance.
+2026-09-24T22:20:48.860171Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/login/session/user_session_manager.cc:1389] Password consuming service 0 votes 0
+2026-09-24T22:20:48.860267Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/login/session/user_session_manager.cc:1423] Clearing login password
+2026-09-24T22:20:48.888714Z WARNING chrome[1491:1491]: [chrome/browser/ash/login/signin/merge_session_throttling_utils.cc:140] Loading content for a profile without session restore?
+2026-09-24T22:20:48.889772Z INFO chrome[1491:1491]: [chrome/browser/ash/multidevice_setup/multidevice_setup_client_factory.cc:144] Allowed. Returning new MultiDeviceSetupClientHolder
+2026-09-24T22:20:48.904854Z ERROR chrome[1491:1491]: [chrome/browser/ash/input_method/input_method_manager_impl.cc:1195] IMEEngine for "jkghodnilhceideoidjikpgommlajknk" is not registered
+2026-09-24T22:20:48.905141Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/login/session/user_session_manager.cc:1639] SetPrimaryAccount result=0
+2026-09-24T22:20:48.905168Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/login/session/user_session_manager.cc:1674] Seed IdentityManager with the authenticated account info, success=1
+2026-09-24T22:20:48.936936Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.GetVmInfo: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmConcierge was not provided by any .service files
+2026-09-24T22:20:48.938665Z WARNING chrome[1491:1491]: [chrome/browser/apps/app_service/metrics/app_platform_metrics.cc:560] Couldn't get Borealis ID for UNREGISTERED app ceoplblcdaffnnflkkcagjpomjgedmdl
+2026-09-24T22:20:48.950123Z WARNING chrome[1491:1491]: [chromeos/ash/components/memory/swap_configuration.cc:107] Overriding memory thresholds with values 15% and 40%
+2026-09-24T22:20:48.950223Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/adbd/arc_adbd_monitor_bridge.cc:154] Init ArcAdbdMonitorBridge
+2026-09-24T22:20:48.950497Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/bluetooth/arc_bluetooth_bridge.cc:357] Registering bluetooth adapter.
+2026-09-24T22:20:48.951491Z WARNING chrome[1491:1555]: [chromeos/dbus/missive/missive_storage_module.cc:47] Store reporting data by a Missive daemon
+2026-09-24T22:20:48.952290Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/sharesheet/arc_sharesheet_bridge.cc:63] ArcSharesheetBridge created
+2026-09-24T22:20:48.952535Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer.cc:58] ArcCertInstaller::ArcCertInstaller
+2026-09-24T22:20:48.952728Z WARNING chrome[1491:1491]: [chrome/browser/ash/arc/idle_manager/arc_idle_manager.cc:93] Doze will be enabled regardless of battery status
+2026-09-24T22:20:48.952833Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/session/arc_session_manager.cc:854] Calling SetUserInfo() in ArcSessionManager::Initialize
+2026-09-24T22:20:48.952984Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/session/arc_play_store_enabled_preference_handler.cc:65] Start observing Google Play Store enabled preference. Initial values are: Enabled=0 Managed=0
+2026-09-24T22:20:48.953037Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/session/arc_session_manager.cc:1381] ARC is already disabled. Killing an instance for login screen (if any).
+2026-09-24T22:20:49.173048Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:0 Screen State:1 Bluetooth:0
+2026-09-24T22:20:49.176637Z INFO chrome[1491:1491]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-24T22:20:49.176705Z INFO chrome[1491:1491]: [chrome/browser/ash/tether/tether_service.cc:399] Tether state has changed. New state: [BLE is not present on the device], Old state: [TetherService initializing]
+2026-09-24T22:20:49.176965Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/login/session/user_session_manager.cc:1920] Clearing all secrets
+2026-09-24T22:20:49.205799Z ERROR chrome[3992:3995]: [default_socket.cc:61] /run/perfetto/ exists but cannot be accessed. Falling back on /tmp/  (errno: 13, Permission denied)
+2026-09-24T22:20:49.321863Z WARNING chrome[1491:1491]: [chrome/browser/ash/extensions/signin_screen_policy_provider.cc:58] Denying load of Extension  : admccjkmockfdflocgggjfgdacdodkdf / Gemini in Chrome because of 'signin_screen' requires canary channel or newer, but this is the stable channel.
+2026-09-24T22:20:49.322188Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/login/session/user_session_manager.cc:1069] RespectLocalePreference: app_locale='en-GB', bkup_locale='en-GB', account_locale - unused.  Selected 'en-GB'
+2026-09-24T22:20:49.322658Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/login/session/user_session_manager.cc:2516] Launching browser...
+2026-09-24T22:20:49.323115Z WARNING chrome[1491:1491]: [chrome/browser/ui/ash/login/login_display_host_common.cc:287] Finalize
+2026-09-24T22:20:49.323149Z WARNING chrome[1491:1491]: [chrome/browser/ui/ash/login/login_display_host_common.cc:744] ShutdownDisplayHost
+2026-09-24T22:20:49.325839Z WARNING chrome[1491:1491]: [chrome/browser/browsing_data/chrome_browsing_data_remover_delegate.cc:1185] Failed to find user for current profile.
+2026-09-24T22:20:49.326772Z INFO chrome[1491:1491]: [chrome/browser/ash/login/existing_user_controller.cc:1066] (LOGIN) Session started, the profile is ready 
+2026-09-24T22:20:49.327208Z WARNING chrome[1491:1491]: [ash/login/login_screen_controller.cc:487] crbug.com/1339004 : authentication complete
+2026-09-24T22:20:49.327322Z WARNING chrome[1491:1491]: [ash/login/ui/login_auth_user_view.cc:1140] crbug.com/1339004 : OnAuthComplete 0
+2026-09-24T22:20:49.327364Z WARNING chrome[1491:1491]: [ash/login/login_screen_controller.cc:490] crbug.com/1339004 : triggered callback
+2026-09-24T22:20:49.329686Z WARNING chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:484] DeviceSyncImpl::GetLocalDeviceMetadata() invoked before initialization was complete. Cannot return local device metadata.
+2026-09-24T22:20:49.333292Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmConcierge was not provided by any .service files
+2026-09-24T22:20:49.333352Z ERROR chrome[1491:1491]: [chrome/browser/ash/guest_os/guest_os_session_tracker.cc:69] Failed to list VMs, assuming there aren't any already running
+2026-09-24T22:20:49.333441Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.GetVmInfo: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmConcierge was not provided by any .service files
+2026-09-24T22:20:49.379632Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/app_restore/full_restore_app_launch_handler.cc:477] There is no restore data from /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-24T22:20:49.381123Z INFO chrome[1491:1491]: [chromeos/ash/services/device_sync/public/cpp/device_sync_client_impl.cc:280] Tried to get local device metadata before service was fully initialized; waiting for enrollment to complete before continuing.
+2026-09-24T22:20:49.381202Z WARNING chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:498] DeviceSyncImpl::GetSyncedDevices() invoked before initialization was complete. Cannot return devices.
+2026-09-24T22:20:49.395008Z ERROR chrome[1491:1491]: [chrome/browser/ash/input_method/input_method_manager_impl.cc:1224] Failed to change keyboard layout to us
+2026-09-24T22:20:49.411564Z INFO chrome[1491:1491]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-24T22:20:49.411722Z INFO chrome[1491:1491]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-24T22:20:49.411797Z INFO chrome[1491:1491]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-24T22:20:49.412027Z INFO chrome[1491:1491]: [ash/webui/eche_app_ui/eche_notification_click_handler.cc:32] No Phone Hub interaction handler to set Eche click handler
+2026-09-24T22:20:49.412149Z INFO chrome[1491:1491]: [ash/webui/eche_app_ui/eche_signaler.cc:86] echeapi EcheSignaler SetSystemInfoProvider
+2026-09-24T22:20:49.506622Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:409] PowerEventObserver::OnLoginStatusChanged
+2026-09-24T22:20:49.506705Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-24T22:20:49.511031Z INFO chrome[1491:1491]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-24T22:20:49.521057Z INFO chrome[1491:1491]: [chromeos/ash/services/device_sync/public/cpp/device_sync_client_impl.cc:250] Tried to fetch synced devices before service was fully initialized; waiting for sync to complete before continuing.
+2026-09-24T22:20:49.565463Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmPluginDispatcher.ListVms: object_path= /org/chromium/VmPluginDispatcher: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.VmPluginDispatcher was not provided by any .service files
+2026-09-24T22:20:49.565544Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.pciguard.SetExternalPciDevicesPermission: object_path= /org/chromium/pciguard: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.pciguard was not provided by any .service files
+2026-09-24T22:20:49.774275Z INFO chrome[1491:1491]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-24T22:20:50.021521Z INFO chrome[1491:1491]: [chrome/browser/nearby_sharing/nearby_share_logger.cc:21] Nearby Share logging initialized.
+2026-09-24T22:20:50.021791Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/session/arc_session_manager.cc:1153] ARCVM activation is allowed: 1
+2026-09-24T22:20:50.022966Z INFO chrome[1491:1491]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-24T22:20:50.029128Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.BiometricsDaemon.BiometricsManager.GetRecordsForUser: object_path= /org/chromium/BiometricsDaemon/CrosFpBiometricsManager: org.freedesktop.DBus.Error.ServiceUnknown: The name org.chromium.BiometricsDaemon was not provided by any .service files
+2026-09-24T22:20:50.030553Z WARNING chrome[1491:1491]: [chromeos/ash/components/attestation/attestation_flow_adaptive.cc:155] Default attestation flow failed: 1
+2026-09-24T22:20:50.057597Z WARNING chrome[1491:1491]: [CONSOLE:1019] "Started ODFS sw: 1.13.0", source: chrome-extension://gnnndjlaomemikopnjhhnoombakkkkdg/sw_js.js (1019)
+2026-09-24T22:20:50.058066Z ERROR chrome[1491:1491]: [chrome/browser/ash/login/quick_unlock/fingerprint_storage.cc:195] Get Records failure
+2026-09-24T22:20:50.071630Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:20:50.100330Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:20:50.112919Z ERROR chrome[1491:1491]: [chromeos/ash/components/attestation/attestation_flow.cc:401] Attestation: Failed to create certificate request. Status: 4
+2026-09-24T22:20:50.112993Z ERROR chrome[1491:1491]: [chrome/browser/ash/attestation/soft_bind_attestation_flow_impl.cc:220] Attestation unsuccessful, not verified
+2026-09-24T22:20:50.113008Z WARNING chrome[1491:1491]: [chrome/browser/ash/attestation/soft_bind_attestation_flow_impl.cc:143] Attestation session failure: notVerified
+2026-09-24T22:20:50.117275Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:20:50.144574Z WARNING chrome[1491:1491]: [chrome/browser/ash/platform_keys/key_permissions/key_permissions_manager_impl.cc:83] Updating arc key permissions in chaps succeeded, 0 key(s) updated.
+2026-09-24T22:20:50.169020Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer.cc:72] ArcCertInstaller::InstallArcCerts
+2026-09-24T22:20:50.170244Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/enterprise/cert_store/cert_store_service.cc:582] ARC certificates installation has finished with result=1
+2026-09-24T22:20:50.195216Z VERBOSE1 chrome[1491:1491]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1290 ms
+2026-09-24T22:20:50.250401Z VERBOSE1 chrome[1491:1491]: [chromeos/ash/experiences/arc/session/connection_holder.h:292] Instance arc.mojom.IioSensorInstance not available.
+2026-09-24T22:20:50.361112Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.PowerManager.GetKeyboardBrightnessPercent: object_path= /org/chromium/PowerManager: org.freedesktop.DBus.Error.UnknownMethod: Method "GetKeyboardBrightnessPercent" with signature "" on interface "org.chromium.PowerManager" doesn't exist
+
+2026-09-24T22:20:50.361211Z ERROR chrome[1491:1491]: [ash/system/keyboard_brightness/keyboard_brightness_controller.cc:529] KeyboardBrightnessController: keyboard_brightness has no value, so cannot set prefs.
+2026-09-24T22:20:50.476899Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_offscreen.html and for reason:1
+2026-09-24T22:20:50.477036Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: constants.js and for reason:1
+2026-09-24T22:20:50.477145Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_offscreen.js and for reason:1
+2026-09-24T22:20:50.477193Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng.js and for reason:1
+2026-09-24T22:20:50.477235Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.js and for reason:1
+2026-09-24T22:20:50.482197Z WARNING chrome[1491:1491]: [CONSOLE:777] "Mounts before restore: storage=none chrome=none, after restore: storage=none chrome=none", source: chrome-extension://gnnndjlaomemikopnjhhnoombakkkkdg/sw_js.js (777)
+2026-09-24T22:20:50.496228Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.wasm and for reason:1
+2026-09-24T22:20:50.496446Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.data and for reason:1
+2026-09-24T22:20:50.693699Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/ba (Bashkir) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.694507Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language zle/be (Belarusian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.695977Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language iro/chr (Cherokee ) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.696089Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language sit/cmn-Latn-pinyin (Chinese (Mandarin, latin as Pinyin)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.696156Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/cv (Chuvash) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.700194Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language gmw/en-US-nyc (English (America, New York City)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.700333Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language map/haw (Hawaiian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.700403Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language sem/he (Hebrew) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.706213Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/io (Ido) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.706358Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/kk (Kazakh) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.706436Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language gmw/lb (Luxembourgish) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.706486Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language bat/ltg (Latgalian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.706534Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language miz/mto (Totontepec Mixe) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.706582Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/nog (Nogai) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712298Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/piqd (Klingon) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712406Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/py (Pyash) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712471Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/qdb (Lang Belta) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712540Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language qu (Quechua) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712587Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language myn/quc (K'iche') should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712628Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/qya (Quenya) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712675Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language zle/ru-cl (Russian (Classic)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712721Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/sjn (Sindarin) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712765Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language urj/smj (Lule Saami) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712827Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language tai/th (Thai) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712877Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/tk (Turkmen) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712928Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/ug (Uyghur) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.712974Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language zle/uk (Ukrainian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.713021Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/uz (Uzbek) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.713086Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language sit/yue-Latn-jyutping (Chinese (Cantonese, latin as Jyutping)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:20:50.717721Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: gjjabgpgjpampikjhjpfhneeoapjbjaf at path: voices.json and for reason:1
+2026-09-24T22:20:50.917581Z ERROR chrome[4183:4186]: [default_socket.cc:61] /run/perfetto/ exists but cannot be accessed. Falling back on /tmp/  (errno: 13, Permission denied)
+2026-09-24T22:20:59.566121Z ERROR chrome[1491:1491]: [chrome/browser/ash/power/auto_screen_brightness/light_provider_mojo.cc:121] Target light sensor isn't available after timeout. Initialization failed.
+2026-09-24T22:20:59.566721Z ERROR chrome[1491:1491]: [chromeos/components/sensors/ash/sensor_hal_dispatcher.cc:213] Sensor HAL Client connection lost: 2
+2026-09-24T22:21:01.375144Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:21:03.056988Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:21:04.241503Z INFO chrome[1491:1525]: [chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+2026-09-24T22:21:04.350434Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:21:11.519161Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:21:14.338687Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:21:18.925291Z INFO chrome[1491:1525]: [chrome/browser/extensions/extension_garbage_collector.cc:188] Garbage collection for extensions on file thread is complete.
+2026-09-24T22:21:19.040179Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:21:23.934170Z ERROR chrome[1491:1491]: [components/signin/internal/identity_manager/account_info_fetcher_gaia.cc:67] OnGetTokenFailure: Connection failed (-106).
+2026-09-24T22:21:23.934260Z WARNING chrome[1491:1491]: [components/signin/internal/identity_manager/account_fetcher_service.cc:261] Failed to get UserInfo for 104209633815383380681
+2026-09-24T22:21:23.934325Z WARNING chrome[1491:1491]: [chrome/browser/profiles/profile_downloader.cc:285] ProfileDownloader: token request using refresh token failed:Connection failed (-106).
+2026-09-24T22:21:47.319105Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:21:47.418647Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:21:48.890420Z ERROR chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 1
+2026-09-24T22:21:49.796660Z INFO chrome[1491:1525]: [rlz/lib/rlz_lib.cc:442] Attempting to send RLZ ping brand=NWKT
+2026-09-24T22:21:49.801084Z INFO chrome[1491:1525]: [rlz/lib/rlz_lib.cc:447] Failed sending RLZ
+2026-09-24T22:21:52.107485Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:21:59.745787Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:22:07.441061Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:22:08.068586Z WARNING chrome[1491:1491]: [chrome/browser/ash/usb/cros_usb_detector.cc:721] Checking for persistence of USB device [5118:26368:072155EB300A0E16], not persisted
+2026-09-24T22:22:16.518388Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-24T22:22:16.593943Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:22:16.601317Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:22:16.962664Z WARNING chrome[1491:1491]: [CONSOLE:2720] "Files app starting up: full-page", source: chrome://file-manager/foreground/js/main.js (2720)
+2026-09-24T22:22:16.991146Z WARNING chrome[1491:1491]: [CONSOLE:314] "Getting volumes", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-24T22:22:16.997174Z WARNING chrome[1491:1491]: [CONSOLE:314] "Queued the initialization of all 2 volumes", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-24T22:22:17.001594Z WARNING chrome[1491:1491]: [CONSOLE:314] "Volumes initialization finished", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-24T22:22:17.273328Z WARNING chrome[1491:1491]: [CONSOLE:2720] "Files app has started", source: chrome://file-manager/foreground/js/main.js (2720)
+2026-09-24T22:22:17.971193Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:22:49.933899Z WARNING chrome[1491:1491]: [CONSOLE:107] "Got selected keys that are not in current directory, continuing anyway", source: chrome://file-manager/foreground/js/shared.rollup.js (107)
+2026-09-24T22:22:50.050180Z WARNING chrome[1491:1491]: [CONSOLE:107] "Got selected keys that are not in current directory, continuing anyway", source: chrome://file-manager/foreground/js/shared.rollup.js (107)
+2026-09-24T22:22:51.985564Z ERROR chrome[3992:4072]: [chromeos/ash/services/ime/ime_shared_library_wrapper.cc:41] E0000 00:00:1790288571.985459    4072 bikey-model.cc:1326] Invalid frame index: 11; num frames: 11
+
+2026-09-24T22:22:51.985657Z ERROR chrome[3992:4072]: [chromeos/ash/services/ime/ime_shared_library_wrapper.cc:41] E0000 00:00:1790288571.985630    4072 bikey-model.cc:1326] Invalid frame index: 11; num frames: 11
+
+2026-09-24T22:22:51.985749Z ERROR chrome[3992:4072]: [chromeos/ash/services/ime/ime_shared_library_wrapper.cc:41] E0000 00:00:1790288571.985722    4072 bikey-model.cc:1326] Invalid frame index: 11; num frames: 11
+
+2026-09-24T22:22:51.985803Z ERROR chrome[3992:4072]: [chromeos/ash/services/ime/ime_shared_library_wrapper.cc:41] E0000 00:00:1790288571.985780    4072 bikey-model.cc:1326] Invalid frame index: 11; num frames: 11
+
+2026-09-24T22:22:51.985854Z ERROR chrome[3992:4072]: [chromeos/ash/services/ime/ime_shared_library_wrapper.cc:41] E0000 00:00:1790288571.985832    4072 bikey-model.cc:1326] Invalid frame index: 11; num frames: 11
+
+2026-09-24T22:22:51.985905Z ERROR chrome[3992:4072]: [chromeos/ash/services/ime/ime_shared_library_wrapper.cc:41] E0000 00:00:1790288571.985883    4072 bikey-model.cc:1326] Invalid frame index: 11; num frames: 11
+
+2026-09-24T22:22:52.148673Z ERROR chrome[3992:4072]: [chromeos/ash/services/ime/ime_shared_library_wrapper.cc:41] E0000 00:00:1790288572.148597    4072 bikey-model.cc:1326] Invalid frame index: 13; num frames: 13
+
+2026-09-24T22:22:52.277456Z ERROR chrome[3992:4072]: [chromeos/ash/services/ime/ime_shared_library_wrapper.cc:41] E0000 00:00:1790288572.277387    4072 bikey-model.cc:1326] Invalid frame index: 15; num frames: 15
+
+2026-09-24T22:22:53.891792Z ERROR chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 2
+2026-09-24T22:22:55.295570Z WARNING chrome[1491:1491]: [CONSOLE:107] "Got selected keys that are not in current directory, continuing anyway", source: chrome://file-manager/foreground/js/shared.rollup.js (107)
+2026-09-24T22:23:27.341825Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:23:34.494064Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:23:44.041143Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:23:44.936680Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:23:58.909307Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:23:59.006362Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:24:03.904861Z ERROR chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 3
+2026-09-24T22:24:03.946973Z WARNING chrome[1491:1491]: [CONSOLE:4] "Image Loader maximum parallel tasks: 2", source: chrome-extension://pmfjbimdmchhbnneeidfognadeopoehp/offscreen.js (4)
+2026-09-24T22:24:04.965121Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:24:19.191277Z WARNING chrome[1491:1491]: [CONSOLE:107] "Got selected keys that are not in current directory, continuing anyway", source: chrome://file-manager/foreground/js/shared.rollup.js (107)
+2026-09-24T22:24:28.252191Z WARNING chrome[1491:1491]: [CONSOLE:107] "Got selected keys that are not in current directory, continuing anyway", source: chrome://file-manager/foreground/js/shared.rollup.js (107)
+2026-09-24T22:24:43.616515Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-24T22:24:43.709919Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:24:43.717550Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:24:44.169082Z WARNING chrome[1491:1491]: [chrome/browser/extensions/api/settings_private/prefs_util.cc:1426] Cros settings pref not found: cros.display_rotation_default
+2026-09-24T22:24:44.265191Z INFO chrome[1491:1491]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-24T22:24:44.265411Z INFO chrome[1491:1491]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-24T22:24:44.687944Z INFO chrome[1491:1491]: [chromeos/ash/services/multidevice_setup/public/cpp/multidevice_setup_client_impl.cc:140] Responding to GetHostStatus() with the following host = {
+  [kNoEligibleHosts]:  no device
+}
+2026-09-24T22:24:44.688060Z INFO chrome[1491:1491]: [chrome/browser/ui/webui/ash/settings/pages/multidevice/multidevice_handler.cc:331] Responding to getPageContentData() request with: {
+   "appsAccessStatus": 1,
+   "betterTogetherState": 10,
+   "cameraRollAccessStatus": 1,
+   "instantTetheringState": 10,
+   "isCameraRollFilePermissionGranted": true,
+   "isNearbyShareDisallowedByPolicy": false,
+   "isPhoneHubFeatureCombinedSetupSupported": false,
+   "isPhoneHubPermissionsDialogSupported": true,
+   "mode": 0,
+   "notificationAccessProhibitedReason": 0,
+   "notificationAccessStatus": 1,
+   "phoneHubAppsState": 10,
+   "phoneHubCameraRollState": 10,
+   "phoneHubNotificationsState": 10,
+   "phoneHubState": 10,
+   "phoneHubTaskContinuationState": 10,
+   "smartLockState": 10,
+   "wifiSyncState": 10
+}
+.
+2026-09-24T22:24:44.920996Z VERBOSE1 chrome[1491:1491]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1214 ms
+2026-09-24T22:25:08.388867Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:25:08.398966Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:25:08.747917Z WARNING chrome[1491:1491]: [CONSOLE:2720] "Files app starting up: saveas-file", source: chrome://file-manager/foreground/js/main.js (2720)
+2026-09-24T22:25:08.779688Z WARNING chrome[1491:1491]: [CONSOLE:314] "Getting volumes", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-24T22:25:08.785354Z WARNING chrome[1491:1491]: [CONSOLE:314] "Queued the initialization of all 2 volumes", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-24T22:25:08.789708Z WARNING chrome[1491:1491]: [CONSOLE:314] "Volumes initialization finished", source: chrome://file-manager/foreground/js/main.js (314)
+2026-09-24T22:25:09.163019Z WARNING chrome[1491:1491]: [CONSOLE:2720] "Files app has started", source: chrome://file-manager/foreground/js/main.js (2720)
+2026-09-24T22:25:21.925575Z WARNING chrome[1491:1491]: [chrome/browser/ash/crostini/crostini_manager.cc:1135] Attempted to set state for unknown vm: termina
+2026-09-24T22:25:23.905732Z ERROR chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 4
+2026-09-24T22:25:38.204093Z VERBOSE1 chrome[1491:1491]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1027 ms
+2026-09-24T22:25:41.233933Z VERBOSE1 chrome[1491:1491]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1012 ms
+2026-09-24T22:25:44.269293Z VERBOSE1 chrome[1491:1491]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1018 ms
+2026-09-24T22:25:46.295324Z VERBOSE1 chrome[1491:1491]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1015 ms
+2026-09-24T22:26:02.514629Z VERBOSE1 chrome[1491:1491]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1188 ms
+2026-09-24T22:26:13.026565Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:26:17.114590Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:26:28.597707Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:26:51.648280Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T22:26:51.648437Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T22:26:51.649887Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T22:26:51.733767Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T22:26:51.736298Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T22:26:51.738326Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:0 Bluetooth:0
+2026-09-24T22:26:51.739890Z ERROR chrome[1563:1597]: [ui/ozone/platform/drm/gpu/hardware_display_plane_manager_atomic.cc:579] Failed to commit properties for crtc=52
+2026-09-24T22:26:51.745429Z VERBOSE1 chrome[1491:1491]: [ash/wm/tablet_mode/tablet_mode_controller.cc:802] Touchpad device configuration changed.
+2026-09-24T22:26:57.440316Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:27:03.376606Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:27:03.907646Z ERROR chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 5
+2026-09-24T22:27:08.257354Z VERBOSE1 chrome[1491:1491]: [ash/wm/tablet_mode/tablet_mode_controller.cc:802] Touchpad device configuration changed.
+2026-09-24T22:27:08.260251Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:27:08.263030Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T22:27:08.263587Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:27:08.279754Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T22:27:08.280468Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T22:27:08.282557Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-24T22:27:12.182859Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:27:37.555196Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:27:55.760556Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:27:59.709482Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:27:59.718514Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:27:59.875620Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:27:59.883471Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:28:00.219302Z ERROR chrome[1491:1491]: [CONSOLE:2] "Uncaught (in promise) CompileError: WebAssembly.instantiate(): Compiling or instantiating WebAssembly module violates the following Content Security policy directive because neither 'wasm-eval' nor 'unsafe-eval' is an allowed source of script in the following Content Security Policy directive: "script-src chrome-untrusted://resources 'self'".", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:28:00.238102Z VERBOSE1 chrome[1563:1563]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:29:23.908859Z ERROR chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 6
+2026-09-24T22:31:45.550287Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T22:31:45.554580Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T22:31:45.555801Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T22:31:45.633767Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T22:31:45.635265Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T22:31:45.636511Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:0 Bluetooth:0
+2026-09-24T22:31:45.643950Z VERBOSE1 chrome[1491:1491]: [ash/wm/tablet_mode/tablet_mode_controller.cc:802] Touchpad device configuration changed.
+2026-09-24T22:31:45.649273Z ERROR chrome[1563:1597]: [ui/ozone/platform/drm/gpu/hardware_display_plane_manager_atomic.cc:579] Failed to commit properties for crtc=52
+2026-09-24T22:31:48.649185Z VERBOSE1 chrome[1491:1491]: [ash/wm/tablet_mode/tablet_mode_controller.cc:802] Touchpad device configuration changed.
+2026-09-24T22:31:48.654340Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:31:48.656141Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T22:31:48.656781Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:31:48.674639Z VERBOSE1 chrome[1563:1597]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T22:31:48.676020Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T22:31:48.678118Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-24T22:31:48.738177Z VERBOSE1 chrome[1491:1491]: [ash/metrics/ui_metrics_recorder.cc:261] Ash event latency is longer than usual, type=KeyPressed, latency= 3154 ms
+2026-09-24T22:32:43.331340Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_tts_engine.js and for reason:1
+2026-09-24T22:32:43.410290Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: constants.js and for reason:1
+2026-09-24T22:32:43.415777Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: language_defaults.js and for reason:1
+2026-09-24T22:32:43.444059Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_offscreen.html and for reason:1
+2026-09-24T22:32:43.473177Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: constants.js and for reason:1
+2026-09-24T22:32:43.473703Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng.js and for reason:1
+2026-09-24T22:32:43.473938Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_offscreen.js and for reason:1
+2026-09-24T22:32:43.490858Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.js and for reason:1
+2026-09-24T22:32:43.512999Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.data and for reason:1
+2026-09-24T22:32:43.522212Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.wasm and for reason:1
+2026-09-24T22:32:43.653509Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/ba (Bashkir) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.655711Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language zle/be (Belarusian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.655848Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language iro/chr (Cherokee ) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.655949Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language sit/cmn-Latn-pinyin (Chinese (Mandarin, latin as Pinyin)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.656032Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/cv (Chuvash) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.662682Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language gmw/en-US-nyc (English (America, New York City)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.662812Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language map/haw (Hawaiian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.662883Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language sem/he (Hebrew) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.662946Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/io (Ido) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.662991Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/kk (Kazakh) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.663075Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language gmw/lb (Luxembourgish) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.663160Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language bat/ltg (Latgalian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.680856Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language miz/mto (Totontepec Mixe) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.680992Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/nog (Nogai) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681078Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/piqd (Klingon) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681135Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/py (Pyash) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681188Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/qdb (Lang Belta) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681254Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language qu (Quechua) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681323Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language myn/quc (K'iche') should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681387Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/qya (Quenya) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681443Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language zle/ru-cl (Russian (Classic)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681508Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/sjn (Sindarin) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681573Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language urj/smj (Lule Saami) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681624Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language tai/th (Thai) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681669Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/tk (Turkmen) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681722Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/ug (Uyghur) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681874Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language zle/uk (Ukrainian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681934Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/uz (Uzbek) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:43.681987Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language sit/yue-Latn-jyutping (Chinese (Cantonese, latin as Jyutping)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.655808Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_tts_engine.js and for reason:1
+2026-09-24T22:32:55.724242Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: constants.js and for reason:1
+2026-09-24T22:32:55.730983Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: language_defaults.js and for reason:1
+2026-09-24T22:32:55.754093Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_offscreen.html and for reason:1
+2026-09-24T22:32:55.778227Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: constants.js and for reason:1
+2026-09-24T22:32:55.778732Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng.js and for reason:1
+2026-09-24T22:32:55.778947Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: espeak_offscreen.js and for reason:1
+2026-09-24T22:32:55.792487Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.js and for reason:1
+2026-09-24T22:32:55.813642Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.data and for reason:1
+2026-09-24T22:32:55.822962Z ERROR chrome[1491:1527]: [extensions/browser/content_verifier/content_verify_job.cc:489] Content verify job failed for extension: dakbfdmgjiabojdgbiljlhgjbokobjpg at path: js/espeakng_worker.wasm and for reason:1
+2026-09-24T22:32:55.948307Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/ba (Bashkir) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.950670Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language zle/be (Belarusian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.950774Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language iro/chr (Cherokee ) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.958633Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language sit/cmn-Latn-pinyin (Chinese (Mandarin, latin as Pinyin)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.958787Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/cv (Chuvash) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.958880Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language gmw/en-US-nyc (English (America, New York City)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.958947Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language map/haw (Hawaiian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.959043Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language sem/he (Hebrew) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.959103Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/io (Ido) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.971715Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/kk (Kazakh) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.971847Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language gmw/lb (Luxembourgish) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.971930Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language bat/ltg (Latgalian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.971998Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language miz/mto (Totontepec Mixe) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972070Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/nog (Nogai) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972125Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/piqd (Klingon) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972180Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/py (Pyash) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972239Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/qdb (Lang Belta) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972285Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language qu (Quechua) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972331Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language myn/quc (K'iche') should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972416Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/qya (Quenya) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972661Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language zle/ru-cl (Russian (Classic)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972729Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language art/sjn (Sindarin) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972782Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language urj/smj (Lule Saami) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972828Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language tai/th (Thai) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972892Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/tk (Turkmen) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.972943Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/ug (Uyghur) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.973011Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language zle/uk (Ukrainian) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.973057Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language trk/uz (Uzbek) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:55.973114Z ERROR chrome[1491:1491]: [CONSOLE:132] "Language sit/yue-Latn-jyutping (Chinese (Cantonese, latin as Jyutping)) should be handled in switch.", source: chrome-extension://dakbfdmgjiabojdgbiljlhgjbokobjpg/language_defaults.js (132)
+2026-09-24T22:32:56.491514Z WARNING chrome[1491:1491]: [CONSOLE:0] "WebGL: CONTEXT_LOST_WEBGL: loseContext: context lost", source: chrome-untrusted://crosh/ (0)
+2026-09-24T22:32:56.557465Z ERROR chrome[1491:1491]: [content/browser/gpu/gpu_process_host.cc:1089] GPU process exited unexpectedly: exit_code=15
+2026-09-24T22:32:56.557526Z WARNING chrome[1491:1491]: [content/browser/gpu/gpu_process_host.cc:1531] The GPU process has crashed 1 time(s)
+2026-09-24T22:32:56.565827Z WARNING chrome[6413:6413]: [gpu/ipc/service/gpu_init.cc:368] Starting gpu initialization.
+2026-09-24T22:32:56.626898Z VERBOSE1 chrome[1491:1491]: [ui/ozone/platform/drm/host/drm_display_host_manager.cc:155] Succeeded authenticating /dev/dri/card0 in 0 ms with 1 attempt(s)
+2026-09-24T22:32:56.632631Z VERBOSE1 chrome[1491:1491]: [ui/ozone/platform/drm/host/drm_display_host_manager.cc:442] Got display event ADD for /dev/dri/card0
+2026-09-24T22:32:56.638532Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:32:56.638717Z WARNING chrome[1491:1491]: [chrome/browser/ash/cryptauth/client_app_metadata_provider_service.cc:300] ClientAppMetadataProviderService::OnInstanceIdTokenFetched(): Failed to fetch InstanceID token; result: .
+2026-09-24T22:32:56.638797Z ERROR chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 7
+2026-09-24T22:32:56.664674Z WARNING chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:171] Platform device extensions not found.
+2026-09-24T22:32:56.676806Z WARNING chrome[6413:6413]: [gpu/ipc/service/gpu_init.cc:603] Using passthrough command decoder. NOTE: This log is to help triage feedback reports and does not by itself mean there is an issue.
+2026-09-24T22:32:56.681683Z WARNING chrome[6413:6413]: [content/gpu/gpu_main.cc:385] gpu initialization completed init_success:1
+2026-09-24T22:32:56.685983Z WARNING chrome[1491:1491]: [content/browser/gpu/gpu_process_host.cc:1111] Reinitialized the GPU process after a crash. The reported initialization time was 119 ms
+2026-09-24T22:32:56.690567Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/drm_device_manager.cc:41] Primary DRM device added: /sys/devices/platform/soc/14000000.syscon/mediatek-drm.3.auto/drm/card0
+2026-09-24T22:32:56.690620Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:32:56.693257Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:32:56.712470Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:32:56.716599Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:32:56.726551Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:32:56.731881Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:32:56.737666Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:32:56.741652Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:32:56.743483Z ERROR chrome[6413:6438]: [components/viz/service/display/display.cc:323] Max Texture Size=16383
+2026-09-24T22:32:56.997167Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:32:57.512846Z WARNING chrome[1491:1491]: [CONSOLE:2] "webglcontextrestored event received", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.535097Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.535206Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.535248Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.535298Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559261Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559409Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559488Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559527Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559567Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559623Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559662Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559709Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559743Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559786Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559825Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559864Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559935Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.559984Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.560023Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.560061Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.560101Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.560141Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.560201Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.560246Z WARNING chrome[1491:1491]: [CONSOLE:2] "WebGL: INVALID_OPERATION: delete: object does not belong to this context", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:32:57.636167Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:32:57.637663Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T22:32:57.638403Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:32:57.671550Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T22:32:57.671988Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T22:32:57.885514Z VERBOSE1 chrome[1491:1491]: [ash/public/cpp/metrics_util.cc:77] Ash system animation drops too many frames, smoothness= 0
+2026-09-24T22:32:57.885577Z VERBOSE1 chrome[1491:1491]: [ash/public/cpp/metrics_util.cc:77] Ash system animation drops too many frames, smoothness= 0
+2026-09-24T22:32:57.885595Z VERBOSE1 chrome[1491:1491]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1369 ms
+2026-09-24T22:32:57.885629Z VERBOSE1 chrome[1491:1491]: [ash/public/cpp/metrics_util.cc:74] Ash system animation takes longer than usual, duration= 1382 ms
+2026-09-24T22:32:57.944845Z VERBOSE1 chrome[1491:1491]: [ash/metrics/ui_metrics_recorder.cc:261] Ash event latency is longer than usual, type=MousePressed, latency= 1466 ms
+2026-09-24T22:32:57.944900Z VERBOSE1 chrome[1491:1491]: [ash/metrics/ui_metrics_recorder.cc:261] Ash event latency is longer than usual, type=MouseMoved, latency= 1074 ms
+2026-09-24T22:32:57.944936Z VERBOSE1 chrome[1491:1491]: [ash/metrics/ui_metrics_recorder.cc:261] Ash event latency is longer than usual, type=MouseMoved, latency= 944 ms
+2026-09-24T22:33:20.257407Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:33:29.174850Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T22:33:29.175001Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T22:33:29.176041Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T22:33:29.267293Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T22:33:29.267964Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T22:33:29.269703Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:0 Bluetooth:0
+2026-09-24T22:33:29.270682Z ERROR chrome[6413:6432]: [ui/ozone/platform/drm/gpu/hardware_display_plane_manager_atomic.cc:579] Failed to commit properties for crtc=52
+2026-09-24T22:33:29.276244Z VERBOSE1 chrome[1491:1491]: [ash/wm/tablet_mode/tablet_mode_controller.cc:802] Touchpad device configuration changed.
+2026-09-24T22:33:30.655524Z VERBOSE1 chrome[1491:1491]: [ash/wm/tablet_mode/tablet_mode_controller.cc:802] Touchpad device configuration changed.
+2026-09-24T22:33:30.659392Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:33:30.661266Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T22:33:30.661948Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:33:30.676870Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T22:33:30.677461Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T22:33:30.683195Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-24T22:33:30.738263Z VERBOSE1 chrome[1491:1491]: [ash/metrics/ui_metrics_recorder.cc:261] Ash event latency is longer than usual, type=KeyPressed, latency= 1563 ms
+2026-09-24T22:33:33.604719Z WARNING chrome[1491:1491]: [CONSOLE:4] "Image Loader maximum parallel tasks: 2", source: chrome-extension://pmfjbimdmchhbnneeidfognadeopoehp/offscreen.js (4)
+2026-09-24T22:33:33.728497Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:33:38.046118Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T22:33:38.046275Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T22:33:38.046497Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T22:33:38.130275Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T22:33:38.130842Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T22:33:38.132117Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:0 Bluetooth:0
+2026-09-24T22:33:38.132739Z ERROR chrome[6413:6432]: [ui/ozone/platform/drm/gpu/hardware_display_plane_manager_atomic.cc:579] Failed to commit properties for crtc=52
+2026-09-24T22:33:38.133984Z VERBOSE1 chrome[1491:1491]: [ash/wm/tablet_mode/tablet_mode_controller.cc:802] Touchpad device configuration changed.
+2026-09-24T22:33:39.353983Z VERBOSE1 chrome[1491:1491]: [ash/wm/tablet_mode/tablet_mode_controller.cc:802] Touchpad device configuration changed.
+2026-09-24T22:33:39.360012Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:33:39.361607Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T22:33:39.361954Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:33:39.376684Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T22:33:39.377179Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T22:33:39.379021Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-24T22:33:39.444064Z VERBOSE1 chrome[1491:1491]: [ash/metrics/ui_metrics_recorder.cc:261] Ash event latency is longer than usual, type=KeyPressed, latency= 1353 ms
+2026-09-24T22:34:34.630794Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:34:36.509645Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:34:53.835163Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:35:29.326184Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:36:23.803741Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:36:28.835492Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:36:33.971497Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:36:52.769134Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:36:56.546172Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:37:05.839073Z WARNING chrome[1491:1491]: [CONSOLE:107] "Got selected keys that are not in current directory, continuing anyway", source: chrome://file-manager/foreground/js/shared.rollup.js (107)
+2026-09-24T22:37:31.796430Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T22:37:31.796581Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T22:37:31.797868Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T22:37:31.874940Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T22:37:31.877849Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T22:37:31.879070Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:0 Bluetooth:0
+2026-09-24T22:37:31.880983Z ERROR chrome[6413:6432]: [ui/ozone/platform/drm/gpu/hardware_display_plane_manager_atomic.cc:579] Failed to commit properties for crtc=52
+2026-09-24T22:37:31.884921Z VERBOSE1 chrome[1491:1491]: [ash/wm/tablet_mode/tablet_mode_controller.cc:802] Touchpad device configuration changed.
+2026-09-24T22:37:33.934544Z VERBOSE1 chrome[1491:1491]: [ash/wm/tablet_mode/tablet_mode_controller.cc:802] Touchpad device configuration changed.
+2026-09-24T22:37:33.938858Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:37:33.942642Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T22:37:33.943757Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=1366x768p@60.00313949584961+(0,0)}"]}}
+2026-09-24T22:37:33.968645Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T22:37:33.969107Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T22:37:33.973175Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:1 Bluetooth:0
+2026-09-24T22:37:44.145065Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:37:49.109835Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:38:01.992517Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:38:06.999510Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:38:16.644083Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:38:21.991242Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:38:26.991816Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:38:31.996605Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:38:37.000140Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:38:42.003749Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:38:45.800294Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:38:47.010423Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:39:02.001458Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:39:07.002249Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:39:12.003565Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:39:12.446253Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:39:16.640320Z ERROR chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 8
+2026-09-24T22:39:17.009656Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:39:27.010254Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:39:27.135503Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:39:37.007299Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:39:42.008940Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:39:43.612581Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:39:47.011508Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:40:02.060044Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:40:12.019871Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:40:15.541090Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:40:15.555550Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:40:15.564532Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:40:15.571589Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:40:15.878113Z ERROR chrome[1491:1491]: [CONSOLE:2] "Uncaught (in promise) CompileError: WebAssembly.instantiate(): Compiling or instantiating WebAssembly module violates the following Content Security policy directive because neither 'wasm-eval' nor 'unsafe-eval' is an allowed source of script in the following Content Security Policy directive: "script-src chrome-untrusted://resources 'self'".", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T22:40:15.891786Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T22:40:17.026002Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:40:22.037569Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:40:32.019813Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:40:37.022571Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:40:42.035649Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:40:47.026341Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:40:52.030621Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:41:02.044806Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:41:12.044872Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:41:17.055415Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:41:27.050779Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:41:32.055892Z ERROR chrome[1491:1491]: [dbus/object_proxy.cc:572] Failed to call method: org.chromium.VmConcierge.ListVms: object_path= /org/chromium/VmConcierge: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2026-09-24T22:41:38.999863Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:43:09.044789Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:43:19.241000Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:45:18.376796Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:49:36.926459Z ERROR chrome[1491:1558]: [base/threading/platform_thread_cros.cc:217] Failed to set sched_util_min, performance may be effected.: No such process (3)
+2026-09-24T22:49:40.070478Z ERROR chrome[1491:1491]: [chrome/browser/ash/crostini/crostini_manager.cc:2248] Failed during disk image export: 3, failed to write data block: Write error, File too large
+2026-09-24T22:49:40.070596Z ERROR chrome[1491:1491]: [chrome/browser/ash/crostini/crostini_export_import.cc:497] Error exporting 82
+2026-09-24T22:50:24.695470Z ERROR chrome[1491:1558]: [base/threading/platform_thread_cros.cc:217] Failed to set sched_util_min, performance may be effected.: No such process (3)
+2026-09-24T22:50:39.062030Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:50:56.642184Z ERROR chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 9
+2026-09-24T22:51:16.026864Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:52:21.997197Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:52:21.997388Z WARNING chrome[1491:1491]: [chrome/browser/ash/cryptauth/client_app_metadata_provider_service.cc:300] ClientAppMetadataProviderService::OnInstanceIdTokenFetched(): Failed to fetch InstanceID token; result: .
+2026-09-24T22:54:26.485716Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:54:52.887418Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:54:54.086350Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:55:20.571812Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:55:51.139345Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:56:04.530044Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:57:27.077495Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:57:39.111806Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T22:58:15.452465Z ERROR chrome[1491:1558]: [base/threading/platform_thread_cros.cc:217] Failed to set sched_util_min, performance may be effected.: No such process (3)
+2026-09-24T23:00:10.150936Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T23:01:03.941736Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T23:01:52.777583Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:01:52.785605Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:01:52.860584Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:01:52.870206Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:01:53.197456Z ERROR chrome[1491:1491]: [CONSOLE:2] "Uncaught (in promise) CompileError: WebAssembly.instantiate(): Compiling or instantiating WebAssembly module violates the following Content Security policy directive because neither 'wasm-eval' nor 'unsafe-eval' is an allowed source of script in the following Content Security Policy directive: "script-src chrome-untrusted://resources 'self'".", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T23:01:53.213658Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:06:46.642273Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T23:07:20.688051Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T23:11:06.218697Z WARNING chrome[1491:1491]: [CONSOLE:107] "Got selected keys that are not in current directory, continuing anyway", source: chrome://file-manager/foreground/js/shared.rollup.js (107)
+2026-09-24T23:11:41.068032Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-24T23:11:41.142676Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:11:41.150024Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:11:41.251856Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:11:41.258768Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:11:41.339702Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:11:41.346675Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:11:41.877518Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:11:41.897942Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:16.648131Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T23:12:26.845800Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-24T23:12:26.917682Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:26.925753Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:26.990571Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:26.997643Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:31.345170Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:31.352574Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:31.398191Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:31.407850Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:31.678086Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:32.224560Z WARNING chrome[1491:1491]: [chrome/browser/ash/crostini/crostini_manager.cc:1586] No disk image was provided for baguette installation, this should indicate an existing baguette disk image
+2026-09-24T23:12:36.304186Z ERROR chrome[1491:1491]: [chrome/browser/ash/crostini/crostini_manager.cc:2762] Failed to start VM: Error starting VM. VmStartCheckerStatus=5
+2026-09-24T23:12:36.304378Z ERROR chrome[1491:1491]: [chrome/browser/ash/crostini/crostini_manager.cc:1066] Failed to restart Crostini with error code: 5, container: (type:6:BAGUETTE vm:"termina" container:"penguin")
+2026-09-24T23:12:36.304575Z ERROR chrome[1491:1491]: [chrome/browser/extensions/api/terminal/terminal_private_api.cc:440] Error starting crostini for terminal: 5 (VM_START_FAILED)
+2026-09-24T23:12:36.308424Z ERROR chrome[1491:1491]: [chrome/browser/extensions/api/terminal/terminal_private_api.cc:634] invalid terminal id 9660259699862206
+2026-09-24T23:12:36.308979Z ERROR chrome[1491:1491]: [CONSOLE:0] "Uncaught (in promise) Error: invalid terminal id", source: chrome-untrusted://terminal/html/terminal.html?command=vmshell&settings_profile=default&args[]=--vm_name%3Dtermina&args[]=--target_container%3Dpenguin (0)
+2026-09-24T23:12:37.207093Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:37.213512Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:37.273622Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:37.289564Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:37.593558Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:37.976004Z WARNING chrome[1491:1491]: [chrome/browser/ash/crostini/crostini_manager.cc:1586] No disk image was provided for baguette installation, this should indicate an existing baguette disk image
+2026-09-24T23:12:40.758524Z ERROR chrome[1491:1491]: [chrome/browser/ash/crostini/crostini_manager.cc:2762] Failed to start VM: Error starting VM. VmStartCheckerStatus=5
+2026-09-24T23:12:40.758676Z ERROR chrome[1491:1491]: [chrome/browser/ash/crostini/crostini_manager.cc:1066] Failed to restart Crostini with error code: 5, container: (type:6:BAGUETTE vm:"termina" container:"penguin")
+2026-09-24T23:12:40.758768Z ERROR chrome[1491:1491]: [chrome/browser/extensions/api/terminal/terminal_private_api.cc:440] Error starting crostini for terminal: 5 (VM_START_FAILED)
+2026-09-24T23:12:42.220283Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/app_restore/full_restore_service.cc:350] The full restore notification is closed for /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4
+2026-09-24T23:12:42.294618Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:42.301548Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:42.377159Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:42.389560Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:44.949789Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:44.956544Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:45.029627Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:45.037549Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:45.466106Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Anonymous%20Pro&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.477247Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Cutive%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.484320Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Fira%20Code&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.488890Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Fira%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.498553Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=IBM%20Plex%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.505151Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Inconsolata&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.515097Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=JetBrains%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.521368Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Courier%20Prime&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.530954Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Nanum%20Gothic%20Coding&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.537128Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Space%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.546807Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Share%20Tech%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.552876Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Roboto%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.562505Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=PT%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.568592Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Source%20Code%20Pro&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.572981Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Ubuntu%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:12:45.651029Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T23:12:49.646873Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:12:49.757551Z WARNING chrome[1491:1491]: [CONSOLE:1] "Unknown message: NULL_ARIA_LABEL", source: chrome-untrusted://terminal/libdot/index.js (1)
+2026-09-24T23:13:03.163767Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:13:03.171921Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:13:03.243981Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:13:03.256035Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:13:03.557615Z ERROR chrome[1491:1491]: [CONSOLE:2] "Uncaught (in promise) CompileError: WebAssembly.instantiate(): Compiling or instantiating WebAssembly module violates the following Content Security policy directive because neither 'wasm-eval' nor 'unsafe-eval' is an allowed source of script in the following Content Security Policy directive: "script-src chrome-untrusted://resources 'self'".", source: chrome-untrusted://crosh/js/deps_xterm.rollup.js (2)
+2026-09-24T23:13:03.575718Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:13:07.521384Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:13:07.529715Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:13:07.597824Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:13:07.604887Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:13:07.923732Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Anonymous%20Pro&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.925648Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Courier%20Prime&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.928199Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Cutive%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.930779Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Fira%20Code&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.935080Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Fira%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.937297Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=IBM%20Plex%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.939670Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Inconsolata&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.941676Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Nanum%20Gothic%20Coding&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.943727Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=JetBrains%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.945477Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=PT%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.946990Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Share%20Tech%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.950827Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Roboto%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.952794Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Space%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.954308Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Source%20Code%20Pro&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:07.955963Z ERROR chrome[1491:1491]: [CONSOLE:314] "Uncaught (in promise) Error: Unable to insert style sheet for https://fonts.googleapis.com/css2?family=Ubuntu%20Mono&display=swap", source: chrome-untrusted://terminal/js/terminal_common.js (314)
+2026-09-24T23:13:16.644231Z ERROR chrome[1491:1491]: [chromeos/ash/services/device_sync/device_sync_impl.cc:892] DeviceSyncImpl: ClientAppMetadata fetch failed. Num failures: 10
+2026-09-24T23:13:27.561052Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T23:14:12.716268Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:14:12.728533Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:14:12.804855Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:14:12.813561Z VERBOSE1 chrome[6413:6413]: [ui/ozone/platform/drm/gpu/gbm_surface_factory.cc:465] Found Gbm Device at /dev/dri/renderD128
+2026-09-24T23:14:23.182329Z ERROR chrome[1491:1491]: [chromeos/ash/components/dbus/dlcservice/dlcservice_client.cc:302] Failed to install DLC termina-dlc with error code: org.chromium.DlcServiceInterface.INTERNAL
+2026-09-24T23:14:29.188002Z ERROR chrome[1491:1527]: [google_apis/gcm/engine/registration_request.cc:275] Registration URL fetching failed.
+2026-09-24T23:14:29.194356Z WARNING chrome[1491:1491]: [chromeos/ash/components/dbus/dlcservice/dlcservice_client.cc:382] DLC install is getting queued for: termina-dlc
+2026-09-24T23:14:29.886054Z WARNING chrome[1491:1491]: [CONSOLE:71] "Failure executing actions producer [object DOMException]", source: chrome://file-manager/foreground/js/shared.rollup.js (71)
+2026-09-24T23:14:29.887677Z WARNING chrome[1491:1491]: [CONSOLE:71] "Failure executing actions producer [object DOMException]", source: chrome://file-manager/foreground/js/shared.rollup.js (71)
+2026-09-24T23:14:29.918481Z VERBOSE1 chrome[1491:1491]: [chromeos/ash/experiences/arc/session/connection_holder.h:292] Instance arc.mojom.VolumeMounterInstance not available.
+2026-09-24T23:14:29.918523Z VERBOSE1 chrome[1491:1491]: [chromeos/ash/experiences/arc/volume_mounter/arc_volume_mounter_bridge.cc:502] No volume mounter instance
+2026-09-24T23:14:29.925802Z WARNING chrome[1491:1491]: [CONSOLE:720] "Couldn't find the navigation data for the item to be deleted in the store.", source: chrome://file-manager/foreground/js/main.js (720)
+2026-09-24T23:14:29.925894Z WARNING chrome[1491:1491]: [CONSOLE:720] "Couldn't find the navigation data for the item to be deleted in the store.", source: chrome://file-manager/foreground/js/main.js (720)
+2026-09-24T23:14:29.925965Z WARNING chrome[1491:1491]: [CONSOLE:720] "Couldn't find the navigation data for the item to be deleted in the store.", source: chrome://file-manager/foreground/js/main.js (720)
+2026-09-24T23:14:29.926009Z WARNING chrome[1491:1491]: [CONSOLE:720] "Couldn't find the navigation data for the item to be deleted in the store.", source: chrome://file-manager/foreground/js/main.js (720)
+2026-09-24T23:14:29.926049Z WARNING chrome[1491:1491]: [CONSOLE:720] "Couldn't find the navigation data for the item to be deleted in the store.", source: chrome://file-manager/foreground/js/main.js (720)
+2026-09-24T23:14:29.926089Z WARNING chrome[1491:1491]: [CONSOLE:720] "Couldn't find the navigation data for the item to be deleted in the store.", source: chrome://file-manager/foreground/js/main.js (720)
+2026-09-24T23:14:29.926127Z WARNING chrome[1491:1491]: [CONSOLE:720] "Couldn't find the navigation data for the item to be deleted in the store.", source: chrome://file-manager/foreground/js/main.js (720)
+2026-09-24T23:14:29.926167Z WARNING chrome[1491:1491]: [CONSOLE:720] "Couldn't find the navigation data for the item to be deleted in the store.", source: chrome://file-manager/foreground/js/main.js (720)
+2026-09-24T23:14:29.926205Z WARNING chrome[1491:1491]: [CONSOLE:720] "Couldn't find the navigation data for the item to be deleted in the store.", source: chrome://file-manager/foreground/js/main.js (720)
+2026-09-24T23:14:29.949291Z WARNING chrome[1491:1491]: [CONSOLE:111] "Cannot find the volume root for the child entry: filesystem:chrome://file-manager/external/removable/USB%20DISK/", source: chrome://file-manager/foreground/js/shared.rollup.js (111)
+2026-09-24T23:14:33.063547Z WARNING chrome[1491:1491]: [chromeos/ash/components/dbus/dlcservice/dlcservice_client.cc:382] DLC install is getting queued for: termina-dlc
+2026-09-24T23:14:36.864294Z WARNING chrome[1491:1491]: [chromeos/ash/components/dbus/dlcservice/dlcservice_client.cc:382] DLC install is getting queued for: termina-dlc
+2026-09-24T23:14:53.548523Z VERBOSE1 chrome[1491:1491]: [ash/wm/lock_state_controller.cc:900] OnSessionStateChangeTimeout with shutdown requested
+2026-09-24T23:14:53.573989Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM testing: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T23:14:53.574118Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:392] Test-modeset succeeded.
+2026-09-24T23:14:53.574401Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:382] DRM configuring: {"card0":{"base_connector=35":["{connector=35 crtc=52 mode=Disabled+(0,0)}"]}}
+2026-09-24T23:14:53.681707Z VERBOSE1 chrome[6413:6432]: [ui/ozone/platform/drm/gpu/screen_manager.cc:405] Modeset succeeded.
+2026-09-24T23:14:53.682159Z VERBOSE1 chrome[1491:1491]: [ash/system/power/power_event_observer.cc:392] Lock screen on lid close: lid=0, lock=0, projecting=0, policy=0, can_lock=1
+2026-09-24T23:14:53.682980Z INFO chrome[1491:1491]: [ash/quick_pair/feature_status_tracker/fast_pair_enabled_provider.cc:97] AreSubProvidersEnabled: Flag:1 Policy Pref:1 Google API Key:1 Logged in User:1 Screen State:0 Bluetooth:0
+2026-09-24T23:14:53.693300Z INFO chrome[1491:1491]: [ash/webui/eche_app_ui/system_info_provider.cc:130] echeapi SystemInfoProvider OnScreenBacklightStateChanged
+2026-09-24T23:14:53.919031Z VERBOSE1 chrome[1491:1491]: [chrome/browser/lifetime/application_lifetime_chromeos.cc:197] Set the current session exit type as clean.
+2026-09-24T23:14:53.950749Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/session/arc_session_manager.cc:906] Shutting down session manager
+2026-09-24T23:14:54.124440Z ERROR chrome[1491:1491]: [chromeos/ash/components/drivefs/drivefs_host.cc:336] DriveFs unmounted
+2026-09-24T23:14:54.152159Z INFO chrome[1491:1491]: [chrome/browser/nearby_sharing/nearby_share_logger.cc:25] Nearby Share logging shutdown.
+2026-09-24T23:14:54.162034Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/enterprise/cert_store/arc_cert_installer.cc:64] ArcCertInstaller::~ArcCertInstaller
+2026-09-24T23:14:54.163803Z WARNING chrome[1491:1491]: [chrome/browser/ash/crostini/crostini_manager.cc:446] Destroying with outstanding requests.
+2026-09-24T23:14:54.192315Z VERBOSE1 chrome[1491:1491]: [chrome/browser/ash/arc/session/arc_session_manager.cc:906] Shutting down session manager
+2026-09-24T23:14:54.270378Z ERROR chrome[1491:1491]: [device/bluetooth/floss/floss_dbus_client.h:875] D-Bus is not initialized, cannot call method UnregisterAdvertiserCallback on 
+2026-09-24T23:14:54.270454Z WARNING chrome[1491:1491]: [device/bluetooth/floss/floss_advertiser_client.cc:383] CompleteUnregisterCallback: Failed to unregister callback
+2026-09-24T23:14:54.270544Z WARNING chrome[1491:1491]: [components/reporting/util/disconnectable_client.cc:136] Service became unavailable

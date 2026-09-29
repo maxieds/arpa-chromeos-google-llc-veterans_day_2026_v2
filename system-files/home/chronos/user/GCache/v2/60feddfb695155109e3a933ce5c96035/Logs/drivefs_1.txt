@@ -1,0 +1,1745 @@
+-------------------------------------
+drivefs log started
+version: 126.0.5
+changelist 922270714 with baseline 916154769 in a mint client based on //depot/branches/drive_fs_release_branch/916154769.1/google3
+-------------------------------------
+2026-08-09T19:21:49.340ZI [6:log_writer_thread] instrumentation.cc:117:OpenLogFileInDirectory Logging to /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/Logs/drivefs.txt
+2026-08-09T19:21:49.344ZI [3:drivefs] lifecycle_observer.cc:38:FlushDecoreEvents Recording decore event: 80327
+2026-08-09T19:21:49.344ZI [3:drivefs] lifecycle_observer.cc:42:FlushDecoreEvents Recording decore summarized metric 80379 with (0) values.
+2026-08-09T19:21:49.344ZI [3:drivefs] lifecycle_observer.cc:42:FlushDecoreEvents Recording decore summarized metric 80381 with (0) values.
+2026-08-09T19:21:49.345ZI [3:drivefs] drive_cloud_store_provider.cc:42:CreateDriveCloudStore Using Drive API v2
+2026-08-09T19:21:49.345ZI [3:drivefs] curl_api.cc:1406:Create SSL verification with CAcerts path: /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:21:49.346ZI [3:drivefs] curl_api.cc:1406:Create SSL verification with CAcerts path: /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:21:49.893ZI [3:drivefs] curl_api.cc:1406:Create SSL verification with CAcerts path: /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:21:49.893ZI [3:drivefs] portable_phenotype_client_impl.cc:104:UNKNOWN Registering configuration package drive_fs_ph with version 922270714
+2026-08-09T19:21:49.968ZI [3:drivefs] phenotype_impl.cc:758:UNKNOWN ScheduleQueuedSync: Updated fetch reason.
+2026-08-09T19:21:49.969ZI [3:drivefs] phenotype_impl.cc:778:UNKNOWN ScheduleQueuedSync: Scheduled sync.
+2026-08-09T19:21:49.969ZI [3:drivefs] portable_phenotype_client_impl.cc:132:UNKNOWN Successfully registered configuration package: drive_fs_ph (76 ms); starting periodic syncs
+2026-08-09T19:21:49.969ZI [3:drivefs] portable_phenotype_client_impl.cc:188:UNKNOWN Starting periodic syncs
+2026-08-09T19:21:49.969ZI [3:drivefs] portable_phenotype_client_impl.cc:104:UNKNOWN Registering configuration package apps.drive.cello.desktop with version 922270714
+2026-08-09T19:21:49.978ZI [3:drivefs] phenotype_impl.cc:778:UNKNOWN ScheduleQueuedSync: Scheduled sync.
+2026-08-09T19:21:49.978ZI [3:drivefs] portable_phenotype_client_impl.cc:132:UNKNOWN Successfully registered configuration package: apps.drive.cello.desktop (8 ms); starting periodic syncs
+2026-08-09T19:21:49.978ZI [3:drivefs] portable_phenotype_client_impl.cc:188:UNKNOWN Starting periodic syncs
+2026-08-09T19:21:49.978ZI [3:drivefs] portable_phenotype_client_impl.cc:188:UNKNOWN Starting periodic syncs
+2026-08-09T19:21:49.978ZI [7:Phenotype Background] portable_phenotype_client_impl.cc:212:UNKNOWN Syncing now if stale
+2026-08-09T19:21:49.978ZE [3:drivefs] account_dir.cc:157:UNKNOWN NOT_FOUND: Cannot open file: No such file or directory [type.googleapis.com/drive.ds.Status='UNAVAILABLE_RESOURCE']
+=== Source Location Trace: === 
+apps/drive/cello/util/file_system.cc:500
+apps/drive/cello/util/file_system.cc:1350
+2026-08-09T19:21:49.978ZI [3:drivefs] stream.cc:780:InitCelloFS new_user=true
+2026-08-09T19:21:49.978ZI [3:drivefs] stream.cc:892:InitCelloFS Content cache is in App Data directory, marking as hidden got status OK
+2026-08-09T19:21:49.980ZI [3:drivefs] cello_fs.cc:435:InitInternal Content cache at: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/content_cache
+2026-08-09T19:21:49.980ZI [3:drivefs] cello_fs.cc:440:InitInternal Thumbnail cache at: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/thumbnails_cache
+2026-08-09T19:21:49.980ZI [3:drivefs] cello_fs.cc:453:InitInternal Sqlite DB at: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/metadata_sqlite_db
+2026-08-09T19:21:49.981ZI [3:drivefs] file_system_change_replayer.cc:98:operator() Cloud change replayer client ID: 15
+2026-08-09T19:21:49.981ZI [3:drivefs][STRM] content_cache.cc:294:Initialize Content cache capacity (bytes): 4611686018427386880
+2026-08-09T19:21:49.982ZI [3:drivefs][STRM] content_cache.cc:310:Initialize Sparse files supported: true
+2026-08-09T19:21:49.982ZI [18:STRM_Blocking Disk IO] content_cache.cc:397:InitializeOnIOThread Created new content cache dir
+2026-08-09T19:21:49.982ZI [18:STRM_Blocking Disk IO] content_cache.cc:432:InitializeOnIOThread Initializing range db
+2026-08-09T19:21:50.042ZI [3:drivefs][STRM] content_cache.cc:294:Initialize Content cache capacity (bytes): 104857600
+2026-08-09T19:21:50.042ZI [3:drivefs][STRM] content_cache.cc:310:Initialize Sparse files supported: true
+2026-08-09T19:21:50.042ZI [18:STRM_Blocking Disk IO] content_cache.cc:397:InitializeOnIOThread Created new content cache dir
+2026-08-09T19:21:50.042ZI [18:STRM_Blocking Disk IO] content_cache.cc:432:InitializeOnIOThread Initializing range db
+2026-08-09T19:21:50.108ZI [3:drivefs][STRM] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+2026-08-09T19:21:50.108ZI [3:drivefs][STRM] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+2026-08-09T19:21:50.108ZI [3:drivefs][STRM] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 1000, with each request requiring 10 tokens
+2026-08-09T19:21:50.110ZI [3:drivefs] drive_v2_cloud_store.cc:4904:GetRootId Querying cloud for root item ID
+2026-08-09T19:21:50.186ZI [7:Phenotype Background] phenotype_http_client.cc:227:RefreshAccountIdsAndTokens [RefreshAccountIdsAndTokens] committed_accounts_ ordering: os_account
+2026-08-09T19:21:50.186ZI [7:Phenotype Background] phenotype_impl.cc:1242:UNKNOWN No Zwieback cookie present.
+2026-08-09T19:21:50.186ZI [7:Phenotype Background] phenotype_impl.cc:591:UNKNOWN Creating a new package for key: uncommitted_packages/drive_fs_ph/
+2026-08-09T19:21:50.186ZI [7:Phenotype Background] phenotype_impl.cc:591:UNKNOWN Creating a new package for key: uncommitted_packages/drive_fs_ph/os_account
+2026-08-09T19:21:50.186ZI [7:Phenotype Background] phenotype_impl.cc:591:UNKNOWN Creating a new package for key: uncommitted_packages/apps.drive.cello.desktop/
+2026-08-09T19:21:50.186ZI [7:Phenotype Background] phenotype_impl.cc:591:UNKNOWN Creating a new package for key: uncommitted_packages/apps.drive.cello.desktop/os_account
+2026-08-09T19:21:50.186ZI [22:CurlWorker0] curl_api.cc:476:Init Using cacerts from /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:21:50.187ZI [23:CurlWorker0] curl_api.cc:476:Init Using cacerts from /etc/ssl/certs/ca-certificates.crt
+2026-08-09T19:21:50.985ZI [3:drivefs] phenotype_impl.cc:1371:UNKNOWN RegisterPackage: Sync completed with status Ok
+2026-08-09T19:21:50.985ZI [3:drivefs] phenotype_impl.cc:1371:UNKNOWN RegisterPackage: Sync completed with status Ok
+2026-08-09T19:21:51.958ZI [3:drivefs][STRM] init_helper.cc:350:MaybeFetchInitialCloudState Largest Cloud change ID for My Drive fetched: 1
+2026-08-09T19:21:51.958ZI [3:drivefs] drive_v2_cloud_store.cc:3524:ListDrivesPage Getting shared drives from Driveway.
+2026-08-09T19:21:52.174ZE [3:drivefs][STRM] cello.cc:1076:operator() Clearcut server token is not present in InitializeOptions.
+2026-08-09T19:21:52.174ZI [3:drivefs] sync_engine.cc:2778:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+2026-08-09T19:21:52.176ZI [3:drivefs] sync_engine.cc:2721:operator() Sync engine activity state:
+operation_queue_size: 0
+all_downloads: 0
+largest_local_change_id: 1
+unique_user_requested_op_count: 0
+
+2026-08-09T19:21:52.180ZI [3:drivefs][STRM] post_init_task.cc:218:GetNondownloadableCorpusLevelProperty Corpus level property for non-downloadable migration: 0
+2026-08-09T19:21:52.180ZI [3:drivefs][STRM] post_init_task.cc:238:MigrateNondownloadableFiles Doing migration for non-downloadable files...
+2026-08-09T19:21:52.182ZI [3:drivefs][STRM] post_init_task.cc:279:MigrateNondownloadableFiles Finished migrating non-downloadable files
+2026-08-09T19:21:52.183ZI [3:drivefs][STRM] legacy_fetch_task.cc:653:RunInternal Largest local change id for My Drive at startup: 1
+2026-08-09T19:21:52.644ZI [3:drivefs] virtual_folders.cc:197:Init Local folders at: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/local_folders
+2026-08-09T19:21:52.648ZI [3:drivefs] shortcut_manager.cc:120:operator() No shortcuts items to enrich, creating sentinel file...
+2026-08-09T19:21:52.648ZI [3:drivefs] shortcut_manager.cc:117:operator() Shortcuts sentinel file created.
+2026-08-09T19:21:53.120ZI [3:drivefs] drive_v2_cloud_store.cc:4904:GetRootId Querying cloud for root item ID
+2026-08-09T19:21:56.294ZI [3:drivefs][MIRR] init_helper.cc:350:MaybeFetchInitialCloudState Largest Cloud change ID for My Drive fetched: 3
+2026-08-09T19:21:56.302ZE [3:drivefs][MIRR] cello.cc:1076:operator() Clearcut server token is not present in InitializeOptions.
+2026-08-09T19:21:56.302ZI [3:drivefs] sync_engine.cc:2778:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+2026-08-09T19:21:56.302ZI [3:drivefs] sync_engine.cc:2721:operator() Sync engine activity state:
+operation_queue_size: 0
+all_downloads: 0
+largest_local_change_id: 3
+unique_user_requested_op_count: 0
+
+2026-08-09T19:21:56.302ZI [3:drivefs] lifecycle_observer.cc:38:FlushDecoreEvents Recording decore event: 80331
+2026-08-09T19:21:56.302ZI [3:drivefs] decore_util.cc:59:UNKNOWN Successfully wrote sentinel file /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/flags_fetched for Decore automatic rollback.
+2026-08-09T19:21:56.303ZI [3:drivefs] core.cc:1281:GetFeatureConfig Polling latest feature flags
+2026-08-09T19:21:56.303ZI [3:drivefs] demuxing_cloud_store.cc:379:GetAccountAndUserSettings Can't demux due to inconsistent fields: account.drive_for_desktop_settings.can_use_photos,account.security_settings.is_cse_on_by_default,account.enterprise_settings.can_access_admin_console,account.drive_for_desktop_settings.show_fs_download,account.drive_for_desktop_settings.can_mirror_my_drive,account.drive_for_desktop_settings.can_use_fs_presence,account.drive_for_desktop_settings.can_use_mirror,account.drive_for_desktop_settings.can_use_slurp,account.enterprise_settings.is_dasher_user,account.gen_ai_settings.is_eligible_for_sidekick,account.security_settings.is_cse_create_enabled,account.security_settings.is_cse_enabled,account.enterprise_settings.is_dasher_admin vs account.metadata.backend_diagnostics.backend,account.metadata.quota.quota_status,account.metadata.quota.bytes_used_by_all_services,account.user.organization_display_name,account.metadata.quota.individual_bytes_limit,account.metadata.quota.grace_period_info.end_timestamp_millis,account.user.email,account.user.customer_id,account.metadata.quota.quota_bytes_total,account.metadata.quota.grace_period_info.active,account.user.name,account.metadata.quota.quota_bytes_used_aggregate,account.user.focus_user_id,account.metadata.quota.bytes_remaining,account.user.photo_url,account.metadata.quota.quota_type,account.metadata.quota.usage_state,account.metadata.quota.bytes_used_by_user,account.metadata.quota.individual_usage_state,account.metadata.quota.bytes_limit
+2026-08-09T19:21:56.303ZI [7:Phenotype Background] portable_phenotype_client_impl.cc:212:UNKNOWN Syncing now if stale
+2026-08-09T19:21:56.332ZI [7:Phenotype Background] phenotype_http_client.cc:227:RefreshAccountIdsAndTokens [RefreshAccountIdsAndTokens] committed_accounts_ ordering: os_account
+2026-08-09T19:21:56.332ZI [7:Phenotype Background] phenotype_impl.cc:497:UNKNOWN ShouldSync: Last sync was only 6 seconds ago
+2026-08-09T19:21:56.332ZI [7:Phenotype Background] phenotype_impl.cc:804:UNKNOWN PerformSync: No reason to sync. Returning kOk
+2026-08-09T19:21:56.336ZI [3:drivefs][MIRR] post_init_task.cc:218:GetNondownloadableCorpusLevelProperty Corpus level property for non-downloadable migration: 0
+2026-08-09T19:21:56.336ZI [3:drivefs][MIRR] post_init_task.cc:238:MigrateNondownloadableFiles Doing migration for non-downloadable files...
+2026-08-09T19:21:56.338ZI [3:drivefs][MIRR] post_init_task.cc:279:MigrateNondownloadableFiles Finished migrating non-downloadable files
+2026-08-09T19:21:56.338ZI [3:drivefs][MIRR] legacy_fetch_task.cc:653:RunInternal Largest local change id for My Drive at startup: 3
+2026-08-09T19:21:57.127ZI [3:drivefs] feature_config.cc:543:HasEffectiveAccountConfigChanged Effective feature flags diff: {
+added: deprecated: false
+added: starred_virtual_folder: false
+added: recent_virtual_folder: false
+added: gcm_web_api_key: "AIzaSyDuIQNPdd-Sd_a5PvQzY_-63DCVK0n0jFc"
+added: changelog_polling_interval_ms: 10000
+added: metadata_cache_reset_counter: 8
+added: push_notifications: true
+added: spotlight: true
+added: max_operation_batch_size: 15
+added: resumable_upload_minimum_size_bytes: 104857600
+added: max_changelog_result_size: 1000
+added: lost_and_found: true
+added: fetch_task_throttle_time_ms: 0
+added: temporary_items_virtual_folder: true
+added: fetch_task_backoff_start_ms: 2000
+added: fetch_task_backoff_limit_ms: 600000
+added: fetch_task_backoff_multiplier: 2
+added: push_delay_ms: 0
+added: max_parallel_background_cloud_queries: 3
+added: max_query_page_size: 1000
+added: structured_log_level: 3
+added: max_indexer_parallel_cloud_queries: 1
+added: content_cache_max_kbytes: 1000000000
+added: min_local_free_space_for_writes: 512000
+added: initial_content_cache_scan_delay_msec: 120000
+added: fcm_token_ttl_secs: 604800
+added: crash_on_failed_thread_checker_assert: true
+added: allow_windows_system_user_access: false
+added: max_parallel_downloads_per_file: 5
+added: run_cloud_query_on_change_notification: false
+added: stale_fetch_threshold_msec: 2500
+added: two_level_folder_prefetch: false
+added: max_parallel_push_task_instances: 15
+added: emm_support: false
+added: emm_max_start_up_delay_ms: 3000
+added: emm_check_interval_ms: 10800000
+added: min_duration_msec_between_evictions: 10000
+added: min_parallel_second_level_cloud_queries: 1
+added: emm_uri: "https://gem-pa.googleapis.com/v1/"
+added: fetch_content_bytes_before_cancel_percent_multiplier: 500
+added: min_bytes_saved_to_split_request: 9223372036854775807
+added: opendir_timeout_ms: 0
+added: supply_json_gdoc_content: false
+added: content_cache_capacity_percentage: 20
+added: async_dokan_reply_thread_count: 20
+added: changelog_backup_poll_interval_ms: 11111000
+added: dokan_dispatch_monitor_check_ms: 10000
+added: dokan_dispatch_monitor_warn_ms: 60000
+added: sqlite_normal_transaction_sync: true
+added: sqlite_autocheckpoint_page_count: 1000
+added: finder_process_names: "DesktopServicesHelper"
+added: emm_secondary_identifier: false
+added: crash_on_cello_assert: false
+added: slow_operation_threshold_sec: 20
+added: shortcuts_permission_denied_retry_interval_ms: 3600000
+added: allow_subscription_task: true
+added: resubscribe_retry_interval_msec: 14400000
+added: content_cache_reset_evictable_files_counter: 0
+added: dokan_slow_operations_per_minidump: 0
+added: allowed_new_gdoc_file_name_pattern: ".*Google Docs.*\\.gdoc|.*Google Sheets.*\\.gsheet|.*Google Slides.*\\.gslides"
+added: reset_zeroes_largest_change_id: false
+added: reset_file_content_on_revert_flow: true
+added: finder_create_file_handler_timeout_ms: 600000
+added: content_cache_reset_pinned_counter: 0
+added: dokan_assume_paging_io_is_locked: false
+added: account_update_sec: 86400
+added: test_value_0: 0
+added: test_value_1: 0
+added: test_value_2: 1
+added: test_value_3: 0
+added: test_value_4: 0
+added: test_value_5: 0
+added: test_value_6: 0
+added: test_value_7: 0
+added: test_value_8: 0
+added: dokan_allow_optimistic_release: true
+added: max_parallel_resumable_uploads: 1
+added: fcm_stream_max_idle_secs: 60
+added: fcm_connection_max_idle_secs: 60
+added: dokan_driver_request_batching: true
+added: handle_unauthorized_resumable_uploads: true
+added: dokan_driver_full_batching: false
+added: backoff_start_ms: 200
+added: backoff_limit_ms: 120000
+added: backoff_multiplier: 2
+added: content_cache_capacity_heuristic: EXCLUDE_NONEVICTABLE
+added: dokan_fcb_garbage_collection_interval_ms: 2000
+added: photos_extensions: "jpg,jpeg,jpe,png,gif,heif,heic,tif,tiff,webp,bmp,dib,ico,jp2,j2c,jpf,j2k,jpx,dng,raw,arw,crw,cr2,cr3,dcr,dc2,erf,kc2,kdc,k25,mdc,mef,mos,mrw,nef,nrw,orf,pef,qtk,raf,rdc,rw2,srf,srw,sr2,x3f,3fr"
+added: videos_extensions: "3g2,3gp,asf,avi,divx,flv,m2t,m2ts,m4v,mkv,mmv,mng,mod,mov,mp4,mpe,mpg,mpeg,mts,ogv,qt,tod,webm,wmv"
+added: photos_api_uri: "https://photosdata-pa.googleapis.com/$rpc/social.frontend.photos.spork.v1.PhotosSporkDataService"
+added: max_photo_size_bytes: 209715200
+added: max_video_size_bytes: 10737418240
+added: max_photo_size_pixels: 150000000
+added: photos_upload_uri: "https://photos.googleapis.com/data/upload/uploadmedia/drivefs"
+added: default_photos_upload_quality: ORIGINAL_QUALITY
+added: max_photo_cacheable_size_bytes: 524288000
+added: max_photo_total_cache_size_bytes: 1073741824
+added: max_photo_cache_proportion_percentage: 20
+added: photos_can_cache_files: true
+added: photos_local_file_deleted_after_days: 30
+added: restart_immediately_counter: 0
+added: photos_max_upload_retries_offline: 3
+added: prefetched_id_cache_reset_counter: 2
+added: photos_debounce_edit_time_ms: 1800000
+added: empty_file_with_open_handle_upload_delay_ms: 600000
+added: photos_delete_warning_learn_more: ""
+added: photos_too_large_learn_more: ""
+added: photos_mac_known_package_extensions: ""
+added: photos_catalog_sync_time_interval_ms: 900000
+added: min_photo_size_pixels: 256
+added: enable_photo_min_size_filtering: true
+added: support_local_create_shared_drives: false
+added: subscription_task_throttle_time_ms: 300000
+added: subscription_task_max_operations: 50
+added: virtual_folders_omit_spaces: false
+added: emm_get_serial_via_wmi_on_windows: true
+added: switchblade_dss_poll_interval_ms: 1800000
+added: switchblade_dss_pin_limit: 10000
+added: max_bytes_per_fetch_content_request: 268435456
+added: max_read_qps: 30
+added: max_write_qps: 30
+added: fuse_max_background: 0
+added: is_dasher_user: false
+added: lookup_spam_detection_time_unit_ms: 1000
+added: lookup_spam_detection_min_number_of_events: 100
+added: lookup_spam_detection_duration_ms: 30000
+added: open_spam_detection_time_unit_ms: 1000
+added: open_spam_detection_min_number_of_events: 100
+added: open_spam_detection_duration_ms: 600000
+added: spam_cpu_observation_time_ms: 5000
+added: raw_photos_extensions: ""
+added: photos_sync_media_catalog_items_per_page: 500
+added: photos_throttled_initial_backoff_ms: 1000
+added: photos_throttled_backoff_limit_ms: 300000
+added: photos_throttled_backoff_multiplier: 2
+added: photos_throttled_max_retries: 20
+added: photos_max_simultaneous_uploads: 3
+added: photos_hq_charged_expectation: true
+added: photos_mac_known_apl_extensions: ""
+added: enable_cse: false
+added: disable_sending_resource_keys: false
+added: disable_security_update_enabled_cloud_change: true
+added: g1_host_name: "one.google.com"
+added: photos_error_list_retry_interval_ms: 86400000
+added: folder_revisions_virtual_folder: false
+added: folder_revisions_folder_days: 30
+added: photos_extensions_to_ignore: "crdownload"
+added: content_cache_initial_disk_scan_retry_limit: 10
+added: photos_free_storage_retry_trigger_bytes: 104857600
+added: emm_send_device_encryption_status: false
+added: emm_send_device_screen_lock_status: false
+added: dokan_disable_file_network_physical_name_info: true
+added: file_provider_cache_reset_counter: 0
+added: content_cache_entry_cache_implementation: ARC
+added: crashing_assertion_ids: ""
+added: enable_dynamic_list_changes_page_sizing: true
+added: dynamic_page_sizing_min_page_size: 1
+added: dynamic_page_sizing_min_capacity_reached_count: 5
+added: dynamic_page_sizing_increase_frequency_threshold_ms: 600000
+added: dynamic_page_sizing_decrease_frequency_threshold_ms: 300000
+added: min_operation_batch_size: 2
+added: enable_smb_spotlight_rpc: true
+added: send_mtime_updates_to_drive: false
+added: send_atime_updates_to_drive: false
+added: smb_spotlight_rpc_finder_only: false
+added: file_provider_auto_split_delta_size: 10
+added: file_provider_list_batch_size_multiplier: 10
+added: file_provider_update_batch_size_multiplier: 10
+added: smb_unmount_with_diskutil: false
+added: smb_retry_unmount_after_server_stop: true
+added: dokan_pull_event_ahead: true
+added: file_provider_disabled_notification: true
+added: fcm_max_start_retries: -1
+added: fcm_max_purge_retries: 5
+added: fcm_poll_on_fatal_error: false
+added: fcm_connect_retry_interval_ms: -1
+added: show_lost_and_found_at_start: true
+added: fcm_credentials_generation: 0
+added: test_bool: false
+added: test_int: 3
+added: test_double: 3.4
+added: test_string: "default test string value"
+added: file_provider_disabled_learn_more_url: "https://support.google.com/drive/answer/12178485"
+added: file_provider_migration_learn_more_url: "https://support.google.com/drive/answer/12178485"
+added: file_provider_evict_on_content_change: false
+added: smb_ignore_patterns: "\\.sb-[0-9a-zA-Z]+-[0-9a-zA-Z]+"
+added: file_provider_cache_reset_non_owned_counter: 0
+added: file_provider_activation_max_retry_backoff_duration_ms: 180000
+added: file_provider_retry_on_wait_for_domain_init_failure: true
+added: detailed_metric_for_subscription_request: false
+added: smb_spotlight_page_size: 25
+added: smb_spotlight_max_results: 0
+added: smb_spotlight_name_criteria_enabled: true
+added: smb_spotlight_content_criteria_enabled: true
+added: smb_spotlight_content_type_criteria_enabled: true
+added: new_drive_fs_download_url: "https://www.google.com/drive/download"
+added: file_provider_content_cache_reset_gdoc_counter: 1
+added: set_fcm_token_server_ttl: false
+added: ignore_download_modify_during_initial_content_upload_if_cloud_and_local_content_match: true
+added: ignore_item_in_delete_changelog: false
+added: file_provider_vfs_based_fetch: false
+added: file_provider_delete_directory_hierarchy_batch_size: 2000
+added: file_provider_missing_symlink_target_resolver_max_batch_size: 100
+added: file_provider_delete_hidden_items_in_temp_counter: 0
+added: file_provider_cleanup_empty_temp_descendants: false
+added: copying_to_lost_and_found_backoff_start_ms: 0
+added: copying_to_lost_and_found_backoff_limit_ms: 0
+added: copying_to_lost_and_found_backoff_multiplier: 0
+added: file_provider_admin_enabled_check: false
+added: file_provider_working_set_compact_check_debounce_sec: 60
+added: file_provider_working_set_wal_sql_reset_ratio_size: 2
+added: file_provider_create_ignore_pattern: ".*\\.crdownload"
+added: file_provider_use_content_policy: false
+added: file_provider_delegate_pinned_download: false
+added: file_provider_cache_reset_pinned_counter: 0
+added: file_provider_migration_batch_size: 100
+added: open_operation_sampling_rate: 100
+added: file_provider_on_reconnect_kill_fp_daemon: false
+added: file_provider_on_remove_domain_remove_fav_lost_and_found: true
+added: max_unmount_time_sec: 120
+added: file_provider_remove_unknown_mount_conflict_domains: true
+added: photos_enable_hash_integrity_check: true
+added: file_provider_delete_unknown_trashed_items_counter: 1
+added: file_provider_lazily_keep_suggestions_content_updated: true
+added: use_lost_and_found_manager: false
+added: file_provider_restart_on_domain_unexpectedly_removed: true
+added: file_provider_get_metadata_remove_no_longer_existing_items: true
+added: file_provider_working_set_wal_sql_max_size: 104857600
+added: max_shared_drives_to_sync: 25
+added: enable_cache_size_limit_account_preference: true
+added: have_defaulted_flags: false
+added: file_provider_delete_placeholder_reimport_counter: 1
+added: file_provider_get_metadata_retrieve_cloud_items_from_ws: false
+added: file_provider_materialized_folders_counter: 0
+added: vfs_support_json_web_files_fetch: false
+added: file_provider_fail_reimport_redirect_my_drive: false
+added: file_provider_fail_non_reimport_redirect_my_drive: false
+added: file_provider_delete_multi_parenting_counter: 1
+added: file_provider_vfs_based_change: false
+added: file_provider_check_change_replays_eligibility: true
+added: apply_moves_to_delete_tree: true
+added: generate_conflicting_deletes_before_parent_creates: false
+added: abort_and_restart_for_conflicting_deletes: true
+added: file_provider_cache_reset_shared_drives_counter: 0
+added: file_provider_fix_missing_change_replays: false
+added: signout_backup_behavior: SIGNOUT_DISABLE_PURGE
+added: file_provider_enable_replay_items_changes_batch: true
+added: file_provider_max_concurrent_replay_changes: 100
+added: file_provider_retry_transient_failed_change_replay: true
+added: use_contacts_from_people_api: false
+added: customize_pending_uploads: true
+added: prompt_signout_for_inconsistent_local_state: true
+added: prompt_signout_interval_hours: 24
+added: signout_backup_behavior_for_lost_and_found: true
+added: test_boolean_flag: false
+added: test_string_flag: "GCL default test string value"
+added: detect_other_sync_app_in_mirror_root: true
+added: mirror_windows_ensure_mtime_accuracy: false
+added: send_error_report_at_startup: false
+added: min_duration_hours_between_error_reports_sent_at_startup: 24
+added: enable_stale_upsync_notifications: true
+added: stale_upsync_threshold_hours: 168
+added: differential_uploads: true
+added: diff_uploads_min_size_bytes: 10485760
+added: diff_uploads_max_size_bytes: 0
+added: diff_uploads_min_chunk_size_bytes: 0
+added: diff_uploads_max_chunk_size_bytes: 0
+added: generate_uploads_for_local_items_in_inconsistent_state: true
+added: win_arm64_platform_deprecated: ARM64_SUPPORTED
+added: win_arm64_platform_deprecated_url: "https://support.google.com/drive?p=arm64-beta"
+added: enable_resumable_uploads: false
+added: diff_uploads_min_bytes_saved: 0
+added: forwarded_request_for_diffing_size_limit: 10240
+added: enable_aggressive_differ_logging: false
+added: file_provider_support_long_utf8_names: false
+added: file_provider_cache_resetter_max_retry_ms: 0
+added: file_provider_wait_for_cloud_create_completion: false
+added: cloud_store_retry_count: 1
+added: file_provider_recover_cello_non_longer_known_parents: false
+added: file_provider_remove_hierarchies_on_folder_deletion: false
+added: poll_for_changes_debounce_interval_ms: 0
+added: attach_external_content_local_property_to_items_being_synced: false
+added: file_provider_working_set_skip_equal_items_update: false
+added: max_parallel_uploads_count: 16
+added: enable_unsynced_shared_drives: false
+added: file_provider_enable_external_content_transfers: false
+added: file_provider_recover_cello_non_longer_known_folders_change: false
+added: file_provider_temp_folders_reset_counter: 0
+added: file_provider_link_mdcr_with_cache_reset: false
+added: query_by_id_failure_invalidate_cache_enabled: true
+added: local_store_vacuum_enabled: true
+added: accept_language_header_for_account_disabled: false
+added: file_provider_check_cello_db_inode: false
+added: punctual_gracefully_retries: true
+added: file_provider_pending_upload_read_retry_duration_ms: 300000
+added: static_reflection_equals: false
+added: file_provider_string_search_expiration_time_ms: 300000
+added: file_provider_prevent_get_metadata_symlink_group_corruption: false
+added: item_field_checker_enabled: false
+added: move_old_lost_and_found_folder_under_new: false
+added: uploads_enabled: false
+added: uploads_failover_disabled: false
+added: revision_get_dark_launch_enabled: true
+added: revision_get_full_launch_enabled: true
+added: trigger_unsynced_property_clear_on_startup: false
+added: use_dedicated_simple_transport: true
+added: mdcr_after_cello_init: true
+added: file_provider_deny_gdrive_extension_rename: false
+added: suggest_unsync_shared_drives: false
+added: remove_root_when_cloud_move_causes_local_nesting_conflict: false
+added: uploads_diffing_header_enabled: true
+added: shared_drive_stats_days_tracked: 3
+added: shared_drive_stats_z_score_threshold: 2.5
+added: generate_cse_dark_launch_enabled: false
+added: generate_cse_launch_enabled: false
+added: cancel_trashed_downloads_on_close_enabled: false
+added: cloud_untrash_triggers_redownload: false
+added: bypass_page_limit_on_reconnect: true
+added: check_shared_drive_accessibility_before_subscribing: true
+added: http308_means_retryable_error: true
+added: shared_drive_outlier_change_replay_count_threshold: 500
+added: enable_fetch_thumbnail_handler: true
+added: enable_unpin_on_trash: false
+added: stop_double_writing_user_id: false
+added: record_changelog_relevance: true
+added: enable_observation_node_filtering_for_disconnected_roots: false
+added: dokan_dispatch_monitor_warning_minidump_percentage: 1
+}
+2026-08-09T19:21:57.130ZI [3:drivefs] feature_config.cc:622:UpdateFeatureConfig Actual feature flags diff: {
+added: deprecated: false
+added: starred_virtual_folder: false
+added: recent_virtual_folder: false
+added: gcm_web_api_key: "AIzaSyDuIQNPdd-Sd_a5PvQzY_-63DCVK0n0jFc"
+added: changelog_polling_interval_ms: 10000
+added: metadata_cache_reset_counter: 8
+added: push_notifications: true
+added: spotlight: true
+added: max_operation_batch_size: 15
+added: resumable_upload_minimum_size_bytes: 104857600
+added: max_changelog_result_size: 1000
+added: lost_and_found: true
+added: fetch_task_throttle_time_ms: 0
+added: temporary_items_virtual_folder: true
+added: fetch_task_backoff_start_ms: 2000
+added: fetch_task_backoff_limit_ms: 600000
+added: fetch_task_backoff_multiplier: 2
+added: push_delay_ms: 0
+added: max_parallel_background_cloud_queries: 3
+added: max_query_page_size: 1000
+added: structured_log_level: 3
+added: max_indexer_parallel_cloud_queries: 1
+added: content_cache_max_kbytes: 1000000000
+added: min_local_free_space_for_writes: 512000
+added: initial_content_cache_scan_delay_msec: 120000
+added: fcm_token_ttl_secs: 604800
+added: crash_on_failed_thread_checker_assert: true
+added: allow_windows_system_user_access: false
+added: max_parallel_downloads_per_file: 5
+added: run_cloud_query_on_change_notification: false
+added: stale_fetch_threshold_msec: 2500
+added: two_level_folder_prefetch: false
+added: max_parallel_push_task_instances: 15
+added: emm_support: false
+added: emm_max_start_up_delay_ms: 3000
+added: emm_check_interval_ms: 10800000
+added: min_duration_msec_between_evictions: 10000
+added: min_parallel_second_level_cloud_queries: 1
+added: emm_uri: "https://gem-pa.googleapis.com/v1/"
+added: fetch_content_bytes_before_cancel_percent_multiplier: 500
+added: min_bytes_saved_to_split_request: 9223372036854775807
+added: opendir_timeout_ms: 0
+added: supply_json_gdoc_content: false
+added: content_cache_capacity_percentage: 20
+added: async_dokan_reply_thread_count: 20
+added: changelog_backup_poll_interval_ms: 11111000
+added: dokan_dispatch_monitor_check_ms: 10000
+added: dokan_dispatch_monitor_warn_ms: 60000
+added: sqlite_normal_transaction_sync: true
+added: sqlite_autocheckpoint_page_count: 1000
+added: finder_process_names: "DesktopServicesHelper"
+added: emm_secondary_identifier: false
+added: crash_on_cello_assert: false
+added: slow_operation_threshold_sec: 20
+added: shortcuts_permission_denied_retry_interval_ms: 3600000
+added: allow_subscription_task: true
+added: resubscribe_retry_interval_msec: 14400000
+added: content_cache_reset_evictable_files_counter: 0
+added: dokan_slow_operations_per_minidump: 0
+added: allowed_new_gdoc_file_name_pattern: ".*Google Docs.*\\.gdoc|.*Google Sheets.*\\.gsheet|.*Google Slides.*\\.gslides"
+added: reset_zeroes_largest_change_id: false
+added: reset_file_content_on_revert_flow: true
+added: finder_create_file_handler_timeout_ms: 600000
+added: content_cache_reset_pinned_counter: 0
+added: dokan_assume_paging_io_is_locked: false
+added: account_update_sec: 86400
+added: test_value_0: 0
+added: test_value_1: 0
+added: test_value_2: 1
+added: test_value_3: 0
+added: test_value_4: 0
+added: test_value_5: 0
+added: test_value_6: 0
+added: test_value_7: 0
+added: test_value_8: 0
+added: dokan_allow_optimistic_release: true
+added: max_parallel_resumable_uploads: 1
+added: fcm_stream_max_idle_secs: 60
+added: fcm_connection_max_idle_secs: 60
+added: dokan_driver_request_batching: true
+added: handle_unauthorized_resumable_uploads: true
+added: dokan_driver_full_batching: false
+added: backoff_start_ms: 200
+added: backoff_limit_ms: 120000
+added: backoff_multiplier: 2
+added: content_cache_capacity_heuristic: EXCLUDE_NONEVICTABLE
+added: dokan_fcb_garbage_collection_interval_ms: 2000
+added: photos_extensions: "jpg,jpeg,jpe,png,gif,heif,heic,tif,tiff,webp,bmp,dib,ico,jp2,j2c,jpf,j2k,jpx,dng,raw,arw,crw,cr2,cr3,dcr,dc2,erf,kc2,kdc,k25,mdc,mef,mos,mrw,nef,nrw,orf,pef,qtk,raf,rdc,rw2,srf,srw,sr2,x3f,3fr"
+added: videos_extensions: "3g2,3gp,asf,avi,divx,flv,m2t,m2ts,m4v,mkv,mmv,mng,mod,mov,mp4,mpe,mpg,mpeg,mts,ogv,qt,tod,webm,wmv"
+added: photos_api_uri: "https://photosdata-pa.googleapis.com/$rpc/social.frontend.photos.spork.v1.PhotosSporkDataService"
+added: max_photo_size_bytes: 209715200
+added: max_video_size_bytes: 10737418240
+added: max_photo_size_pixels: 150000000
+added: photos_upload_uri: "https://photos.googleapis.com/data/upload/uploadmedia/drivefs"
+added: default_photos_upload_quality: ORIGINAL_QUALITY
+added: max_photo_cacheable_size_bytes: 524288000
+added: max_photo_total_cache_size_bytes: 1073741824
+added: max_photo_cache_proportion_percentage: 20
+added: photos_can_cache_files: true
+added: photos_local_file_deleted_after_days: 30
+added: restart_immediately_counter: 0
+added: photos_max_upload_retries_offline: 3
+added: prefetched_id_cache_reset_counter: 2
+added: photos_debounce_edit_time_ms: 1800000
+added: empty_file_with_open_handle_upload_delay_ms: 600000
+added: photos_delete_warning_learn_more: ""
+added: photos_too_large_learn_more: ""
+added: photos_mac_known_package_extensions: ""
+added: photos_catalog_sync_time_interval_ms: 900000
+added: min_photo_size_pixels: 256
+added: enable_photo_min_size_filtering: true
+added: support_local_create_shared_drives: false
+added: subscription_task_throttle_time_ms: 300000
+added: subscription_task_max_operations: 50
+added: virtual_folders_omit_spaces: false
+added: emm_get_serial_via_wmi_on_windows: true
+added: switchblade_dss_poll_interval_ms: 1800000
+added: switchblade_dss_pin_limit: 10000
+added: max_bytes_per_fetch_content_request: 268435456
+added: max_read_qps: 30
+added: max_write_qps: 30
+added: fuse_max_background: 0
+added: is_dasher_user: false
+added: lookup_spam_detection_time_unit_ms: 1000
+added: lookup_spam_detection_min_number_of_events: 100
+added: lookup_spam_detection_duration_ms: 30000
+added: open_spam_detection_time_unit_ms: 1000
+added: open_spam_detection_min_number_of_events: 100
+added: open_spam_detection_duration_ms: 600000
+added: spam_cpu_observation_time_ms: 5000
+added: raw_photos_extensions: ""
+added: photos_sync_media_catalog_items_per_page: 500
+added: photos_throttled_initial_backoff_ms: 1000
+added: photos_throttled_backoff_limit_ms: 300000
+added: photos_throttled_backoff_multiplier: 2
+added: photos_throttled_max_retries: 20
+added: photos_max_simultaneous_uploads: 3
+added: photos_hq_charged_expectation: true
+added: photos_mac_known_apl_extensions: ""
+added: enable_cse: false
+added: disable_sending_resource_keys: false
+added: disable_security_update_enabled_cloud_change: true
+added: g1_host_name: "one.google.com"
+added: photos_error_list_retry_interval_ms: 86400000
+added: folder_revisions_virtual_folder: false
+added: folder_revisions_folder_days: 30
+added: photos_extensions_to_ignore: "crdownload"
+added: content_cache_initial_disk_scan_retry_limit: 10
+added: photos_free_storage_retry_trigger_bytes: 104857600
+added: emm_send_device_encryption_status: false
+added: emm_send_device_screen_lock_status: false
+added: dokan_disable_file_network_physical_name_info: true
+added: file_provider_cache_reset_counter: 0
+added: content_cache_entry_cache_implementation: ARC
+added: crashing_assertion_ids: ""
+added: enable_dynamic_list_changes_page_sizing: true
+added: dynamic_page_sizing_min_page_size: 1
+added: dynamic_page_sizing_min_capacity_reached_count: 5
+added: dynamic_page_sizing_increase_frequency_threshold_ms: 600000
+added: dynamic_page_sizing_decrease_frequency_threshold_ms: 300000
+added: min_operation_batch_size: 2
+added: enable_smb_spotlight_rpc: true
+added: send_mtime_updates_to_drive: false
+added: send_atime_updates_to_drive: false
+added: smb_spotlight_rpc_finder_only: false
+added: file_provider_auto_split_delta_size: 10
+added: file_provider_list_batch_size_multiplier: 10
+added: file_provider_update_batch_size_multiplier: 10
+added: smb_unmount_with_diskutil: false
+added: smb_retry_unmount_after_server_stop: true
+added: dokan_pull_event_ahead: true
+added: file_provider_disabled_notification: true
+added: fcm_max_start_retries: -1
+added: fcm_max_purge_retries: 5
+added: fcm_poll_on_fatal_error: false
+added: fcm_connect_retry_interval_ms: -1
+added: show_lost_and_found_at_start: true
+added: fcm_credentials_generation: 0
+added: test_bool: false
+added: test_int: 3
+added: test_double: 3.4
+added: test_string: "default test string value"
+added: file_provider_disabled_learn_more_url: "https://support.google.com/drive/answer/12178485"
+added: file_provider_migration_learn_more_url: "https://support.google.com/drive/answer/12178485"
+added: file_provider_evict_on_content_change: false
+added: smb_ignore_patterns: "\\.sb-[0-9a-zA-Z]+-[0-9a-zA-Z]+"
+added: file_provider_cache_reset_non_owned_counter: 0
+added: file_provider_activation_max_retry_backoff_duration_ms: 180000
+added: file_provider_retry_on_wait_for_domain_init_failure: true
+added: detailed_metric_for_subscription_request: false
+added: smb_spotlight_page_size: 25
+added: smb_spotlight_max_results: 0
+added: smb_spotlight_name_criteria_enabled: true
+added: smb_spotlight_content_criteria_enabled: true
+added: smb_spotlight_content_type_criteria_enabled: true
+added: new_drive_fs_download_url: "https://www.google.com/drive/download"
+added: file_provider_content_cache_reset_gdoc_counter: 1
+added: set_fcm_token_server_ttl: false
+added: ignore_download_modify_during_initial_content_upload_if_cloud_and_local_content_match: true
+added: ignore_item_in_delete_changelog: false
+added: file_provider_vfs_based_fetch: false
+added: file_provider_delete_directory_hierarchy_batch_size: 2000
+added: file_provider_missing_symlink_target_resolver_max_batch_size: 100
+added: file_provider_delete_hidden_items_in_temp_counter: 0
+added: file_provider_cleanup_empty_temp_descendants: false
+added: copying_to_lost_and_found_backoff_start_ms: 0
+added: copying_to_lost_and_found_backoff_limit_ms: 0
+added: copying_to_lost_and_found_backoff_multiplier: 0
+added: file_provider_admin_enabled_check: false
+added: file_provider_working_set_compact_check_debounce_sec: 60
+added: file_provider_working_set_wal_sql_reset_ratio_size: 2
+added: file_provider_create_ignore_pattern: ".*\\.crdownload"
+added: file_provider_use_content_policy: false
+added: file_provider_delegate_pinned_download: false
+added: file_provider_cache_reset_pinned_counter: 0
+added: file_provider_migration_batch_size: 100
+added: open_operation_sampling_rate: 100
+added: file_provider_on_reconnect_kill_fp_daemon: false
+added: file_provider_on_remove_domain_remove_fav_lost_and_found: true
+added: max_unmount_time_sec: 120
+added: file_provider_remove_unknown_mount_conflict_domains: true
+added: photos_enable_hash_integrity_check: true
+added: file_provider_delete_unknown_trashed_items_counter: 1
+added: file_provider_lazily_keep_suggestions_content_updated: true
+added: use_lost_and_found_manager: false
+added: file_provider_restart_on_domain_unexpectedly_removed: true
+added: file_provider_get_metadata_remove_no_longer_existing_items: true
+added: file_provider_working_set_wal_sql_max_size: 104857600
+added: max_shared_drives_to_sync: 25
+added: enable_cache_size_limit_account_preference: true
+added: have_defaulted_flags: false
+added: file_provider_delete_placeholder_reimport_counter: 1
+added: file_provider_get_metadata_retrieve_cloud_items_from_ws: false
+added: file_provider_materialized_folders_counter: 0
+added: vfs_support_json_web_files_fetch: false
+added: file_provider_fail_reimport_redirect_my_drive: false
+added: file_provider_fail_non_reimport_redirect_my_drive: false
+added: file_provider_delete_multi_parenting_counter: 1
+added: file_provider_vfs_based_change: false
+added: file_provider_check_change_replays_eligibility: true
+added: apply_moves_to_delete_tree: true
+added: generate_conflicting_deletes_before_parent_creates: false
+added: abort_and_restart_for_conflicting_deletes: true
+added: file_provider_cache_reset_shared_drives_counter: 0
+added: file_provider_fix_missing_change_replays: false
+added: signout_backup_behavior: SIGNOUT_DISABLE_PURGE
+added: file_provider_enable_replay_items_changes_batch: true
+added: file_provider_max_concurrent_replay_changes: 100
+added: file_provider_retry_transient_failed_change_replay: true
+added: use_contacts_from_people_api: false
+added: customize_pending_uploads: true
+added: prompt_signout_for_inconsistent_local_state: true
+added: prompt_signout_interval_hours: 24
+added: signout_backup_behavior_for_lost_and_found: true
+added: test_boolean_flag: false
+added: test_string_flag: "GCL default test string value"
+added: detect_other_sync_app_in_mirror_root: true
+added: mirror_windows_ensure_mtime_accuracy: false
+added: send_error_report_at_startup: false
+added: min_duration_hours_between_error_reports_sent_at_startup: 24
+added: enable_stale_upsync_notifications: true
+added: stale_upsync_threshold_hours: 168
+added: differential_uploads: true
+added: diff_uploads_min_size_bytes: 10485760
+added: diff_uploads_max_size_bytes: 0
+added: diff_uploads_min_chunk_size_bytes: 0
+added: diff_uploads_max_chunk_size_bytes: 0
+added: generate_uploads_for_local_items_in_inconsistent_state: true
+added: win_arm64_platform_deprecated: ARM64_SUPPORTED
+added: win_arm64_platform_deprecated_url: "https://support.google.com/drive?p=arm64-beta"
+added: enable_resumable_uploads: false
+added: diff_uploads_min_bytes_saved: 0
+added: forwarded_request_for_diffing_size_limit: 10240
+added: enable_aggressive_differ_logging: false
+added: file_provider_support_long_utf8_names: false
+added: file_provider_cache_resetter_max_retry_ms: 0
+added: file_provider_wait_for_cloud_create_completion: false
+added: cloud_store_retry_count: 1
+added: file_provider_recover_cello_non_longer_known_parents: false
+added: file_provider_remove_hierarchies_on_folder_deletion: false
+added: poll_for_changes_debounce_interval_ms: 0
+added: attach_external_content_local_property_to_items_being_synced: false
+added: file_provider_working_set_skip_equal_items_update: false
+added: max_parallel_uploads_count: 16
+added: enable_unsynced_shared_drives: false
+added: file_provider_enable_external_content_transfers: false
+added: file_provider_recover_cello_non_longer_known_folders_change: false
+added: file_provider_temp_folders_reset_counter: 0
+added: file_provider_link_mdcr_with_cache_reset: false
+added: query_by_id_failure_invalidate_cache_enabled: true
+added: local_store_vacuum_enabled: true
+added: accept_language_header_for_account_disabled: false
+added: file_provider_check_cello_db_inode: false
+added: punctual_gracefully_retries: true
+added: file_provider_pending_upload_read_retry_duration_ms: 300000
+added: static_reflection_equals: false
+added: file_provider_string_search_expiration_time_ms: 300000
+added: file_provider_prevent_get_metadata_symlink_group_corruption: false
+added: item_field_checker_enabled: false
+added: move_old_lost_and_found_folder_under_new: false
+added: uploads_enabled: false
+added: uploads_failover_disabled: false
+added: revision_get_dark_launch_enabled: true
+added: revision_get_full_launch_enabled: true
+added: trigger_unsynced_property_clear_on_startup: false
+added: use_dedicated_simple_transport: true
+added: mdcr_after_cello_init: true
+added: file_provider_deny_gdrive_extension_rename: false
+added: suggest_unsync_shared_drives: false
+added: remove_root_when_cloud_move_causes_local_nesting_conflict: false
+added: uploads_diffing_header_enabled: true
+added: shared_drive_stats_days_tracked: 3
+added: shared_drive_stats_z_score_threshold: 2.5
+added: generate_cse_dark_launch_enabled: false
+added: generate_cse_launch_enabled: false
+added: cancel_trashed_downloads_on_close_enabled: false
+added: cloud_untrash_triggers_redownload: false
+added: bypass_page_limit_on_reconnect: true
+added: check_shared_drive_accessibility_before_subscribing: true
+added: http308_means_retryable_error: true
+added: shared_drive_outlier_change_replay_count_threshold: 500
+added: enable_fetch_thumbnail_handler: true
+added: enable_unpin_on_trash: false
+added: stop_double_writing_user_id: false
+added: record_changelog_relevance: true
+added: enable_observation_node_filtering_for_disconnected_roots: false
+added: dokan_dispatch_monitor_warning_minidump_percentage: 1
+}
+2026-08-09T19:21:57.130ZE [3:drivefs] feature_config.cc:215:CheckCoreFeatureConfigFileAccess Stat core feature config file failed: NOT_FOUND: open failed during StatFile, path: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/core_feature_config: No such file or directory [type.googleapis.com/drive.ds.Status='UNAVAILABLE_RESOURCE']
+=== Source Location Trace: === 
+apps/drive/cello/util/file_system.cc:1190
+
+2026-08-09T19:21:57.130ZE [3:drivefs] feature_config.cc:668:UpdateFeatureConfig Core feature config file returns bad stat: NOT_FOUND: open failed during StatFile, path: /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/core_feature_config: No such file or directory [type.googleapis.com/drive.ds.feature.config.status='/home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/core_feature_config'] [type.googleapis.com/drive.ds.Status='UNAVAILABLE_RESOURCE']
+=== Source Location Trace: === 
+apps/drive/cello/util/file_system.cc:1190
+
+2026-08-09T19:21:57.131ZI [3:drivefs] global_features_manager.cc:369:SetGlobalFeatures Set global features for account chromeos_drivefs_user_id
+2026-08-09T19:21:57.131ZI [3:drivefs] global_features_manager.cc:411:CompositeAll Compositing global features based on 1 accounts
+2026-08-09T19:21:57.133ZI [3:drivefs] global_features_manager.cc:427:CompositeAll Composited global features *WITHOUT* overrides: drive_dot: true
+share_dialog: true
+browser_auth_wait_for_client_timeout_ms: 300000
+pause_syncing_option: true
+bandwidth_throttling: true
+structured_logging: true
+disable_unified_buffer_cache: false
+context_menu_force_refresh_folder: false
+status_window_click_show_file_in_file_manager: true
+max_core_restarts_after_db_corruption: 10
+thread_stuck_threshold_sec: 0
+outlook_addin: false
+gui_autostart_option: true
+show_live_stream_frame_in_outlook_onboarding: false
+max_connection_idle_time_msec: 600000
+mojave_overlays_fix: false
+gui_reset_preferences_menu_option: true
+force_refresh_folder_normal_menu: false
+structured_log_max_file_size_kbytes: 5120
+structured_log_max_file_count: 30
+ask_to_copy_files_for_pending_uploads: true
+read_only_mode: false
+inform_users_of_pending_uploads: true
+same_content_dedupe_interval_ms: 600000
+dedupe_interval_ms: 2000
+support_status_notification: true
+deprecation_date: "2027-05-26"
+deprecation_warning_threshold: 30
+min_supported_os_version: "0.0.0"
+crash_oom_threshold_mb: 1048576
+allow_search: true
+finish_syncing_files_option: true
+add_shortcut_menu: true
+meet_outlook_addin: false
+meet_uri: "https://meetings.clients6.google.com/v1/spaces"
+spotlight_timestamp_fsctl_support: true
+meet_live_stream_info_uri: ""
+current_drive_fs_version: "126.0.5.0"
+crash_throttle_percentage: 0
+file_revisions_virtual_folder: false
+unlocked_mac_getxattr_v2: false
+unlocked_mac_buf_unmap: true
+switchblade_dss: true
+reconnected_nas_polling_interval_seconds: 60
+use_mac_fileprovider: false
+trim_parents_during_cloud_merge: true
+trim_parents_during_commit: true
+create_gsuite_file: true
+file_provider_quick_access_polling_interval_sec: 43200
+show_quick_access_in_search_dialog: true
+multi_account_max_accounts: 4
+include_user_email_in_feedback: true
+slurp_poll_path_frequency_min: 240
+mac_smb_port: -1
+fileprovider_signal_debounce_ms: 250
+current_os_version: "5.15.195-24657-g05bc40169736 #1 SMP PREEMPT Sun, 19 Jul 2026 20:27:25 -0700"
+cancel_com_calls: true
+enable_file_provider_migration: true
+file_provider_quit_grace_period_ms: 0
+file_provider_add_items_to_ws_on_listing: true
+smb_allowed: true
+logging_on_cello_thread_startup: false
+mac_smb_dialect_mode: 0
+local_file_reading_buffer_size: 8388608
+force_file_provider_materialization: true
+dokan_set_internal_file_index: true
+context_menu_create_editor_files: true
+file_provider_remove_domain_flush_timeout_ms: 300000
+file_revisions_file_provider: true
+max_file_provider_ipc_connections: 100
+mac_smb_nobrowse: true
+special_folder_change_notification: true
+soon_to_be_min_supported_os_version: "0.0.0"
+soon_to_be_unsupported_os_learn_more: "https://support.google.com/drive/answer/2375082"
+instrument_http_client: true
+show_offline_files_menu_option: true
+enable_mirror_roots_context: true
+use_cros_http_client: false
+com_api_thread_stuck_threshold_sec: 0
+num_metrics_batches_per_request: 70
+seconds_per_metrics_batch: 20
+enable_metrics: true
+metrics_store_reset_counter: 1
+max_metrics_per_event_code_per_batch: 200
+encrypt_and_upload: false
+mac_smb_mount_by_ip: true
+enable_mount_in_sidebar_setting: true
+allow_multiple_smb_connections: false
+persistent_smb_port_auto_selection: true
+file_provider_disabled_notification_interval_mins: 0
+enable_search_hot_key: true
+exception_enabled_apps: ".*"
+file_provider_mirror_switch_unpinned_item_batch_size: 2000
+file_provider_enable_ipc_root_symlink: true
+file_provider_pause_syncing_option: true
+file_provider_create_existing_file_id_succeeds: false
+file_provider_notify_mount_point_changed: true
+file_provider_notify_mount_point_changed_with_mirror: false
+file_provider_disable_moveout_user_interaction: false
+file_provider_show_migration_notification_based_on_volume: true
+confirm_quit_during_system_logout: false
+file_provider_handle_exact_existing_create_as_reimport: true
+file_provider_min_partial_read_size: 4294967296
+file_provider_enable_read_ahead: false
+file_provider_disable_movein_user_interaction: false
+switchblade_on_websockets: true
+mac_smb_nodatacache: true
+context_menu_show_create_new_shared_drive_dialog: true
+file_provider_retry_network_interrupted_fetch: true
+file_provider_resume_network_interrupted_push: true
+disable_non_static_file_provider_event_metrics: false
+nondownloadable_files_as_gdrive_files: true
+file_provider_exclude_from_sync_direct_create_trash: false
+file_provider_enable_deny_copy_activation_rule: true
+file_provider_enable_deny_shared_drive_root_manipulation: true
+encrypt_and_upload_folder: true
+max_status_source_locations_count_per_metric_event: 3
+anonymous_feedback_submit_url: "https://feedback-pa.googleapis.com/v1/feedback/products/1633926/web:anonymous_submit"
+anonymous_feedback_submit_api_key: "AIzaSyCejQEszExWuVHsgk8YElDTlbbrhzeRISc"
+directory_log_max_byte_size: 524288000
+nondownloadable_files_as_gdrive_files_migration: true
+survey_configurations: ""
+min_duration_hours_between_any_surveys: 24
+min_duration_hours_between_same_surveys: 720
+min_duration_seconds_wait_after_close_for_survey: 30
+survey_url: "https://www.gstatic.com/drive-fs/survey.html"
+survey_api_key: "AIzaSyAWGrfCCr7albM3lmCc937gx4uIphbpeKQ"
+survey_listnr_product_id: "1633926"
+use_moonshine: true
+windows_32_bit_unsupported_now: true
+windows_32_bit_unsupported_soon: true
+upload_folder: false
+file_provider_max_retry_backoff_per_api_call_ms: 30000
+photos_check_apl_icloud_import: true
+throttling_algorithm: TOKEN_BUCKET_THROTTLING
+browser_auth_with_signup_wait_for_client_timeout_ms: 1200000
+create_encrypted_editor_file: true
+enable_internal_cello_metrics: true
+max_feedback_payload_size: 209715200
+always_send_feedback_unauthenticated: true
+max_thumbnail_dimension: 768
+enable_external_file_provider_volume: false
+file_provider_posix_symlink_path_max_size: 1024
+photos_feature_unsupported_soon: true
+photos_feature_unsupported: false
+enable_automatic_error_reporting: false
+min_duration_seconds_wait_after_cores_startup_for_survey: 30
+reset_content_cache_location: false
+automatic_error_reporting_trigger_assert_ids: ""
+min_duration_hours_between_automatic_error_reports: 720
+casita_milestone: MILESTONE_UNSPECIFIED
+collect_ms_office_meet_integration_metrics: false
+restart_on_browser_request: true
+casita_startup_prompt_for_opt_in: 0
+casita_force_enable: false
+compress_regular_log_files: false
+purge_roots_for_disabled_accounts: true
+structured_log_zip_logs: true
+casita_add_more_folders_to_sync_url: "https://support.google.com/drive/?p=errorlist"
+casita_faq_url: "https://support.google.com/drive?p=d4d_redesign_beta"
+cse_guest_access_enabled: true
+photos_deprecation_date: "2026-08-10"
+photos_deprecation_soft_date: "2026-06-15"
+file_provider_detect_remaining_domain_with_api_timeout_ms: 10000
+read_only_corrupted_accounts: false
+max_syncing_status_change_events_casita: 50
+max_item_events_buffer_size_casita: 50
+hide_inaccessible_inheritance_break_folders: true
+file_provider_recover_preserved_domains: false
+enable_mac_os_context_menu: true
+enable_windows_tray_icon_context_menu: true
+read_only_ransomware: false
+manage_file_revisions_in_web: false
+enable_casita_shared_drives_ui: false
+win_dpi_aware_per_monitor: false
+enable_casita_sign_out_flow: false
+casita_hide_disconnect_for_loading_account: false
+casita_rename_sign_out_button_to_disconnect_account: false
+wipe_saves_pending_uploads: false
+webview2_requirement_notification: WEBVIEW2_NOT_REQUIRED
+webview2_requirement_url: "https://support.google.com/drive?p=d4d_webview2_rollout"
+enable_ransomware_dialog: true
+file_provider_support_string_search: false
+decore_automatic_rollback: true
+use_correct_size_option_for_put: true
+curl_allows_user_provided_content_length: false
+decore_separate_user_settings: true
+account_manager_owns_credential: false
+use_quit_when_idle_shutdown_behavior: false
+account_manager_owns_authenticated_metrics: false
+show_reveal_in_file_manager_option: false
+decore_dark_launch_global_fetcher: true
+decore_authoritative_global_fetcher: false
+phenotype_sync_timeout_ms: 500
+record_account_metrics_globally: false
+file_provider_cse_target_id_scheme: false
+use_win32_fibers: false
+show_gemini_web_buttons: false
+
+2026-08-09T19:21:57.134ZI [3:drivefs] global_features_manager.cc:513:HasCompositedGlobalConfigsChanged Effective global feature flags diff: {
+added: drive_dot: true
+added: share_dialog: true
+added: browser_auth_wait_for_client_timeout_ms: 300000
+added: pause_syncing_option: true
+added: bandwidth_throttling: true
+added: structured_logging: true
+added: disable_unified_buffer_cache: false
+added: context_menu_force_refresh_folder: false
+added: status_window_click_show_file_in_file_manager: true
+added: max_core_restarts_after_db_corruption: 10
+added: thread_stuck_threshold_sec: 0
+added: outlook_addin: false
+added: gui_autostart_option: true
+added: show_live_stream_frame_in_outlook_onboarding: false
+added: max_connection_idle_time_msec: 600000
+added: mojave_overlays_fix: false
+added: gui_reset_preferences_menu_option: true
+added: force_refresh_folder_normal_menu: false
+added: structured_log_max_file_size_kbytes: 5120
+added: structured_log_max_file_count: 30
+added: ask_to_copy_files_for_pending_uploads: true
+added: read_only_mode: false
+added: inform_users_of_pending_uploads: true
+added: same_content_dedupe_interval_ms: 600000
+added: dedupe_interval_ms: 2000
+added: support_status_notification: true
+added: deprecation_date: "2027-05-26"
+added: deprecation_warning_threshold: 30
+added: min_supported_os_version: "0.0.0"
+added: crash_oom_threshold_mb: 1048576
+added: allow_search: true
+added: finish_syncing_files_option: true
+added: add_shortcut_menu: true
+added: meet_outlook_addin: false
+added: meet_uri: "https://meetings.clients6.google.com/v1/spaces"
+added: spotlight_timestamp_fsctl_support: true
+added: meet_live_stream_info_uri: ""
+added: crash_throttle_percentage: 0
+added: file_revisions_virtual_folder: false
+added: unlocked_mac_getxattr_v2: false
+added: unlocked_mac_buf_unmap: true
+added: switchblade_dss: true
+added: reconnected_nas_polling_interval_seconds: 60
+added: use_mac_fileprovider: false
+added: trim_parents_during_cloud_merge: true
+added: trim_parents_during_commit: true
+added: create_gsuite_file: true
+added: file_provider_quick_access_polling_interval_sec: 43200
+added: show_quick_access_in_search_dialog: true
+added: multi_account_max_accounts: 4
+added: include_user_email_in_feedback: true
+added: slurp_poll_path_frequency_min: 240
+added: mac_smb_port: -1
+added: fileprovider_signal_debounce_ms: 250
+added: cancel_com_calls: true
+added: enable_file_provider_migration: true
+added: file_provider_quit_grace_period_ms: 0
+added: file_provider_add_items_to_ws_on_listing: true
+added: smb_allowed: true
+added: logging_on_cello_thread_startup: false
+added: mac_smb_dialect_mode: 0
+added: local_file_reading_buffer_size: 8388608
+added: force_file_provider_materialization: true
+added: dokan_set_internal_file_index: true
+added: context_menu_create_editor_files: true
+added: file_provider_remove_domain_flush_timeout_ms: 300000
+added: file_revisions_file_provider: true
+added: max_file_provider_ipc_connections: 100
+added: mac_smb_nobrowse: true
+added: special_folder_change_notification: true
+added: soon_to_be_min_supported_os_version: "0.0.0"
+added: soon_to_be_unsupported_os_learn_more: "https://support.google.com/drive/answer/2375082"
+added: instrument_http_client: true
+added: show_offline_files_menu_option: true
+added: enable_mirror_roots_context: true
+added: use_cros_http_client: false
+added: com_api_thread_stuck_threshold_sec: 0
+added: num_metrics_batches_per_request: 70
+added: seconds_per_metrics_batch: 20
+added: enable_metrics: true
+added: metrics_store_reset_counter: 1
+added: max_metrics_per_event_code_per_batch: 200
+added: encrypt_and_upload: false
+added: mac_smb_mount_by_ip: true
+added: enable_mount_in_sidebar_setting: true
+added: allow_multiple_smb_connections: false
+added: persistent_smb_port_auto_selection: true
+added: file_provider_disabled_notification_interval_mins: 0
+added: enable_search_hot_key: true
+added: exception_enabled_apps: ".*"
+added: file_provider_mirror_switch_unpinned_item_batch_size: 2000
+added: file_provider_enable_ipc_root_symlink: true
+added: file_provider_pause_syncing_option: true
+added: file_provider_create_existing_file_id_succeeds: false
+added: file_provider_notify_mount_point_changed: true
+added: file_provider_notify_mount_point_changed_with_mirror: false
+added: file_provider_disable_moveout_user_interaction: false
+added: file_provider_show_migration_notification_based_on_volume: true
+added: confirm_quit_during_system_logout: false
+added: file_provider_handle_exact_existing_create_as_reimport: true
+added: file_provider_min_partial_read_size: 4294967296
+added: file_provider_enable_read_ahead: false
+added: file_provider_disable_movein_user_interaction: false
+added: switchblade_on_websockets: true
+added: mac_smb_nodatacache: true
+added: context_menu_show_create_new_shared_drive_dialog: true
+added: file_provider_retry_network_interrupted_fetch: true
+added: file_provider_resume_network_interrupted_push: true
+added: disable_non_static_file_provider_event_metrics: false
+added: nondownloadable_files_as_gdrive_files: true
+added: file_provider_exclude_from_sync_direct_create_trash: false
+added: file_provider_enable_deny_copy_activation_rule: true
+added: file_provider_enable_deny_shared_drive_root_manipulation: true
+added: encrypt_and_upload_folder: true
+added: max_status_source_locations_count_per_metric_event: 3
+added: anonymous_feedback_submit_url: "https://feedback-pa.googleapis.com/v1/feedback/products/1633926/web:anonymous_submit"
+added: anonymous_feedback_submit_api_key: "AIzaSyCejQEszExWuVHsgk8YElDTlbbrhzeRISc"
+added: directory_log_max_byte_size: 524288000
+added: nondownloadable_files_as_gdrive_files_migration: true
+added: survey_configurations: ""
+added: min_duration_hours_between_any_surveys: 24
+added: min_duration_hours_between_same_surveys: 720
+added: min_duration_seconds_wait_after_close_for_survey: 30
+added: survey_url: "https://www.gstatic.com/drive-fs/survey.html"
+added: survey_api_key: "AIzaSyAWGrfCCr7albM3lmCc937gx4uIphbpeKQ"
+added: survey_listnr_product_id: "1633926"
+added: use_moonshine: true
+added: windows_32_bit_unsupported_now: true
+added: windows_32_bit_unsupported_soon: true
+added: upload_folder: false
+added: file_provider_max_retry_backoff_per_api_call_ms: 30000
+added: photos_check_apl_icloud_import: true
+added: throttling_algorithm: TOKEN_BUCKET_THROTTLING
+added: browser_auth_with_signup_wait_for_client_timeout_ms: 1200000
+added: create_encrypted_editor_file: true
+added: enable_internal_cello_metrics: true
+added: max_feedback_payload_size: 209715200
+added: always_send_feedback_unauthenticated: true
+added: max_thumbnail_dimension: 768
+added: enable_external_file_provider_volume: false
+added: file_provider_posix_symlink_path_max_size: 1024
+added: photos_feature_unsupported_soon: true
+added: photos_feature_unsupported: false
+added: enable_automatic_error_reporting: false
+added: min_duration_seconds_wait_after_cores_startup_for_survey: 30
+added: reset_content_cache_location: false
+added: automatic_error_reporting_trigger_assert_ids: ""
+added: min_duration_hours_between_automatic_error_reports: 720
+added: casita_milestone: MILESTONE_UNSPECIFIED
+added: collect_ms_office_meet_integration_metrics: false
+added: restart_on_browser_request: true
+added: casita_startup_prompt_for_opt_in: 0
+added: casita_force_enable: false
+added: compress_regular_log_files: false
+added: purge_roots_for_disabled_accounts: true
+added: structured_log_zip_logs: true
+added: casita_add_more_folders_to_sync_url: "https://support.google.com/drive/?p=errorlist"
+added: casita_faq_url: "https://support.google.com/drive?p=d4d_redesign_beta"
+added: cse_guest_access_enabled: true
+added: photos_deprecation_date: "2026-08-10"
+added: photos_deprecation_soft_date: "2026-06-15"
+added: file_provider_detect_remaining_domain_with_api_timeout_ms: 10000
+added: read_only_corrupted_accounts: false
+added: max_syncing_status_change_events_casita: 50
+added: max_item_events_buffer_size_casita: 50
+added: hide_inaccessible_inheritance_break_folders: true
+added: file_provider_recover_preserved_domains: false
+added: enable_mac_os_context_menu: true
+added: enable_windows_tray_icon_context_menu: true
+added: read_only_ransomware: false
+added: manage_file_revisions_in_web: false
+added: enable_casita_shared_drives_ui: false
+added: win_dpi_aware_per_monitor: false
+added: enable_casita_sign_out_flow: false
+added: casita_hide_disconnect_for_loading_account: false
+added: casita_rename_sign_out_button_to_disconnect_account: false
+added: wipe_saves_pending_uploads: false
+added: webview2_requirement_notification: WEBVIEW2_NOT_REQUIRED
+added: webview2_requirement_url: "https://support.google.com/drive?p=d4d_webview2_rollout"
+added: enable_ransomware_dialog: true
+added: file_provider_support_string_search: false
+added: decore_automatic_rollback: true
+added: use_correct_size_option_for_put: true
+added: curl_allows_user_provided_content_length: false
+added: decore_separate_user_settings: true
+added: account_manager_owns_credential: false
+added: use_quit_when_idle_shutdown_behavior: false
+added: account_manager_owns_authenticated_metrics: false
+added: show_reveal_in_file_manager_option: false
+added: decore_dark_launch_global_fetcher: true
+added: decore_authoritative_global_fetcher: false
+added: phenotype_sync_timeout_ms: 500
+added: record_account_metrics_globally: false
+added: file_provider_cse_target_id_scheme: false
+added: use_win32_fibers: false
+added: show_gemini_web_buttons: false
+}
+2026-08-09T19:21:57.135ZI [3:drivefs] chromeos_core_client.cc:883:SetGlobalFeatures Restart due to global feature config change.
+2026-08-09T19:21:57.135ZI [3:drivefs] chromeos_core_client_delegate_impl.cc:470:RequestSafeRestart Safe restart requested: RESTART_APP_NOW
+2026-08-09T19:21:57.135ZI [3:drivefs] drivefs_controller.cc:429:ScheduleRestart DriveFs scheduled restart.
+2026-08-09T19:21:57.139ZI [3:drivefs] core.cc:1143:ApplyFeatureConfigChange Effective features or admin settings changed: restart required.
+New features and settings (not including overrides): {
+global {
+  drive_dot: true
+  share_dialog: true
+  browser_auth_wait_for_client_timeout_ms: 300000
+  pause_syncing_option: true
+  bandwidth_throttling: true
+  structured_logging: true
+  disable_unified_buffer_cache: false
+  context_menu_force_refresh_folder: false
+  status_window_click_show_file_in_file_manager: true
+  max_core_restarts_after_db_corruption: 10
+  thread_stuck_threshold_sec: 0
+  outlook_addin: false
+  gui_autostart_option: true
+  show_live_stream_frame_in_outlook_onboarding: false
+  max_connection_idle_time_msec: 600000
+  mojave_overlays_fix: false
+  gui_reset_preferences_menu_option: true
+  force_refresh_folder_normal_menu: false
+  structured_log_max_file_size_kbytes: 5120
+  structured_log_max_file_count: 30
+  ask_to_copy_files_for_pending_uploads: true
+  read_only_mode: false
+  inform_users_of_pending_uploads: true
+  same_content_dedupe_interval_ms: 600000
+  dedupe_interval_ms: 2000
+  support_status_notification: true
+  deprecation_date: "2027-05-26"
+  deprecation_warning_threshold: 30
+  min_supported_os_version: "0.0.0"
+  crash_oom_threshold_mb: 1048576
+  allow_search: true
+  finish_syncing_files_option: true
+  add_shortcut_menu: true
+  meet_outlook_addin: false
+  meet_uri: "https://meetings.clients6.google.com/v1/spaces"
+  spotlight_timestamp_fsctl_support: true
+  meet_live_stream_info_uri: ""
+  current_drive_fs_version: "126.0.5.0"
+  crash_throttle_percentage: 0
+  file_revisions_virtual_folder: false
+  unlocked_mac_getxattr_v2: false
+  unlocked_mac_buf_unmap: true
+  switchblade_dss: true
+  reconnected_nas_polling_interval_seconds: 60
+  use_mac_fileprovider: false
+  trim_parents_during_cloud_merge: true
+  trim_parents_during_commit: true
+  create_gsuite_file: true
+  file_provider_quick_access_polling_interval_sec: 43200
+  show_quick_access_in_search_dialog: true
+  multi_account_max_accounts: 4
+  include_user_email_in_feedback: true
+  slurp_poll_path_frequency_min: 240
+  mac_smb_port: -1
+  fileprovider_signal_debounce_ms: 250
+  current_os_version: "5.15.195-24657-g05bc40169736 #1 SMP PREEMPT Sun, 19 Jul 2026 20:27:25 -0700"
+  cancel_com_calls: true
+  enable_file_provider_migration: true
+  file_provider_quit_grace_period_ms: 0
+  file_provider_add_items_to_ws_on_listing: true
+  smb_allowed: true
+  logging_on_cello_thread_startup: false
+  mac_smb_dialect_mode: 0
+  local_file_reading_buffer_size: 8388608
+  force_file_provider_materialization: true
+  dokan_set_internal_file_index: true
+  context_menu_create_editor_files: true
+  file_provider_remove_domain_flush_timeout_ms: 300000
+  file_revisions_file_provider: true
+  max_file_provider_ipc_connections: 100
+  mac_smb_nobrowse: true
+  special_folder_change_notification: true
+  soon_to_be_min_supported_os_version: "0.0.0"
+  soon_to_be_unsupported_os_learn_more: "https://support.google.com/drive/answer/2375082"
+  instrument_http_client: true
+  show_offline_files_menu_option: true
+  enable_mirror_roots_context: true
+  use_cros_http_client: false
+  com_api_thread_stuck_threshold_sec: 0
+  num_metrics_batches_per_request: 70
+  seconds_per_metrics_batch: 20
+  enable_metrics: true
+  metrics_store_reset_counter: 1
+  max_metrics_per_event_code_per_batch: 200
+  encrypt_and_upload: false
+  mac_smb_mount_by_ip: true
+  enable_mount_in_sidebar_setting: true
+  allow_multiple_smb_connections: false
+  persistent_smb_port_auto_selection: true
+  file_provider_disabled_notification_interval_mins: 0
+  enable_search_hot_key: true
+  exception_enabled_apps: ".*"
+  file_provider_mirror_switch_unpinned_item_batch_size: 2000
+  file_provider_enable_ipc_root_symlink: true
+  file_provider_pause_syncing_option: true
+  file_provider_create_existing_file_id_succeeds: false
+  file_provider_notify_mount_point_changed: true
+  file_provider_notify_mount_point_changed_with_mirror: false
+  file_provider_disable_moveout_user_interaction: false
+  file_provider_show_migration_notification_based_on_volume: true
+  confirm_quit_during_system_logout: false
+  file_provider_handle_exact_existing_create_as_reimport: true
+  file_provider_min_partial_read_size: 4294967296
+  file_provider_enable_read_ahead: false
+  file_provider_disable_movein_user_interaction: false
+  switchblade_on_websockets: true
+  mac_smb_nodatacache: true
+  context_menu_show_create_new_shared_drive_dialog: true
+  file_provider_retry_network_interrupted_fetch: true
+  file_provider_resume_network_interrupted_push: true
+  disable_non_static_file_provider_event_metrics: false
+  nondownloadable_files_as_gdrive_files: true
+  file_provider_exclude_from_sync_direct_create_trash: false
+  file_provider_enable_deny_copy_activation_rule: true
+  file_provider_enable_deny_shared_drive_root_manipulation: true
+  encrypt_and_upload_folder: true
+  max_status_source_locations_count_per_metric_event: 3
+  anonymous_feedback_submit_url: "https://feedback-pa.googleapis.com/v1/feedback/products/1633926/web:anonymous_submit"
+  anonymous_feedback_submit_api_key: "AIzaSyCejQEszExWuVHsgk8YElDTlbbrhzeRISc"
+  directory_log_max_byte_size: 524288000
+  nondownloadable_files_as_gdrive_files_migration: true
+  survey_configurations: ""
+  min_duration_hours_between_any_surveys: 24
+  min_duration_hours_between_same_surveys: 720
+  min_duration_seconds_wait_after_close_for_survey: 30
+  survey_url: "https://www.gstatic.com/drive-fs/survey.html"
+  survey_api_key: "AIzaSyAWGrfCCr7albM3lmCc937gx4uIphbpeKQ"
+  survey_listnr_product_id: "1633926"
+  use_moonshine: true
+  windows_32_bit_unsupported_now: true
+  windows_32_bit_unsupported_soon: true
+  upload_folder: false
+  file_provider_max_retry_backoff_per_api_call_ms: 30000
+  photos_check_apl_icloud_import: true
+  throttling_algorithm: TOKEN_BUCKET_THROTTLING
+  browser_auth_with_signup_wait_for_client_timeout_ms: 1200000
+  create_encrypted_editor_file: true
+  enable_internal_cello_metrics: true
+  max_feedback_payload_size: 209715200
+  always_send_feedback_unauthenticated: true
+  max_thumbnail_dimension: 768
+  enable_external_file_provider_volume: false
+  file_provider_posix_symlink_path_max_size: 1024
+  photos_feature_unsupported_soon: true
+  photos_feature_unsupported: false
+  enable_automatic_error_reporting: false
+  min_duration_seconds_wait_after_cores_startup_for_survey: 30
+  reset_content_cache_location: false
+  automatic_error_reporting_trigger_assert_ids: ""
+  min_duration_hours_between_automatic_error_reports: 720
+  casita_milestone: MILESTONE_UNSPECIFIED
+  collect_ms_office_meet_integration_metrics: false
+  restart_on_browser_request: true
+  casita_startup_prompt_for_opt_in: 0
+  casita_force_enable: false
+  compress_regular_log_files: false
+  purge_roots_for_disabled_accounts: true
+  structured_log_zip_logs: true
+  casita_add_more_folders_to_sync_url: "https://support.google.com/drive/?p=errorlist"
+  casita_faq_url: "https://support.google.com/drive?p=d4d_redesign_beta"
+  cse_guest_access_enabled: true
+  photos_deprecation_date: "2026-08-10"
+  photos_deprecation_soft_date: "2026-06-15"
+  file_provider_detect_remaining_domain_with_api_timeout_ms: 10000
+  read_only_corrupted_accounts: false
+  max_syncing_status_change_events_casita: 50
+  max_item_events_buffer_size_casita: 50
+  hide_inaccessible_inheritance_break_folders: true
+  file_provider_recover_preserved_domains: false
+  enable_mac_os_context_menu: true
+  enable_windows_tray_icon_context_menu: true
+  read_only_ransomware: false
+  manage_file_revisions_in_web: false
+  enable_casita_shared_drives_ui: false
+  win_dpi_aware_per_monitor: false
+  enable_casita_sign_out_flow: false
+  casita_hide_disconnect_for_loading_account: false
+  casita_rename_sign_out_button_to_disconnect_account: false
+  wipe_saves_pending_uploads: false
+  webview2_requirement_notification: WEBVIEW2_NOT_REQUIRED
+  webview2_requirement_url: "https://support.google.com/drive?p=d4d_webview2_rollout"
+  enable_ransomware_dialog: true
+  file_provider_support_string_search: false
+  decore_automatic_rollback: true
+  use_correct_size_option_for_put: true
+  curl_allows_user_provided_content_length: false
+  decore_separate_user_settings: true
+  account_manager_owns_credential: false
+  use_quit_when_idle_shutdown_behavior: false
+  account_manager_owns_authenticated_metrics: false
+  show_reveal_in_file_manager_option: false
+  decore_dark_launch_global_fetcher: true
+  decore_authoritative_global_fetcher: false
+  phenotype_sync_timeout_ms: 500
+  record_account_metrics_globally: false
+  file_provider_cse_target_id_scheme: false
+  use_win32_fibers: false
+  show_gemini_web_buttons: false
+}
+account {
+  thumbnails: true
+  deprecated: false
+  starred_virtual_folder: false
+  recent_virtual_folder: false
+  gcm_web_api_key: "AIzaSyDuIQNPdd-Sd_a5PvQzY_-63DCVK0n0jFc"
+  changelog_polling_interval_ms: 10000
+  metadata_cache_reset_counter: 8
+  push_notifications: true
+  spotlight: true
+  max_operation_batch_size: 15
+  resumable_upload_minimum_size_bytes: 104857600
+  max_changelog_result_size: 1000
+  lost_and_found: true
+  fetch_task_throttle_time_ms: 0
+  temporary_items_virtual_folder: true
+  fetch_task_backoff_start_ms: 2000
+  fetch_task_backoff_limit_ms: 600000
+  fetch_task_backoff_multiplier: 2
+  local_disk_aware_get_free_space: false
+  push_delay_ms: 0
+  max_parallel_background_cloud_queries: 3
+  max_query_page_size: 1000
+  structured_log_level: 3
+  relocatable_content_cache: false
+  max_indexer_parallel_cloud_queries: 1
+  content_cache_max_kbytes: 1000000000
+  min_local_free_space_for_writes: 512000
+  initial_content_cache_scan_delay_msec: 120000
+  fcm_token_ttl_secs: 604800
+  crash_on_failed_thread_checker_assert: true
+  allow_windows_system_user_access: false
+  max_parallel_downloads_per_file: 5
+  run_cloud_query_on_change_notification: false
+  stale_fetch_threshold_msec: 2500
+  two_level_folder_prefetch: false
+  max_parallel_push_task_instances: 15
+  emm_support: false
+  emm_max_start_up_delay_ms: 3000
+  emm_check_interval_ms: 10800000
+  min_duration_msec_between_evictions: 10000
+  min_parallel_second_level_cloud_queries: 1
+  emm_uri: "https://gem-pa.googleapis.com/v1/"
+  fetch_content_bytes_before_cancel_percent_multiplier: 500
+  min_bytes_saved_to_split_request: 9223372036854775807
+  opendir_timeout_ms: 0
+  supply_json_gdoc_content: false
+  content_cache_capacity_percentage: 20
+  async_dokan_reply_thread_count: 20
+  changelog_backup_poll_interval_ms: 11111000
+  dokan_dispatch_monitor_check_ms: 10000
+  dokan_dispatch_monitor_warn_ms: 60000
+  sqlite_normal_transaction_sync: true
+  sqlite_autocheckpoint_page_count: 1000
+  finder_process_names: "DesktopServicesHelper"
+  emm_secondary_identifier: false
+  crash_on_cello_assert: false
+  slow_operation_threshold_sec: 20
+  shortcuts_permission_denied_retry_interval_ms: 3600000
+  allow_subscription_task: true
+  resubscribe_retry_interval_msec: 14400000
+  content_cache_reset_evictable_files_counter: 0
+  dokan_slow_operations_per_minidump: 0
+  allowed_new_gdoc_file_name_pattern: ".*Google Docs.*\\.gdoc|.*Google Sheets.*\\.gsheet|.*Google Slides.*\\.gslides"
+  reset_zeroes_largest_change_id: false
+  reset_file_content_on_revert_flow: true
+  finder_create_file_handler_timeout_ms: 600000
+  content_cache_reset_pinned_counter: 0
+  dokan_assume_paging_io_is_locked: false
+  fuse_symlink_create_support: false
+  fuse_symlink_read_support: false
+  account_update_sec: 86400
+  test_value_0: 0
+  test_value_1: 0
+  test_value_2: 1
+  test_value_3: 0
+  test_value_4: 0
+  test_value_5: 0
+  test_value_6: 0
+  test_value_7: 0
+  test_value_8: 0
+  dokan_allow_optimistic_release: true
+  max_parallel_resumable_uploads: 1
+  fcm_stream_max_idle_secs: 60
+  fcm_connection_max_idle_secs: 60
+  dokan_driver_request_batching: true
+  handle_unauthorized_resumable_uploads: true
+  dokan_driver_full_batching: false
+  backoff_start_ms: 200
+  backoff_limit_ms: 120000
+  backoff_multiplier: 2
+  content_cache_capacity_heuristic: EXCLUDE_NONEVICTABLE
+  dokan_fcb_garbage_collection_interval_ms: 2000
+  photos_extensions: "jpg,jpeg,jpe,png,gif,heif,heic,tif,tiff,webp,bmp,dib,ico,jp2,j2c,jpf,j2k,jpx,dng,raw,arw,crw,cr2,cr3,dcr,dc2,erf,kc2,kdc,k25,mdc,mef,mos,mrw,nef,nrw,orf,pef,qtk,raf,rdc,rw2,srf,srw,sr2,x3f,3fr"
+  videos_extensions: "3g2,3gp,asf,avi,divx,flv,m2t,m2ts,m4v,mkv,mmv,mng,mod,mov,mp4,mpe,mpg,mpeg,mts,ogv,qt,tod,webm,wmv"
+  photos_api_uri: "https://photosdata-pa.googleapis.com/$rpc/social.frontend.photos.spork.v1.PhotosSporkDataService"
+  max_photo_size_bytes: 209715200
+  max_video_size_bytes: 10737418240
+  max_photo_size_pixels: 150000000
+  photos_upload_uri: "https://photos.googleapis.com/data/upload/uploadmedia/drivefs"
+  default_photos_upload_quality: ORIGINAL_QUALITY
+  max_photo_cacheable_size_bytes: 524288000
+  max_photo_total_cache_size_bytes: 1073741824
+  max_photo_cache_proportion_percentage: 20
+  photos_can_cache_files: true
+  photos_local_file_deleted_after_days: 30
+  restart_immediately_counter: 0
+  photos_max_upload_retries_offline: 3
+  prefetched_id_cache_reset_counter: 2
+  photos_debounce_edit_time_ms: 1800000
+  empty_file_with_open_handle_upload_delay_ms: 600000
+  photos_delete_warning_learn_more: ""
+  photos_too_large_learn_more: ""
+  photos_mac_known_package_extensions: ""
+  photos_catalog_sync_time_interval_ms: 900000
+  min_photo_size_pixels: 256
+  enable_photo_min_size_filtering: true
+  support_local_create_shared_drives: false
+  subscription_task_throttle_time_ms: 300000
+  subscription_task_max_operations: 50
+  virtual_folders_omit_spaces: false
+  emm_get_serial_via_wmi_on_windows: true
+  switchblade_dss_poll_interval_ms: 1800000
+  switchblade_dss_pin_limit: 10000
+  max_bytes_per_fetch_content_request: 268435456
+  max_read_qps: 30
+  max_write_qps: 30
+  fuse_max_background: 0
+  is_dasher_user: false
+  lookup_spam_detection_time_unit_ms: 1000
+  lookup_spam_detection_min_number_of_events: 100
+  lookup_spam_detection_duration_ms: 30000
+  open_spam_detection_time_unit_ms: 1000
+  open_spam_detection_min_number_of_events: 100
+  open_spam_detection_duration_ms: 600000
+  spam_cpu_observation_time_ms: 5000
+  raw_photos_extensions: ""
+  photos_sync_media_catalog_items_per_page: 500
+  photos_throttled_initial_backoff_ms: 1000
+  photos_throttled_backoff_limit_ms: 300000
+  photos_throttled_backoff_multiplier: 2
+  photos_throttled_max_retries: 20
+  photos_max_simultaneous_uploads: 3
+  photos_hq_charged_expectation: true
+  photos_mac_known_apl_extensions: ""
+  enable_cse: false
+  disable_sending_resource_keys: false
+  disable_security_update_enabled_cloud_change: true
+  g1_host_name: "one.google.com"
+  photos_error_list_retry_interval_ms: 86400000
+  folder_revisions_virtual_folder: false
+  folder_revisions_folder_days: 30
+  photos_extensions_to_ignore: "crdownload"
+  content_cache_initial_disk_scan_retry_limit: 10
+  photos_free_storage_retry_trigger_bytes: 104857600
+  emm_send_device_encryption_status: false
+  emm_send_device_screen_lock_status: false
+  dokan_disable_file_network_physical_name_info: true
+  file_provider_cache_reset_counter: 0
+  content_cache_entry_cache_implementation: ARC
+  crashing_assertion_ids: ""
+  enable_dynamic_list_changes_page_sizing: true
+  dynamic_page_sizing_min_page_size: 1
+  dynamic_page_sizing_min_capacity_reached_count: 5
+  dynamic_page_sizing_increase_frequency_threshold_ms: 600000
+  dynamic_page_sizing_decrease_frequency_threshold_ms: 300000
+  min_operation_batch_size: 2
+  enable_smb_spotlight_rpc: true
+  send_mtime_updates_to_drive: false
+  send_atime_updates_to_drive: false
+  smb_spotlight_rpc_finder_only: false
+  file_provider_auto_split_delta_size: 10
+  file_provider_list_batch_size_multiplier: 10
+  file_provider_update_batch_size_multiplier: 10
+  smb_unmount_with_diskutil: false
+  smb_retry_unmount_after_server_stop: true
+  dokan_pull_event_ahead: true
+  file_provider_disabled_notification: true
+  fcm_max_start_retries: -1
+  fcm_max_purge_retries: 5
+  fcm_poll_on_fatal_error: false
+  fcm_connect_retry_interval_ms: -1
+  show_lost_and_found_at_start: true
+  fcm_credentials_generation: 0
+  test_bool: false
+  test_int: 3
+  test_double: 3.4
+  test_string: "default test string value"
+  file_provider_disabled_learn_more_url: "https://support.google.com/drive/answer/12178485"
+  file_provider_migration_learn_more_url: "https://support.google.com/drive/answer/12178485"
+  file_provider_evict_on_content_change: false
+  smb_ignore_patterns: "\\.sb-[0-9a-zA-Z]+-[0-9a-zA-Z]+"
+  file_provider_cache_reset_non_owned_counter: 0
+  file_provider_activation_max_retry_backoff_duration_ms: 180000
+  file_provider_retry_on_wait_for_domain_init_failure: true
+  detailed_metric_for_subscription_request: false
+  smb_spotlight_page_size: 25
+  smb_spotlight_max_results: 0
+  smb_spotlight_name_criteria_enabled: true
+  smb_spotlight_content_criteria_enabled: true
+  smb_spotlight_content_type_criteria_enabled: true
+  new_drive_fs_download_url: "https://www.google.com/drive/download"
+  file_provider_content_cache_reset_gdoc_counter: 1
+  set_fcm_token_server_ttl: false
+  ignore_download_modify_during_initial_content_upload_if_cloud_and_local_content_match: true
+  ignore_item_in_delete_changelog: false
+  file_provider_vfs_based_fetch: false
+  file_provider_delete_directory_hierarchy_batch_size: 2000
+  file_provider_missing_symlink_target_resolver_max_batch_size: 100
+  file_provider_delete_hidden_items_in_temp_counter: 0
+  file_provider_cleanup_empty_temp_descendants: false
+  copying_to_lost_and_found_backoff_start_ms: 0
+  copying_to_lost_and_found_backoff_limit_ms: 0
+  copying_to_lost_and_found_backoff_multiplier: 0
+  file_provider_admin_enabled_check: false
+  file_provider_working_set_compact_check_debounce_sec: 60
+  file_provider_working_set_wal_sql_reset_ratio_size: 2
+  file_provider_create_ignore_pattern: ".*\\.crdownload"
+  file_provider_use_content_policy: false
+  file_provider_delegate_pinned_download: false
+  file_provider_cache_reset_pinned_counter: 0
+  file_provider_migration_batch_size: 100
+  open_operation_sampling_rate: 100
+  file_provider_on_reconnect_kill_fp_daemon: false
+  file_provider_on_remove_domain_remove_fav_lost_and_found: true
+  max_unmount_time_sec: 120
+  file_provider_remove_unknown_mount_conflict_domains: true
+  photos_enable_hash_integrity_check: true
+  file_provider_delete_unknown_trashed_items_counter: 1
+  file_provider_lazily_keep_suggestions_content_updated: true
+  use_lost_and_found_manager: false
+  file_provider_restart_on_domain_unexpectedly_removed: true
+  file_provider_get_metadata_remove_no_longer_existing_items: true
+  file_provider_working_set_wal_sql_max_size: 104857600
+  max_shared_drives_to_sync: 25
+  enable_cache_size_limit_account_preference: true
+  have_defaulted_flags: false
+  file_provider_delete_placeholder_reimport_counter: 1
+  file_provider_get_metadata_retrieve_cloud_items_from_ws: false
+  file_provider_materialized_folders_counter: 0
+  vfs_support_json_web_files_fetch: false
+  file_provider_fail_reimport_redirect_my_drive: false
+  file_provider_fail_non_reimport_redirect_my_drive: false
+  file_provider_delete_multi_parenting_counter: 1
+  file_provider_vfs_based_change: false
+  file_provider_check_change_replays_eligibility: true
+  apply_moves_to_delete_tree: true
+  generate_conflicting_deletes_before_parent_creates: false
+  abort_and_restart_for_conflicting_deletes: true
+  file_provider_cache_reset_shared_drives_counter: 0
+  file_provider_fix_missing_change_replays: false
+  signout_backup_behavior: SIGNOUT_DISABLE_PURGE
+  file_provider_enable_replay_items_changes_batch: true
+  file_provider_max_concurrent_replay_changes: 100
+  file_provider_retry_transient_failed_change_replay: true
+  use_contacts_from_people_api: false
+  customize_pending_uploads: true
+  prompt_signout_for_inconsistent_local_state: true
+  prompt_signout_interval_hours: 24
+  signout_backup_behavior_for_lost_and_found: true
+  test_boolean_flag: false
+  test_string_flag: "GCL default test string value"
+  detect_other_sync_app_in_mirror_root: true
+  mirror_windows_ensure_mtime_accuracy: false
+  send_error_report_at_startup: false
+  min_duration_hours_between_error_reports_sent_at_startup: 24
+  enable_stale_upsync_notifications: true
+  stale_upsync_threshold_hours: 168
+  differential_uploads: true
+  diff_uploads_min_size_bytes: 10485760
+  diff_uploads_max_size_bytes: 0
+  diff_uploads_min_chunk_size_bytes: 0
+  diff_uploads_max_chunk_size_bytes: 0
+  generate_uploads_for_local_items_in_inconsistent_state: true
+  win_arm64_platform_deprecated: ARM64_SUPPORTED
+  win_arm64_platform_deprecated_url: "https://support.google.com/drive?p=arm64-beta"
+  enable_resumable_uploads: false
+  diff_uploads_min_bytes_saved: 0
+  forwarded_request_for_diffing_size_limit: 10240
+  enable_aggressive_differ_logging: false
+  file_provider_support_long_utf8_names: false
+  file_provider_cache_resetter_max_retry_ms: 0
+  file_provider_wait_for_cloud_create_completion: false
+  cloud_store_retry_count: 1
+  file_provider_recover_cello_non_longer_known_parents: false
+  file_provider_remove_hierarchies_on_folder_deletion: false
+  poll_for_changes_debounce_interval_ms: 0
+  attach_external_content_local_property_to_items_being_synced: false
+  file_provider_working_set_skip_equal_items_update: false
+  max_parallel_uploads_count: 16
+  enable_unsynced_shared_drives: false
+  file_provider_enable_external_content_transfers: false
+  file_provider_recover_cello_non_longer_known_folders_change: false
+  file_provider_temp_folders_reset_counter: 0
+  file_provider_link_mdcr_with_cache_reset: false
+  query_by_id_failure_invalidate_cache_enabled: true
+  local_store_vacuum_enabled: true
+  accept_language_header_for_account_disabled: false
+  file_provider_check_cello_db_inode: false
+  punctual_gracefully_retries: true
+  file_provider_pending_upload_read_retry_duration_ms: 300000
+  static_reflection_equals: false
+  file_provider_string_search_expiration_time_ms: 300000
+  file_provider_prevent_get_metadata_symlink_group_corruption: false
+  item_field_checker_enabled: false
+  move_old_lost_and_found_folder_under_new: false
+  uploads_enabled: false
+  uploads_failover_disabled: false
+  revision_get_dark_launch_enabled: true
+  revision_get_full_launch_enabled: true
+  trigger_unsynced_property_clear_on_startup: false
+  use_dedicated_simple_transport: true
+  mdcr_after_cello_init: true
+  file_provider_deny_gdrive_extension_rename: false
+  suggest_unsync_shared_drives: false
+  remove_root_when_cloud_move_causes_local_nesting_conflict: false
+  uploads_diffing_header_enabled: true
+  shared_drive_stats_days_tracked: 3
+  shared_drive_stats_z_score_threshold: 2.5
+  generate_cse_dark_launch_enabled: false
+  generate_cse_launch_enabled: false
+  cancel_trashed_downloads_on_close_enabled: false
+  cloud_untrash_triggers_redownload: false
+  bypass_page_limit_on_reconnect: true
+  check_shared_drive_accessibility_before_subscribing: true
+  http308_means_retryable_error: true
+  shared_drive_outlier_change_replay_count_threshold: 500
+  enable_fetch_thumbnail_handler: true
+  enable_unpin_on_trash: false
+  stop_double_writing_user_id: false
+  record_changelog_relevance: true
+  enable_observation_node_filtering_for_disconnected_roots: false
+  dokan_dispatch_monitor_warning_minidump_percentage: 1
+}
+admin_settings {
+  can_use_fs_presence: true
+  show_fs_download: true
+  can_use_photos: true
+  can_use_mirror: true
+  can_use_slurp: true
+  can_mirror_my_drive: true
+}
+security_settings {
+  is_cse_enabled: false
+  is_cse_create_enabled: false
+  is_cse_on_by_default: false
+}
+enterprise_settings {
+  is_dasher_admin: false
+  is_dasher_user: false
+  can_access_admin_console: false
+}
+}
+2026-08-09T19:21:57.139ZI [3:drivefs] core.cc:1252:operator() Requesting safe restart due to feature config change
+2026-08-09T19:21:57.157ZI [3:drivefs] core.cc:450:operator() InitInternalSync completed with status UNKNOWN: From legacy status [type.googleapis.com/drive.ds.Status='FEATURE_CONFIG_CHANGED']
+=== Source Location Trace: === 
+apps/drive/fs/core/core.cc:1256
+apps/drive/fs/core/core.cc:852
+
+2026-08-09T19:21:57.157ZE [3:drivefs] core.cc:495:operator() Failed to start with status UNKNOWN: From legacy status [type.googleapis.com/drive.ds.Status='FEATURE_CONFIG_CHANGED']
+=== Source Location Trace: === 
+apps/drive/fs/core/core.cc:1256
+apps/drive/fs/core/core.cc:852
+. Unmounting with 1
+2026-08-09T19:21:57.157ZI [3:drivefs] stream.cc:251:LogAndPerformUnmount Unmounting with cleanup: kNormal
+2026-08-09T19:21:57.157ZI [3:drivefs] fuse_bridge.cc:1365:Unmount Ignoring unmount request made while one is already pending.
+2026-08-09T19:21:57.157ZE [3:drivefs] core.cc:601:MaybeUpdateReturnCode Terminating with error: 1
+2026-08-09T19:21:57.157ZE [3:drivefs] chromeos_core_client.cc:1342:operator() Failed to start core for account: UNKNOWN: From legacy status [type.googleapis.com/drive.ds.Status='FEATURE_CONFIG_CHANGED']
+=== Source Location Trace: === 
+apps/drive/fs/core/core.cc:1256
+apps/drive/fs/core/core.cc:852
+
+2026-08-09T19:21:57.158ZI [3:drivefs] drivefs_controller.cc:403:StopDriveFs DriveFs core is being stopped.
+2026-08-09T19:21:57.158ZI [3:drivefs] stream.cc:251:LogAndPerformUnmount Unmounting with cleanup: kNormal
+2026-08-09T19:21:57.158ZI [3:drivefs] fuse_bridge.cc:1365:Unmount Ignoring unmount request made while one is already pending.
+2026-08-09T19:21:57.159ZE [3:drivefs] core.cc:596:MaybeUpdateReturnCode Received request to terminate with 0 but a failure exit code of 1 was already recorded earlier
+2026-08-09T19:21:57.159ZE [3:drivefs] core.cc:601:MaybeUpdateReturnCode Terminating with error: 1
+2026-08-09T19:21:57.159ZI [3:drivefs] chromeos_core_client.cc:2313:UpdateAppReturnCode Updating App return code 0 with Core return code 1
+2026-08-09T19:21:57.159ZI [3:drivefs] drivefs_controller.cc:377:OnCoreStopped DriveFs shutdown completed with code 17.
+2026-08-09T19:21:57.159ZI [37:trace_writer_thread] instrumentation.cc:677:operator() Writing Chrome Trace to /home/chronos/u-865d61a95016778f5a8ccab6cc197fd5bbdd6bd4/GCache/v2/60feddfb695155109e3a933ce5c96035/Logs/startup_trace_2026-08-09T19_21_57.json
